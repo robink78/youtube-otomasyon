@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Two Trucks Collided Inside a 17-Kilometre Tunnel",
+  "kaynaklar": [
+    {
+      "ad": "gotthard-tunnel-fire-1.jpg",
+      "wikimedia": "Monumento in memoria delle vittime del incidente del 24 ottobre 2001 (Airolo) 01.jpg"
+    },
+    {
+      "ad": "gotthard-tunnel-fire-2.jpg",
+      "wikimedia": "Monumento in memoria delle vittime del incidente del 24 ottobre 2001 (Airolo) 02.jpg"
+    },
+    {
+      "ad": "gotthard-tunnel-fire-3.jpg",
+      "wikimedia": "Gotthard Road Tunnel Switzerland.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two trucks collided head-on deep inside the Gotthard road tunnel.",
+      "kaynak": "Footage/gotthard-tunnel-fire-1.jpg"
+    },
+    {
+      "metin": "Fire and smoke spread through the tunnel, and eleven people died.",
+      "kaynak": "Footage/gotthard-tunnel-fire-2.jpg"
+    },
+    {
+      "metin": "The tunnel carries traffic both ways in one tube.",
+      "kaynak": "Footage/gotthard-tunnel-fire-3.jpg"
+    },
+    {
+      "metin": "The crash set the trucks on fire.",
+      "kaynak": "Footage/gotthard-tunnel-fire-1.jpg"
+    },
+    {
+      "metin": "Thick smoke spread faster than people could walk out.",
+      "kaynak": "Footage/gotthard-tunnel-fire-2.jpg"
+    },
+    {
+      "metin": "Heat caused part of the ceiling to collapse.",
+      "kaynak": "Footage/gotthard-tunnel-fire-3.jpg"
+    },
+    {
+      "metin": "Rescue teams struggled to reach the fire.",
+      "kaynak": "Footage/gotthard-tunnel-fire-1.jpg"
+    },
+    {
+      "metin": "Switzerland introduced spacing rules for trucks in the tunnel.",
+      "kaynak": "Footage/gotthard-tunnel-fire-2.jpg"
+    }
+  ],
+  "aciklama": "Gotthard tunnel fire filled with fire and smoke after a truck collision. The cause: vehicle fire in a long bidirectional tunnel producing smoke faster than people could escape.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Gotthard tunnel fire",
+    "2001",
+    "road tunnel",
+    "engineering failure"
+  ],
+  "hook": "Smoke filled the tunnel",
+  "soru": "One tube or two?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Gotthard Road Tunnel",
+    "kisa": "Gotthard tunnel fire",
+    "nesne": "Road tunnel",
+    "yil": 2001,
+    "sonuc": "filled with fire and smoke after a truck collision",
+    "tetik": "two trucks colliding head-on inside the tunnel",
+    "mekanizma": "vehicle fire in a long bidirectional tunnel producing smoke faster than people could escape",
+    "sayi": "11 DIED",
+    "ders": "Switzerland introduced truck spacing rules for the tunnel",
+    "zincir": [
+      "BIDIRECTIONAL TRAFFIC",
+      "TRUCKS COLLIDE",
+      "FIRE STARTS",
+      "SMOKE FILLS TUNNEL",
+      "CEILING COLLAPSES IN HEAT"
+    ],
+    "zaman": [],
+    "yanilgi": "Most victims weren't burned. Smoke overtook them as they tried to escape.",
+    "tartisma": "Two-way traffic shares one tube. Should every long tunnel have two?",
+    "basliklar": [
+      "Two Trucks Collided Inside a 17-Kilometre Tunnel",
+      "Why the Gotthard Tunnel Fire Was So Deadly",
+      "The Truck Collision Deep Inside the Alps"
+    ],
+    "kapak": [
+      "TUNNEL FIRE",
+      "11 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Gotthard Road Tunnel",
+        "url": "https://en.wikipedia.org/wiki/Gotthard_Road_Tunnel"
+      },
+      {
+        "ad": "Government source — index.html?lang=en (cited by Wikipedia)",
+        "url": "http://www.astra.admin.ch/themen/nationalstrassen/07073/07074/index.html?lang=en"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-12",
+    "wiki": "Gotthard_Road_Tunnel",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Monumento in memoria delle vittime del incidente del 24 ottobre 2001 (Airolo) 01.jpg [CC BY 4.0]",
+      "Monumento in memoria delle vittime del incidente del 24 ottobre 2001 (Airolo) 02.jpg [CC BY 4.0]",
+      "Gotthard Road Tunnel Switzerland.jpg [CC BY 3.0]"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "Workers Were Sent Back Into a Cracked Building",
+  "kaynaklar": [
+    {
+      "ad": "rana-plaza-1.jpg",
+      "wikimedia": "Helping Khaleda, one of the survivors of Rana Plaza (14008308964).jpg"
+    },
+    {
+      "ad": "rana-plaza-2.jpg",
+      "wikimedia": "2013 savar building collapse02.jpg"
+    },
+    {
+      "ad": "rana-plaza-3.jpg",
+      "wikimedia": "2013 savar building collapse - missing photos 01.jpg"
+    },
+    {
+      "ad": "rana-plaza-4.jpg",
+      "wikimedia": "2013 savar building collapse - survivor.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An eight-storey building near Dhaka collapsed during the morning shift.",
+      "kaynak": "Footage/rana-plaza-1.jpg"
+    },
+    {
+      "metin": "It crushed thousands of garment workers, and one thousand one hundred thirty four died.",
+      "kaynak": "Footage/rana-plaza-2.jpg"
+    },
+    {
+      "metin": "Cracks had appeared the day before.",
+      "kaynak": "Footage/rana-plaza-3.jpg"
+    },
+    {
+      "metin": "Shops on the ground floor closed.",
+      "kaynak": "Footage/rana-plaza-4.jpg"
+    },
+    {
+      "metin": "But garment workers were ordered back in.",
+      "kaynak": "Footage/rana-plaza-1.jpg"
+    },
+    {
+      "metin": "The building had extra floors added illegally and stood on weak ground.",
+      "kaynak": "Footage/rana-plaza-2.jpg"
+    },
+    {
+      "metin": "Heavy generators shook the structure when the power cut out.",
+      "kaynak": "Footage/rana-plaza-3.jpg"
+    },
+    {
+      "metin": "Independent factory inspections followed across Bangladesh.",
+      "kaynak": "Footage/rana-plaza-4.jpg"
+    }
+  ],
+  "aciklama": "Rana Plaza collapsed with garment workers inside. The cause: overloaded structure with illegal floors, heavy machinery and generators on weak ground.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Rana Plaza",
+    "2013",
+    "building",
+    "engineering failure"
+  ],
+  "hook": "They were sent back in",
+  "soru": "Who is responsible?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "Rana Plaza",
+    "kisa": "Rana Plaza",
+    "nesne": "Building",
+    "yil": 2013,
+    "sonuc": "collapsed with garment workers inside",
+    "tetik": "cracks ignored the day before",
+    "mekanizma": "overloaded structure with illegal floors, heavy machinery and generators on weak ground",
+    "sayi": "1,134 DIED",
+    "ders": "factory safety agreements brought independent building inspections to Bangladesh",
+    "zincir": [
+      "BUILT ON A FILLED POND",
+      "EXTRA FLOORS ADDED ILLEGALLY",
+      "HEAVY GENERATORS ON TOP FLOORS",
+      "CRACKS APPEAR",
+      "WORKERS SENT BACK; COLLAPSE"
+    ],
+    "zaman": [],
+    "yanilgi": "The cracks were seen the day before. Shops downstairs closed, but garment workers were ordered back in.",
+    "tartisma": "Global brands sourced clothes from the building. How far does responsibility extend in a supply chain?",
+    "basliklar": [
+      "Workers Were Sent Back Into a Cracked Building",
+      "Why Rana Plaza Collapsed",
+      "The Cracks That Were Ignored"
+    ],
+    "kapak": [
+      "IGNORED CRACKS",
+      "1,134 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Rana Plaza collapse",
+        "url": "https://en.wikipedia.org/wiki/Rana_Plaza_collapse"
+      },
+      {
+        "ad": "Government source — PMC6651472 (cited by Wikipedia)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6651472"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "Rana_Plaza_collapse",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Helping Khaleda, one of the survivors of Rana Plaza (14008308964).jpg [CC BY 2.0]",
+      "2013 savar building collapse02.jpg [CC BY 2.5]",
+      "2013 savar building collapse - missing photos 01.jpg [CC BY 2.5]",
+      "2013 savar building collapse - survivor.jpg [CC BY 2.5]"
+    ]
+  }
+}

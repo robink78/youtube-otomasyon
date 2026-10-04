@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Hidden Flaw in an Engine Hub Exploded on Take-off",
+  "kaynaklar": [
+    {
+      "ad": "delta-1288-1.jpg",
+      "wikimedia": "Aerial view showing damage to left fuselage and left engine of Delta Air Lines Flight 1288.jpg"
+    },
+    {
+      "ad": "delta-1288-2.jpg",
+      "wikimedia": "Delta Air Lines Flight 1288 on runway 17 after coming to a stop.jpg"
+    },
+    {
+      "ad": "delta-1288-3.jpg",
+      "wikimedia": "Delta Airlines Flight 1288 after accident.jpg"
+    },
+    {
+      "ad": "delta-1288-4.png",
+      "wikimedia": "Delta1288MD88Map.PNG"
+    },
+    {
+      "ad": "delta-1288-5.jpg",
+      "wikimedia": "N927DA left fuselage and engine damage.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During take-off in Pensacola, an MD-88's left engine burst apart.",
+      "kaynak": "Footage/delta-1288-1.jpg"
+    },
+    {
+      "metin": "Suddenly debris tore into the cabin and killed two passengers.",
+      "kaynak": "Footage/delta-1288-2.jpg"
+    },
+    {
+      "metin": "The pilot aborted the take-off.",
+      "kaynak": "Footage/delta-1288-3.jpg"
+    },
+    {
+      "metin": "Part of the fan hub had fractured.",
+      "kaynak": "Footage/delta-1288-4.png"
+    },
+    {
+      "metin": "The flaw had been created during manufacture.",
+      "kaynak": "Footage/delta-1288-5.jpg"
+    },
+    {
+      "metin": "A crack grew from it over time.",
+      "kaynak": "Footage/delta-1288-1.jpg"
+    },
+    {
+      "metin": "The airline's inspection didn't spot it.",
+      "kaynak": "Footage/delta-1288-2.jpg"
+    },
+    {
+      "metin": "Engine inspection methods were tightened.",
+      "kaynak": "Footage/delta-1288-3.jpg"
+    }
+  ],
+  "aciklama": "Delta 1288 had its engine burst during take-off. The cause: an uncontained engine failure sending hub debris into the cabin.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Delta 1288",
+    "1996",
+    "fan hub",
+    "engineering failure"
+  ],
+  "hook": "The engine exploded on the runway",
+  "soru": "How do you find flaws inside metal?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "Delta Air Lines Flight 1288",
+    "kisa": "Delta 1288",
+    "nesne": "Fan hub",
+    "yil": 1996,
+    "sonuc": "had its engine burst during take-off",
+    "tetik": "a manufacturing flaw in the engine's fan hub",
+    "mekanizma": "an uncontained engine failure sending hub debris into the cabin",
+    "sayi": "UNCONTAINED",
+    "ders": "engine manufacturing and inspection methods were tightened",
+    "zincir": [
+      "FLAW MADE IN MANUFACTURE",
+      "CRACK GROWS",
+      "MISSED IN INSPECTION",
+      "HUB FRACTURES",
+      "DEBRIS ENTERS CABIN"
+    ],
+    "zaman": [],
+    "yanilgi": "The engine wasn't worn out. The flaw was created when the part was made.",
+    "tartisma": "The airline's inspection missed the crack. How do you find flaws inside metal?",
+    "basliklar": [
+      "A Hidden Flaw in an Engine Hub Exploded on Take-off",
+      "Why Delta Flight 1288's Engine Exploded",
+      "The Flaw Inside an Engine Hub"
+    ],
+    "kapak": [
+      "HIDDEN FLAW",
+      "UNCONTAINED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Delta Air Lines Flight 1288",
+        "url": "https://en.wikipedia.org/wiki/Delta_Air_Lines_Flight_1288"
+      },
+      {
+        "ad": "NTSB — AAR9801 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR9801.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-18",
+    "wiki": "Delta_Air_Lines_Flight_1288",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Aerial view showing damage to left fuselage and left engine of Delta Air Lines Flight 1288.jpg [Public domain]",
+      "Delta Air Lines Flight 1288 on runway 17 after coming to a stop.jpg [Public domain]",
+      "Delta Airlines Flight 1288 after accident.jpg [Public domain]",
+      "Delta1288MD88Map.PNG [Public domain]",
+      "N927DA left fuselage and engine damage.jpg [Public domain]"
+    ]
+  }
+}

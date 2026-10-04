@@ -1,0 +1,65 @@
+{
+  "slug": "deepwater-horizon-2010",
+  "asama": "final",
+  "format": "short",
+  "karar": "PUBLISH",
+  "toplam": 94,
+  "esikler": {
+    "publish": 85,
+    "review": 70
+  },
+  "engelleyen": [],
+  "bilesenler": {
+    "title": {
+      "puan": 68,
+      "notlar": [
+        "\"Deepwater Horizon: The Test Result Nobody Believed\" (engine 53.8)"
+      ]
+    },
+    "thumbnail": {
+      "puan": 100,
+      "notlar": []
+    },
+    "hook": {
+      "puan": 100,
+      "notlar": []
+    },
+    "script": {
+      "puan": 100,
+      "notlar": []
+    },
+    "originality": {
+      "puan": 80,
+      "notlar": []
+    },
+    "visual": {
+      "puan": 100,
+      "notlar": [],
+      "olcum": {
+        "w": 1080,
+        "h": 1920,
+        "sure": 26.1,
+        "ses": true
+      },
+      "kritik": null
+    },
+    "engineering": {
+      "puan": 100,
+      "notlar": []
+    },
+    "source": {
+      "puan": 100,
+      "notlar": []
+    },
+    "audio": {
+      "puan": 100,
+      "notlar": [],
+      "olcum": {
+        "I": -15.41,
+        "TP": -1.28,
+        "sessiz": 0
+      }
+    }
+  },
+  "tarih": "2026-09-27T12:31:05.636Z"
+}

@@ -1,0 +1,1500 @@
+{
+  "channel": "impossible-brief",
+  "records": [
+    {
+      "slug": "what-if-you-stood-in-neptunes-winds",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Stood in Neptune's Winds?",
+      "hook": "Why Neptune's winds reach 2,100 kilometres per hour.",
+      "openingLine": "Why Neptune's winds reach 2,100 kilometres per hour.",
+      "secondBeat": "They're the strongest sustained winds of any planet.",
+      "scientificMechanism": "Neptune's deep atmosphere and internal heat drive the fastest sustained winds of any planet",
+      "scenarioChange": "a visitor faced Neptune's cloud-top winds",
+      "expectedConsequence": "winds several times faster than Earth's strongest hurricanes, at −218 °C",
+      "coreQuestion": "If you stood in Neptune's winds, how fast would they blow?",
+      "misconception": "The fastest winds aren't on the planets nearest the Sun; they're on distant, frigid Neptune.",
+      "number": "2,100 km/h",
+      "thumbnailText": "2,100 KM/H WINDS",
+      "visualScenes": [
+        "Neptune's blue cloud bands",
+        "wind speed comparison with hurricanes",
+        "Great Dark Spot from Voyager 2",
+        "temperature scale to −218 °C",
+        "orbit taking 164.8 years",
+        "internal heat diagram"
+      ],
+      "editorialTitles": [
+        "The Fastest Winds in the Solar System",
+        "Why Frozen Neptune Has Supersonic Winds"
+      ],
+      "facts": [
+        {
+          "claim": "These weather patterns are driven by the strongest sustained winds of any planet in the Solar System, as high as 2,100 km/h (580 m/s; 1,300 mph).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neptune",
+          "url": "https://en.wikipedia.org/wiki/Neptune"
+        },
+        {
+          "claim": "Neptune's outer atmosphere is one of the coldest places in the Solar System, with temperatures at its cloud tops approaching 55 K (−218 °C).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neptune",
+          "url": "https://en.wikipedia.org/wiki/Neptune"
+        },
+        {
+          "claim": "Neptune orbits the Sun once every 164.8 years at an orbital distance of 30.1 astronomical units (4.5 billion kilometres).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neptune",
+          "url": "https://en.wikipedia.org/wiki/Neptune"
+        },
+        {
+          "claim": "At the time of the Voyager 2 flyby in 1989, the planet's southern hemisphere had a Great Dark Spot comparable to the Great Red Spot on Jupiter.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neptune",
+          "url": "https://en.wikipedia.org/wiki/Neptune"
+        },
+        {
+          "claim": "Temperatures at the planet's centre are approximately 5,400 K (5,100 °C).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neptune",
+          "url": "https://en.wikipedia.org/wiki/Neptune"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Neptune's winds reach 2,100 kilometres per hour.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "They're the strongest sustained winds of any planet.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Yet its cloud tops sit near −218 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its centre is about 5,400 kelvin, driving the weather.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 1989, Voyager 2 saw a Great Dark Spot there.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "One Neptune year lasts 164.8 Earth years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Standing in those winds, nothing on Earth could hold you.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the coldest planets can have the wildest weather.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-flew-through-enceladuss-geysers",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Flew Through Enceladus's Geysers?",
+      "hook": "Why a 500-kilometre moon sprays over 100 geysers.",
+      "openingLine": "Why a 500-kilometre moon sprays over 100 geysers.",
+      "secondBeat": "Enceladus hides a liquid ocean under its ice.",
+      "scientificMechanism": "tidal heating keeps a subsurface ocean liquid, and water escapes through cracks at the south pole",
+      "scenarioChange": "a spacecraft sampled Enceladus's plumes",
+      "expectedConsequence": "direct samples of an ocean hidden under ice",
+      "coreQuestion": "If you flew through Enceladus's geysers, what would you find in the spray?",
+      "misconception": "Small icy moons aren't necessarily dead; Enceladus sprays its hidden ocean into space.",
+      "number": "100+ geysers",
+      "thumbnailText": "GEYSERS IN SPACE",
+      "visualScenes": [
+        "plumes erupting from the south pole",
+        "cutaway of ice shell and ocean",
+        "Cassini flying through a plume",
+        "size comparison with Titan",
+        "tiger stripe fractures",
+        "Saturn's E ring fed by plumes"
+      ],
+      "editorialTitles": [
+        "The Moon That Sprays Its Ocean Into Space",
+        "What Cassini Found in Enceladus's Geysers"
+      ],
+      "facts": [
+        {
+          "claim": "More than 100 geysers have been identified.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Enceladus",
+          "url": "https://en.wikipedia.org/wiki/Enceladus"
+        },
+        {
+          "claim": "In 2014, NASA reported that Cassini had found evidence for a large south polar subsurface ocean of liquid water with a thickness of around 10 km (6 mi).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Enceladus",
+          "url": "https://en.wikipedia.org/wiki/Enceladus"
+        },
+        {
+          "claim": "It is about 500 kilometres (310 miles) in diameter, about a tenth of that of Saturn's largest moon, Titan.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Enceladus",
+          "url": "https://en.wikipedia.org/wiki/Enceladus"
+        },
+        {
+          "claim": "Enceladus was discovered on August 28, 1789, by William Herschel, but little was known about it until the two Voyager spacecraft flew by Saturn in 1980 and 1981.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Enceladus",
+          "url": "https://en.wikipedia.org/wiki/Enceladus"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a 500-kilometre moon sprays over 100 geysers.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Enceladus hides a liquid ocean under its ice.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "In 2014, Cassini found evidence of it near the south pole.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That ocean may be about 10 kilometres thick.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Saturn's tides keep flexing the moon, holding the water liquid.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Flying through a plume means sampling that ocean directly.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the easiest alien ocean to study sprays itself into space.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-lived-on-proxima-b",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If We Lived on Proxima b?",
+      "hook": "Why a year on Proxima b lasts 11 days.",
+      "openingLine": "Why a year on Proxima b lasts 11 days.",
+      "secondBeat": "It hugs a dim red dwarf, 4.2 light-years away.",
+      "scientificMechanism": "a planet in the habitable zone of a dim red dwarf must orbit very close, completing a year in days",
+      "scenarioChange": "people settled on Proxima Centauri b",
+      "expectedConsequence": "an 11-day year under a red sun, if the planet held onto air and water",
+      "coreQuestion": "If we lived on Proxima b, what would a year and a sunrise be like?",
+      "misconception": "The nearest known exoplanet isn't Earth 2.0; almost everything about it is still uncertain.",
+      "number": "4.2 light-years",
+      "thumbnailText": "AN 11-DAY YEAR",
+      "visualScenes": [
+        "red dwarf star over a rocky planet",
+        "orbit comparison with Mercury",
+        "distance scale 4.2 light-years",
+        "flare erupting from the star",
+        "habitable zone diagram",
+        "Alpha Centauri triple system"
+      ],
+      "editorialTitles": [
+        "What Life on the Nearest Exoplanet Would Be Like",
+        "Why Proxima b Has an 11-Day Year"
+      ],
+      "facts": [
+        {
+          "claim": "The host star is the closest star to the Sun, at a distance of about 4.2 light-years (1.3 parsecs) from Earth, and is part of the larger triple star system Alpha Centauri.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Proxima Centauri b",
+          "url": "https://en.wikipedia.org/wiki/Proxima_Centauri_b"
+        },
+        {
+          "claim": "It orbits Proxima Centauri every 11.185 Earth days at a distance of about 0.048 AU, over 20 times closer to Proxima Centauri than Earth is to the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Proxima Centauri b",
+          "url": "https://en.wikipedia.org/wiki/Proxima_Centauri_b"
+        },
+        {
+          "claim": "It is probably a terrestrial planet with a minimum mass of 1.06 M🜨 and a slightly larger radius than that of Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Proxima Centauri b",
+          "url": "https://en.wikipedia.org/wiki/Proxima_Centauri_b"
+        },
+        {
+          "claim": "About 20–40% of all red dwarfs have one planet in the habitable zone.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Proxima Centauri b",
+          "url": "https://en.wikipedia.org/wiki/Proxima_Centauri_b"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a year on Proxima b lasts 11 days.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It hugs a dim red dwarf, 4.2 light-years away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It orbits over 20 times closer than Earth does to the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It's at least 1.06 times Earth's mass.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its red sun would look larger but far dimmer than ours.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Whether it keeps air and water is still unknown.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Up to 40% of red dwarfs may host planets like it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the nearest new world is close, and still a mystery.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-pluto-were-still-a-planet",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If Pluto Were Still a Planet?",
+      "hook": "Why Pluto lost its planet status in 2006.",
+      "openingLine": "Why Pluto lost its planet status in 2006.",
+      "secondBeat": "The discovery of Eris in 2005 forced the question.",
+      "scientificMechanism": "the 2006 planet definition requires clearing an orbit, which Pluto has not done in the Kuiper belt",
+      "scenarioChange": "Pluto kept its planet status",
+      "expectedConsequence": "dozens of similar Kuiper belt worlds would also need to count",
+      "coreQuestion": "If Pluto were still a planet, how many planets would we have?",
+      "misconception": "Pluto wasn't demoted for being small; it doesn't clear its orbit.",
+      "number": "5.5 light-hours",
+      "thumbnailText": "PLUTO DEMOTED",
+      "visualScenes": [
+        "Pluto's heart from New Horizons",
+        "Kuiper belt map",
+        "Eris discovery 2005",
+        "IAU vote 2006",
+        "orbit range 30 to 49 AU",
+        "sunlight travel time to Pluto"
+      ],
+      "editorialTitles": [
+        "Why Pluto Stopped Being a Planet",
+        "What If Pluto Were Still a Planet"
+      ],
+      "facts": [
+        {
+          "claim": "In 2006, the International Astronomical Union (IAU) formally redefined the term planet to exclude dwarf planets such as Pluto.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pluto",
+          "url": "https://en.wikipedia.org/wiki/Pluto"
+        },
+        {
+          "claim": "Doubts increased following the discovery of additional objects in the Kuiper belt starting in the 1990s, particularly the more massive scattered disk object Eris in 2005.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pluto",
+          "url": "https://en.wikipedia.org/wiki/Pluto"
+        },
+        {
+          "claim": "Light from the Sun takes 5.5 hours to reach Pluto at its orbital distance of 39.5 AU (5.91 billion km).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pluto",
+          "url": "https://en.wikipedia.org/wiki/Pluto"
+        },
+        {
+          "claim": "New Horizons was the first spacecraft to visit Pluto and its moons, making a flyby on July 14, 2015.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pluto",
+          "url": "https://en.wikipedia.org/wiki/Pluto"
+        },
+        {
+          "claim": "Pluto has a moderately eccentric and inclined orbit, ranging from 30 to 49 astronomical units from the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pluto",
+          "url": "https://en.wikipedia.org/wiki/Pluto"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Pluto lost its planet status in 2006.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The discovery of Eris in 2005 forced the question.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Eris is more massive than Pluto.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Planets must clear their orbits, and Pluto shares the Kuiper belt.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Keep Pluto a planet, and many Kuiper worlds would join it.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Sunlight takes 5.5 hours to reach it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "New Horizons flew past it in 2015.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Pluto didn't shrink. Our definition grew up.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-strongest-earthquake-struck-today",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Strongest Earthquake Struck Today?",
+      "hook": "Why Chile's 1960 quake flooded Hawaii 10,000 kilometres away.",
+      "openingLine": "Why Chile's 1960 quake flooded Hawaii 10,000 kilometres away.",
+      "secondBeat": "It measured 9.4 to 9.6, the strongest ever recorded.",
+      "scientificMechanism": "a great subduction-zone rupture lifts the seafloor, launching a tsunami across an ocean",
+      "scenarioChange": "a Valdivia-scale earthquake struck a modern coast",
+      "expectedConsequence": "local destruction, then a tsunami hitting coasts 10,000 km away",
+      "coreQuestion": "If the strongest earthquake ever recorded struck today, who would feel it?",
+      "misconception": "An earthquake's reach isn't limited to its country; its tsunami can cross an ocean.",
+      "number": "magnitude 9.4–9.6",
+      "thumbnailText": "STRONGEST QUAKE EVER",
+      "visualScenes": [
+        "Valdivia devastated in 1960",
+        "subduction zone diagram",
+        "tsunami crossing the Pacific",
+        "Hilo waterfront damage",
+        "magnitude comparison chart",
+        "modern coastal warning sirens"
+      ],
+      "editorialTitles": [
+        "The Strongest Earthquake Ever Recorded",
+        "Why Chile's Quake Hit Hawaii"
+      ],
+      "facts": [
+        {
+          "claim": "Most studies have placed it at 9.4–9.6 on the moment magnitude scale, making it the strongest earthquake ever recorded.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1960 Valdivia earthquake",
+          "url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake"
+        },
+        {
+          "claim": "On 22 May 1960, an earthquake and tsunami occurred in Chile, devastating the city of Valdivia.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1960 Valdivia earthquake",
+          "url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake"
+        },
+        {
+          "claim": "It occurred in the afternoon (19:11:14 UTC, 15:11:14 local time), and lasted 10 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1960 Valdivia earthquake",
+          "url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake"
+        },
+        {
+          "claim": "The main tsunami traveled across the Pacific Ocean and devastated Hilo, Hawaii, where waves as high as 10.7 metres were recorded over 10,000 kilometres from the epicenter.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1960 Valdivia earthquake",
+          "url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake"
+        },
+        {
+          "claim": "The tremor caused localized tsunamis that severely battered the Chilean coast, with waves up to 25 metres (82 ft).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1960 Valdivia earthquake",
+          "url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake"
+        },
+        {
+          "claim": "Various estimates of the total number of fatalities from the earthquake and tsunamis have surfaced, ranging between 1,000 and 6,000 killed.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1960 Valdivia earthquake",
+          "url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Chile's 1960 quake flooded Hawaii 10,000 kilometres away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It measured 9.4 to 9.6, the strongest ever recorded.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The shaking lasted 10 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Waves up to 25 metres struck the Chilean coast.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In Hilo, Hawaii, waves reached 10.7 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Today, coasts all around the Pacific would get warnings, and hours to act.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the biggest quakes are ocean-wide events.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-one-volcano-grounded-every-plane",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If One Volcano Grounded Every Plane?",
+      "hook": "Why one volcano stranded 10 million travellers.",
+      "openingLine": "Why one volcano stranded 10 million travellers.",
+      "secondBeat": "In 2010, Iceland's Eyjafjallajökull sent ash across Europe.",
+      "scientificMechanism": "volcanic ash melts in jet engines, so aviation authorities close airspace where ash spreads",
+      "scenarioChange": "a volcanic ash cloud spread across a continent's airspace",
+      "expectedConsequence": "mass flight cancellations stranding millions",
+      "coreQuestion": "If one volcano grounded every plane, how long could a continent cope?",
+      "misconception": "A modest eruption can disrupt more people than a giant one if its ash drifts into busy airspace.",
+      "number": "10 million travellers",
+      "thumbnailText": "EUROPE GROUNDED",
+      "visualScenes": [
+        "ash plume over an Icelandic glacier",
+        "empty departure boards",
+        "ash cloud map over Europe",
+        "jet engine ash damage diagram",
+        "stranded passengers sleeping in terminals",
+        "flights resuming chart"
+      ],
+      "editorialTitles": [
+        "The Volcano That Grounded Europe",
+        "Why Ash Is Deadly to Jet Engines"
+      ],
+      "facts": [
+        {
+          "claim": "About 20 countries closed their airspace to commercial jet traffic, affecting approximately 10 million travellers.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 2010 eruptions of Eyjafjallajökull",
+          "url": "https://en.wikipedia.org/wiki/2010_eruptions_of_Eyjafjallajökull"
+        },
+        {
+          "claim": "The disruptions started over an initial period of six days in April 2010.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 2010 eruptions of Eyjafjallajökull",
+          "url": "https://en.wikipedia.org/wiki/2010_eruptions_of_Eyjafjallajökull"
+        },
+        {
+          "claim": "Beginning on 14 April 2010, the eruption created an ash cloud that led to the closure of most of the European IFR airspace from 15 until 20 April 2010.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 2010 eruptions of Eyjafjallajökull",
+          "url": "https://en.wikipedia.org/wiki/2010_eruptions_of_Eyjafjallajökull"
+        },
+        {
+          "claim": "Although no commercial aircraft were damaged, the engines of some military aircraft were harmed.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 2010 eruptions of Eyjafjallajökull",
+          "url": "https://en.wikipedia.org/wiki/2010_eruptions_of_Eyjafjallajökull"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one volcano stranded 10 million travellers.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "In 2010, Iceland's Eyjafjallajökull sent ash across Europe.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "About 20 countries closed their airspace to jets.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Most European airspace shut from 15 to 20 April.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Ash can melt inside jet engines and stop them.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Some military jet engines were damaged.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a modest eruption can halt a continent's travel.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-permafrost-thawed",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Permafrost Thawed?",
+      "hook": "Why 15% of northern land rests on frozen ground.",
+      "openingLine": "Why 15% of northern land rests on frozen ground.",
+      "secondBeat": "That's permafrost, and it's starting to thaw.",
+      "scientificMechanism": "permanently frozen ground holds ice, carbon and foundations in place; thawing destabilises all three",
+      "scenarioChange": "Northern Hemisphere permafrost thawed widely",
+      "expectedConsequence": "sinking ground, damaged infrastructure and released carbon",
+      "coreQuestion": "If the permafrost thawed, what would sink first?",
+      "misconception": "Permafrost isn't lifeless; it holds microbes that wake up as it thaws.",
+      "number": "15% of northern land",
+      "thumbnailText": "GROUND IS MELTING",
+      "visualScenes": [
+        "thawing tundra with sinking ground",
+        "permafrost map across the Arctic",
+        "tilted buildings on thawing ground",
+        "microbes in frozen soil",
+        "infrastructure risk chart",
+        "methane bubbles in a lake"
+      ],
+      "editorialTitles": [
+        "What Happens When Frozen Ground Thaws",
+        "Why Arctic Buildings Are Sinking"
+      ],
+      "facts": [
+        {
+          "claim": "Around 15% of Northern Hemisphere land that is not completely covered by ice is directly underlain by permafrost; 22% is defined as part of a permafrost zone or region.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Permafrost",
+          "url": "https://en.wikipedia.org/wiki/Permafrost"
+        },
+        {
+          "claim": "Estimates suggest nearly 70% of such infrastructure is at risk by 2050.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Permafrost",
+          "url": "https://en.wikipedia.org/wiki/Permafrost"
+        },
+        {
+          "claim": "In 2014, regional estimates of alpine permafrost extent had established a global extent of 3,560,000 km2.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Permafrost",
+          "url": "https://en.wikipedia.org/wiki/Permafrost"
+        },
+        {
+          "claim": "Microorganism numbers in permafrost soil typically range from 1 to 1000 million per gram of soil.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Permafrost",
+          "url": "https://en.wikipedia.org/wiki/Permafrost"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 15% of northern land rests on frozen ground.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's permafrost, and it's starting to thaw.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Alpine permafrost alone covers about 3,560,000 square kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "As ice inside the ground melts, the surface slumps.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Nearly 70% of infrastructure on it may be at risk by 2050.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Each gram of frozen soil can hold up to 1,000 million microbes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So thawing ground threatens both buildings and the climate.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-magnets-could-make-you-float",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If Magnets Could Make You Float?",
+      "hook": "Why 1 frog floated in mid-air inside a magnet.",
+      "openingLine": "Why 1 frog floated in mid-air inside a magnet.",
+      "secondBeat": "Its body's water was pushed away by the field.",
+      "scientificMechanism": "diamagnetic materials, including water in living tissue, are weakly repelled by strong magnetic fields",
+      "scenarioChange": "a magnetic field was strong enough to lift a living animal",
+      "expectedConsequence": "frogs and mice have been levitated; humans would need far stronger fields",
+      "coreQuestion": "If magnets could make you float, how strong would they need to be?",
+      "misconception": "Magnets don't only attract metal; every material responds, and water is weakly repelled.",
+      "number": "1778",
+      "thumbnailText": "THE FLOATING FROG",
+      "visualScenes": [
+        "live frog levitating in a magnet bore",
+        "diamagnetic repulsion diagram",
+        "bismuth repelled by a magnet",
+        "superconducting magnet lab",
+        "mouse levitation experiment",
+        "field strength scale"
+      ],
+      "editorialTitles": [
+        "How Scientists Levitated a Frog",
+        "Why Water Is Pushed Away by Magnets"
+      ],
+      "facts": [
+        {
+          "claim": "Diamagnetism was first discovered when Anton Brugmans observed in 1778 that bismuth was repelled by magnetic fields.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Diamagnetism",
+          "url": "https://en.wikipedia.org/wiki/Diamagnetism"
+        },
+        {
+          "claim": "In 1845, Michael Faraday demonstrated that it was a property of matter and concluded that every material responded to an applied magnetic field.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Diamagnetism",
+          "url": "https://en.wikipedia.org/wiki/Diamagnetism"
+        },
+        {
+          "claim": "Most spectacularly, a live frog was levitated.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Diamagnetism",
+          "url": "https://en.wikipedia.org/wiki/Diamagnetism"
+        },
+        {
+          "claim": "In September 2009, NASA's Jet Propulsion Laboratory announced it had successfully levitated mice using a superconducting magnet.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Diamagnetism",
+          "url": "https://en.wikipedia.org/wiki/Diamagnetism"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 1 frog floated in mid-air inside a magnet.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Its body's water was pushed away by the field.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It's called diamagnetism, first seen with bismuth in 1778.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 1845, Faraday showed every material responds to magnets.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 2009, NASA's lab levitated mice the same way.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Lifting a human would need an enormous magnet.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So you're magnetic too, just very weakly repelled.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-lived-without-clocks",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Lived Without Clocks?",
+      "hook": "Why one man's days stretched to 48 hours.",
+      "openingLine": "Why one man's days stretched to 48 hours.",
+      "secondBeat": "Michel Siffre lived in caves without clocks or daylight.",
+      "scientificMechanism": "without daylight and clocks, the body's circadian rhythm drifts away from 24 hours",
+      "scenarioChange": "a person lived for months without time cues",
+      "expectedConsequence": "the internal day stretches and the sense of elapsed time collapses",
+      "coreQuestion": "If you lived without clocks or daylight, how long would your days become?",
+      "misconception": "Your body clock isn't locked to 24 hours; daylight keeps resetting it.",
+      "number": "48-hour days",
+      "thumbnailText": "LIFE WITHOUT CLOCKS",
+      "visualScenes": [
+        "caver alone underground with a lamp",
+        "circadian rhythm drift chart",
+        "calendar pages losing sync",
+        "cave entrance in Texas",
+        "sleep-wake log",
+        "sunlight resetting the body clock"
+      ],
+      "editorialTitles": [
+        "The Man Who Lived Without Time",
+        "What Happens to Your Body Clock Underground"
+      ],
+      "facts": [
+        {
+          "claim": "He examined how humans experience time by spending 62 or 63 days without time cues, cloistered 130 m below the surface in the abyss of Scarasson, beginning July 1962.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Michel Siffre",
+          "url": "https://en.wikipedia.org/wiki/Michel_Siffre"
+        },
+        {
+          "claim": "In 1972, Siffre performed a more extensive underground experiment, staying six months in Midnight Cave in southern Texas.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Michel Siffre",
+          "url": "https://en.wikipedia.org/wiki/Michel_Siffre"
+        },
+        {
+          "claim": "After the experiment, he concluded that without time cues, he adjusted to a 48-hour rather than a 24-hour cycle.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Michel Siffre",
+          "url": "https://en.wikipedia.org/wiki/Michel_Siffre"
+        },
+        {
+          "claim": "Siffre underwent an additional cave excursion from November 1999 to February 2000, celebrating the New Year there but missing the actual date by three days.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Michel Siffre",
+          "url": "https://en.wikipedia.org/wiki/Michel_Siffre"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one man's days stretched to 48 hours.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Michel Siffre lived in caves without clocks or daylight.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "In 1962, he spent 62 or 63 days 130 metres underground.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 1972, he stayed six months in a Texas cave.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "His body drifted to a 48-hour rather than 24-hour cycle.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Later, he missed New Year's Day by three days.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So daylight, not willpower, keeps your body on schedule.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-could-run-like-usain-bolt",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Could Run Like Usain Bolt?",
+      "hook": "Why 9.58 seconds still stands as the 100-metre record.",
+      "openingLine": "Why 9.58 seconds still stands as the 100-metre record.",
+      "secondBeat": "Usain Bolt ran it in 2009.",
+      "scientificMechanism": "sprint speed depends on force applied to the ground and stride length, limited by muscle and tendon",
+      "scenarioChange": "an ordinary person ran at a world-record pace",
+      "expectedConsequence": "a 100 m dash in under 10 seconds, near the edge of human biology",
+      "coreQuestion": "If you could run like Usain Bolt, how fast would you actually be going?",
+      "misconception": "Bolt's 2009 record wasn't a tiny improvement; it was the biggest jump of the electronic-timing era.",
+      "number": "9.58 seconds",
+      "thumbnailText": "9.58 SECONDS",
+      "visualScenes": [
+        "sprinter bursting from the blocks",
+        "100 m split times chart",
+        "stride length comparison",
+        "world record progression chart",
+        "relay baton exchange",
+        "stadium clock at 9.58"
+      ],
+      "editorialTitles": [
+        "How Fast Usain Bolt Really Ran",
+        "The Limits of Human Sprinting"
+      ],
+      "facts": [
+        {
+          "claim": "Bolt improved upon his second 100 m world record of 9.69 with 9.58 seconds in 2009 – the biggest improvement since the start of electronic timing.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Usain Bolt",
+          "url": "https://en.wikipedia.org/wiki/Usain_Bolt"
+        },
+        {
+          "claim": "He has twice broken the 200 metres world record, setting 19.30 in 2008 and 19.19 in 2009.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Usain Bolt",
+          "url": "https://en.wikipedia.org/wiki/Usain_Bolt"
+        },
+        {
+          "claim": "He has helped Jamaica to three 4 × 100 metres relay world records, with the current record being 36.84 seconds set in 2012.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Usain Bolt",
+          "url": "https://en.wikipedia.org/wiki/Usain_Bolt"
+        },
+        {
+          "claim": "He became the first junior sprinter to run the 200 m in under twenty seconds, taking the world junior record outright with a time of 19.93 s.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Usain Bolt",
+          "url": "https://en.wikipedia.org/wiki/Usain_Bolt"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 9.58 seconds still stands as the 100-metre record.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Usain Bolt ran it in 2009.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "He cut his own record from 9.69 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It was the biggest jump since electronic timing began.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That same year, he ran 200 metres in 19.19.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Most people would need well over twice as long.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So world records show where human biology tops out.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-could-see-more-colours",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Could See More Colours?",
+      "hook": "Why half of women may carry 4 colour pigments.",
+      "openingLine": "Why half of women may carry 4 colour pigments.",
+      "secondBeat": "Most people see colour with three cone types.",
+      "scientificMechanism": "colour vision depends on cone types; a fourth type could in principle add another colour dimension",
+      "scenarioChange": "a person had four working colour channels",
+      "expectedConsequence": "finer distinctions between shades most people see as identical",
+      "coreQuestion": "If you could see more colours, what would the world look like?",
+      "misconception": "Having a fourth photopigment doesn't guarantee seeing extra colours; the brain must use it.",
+      "number": "50% of women",
+      "thumbnailText": "FOUR-COLOUR VISION",
+      "visualScenes": [
+        "colour swatches that look identical",
+        "three versus four cone diagram",
+        "wavelength sensitivity chart",
+        "eye close-up",
+        "genetics of cone pigments",
+        "painter mixing subtle shades"
+      ],
+      "editorialTitles": [
+        "The People Who May See Extra Colours",
+        "What Tetrachromacy Really Means"
+      ],
+      "facts": [
+        {
+          "claim": "Another study suggests that as many as 50% of women and 8% of men may have four photopigments and corresponding potentially increased chromatic discrimination.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tetrachromacy",
+          "url": "https://en.wikipedia.org/wiki/Tetrachromacy"
+        },
+        {
+          "claim": "Human rod cell sensitivity is greatest at 500 nm (bluish-green) wavelength, which is significantly different from the peak spectral sensitivity of the cones (typically 420, 530, and 560 nm).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tetrachromacy",
+          "url": "https://en.wikipedia.org/wiki/Tetrachromacy"
+        },
+        {
+          "claim": "Specifically, she has been shown to be a trichromat in the range 546–670 nm where people with normal vision are essentially dichromats.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tetrachromacy",
+          "url": "https://en.wikipedia.org/wiki/Tetrachromacy"
+        },
+        {
+          "claim": "If S cones of cDa29 provide independent color perception dimension as they normally do, that would confirm her being a tetrachromat.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tetrachromacy",
+          "url": "https://en.wikipedia.org/wiki/Tetrachromacy"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why half of women may carry 4 colour pigments.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Most people see colour with three cone types.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Those cones peak around 420, 530 and 560 nanometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "As many as 8% of men may carry a fourth pigment too.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "But few people actually use it to see extra colours.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Those who do can split shades others see as one.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So colour is built in your brain as much as in your eyes.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-quantum-computers-beat-every-supercomputer",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If Quantum Computers Beat Every Supercomputer?",
+      "hook": "Why 200 quantum seconds rivalled 2.5 billion years.",
+      "openingLine": "Why 200 quantum seconds rivalled 2.5 billion years.",
+      "secondBeat": "That was the claim for Google's quantum chip.",
+      "scientificMechanism": "quantum processors sample from superpositions of many qubits, tasks that are hard to simulate classically",
+      "scenarioChange": "quantum computers clearly outperformed classical machines on useful problems",
+      "expectedConsequence": "breakthroughs in chemistry and materials; for now, claims keep shifting as classical methods improve",
+      "coreQuestion": "If quantum computers beat every supercomputer, what would they actually be good for?",
+      "misconception": "Quantum supremacy claims can shrink as classical algorithms improve.",
+      "number": "200 seconds",
+      "thumbnailText": "QUANTUM SUPREMACY?",
+      "visualScenes": [
+        "quantum chip in a dilution refrigerator",
+        "qubit superposition diagram",
+        "claimed speed comparison chart",
+        "supercomputer racks",
+        "classical algorithm catching up chart",
+        "chemistry simulation concept"
+      ],
+      "editorialTitles": [
+        "The 200-Second Calculation That Shocked Computing",
+        "Why Quantum Supremacy Keeps Moving"
+      ],
+      "facts": [
+        {
+          "claim": "The paper states that to generate the number of samples the quantum computer generates in 200 seconds, a classical supercomputer would require 2.5 billion years of computation.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Quantum supremacy",
+          "url": "https://en.wikipedia.org/wiki/Quantum_supremacy"
+        },
+        {
+          "claim": "In 2024, the Google team estimated that, thanks to improvements in classical tensor network algorithms, simulating 53 qubits would take only six seconds on the Frontier supercomputer.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Quantum supremacy",
+          "url": "https://en.wikipedia.org/wiki/Quantum_supremacy"
+        },
+        {
+          "claim": "Google had announced plans to demonstrate quantum supremacy before the end of 2017 with an array of 49 superconducting qubits.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Quantum supremacy",
+          "url": "https://en.wikipedia.org/wiki/Quantum_supremacy"
+        },
+        {
+          "claim": "In October 2017, IBM demonstrated the simulation of 56 qubits on a classical supercomputer.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Quantum supremacy",
+          "url": "https://en.wikipedia.org/wiki/Quantum_supremacy"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 200 quantum seconds rivalled 2.5 billion years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That was the claim for Google's quantum chip.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It used 53 qubits to sample random circuits.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "By 2024, better classical methods cut the simulation to six seconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "In 2017, IBM had already simulated 56 qubits classically.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Real payoffs would come in chemistry and materials design.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So quantum advantage is a moving target, not a finish line.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-every-car-drove-itself",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If Every Car Drove Itself?",
+      "hook": "Why robotaxis have logged 200 million driverless miles.",
+      "openingLine": "Why robotaxis have logged 200 million driverless miles.",
+      "secondBeat": "Waymo gives about 500,000 paid rides a week.",
+      "scientificMechanism": "robotaxis combine sensors, maps and software to drive without a human, one city at a time",
+      "scenarioChange": "self-driving cars replaced human drivers everywhere",
+      "expectedConsequence": "a slow city-by-city rollout, with mapping, regulation and edge cases as the limits",
+      "coreQuestion": "If every car drove itself, how far along are we really?",
+      "misconception": "Driverless cars aren't everywhere yet; they operate in mapped cities, expanding gradually.",
+      "number": "200 million miles",
+      "thumbnailText": "EMPTY DRIVER SEAT",
+      "visualScenes": [
+        "robotaxi with empty driver's seat",
+        "lidar point cloud",
+        "city service area map",
+        "ride count growth chart",
+        "timeline from 2009",
+        "passenger app screen"
+      ],
+      "editorialTitles": [
+        "How Close We Are to Cars That Drive Themselves",
+        "Why Robotaxis Spread City by City"
+      ],
+      "facts": [
+        {
+          "claim": "As of June 2026, Waymo operates public commercial robotaxi services in 10 US metropolitan areas, has 3,871 robotaxis in service, provides 500,000 paid rides per week, and has logged 200 million fully autonomous miles.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Waymo",
+          "url": "https://en.wikipedia.org/wiki/Waymo"
+        },
+        {
+          "claim": "Google's development of self-driving technology began in January 2009, and the project was revealed in October 2010.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Waymo",
+          "url": "https://en.wikipedia.org/wiki/Waymo"
+        },
+        {
+          "claim": "In October 2020, Waymo became the first company to offer service to the public without safety drivers.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Waymo",
+          "url": "https://en.wikipedia.org/wiki/Waymo"
+        },
+        {
+          "claim": "By the end of 2015, Project Chauffeur had covered more than a million miles.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Waymo",
+          "url": "https://en.wikipedia.org/wiki/Waymo"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why robotaxis have logged 200 million driverless miles.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Waymo gives about 500,000 paid rides a week.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It runs 3,871 robotaxis in 10 U.S. metro areas.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Development began in 2009.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 2020, it first carried the public with no safety driver.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Each new city needs mapping, testing and approval.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So self-driving arrives street by street, not all at once.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-cosmic-ray-hit-like-a-baseball",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If a Cosmic Ray Hit Like a Baseball?",
+      "hook": "Why one particle carried 320 exaelectronvolts.",
+      "openingLine": "Why one particle carried 320 exaelectronvolts.",
+      "secondBeat": "Physicists nicknamed it the Oh-My-God particle.",
+      "scientificMechanism": "a single subatomic particle accelerated to extreme energy carries macroscopic amounts of kinetic energy",
+      "scenarioChange": "a particle arrived carrying the energy of a thrown ball",
+      "expectedConsequence": "a particle shower in the atmosphere, detected from the ground",
+      "coreQuestion": "If a single particle hit with the energy of a baseball, where could it have come from?",
+      "misconception": "Cosmic rays aren't all tiny energies; one particle once carried energy you could feel.",
+      "number": "320 EeV",
+      "thumbnailText": "OH-MY-GOD PARTICLE",
+      "visualScenes": [
+        "air shower cascading through the atmosphere",
+        "Fly's Eye detector in Utah desert",
+        "energy comparison with a thrown ball",
+        "particle speed near light",
+        "blazar Markarian 501",
+        "cosmic ray observatory"
+      ],
+      "editorialTitles": [
+        "The Particle Physicists Named Oh-My-God",
+        "Why One Particle Carried So Much Energy"
+      ],
+      "facts": [
+        {
+          "claim": "The Oh-My-God particle was an ultra-high-energy cosmic ray detected on 15 October 1991 by the Fly's Eye camera in Dugway Proving Ground, Utah.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Oh-My-God particle",
+          "url": "https://en.wikipedia.org/wiki/Oh-My-God_particle"
+        },
+        {
+          "claim": "As of 2026, it is the highest-energy cosmic ray ever observed.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Oh-My-God particle",
+          "url": "https://en.wikipedia.org/wiki/Oh-My-God_particle"
+        },
+        {
+          "claim": "Its energy was estimated as 320 exaelectronvolt.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Oh-My-God particle",
+          "url": "https://en.wikipedia.org/wiki/Oh-My-God_particle"
+        },
+        {
+          "claim": "Its energy was 20 million times greater than the highest photon energy measured in electromagnetic radiation emitted by an extragalactic object, the blazar Markarian 501.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Oh-My-God particle",
+          "url": "https://en.wikipedia.org/wiki/Oh-My-God_particle"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one particle carried 320 exaelectronvolts.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Physicists nicknamed it the Oh-My-God particle.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "A detector in Utah caught it in 1991.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It remains the highest-energy cosmic ray ever observed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It beat the top blazar photon energy 20 million times over.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "That's roughly the energy of a thrown ball, in one particle.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So something in the universe accelerates particles beyond our machines.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-our-sun-were-as-big-as-uy-scuti",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If Our Sun Were as Big as UY Scuti?",
+      "hook": "Why one star dwarfs the Sun 1,000 times over.",
+      "openingLine": "Why one star dwarfs the Sun 1,000 times over.",
+      "secondBeat": "UY Scuti is a red supergiant, 5,900 light-years away.",
+      "scientificMechanism": "red supergiants swell to enormous radii late in life while their outer layers become thin",
+      "scenarioChange": "the Sun swelled to the size of a red supergiant",
+      "expectedConsequence": "its surface would engulf the inner Solar System",
+      "coreQuestion": "If our Sun were as big as UY Scuti, which planets would be inside it?",
+      "misconception": "The biggest stars aren't the heaviest; red supergiants are huge but diffuse.",
+      "number": "1,000× the Sun",
+      "thumbnailText": "1,000× THE SUN",
+      "visualScenes": [
+        "UY Scuti beside the Sun to scale",
+        "Solar System orbits inside a supergiant",
+        "red supergiant cross-section",
+        "luminosity comparison chart",
+        "Scutum constellation",
+        "distance 5,900 light-years"
+      ],
+      "editorialTitles": [
+        "The Star 1,000 Times Wider Than the Sun",
+        "What If the Sun Became a Red Supergiant"
+      ],
+      "facts": [
+        {
+          "claim": "UY Scuti is a red supergiant or hypergiant star, located 5,900 light-years away in the constellation Scutum.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — UY Scuti",
+          "url": "https://en.wikipedia.org/wiki/UY_Scuti"
+        },
+        {
+          "claim": "They determined that all three stars are over 1,000 times bigger than the Sun and over 100,000 times more luminous than the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — UY Scuti",
+          "url": "https://en.wikipedia.org/wiki/UY_Scuti"
+        },
+        {
+          "claim": "The analysis was based on an old radius of 1,708 R☉.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — UY Scuti",
+          "url": "https://en.wikipedia.org/wiki/UY_Scuti"
+        },
+        {
+          "claim": "Potentially larger radius estimates have already been published for other supergiant stars, such as VX Sagittarii, NML Cygni, MY Cephei, and Stephenson 2 DFK 1.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — UY Scuti",
+          "url": "https://en.wikipedia.org/wiki/UY_Scuti"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one star dwarfs the Sun 1,000 times over.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "UY Scuti is a red supergiant, 5,900 light-years away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It shines over 100,000 times brighter than the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "An older estimate put its radius at 1,708 Suns.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Put it in our Sun's place, and the inner planets would be inside it.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Its outer layers are so thin, they're nearly vacuum.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the biggest stars are giants in size, not in density.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-all-fungi-disappeared",
+      "replaces": "would-doubling-all-ocean-plankton-help-or-harm-us",
+      "category": "OTHER",
+      "topic": "What If All Fungi Disappeared?",
+      "hook": "Why over 90% of plants depend on fungi.",
+      "openingLine": "Why over 90% of plants depend on fungi.",
+      "secondBeat": "Fungal threads wrap roots and trade nutrients for sugar.",
+      "scientificMechanism": "fungi partner with plant roots and break down dead matter, recycling nutrients",
+      "scenarioChange": "every fungus on Earth vanished",
+      "expectedConsequence": "most plants lose root partners and dead matter piles up",
+      "coreQuestion": "If all fungi disappeared, what would happen to plants and forests?",
+      "misconception": "Fungi aren't just mushrooms; most of their work happens underground with plant roots.",
+      "number": "90% of plants",
+      "thumbnailText": "NO MORE FUNGI",
+      "visualScenes": [
+        "mycorrhizal threads around roots",
+        "forest floor decomposition",
+        "species count chart known versus estimated",
+        "mushrooms after rain",
+        "plant nutrient exchange diagram",
+        "piles of undecomposed leaves"
+      ],
+      "editorialTitles": [
+        "What If Fungi Vanished Tomorrow",
+        "The Hidden Network Keeping Plants Alive"
+      ],
+      "facts": [
+        {
+          "claim": "Over 90% of plants are dependent on Mycorrhizal symbiosis between plants and fungi and this process also enhances photosynthesis in plants.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Fungus",
+          "url": "https://en.wikipedia.org/wiki/Fungus"
+        },
+        {
+          "claim": "The true biodiversity of the fungus kingdom has been estimated at 2.2 million to 3.8 million species.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Fungus",
+          "url": "https://en.wikipedia.org/wiki/Fungus"
+        },
+        {
+          "claim": "Only about 148,000 have been described, with over 8,000 species known to be detrimental to plants and at least 300 that can be pathogenic to humans.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Fungus",
+          "url": "https://en.wikipedia.org/wiki/Fungus"
+        },
+        {
+          "claim": "In August 2021, the IUCN Species Survival Commission asked that the phrase fauna and flora be replaced by fauna, flora, and funga.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Fungus",
+          "url": "https://en.wikipedia.org/wiki/Fungus"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why over 90% of plants depend on fungi.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Fungal threads wrap roots and trade nutrients for sugar.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "There may be 2.2 to 3.8 million fungus species.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Only about 148,000 have been described.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Without them, most plants would struggle to feed.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Dead leaves and wood would pile up, barely rotting.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So forests stand on a network you rarely see.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    }
+  ]
+}

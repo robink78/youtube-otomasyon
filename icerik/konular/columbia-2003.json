@@ -1,0 +1,147 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "A Piece of Foam Destroyed Space Shuttle Columbia",
+  "kaynaklar": [
+    {
+      "ad": "columbia-1.jpg",
+      "wikimedia": "Columbia's Main Engine Powerheads - GPN-2003-00076.jpg"
+    },
+    {
+      "ad": "columbia-2.jpg",
+      "wikimedia": "Columbia makeshift memorial.jpg"
+    },
+    {
+      "ad": "columbia-3.jpg",
+      "wikimedia": "Grid with Columbia's Debris - GPN-2003-00081.jpg"
+    },
+    {
+      "ad": "columbia-4.jpg",
+      "wikimedia": "A US Air Force (USAF) Honor Guard removes a coffin carrying the remains of a Space Shuttle Columbia crewmember from a USAF HH-60 Black Hawk helicopter, at Barksdale Air Force Base ( - DPLA - db5e9b761534be1eb32629b567e8d186.jpeg"
+    },
+    {
+      "ad": "columbia-5.jpg",
+      "wikimedia": "US Navy 030312-N-2147L-001 U.S. Navy Capt. David M. Brown, NASA Astronaut laid to rest.jpg"
+    },
+    {
+      "ad": "columbia-6.jpg",
+      "wikimedia": "Chairman Gehman - GPN-2003-00084.jpg"
+    },
+    {
+      "ad": "columbia-7.jpg",
+      "wikimedia": "FEMA - 7508 - Photograph by Mark Wolfe taken on 02-05-2003 in Texas.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Space Shuttle Columbia broke apart as it came home.",
+      "kaynak": "Footage/columbia-1.jpg"
+    },
+    {
+      "metin": "All seven astronauts were killed minutes before landing.",
+      "kaynak": "Footage/columbia-2.jpg"
+    },
+    {
+      "metin": "The damage happened sixteen days earlier, at launch.",
+      "kaynak": "Footage/columbia-3.jpg"
+    },
+    {
+      "metin": "A piece of insulating foam hit the left wing.",
+      "kaynak": "Footage/columbia-4.jpg"
+    },
+    {
+      "metin": "It punched a hole in the heat shield panel.",
+      "kaynak": "Footage/columbia-5.jpg"
+    },
+    {
+      "metin": "On re-entry, superheated gas poured into the wing.",
+      "kaynak": "Footage/columbia-6.jpg"
+    },
+    {
+      "metin": "The structure melted from the inside.",
+      "kaynak": "Footage/columbia-7.jpg"
+    },
+    {
+      "metin": "After that, every shuttle's heat shield was inspected in orbit.",
+      "kaynak": "Footage/columbia-1.jpg"
+    }
+  ],
+  "aciklama": "Columbia broke apart during re-entry. The cause: foam strike breaching a reinforced carbon-carbon panel on the wing's leading edge.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Columbia",
+    "space shuttle",
+    "foam strike",
+    "NASA",
+    "2003"
+  ],
+  "hook": "It was just foam",
+  "soru": "Would you have checked the wing?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Space Shuttle Columbia",
+    "kisa": "Columbia",
+    "nesne": "Orbiter",
+    "yil": 2003,
+    "sonuc": "broke apart during re-entry",
+    "tetik": "a suitcase-sized piece of foam hitting the left wing at launch",
+    "mekanizma": "foam strike breaching a reinforced carbon-carbon panel on the wing's leading edge",
+    "sayi": "7 CREW",
+    "ders": "shuttles were inspected in orbit for heat-shield damage on every later flight",
+    "zincir": [
+      "FOAM BREAKS OFF EXTERNAL TANK",
+      "STRIKES LEFT WING LEADING EDGE",
+      "HOLE IN HEAT SHIELD PANEL",
+      "HOT GAS ENTERS WING ON RE-ENTRY",
+      "ORBITER BREAKS APART"
+    ],
+    "zaman": [
+      {
+        "t": "Jan 16, 2003",
+        "olay": "Launch; foam strike on the left wing"
+      },
+      {
+        "t": "Feb 1, 2003",
+        "olay": "Break-up during re-entry over Texas"
+      }
+    ],
+    "yanilgi": "Foam had hit shuttles on earlier flights, so it came to be treated as routine. That normalization is why the damage was never checked in orbit.",
+    "tartisma": "Engineers asked for satellite images of the wing and were turned down. What should happen when a warning is inconvenient?",
+    "basliklar": [
+      "A Piece of Foam Destroyed Space Shuttle Columbia",
+      "Why Columbia Broke Apart on Re-entry",
+      "The Foam Strike Nobody Checked"
+    ],
+    "kapak": [
+      "JUST FOAM",
+      "7 CREW"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Space Shuttle Columbia disaster",
+        "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster"
+      },
+      {
+        "ad": "NASA History Office — Columbia Accident Investigation Board Report",
+        "url": "https://history.nasa.gov/columbia/CAIB_reportindex.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Space_Shuttle_Columbia_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Columbia's Main Engine Powerheads - GPN-2003-00076.jpg [Public domain]",
+      "Columbia makeshift memorial.jpg [Public domain]",
+      "Grid with Columbia's Debris - GPN-2003-00081.jpg [Public domain]",
+      "A US Air Force (USAF) Honor Guard removes a coffin carrying the remains of a Space Shuttle Columbia crewmember from a USAF HH-60 Black Hawk helicopter, at Barksdale Air Force Base ( - DPLA - db5e9b761534be1eb32629b567e8d186.jpeg [Public domain]",
+      "US Navy 030312-N-2147L-001 U.S. Navy Capt. David M. Brown, NASA Astronaut laid to rest.jpg [Public domain]",
+      "Chairman Gehman - GPN-2003-00084.jpg [Public domain]",
+      "FEMA - 7508 - Photograph by Mark Wolfe taken on 02-05-2003 in Texas.jpg [Public domain]"
+    ]
+  }
+}

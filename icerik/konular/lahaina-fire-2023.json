@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Sirens That Never Sounded in Lahaina",
+  "kaynaklar": [
+    {
+      "ad": "lahaina-fire-1.jpg",
+      "wikimedia": "2023 Maui fires - Lahaina damage via Coast Guard.jpg"
+    },
+    {
+      "ad": "lahaina-fire-2.jpg",
+      "wikimedia": "2023 Maui fires - Lahaina damage via Coast Guard 2.jpg"
+    },
+    {
+      "ad": "lahaina-fire-3.jpg",
+      "wikimedia": "Coast Guard Station Maui - 7964748.jpg"
+    },
+    {
+      "ad": "lahaina-fire-4.jpg",
+      "wikimedia": "FEMA - 7968727.jpg"
+    },
+    {
+      "ad": "lahaina-fire-5.jpg",
+      "wikimedia": "FEMA - 7972553.jpg"
+    },
+    {
+      "ad": "lahaina-fire-6.jpg",
+      "wikimedia": "FEMA - B-Roll of Hawaii Wildfire -1.jpg"
+    },
+    {
+      "ad": "lahaina-fire-7.jpg",
+      "wikimedia": "Hawaii National Guard - 7965753.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Wind-driven fire swept through the historic town of Lahaina on Maui.",
+      "kaynak": "Footage/lahaina-fire-1.jpg"
+    },
+    {
+      "metin": "It destroyed most of the town and killed at least one hundred two people.",
+      "kaynak": "Footage/lahaina-fire-2.jpg"
+    },
+    {
+      "metin": "A downed power line sparked flames in dry grass.",
+      "kaynak": "Footage/lahaina-fire-3.jpg"
+    },
+    {
+      "metin": "Winds linked to a distant hurricane spread them fast.",
+      "kaynak": "Footage/lahaina-fire-4.jpg"
+    },
+    {
+      "metin": "Civil defense sirens were never activated.",
+      "kaynak": "Footage/lahaina-fire-5.jpg"
+    },
+    {
+      "metin": "Hydrant pressure failed as burning homes leaked water.",
+      "kaynak": "Footage/lahaina-fire-6.jpg"
+    },
+    {
+      "metin": "A plan had warned the area was at extreme risk.",
+      "kaynak": "Footage/lahaina-fire-7.jpg"
+    },
+    {
+      "metin": "Maui faced scrutiny over its warnings and water system.",
+      "kaynak": "Footage/lahaina-fire-1.jpg"
+    }
+  ],
+  "aciklama": "Lahaina destroyed the town of Lahaina on Maui. The cause: wind-driven fire, failing hydrant pressure and no siren warning.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Lahaina",
+    "2023",
+    "warning sirens",
+    "engineering failure"
+  ],
+  "hook": "The sirens never sounded",
+  "soru": "Why do warnings stay on paper?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Lahaina fire",
+    "kisa": "Lahaina",
+    "nesne": "Warning sirens",
+    "yil": 2023,
+    "sonuc": "destroyed the town of Lahaina on Maui",
+    "tetik": "a downed power line igniting dry grass in high winds",
+    "mekanizma": "wind-driven fire, failing hydrant pressure and no siren warning",
+    "sayi": "102 DIED",
+    "ders": "Maui faced scrutiny over warnings, water and grid safety",
+    "zincir": [
+      "DRY GRASS, HIGH WINDS",
+      "POWER LINE DOWN",
+      "FIRE SPREADS",
+      "NO SIRENS",
+      "WATER PRESSURE FAILS"
+    ],
+    "zaman": [],
+    "yanilgi": "Hawaii had a huge siren network. It wasn't activated.",
+    "tartisma": "A 2014 plan warned Lahaina was at extreme risk. Why do warnings stay on paper?",
+    "basliklar": [
+      "The Sirens That Never Sounded in Lahaina",
+      "Why Lahaina Burned So Fast",
+      "The Sirens That Stayed Silent"
+    ],
+    "kapak": [
+      "NO SIRENS",
+      "102 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2023 Hawaii wildfires",
+        "url": "https://en.wikipedia.org/wiki/2023_Hawaii_wildfires"
+      },
+      {
+        "ad": "NOAA — events (cited by Wikipedia)",
+        "url": "https://www.ncei.noaa.gov/access/billions/events.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "2023_Hawaii_wildfires",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "2023 Maui fires - Lahaina damage via Coast Guard.jpg [Public domain]",
+      "2023 Maui fires - Lahaina damage via Coast Guard 2.jpg [Public domain]",
+      "Coast Guard Station Maui - 7964748.jpg [Public domain]",
+      "FEMA - 7968727.jpg [Public domain]",
+      "FEMA - 7972553.jpg [Public domain]",
+      "FEMA - B-Roll of Hawaii Wildfire -1.jpg [Public domain]",
+      "Hawaii National Guard - 7965753.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Tiny Clock Error Let a Missile Through",
+  "kaynaklar": [
+    {
+      "ad": "patriot-missile-dhahran-1.jpg",
+      "wikimedia": "Patriot 08.jpg"
+    },
+    {
+      "ad": "patriot-missile-dhahran-2.jpg",
+      "wikimedia": "PATRIOT Advanced Capability-2 (PAC-2) -04.jpg"
+    },
+    {
+      "ad": "patriot-missile-dhahran-3.jpg",
+      "wikimedia": "LTAMDS.jpg"
+    },
+    {
+      "ad": "patriot-missile-dhahran-4.jpg",
+      "wikimedia": "MEADS Launch WSMR 2734-1.jpg"
+    },
+    {
+      "ad": "patriot-missile-dhahran-5.jpg",
+      "wikimedia": "Maintenance check on a Patriot missile.jpg"
+    },
+    {
+      "ad": "patriot-missile-dhahran-6.jpg",
+      "wikimedia": "PATRIOT battery in Poland, 2010.JPG"
+    },
+    {
+      "ad": "patriot-missile-dhahran-7.jpg",
+      "wikimedia": "Soldiers from the 31st Air Defense Artillery Brigade at work.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A Patriot missile battery failed to stop an incoming Scud.",
+      "kaynak": "Footage/patriot-missile-dhahran-1.jpg"
+    },
+    {
+      "metin": "It hit a barracks in Dhahran, and twenty eight soldiers were killed.",
+      "kaynak": "Footage/patriot-missile-dhahran-2.jpg"
+    },
+    {
+      "metin": "The system had been running for about one hundred hours.",
+      "kaynak": "Footage/patriot-missile-dhahran-3.jpg"
+    },
+    {
+      "metin": "Its clock stored time with a tiny rounding error.",
+      "kaynak": "Footage/patriot-missile-dhahran-4.jpg"
+    },
+    {
+      "metin": "Over hours of operation, the error kept growing.",
+      "kaynak": "Footage/patriot-missile-dhahran-5.jpg"
+    },
+    {
+      "metin": "The radar looked for the Scud in the wrong place.",
+      "kaynak": "Footage/patriot-missile-dhahran-6.jpg"
+    },
+    {
+      "metin": "A software fix arrived the day after.",
+      "kaynak": "Footage/patriot-missile-dhahran-7.jpg"
+    },
+    {
+      "metin": "Operators were told to reboot the systems regularly.",
+      "kaynak": "Footage/patriot-missile-dhahran-1.jpg"
+    }
+  ],
+  "aciklama": "Patriot missile failed to intercept an incoming Scud missile. The cause: time conversion rounding error accumulating over about 100 hours, shifting the tracking range gate.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Patriot missile",
+    "1991",
+    "system clock",
+    "engineering failure"
+  ],
+  "hook": "Its clock had drifted",
+  "soru": "How fast should bugs be fixed?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "the Dhahran Patriot battery",
+    "kisa": "Patriot missile",
+    "nesne": "System clock",
+    "yil": 1991,
+    "sonuc": "failed to intercept an incoming Scud missile",
+    "tetik": "a clock error growing after long continuous operation",
+    "mekanizma": "time conversion rounding error accumulating over about 100 hours, shifting the tracking range gate",
+    "sayi": "100 HOURS",
+    "ders": "the software was patched and operators told to reboot systems regularly",
+    "zincir": [
+      "SYSTEM RUNS WITHOUT REBOOT",
+      "ROUNDING ERROR IN CLOCK",
+      "ERROR GROWS OVER HOURS",
+      "TRACKING WINDOW MISPLACED",
+      "INTERCEPT FAILS"
+    ],
+    "zaman": [],
+    "yanilgi": "The missile didn't evade a working system. The system looked in the wrong place because its clock had drifted.",
+    "tartisma": "A fix arrived the day after the attack. How fast should a known bug be patched?",
+    "basliklar": [
+      "A Tiny Clock Error Let a Missile Through",
+      "Why the Patriot Missile Missed at Dhahran",
+      "The Rounding Error That Drifted for 100 Hours"
+    ],
+    "kapak": [
+      "CLOCK DRIFT",
+      "100 HOURS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Patriot missile",
+        "url": "https://en.wikipedia.org/wiki/Patriot_missile"
+      },
+      {
+        "ad": "Government source — 2005 01 Patriot Report Summary (cited by Wikipedia)",
+        "url": "http://www.acq.osd.mil/dsb/reports/2005-01-Patriot_Report_Summary.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "Patriot_missile",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Patriot 08.jpg [Public domain]",
+      "PATRIOT Advanced Capability-2 (PAC-2) -04.jpg [Public domain]",
+      "LTAMDS.jpg [Public domain]",
+      "MEADS Launch WSMR 2734-1.jpg [Public domain]",
+      "Maintenance check on a Patriot missile.jpg [Public domain]",
+      "PATRIOT battery in Poland, 2010.JPG [Public domain]",
+      "Soldiers from the 31st Air Defense Artillery Brigade at work.jpg [Public domain]"
+    ]
+  }
+}

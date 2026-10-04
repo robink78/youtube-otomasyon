@@ -1,0 +1,46 @@
+{
+  "channel": "critical-thread",
+  "lastAttempt": "2026-10-04T17:55:03.910Z",
+  "lastSuccess": "2026-10-04T17:55:03.910Z",
+  "inFlight": [],
+  "intents": [
+    {
+      "key": "ae929e2c3be2796b6ba3cfbc41e92f5b16b5c0ecb19dbc2cbd6ba89452019045",
+      "createdAt": "2026-10-03T11:41:13.490Z",
+      "state": "COMPLETED",
+      "slug": "what-quietly-depends-on-uninterruptible-power-supply",
+      "title": "Why Servers Survive a Blackout",
+      "publishAt": "2026-10-03T22:00:00.000Z",
+      "mediaSha256": "c25ee85ec2fc3323a0364f610fa3772a0dce8ff46715452327f1748a26b1ed69",
+      "bytes": 13275227,
+      "updatedAt": "2026-10-03T11:41:15.690Z",
+      "sessionOpenedAt": "2026-10-03T11:41:15.007Z",
+      "sessionOpen": true,
+      "videoId": "hsuWhB8lCvU",
+      "completedBy": "upload"
+    },
+    {
+      "key": "940f6f72a6306f599a1d283f760ead1a1c3577017930dc48d6fdcbb882c693e7",
+      "createdAt": "2026-10-04T12:23:48.310Z",
+      "state": "COMPLETED",
+      "slug": "why-nuclear-reactor-coolant-pump-is-so-hard-to-replace",
+      "title": "The Stuck Valve Behind Three Mile Island",
+      "publishAt": "2026-10-04T22:00:00.000Z",
+      "mediaSha256": "c9e1021ed1dcbc40c7f9864c9cdca10be4a261785689e5e82c413334224cd435",
+      "bytes": 16705342,
+      "updatedAt": "2026-10-04T12:23:50.064Z",
+      "sessionOpenedAt": "2026-10-04T12:23:49.377Z",
+      "sessionOpen": true,
+      "videoId": "rAZ4cE4A0DE",
+      "completedBy": "upload"
+    },
+    {
+      "key": "7b76cce56f7a16630d53e314e69b138f15115cd83e841bb51c571b5365a4d2b4",
+      "createdAt": "2026-10-04T17:55:03.910Z",
+      "state": "COMPLETED",
+      "videoId": "wG9a6kQL8Kc",
+      "completedBy": "duplicate-guard",
+      "updatedAt": "2026-10-04T17:55:03.910Z"
+    }
+  ]
+}

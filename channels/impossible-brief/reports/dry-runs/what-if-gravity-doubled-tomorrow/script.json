@@ -1,0 +1,49 @@
+{
+  "format": "short",
+  "targetSeconds": 19.134,
+  "spoken": "Gravity doubles. Weight follows. Every load becomes twice as heavy. Known physics says the mechanism is spacetime curvature and acceleration under general relativity. The best supported consequence is this: orbits, structures and biology would respond to the same changed acceleration. The exact timeline depends on how the impossible change occurs.",
+  "claims": [
+    {
+      "start": 0,
+      "end": 1.5782073106499526,
+      "layer": "SPECULATIVE SCENARIO",
+      "confidence": "SPECULATIVE",
+      "text": "Gravity doubles. Weight follows."
+    },
+    {
+      "start": 1.5782073106499526,
+      "end": 3.4144101969872542,
+      "layer": "ESTIMATED CONSEQUENCE",
+      "confidence": "SUPPORTED",
+      "text": "Every load becomes twice as heavy."
+    },
+    {
+      "start": 3.4144101969872542,
+      "end": 8.802083429895713,
+      "layer": "KNOWN SCIENCE",
+      "confidence": "VERIFIED",
+      "text": "Known physics says the mechanism is spacetime curvature and acceleration under general relativity."
+    },
+    {
+      "start": 8.802083429895713,
+      "end": 15.591599810386601,
+      "layer": "ESTIMATED CONSEQUENCE",
+      "confidence": "ESTIMATED",
+      "text": "The best supported consequence is this: orbits, structures and biology would respond to the same changed acceleration."
+    },
+    {
+      "start": 15.591599810386601,
+      "end": 19.134,
+      "layer": "SPECULATIVE SCENARIO",
+      "confidence": "SPECULATIVE",
+      "text": "The exact timeline depends on how the impossible change occurs."
+    }
+  ],
+  "forbiddenOpening": false,
+  "sourceIds": [
+    "NIST — SI Units: Mass and Weight",
+    "NASA Glenn — Weight Equation",
+    "NASA — Acceleration Physiology"
+  ],
+  "timing": "measured from per-claim narration takes"
+}

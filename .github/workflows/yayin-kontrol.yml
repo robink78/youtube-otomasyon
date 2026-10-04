@@ -1,0 +1,81 @@
+name: Gunluk kontrol (yayin + bos gun)
+
+# Iki soruyu yanitlar, ikisi de sadece OKUR (videoya dokunmaz):
+#   1) Bugun hic video uretildi mi? Uretilmediyse (GitHub gunun 10 zamanlanmis
+#      denemesini de atladiysa) "🚨 Bugün video üretilmedi" issue'su acilir. 16:47'de.
+#   2) Zamanlanmis video (publishAt 18:00 New York) gercekten Public oldu mu? Olduysa
+#      videonun bildirim issue'suna "✅ Yayina girdi" yorumu duser; bir saat gectigi
+#      halde olmadiysa "❌ Otomatik yayin gerceklesmedi" issue'su acilir.
+# GitHub zamanlanmis isleri geciktirebildigi/atlayabildigi icin ucer saat.
+on:
+  schedule:
+    # Bu is akisinin zamanlamalari calisiyor (olculen: 26 Eylul'de ikisi de tetiklendi),
+    # uretim.yml'inkiler ayni gun hic tetiklenmedi. Bu yuzden erken saatlere de kuruldu:
+    # gunun videosu yoksa uretimi BURADAN baslatir (uretim-is.yml'i cagirir).
+    - cron: '11 8 * * *'
+    - cron: '37 11 * * *'
+    - cron: '29 14 * * *'
+    - cron: '47 16 * * *'
+    - cron: '27 18 * * *'
+    - cron: '53 19 * * *'
+    # Shorts go public at 18:00 America/New_York (22:00 UTC in summer time,
+    # 23:00 UTC in winter time). These runs confirm the publish and raise the
+    # "not published" alarm once it is more than an hour late in either season.
+    - cron: '27 22 * * *'
+    - cron: '17 0 * * *'
+    - cron: '43 1 * * *'
+  workflow_dispatch:
+
+# Uretimle ayni grup: ayni anda iki is depoya yazmasin.
+concurrency:
+  group: portfolio-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      FR_YT_CLIENT_ID: ${{ secrets.FR_YT_CLIENT_ID }}
+      FR_YT_CLIENT_SECRET: ${{ secrets.FR_YT_CLIENT_SECRET }}
+      FR_YT_REFRESH_TOKEN: ${{ secrets.FR_YT_REFRESH_TOKEN }}
+      FR_YT_CHANNEL_ID: ${{ vars.FR_YT_CHANNEL_ID }}
+      IB_CLIENT_ID: ${{ secrets.IB_CLIENT_ID }}
+      IB_CLIENT_SECRET: ${{ secrets.IB_CLIENT_SECRET }}
+      IB_YT_REFRESH_TOKEN: ${{ secrets.IB_YT_REFRESH_TOKEN }}
+      IB_YT_CHANNEL_ID: ${{ vars.IB_YT_CHANNEL_ID }}
+      CT_CLIENT_ID: ${{ secrets.CT_CLIENT_ID }}
+      CT_CLIENT_SECRET: ${{ secrets.CT_CLIENT_SECRET }}
+      CT_YT_REFRESH_TOKEN: ${{ secrets.CT_YT_REFRESH_TOKEN }}
+      CT_YT_CHANNEL_ID: ${{ vars.CT_YT_CHANNEL_ID }}
+      BTO_YT_CLIENT_ID: ${{ secrets.BTO_YT_CLIENT_ID }}
+      BTO_YT_CLIENT_SECRET: ${{ secrets.BTO_YT_CLIENT_SECRET }}
+      BTO_YT_REFRESH_TOKEN: ${{ secrets.BTO_YT_REFRESH_TOKEN }}
+      BTO_YT_CHANNEL_ID: ${{ vars.BTO_YT_CHANNEL_ID }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Yayin + bos gun kontrolu
+        run: |
+          node bildirim.js --channel failure-reconstructed --gun-kontrol || true
+          if [ "${{ vars.IB_PUBLISH }}" = "1" ]; then node bildirim.js --channel impossible-brief --gun-kontrol || true; fi
+          if [ "${{ vars.CT_PUBLISH }}" = "1" ]; then node bildirim.js --channel critical-thread --gun-kontrol || true; fi
+          if [ "${{ vars.BTO_PUBLISH }}" = "1" ]; then node bildirim.js --channel behind-the-ordinary --gun-kontrol || true; fi
+      - name: Bildirim durumunu kaydet
+        run: |
+          git config user.name  "uretim-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add icerik/bildirim-durum.json channels/*/state/notification-state.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "degisiklik yok"; exit 0; fi
+          git commit -m "chore: gunluk kontrol (otomatik)"
+          for i in 1 2 3 4 5; do git pull --rebase --autostash origin main && git push && exit 0; sleep $((i * 5)); done
+          exit 1

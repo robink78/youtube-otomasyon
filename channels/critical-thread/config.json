@@ -1,0 +1,66 @@
+{
+  "slug": "critical-thread",
+  "name": "CriticalThread",
+  "handle": "@CriticalThread",
+  "tagline": "The hidden systems holding the modern world together.",
+  "enabled": true,
+  "youtubeChannelId": "",
+  "credentialsPrefix": "CT",
+  "credentialEnv": {
+    "clientId": ["CT_CLIENT_ID", "CT_YT_CLIENT_ID"],
+    "clientSecret": ["CT_CLIENT_SECRET", "CT_YT_CLIENT_SECRET"],
+    "refreshToken": ["CT_YT_REFRESH_TOKEN", "CT_REFRESH_TOKEN"],
+    "channelId": ["CT_YT_CHANNEL_ID"]
+  },
+  "allowLegacyYouTubeEnv": false,
+  "pathMode": "isolated",
+  "timezone": "Europe/Istanbul",
+  "publishTime": "21:00",
+  "publishTimeZone": "Europe/Istanbul",
+  "publishTimeUtc": "18:00",
+  "publishingCadence": {
+    "shorts": { "everyDays": 1, "productionTime": "10:00", "targetDurationSeconds": [20, 45] },
+    "longForm": { "everyDays": 7, "targetDurationMinutes": [8, 12], "qualityOverCadence": true }
+  },
+  "voice": { "provider": "edge-tts", "voice": "en-US-ChristopherNeural", "rate": "+6%", "style": "measured premium technical documentary" },
+  "brandStyle": "dark technical documentary, global infrastructure, precise, premium, cinematic, restrained",
+  "contentNiche": "hidden systems, machines, materials and infrastructure that keep the modern world running",
+  "topicRules": {
+    "requiresMechanism": true,
+    "requiresSources": true,
+    "avoidDuplicates": true,
+    "claimConfidence": ["VERIFIED FACT", "ESTIMATE", "INDUSTRY CLAIM", "MODEL", "HYPOTHESIS"],
+    "dependencyQuestionRequired": true,
+    "noGenericTechnologyNews": true,
+    "noListicles": true
+  },
+  "qualityThresholds": {
+    "publish": 85,
+    "review": 70,
+    "technicalCredibilityMinimum": 82,
+    "sourceQualityMinimum": 78,
+    "hookMinimum": 76,
+    "noveltyMinimum": 68,
+    "visualPotentialMinimum": 72
+  },
+  "retentionRules": {
+    "memoryScope": "channel",
+    "learnAfterVideos": 5,
+    "doNotShareAcrossChannels": true,
+    "openingMaxSeconds": 3,
+    "secondBeatMaxSeconds": 8,
+    "hookVoiceMaxSeconds": 5.5,
+    "secondBeatVoiceMaxSeconds": 11,
+    "visualChangeTargetSeconds": [1.5, 3.5]
+  },
+  "ctaStrategy": "optional system-dependency bridge after the factual payoff",
+  "thumbnailStyle": "one critical object plus one global consequence, minimal high-contrast technical composition",
+  "titleStyle": "specific dependency, bottleneck or replacement difficulty; factual and varied",
+  "analytics": {
+    "checkpointsDays": [1, 3, 7, 14, 30],
+    "minSample": 5,
+    "topGeography": true,
+    "metrics": ["views", "engagedViews", "viewedVsSwipedAway", "watchTime", "averageViewDuration", "averagePercentageViewed", "first30SecondRetention", "impressions", "ctr", "likes", "comments", "shares", "subscriberGain", "shortsFeed", "browse", "suggested", "search", "returningViewers"]
+  },
+  "platforms": { "youtube": { "enabled": true }, "instagram": { "enabled": false }, "tiktok": { "enabled": false } }
+}

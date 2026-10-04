@@ -1,0 +1,38 @@
+name: Topic popularity refresh
+
+# Monthly: average Wikipedia pageviews of every topic's own article
+# (config/wiki-popularity.json), read by the topic scorer. Public API, no key.
+on:
+  schedule:
+    - cron: '17 3 2 * *'
+  workflow_dispatch:
+
+concurrency:
+  group: portfolio-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch pageviews
+        run: node scripts/wiki-popularity.js
+      - name: Commit
+        run: |
+          git config user.name "popularity-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add config/wiki-popularity.json
+          if git diff --cached --quiet; then echo "unchanged"; exit 0; fi
+          git commit -m "chore: refresh topic popularity (Wikipedia pageviews)"
+          for i in 1 2 3 4 5; do git pull --rebase --autostash origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i * 5)); done
+          exit 1

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Hypersonic Test That Failed in 13 Seconds",
+  "kaynaklar": [
+    {
+      "ad": "x-43a-first-flight-1.jpg",
+      "wikimedia": "X-43A and Pegasus rocket carried by NB-52B (EC01-0079-2).jpg"
+    },
+    {
+      "ad": "x-43a-first-flight-2.jpg",
+      "wikimedia": "X-43A and Pegasus rocket carried by NB-52B (EC01-0079-3).jpg"
+    },
+    {
+      "ad": "x-43a-first-flight-3.jpg",
+      "wikimedia": "X-43A departs NASA Dryden Flight Research Center for first free-flight attempt. DVIDS729056.jpg"
+    },
+    {
+      "ad": "x-43a-first-flight-4.jpg",
+      "wikimedia": "The X-43A-Pegasus combination dropped into the Pacific Ocean after losing control early in the first DVIDS690943.jpg"
+    },
+    {
+      "ad": "x-43a-first-flight-5.jpg",
+      "wikimedia": "Close view of B-52-Pegasus with X-43A in flight (EC01-0126-06).jpg"
+    },
+    {
+      "ad": "x-43a-first-flight-6.jpg",
+      "wikimedia": "B-52-Pegasus with X-43A departing on first captive flight (EC01-0126-03).jpg"
+    },
+    {
+      "ad": "x-43a-first-flight-7.jpg",
+      "wikimedia": "X-43A hypersonic research aircraft mated to its modified Pegasus® booster rocket (EC01-0019-18).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A B-52 released the X-43A and its booster rocket.",
+      "kaynak": "Footage/x-43a-first-flight-1.jpg"
+    },
+    {
+      "metin": "Within seconds, the booster began to oscillate and lost control.",
+      "kaynak": "Footage/x-43a-first-flight-2.jpg"
+    },
+    {
+      "metin": "About thirteen seconds after release, it deviated from its course.",
+      "kaynak": "Footage/x-43a-first-flight-3.jpg"
+    },
+    {
+      "metin": "An elevon on the rocket failed.",
+      "kaynak": "Footage/x-43a-first-flight-4.jpg"
+    },
+    {
+      "metin": "It was destroyed for safety.",
+      "kaynak": "Footage/x-43a-first-flight-5.jpg"
+    },
+    {
+      "metin": "Investigators found many small modelling errors.",
+      "kaynak": "Footage/x-43a-first-flight-6.jpg"
+    },
+    {
+      "metin": "Together they produced an inadequate control system.",
+      "kaynak": "Footage/x-43a-first-flight-7.jpg"
+    },
+    {
+      "metin": "Later flights set speed records.",
+      "kaynak": "Footage/x-43a-first-flight-1.jpg"
+    }
+  ],
+  "aciklama": "X-43A was destroyed after its booster lost control. The cause: inaccurate modelling producing an inadequate control system that let an elevon fail.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "X-43A",
+    "2001",
+    "pegasus booster",
+    "engineering failure"
+  ],
+  "hook": "It failed in 13 seconds",
+  "soru": "Is failure the fastest teacher?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the first X-43A flight",
+    "kisa": "X-43A",
+    "nesne": "Pegasus booster",
+    "yil": 2001,
+    "sonuc": "was destroyed after its booster lost control",
+    "tetik": "a control oscillation in the booster at transonic speed",
+    "mekanizma": "inaccurate modelling producing an inadequate control system that let an elevon fail",
+    "sayi": "13 SECONDS",
+    "ders": "better modelling led to record-setting later flights",
+    "zincir": [
+      "MODEL ERRORS",
+      "CONTROL SYSTEM TUNED WRONG",
+      "OSCILLATION AT TRANSONIC",
+      "ELEVON FAILS",
+      "DESTROYED"
+    ],
+    "zaman": [],
+    "yanilgi": "No single part was to blame. Many small modelling errors added up.",
+    "tartisma": "The next flights set speed records. Is failure the fastest teacher?",
+    "basliklar": [
+      "The Hypersonic Test That Failed in 13 Seconds",
+      "Why the First X-43A Flight Failed",
+      "The Booster That Lost Control"
+    ],
+    "kapak": [
+      "13 SECONDS",
+      "LOST CONTROL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — X-43A",
+        "url": "https://en.wikipedia.org/wiki/X-43A"
+      },
+      {
+        "ad": "NASA — x43 main (cited by Wikipedia)",
+        "url": "http://www.nasa.gov/missions/research/x43-main.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "X-43A",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "X-43A and Pegasus rocket carried by NB-52B (EC01-0079-2).jpg [Public domain]",
+      "X-43A and Pegasus rocket carried by NB-52B (EC01-0079-3).jpg [Public domain]",
+      "X-43A departs NASA Dryden Flight Research Center for first free-flight attempt. DVIDS729056.jpg [Public domain]",
+      "The X-43A-Pegasus combination dropped into the Pacific Ocean after losing control early in the first DVIDS690943.jpg [Public domain]",
+      "Close view of B-52-Pegasus with X-43A in flight (EC01-0126-06).jpg [Public domain]",
+      "B-52-Pegasus with X-43A departing on first captive flight (EC01-0126-03).jpg [Public domain]",
+      "X-43A hypersonic research aircraft mated to its modified Pegasus® booster rocket (EC01-0019-18).jpg [Public domain]"
+    ]
+  }
+}

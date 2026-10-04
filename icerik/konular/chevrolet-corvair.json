@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Car That Helped Create Federal Auto Safety Law",
+  "kaynaklar": [
+    {
+      "ad": "chevrolet-corvair-1.jpg",
+      "wikimedia": "1965 Chevrolet Corvair Corsa Fitch Sprint.jpg"
+    },
+    {
+      "ad": "chevrolet-corvair-2.jpg",
+      "wikimedia": "Flickr - DVS1mn - 62 Chevrolet Corvair Rampside Pick-Up (1).jpg"
+    },
+    {
+      "ad": "chevrolet-corvair-3.jpg",
+      "wikimedia": "\"NEW '61 CORVAIR\" car art detail, 1961 - Ed Newman Chevrolet - Matchcover - Allentown PA (cropped).jpg"
+    },
+    {
+      "ad": "chevrolet-corvair-4.jpg",
+      "wikimedia": "Corvair Monza GT.1.jpg"
+    },
+    {
+      "ad": "chevrolet-corvair-5.jpg",
+      "wikimedia": "Flickr - DVS1mn - 64 Chevrolet Corvair Monza (3) (cropped).jpg"
+    },
+    {
+      "ad": "chevrolet-corvair-6.jpg",
+      "wikimedia": "Front 66 Monza.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A compact car became the focus of America's first great car safety fight.",
+      "kaynak": "Footage/chevrolet-corvair-1.jpg"
+    },
+    {
+      "metin": "Crashes blamed on sudden oversteer led to lawsuits and a best-selling book.",
+      "kaynak": "Footage/chevrolet-corvair-2.jpg"
+    },
+    {
+      "metin": "The early Corvair used swing-axle rear suspension.",
+      "kaynak": "Footage/chevrolet-corvair-3.jpg"
+    },
+    {
+      "metin": "In hard turns, a rear wheel could tuck under.",
+      "kaynak": "Footage/chevrolet-corvair-4.jpg"
+    },
+    {
+      "metin": "Tyre pressures had to be kept exactly right.",
+      "kaynak": "Footage/chevrolet-corvair-5.jpg"
+    },
+    {
+      "metin": "Later tests found it no worse than rivals.",
+      "kaynak": "Footage/chevrolet-corvair-6.jpg"
+    },
+    {
+      "metin": "But the debate changed the law.",
+      "kaynak": "Footage/chevrolet-corvair-1.jpg"
+    },
+    {
+      "metin": "The US created federal auto safety standards soon after.",
+      "kaynak": "Footage/chevrolet-corvair-2.jpg"
+    }
+  ],
+  "aciklama": "Corvair became the centre of a national safety debate. The cause: swing-axle geometry causing rear wheel tuck and oversteer when tyre pressures were wrong.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Corvair",
+    "1965",
+    "suspension",
+    "engineering failure"
+  ],
+  "hook": "Unsafe at any speed?",
+  "soru": "Can pressure drive engineering?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "the Chevrolet Corvair",
+    "kisa": "Corvair",
+    "nesne": "Suspension",
+    "yil": 1965,
+    "sonuc": "became the centre of a national safety debate",
+    "tetik": "swing-axle rear suspension prone to oversteer",
+    "mekanizma": "swing-axle geometry causing rear wheel tuck and oversteer when tyre pressures were wrong",
+    "sayi": "UNSAFE AT ANY SPEED",
+    "ders": "the US created federal auto safety standards and an agency to enforce them",
+    "zincir": [
+      "REAR ENGINE AND SWING AXLES",
+      "TYRE PRESSURE CRITICAL",
+      "HARD CORNERING",
+      "WHEEL TUCKS UNDER",
+      "OVERSTEER AND LOSS OF CONTROL"
+    ],
+    "zaman": [],
+    "yanilgi": "Later government testing found the 1960–63 Corvair no worse than rivals. But the debate changed car safety law.",
+    "tartisma": "A single book turned car safety into politics. Can public pressure drive better engineering?",
+    "basliklar": [
+      "The Car That Helped Create Federal Auto Safety Law",
+      "Why the Chevrolet Corvair Became a Safety Scandal",
+      "The Swing Axle Behind 'Unsafe at Any Speed'"
+    ],
+    "kapak": [
+      "SWING AXLE",
+      "OVERSTEER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Chevrolet Corvair",
+        "url": "https://en.wikipedia.org/wiki/Chevrolet_Corvair"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — 50 years ago unsafe at any speed shook the auto world (cited by Wikipedia)",
+        "url": "https://www.nytimes.com/2015/11/27/automobiles/50-years-ago-unsafe-at-any-speed-shook-the-auto-world.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "Chevrolet_Corvair",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "1965 Chevrolet Corvair Corsa Fitch Sprint.jpg [CC BY 4.0]",
+      "Flickr - DVS1mn - 62 Chevrolet Corvair Rampside Pick-Up (1).jpg [CC BY 2.0]",
+      "\"NEW '61 CORVAIR\" car art detail, 1961 - Ed Newman Chevrolet - Matchcover - Allentown PA (cropped).jpg [Public domain]",
+      "Corvair Monza GT.1.jpg [Public domain]",
+      "Flickr - DVS1mn - 64 Chevrolet Corvair Monza (3) (cropped).jpg [CC BY 2.0]",
+      "Front 66 Monza.jpg [CC0]"
+    ]
+  }
+}

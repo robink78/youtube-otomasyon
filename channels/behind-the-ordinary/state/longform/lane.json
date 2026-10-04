@@ -1,0 +1,55 @@
+{
+  "channel": "behind-the-ordinary",
+  "cycles": [
+    {
+      "cycleId": "2026-W40",
+      "channel": "behind-the-ordinary",
+      "startedAt": "2026-10-03T19:22:31.354Z",
+      "status": "QUALITY_BLOCKED",
+      "evaluated": [
+        {
+          "slug": "why-the-bluetooth-logo-looks-like-that",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 69,
+          "bucket": "B",
+          "decision": "BLOCK",
+          "score": 88,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~3 min; target 8–15 min — not padded"
+          ],
+          "generationStatus": "COMPLETE"
+        },
+        {
+          "slug": "the-shopping-cart-started-as-a-folding-chair",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 67,
+          "bucket": "B",
+          "decision": "BLOCK",
+          "score": 85,
+          "hardFails": [
+            "COPY_RISK: 1 paragraph(s) reproduce encyclopedia wording (e.g. \"one of the first shopping carts was introduced on\")",
+            "INSUFFICIENT_DEPTH: evidence supports ~2 min; target 8–15 min — not padded",
+            "LLM generation failed safely (REQUEST); deterministic evidence draft retained"
+          ],
+          "generationStatus": "FAILED"
+        },
+        {
+          "slug": "why-some-barcode-bars-are-longer",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 67,
+          "bucket": "B",
+          "decision": "BLOCK",
+          "score": 86,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~2.1 min; target 8–15 min — not padded",
+            "LLM generation failed safely (REQUEST); deterministic evidence draft retained"
+          ],
+          "generationStatus": "FAILED"
+        }
+      ],
+      "selected": null,
+      "reason": "no candidate passed the long-form quality gate; cadence does not override quality",
+      "finishedAt": "2026-10-03T19:22:36.345Z"
+    }
+  ]
+}

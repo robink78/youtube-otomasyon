@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2026-10-04T18:12:35.026Z",
+  "channels": [
+    {
+      "channel": "failure-reconstructed",
+      "name": "Failure Reconstructed",
+      "subscribers": 21,
+      "views": 11687,
+      "watchHours": null,
+      "shortsFeedPercent": null,
+      "ctr": null,
+      "averagePercentViewed": null,
+      "subscribersPer1000Views": null,
+      "publishingSuccess": 100,
+      "libraryDaysRemaining": 362,
+      "bestTopic": null,
+      "bestCategory": null,
+      "productionCost": null,
+      "systemHealth": "library-low"
+    },
+    {
+      "channel": "impossible-brief",
+      "name": "ImpossibleBrief",
+      "subscribers": 0,
+      "views": 519,
+      "watchHours": null,
+      "shortsFeedPercent": null,
+      "ctr": null,
+      "averagePercentViewed": null,
+      "subscribersPer1000Views": null,
+      "publishingSuccess": 100,
+      "libraryDaysRemaining": 493,
+      "bestTopic": null,
+      "bestCategory": null,
+      "productionCost": null,
+      "systemHealth": "library-low"
+    },
+    {
+      "channel": "critical-thread",
+      "name": "CriticalThread",
+      "subscribers": 0,
+      "views": 953,
+      "watchHours": null,
+      "shortsFeedPercent": null,
+      "ctr": null,
+      "averagePercentViewed": null,
+      "subscribersPer1000Views": null,
+      "publishingSuccess": 100,
+      "libraryDaysRemaining": 517,
+      "bestTopic": null,
+      "bestCategory": null,
+      "productionCost": null,
+      "systemHealth": "healthy"
+    },
+    {
+      "channel": "behind-the-ordinary",
+      "name": "The Hidden Logic of Things",
+      "subscribers": 0,
+      "views": 0,
+      "watchHours": null,
+      "shortsFeedPercent": null,
+      "ctr": null,
+      "averagePercentViewed": null,
+      "subscribersPer1000Views": null,
+      "publishingSuccess": 100,
+      "libraryDaysRemaining": 4,
+      "bestTopic": null,
+      "bestCategory": null,
+      "productionCost": null,
+      "systemHealth": "library-low"
+    }
+  ],
+  "comparison": {
+    "fasterGrowth": "failure-reconstructed",
+    "betterRetention": "unavailable",
+    "betterSubscriberConversion": "unavailable",
+    "cheaperToProduce": "unavailable"
+  }
+}

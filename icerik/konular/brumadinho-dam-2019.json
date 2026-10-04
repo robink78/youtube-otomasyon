@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Mining Dam That Turned to Liquid in Seconds",
+  "kaynaklar": [
+    {
+      "ad": "brumadinho-dam-1.jpg",
+      "wikimedia": "-2019-01-30- Brumadinho 002 Romerito Pontes (46151220155).jpg"
+    },
+    {
+      "ad": "brumadinho-dam-2.jpg",
+      "wikimedia": "-2019-01-30- Brumadinho 003 Romerito Pontes (40099962903).jpg"
+    },
+    {
+      "ad": "brumadinho-dam-3.jpg",
+      "wikimedia": "-2019-01-30- Brumadinho 016 Romerito Pontes (47064790391) (cropped).jpg"
+    },
+    {
+      "ad": "brumadinho-dam-4.jpg",
+      "wikimedia": "Brumadinho.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A mining waste dam in Brazil collapsed in seconds.",
+      "kaynak": "Footage/brumadinho-dam-1.jpg"
+    },
+    {
+      "metin": "A wave of mud buried offices and a cafeteria, and two hundred seventy people were killed.",
+      "kaynak": "Footage/brumadinho-dam-2.jpg"
+    },
+    {
+      "metin": "The dam was built on top of its own waste.",
+      "kaynak": "Footage/brumadinho-dam-3.jpg"
+    },
+    {
+      "metin": "That waste was still saturated with water.",
+      "kaynak": "Footage/brumadinho-dam-4.jpg"
+    },
+    {
+      "metin": "Suddenly, it lost its strength and flowed like liquid.",
+      "kaynak": "Footage/brumadinho-dam-1.jpg"
+    },
+    {
+      "metin": "The dam had been certified stable months before.",
+      "kaynak": "Footage/brumadinho-dam-2.jpg"
+    },
+    {
+      "metin": "It became one of Brazil's worst industrial disasters.",
+      "kaynak": "Footage/brumadinho-dam-3.jpg"
+    },
+    {
+      "metin": "Brazil then banned this type of dam.",
+      "kaynak": "Footage/brumadinho-dam-4.jpg"
+    }
+  ],
+  "aciklama": "Brumadinho collapsed and buried a mining complex in mud. The cause: static liquefaction of an upstream-raised tailings dam.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Brumadinho",
+    "2019",
+    "tailings dam",
+    "engineering failure"
+  ],
+  "hook": "It turned to liquid",
+  "soru": "What is a certificate worth?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Brumadinho tailings dam",
+    "kisa": "Brumadinho",
+    "nesne": "Tailings dam",
+    "yil": 2019,
+    "sonuc": "collapsed and buried a mining complex in mud",
+    "tetik": "saturated tailings losing strength all at once",
+    "mekanizma": "static liquefaction of an upstream-raised tailings dam",
+    "sayi": "270 KILLED",
+    "ders": "Brazil banned upstream tailings dams",
+    "zincir": [
+      "DAM RAISED UPSTREAM ON ITS OWN WASTE",
+      "TAILINGS STAY SATURATED",
+      "STRENGTH DROPS SUDDENLY",
+      "DAM LIQUEFIES",
+      "MUDFLOW BURIES CAFETERIA AND OFFICES"
+    ],
+    "zaman": [],
+    "yanilgi": "No heavy rainstorm triggered it. The saturated waste inside the dam suddenly lost its strength.",
+    "tartisma": "The dam had been certified stable months earlier. What is a stability certificate worth?",
+    "basliklar": [
+      "The Mining Dam That Turned to Liquid in Seconds",
+      "Why the Brumadinho Dam Collapsed",
+      "The Dam That Liquefied in Seconds"
+    ],
+    "kapak": [
+      "LIQUEFIED",
+      "270 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Brumadinho dam disaster",
+        "url": "https://en.wikipedia.org/wiki/Brumadinho_dam_disaster"
+      },
+      {
+        "ad": "Government source — 2043 nota de esclarecimento 11 desastre barragem b1 (cited by Wikipedia)",
+        "url": "http://igam.mg.gov.br/banco-de-noticias/1-ultimas-noticias/2043-nota-de-esclarecimento-11-desastre-barragem-b1"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Brumadinho_dam_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "-2019-01-30- Brumadinho 002 Romerito Pontes (46151220155).jpg [CC BY 2.0]",
+      "-2019-01-30- Brumadinho 003 Romerito Pontes (40099962903).jpg [CC BY 2.0]",
+      "-2019-01-30- Brumadinho 016 Romerito Pontes (47064790391) (cropped).jpg [CC BY 2.0]",
+      "Brumadinho.jpg [Public domain]"
+    ]
+  }
+}

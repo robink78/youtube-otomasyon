@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "How Engineers Stopped the Leaning Tower From Falling",
+  "kaynaklar": [
+    {
+      "ad": "leaning-tower-of-pisa-1.jpg",
+      "wikimedia": "4.21.04PisaFromTowerByLuigiNovi1.jpg"
+    },
+    {
+      "ad": "leaning-tower-of-pisa-2.jpg",
+      "wikimedia": "Animals and monsters on the wall of the leaning tower of Pisa.jpg"
+    },
+    {
+      "ad": "leaning-tower-of-pisa-3.jpg",
+      "wikimedia": "Leaning Tower of Pisa in the 1890s.jpg"
+    },
+    {
+      "ad": "leaning-tower-of-pisa-4.jpg",
+      "wikimedia": "Leaning tower of Pisa - capital of column at the top.jpg"
+    },
+    {
+      "ad": "leaning-tower-of-pisa-5.jpg",
+      "wikimedia": "Torre di Pisa - panoramio (18).jpg"
+    },
+    {
+      "ad": "leaning-tower-of-pisa-6.jpg",
+      "wikimedia": "Tourists Posing to hold the Leaning Tower of Pisa, 2023.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The Leaning Tower of Pisa was closed because it was falling over.",
+      "kaynak": "Footage/leaning-tower-of-pisa-1.jpg"
+    },
+    {
+      "metin": "Its lean kept growing until collapse became a real risk.",
+      "kaynak": "Footage/leaning-tower-of-pisa-2.jpg"
+    },
+    {
+      "metin": "The tilt began during construction.",
+      "kaynak": "Footage/leaning-tower-of-pisa-3.jpg"
+    },
+    {
+      "metin": "Its foundation was shallow, and the soil beneath was soft and uneven.",
+      "kaynak": "Footage/leaning-tower-of-pisa-4.jpg"
+    },
+    {
+      "metin": "One side sank more than the other.",
+      "kaynak": "Footage/leaning-tower-of-pisa-5.jpg"
+    },
+    {
+      "metin": "Engineers carefully removed soil from under the high side.",
+      "kaynak": "Footage/leaning-tower-of-pisa-6.jpg"
+    },
+    {
+      "metin": "The tower settled back slightly and stopped moving.",
+      "kaynak": "Footage/leaning-tower-of-pisa-1.jpg"
+    },
+    {
+      "metin": "It reopened, still leaning, but stable.",
+      "kaynak": "Footage/leaning-tower-of-pisa-2.jpg"
+    }
+  ],
+  "aciklama": "Leaning Tower of Pisa was closed because it was leaning toward collapse. The cause: differential settlement of a shallow foundation in soft clay.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Leaning Tower of Pisa",
+    "1990",
+    "tower",
+    "engineering failure"
+  ],
+  "hook": "It was falling over",
+  "soru": "Straighten it fully?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the Leaning Tower of Pisa",
+    "kisa": "Leaning Tower of Pisa",
+    "nesne": "Tower",
+    "yil": 1990,
+    "sonuc": "was closed because it was leaning toward collapse",
+    "tetik": "a shallow foundation on soft, uneven soil",
+    "mekanizma": "differential settlement of a shallow foundation in soft clay",
+    "sayi": "CLOSED 1990",
+    "ders": "soil extraction under the high side reduced the lean",
+    "zincir": [
+      "SHALLOW FOUNDATION",
+      "SOFT SOIL ON ONE SIDE",
+      "TOWER BEGINS TO TILT",
+      "LEAN GROWS FOR CENTURIES",
+      "CLOSED, THEN STABILIZED"
+    ],
+    "zaman": [],
+    "yanilgi": "The lean wasn't a design choice. It began during construction, when one side sank into soft soil.",
+    "tartisma": "Engineers straightened it only slightly, not fully. Should a flaw that made it famous be preserved?",
+    "basliklar": [
+      "How Engineers Stopped the Leaning Tower From Falling",
+      "Why the Leaning Tower of Pisa Leans",
+      "How Engineers Saved the Leaning Tower"
+    ],
+    "kapak": [
+      "SOFT SOIL",
+      "ALMOST FELL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Leaning Tower of Pisa",
+        "url": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+      },
+      {
+        "ad": "Government source — sh89006632 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/sh89006632"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Leaning_Tower_of_Pisa",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "4.21.04PisaFromTowerByLuigiNovi1.jpg [CC BY 3.0]",
+      "Animals and monsters on the wall of the leaning tower of Pisa.jpg [Public domain]",
+      "Leaning Tower of Pisa in the 1890s.jpg [Public domain]",
+      "Leaning tower of Pisa - capital of column at the top.jpg [Public domain]",
+      "Torre di Pisa - panoramio (18).jpg [CC BY 3.0]",
+      "Tourists Posing to hold the Leaning Tower of Pisa, 2023.jpg [CC0]"
+    ]
+  }
+}

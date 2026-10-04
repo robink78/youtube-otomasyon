@@ -1,0 +1,987 @@
+{
+  "channel": "behind-the-ordinary",
+  "note": "Researched launch batch. Every fact carries a verbatim quote verified against its source text by scripts/ib-ct-library/build.js.",
+  "records": [
+    {
+      "replaces": "qr-codes-what-explains-three-corner-squares",
+      "slug": "why-qr-codes-have-three-corner-squares",
+      "category": "STRANGE ORIGINS",
+      "topic": "Why QR Codes Have Three Corner Squares",
+      "title": "Why QR Codes Have Three Corner Squares",
+      "coreQuestion": "Why does every QR code have three large squares in its corners?",
+      "hook": "Those three QR squares aren't decoration.",
+      "openingLine": "Those three QR squares aren't decoration.",
+      "secondBeat": "They tell the scanner where to look.",
+      "mechanism": "The corner squares are position detection patterns that let a reader find the code and its orientation",
+      "expectedConsequence": "A scanner can find and orient the code from any angle, so reading is fast",
+      "misconception": "The squares look like a logo or styling, but they are the locating pattern the reader searches for.",
+      "payoff": "The squares use a black-and-white ratio chosen because it is rare on printed matter.",
+      "thumbnailText": "NOT DECORATION",
+      "editorialTitles": [
+        "Why QR Codes Have Three Corner Squares",
+        "The Hidden Job of the Squares on Every QR Code",
+        "Those QR Code Squares Aren't Decoration"
+      ],
+      "visualScenes": [
+        "a real QR code on a product label",
+        "macro view of one corner square",
+        "labelled position detection pattern",
+        "stripe-ratio diagram across one square",
+        "phone scanning the code at a tilted angle"
+      ],
+      "narration": [
+        {
+          "role": "VISUAL_MYSTERY",
+          "layer": "VERIFIED FACT",
+          "text": "Those three QR squares aren't decoration."
+        },
+        {
+          "role": "CLEAR_PROMISE",
+          "layer": "VERIFIED FACT",
+          "text": "They tell the scanner where to look."
+        },
+        {
+          "role": "ORIGIN",
+          "layer": "VERIFIED FACT",
+          "text": "Denso Wave released the QR Code in 1994, and QR means quick response."
+        },
+        {
+          "role": "EXPLANATION",
+          "layer": "VERIFIED FACT",
+          "text": "The corner marks are position detection patterns. Finding them made high-speed reading possible."
+        },
+        {
+          "role": "SURPRISING_DETAIL",
+          "layer": "VERIFIED FACT",
+          "text": "Why squares? The team said that pattern was least likely to appear on business forms."
+        },
+        {
+          "role": "SURPRISING_DETAIL",
+          "layer": "VERIFIED FACT",
+          "text": "They surveyed flyers, magazines and cardboard boxes for the rarest black-and-white ratio."
+        },
+        {
+          "role": "PAYOFF",
+          "layer": "VERIFIED FACT",
+          "text": "That rare ratio lets a scanner orient the code from any angle."
+        }
+      ],
+      "facts": [
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "Denso Wave, then a division of Denso Corporation, announced the release of the QR Code in 1994.",
+          "quote": "In 1994, DENSO WAVE (then a division of DENSO CORPORATION) announced the release of its QR Code",
+          "source": "DENSO WAVE — History of QR Code",
+          "url": "https://www.qrcode.com/en/history/"
+        },
+        {
+          "role": "context",
+          "layer": "VERIFIED FACT",
+          "claim": "QR stands for quick response, reflecting a development focus on high-speed reading.",
+          "quote": "The QR in the name stands for quick response",
+          "source": "DENSO WAVE — History of QR Code",
+          "url": "https://www.qrcode.com/en/history/"
+        },
+        {
+          "role": "problem",
+          "layer": "VERIFIED FACT",
+          "claim": "The developers added positional information indicating that a code is present and should be read.",
+          "quote": "adding positional information indicating the existence of a code to be read",
+          "source": "DENSO WAVE — History of QR Code",
+          "url": "https://www.qrcode.com/en/history/"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "The square position detection marks made high-speed reading possible.",
+          "quote": "By incorporating these marks into their code, high-speed reading became possible",
+          "source": "DENSO WAVE — History of QR Code",
+          "url": "https://www.qrcode.com/en/history/"
+        },
+        {
+          "role": "surprising-detail",
+          "layer": "VERIFIED FACT",
+          "claim": "Masahiro Hara said square marks were chosen because that pattern was least likely to appear on business forms.",
+          "quote": "it was the pattern least likely to appear on various business forms and the like",
+          "source": "DENSO WAVE — History of QR Code",
+          "url": "https://www.qrcode.com/en/history/"
+        },
+        {
+          "role": "problem",
+          "layer": "VERIFIED FACT",
+          "claim": "A similar-looking mark near the code could be mistaken for a position detection pattern, so the pattern had to be unique.",
+          "quote": "their position detection patterns had to be truly unique",
+          "source": "DENSO WAVE — History of QR Code",
+          "url": "https://www.qrcode.com/en/history/"
+        },
+        {
+          "role": "surprising-detail",
+          "layer": "VERIFIED FACT",
+          "claim": "The team surveyed the ratio of white to black areas in printing on fliers, magazines and cardboard boxes.",
+          "quote": "an exhaustive survey of the ratio of white to black areas in pictures and symbols printed on fliers, magazines, cardboard boxes",
+          "source": "DENSO WAVE — History of QR Code",
+          "url": "https://www.qrcode.com/en/history/"
+        },
+        {
+          "role": "payoff",
+          "layer": "VERIFIED FACT",
+          "claim": "The least-used black-and-white ratio on printed matter, 1:1:3:1:1, set the widths of the position detection patterns.",
+          "quote": "came up with the least used ratio of black and white areas on printed matter. This ratio was 1:1:3:1:1",
+          "source": "DENSO WAVE — History of QR Code",
+          "url": "https://www.qrcode.com/en/history/"
+        },
+        {
+          "role": "consequence",
+          "layer": "VERIFIED FACT",
+          "claim": "Searching for this unique ratio lets a reader determine the code's orientation at any scanning angle.",
+          "quote": "the orientation of their code could be determined regardless of the angle of scanning",
+          "source": "DENSO WAVE — History of QR Code",
+          "url": "https://www.qrcode.com/en/history/"
+        },
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "The QR code was invented by Masahiro Hara of Denso Wave for labelling automobile parts.",
+          "quote": "invented in 1994 by Masahiro Hara of the Japanese company Denso Wave for labelling automobile parts",
+          "source": "Wikipedia — QR code",
+          "url": "https://en.wikipedia.org/wiki/QR_code"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "The three finder patterns sit at the upper left, upper right and lower left corners.",
+          "quote": "at the upper left, upper right and lower left corners of the QR code image",
+          "source": "Wikipedia — QR code",
+          "url": "https://en.wikipedia.org/wiki/QR_code"
+        }
+      ],
+      "sources": [
+        {
+          "name": "DENSO WAVE — History of QR Code",
+          "url": "https://www.qrcode.com/en/history/",
+          "type": "inventor / manufacturer"
+        },
+        {
+          "name": "DENSO WAVE — What is a QR Code?",
+          "url": "https://www.qrcode.com/en/about/",
+          "type": "inventor / manufacturer"
+        }
+      ]
+    },
+    {
+      "replaces": "the-bluetooth-symbol-what-explains-its-angular-rune",
+      "slug": "why-the-bluetooth-logo-looks-like-that",
+      "category": "STRANGE ORIGINS",
+      "topic": "Why the Bluetooth Logo Looks Like That",
+      "title": "Why the Bluetooth Logo Looks Like That",
+      "coreQuestion": "Why is the Bluetooth logo that angular symbol, and where did the name come from?",
+      "designDetail": "its angular rune",
+      "hook": "The Bluetooth logo is a Viking king's initials.",
+      "openingLine": "The Bluetooth logo is a Viking king's initials.",
+      "secondBeat": "Two runes, merged into one symbol.",
+      "mechanism": "The logo is a bind rune that merges the Younger Futhark runes for Harald Bluetooth's initials",
+      "expectedConsequence": "A temporary code name became the permanent name and logo of a global wireless standard",
+      "misconception": "Bluetooth sounds like a technical acronym, but it is a king's nickname that was meant to be a placeholder.",
+      "payoff": "The symbol is Harald's initials, written in runes.",
+      "thumbnailText": "VIKING INITIALS",
+      "editorialTitles": [
+        "Why the Bluetooth Logo Looks Like That",
+        "The Bluetooth Logo Is a Viking King's Initials",
+        "Bluetooth Was Never Meant to Be the Name",
+        "Bluetooth Was Only a Placeholder Name",
+        "The Viking King Hidden in the Bluetooth Logo",
+        "Why Bluetooth Is Named After a King",
+        "The Runes Inside the Bluetooth Logo",
+        "Bluetooth Almost Became RadioWire or PAN",
+        "The Code Name That Became Bluetooth"
+      ],
+      "visualScenes": [
+        "the Bluetooth logo on a phone settings screen",
+        "the two runes drawn separately",
+        "the runes sliding together into the logo",
+        "a runestone carving",
+        "a laptop and phone pairing"
+      ],
+      "narration": [
+        {
+          "role": "VISUAL_MYSTERY",
+          "layer": "VERIFIED FACT",
+          "text": "The Bluetooth logo is a Viking king's initials."
+        },
+        {
+          "role": "CLEAR_PROMISE",
+          "layer": "VERIFIED FACT",
+          "text": "Two runes, merged into one symbol."
+        },
+        {
+          "role": "ORIGIN",
+          "layer": "VERIFIED FACT",
+          "text": "The name honours King Harald Bluetooth, who united Denmark and Norway."
+        },
+        {
+          "role": "EXPLANATION",
+          "layer": "VERIFIED FACT",
+          "text": "At an industry meeting, Intel's Jim Kardach suggested it as a temporary code name."
+        },
+        {
+          "role": "EXPLANATION",
+          "layer": "VERIFIED FACT",
+          "text": "Harald united Scandinavia. This radio link would unite PCs and phones."
+        },
+        {
+          "role": "SURPRISING_DETAIL",
+          "layer": "VERIFIED FACT",
+          "text": "It was only a placeholder. RadioWire or PAN was meant to replace it."
+        },
+        {
+          "role": "SURPRISING_DETAIL",
+          "layer": "VERIFIED FACT",
+          "text": "PAN was already everywhere online, and RadioWire's trademark check ran out of time."
+        },
+        {
+          "role": "PAYOFF",
+          "layer": "VERIFIED FACT",
+          "text": "So the logo merges Harald's initials in runes: H and B."
+        }
+      ],
+      "facts": [
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "King Harald Bluetooth Gormsson was known for uniting Denmark and Norway in 958.",
+          "quote": "Uniting Denmark and Norway in 958",
+          "source": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+        },
+        {
+          "role": "context",
+          "layer": "VERIFIED FACT",
+          "claim": "Harald's nickname came from a dead tooth of a dark blue-grey colour.",
+          "quote": "His dead tooth, which was a dark blue/grey color, and earned him the nickname Bluetooth",
+          "source": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+        },
+        {
+          "role": "context",
+          "layer": "VERIFIED FACT",
+          "claim": "In 1996 Intel, Ericsson and Nokia met to plan the standardization of a short-range radio technology.",
+          "quote": "In 1996, three industry leaders, Intel, Ericsson, and Nokia, met to plan the standardization of this short-range radio technology",
+          "source": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+        },
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "At that meeting Jim Kardach of Intel suggested Bluetooth as a temporary code name.",
+          "quote": "Jim Kardach from Intel suggested Bluetooth as a temporary code name",
+          "source": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "Kardach compared Harald uniting Scandinavia with uniting the PC and cellular industries through a short-range wireless link.",
+          "quote": "was famous for uniting Scandinavia just as we intended to unite the PC and cellular industries with a short-range wireless link",
+          "source": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+        },
+        {
+          "role": "surprising-detail",
+          "layer": "VERIFIED FACT",
+          "claim": "Bluetooth was intended only as a placeholder name.",
+          "quote": "Bluetooth was only intended as a placeholder until marketing could come up with something really cool",
+          "source": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+        },
+        {
+          "role": "surprising-detail",
+          "layer": "VERIFIED FACT",
+          "claim": "The planned replacement names were RadioWire or PAN (Personal Area Networking).",
+          "quote": "Bluetooth was to be replaced with either RadioWire or PAN (Personal Area Networking)",
+          "source": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+        },
+        {
+          "role": "problem",
+          "layer": "VERIFIED FACT",
+          "claim": "PAN already had tens of thousands of hits on the internet.",
+          "quote": "PAN was the front runner, but an exhaustive search discovered it already had tens of thousands of hits throughout the internet",
+          "source": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+        },
+        {
+          "role": "problem",
+          "layer": "VERIFIED FACT",
+          "claim": "A full trademark search on RadioWire could not be completed in time for launch.",
+          "quote": "A full trademark search on RadioWire couldn't be completed in time for launch, making Bluetooth the only choice",
+          "source": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+        },
+        {
+          "role": "payoff",
+          "layer": "VERIFIED FACT",
+          "claim": "The Bluetooth logo is a bind rune merging the Younger Futhark runes Hagall and Bjarkan, Harald's initials.",
+          "quote": "The Bluetooth logo is a bind rune merging the Younger Futhark runes",
+          "source": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+        },
+        {
+          "role": "context",
+          "layer": "VERIFIED FACT",
+          "claim": "Kardach proposed the code name after seeing a picture of Harald Bluetooth's runestone in a history of the Vikings.",
+          "quote": "Upon discovering a picture of the runestone of Harald Bluetooth in the book A History of the Vikings by Gwyn Jones",
+          "source": "Wikipedia — Bluetooth",
+          "url": "https://en.wikipedia.org/wiki/Bluetooth"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/",
+          "type": "standards body (Bluetooth SIG)"
+        },
+        {
+          "name": "Bluetooth SIG — Bluetooth Technology Overview",
+          "url": "https://www.bluetooth.com/learn-about-bluetooth/tech-overview/",
+          "type": "standards body (Bluetooth SIG)"
+        }
+      ]
+    },
+    {
+      "replaces": "barcodes-what-explains-guard-bars",
+      "slug": "why-some-barcode-bars-are-longer",
+      "category": "STRANGE ORIGINS",
+      "topic": "Why Some Barcode Bars Are Longer",
+      "title": "Why Some Barcode Bars Are Longer",
+      "coreQuestion": "Why are a few bars on a UPC barcode longer than the rest?",
+      "hook": "Some barcode bars are longer, and that's deliberate.",
+      "openingLine": "Some barcode bars are longer, and that's deliberate.",
+      "secondBeat": "They hold no number at all.",
+      "mechanism": "The longer start, middle and end guard bars encode no digit; they mark the label, split the digits and set the timing for the scanner",
+      "expectedConsequence": "A scanner can detect the label and tell which half it is reading",
+      "misconception": "Every stripe looks like data, but the longest bars carry no digit.",
+      "payoff": "The longest bars are signposts for the scanner, not data.",
+      "thumbnailText": "NOT DATA",
+      "editorialTitles": [
+        "Why Some Barcode Bars Are Longer",
+        "The Barcode Bars That Hold No Number",
+        "Look Closely at a Barcode's Longest Bars"
+      ],
+      "visualScenes": [
+        "a UPC barcode on a grocery item",
+        "macro view of the longer guard bars",
+        "labelled start, middle and end guard patterns",
+        "the two six-digit halves highlighted",
+        "a checkout scanner reading the code"
+      ],
+      "narration": [
+        {
+          "role": "VISUAL_MYSTERY",
+          "layer": "VERIFIED FACT",
+          "text": "Some barcode bars are longer, and that's deliberate."
+        },
+        {
+          "role": "CLEAR_PROMISE",
+          "layer": "VERIFIED FACT",
+          "text": "They hold no number at all."
+        },
+        {
+          "role": "EXPLANATION",
+          "layer": "VERIFIED FACT",
+          "text": "On a UPC barcode, the start, middle and end guard bars extend lower."
+        },
+        {
+          "role": "EXPLANATION",
+          "layer": "VERIFIED FACT",
+          "text": "They encode no digit; they split the code into two halves."
+        },
+        {
+          "role": "ORIGIN",
+          "layer": "VERIFIED FACT",
+          "text": "IBM's George Laurer was assigned to design a supermarket scanner label."
+        },
+        {
+          "role": "SURPRISING_DETAIL",
+          "layer": "VERIFIED FACT",
+          "text": "His team defined guard bars so a scanner could detect the label."
+        },
+        {
+          "role": "SURPRISING_DETAIL",
+          "layer": "VERIFIED FACT",
+          "text": "They even told it which half it was reading."
+        },
+        {
+          "role": "PAYOFF",
+          "layer": "VERIFIED FACT",
+          "text": "So the longest bars are signposts, not data."
+        }
+      ],
+      "facts": [
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "The start, middle and end guard bars of a UPC-A barcode extend further down than the digit bars.",
+          "quote": "The bars forming the S (start), M (middle), and E (end) guard patterns, are extended downwards",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "Guard patterns do not encode a digit; they help decoding.",
+          "quote": "not encoding a digit) are intermixed to help decoding",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "The guard patterns separate the two groups of six digits and establish the timing.",
+          "quote": "The guard patterns separate the two groups of six numerical digits and establish the timing",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "role": "context",
+          "layer": "VERIFIED FACT",
+          "claim": "A UPC-A barcode has exactly 30 bars: 6 form guard patterns and 24 represent its 12 digits.",
+          "quote": "all UPC-A barcodes consist of exactly (3 × 2) + (12 × 2) = 30 bars, of which 6 represent guard patterns and 24 represent numerical digits",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "IBM assigned George Laurer to determine how to make a supermarket scanner and label.",
+          "quote": "assigned George Laurer to determine how to make a supermarket scanner and label",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "role": "problem",
+          "layer": "VERIFIED FACT",
+          "claim": "Laurer and a colleague defined guard bars and how a scanner should detect the label.",
+          "quote": "Together they defined guard bars and a definition of how to detect the label",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "role": "surprising-detail",
+          "layer": "VERIFIED FACT",
+          "claim": "The guard bars also identified which half of the label was being read and trained the scanner's threshold circuits.",
+          "quote": "The guard bars also provided identification for half label discrimination and training bars for the scanner threshold circuits",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "Splitting the label into two halves allowed the bars to be cut nearly in half in length.",
+          "quote": "suggested if the label were split into two halves the bar lengths could be cut nearly in half",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "role": "consequence",
+          "layer": "VERIFIED FACT",
+          "claim": "The first UPC-marked item scanned at a retail checkout was Wrigley's Juicy Fruit gum in Troy, Ohio, on 26 June 1974.",
+          "quote": "Wrigley's Juicy Fruit chewing gum, purchased at the Marsh supermarket in Troy, Ohio",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        }
+      ],
+      "sources": [
+        {
+          "name": "GS1 — EAN/UPC barcodes",
+          "url": "https://www.gs1.org/standards/barcodes/ean-upc",
+          "type": "standards body"
+        },
+        {
+          "name": "GS1 US — UPCs, barcodes and prefixes",
+          "url": "https://www.gs1us.org/upcs-barcodes-prefixes",
+          "type": "standards body"
+        }
+      ]
+    },
+    {
+      "replaces": "shopping-carts-what-explains-sloped-baskets",
+      "slug": "the-shopping-cart-started-as-a-folding-chair",
+      "category": "EVERYDAY MYSTERIES",
+      "topic": "The Shopping Cart Started as a Folding Chair",
+      "title": "The Shopping Cart Started as a Folding Chair",
+      "coreQuestion": "Where did the shopping cart come from, and why did shoppers first refuse to use it?",
+      "designDetail": "folding-chair origin",
+      "hook": "The shopping cart started as a folding chair.",
+      "openingLine": "The shopping cart started as a folding chair.",
+      "secondBeat": "And shoppers first refused to push it.",
+      "mechanism": "Sylvan Goldman put a basket on a folding chair's seat and wheels on its legs to let customers move more groceries",
+      "expectedConsequence": "After demonstrations by hired models, shopping carts became extremely popular",
+      "misconception": "The cart seems like an obvious idea, but shoppers initially resisted it.",
+      "payoff": "A folding chair with wheels became the shopping cart.",
+      "thumbnailText": "A FOLDING CHAIR",
+      "editorialTitles": [
+        "The Shopping Cart Started as a Folding Chair",
+        "Why Shoppers First Refused the Shopping Cart",
+        "The Folding Chair Behind Every Shopping Cart"
+      ],
+      "visualScenes": [
+        "a modern shopping cart in an aisle",
+        "a wooden folding chair",
+        "a basket placed on the chair seat with wheels on the legs",
+        "the 1930s folding basket carrier",
+        "a row of carts nested together"
+      ],
+      "narration": [
+        {
+          "role": "VISUAL_MYSTERY",
+          "layer": "VERIFIED FACT",
+          "text": "The shopping cart started as a folding chair."
+        },
+        {
+          "role": "CLEAR_PROMISE",
+          "layer": "VERIFIED FACT",
+          "text": "And shoppers first refused to push it."
+        },
+        {
+          "role": "ORIGIN",
+          "layer": "VERIFIED FACT",
+          "text": "In 1936, grocer Sylvan Goldman wondered how customers could move more groceries."
+        },
+        {
+          "role": "EXPLANATION",
+          "layer": "VERIFIED FACT",
+          "text": "He put a basket on a folding chair's seat and wheels on its legs."
+        },
+        {
+          "role": "ORIGIN",
+          "layer": "VERIFIED FACT",
+          "text": "His Humpty Dumpty stores introduced these folding basket carriers in 1937."
+        },
+        {
+          "role": "SURPRISING_DETAIL",
+          "layer": "VERIFIED FACT",
+          "text": "One offended woman told him she had pushed her last baby."
+        },
+        {
+          "role": "EXPLANATION",
+          "layer": "VERIFIED FACT",
+          "text": "So Goldman hired models to push the carts around his store."
+        },
+        {
+          "role": "PAYOFF",
+          "layer": "VERIFIED FACT",
+          "text": "After that, the folding chair on wheels became extremely popular."
+        }
+      ],
+      "facts": [
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "In 1936 Sylvan Goldman wondered how customers might move more groceries.",
+          "quote": "in 1936, Goldman sat in his office wondering how customers might move more groceries",
+          "source": "Wikipedia — Shopping cart",
+          "url": "https://en.wikipedia.org/wiki/Shopping_cart"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "Goldman put a basket on the seat of a wooden folding chair and wheels on its legs.",
+          "quote": "He found a wooden folding chair and put a basket on the seat and wheels on the legs",
+          "source": "Wikipedia — Shopping cart",
+          "url": "https://en.wikipedia.org/wiki/Shopping_cart"
+        },
+        {
+          "role": "context",
+          "layer": "VERIFIED FACT",
+          "claim": "Because they were inspired by a folding chair, Goldman called them folding basket carriers.",
+          "quote": "Goldman called his carts \"folding basket carriers\"",
+          "source": "Wikipedia — Shopping cart",
+          "url": "https://en.wikipedia.org/wiki/Shopping_cart"
+        },
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "One of the first shopping carts was introduced on June 4, 1937, by Goldman, owner of the Humpty Dumpty supermarket chain in Oklahoma.",
+          "quote": "One of the first shopping carts was introduced on June 4, 1937, the invention of Sylvan Goldman",
+          "source": "Wikipedia — Shopping cart",
+          "url": "https://en.wikipedia.org/wiki/Shopping_cart"
+        },
+        {
+          "role": "surprising-detail",
+          "layer": "VERIFIED FACT",
+          "claim": "An offended woman told Goldman she had pushed her last baby.",
+          "quote": "an offended woman informed Goldman",
+          "source": "Wikipedia — Shopping cart",
+          "url": "https://en.wikipedia.org/wiki/Shopping_cart"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "Goldman hired male and female models to push carts around the store, and carts then became extremely popular.",
+          "quote": "Goldman hired several male and female models to push his new invention around his store",
+          "source": "Wikipedia — Shopping cart",
+          "url": "https://en.wikipedia.org/wiki/Shopping_cart"
+        },
+        {
+          "role": "context",
+          "layer": "VERIFIED FACT",
+          "claim": "Goldman and his mechanic Fred Young began tinkering with the design.",
+          "quote": "Goldman and one of his employees, a mechanic named Fred Young, began tinkering",
+          "source": "Wikipedia — Shopping cart",
+          "url": "https://en.wikipedia.org/wiki/Shopping_cart"
+        },
+        {
+          "role": "consequence",
+          "layer": "VERIFIED FACT",
+          "claim": "Orla Watson invented the swinging rear door that allows carts to nest, in 1946.",
+          "quote": "Orla Watson, who invented the swinging rear door to allow for \"nesting\" in 1946",
+          "source": "Wikipedia — Shopping cart",
+          "url": "https://en.wikipedia.org/wiki/Shopping_cart"
+        },
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "Goldman established the Folding Basket Carrier Company to manufacture his invention.",
+          "quote": "He established the Folding Basket Carrier Company to manufacture his invention",
+          "source": "Oklahoma Historical Society — Goldman, Sylvan Nathan",
+          "url": "https://www.okhistory.org/publications/enc/entry?entry=GO004"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Oklahoma Historical Society — Goldman, Sylvan Nathan",
+          "url": "https://www.okhistory.org/publications/enc/entry?entry=GO004",
+          "type": "state historical society"
+        },
+        {
+          "name": "Gateway to Oklahoma History — Shopping Cart at Humpty Dumpty (photograph)",
+          "url": "https://gateway.okhistory.org/ark:/67531/metadc1119921/",
+          "type": "state historical archive"
+        }
+      ]
+    },
+    {
+      "replaces": "road-reflectors-what-explains-self-cleaning-faces",
+      "slug": "why-road-cats-eyes-clean-themselves",
+      "category": "HIDDEN ENGINEERING",
+      "topic": "Why Road Cat's Eyes Clean Themselves",
+      "title": "Why Road Cat's Eyes Clean Themselves",
+      "coreQuestion": "How do cat's eye road studs keep their reflectors clean?",
+      "hook": "Road cat's eyes clean themselves when cars hit them.",
+      "openingLine": "Road cat's eyes clean themselves when cars hit them.",
+      "secondBeat": "The trick is a rubber eyelid.",
+      "mechanism": "Traffic presses the flexible rubber dome down and a fixed rubber wiper cleans the reflectors as they sink",
+      "expectedConsequence": "Passing traffic keeps the reflectors clean",
+      "misconception": "They look like simple glass beads, but the stud is a small cleaning mechanism.",
+      "payoff": "Every car that drives over a cat's eye helps clean it.",
+      "thumbnailText": "SELF CLEANING",
+      "editorialTitles": [
+        "Why Road Cat's Eyes Clean Themselves",
+        "The Hidden Wiper Inside Every Road Stud",
+        "Cars Clean These Road Reflectors",
+        "The Rubber Eyelid Inside Cat's Eyes",
+        "How Road Studs Wipe Their Own Reflectors",
+        "Percy Shaw's Self-Cleaning Road Stud",
+        "Why Traffic Keeps Cat's Eyes Clean",
+        "The 1934 Road Stud That Cleans Itself",
+        "Rain Makes These Road Reflectors Cleaner",
+        "What Happens When a Tyre Hits a Cat's Eye"
+      ],
+      "visualScenes": [
+        "cat's eyes glowing on a night road",
+        "macro view of a road stud",
+        "cutaway of the rubber dome and wiper",
+        "a tyre pressing the stud down",
+        "rainwater pooled in the stud base"
+      ],
+      "narration": [
+        {
+          "role": "VISUAL_MYSTERY",
+          "layer": "VERIFIED FACT",
+          "text": "Road cat's eyes clean themselves when cars hit them."
+        },
+        {
+          "role": "CLEAR_PROMISE",
+          "layer": "VERIFIED FACT",
+          "text": "The trick is a rubber eyelid."
+        },
+        {
+          "role": "ORIGIN",
+          "layer": "VERIFIED FACT",
+          "text": "Percy Shaw of Halifax patented reflective road studs in 1934."
+        },
+        {
+          "role": "ORIGIN",
+          "layer": "VERIFIED FACT",
+          "text": "The name came from a cat's eyes reflecting light in the dark."
+        },
+        {
+          "role": "EXPLANATION",
+          "layer": "VERIFIED FACT",
+          "text": "The reflectors sit in a flexible rubber dome inside a cast iron housing."
+        },
+        {
+          "role": "EXPLANATION",
+          "layer": "VERIFIED FACT",
+          "text": "When a tyre presses it down, a fixed rubber wiper cleans the reflectors."
+        },
+        {
+          "role": "SURPRISING_DETAIL",
+          "layer": "VERIFIED FACT",
+          "text": "Rainwater held in the base makes that wipe even more efficient."
+        },
+        {
+          "role": "PAYOFF",
+          "layer": "VERIFIED FACT",
+          "text": "So passing traffic keeps the reflectors clean."
+        }
+      ],
+      "facts": [
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "Reflective cat's eye road studs were patented by Percy Shaw of Halifax in 1934.",
+          "quote": "Reflective Cats Eye road studs were patented by Percy Shaw of Halifax in 1934",
+          "source": "National Motor Museum — When were Cats Eyes first invented?",
+          "url": "https://nationalmotormuseum.org.uk/help-centre/motoring-firsts/when-were-cats-eyes-reflective-road-studs-first-invented/"
+        },
+        {
+          "role": "context",
+          "layer": "VERIFIED FACT",
+          "claim": "A company to manufacture the studs was established in 1935.",
+          "quote": "A manufacturing company, Reflective Road Studs Ltd, was established in 1935",
+          "source": "National Motor Museum — When were Cats Eyes first invented?",
+          "url": "https://nationalmotormuseum.org.uk/help-centre/motoring-firsts/when-were-cats-eyes-reflective-road-studs-first-invented/"
+        },
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "The name came from Shaw's inspiration: eyeshine reflecting from a cat's eyes.",
+          "quote": "the eyeshine reflecting from the eyes of a cat",
+          "source": "Wikipedia — Cat's eye (road)",
+          "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "The original design set two pairs of retroreflectors into a white rubber dome mounted in a cast iron housing.",
+          "quote": "two pairs of retroreflectors set into a white rubber dome, mounted in a cast iron housing",
+          "source": "Wikipedia — Cat's eye (road)",
+          "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "The flexible rubber dome is deformed by passing traffic.",
+          "quote": "the flexible rubber dome which is occasionally deformed by the passage of traffic",
+          "source": "Wikipedia — Cat's eye (road)",
+          "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "A fixed rubber wiper cleans the reflectors as they sink below the road surface.",
+          "quote": "A fixed rubber wiper cleans the surface of the reflectors as they sink below the surface of the road",
+          "source": "Wikipedia — Cat's eye (road)",
+          "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+        },
+        {
+          "role": "surprising-detail",
+          "layer": "VERIFIED FACT",
+          "claim": "The base holds water after rain, making the cleaning more efficient.",
+          "quote": "the base tends to hold water after a shower of rain, making this process even more efficient",
+          "source": "Wikipedia — Cat's eye (road)",
+          "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+        },
+        {
+          "role": "surprising-detail",
+          "layer": "VERIFIED FACT",
+          "claim": "The rubber cushion collected rainwater and closed like an eyelid over the glass when a tyre ran over it.",
+          "quote": "closed like an eyelid over the glass stud when a car tyre ran over it",
+          "source": "MyLearning — Percy Shaw, the Inventor of Catseyes",
+          "url": "https://www.mylearning.org/stories/percy-shaw-the-inventor-of-catseyes/feline-inspiration"
+        },
+        {
+          "role": "context",
+          "layer": "VERIFIED FACT",
+          "claim": "Metal kerbs protect the dome and give tactile and audible feedback to drivers who wander.",
+          "quote": "which also give tactile and audible feedback for wandering drivers",
+          "source": "Wikipedia — Cat's eye (road)",
+          "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+        }
+      ],
+      "sources": [
+        {
+          "name": "National Motor Museum — When were Cats Eyes first invented?",
+          "url": "https://nationalmotormuseum.org.uk/help-centre/motoring-firsts/when-were-cats-eyes-reflective-road-studs-first-invented/",
+          "type": "museum"
+        },
+        {
+          "name": "MyLearning — Percy Shaw, the Inventor of Catseyes",
+          "url": "https://www.mylearning.org/stories/percy-shaw-the-inventor-of-catseyes/feline-inspiration",
+          "type": "museum learning resource (Calderdale Museums)"
+        }
+      ]
+    },
+    {
+      "replaces": "jeans-what-explains-copper-rivets",
+      "slug": "why-jeans-have-copper-rivets",
+      "category": "EVERYDAY MYSTERIES",
+      "topic": "Why Jeans Have Copper Rivets",
+      "title": "Why Jeans Have Copper Rivets",
+      "coreQuestion": "Why do jeans have small copper rivets at the pocket corners?",
+      "hook": "Those copper dots on jeans started on horse blankets.",
+      "openingLine": "Those copper dots on jeans started on horse blankets.",
+      "secondBeat": "A tailor borrowed them for work trousers.",
+      "mechanism": "Rivets reinforce stress points such as pocket corners that tore apart under heavy wear",
+      "expectedConsequence": "Riveted work trousers became the blue jean; back-pocket rivets were later covered and then removed",
+      "misconception": "The rivets look decorative, but they began as reinforcement borrowed from horse blankets.",
+      "payoff": "Rivets still reinforce the most vulnerable parts of jeans.",
+      "thumbnailText": "HORSE BLANKETS",
+      "editorialTitles": [
+        "Why Jeans Have Copper Rivets",
+        "The Horse-Blanket Trick Hiding on Your Jeans",
+        "Why Jeans Lost Their Back-Pocket Rivets"
+      ],
+      "visualScenes": [
+        "copper rivets on a jeans pocket",
+        "macro view of one rivet",
+        "a riveted horse blanket corner",
+        "an 1873 patent drawing",
+        "a back pocket without rivets"
+      ],
+      "narration": [
+        {
+          "role": "VISUAL_MYSTERY",
+          "layer": "VERIFIED FACT",
+          "text": "Those copper dots on jeans started on horse blankets."
+        },
+        {
+          "role": "CLEAR_PROMISE",
+          "layer": "VERIFIED FACT",
+          "text": "A tailor borrowed them for work trousers."
+        },
+        {
+          "role": "ORIGIN",
+          "layer": "VERIFIED FACT",
+          "text": "In Reno, tailor Jacob Davis used rivets on pocket corners that tore apart."
+        },
+        {
+          "role": "EXPLANATION",
+          "layer": "VERIFIED FACT",
+          "text": "He couldn't afford a patent, so he asked Levi Strauss to apply with him."
+        },
+        {
+          "role": "ORIGIN",
+          "layer": "VERIFIED FACT",
+          "text": "In 1873 they patented an improvement in fastening pocket openings."
+        },
+        {
+          "role": "SURPRISING_DETAIL",
+          "layer": "VERIFIED FACT",
+          "text": "But back-pocket rivets scratched furniture and saddles."
+        },
+        {
+          "role": "CONSEQUENCE",
+          "layer": "VERIFIED FACT",
+          "text": "From 1937 they were covered, and by 1966 they were gone."
+        },
+        {
+          "role": "PAYOFF",
+          "layer": "VERIFIED FACT",
+          "text": "The rivets you see now still guard the most vulnerable spots."
+        }
+      ],
+      "facts": [
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "Jacob Davis pioneered rivets on work trousers in 1871 while working as a tailor in Reno, Nevada.",
+          "quote": "Jacob Davis pioneered rivets while working as a tailor in Reno",
+          "source": "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts",
+          "url": "https://www.levistrauss.com/2014/04/17/those-oft-forgotten-pant-parts/"
+        },
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "Davis had originally used rivets on horse blankets.",
+          "quote": "Davis had originally used rivets on horse blankets",
+          "source": "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts",
+          "url": "https://www.levistrauss.com/2014/04/17/those-oft-forgotten-pant-parts/"
+        },
+        {
+          "role": "problem",
+          "layer": "VERIFIED FACT",
+          "claim": "Rivets reinforced stress points such as back-pocket corners and the crotch, which often tore apart under heavy wear.",
+          "quote": "particularly the corners of the back pockets and the crotch, which often tore apart when exposed to heavy duty wear and tear",
+          "source": "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts",
+          "url": "https://www.levistrauss.com/2014/04/17/those-oft-forgotten-pant-parts/"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "Davis did not have the money to patent the technique, so he asked Levi Strauss to apply with him.",
+          "quote": "Since Davis did not have the money required to patent the technique of using rivets",
+          "source": "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts",
+          "url": "https://www.levistrauss.com/2014/04/17/those-oft-forgotten-pant-parts/"
+        },
+        {
+          "role": "origin",
+          "layer": "VERIFIED FACT",
+          "claim": "In 1873 the pair received a patent for an improvement in fastening pocket openings.",
+          "quote": "the pair received a patent for “improvement in fastening pocket-openings.”",
+          "source": "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts",
+          "url": "https://www.levistrauss.com/2014/04/17/those-oft-forgotten-pant-parts/"
+        },
+        {
+          "role": "explanation",
+          "layer": "VERIFIED FACT",
+          "claim": "Copper rivets kept pockets from ripping and made the openings stronger.",
+          "quote": "Copper rivets kept the pockets from ripping and made the openings stronger and more secure",
+          "source": "Levi Strauss & Co. Archives — Pockets Full of History",
+          "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
+        },
+        {
+          "role": "surprising-detail",
+          "layer": "VERIFIED FACT",
+          "claim": "In 1937 Levi's began covering back-pocket rivets because the copper points scratched furniture and saddles.",
+          "quote": "many had issues with the copper points scratching furniture and saddles",
+          "source": "Levi Strauss & Co. Archives — Pockets Full of History",
+          "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
+        },
+        {
+          "role": "consequence",
+          "layer": "VERIFIED FACT",
+          "claim": "The covered back-pocket rivets were dropped altogether by 1966 because they wore through the denim.",
+          "quote": "by 1966 were ditched altogether because they continued to wear through even the toughest denim",
+          "source": "Levi Strauss & Co. Archives — Pockets Full of History",
+          "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
+        },
+        {
+          "role": "payoff",
+          "layer": "VERIFIED FACT",
+          "claim": "Rivets continue to strengthen the most vulnerable parts of jeans.",
+          "quote": "rivets continue to strengthen and reinforce the most vulnerable parts of our jeans",
+          "source": "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts",
+          "url": "https://www.levistrauss.com/2014/04/17/those-oft-forgotten-pant-parts/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts",
+          "url": "https://www.levistrauss.com/2014/04/17/those-oft-forgotten-pant-parts/",
+          "type": "manufacturer archive"
+        },
+        {
+          "name": "Levi Strauss & Co. Archives — Pockets Full of History",
+          "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/",
+          "type": "manufacturer archive"
+        }
+      ],
+      "visualArticles": [
+        "Jeans"
+      ]
+    }
+  ]
+}

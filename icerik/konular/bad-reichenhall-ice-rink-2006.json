@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Glued Timber Roof That Collapsed Under Snow",
+  "kaynaklar": [
+    {
+      "ad": "bad-reichenhall-ice-rink-1.jpg",
+      "wikimedia": "Blickvomhochschlegel01.jpg"
+    },
+    {
+      "ad": "bad-reichenhall-ice-rink-2.jpg",
+      "wikimedia": "Blickvomhochschlegel02 (cropped).jpg"
+    },
+    {
+      "ad": "bad-reichenhall-ice-rink-3.jpg",
+      "wikimedia": "Blickvomhochschlegel02.jpg"
+    },
+    {
+      "ad": "bad-reichenhall-ice-rink-4.jpg",
+      "wikimedia": "Blickvompredigtstuhl02.jpg"
+    },
+    {
+      "ad": "bad-reichenhall-ice-rink-5.jpg",
+      "wikimedia": "Blickvompredigtstuhl04.jpg"
+    },
+    {
+      "ad": "bad-reichenhall-ice-rink-6.jpg",
+      "wikimedia": "Blickvonneumeran03.jpg"
+    },
+    {
+      "ad": "bad-reichenhall-ice-rink-7.jpg",
+      "wikimedia": "Florianiplatz03.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The roof of an ice rink in Bavaria collapsed onto skaters.",
+      "kaynak": "Footage/bad-reichenhall-ice-rink-1.jpg"
+    },
+    {
+      "metin": "Children were among the fifteen people killed.",
+      "kaynak": "Footage/bad-reichenhall-ice-rink-2.jpg"
+    },
+    {
+      "metin": "The roof rested on glued timber beams.",
+      "kaynak": "Footage/bad-reichenhall-ice-rink-3.jpg"
+    },
+    {
+      "metin": "The adhesive used was unsuitable for the conditions.",
+      "kaynak": "Footage/bad-reichenhall-ice-rink-4.jpg"
+    },
+    {
+      "metin": "Moisture had weakened the joints over many years.",
+      "kaynak": "Footage/bad-reichenhall-ice-rink-5.jpg"
+    },
+    {
+      "metin": "Heavy snow was more than the degraded beams could carry.",
+      "kaynak": "Footage/bad-reichenhall-ice-rink-6.jpg"
+    },
+    {
+      "metin": "The rink was about to be closed because of the snow.",
+      "kaynak": "Footage/bad-reichenhall-ice-rink-7.jpg"
+    },
+    {
+      "metin": "Germany then required inspections of large public roofs.",
+      "kaynak": "Footage/bad-reichenhall-ice-rink-1.jpg"
+    }
+  ],
+  "aciklama": "Bad Reichenhall had its roof collapse onto skaters. The cause: failure of glued laminated timber beams degraded by moisture and an unsuitable adhesive.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Bad Reichenhall",
+    "2006",
+    "timber roof",
+    "engineering failure"
+  ],
+  "hook": "The glue had failed",
+  "soru": "Close it earlier?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the Bad Reichenhall ice rink",
+    "kisa": "Bad Reichenhall",
+    "nesne": "Timber roof",
+    "yil": 2006,
+    "sonuc": "had its roof collapse onto skaters",
+    "tetik": "snow load on glued timber beams weakened for years",
+    "mekanizma": "failure of glued laminated timber beams degraded by moisture and an unsuitable adhesive",
+    "sayi": "15 KILLED",
+    "ders": "Germany introduced mandatory inspections for large-span public roofs",
+    "zincir": [
+      "UNSUITABLE ADHESIVE USED",
+      "MOISTURE WEAKENS GLUE",
+      "HEAVY SNOW ON ROOF",
+      "BEAMS FAIL",
+      "ROOF FALLS ON SKATERS"
+    ],
+    "zaman": [],
+    "yanilgi": "The snow wasn't extreme for the region. The beams had lost much of their strength long before.",
+    "tartisma": "The rink was due to close because of the snow. How close is too close to a decision?",
+    "basliklar": [
+      "The Glued Timber Roof That Collapsed Under Snow",
+      "Why the Bad Reichenhall Ice Rink Roof Collapsed",
+      "The Glue That Failed Over Years"
+    ],
+    "kapak": [
+      "WEAK GLUE",
+      "15 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Bad Reichenhall Ice Rink roof collapse",
+        "url": "https://en.wikipedia.org/wiki/Bad_Reichenhall_Ice_Rink_roof_collapse"
+      },
+      {
+        "ad": "Academic / engineering journal — doBasicSearch?Query=\"Bad+Reichenhall+Ice+Rink\"&acc=on&wc=on (cited by Wikipedia)",
+        "url": "https://www.jstor.org/action/doBasicSearch?Query=%22Bad+Reichenhall+Ice+Rink%22&acc=on&wc=on"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Bad_Reichenhall_Ice_Rink_roof_collapse",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Blickvomhochschlegel01.jpg [Public domain]",
+      "Blickvomhochschlegel02 (cropped).jpg [Public domain]",
+      "Blickvomhochschlegel02.jpg [Public domain]",
+      "Blickvompredigtstuhl02.jpg [Public domain]",
+      "Blickvompredigtstuhl04.jpg [Public domain]",
+      "Blickvonneumeran03.jpg [Public domain]",
+      "Florianiplatz03.jpg [Public domain]"
+    ]
+  }
+}

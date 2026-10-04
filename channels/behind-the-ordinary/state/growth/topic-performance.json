@@ -1,0 +1,34 @@
+{
+  "channel": "behind-the-ordinary",
+  "updatedAt": "2026-10-04T18:12:34.608Z",
+  "families": [
+    {
+      "contentType": "short",
+      "cluster": "HIDDEN ENGINEERING",
+      "publications": 1,
+      "measured": 1,
+      "predictedTopicScore": 82,
+      "actualGrowthScore": 50,
+      "medianViews": 4,
+      "medianAveragePercentageViewed": null,
+      "medianSubscribersPer1000Views": null,
+      "confidence": "insufficient",
+      "mode": "explore",
+      "fatigue": false
+    },
+    {
+      "contentType": "short",
+      "cluster": "EVERYDAY MYSTERIES",
+      "publications": 1,
+      "measured": 0,
+      "predictedTopicScore": 81,
+      "actualGrowthScore": null,
+      "medianViews": null,
+      "medianAveragePercentageViewed": null,
+      "medianSubscribersPer1000Views": null,
+      "confidence": "insufficient",
+      "mode": "explore",
+      "fatigue": false
+    }
+  ]
+}

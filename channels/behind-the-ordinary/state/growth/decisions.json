@@ -1,0 +1,1600 @@
+[
+  {
+    "schema": "growth-topic-decision/1",
+    "channel": "behind-the-ordinary",
+    "contentType": "short",
+    "date": "2026-10-03",
+    "createdAt": "2026-10-03T19:33:20.063Z",
+    "mode": "EXPLORE",
+    "modeRoll": 0.23,
+    "pool": {
+      "minimum": 1,
+      "target": 50,
+      "count": 7,
+      "meetsMinimum": true,
+      "candidates": [
+        {
+          "topicId": "BTO-256",
+          "slug": "why-the-bluetooth-logo-looks-like-that",
+          "topic": "Why the Bluetooth Logo Looks Like That",
+          "cluster": "STRANGE ORIGINS",
+          "bucket": "A",
+          "viralScore": 72,
+          "videoPotentialScore": 82,
+          "selectionScore": 76,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 96,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 86,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 55,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 90,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 82,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 92,
+              "basis": "derived",
+              "note": "10 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 69,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 74,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 92,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 97,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -10,
+              "basis": "penalty",
+              "note": "90/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "The Bluetooth logo is a Viking king's initials.",
+            "score": 75
+          },
+          "rejectionReasons": [
+            "VideoPotential 82 ≥ 80",
+            "hook 75",
+            "sources 90"
+          ]
+        },
+        {
+          "topicId": "BTO-135",
+          "slug": "why-road-cats-eyes-clean-themselves",
+          "topic": "Why Road Cat's Eyes Clean Themselves",
+          "cluster": "HIDDEN ENGINEERING",
+          "bucket": "A",
+          "viralScore": 68,
+          "videoPotentialScore": 82,
+          "selectionScore": 74,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 80,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 78,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 60,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 87,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 92,
+              "basis": "derived",
+              "note": "11 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 86,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 87,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 100,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 1 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -20,
+              "basis": "penalty",
+              "note": "80/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Road cat's eyes clean themselves when cars hit them.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 82 ≥ 80",
+            "hook 77",
+            "sources 80"
+          ]
+        },
+        {
+          "topicId": "BTO-016",
+          "slug": "why-jeans-have-a-tiny-pocket",
+          "topic": "Why Jeans Have a Tiny Pocket",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "A",
+          "viralScore": 69,
+          "videoPotentialScore": 81,
+          "selectionScore": 74,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 98,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 90,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 84,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 100,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -15,
+              "basis": "penalty",
+              "note": "85/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "contradiction",
+            "spoken": "That tiny jeans pocket was not designed for loose change.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 81 ≥ 80",
+            "hook 77",
+            "sources 85"
+          ]
+        },
+        {
+          "topicId": "BTO-017",
+          "slug": "why-jeans-have-copper-rivets",
+          "topic": "Why Jeans Have Copper Rivets",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "A",
+          "viralScore": 68,
+          "videoPotentialScore": 80,
+          "selectionScore": 73,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 89,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 80,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 87,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 57,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 92,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -18,
+              "basis": "penalty",
+              "note": "82/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Those copper dots on jeans started on horse blankets.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 80",
+            "hook 77",
+            "sources 82"
+          ]
+        },
+        {
+          "topicId": "BTO-301",
+          "slug": "why-qr-codes-have-three-corner-squares",
+          "topic": "Why QR Codes Have Three Corner Squares",
+          "cluster": "STRANGE ORIGINS",
+          "bucket": "A",
+          "viralScore": 67,
+          "videoPotentialScore": 80,
+          "selectionScore": 72,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 89,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 80,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 87,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -18,
+              "basis": "penalty",
+              "note": "82/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Those three QR squares aren't decoration.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 80",
+            "hook 77",
+            "sources 82"
+          ]
+        },
+        {
+          "topicId": "BTO-226",
+          "slug": "why-some-barcode-bars-are-longer",
+          "topic": "Why Some Barcode Bars Are Longer",
+          "cluster": "STRANGE ORIGINS",
+          "bucket": "B",
+          "viralScore": 69,
+          "videoPotentialScore": 80,
+          "selectionScore": 73,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 87,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 60,
+              "basis": "measured"
+            },
+            "surprise": {
+              "value": 90,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 94,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 53,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 82,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -10,
+              "basis": "penalty",
+              "note": "90/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Some barcode bars are longer, and that's deliberate.",
+            "score": 74
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 68",
+            "not A: hook 74 < 75"
+          ]
+        },
+        {
+          "topicId": "BTO-040",
+          "slug": "the-shopping-cart-started-as-a-folding-chair",
+          "topic": "The Shopping Cart Started as a Folding Chair",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "B",
+          "viralScore": 64,
+          "videoPotentialScore": 76,
+          "selectionScore": 69,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 82,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 60,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 95,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 78,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 81,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 76,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -20,
+              "basis": "penalty",
+              "note": "80/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "The shopping cart started as a folding chair.",
+            "score": 75
+          },
+          "rejectionReasons": [
+            "VideoPotential 76 ≥ 68"
+          ]
+        }
+      ]
+    },
+    "selected": {
+      "topicId": "BTO-135",
+      "slug": "why-road-cats-eyes-clean-themselves",
+      "topic": "Why Road Cat's Eyes Clean Themselves",
+      "cluster": "HIDDEN ENGINEERING",
+      "bucket": "A",
+      "viralScore": 68,
+      "videoPotentialScore": 82,
+      "selectionScore": 74,
+      "viralComponents": {
+        "curiosity_gap": {
+          "value": 80,
+          "basis": "derived"
+        },
+        "immediate_stakes": {
+          "value": 78,
+          "basis": "derived"
+        },
+        "human_consequence": {
+          "value": 45,
+          "basis": "derived"
+        },
+        "recognizability": {
+          "value": 50,
+          "basis": "inventory-signal"
+        },
+        "surprise": {
+          "value": 60,
+          "basis": "derived"
+        },
+        "visual_potential": {
+          "value": 87,
+          "basis": "inventory-signal"
+        },
+        "archival_footage_potential": {
+          "value": 35,
+          "basis": "inventory-signal"
+        },
+        "first_frame_potential": {
+          "value": 68,
+          "basis": "derived"
+        },
+        "title_potential": {
+          "value": 92,
+          "basis": "derived",
+          "note": "11 source-backed title seeds"
+        },
+        "emotional_tension": {
+          "value": 65,
+          "basis": "derived"
+        },
+        "contradiction": {
+          "value": 85,
+          "basis": "derived"
+        },
+        "unexpected_cause": {
+          "value": 65,
+          "basis": "derived"
+        },
+        "numerical_anomaly": {
+          "value": 86,
+          "basis": "derived"
+        },
+        "didnt_know_factor": {
+          "value": 88,
+          "basis": "derived"
+        },
+        "shareability": {
+          "value": 87,
+          "basis": "derived"
+        },
+        "channel_fit": {
+          "value": 100,
+          "basis": "derived"
+        },
+        "historical_similarity": {
+          "value": 50,
+          "basis": "neutral",
+          "note": "no same-cluster channel evidence yet"
+        },
+        "duplicate_risk": {
+          "value": 0,
+          "basis": "penalty",
+          "note": "no published-title collision"
+        },
+        "saturation_risk": {
+          "value": 0,
+          "basis": "penalty",
+          "note": "0 published / 1 inventory in cluster"
+        },
+        "source_confidence_risk": {
+          "value": -20,
+          "basis": "penalty",
+          "note": "80/100 source quality"
+        },
+        "weak_footage_risk": {
+          "value": -40,
+          "basis": "penalty",
+          "note": "no archival footage confirmed"
+        }
+      },
+      "selectedHook": {
+        "family": "visual_first_reveal",
+        "spoken": "Road cat's eyes clean themselves when cars hit them.",
+        "score": 77
+      },
+      "rejectionReasons": [
+        "VideoPotential 82 ≥ 80",
+        "hook 77",
+        "sources 80"
+      ]
+    },
+    "reason": "EXPLORE (0.25): under-sampled cluster HIDDEN ENGINEERING"
+  },
+  {
+    "schema": "growth-topic-decision/1",
+    "channel": "behind-the-ordinary",
+    "contentType": "short",
+    "date": "2026-10-04",
+    "createdAt": "2026-10-04T12:23:55.713Z",
+    "mode": "EXPLOIT",
+    "modeRoll": 0.775,
+    "pool": {
+      "minimum": 1,
+      "target": 50,
+      "count": 5,
+      "meetsMinimum": true,
+      "candidates": [
+        {
+          "topicId": "BTO-016",
+          "slug": "why-jeans-have-a-tiny-pocket",
+          "topic": "Why Jeans Have a Tiny Pocket",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "A",
+          "viralScore": 69,
+          "videoPotentialScore": 81,
+          "selectionScore": 74,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 98,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 90,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 84,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 100,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -15,
+              "basis": "penalty",
+              "note": "85/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "contradiction",
+            "spoken": "That tiny jeans pocket was not designed for loose change.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 81 ≥ 80",
+            "hook 77",
+            "sources 85"
+          ]
+        },
+        {
+          "topicId": "BTO-017",
+          "slug": "why-jeans-have-copper-rivets",
+          "topic": "Why Jeans Have Copper Rivets",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "A",
+          "viralScore": 68,
+          "videoPotentialScore": 80,
+          "selectionScore": 73,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 89,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 80,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 87,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 57,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 92,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -18,
+              "basis": "penalty",
+              "note": "82/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Those copper dots on jeans started on horse blankets.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 80",
+            "hook 77",
+            "sources 82"
+          ]
+        },
+        {
+          "topicId": "BTO-301",
+          "slug": "why-qr-codes-have-three-corner-squares",
+          "topic": "Why QR Codes Have Three Corner Squares",
+          "cluster": "STRANGE ORIGINS",
+          "bucket": "A",
+          "viralScore": 67,
+          "videoPotentialScore": 80,
+          "selectionScore": 72,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 89,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 80,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 87,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -18,
+              "basis": "penalty",
+              "note": "82/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Those three QR squares aren't decoration.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 80",
+            "hook 77",
+            "sources 82"
+          ]
+        },
+        {
+          "topicId": "BTO-226",
+          "slug": "why-some-barcode-bars-are-longer",
+          "topic": "Why Some Barcode Bars Are Longer",
+          "cluster": "STRANGE ORIGINS",
+          "bucket": "B",
+          "viralScore": 69,
+          "videoPotentialScore": 80,
+          "selectionScore": 73,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 87,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 60,
+              "basis": "measured"
+            },
+            "surprise": {
+              "value": 90,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 94,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 53,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 82,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -10,
+              "basis": "penalty",
+              "note": "90/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Some barcode bars are longer, and that's deliberate.",
+            "score": 74
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 68",
+            "not A: hook 74 < 75"
+          ]
+        },
+        {
+          "topicId": "BTO-040",
+          "slug": "the-shopping-cart-started-as-a-folding-chair",
+          "topic": "The Shopping Cart Started as a Folding Chair",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "B",
+          "viralScore": 64,
+          "videoPotentialScore": 76,
+          "selectionScore": 69,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 82,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 60,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 95,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 78,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 81,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 76,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -20,
+              "basis": "penalty",
+              "note": "80/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "The shopping cart started as a folding chair.",
+            "score": 75
+          },
+          "rejectionReasons": [
+            "VideoPotential 76 ≥ 68"
+          ]
+        }
+      ]
+    },
+    "selected": {
+      "topicId": "BTO-016",
+      "slug": "why-jeans-have-a-tiny-pocket",
+      "topic": "Why Jeans Have a Tiny Pocket",
+      "cluster": "EVERYDAY MYSTERIES",
+      "bucket": "A",
+      "viralScore": 69,
+      "videoPotentialScore": 81,
+      "selectionScore": 74,
+      "viralComponents": {
+        "curiosity_gap": {
+          "value": 98,
+          "basis": "derived"
+        },
+        "immediate_stakes": {
+          "value": 70,
+          "basis": "derived"
+        },
+        "human_consequence": {
+          "value": 35,
+          "basis": "derived"
+        },
+        "recognizability": {
+          "value": 50,
+          "basis": "inventory-signal"
+        },
+        "surprise": {
+          "value": 90,
+          "basis": "derived"
+        },
+        "visual_potential": {
+          "value": 84,
+          "basis": "inventory-signal"
+        },
+        "archival_footage_potential": {
+          "value": 35,
+          "basis": "inventory-signal"
+        },
+        "first_frame_potential": {
+          "value": 68,
+          "basis": "derived"
+        },
+        "title_potential": {
+          "value": 84,
+          "basis": "derived",
+          "note": "4 source-backed title seeds"
+        },
+        "emotional_tension": {
+          "value": 45,
+          "basis": "derived"
+        },
+        "contradiction": {
+          "value": 85,
+          "basis": "derived"
+        },
+        "unexpected_cause": {
+          "value": 65,
+          "basis": "derived"
+        },
+        "numerical_anomaly": {
+          "value": 95,
+          "basis": "derived"
+        },
+        "didnt_know_factor": {
+          "value": 88,
+          "basis": "derived"
+        },
+        "shareability": {
+          "value": 91,
+          "basis": "derived"
+        },
+        "channel_fit": {
+          "value": 100,
+          "basis": "derived"
+        },
+        "historical_similarity": {
+          "value": 50,
+          "basis": "neutral",
+          "note": "no same-cluster channel evidence yet"
+        },
+        "duplicate_risk": {
+          "value": 0,
+          "basis": "penalty",
+          "note": "no published-title collision"
+        },
+        "saturation_risk": {
+          "value": 0,
+          "basis": "penalty",
+          "note": "0 published / 3 inventory in cluster"
+        },
+        "source_confidence_risk": {
+          "value": -15,
+          "basis": "penalty",
+          "note": "85/100 source quality"
+        },
+        "weak_footage_risk": {
+          "value": -40,
+          "basis": "penalty",
+          "note": "no archival footage confirmed"
+        }
+      },
+      "selectedHook": {
+        "family": "contradiction",
+        "spoken": "That tiny jeans pocket was not designed for loose change.",
+        "score": 77
+      },
+      "rejectionReasons": [
+        "VideoPotential 81 ≥ 80",
+        "hook 77",
+        "sources 85"
+      ]
+    },
+    "reason": "EXPLOIT (0.75): best A topic by SelectionScore"
+  }
+]

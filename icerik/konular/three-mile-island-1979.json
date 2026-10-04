@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Stuck Valve and a Misleading Light Melted a Reactor",
+  "kaynaklar": [
+    {
+      "ad": "three-mile-island-1.jpg",
+      "wikimedia": "Harrisburg Int Airport with Pennsylvania ANG aircraft 1979.jpg"
+    },
+    {
+      "ad": "three-mile-island-2.jpg",
+      "wikimedia": "Three Mile Island 1979-04-11.jpg"
+    },
+    {
+      "ad": "three-mile-island-3.jpg",
+      "wikimedia": "Goldsboro, PA and TMI.jpg"
+    },
+    {
+      "ad": "three-mile-island-4.jpg",
+      "wikimedia": "Graphic TMI-2 Core End-State Configuration.jpg"
+    },
+    {
+      "ad": "three-mile-island-5.jpg",
+      "wikimedia": "Three Mile Island Article (FDA120a) (8205614095).jpg"
+    },
+    {
+      "ad": "three-mile-island-6.jpg",
+      "wikimedia": "Three Mile Island nuclear power plant.jpg"
+    },
+    {
+      "ad": "three-mile-island-7.jpg",
+      "wikimedia": "Three Mile Island (color).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Part of the core at Three Mile Island melted down.",
+      "kaynak": "Footage/three-mile-island-1.jpg"
+    },
+    {
+      "metin": "Cooling water escaped for hours through a valve stuck open.",
+      "kaynak": "Footage/three-mile-island-2.jpg"
+    },
+    {
+      "metin": "The operators didn't know.",
+      "kaynak": "Footage/three-mile-island-3.jpg"
+    },
+    {
+      "metin": "Their panel light said the valve was closed.",
+      "kaynak": "Footage/three-mile-island-4.jpg"
+    },
+    {
+      "metin": "It only showed the close signal was sent, not the valve's position.",
+      "kaynak": "Footage/three-mile-island-5.jpg"
+    },
+    {
+      "metin": "Thinking there was too much water, they cut emergency cooling.",
+      "kaynak": "Footage/three-mile-island-6.jpg"
+    },
+    {
+      "metin": "The core overheated and partly melted.",
+      "kaynak": "Footage/three-mile-island-7.jpg"
+    },
+    {
+      "metin": "That's why control rooms and training were rebuilt afterward.",
+      "kaynak": "Footage/three-mile-island-1.jpg"
+    }
+  ],
+  "aciklama": "Three Mile Island partially melted down. The cause: loss of coolant through a stuck-open pilot-operated relief valve, misread by operators.\n\n#shorts #engineering #nuclear",
+  "etiketler": [
+    "Three Mile Island",
+    "nuclear accident",
+    "meltdown",
+    "relief valve",
+    "1979"
+  ],
+  "hook": "The light said closed",
+  "soru": "Would you trust the light?",
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "Three Mile Island Unit 2",
+    "kisa": "Three Mile Island",
+    "nesne": "Reactor",
+    "yil": 1979,
+    "sonuc": "partially melted down",
+    "tetik": "a relief valve stuck open while its light said closed",
+    "mekanizma": "loss of coolant through a stuck-open pilot-operated relief valve, misread by operators",
+    "sayi": "STUCK OPEN",
+    "ders": "control rooms were redesigned and operator training was overhauled",
+    "zincir": [
+      "FEEDWATER PUMPS TRIP",
+      "RELIEF VALVE OPENS AND STICKS",
+      "INDICATOR SHOWS COMMAND, NOT POSITION",
+      "OPERATORS CUT EMERGENCY COOLING",
+      "CORE PARTIALLY MELTS"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 28, 1979",
+        "olay": "Pumps trip; relief valve sticks open"
+      }
+    ],
+    "yanilgi": "The indicator light didn't lie about the valve — it showed only that the close signal was sent, not where the valve actually was.",
+    "tartisma": "The operators followed their training. Was the failure human, or the control room design?",
+    "basliklar": [
+      "A Stuck Valve and a Misleading Light Melted a Reactor",
+      "Why Three Mile Island Melted Down",
+      "The Light That Said Closed"
+    ],
+    "kapak": [
+      "STUCK OPEN",
+      "LIGHT SAID SHUT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Three Mile Island accident",
+        "url": "https://en.wikipedia.org/wiki/Three_Mile_Island_accident"
+      },
+      {
+        "ad": "US NRC — Backgrounder on the Three Mile Island Accident",
+        "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Three_Mile_Island_accident",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Harrisburg Int Airport with Pennsylvania ANG aircraft 1979.jpg [Public domain]",
+      "Three Mile Island 1979-04-11.jpg [Public domain]",
+      "Goldsboro, PA and TMI.jpg [Public domain]",
+      "Graphic TMI-2 Core End-State Configuration.jpg [Public domain]",
+      "Three Mile Island Article (FDA120a) (8205614095).jpg [Public domain]",
+      "Three Mile Island nuclear power plant.jpg [Public domain]",
+      "Three Mile Island (color).jpg [Public domain]"
+    ]
+  }
+}

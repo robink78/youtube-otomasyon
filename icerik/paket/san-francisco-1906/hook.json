@@ -1,0 +1,50 @@
+{
+  "slug": "san-francisco-1906",
+  "format": "short",
+  "olusturuldu": "2026-09-28T15:23:27.549Z",
+  "ekranHook": "It burned for 3 days",
+  "mevcut": {
+    "puan": 100,
+    "pencereler": {
+      "0-5": "The earthquake lasted a minute. The fire burned for three days. It destroyed eighty",
+      "5-12": "percent of San Francisco. So why could nobody put it out? The quake had shattered the water mains under",
+      "12-20": "the streets. Firefighters opened the hydrants and nothing came out. Broken gas lines and toppled stoves started hundreds of fires. Three thousand",
+      "20-30": "died and a quarter million lost their homes. It was the fire, not the quake, that did most of the killing."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: a central question/problem is raised",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "San Francisco burned for three days."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a magnitude 7.9 earthquake."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could a magnitude 7.9 earthquake do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is fire following earthquake with broken water mains — and it is why cities now plan for fire after earthquakes, with independent emergency water supplies."
+      }
+    ],
+    "metin": "San Francisco burned for three days. It took only a magnitude 7.9 earthquake. So how could a magnitude 7.9 earthquake do this? The answer is fire following earthquake with broken water mains — and it is why cities now plan for fire after earthquakes, with independent emergency water supplies.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

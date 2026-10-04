@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Sugar Dust Blew Up a Refinery",
+  "kaynaklar": [
+    {
+      "ad": "imperial-sugar-1.jpg",
+      "wikimedia": "Imperial Sugar Georgia One.jpg"
+    },
+    {
+      "ad": "imperial-sugar-2.jpg",
+      "wikimedia": "Imperial Sugar Georgia Two.jpg"
+    },
+    {
+      "ad": "imperial-sugar-3.jpg",
+      "wikimedia": "FortBend 379.JPG"
+    },
+    {
+      "ad": "imperial-sugar-4.jpg",
+      "wikimedia": "ImperialSugarTechCenter.JPG"
+    },
+    {
+      "ad": "imperial-sugar-5.jpg",
+      "wikimedia": "Ruins of a Sugar Factory, Boiry Art.IWMART338.jpg"
+    },
+    {
+      "ad": "imperial-sugar-6.jpg",
+      "wikimedia": "Imperial Sugar Factory3.jpg"
+    },
+    {
+      "ad": "imperial-sugar-7.jpg",
+      "wikimedia": "Imperial Sugar Factory2.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A sugar refinery in Georgia exploded and burned.",
+      "kaynak": "Footage/imperial-sugar-1.jpg"
+    },
+    {
+      "metin": "Fire swept through the buildings, and fourteen workers were killed.",
+      "kaynak": "Footage/imperial-sugar-2.jpg"
+    },
+    {
+      "metin": "The fuel was sugar.",
+      "kaynak": "Footage/imperial-sugar-3.jpg"
+    },
+    {
+      "metin": "Fine sugar dust had built up inside an enclosed conveyor.",
+      "kaynak": "Footage/imperial-sugar-4.jpg"
+    },
+    {
+      "metin": "When ignited, it exploded.",
+      "kaynak": "Footage/imperial-sugar-5.jpg"
+    },
+    {
+      "metin": "The blast shook loose dust piled around the plant.",
+      "kaynak": "Footage/imperial-sugar-6.jpg"
+    },
+    {
+      "metin": "That dust exploded in turn, spreading the damage.",
+      "kaynak": "Footage/imperial-sugar-7.jpg"
+    },
+    {
+      "metin": "Regulators gave combustible dust far more attention afterward.",
+      "kaynak": "Footage/imperial-sugar-1.jpg"
+    }
+  ],
+  "aciklama": "Imperial Sugar was torn apart by a dust explosion. The cause: primary dust explosion lifting accumulated sugar dust into secondary explosions.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Imperial Sugar",
+    "2008",
+    "conveyor",
+    "engineering failure"
+  ],
+  "hook": "Sugar exploded",
+  "soru": "Is housekeeping safety?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Imperial Sugar refinery",
+    "kisa": "Imperial Sugar",
+    "nesne": "Conveyor",
+    "yil": 2008,
+    "sonuc": "was torn apart by a dust explosion",
+    "tetik": "sugar dust ignited inside an enclosed conveyor",
+    "mekanizma": "primary dust explosion lifting accumulated sugar dust into secondary explosions",
+    "sayi": "14 KILLED",
+    "ders": "combustible dust hazards gained attention from regulators",
+    "zincir": [
+      "CONVEYOR ENCLOSED",
+      "SUGAR DUST BUILDS UP",
+      "DUST IGNITES",
+      "FIRST BLAST LIFTS MORE DUST",
+      "CHAIN OF EXPLOSIONS"
+    ],
+    "zaman": [],
+    "yanilgi": "Sugar seems harmless. As fine dust in the air, it burns fast enough to explode.",
+    "tartisma": "Dust had piled up across the plant. Is good housekeeping a safety system?",
+    "basliklar": [
+      "Sugar Dust Blew Up a Refinery",
+      "Why the Imperial Sugar Refinery Exploded",
+      "How Sugar Dust Became an Explosive"
+    ],
+    "kapak": [
+      "SUGAR DUST",
+      "14 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2008 Georgia sugar refinery explosion",
+        "url": "https://en.wikipedia.org/wiki/2008_Georgia_sugar_refinery_explosion"
+      },
+      {
+        "ad": "US Chemical Safety Board — statement of csb investigations manager stephen selk p e updating the  (cited by Wikipedia)",
+        "url": "http://www.csb.gov/statement-of-csb-investigations-manager-stephen-selk-p-e-updating-the-public-on-the-investigation-of-the-imperial-sugar-company-explosion-and-fire-savannah-georgia/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "2008_Georgia_sugar_refinery_explosion",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Imperial Sugar Georgia One.jpg [Public domain]",
+      "Imperial Sugar Georgia Two.jpg [Public domain]",
+      "FortBend 379.JPG [Public domain]",
+      "ImperialSugarTechCenter.JPG [Public domain]",
+      "Ruins of a Sugar Factory, Boiry Art.IWMART338.jpg [Public domain]",
+      "Imperial Sugar Factory3.jpg [Public domain]",
+      "Imperial Sugar Factory2.jpg [CC BY 3.0]"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Broken Sewer Undermined a Gas Pipe",
+  "kaynaklar": [
+    {
+      "ad": "east-harlem-explosion-1.jpg",
+      "wikimedia": "East Harlem gas blast (13105059254).jpg"
+    },
+    {
+      "ad": "east-harlem-explosion-2.jpg",
+      "wikimedia": "East Harlem gas blast (13105059844).jpg"
+    },
+    {
+      "ad": "east-harlem-explosion-3.jpg",
+      "wikimedia": "East Harlem apartment explosion aerial view.jpg"
+    },
+    {
+      "ad": "east-harlem-explosion-4.jpg",
+      "wikimedia": "East Harlem apartment explosion street view.jpg"
+    },
+    {
+      "ad": "east-harlem-explosion-5.jpg",
+      "wikimedia": "Assisting Customers at Grand Central Terminal (13107805725).jpg"
+    },
+    {
+      "ad": "east-harlem-explosion-6.jpg",
+      "wikimedia": "Assisting Customers at Grand Central Terminal (13108089624).jpg"
+    },
+    {
+      "ad": "east-harlem-explosion-7.jpg",
+      "wikimedia": "Clearing Metro-North Tracks After Building Collapse (13110869355).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A gas explosion levelled two buildings in East Harlem.",
+      "kaynak": "Footage/east-harlem-explosion-1.jpg"
+    },
+    {
+      "metin": "They collapsed in seconds, and eight people were killed.",
+      "kaynak": "Footage/east-harlem-explosion-2.jpg"
+    },
+    {
+      "metin": "A gas leak call came minutes before.",
+      "kaynak": "Footage/east-harlem-explosion-3.jpg"
+    },
+    {
+      "metin": "Crews arrived after the blast.",
+      "kaynak": "Footage/east-harlem-explosion-4.jpg"
+    },
+    {
+      "metin": "Two gas pipe welds were faulty.",
+      "kaynak": "Footage/east-harlem-explosion-5.jpg"
+    },
+    {
+      "metin": "A hole in a nearby sewer had washed away the soil beneath them.",
+      "kaynak": "Footage/east-harlem-explosion-6.jpg"
+    },
+    {
+      "metin": "The pipes sagged and cracked.",
+      "kaynak": "Footage/east-harlem-explosion-7.jpg"
+    },
+    {
+      "metin": "The NTSB faulted both the utility and the city.",
+      "kaynak": "Footage/east-harlem-explosion-1.jpg"
+    }
+  ],
+  "aciklama": "East Harlem destroyed two buildings in Manhattan. The cause: faulty welds plus soil washed away by a leaking sewer, letting the pipe sag and crack.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "East Harlem",
+    "2014",
+    "gas pipe",
+    "engineering failure"
+  ],
+  "hook": "A sewer broke the gas pipe",
+  "soru": "Who pays when two systems fail?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the East Harlem explosion",
+    "kisa": "East Harlem",
+    "nesne": "Gas pipe",
+    "yil": 2014,
+    "sonuc": "destroyed two buildings in Manhattan",
+    "tetik": "a gas leak from a faulty pipe joint",
+    "mekanizma": "faulty welds plus soil washed away by a leaking sewer, letting the pipe sag and crack",
+    "sayi": "EIGHT DIED",
+    "ders": "the NTSB faulted both the gas utility and the city",
+    "zincir": [
+      "FAULTY WELDS",
+      "SEWER LEAKS",
+      "SOIL WASHES OUT",
+      "PIPE SAGS AND CRACKS",
+      "GAS EXPLODES"
+    ],
+    "zaman": [],
+    "yanilgi": "The gas pipe didn't fail alone. A neglected sewer hole undermined it.",
+    "tartisma": "The city rejected its share of blame. When two systems fail together, who pays?",
+    "basliklar": [
+      "A Broken Sewer Undermined a Gas Pipe",
+      "Why the East Harlem Buildings Exploded",
+      "The Sewer That Broke a Gas Pipe"
+    ],
+    "kapak": [
+      "GAS BLAST",
+      "EIGHT DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2014 East Harlem gas explosion",
+        "url": "https://en.wikipedia.org/wiki/2014_East_Harlem_gas_explosion"
+      },
+      {
+        "ad": "NTSB — PAR1501 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/PAR1501.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "2014_East_Harlem_gas_explosion",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "East Harlem gas blast (13105059254).jpg [CC BY 2.0]",
+      "East Harlem gas blast (13105059844).jpg [CC BY 2.0]",
+      "East Harlem apartment explosion aerial view.jpg [CC BY 2.0]",
+      "East Harlem apartment explosion street view.jpg [CC BY 2.0]",
+      "Assisting Customers at Grand Central Terminal (13107805725).jpg [CC BY 2.0]",
+      "Assisting Customers at Grand Central Terminal (13108089624).jpg [CC BY 2.0]",
+      "Clearing Metro-North Tracks After Building Collapse (13110869355).jpg [CC BY 2.0]"
+    ]
+  }
+}

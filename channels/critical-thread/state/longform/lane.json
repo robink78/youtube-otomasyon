@@ -1,0 +1,49 @@
+{
+  "channel": "critical-thread",
+  "cycles": [
+    {
+      "cycleId": "2026-W40",
+      "channel": "critical-thread",
+      "startedAt": "2026-09-30T15:48:35.713Z",
+      "status": "QUALITY_BLOCKED",
+      "evaluated": [
+        {
+          "slug": "the-hidden-system-behind-bosporus-vessel-transit-system",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 76,
+          "bucket": "B",
+          "decision": "BLOCK",
+          "score": 82,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~1.5 min; target 8–12 min — not padded"
+          ]
+        },
+        {
+          "slug": "what-quietly-depends-on-english-channel-traffic-separation-scheme",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 76,
+          "bucket": "B",
+          "decision": "BLOCK",
+          "score": 81,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~1.3 min; target 8–12 min — not padded"
+          ]
+        },
+        {
+          "slug": "the-hidden-system-behind-swift-messaging-network",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 76,
+          "bucket": "B",
+          "decision": "BLOCK",
+          "score": 85,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~1.6 min; target 8–12 min — not padded"
+          ]
+        }
+      ],
+      "selected": null,
+      "reason": "no candidate passed the long-form quality gate; cadence does not override quality",
+      "finishedAt": "2026-09-30T15:48:37.139Z"
+    }
+  ]
+}

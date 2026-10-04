@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Backup Generators Were in the Basement",
+  "kaynaklar": [
+    {
+      "ad": "fukushima-daiichi-1.jpg",
+      "wikimedia": "Appearance of Fukushima I Nuclear Power Plant Unit 3 after the explosion 20110315.jpg"
+    },
+    {
+      "ad": "fukushima-daiichi-2.jpg",
+      "wikimedia": "VOA Herman - April 12 2011 Namie-04.jpg"
+    },
+    {
+      "ad": "fukushima-daiichi-3.jpg",
+      "wikimedia": "NIT Combined Flights Ground Measurements 30Mar 03Apr2011 results.jpg"
+    },
+    {
+      "ad": "fukushima-daiichi-4.jpg",
+      "wikimedia": "Fukushima 1 Nuclear Power Plant 07 (crop).jpg"
+    },
+    {
+      "ad": "fukushima-daiichi-5.jpg",
+      "wikimedia": "Radiation hotspot in Kashiwa 02.JPG"
+    },
+    {
+      "ad": "fukushima-daiichi-6.jpg",
+      "wikimedia": "Changes in gamma ray dose rate at a monitoring station near the Iitate Village hall.jpg"
+    },
+    {
+      "ad": "fukushima-daiichi-7.jpg",
+      "wikimedia": "Fukushima 1 transformer building reactors 5&6.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Three nuclear reactors at Fukushima melted down.",
+      "kaynak": "Footage/fukushima-daiichi-1.jpg"
+    },
+    {
+      "metin": "Within days, hydrogen explosions destroyed reactor buildings.",
+      "kaynak": "Footage/fukushima-daiichi-2.jpg"
+    },
+    {
+      "metin": "The earthquake didn't do it.",
+      "kaynak": "Footage/fukushima-daiichi-3.jpg"
+    },
+    {
+      "metin": "The reactors had already shut down safely.",
+      "kaynak": "Footage/fukushima-daiichi-4.jpg"
+    },
+    {
+      "metin": "Then a tsunami poured over the seawall.",
+      "kaynak": "Footage/fukushima-daiichi-5.jpg"
+    },
+    {
+      "metin": "It flooded the backup generators and electrical rooms.",
+      "kaynak": "Footage/fukushima-daiichi-6.jpg"
+    },
+    {
+      "metin": "Without power, the cooling pumps stopped.",
+      "kaynak": "Footage/fukushima-daiichi-7.jpg"
+    },
+    {
+      "metin": "Plants worldwide then added flood protection and mobile backup power.",
+      "kaynak": "Footage/fukushima-daiichi-1.jpg"
+    }
+  ],
+  "aciklama": "Fukushima suffered three reactor meltdowns. The cause: station blackout from flooded emergency diesel generators and switchgear, causing loss of cooling.\n\n#shorts #engineering #nuclear",
+  "etiketler": [
+    "Fukushima",
+    "nuclear accident",
+    "tsunami",
+    "station blackout",
+    "2011"
+  ],
+  "hook": "The backups flooded",
+  "soru": "Where would you put the generators?",
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "Fukushima Daiichi",
+    "kisa": "Fukushima",
+    "nesne": "Nuclear plant",
+    "yil": 2011,
+    "sonuc": "suffered three reactor meltdowns",
+    "tetik": "a tsunami flooding the backup power systems",
+    "mekanizma": "station blackout from flooded emergency diesel generators and switchgear, causing loss of cooling",
+    "sayi": "3 MELTDOWNS",
+    "ders": "plants worldwide added flood protection and portable backup power",
+    "zincir": [
+      "EARTHQUAKE STOPS REACTORS",
+      "TSUNAMI OVERTOPS SEAWALL",
+      "BACKUP GENERATORS FLOOD",
+      "COOLING STOPS",
+      "CORES MELT; HYDROGEN EXPLODES"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 11, 2011",
+        "olay": "Earthquake and tsunami; station blackout"
+      }
+    ],
+    "yanilgi": "The earthquake didn't cause the meltdowns. The reactors shut down safely; it was the tsunami's flooding of backup power that stopped the cooling.",
+    "tartisma": "Studies had warned of taller tsunamis. How rare does a threat have to be before you ignore it?",
+    "basliklar": [
+      "The Backup Generators Were in the Basement",
+      "Why Fukushima Melted Down",
+      "The Tsunami That Killed the Cooling"
+    ],
+    "kapak": [
+      "NO POWER",
+      "3 MELTDOWNS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Fukushima nuclear accident",
+        "url": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident"
+      },
+      {
+        "ad": "IAEA — The Fukushima Daiichi Accident, Report by the Director General",
+        "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1710-ReportByTheDG-Web.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Fukushima_nuclear_accident",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Appearance of Fukushima I Nuclear Power Plant Unit 3 after the explosion 20110315.jpg [CC BY 4.0]",
+      "VOA Herman - April 12 2011 Namie-04.jpg [Public domain]",
+      "NIT Combined Flights Ground Measurements 30Mar 03Apr2011 results.jpg [Public domain]",
+      "Fukushima 1 Nuclear Power Plant 07 (crop).jpg [CC BY 2.0]",
+      "Radiation hotspot in Kashiwa 02.JPG [Public domain]",
+      "Changes in gamma ray dose rate at a monitoring station near the Iitate Village hall.jpg [CC BY 4.0]",
+      "Fukushima 1 transformer building reactors 5&6.jpg [CC BY 2.0]"
+    ]
+  }
+}

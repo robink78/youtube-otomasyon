@@ -1,0 +1,147 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Safety Test That Blew Up a Reactor",
+  "kaynaklar": [
+    {
+      "ad": "chernobyl-1.jpg",
+      "wikimedia": "Radiant Mayday-Demo after CHERNOBYL.jpg"
+    },
+    {
+      "ad": "chernobyl-2.jpg",
+      "wikimedia": "Chernobyl BW 2019 G28.jpg"
+    },
+    {
+      "ad": "chernobyl-3.png",
+      "wikimedia": "Chernobylgrassfire.png"
+    },
+    {
+      "ad": "chernobyl-4.jpg",
+      "wikimedia": "Chernobyl nuclear disaster aftermath abandoned town of Pripyat 02.jpg"
+    },
+    {
+      "ad": "chernobyl-5.jpg",
+      "wikimedia": "Chernobylreactor 1.jpg"
+    },
+    {
+      "ad": "chernobyl-6.jpg",
+      "wikimedia": "Umweltverschmutzung-Sapmi.jpg"
+    },
+    {
+      "ad": "chernobyl-7.jpg",
+      "wikimedia": "Checkpoint ditkatky chernobyl zone.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Reactor four at Chernobyl exploded during a safety test.",
+      "kaynak": "Footage/chernobyl-1.jpg"
+    },
+    {
+      "metin": "Within seconds, power surged and a steam blast tore off the roof.",
+      "kaynak": "Footage/chernobyl-2.jpg"
+    },
+    {
+      "metin": "The strangest part is what triggered it.",
+      "kaynak": "Footage/chernobyl-3.png"
+    },
+    {
+      "metin": "Operators pressed the emergency shutdown button.",
+      "kaynak": "Footage/chernobyl-4.jpg"
+    },
+    {
+      "metin": "But the control rods had graphite tips.",
+      "kaynak": "Footage/chernobyl-5.jpg"
+    },
+    {
+      "metin": "Entering the core, those tips first pushed power up, not down.",
+      "kaynak": "Footage/chernobyl-6.jpg"
+    },
+    {
+      "metin": "In an unstable reactor, that spike was enough.",
+      "kaynak": "Footage/chernobyl-7.jpg"
+    },
+    {
+      "metin": "These reactors were later changed so shutdown can never add power.",
+      "kaynak": "Footage/chernobyl-1.jpg"
+    }
+  ],
+  "aciklama": "Chernobyl exploded during a safety test. The cause: positive void coefficient plus graphite-tipped control rods causing a power surge.\n\n#shorts #engineering #nuclear",
+  "etiketler": [
+    "Chernobyl",
+    "RBMK",
+    "nuclear accident",
+    "reactor",
+    "1986"
+  ],
+  "hook": "The off switch made it worse",
+  "soru": "Operator error or design error?",
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "Chernobyl reactor 4",
+    "kisa": "Chernobyl",
+    "nesne": "Reactor",
+    "yil": 1986,
+    "sonuc": "exploded during a safety test",
+    "tetik": "control rods with graphite tips that first increased power",
+    "mekanizma": "positive void coefficient plus graphite-tipped control rods causing a power surge",
+    "sayi": "SAFETY TEST",
+    "ders": "RBMK reactors were modified so control rods can no longer spike power",
+    "zincir": [
+      "SAFETY TEST AT LOW POWER",
+      "UNSTABLE REACTOR STATE",
+      "EMERGENCY SHUTDOWN PRESSED",
+      "GRAPHITE TIPS SPIKE POWER",
+      "STEAM EXPLOSION DESTROYS CORE"
+    ],
+    "zaman": [
+      {
+        "t": "Apr 26, 1986",
+        "olay": "Turbine rundown safety test; emergency shutdown pressed"
+      }
+    ],
+    "yanilgi": "Operators made mistakes, but the reactor design itself made the shutdown button increase power in its first seconds.",
+    "tartisma": "The flaw was known to some designers before 1986. Was this operator error or design error?",
+    "basliklar": [
+      "The Safety Test That Blew Up a Reactor",
+      "Why Chernobyl's Off Switch Made It Worse",
+      "How Pressing Shutdown Destroyed Reactor 4"
+    ],
+    "kapak": [
+      "SAFETY TEST",
+      "OFF SWITCH"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Chernobyl disaster",
+        "url": "https://en.wikipedia.org/wiki/Chernobyl_disaster"
+      },
+      {
+        "ad": "IAEA INSAG-7 — The Chernobyl Accident: Updating of INSAG-1",
+        "url": "https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf"
+      },
+      {
+        "ad": "US NRC — Backgrounder on Chernobyl Nuclear Power Plant Accident",
+        "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/chernobyl-bg.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Chernobyl_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Radiant Mayday-Demo after CHERNOBYL.jpg [CC BY 2.0]",
+      "Chernobyl BW 2019 G28.jpg [Public domain]",
+      "Chernobylgrassfire.png [Public domain]",
+      "Chernobyl nuclear disaster aftermath abandoned town of Pripyat 02.jpg [CC0]",
+      "Chernobylreactor 1.jpg [CC BY 2.0]",
+      "Umweltverschmutzung-Sapmi.jpg [Public domain]",
+      "Checkpoint ditkatky chernobyl zone.JPG [CC BY 4.0]"
+    ]
+  }
+}

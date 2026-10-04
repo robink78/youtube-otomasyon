@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Pyrotechnics Ignited Soundproofing Foam in Seconds",
+  "kaynaklar": [
+    {
+      "ad": "station-nightclub-1.png",
+      "wikimedia": "Stationvictims.png"
+    },
+    {
+      "ad": "station-nightclub-2.jpg",
+      "wikimedia": "20031113 Station Night Club Memorial@COMMONS.jpg"
+    },
+    {
+      "ad": "station-nightclub-3.jpg",
+      "wikimedia": "Fire Research; Simulations; Station Nightclub Investigation; Temperatures at 90 sec. (5888202436).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During a concert, fire swept through a Rhode Island nightclub.",
+      "kaynak": "Footage/station-nightclub-1.png"
+    },
+    {
+      "metin": "In minutes, one hundred people were killed.",
+      "kaynak": "Footage/station-nightclub-2.jpg"
+    },
+    {
+      "metin": "The band's pyrotechnics sprayed sparks toward the walls.",
+      "kaynak": "Footage/station-nightclub-3.jpg"
+    },
+    {
+      "metin": "The walls were covered in soundproofing foam.",
+      "kaynak": "Footage/station-nightclub-1.png"
+    },
+    {
+      "metin": "That foam caught fire almost instantly.",
+      "kaynak": "Footage/station-nightclub-2.jpg"
+    },
+    {
+      "metin": "Thick smoke filled the club.",
+      "kaynak": "Footage/station-nightclub-3.jpg"
+    },
+    {
+      "metin": "The crowd rushed for the front door and was trapped.",
+      "kaynak": "Footage/station-nightclub-1.png"
+    },
+    {
+      "metin": "Many existing nightclubs were then required to install sprinklers.",
+      "kaynak": "Footage/station-nightclub-2.jpg"
+    }
+  ],
+  "aciklama": "Station nightclub was engulfed by fire during a concert. The cause: flexible polyurethane foam used as soundproofing burning extremely fast.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Station nightclub",
+    "2003",
+    "foam",
+    "engineering failure"
+  ],
+  "hook": "The walls caught fire",
+  "soru": "Who checks the walls?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Station nightclub",
+    "kisa": "Station nightclub",
+    "nesne": "Foam",
+    "yil": 2003,
+    "sonuc": "was engulfed by fire during a concert",
+    "tetik": "stage pyrotechnics igniting foam on the walls",
+    "mekanizma": "flexible polyurethane foam used as soundproofing burning extremely fast",
+    "sayi": "100 DIED",
+    "ders": "sprinklers became required in many existing nightclubs",
+    "zincir": [
+      "FOAM ON THE WALLS",
+      "PYROTECHNICS AT SHOWTIME",
+      "FOAM IGNITES",
+      "SMOKE FILLS CLUB",
+      "CROWD CRUSH AT FRONT DOOR"
+    ],
+    "zaman": [],
+    "yanilgi": "The club wasn't large. The foam burned so fast that there were only minutes to get out.",
+    "tartisma": "The foam was installed to quiet noise complaints. Who checks what goes on the walls?",
+    "basliklar": [
+      "Pyrotechnics Ignited Soundproofing Foam in Seconds",
+      "Why the Station Nightclub Fire Spread So Fast",
+      "The Foam That Turned a Concert Deadly"
+    ],
+    "kapak": [
+      "FOAM",
+      "100 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — The Station nightclub fire",
+        "url": "https://en.wikipedia.org/wiki/The_Station_nightclub_fire"
+      },
+      {
+        "ad": "NIST — ncstar2v1 (cited by Wikipedia)",
+        "url": "https://nvlpubs.nist.gov:443/nistpubs/Legacy/NCSTAR/ncstar2v1.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "The_Station_nightclub_fire",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Stationvictims.png [Public domain]",
+      "20031113 Station Night Club Memorial@COMMONS.jpg [Public domain]",
+      "Fire Research; Simulations; Station Nightclub Investigation; Temperatures at 90 sec. (5888202436).jpg [Public domain]"
+    ]
+  }
+}

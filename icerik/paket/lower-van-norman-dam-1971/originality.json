@@ -1,0 +1,63 @@
+{
+  "slug": "lower-van-norman-dam-1971",
+  "olusturuldu": "2026-10-02T12:19:49.063Z",
+  "originality": 89,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.13,
+      "kim": "eastern-212-1974"
+    },
+    "hook": {
+      "deger": 0.1,
+      "kim": "san-francisco-1906"
+    },
+    "structure": {
+      "deger": 0.82,
+      "kim": "hindenburg"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.5,
+      "kim": "apollo-13-1970"
+    },
+    "cta": {
+      "deger": 0.02,
+      "kim": "bikini-baker"
+    },
+    "description": {
+      "deger": 0.06,
+      "kim": "eastern-212-1974"
+    },
+    "music": {
+      "deger": 0.66,
+      "kim": "eastern-212-1974"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.13,
+    "HOOK_SIMILARITY": 0.1,
+    "STRUCTURE_SIMILARITY": 0.82,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.5,
+    "CTA_SIMILARITY": 0.02,
+    "DESCRIPTION_SIMILARITY": 0.06,
+    "MUSIC_SIMILARITY": 0.66
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

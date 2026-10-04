@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Ranger Who Held His Crew Inside a Mine",
+  "kaynaklar": [
+    {
+      "ad": "big-burn-1.jpg",
+      "wikimedia": "Aftermath of the 1910 Fires (4929769257).jpg"
+    },
+    {
+      "ad": "big-burn-2.jpg",
+      "wikimedia": "St Joe Idaho Fire 1910.jpg"
+    },
+    {
+      "ad": "big-burn-3.jpg",
+      "wikimedia": "Wallace Idaho 1910 fire.jpg"
+    },
+    {
+      "ad": "big-burn-4.jpg",
+      "wikimedia": "Aftermath of the 1910 Fires (4929720525).jpg"
+    },
+    {
+      "ad": "big-burn-5.jpg",
+      "wikimedia": "Wallace 1910 Commemoration (5148626071).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In the American Northwest, many wildfires merged into one massive blaze.",
+      "kaynak": "Footage/big-burn-1.jpg"
+    },
+    {
+      "metin": "Within two days it burned whole towns, killing eighty seven people.",
+      "kaynak": "Footage/big-burn-2.jpg"
+    },
+    {
+      "metin": "Most of the dead were firefighters.",
+      "kaynak": "Footage/big-burn-3.jpg"
+    },
+    {
+      "metin": "Ranger Ed Pulaski led his crew into a mine tunnel.",
+      "kaynak": "Footage/big-burn-4.jpg"
+    },
+    {
+      "metin": "He held them there as the fire passed.",
+      "kaynak": "Footage/big-burn-5.jpg"
+    },
+    {
+      "metin": "More than three million acres burned.",
+      "kaynak": "Footage/big-burn-1.jpg"
+    },
+    {
+      "metin": "It raised public awareness of forest conservation.",
+      "kaynak": "Footage/big-burn-2.jpg"
+    },
+    {
+      "metin": "It shaped fire suppression policy for decades.",
+      "kaynak": "Footage/big-burn-3.jpg"
+    }
+  ],
+  "aciklama": "Big Burn burned over three million acres in the Northwest. The cause: hundreds of fires joining into a massive blaze driven by wind.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Big Burn",
+    "1910",
+    "wildfire",
+    "engineering failure"
+  ],
+  "hook": "He held them in a mine",
+  "soru": "Did stopping fires make them worse?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Great Fire of 1910",
+    "kisa": "Big Burn",
+    "nesne": "Wildfire",
+    "yil": 1910,
+    "sonuc": "burned over three million acres in the Northwest",
+    "tetik": "many fires merging in hurricane-force winds",
+    "mekanizma": "hundreds of fires joining into a massive blaze driven by wind",
+    "sayi": "87 DIED",
+    "ders": "the fire shaped the Forest Service's fire suppression policy",
+    "zincir": [
+      "DRY SUMMER",
+      "MANY SMALL FIRES",
+      "WINDS ARRIVE",
+      "FIRES MERGE",
+      "FIREFIGHTERS TRAPPED"
+    ],
+    "zaman": [],
+    "yanilgi": "Most of the dead weren't residents. They were firefighters.",
+    "tartisma": "The fire led to aggressive suppression for decades. Did stopping every fire create bigger ones later?",
+    "basliklar": [
+      "The Ranger Who Held His Crew Inside a Mine",
+      "The Great Fire of 1910",
+      "The Big Burn and Ranger Pulaski"
+    ],
+    "kapak": [
+      "BIG BURN",
+      "87 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Great Fire of 1910",
+        "url": "https://en.wikipedia.org/wiki/Great_Fire_of_1910"
+      },
+      {
+        "ad": "Government source — sh2016002754 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/sh2016002754"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-y",
+    "wiki": "Great_Fire_of_1910",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Aftermath of the 1910 Fires (4929769257).jpg [Public domain]",
+      "St Joe Idaho Fire 1910.jpg [Public domain]",
+      "Wallace Idaho 1910 fire.jpg [Public domain]",
+      "Aftermath of the 1910 Fires (4929720525).jpg [Public domain]",
+      "Wallace 1910 Commemoration (5148626071).jpg [CC BY 2.0]"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Plant Where the Fire Exits Were Locked",
+  "kaynaklar": [
+    {
+      "ad": "imperial-foods-fire-1.png",
+      "wikimedia": "Imperial Foods breakroom door.png"
+    },
+    {
+      "ad": "imperial-foods-fire-2.png",
+      "wikimedia": "Imperial Floor Plan.png"
+    },
+    {
+      "ad": "imperial-foods-fire-3.jpg",
+      "wikimedia": "Imperial Food Products fire memorial closeup.jpg"
+    },
+    {
+      "ad": "imperial-foods-fire-4.jpg",
+      "wikimedia": "Imperial Food Products ruins.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Fire tore through a chicken processing plant in Hamlet, North Carolina.",
+      "kaynak": "Footage/imperial-foods-fire-1.png"
+    },
+    {
+      "metin": "Within minutes, twenty five workers were killed.",
+      "kaynak": "Footage/imperial-foods-fire-2.png"
+    },
+    {
+      "metin": "Maintenance had patched a hydraulic line with improvised parts.",
+      "kaynak": "Footage/imperial-foods-fire-3.jpg"
+    },
+    {
+      "metin": "It separated and sprayed fluid near a fryer.",
+      "kaynak": "Footage/imperial-foods-fire-4.jpg"
+    },
+    {
+      "metin": "The fluid ignited.",
+      "kaynak": "Footage/imperial-foods-fire-1.png"
+    },
+    {
+      "metin": "Several exits had been locked, including a fire exit.",
+      "kaynak": "Footage/imperial-foods-fire-2.png"
+    },
+    {
+      "metin": "The plant had never had a safety inspection.",
+      "kaynak": "Footage/imperial-foods-fire-3.jpg"
+    },
+    {
+      "metin": "North Carolina expanded workplace inspections.",
+      "kaynak": "Footage/imperial-foods-fire-4.jpg"
+    }
+  ],
+  "aciklama": "Imperial Foods burned with workers trapped behind locked exits. The cause: hydraulic fluid spraying near a fryer, vaporizing and igniting.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Imperial Foods",
+    "1991",
+    "fire exits",
+    "engineering failure"
+  ],
+  "hook": "The exits were locked",
+  "soru": "Who should have noticed?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Imperial Foods plant",
+    "kisa": "Imperial Foods",
+    "nesne": "Fire exits",
+    "yil": 1991,
+    "sonuc": "burned with workers trapped behind locked exits",
+    "tetik": "a hydraulic line repaired with improvised parts",
+    "mekanizma": "hydraulic fluid spraying near a fryer, vaporizing and igniting",
+    "sayi": "25 DIED",
+    "ders": "North Carolina expanded workplace safety inspections",
+    "zincir": [
+      "DOORS LOCKED",
+      "HYDRAULIC LINE REPAIRED BADLY",
+      "LINE SEPARATES",
+      "FLUID IGNITES",
+      "WORKERS TRAPPED"
+    ],
+    "zaman": [],
+    "yanilgi": "The fire wasn't unstoppable. Workers died because the exits were locked.",
+    "tartisma": "The plant had never been inspected in 11 years. Who should have noticed?",
+    "basliklar": [
+      "The Plant Where the Fire Exits Were Locked",
+      "Why the Imperial Foods Fire Was So Deadly",
+      "The Locked Doors of Hamlet"
+    ],
+    "kapak": [
+      "LOCKED EXITS",
+      "25 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Imperial Foods chicken plant fire",
+        "url": "https://en.wikipedia.org/wiki/Imperial_Foods_chicken_plant_fire"
+      },
+      {
+        "ad": "FEMA — tr 057 (cited by Wikipedia)",
+        "url": "https://www.usfa.fema.gov/downloads/pdf/publications/tr-057.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-17",
+    "wiki": "Imperial_Foods_chicken_plant_fire",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Imperial Foods breakroom door.png [Public domain]",
+      "Imperial Floor Plan.png [Public domain]",
+      "Imperial Food Products fire memorial closeup.jpg [CC0]",
+      "Imperial Food Products ruins.jpg [CC0]"
+    ]
+  }
+}

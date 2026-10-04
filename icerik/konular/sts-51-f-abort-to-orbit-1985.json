@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Faulty Sensors Shut Down a Shuttle Engine in Flight",
+  "kaynaklar": [
+    {
+      "ad": "sts-51-f-abort-to-orbit-1.jpg",
+      "wikimedia": "Plume of STS-51-F (51f-s-068).jpg"
+    },
+    {
+      "ad": "sts-51-f-abort-to-orbit-2.jpg",
+      "wikimedia": "NASA shuttle astronaut drinks from a specially designed Coke beverage can.jpg"
+    },
+    {
+      "ad": "sts-51-f-abort-to-orbit-3.jpg",
+      "wikimedia": "STS-51-F Instrument Pointing System.jpg"
+    },
+    {
+      "ad": "sts-51-f-abort-to-orbit-4.jpg",
+      "wikimedia": "STS-51-F Plasma Diagnostics Package.jpg"
+    },
+    {
+      "ad": "sts-51-f-abort-to-orbit-5.jpg",
+      "wikimedia": "STS-51-F crew.jpg"
+    },
+    {
+      "ad": "sts-51-f-abort-to-orbit-6.jpg",
+      "wikimedia": "255-STS-51F-12-031.jpg"
+    },
+    {
+      "ad": "sts-51-f-abort-to-orbit-7.jpg",
+      "wikimedia": "255-STS-51F-12-032.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During Challenger's climb to orbit, one of its main engines shut down.",
+      "kaynak": "Footage/sts-51-f-abort-to-orbit-1.jpg"
+    },
+    {
+      "metin": "Suddenly the crew had to perform an abort to orbit.",
+      "kaynak": "Footage/sts-51-f-abort-to-orbit-2.jpg"
+    },
+    {
+      "metin": "A temperature sensor on the engine failed.",
+      "kaynak": "Footage/sts-51-f-abort-to-orbit-3.jpg"
+    },
+    {
+      "metin": "Two minutes later, a second one failed.",
+      "kaynak": "Footage/sts-51-f-abort-to-orbit-4.jpg"
+    },
+    {
+      "metin": "The computer shut the engine down.",
+      "kaynak": "Footage/sts-51-f-abort-to-orbit-5.jpg"
+    },
+    {
+      "metin": "The engine itself was fine.",
+      "kaynak": "Footage/sts-51-f-abort-to-orbit-6.jpg"
+    },
+    {
+      "metin": "A flight controller had further automatic shutdowns blocked.",
+      "kaynak": "Footage/sts-51-f-abort-to-orbit-7.jpg"
+    },
+    {
+      "metin": "It remains the only shuttle abort after launch.",
+      "kaynak": "Footage/sts-51-f-abort-to-orbit-1.jpg"
+    }
+  ],
+  "aciklama": "STS-51-F lost an engine during launch. The cause: faulty sensor readings triggering an automatic engine shutdown.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "STS-51-F",
+    "1985",
+    "temperature sensors",
+    "engineering failure"
+  ],
+  "hook": "The sensors lied",
+  "soru": "When should people override?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "STS-51-F",
+    "kisa": "STS-51-F",
+    "nesne": "Temperature sensors",
+    "yil": 1985,
+    "sonuc": "lost an engine during launch",
+    "tetik": "two temperature sensors failing in turn",
+    "mekanizma": "faulty sensor readings triggering an automatic engine shutdown",
+    "sayi": "ABORT TO ORBIT",
+    "ders": "sensor logic was reviewed and the mission still completed its work",
+    "zincir": [
+      "SENSOR ONE FAILS",
+      "SENSOR TWO FAILS",
+      "ENGINE SHUTS DOWN",
+      "ABORT TO ORBIT",
+      "LOWER ORBIT"
+    ],
+    "zaman": [],
+    "yanilgi": "The engine was healthy. Bad sensors told the computer it wasn't.",
+    "tartisma": "A controller stopped a second engine shutdown just in time. When should people override automation?",
+    "basliklar": [
+      "Faulty Sensors Shut Down a Shuttle Engine in Flight",
+      "Why STS-51-F Lost an Engine",
+      "The Only Shuttle Abort After Launch"
+    ],
+    "kapak": [
+      "ENGINE OUT",
+      "BAD SENSORS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — STS-51-F",
+        "url": "https://en.wikipedia.org/wiki/STS-51-F"
+      },
+      {
+        "ad": "NASA — 85 08 09 (cited by Wikipedia)",
+        "url": "http://www.jsc.nasa.gov/history/roundups/issues/85-08-09.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "STS-51-F",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Plume of STS-51-F (51f-s-068).jpg [Public domain]",
+      "NASA shuttle astronaut drinks from a specially designed Coke beverage can.jpg [Public domain]",
+      "STS-51-F Instrument Pointing System.jpg [Public domain]",
+      "STS-51-F Plasma Diagnostics Package.jpg [Public domain]",
+      "STS-51-F crew.jpg [Public domain]",
+      "255-STS-51F-12-031.jpg [Public domain]",
+      "255-STS-51F-12-032.jpg [Public domain]"
+    ]
+  }
+}

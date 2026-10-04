@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Ice That Formed Behind the De-Icing Boots",
+  "kaynaklar": [
+    {
+      "ad": "american-eagle-4184-1.jpg",
+      "wikimedia": "American Eagle Flight 4184 Incident Site Memorial 2.jpg"
+    },
+    {
+      "ad": "american-eagle-4184-2.jpg",
+      "wikimedia": "American Eagle Flight 4184 Incident Site Memorial 4.jpg"
+    },
+    {
+      "ad": "american-eagle-4184-3.jpg",
+      "wikimedia": "American Eagle Flight 4184 Internment Memorial Calumet Park Cemetery 2.jpg"
+    },
+    {
+      "ad": "american-eagle-4184-4.jpg",
+      "wikimedia": "American Eagle Flight 4184 Internment Memorial Calumet Park Cemetery 4.jpg"
+    },
+    {
+      "ad": "american-eagle-4184-5.jpg",
+      "wikimedia": "Lincoln Township VFD Memorial for Flight 4184 2.jpg"
+    },
+    {
+      "ad": "american-eagle-4184-6.jpg",
+      "wikimedia": "Lincoln Township VFD Memorial for Flight 4184 4.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Holding in freezing rain, a turboprop suddenly rolled over.",
+      "kaynak": "Footage/american-eagle-4184-1.jpg"
+    },
+    {
+      "metin": "It crashed into a field in Indiana, and sixty eight people were killed.",
+      "kaynak": "Footage/american-eagle-4184-2.jpg"
+    },
+    {
+      "metin": "Ice had built up on its wings.",
+      "kaynak": "Footage/american-eagle-4184-3.jpg"
+    },
+    {
+      "metin": "Its de-icing boots cracked off ice at the front.",
+      "kaynak": "Footage/american-eagle-4184-4.jpg"
+    },
+    {
+      "metin": "But large droplets froze just behind them.",
+      "kaynak": "Footage/american-eagle-4184-5.jpg"
+    },
+    {
+      "metin": "That ridge disturbed the airflow over the ailerons.",
+      "kaynak": "Footage/american-eagle-4184-6.jpg"
+    },
+    {
+      "metin": "The controls snatched, and the plane rolled.",
+      "kaynak": "Footage/american-eagle-4184-1.jpg"
+    },
+    {
+      "metin": "Icing certification later expanded to cover these droplets.",
+      "kaynak": "Footage/american-eagle-4184-2.jpg"
+    }
+  ],
+  "aciklama": "American Eagle 4184 rolled over and crashed while holding in freezing rain. The cause: supercooled large droplets forming ice beyond the protected area, disturbing airflow over the ailerons.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "American Eagle 4184",
+    "1994",
+    "wing ice",
+    "engineering failure"
+  ],
+  "hook": "Ice behind the boots",
+  "soru": "Certified, but safe?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "American Eagle Flight 4184",
+    "kisa": "American Eagle 4184",
+    "nesne": "Wing ice",
+    "yil": 1994,
+    "sonuc": "rolled over and crashed while holding in freezing rain",
+    "tetik": "a ridge of ice forming behind the wing's de-icing boots",
+    "mekanizma": "supercooled large droplets forming ice beyond the protected area, disturbing airflow over the ailerons",
+    "sayi": "68 KILLED",
+    "ders": "icing certification was expanded to cover large supercooled droplets",
+    "zincir": [
+      "HOLDING IN FREEZING DRIZZLE",
+      "LARGE DROPLETS",
+      "ICE RIDGE BEHIND THE BOOTS",
+      "AILERON SNATCHES",
+      "SUDDEN ROLL AND CRASH"
+    ],
+    "zaman": [],
+    "yanilgi": "The de-icing boots worked. The ice formed just behind them, where nothing could remove it.",
+    "tartisma": "The aircraft met certification rules that didn't cover these droplets. When certification is incomplete, who notices first?",
+    "basliklar": [
+      "Ice That Formed Behind the De-Icing Boots",
+      "Why American Eagle Flight 4184 Crashed",
+      "The Ice Nobody Designed For"
+    ],
+    "kapak": [
+      "BEHIND THE BOOTS",
+      "68 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — American Eagle Flight 4184",
+        "url": "https://en.wikipedia.org/wiki/American_Eagle_Flight_4184"
+      },
+      {
+        "ad": "NTSB — AAR9601 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR9601.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "American_Eagle_Flight_4184",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "American Eagle Flight 4184 Incident Site Memorial 2.jpg [CC BY 4.0]",
+      "American Eagle Flight 4184 Incident Site Memorial 4.jpg [CC BY 4.0]",
+      "American Eagle Flight 4184 Internment Memorial Calumet Park Cemetery 2.jpg [CC BY 4.0]",
+      "American Eagle Flight 4184 Internment Memorial Calumet Park Cemetery 4.jpg [CC BY 4.0]",
+      "Lincoln Township VFD Memorial for Flight 4184 2.jpg [CC BY 4.0]",
+      "Lincoln Township VFD Memorial for Flight 4184 4.jpg [CC BY 4.0]"
+    ]
+  }
+}

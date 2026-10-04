@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The New Dam That Burst on Its First Filling",
+  "kaynaklar": [
+    {
+      "ad": "great-sheffield-flood-1.jpg",
+      "wikimedia": "Great Sheffield Flood.jpg"
+    },
+    {
+      "ad": "great-sheffield-flood-2.jpg",
+      "wikimedia": "Edmund John Niemann (1813-1876) - The River Don after the Flood - K1955.4 - Sheffield Galleries and Museums Trust.jpg"
+    },
+    {
+      "ad": "great-sheffield-flood-3.jpg",
+      "wikimedia": "Sheffield1832.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A brand-new dam above Sheffield burst at night.",
+      "kaynak": "Footage/great-sheffield-flood-1.jpg"
+    },
+    {
+      "metin": "The flood swept through the valley, killing about two hundred forty people.",
+      "kaynak": "Footage/great-sheffield-flood-2.jpg"
+    },
+    {
+      "metin": "The reservoir was filling for the first time.",
+      "kaynak": "Footage/great-sheffield-flood-3.jpg"
+    },
+    {
+      "metin": "Hours earlier, a worker spotted a crack in the embankment.",
+      "kaynak": "Footage/great-sheffield-flood-1.jpg"
+    },
+    {
+      "metin": "It was judged not to be urgent.",
+      "kaynak": "Footage/great-sheffield-flood-2.jpg"
+    },
+    {
+      "metin": "Water broke through and tore the dam open.",
+      "kaynak": "Footage/great-sheffield-flood-3.jpg"
+    },
+    {
+      "metin": "It was one of Britain's worst dam disasters.",
+      "kaynak": "Footage/great-sheffield-flood-1.jpg"
+    },
+    {
+      "metin": "It influenced later reservoir safety laws in Britain.",
+      "kaynak": "Footage/great-sheffield-flood-2.jpg"
+    }
+  ],
+  "aciklama": "Sheffield flood burst as its reservoir filled for the first time. The cause: embankment failure likely linked to its clay core and construction on first filling.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Sheffield flood",
+    "1864",
+    "dam",
+    "engineering failure"
+  ],
+  "hook": "It burst on first filling",
+  "soru": "How urgent is a crack?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Dale Dyke dam",
+    "kisa": "Sheffield flood",
+    "nesne": "Dam",
+    "yil": 1864,
+    "sonuc": "burst as its reservoir filled for the first time",
+    "tetik": "a crack found hours before the failure",
+    "mekanizma": "embankment failure likely linked to its clay core and construction on first filling",
+    "sayi": "FIRST FILLING",
+    "ders": "the flood influenced British reservoir safety legislation",
+    "zincir": [
+      "NEW EMBANKMENT DAM",
+      "FIRST FILLING",
+      "CRACK SPOTTED AT NIGHT",
+      "BREACH OPENS",
+      "FLOOD HITS SHEFFIELD"
+    ],
+    "zaman": [],
+    "yanilgi": "The crack was spotted hours earlier. It was judged not to be urgent.",
+    "tartisma": "The flood led to huge compensation claims. How do you value what a flood destroys?",
+    "basliklar": [
+      "The New Dam That Burst on Its First Filling",
+      "Why the Dale Dyke Dam Burst",
+      "The Great Sheffield Flood"
+    ],
+    "kapak": [
+      "FIRST FILLING",
+      "DAM BURST"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Great Sheffield Flood",
+        "url": "https://en.wikipedia.org/wiki/Great_Sheffield_Flood"
+      },
+      {
+        "ad": "Government source — sheffield flood (cited by Wikipedia)",
+        "url": "https://www.sheffield.gov.uk/home/libraries-archives/access-archives-local-studies-library/research-guides/sheffield-flood"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "Great_Sheffield_Flood",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Great Sheffield Flood.jpg [Public domain]",
+      "Edmund John Niemann (1813-1876) - The River Don after the Flood - K1955.4 - Sheffield Galleries and Museums Trust.jpg [Public domain]",
+      "Sheffield1832.jpg [Public domain]"
+    ]
+  }
+}

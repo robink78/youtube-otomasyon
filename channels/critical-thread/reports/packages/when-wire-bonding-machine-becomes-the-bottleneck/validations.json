@@ -1,0 +1,23 @@
+{
+  "channel": "critical-thread",
+  "topicId": "CT-016",
+  "slug": "when-wire-bonding-machine-becomes-the-bottleneck",
+  "passed": true,
+  "failed": [],
+  "checks": {
+    "script": true,
+    "science": true,
+    "sources": true,
+    "hook": true,
+    "timing": true,
+    "audio": true,
+    "captions": true,
+    "visuals": true,
+    "video": true,
+    "titles": true,
+    "thumbnail": true,
+    "description": true,
+    "qualityGate": true,
+    "metadata": true
+  }
+}

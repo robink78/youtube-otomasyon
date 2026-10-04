@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Lake That Released a Cloud of Carbon Dioxide",
+  "kaynaklar": [
+    {
+      "ad": "lake-nyos-1.jpg",
+      "wikimedia": "Tml15-16 Nc.jpg"
+    },
+    {
+      "ad": "lake-nyos-2.jpg",
+      "wikimedia": "Lake Nyos 1986 001.jpg"
+    },
+    {
+      "ad": "lake-nyos-3.jpg",
+      "wikimedia": "Lake nyos co2 vent.jpg"
+    },
+    {
+      "ad": "lake-nyos-4.jpg",
+      "wikimedia": "Lake nyos co2 vent (cropped).jpg"
+    },
+    {
+      "ad": "lake-nyos-5.jpg",
+      "wikimedia": "Lake Nyos from Landsat, 2014.jpg"
+    },
+    {
+      "ad": "lake-nyos-6.jpg",
+      "wikimedia": "Tml15-16 Eng.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At night, a lake in Cameroon released a huge cloud of carbon dioxide.",
+      "kaynak": "Footage/lake-nyos-1.jpg"
+    },
+    {
+      "metin": "The gas flowed into villages, and one thousand seven hundred forty six people died.",
+      "kaynak": "Footage/lake-nyos-2.jpg"
+    },
+    {
+      "metin": "Nothing exploded or burned.",
+      "kaynak": "Footage/lake-nyos-3.jpg"
+    },
+    {
+      "metin": "Carbon dioxide from volcanic sources had dissolved deep in the lake.",
+      "kaynak": "Footage/lake-nyos-4.jpg"
+    },
+    {
+      "metin": "Something upset the layers, and the gas burst out.",
+      "kaynak": "Footage/lake-nyos-5.jpg"
+    },
+    {
+      "metin": "Heavier than air, it flowed down the valleys.",
+      "kaynak": "Footage/lake-nyos-6.jpg"
+    },
+    {
+      "metin": "People suffocated where they slept.",
+      "kaynak": "Footage/lake-nyos-1.jpg"
+    },
+    {
+      "metin": "Pipes now vent the lake's gas slowly.",
+      "kaynak": "Footage/lake-nyos-2.jpg"
+    }
+  ],
+  "aciklama": "Lake Nyos released a deadly cloud of carbon dioxide. The cause: limnic eruption of carbon dioxide dissolved in the lake's deep layers.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Lake Nyos",
+    "1986",
+    "lake",
+    "engineering failure"
+  ],
+  "hook": "The lake exhaled",
+  "soru": "Who shares the warning?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "Lake Nyos",
+    "kisa": "Lake Nyos",
+    "nesne": "Lake",
+    "yil": 1986,
+    "sonuc": "released a deadly cloud of carbon dioxide",
+    "tetik": "a sudden overturn of gas-saturated deep water",
+    "mekanizma": "limnic eruption of carbon dioxide dissolved in the lake's deep layers",
+    "sayi": "1,746 DIED",
+    "ders": "degassing pipes now vent the lake's carbon dioxide gradually",
+    "zincir": [
+      "VOLCANIC CO2 SEEPS INTO LAKE",
+      "DEEP WATER SATURATES",
+      "TRIGGER UPSETS LAYERS",
+      "GAS BURSTS OUT",
+      "HEAVY CLOUD FLOWS INTO VALLEYS"
+    ],
+    "zaman": [],
+    "yanilgi": "Nothing exploded or burned. The gas simply flowed downhill and displaced the air.",
+    "tartisma": "A similar event struck another lake two years earlier. How should science share early warnings?",
+    "basliklar": [
+      "The Lake That Released a Cloud of Carbon Dioxide",
+      "Why Lake Nyos Released a Deadly Gas Cloud",
+      "The Lake That Suffocated Its Valleys"
+    ],
+    "kapak": [
+      "INVISIBLE GAS",
+      "1,746 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Lake Nyos disaster",
+        "url": "https://en.wikipedia.org/wiki/Lake_Nyos_disaster"
+      },
+      {
+        "ad": "Government source — 16008301 (cited by Wikipedia)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16008301"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-10",
+    "wiki": "Lake_Nyos_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Tml15-16 Nc.jpg [Public domain]",
+      "Lake Nyos 1986 001.jpg [Public domain]",
+      "Lake nyos co2 vent.jpg [Public domain]",
+      "Lake nyos co2 vent (cropped).jpg [Public domain]",
+      "Lake Nyos from Landsat, 2014.jpg [Public domain]",
+      "Tml15-16 Eng.jpg [Public domain]"
+    ]
+  }
+}

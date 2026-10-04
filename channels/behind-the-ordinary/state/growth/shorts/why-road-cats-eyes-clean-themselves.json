@@ -1,0 +1,2973 @@
+{
+  "schema": "growth-short-plan/1",
+  "channel": "behind-the-ordinary",
+  "channelName": "The Hidden Logic of Things",
+  "contentType": "short",
+  "createdAt": "2026-10-03T19:39:09.323Z",
+  "topic": {
+    "id": "BTO-135",
+    "slug": "why-road-cats-eyes-clean-themselves",
+    "title": "Why Road Cat's Eyes Clean Themselves",
+    "cluster": "HIDDEN ENGINEERING",
+    "subject": "road reflectors"
+  },
+  "topicScore": {
+    "channel": "behind-the-ordinary",
+    "topicId": "BTO-135",
+    "slug": "why-road-cats-eyes-clean-themselves",
+    "title": "Why Road Cat's Eyes Clean Themselves",
+    "cluster": "HIDDEN ENGINEERING",
+    "VideoPotentialScore": 82,
+    "ViralPotentialScore": 68,
+    "SelectionScore": 74,
+    "bucket": "A",
+    "reasons": [
+      "VideoPotential 82 ≥ 80",
+      "hook 77",
+      "sources 80"
+    ],
+    "enrichable": false,
+    "factors": {
+      "TopicDemandScore": {
+        "value": 77,
+        "basis": "derived",
+        "note": "no demand signal; evergreen proxy"
+      },
+      "CuriosityScore": {
+        "value": 80,
+        "basis": "inventory-signal"
+      },
+      "HookPotentialScore": {
+        "value": 77,
+        "basis": "derived",
+        "note": "11 candidates / 6 families"
+      },
+      "VisualImpactScore": {
+        "value": 87,
+        "basis": "inventory-signal"
+      },
+      "EmotionalImpactScore": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "StoryCompressionScore": {
+        "value": 84,
+        "basis": "derived"
+      },
+      "RewatchPotentialScore": {
+        "value": 69,
+        "basis": "derived"
+      },
+      "SharePotentialScore": {
+        "value": 87,
+        "basis": "derived"
+      },
+      "CommentPotentialScore": {
+        "value": 63,
+        "basis": "derived"
+      },
+      "SubscriberConversionPotential": {
+        "value": 70,
+        "basis": "derived+learned",
+        "note": "series depth: 1 topics in HIDDEN ENGINEERING"
+      },
+      "NoveltyScore": {
+        "value": 95,
+        "basis": "inventory-signal"
+      },
+      "AudienceFitScore": {
+        "value": 82,
+        "basis": "inventory-signal"
+      },
+      "SourceQualityScore": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "ChannelFitScore": {
+        "value": 100,
+        "basis": "derived"
+      }
+    },
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 78,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 45,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 50,
+        "basis": "inventory-signal"
+      },
+      "surprise": {
+        "value": 60,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 87,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 92,
+        "basis": "derived",
+        "note": "11 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 86,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 87,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 1 inventory in cluster"
+      },
+      "source_confidence_risk": {
+        "value": -20,
+        "basis": "penalty",
+        "note": "80/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -40,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "viralWeights": {
+      "curiosity_gap": 1.1,
+      "immediate_stakes": 1.1,
+      "human_consequence": 0.9,
+      "recognizability": 0.9,
+      "surprise": 0.9,
+      "visual_potential": 1,
+      "archival_footage_potential": 0.8,
+      "first_frame_potential": 1,
+      "title_potential": 0.8,
+      "emotional_tension": 0.9,
+      "contradiction": 0.7,
+      "unexpected_cause": 0.9,
+      "numerical_anomaly": 0.6,
+      "didnt_know_factor": 0.8,
+      "shareability": 0.9,
+      "channel_fit": 1,
+      "historical_similarity": 1,
+      "duplicate_risk": 1.2,
+      "saturation_risk": 0.6,
+      "source_confidence_risk": 1.2,
+      "weak_footage_risk": 0.8
+    },
+    "viralCalculation": {
+      "positive": 71.7,
+      "penalty": 3.7,
+      "penaltyScale": 0.25
+    },
+    "weights": {
+      "TopicDemandScore": 1.1,
+      "CuriosityScore": 1.3,
+      "HookPotentialScore": 1.2,
+      "VisualImpactScore": 1.2,
+      "EmotionalImpactScore": 0.5,
+      "StoryCompressionScore": 1.1,
+      "RewatchPotentialScore": 0.7,
+      "SharePotentialScore": 0.9,
+      "CommentPotentialScore": 0.6,
+      "SubscriberConversionPotential": 1,
+      "NoveltyScore": 1,
+      "AudienceFitScore": 1.2,
+      "SourceQualityScore": 1.4,
+      "ChannelFitScore": 1.4
+    },
+    "boilerplate": {
+      "ratio": 0,
+      "templatedFields": [],
+      "checkedFields": 6
+    },
+    "specificEvidence": 12,
+    "sourceQuality": {
+      "score": 80,
+      "tiers": [
+        {
+          "name": "National Motor Museum — When were Cats Eyes first invented?",
+          "url": "https://nationalmotormuseum.org.uk/help-centre/motoring-firsts/when-were-cats-eyes-reflective-road-studs-first-invented/",
+          "tier": "MUSEUM_ARCHIVE",
+          "score": 80
+        },
+        {
+          "name": "MyLearning — Percy Shaw, the Inventor of Catseyes",
+          "url": "https://www.mylearning.org/stories/percy-shaw-the-inventor-of-catseyes/feline-inspiration",
+          "tier": "MUSEUM_ARCHIVE",
+          "score": 80
+        }
+      ],
+      "primaryCount": 2,
+      "notes": []
+    },
+    "selectedHook": {
+      "family": "visual_first_reveal",
+      "spoken": "Road cat's eyes clean themselves when cars hit them.",
+      "score": 77
+    }
+  },
+  "topicDecision": {
+    "schema": "growth-topic-decision/1",
+    "channel": "behind-the-ordinary",
+    "contentType": "short",
+    "date": "2026-10-03",
+    "createdAt": "2026-10-03T19:33:20.063Z",
+    "mode": "EXPLORE",
+    "modeRoll": 0.23,
+    "pool": {
+      "minimum": 1,
+      "target": 50,
+      "count": 7,
+      "meetsMinimum": true,
+      "candidates": [
+        {
+          "topicId": "BTO-256",
+          "slug": "why-the-bluetooth-logo-looks-like-that",
+          "topic": "Why the Bluetooth Logo Looks Like That",
+          "cluster": "STRANGE ORIGINS",
+          "bucket": "A",
+          "viralScore": 72,
+          "videoPotentialScore": 82,
+          "selectionScore": 76,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 96,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 86,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 55,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 90,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 82,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 92,
+              "basis": "derived",
+              "note": "10 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 69,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 74,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 92,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 97,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -10,
+              "basis": "penalty",
+              "note": "90/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "The Bluetooth logo is a Viking king's initials.",
+            "score": 75
+          },
+          "rejectionReasons": [
+            "VideoPotential 82 ≥ 80",
+            "hook 75",
+            "sources 90"
+          ]
+        },
+        {
+          "topicId": "BTO-135",
+          "slug": "why-road-cats-eyes-clean-themselves",
+          "topic": "Why Road Cat's Eyes Clean Themselves",
+          "cluster": "HIDDEN ENGINEERING",
+          "bucket": "A",
+          "viralScore": 68,
+          "videoPotentialScore": 82,
+          "selectionScore": 74,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 80,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 78,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 60,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 87,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 92,
+              "basis": "derived",
+              "note": "11 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 86,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 87,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 100,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 1 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -20,
+              "basis": "penalty",
+              "note": "80/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Road cat's eyes clean themselves when cars hit them.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 82 ≥ 80",
+            "hook 77",
+            "sources 80"
+          ]
+        },
+        {
+          "topicId": "BTO-016",
+          "slug": "why-jeans-have-a-tiny-pocket",
+          "topic": "Why Jeans Have a Tiny Pocket",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "A",
+          "viralScore": 69,
+          "videoPotentialScore": 81,
+          "selectionScore": 74,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 98,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 90,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 84,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 100,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -15,
+              "basis": "penalty",
+              "note": "85/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "contradiction",
+            "spoken": "That tiny jeans pocket was not designed for loose change.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 81 ≥ 80",
+            "hook 77",
+            "sources 85"
+          ]
+        },
+        {
+          "topicId": "BTO-017",
+          "slug": "why-jeans-have-copper-rivets",
+          "topic": "Why Jeans Have Copper Rivets",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "A",
+          "viralScore": 68,
+          "videoPotentialScore": 80,
+          "selectionScore": 73,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 89,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 80,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 87,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 57,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 92,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -18,
+              "basis": "penalty",
+              "note": "82/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Those copper dots on jeans started on horse blankets.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 80",
+            "hook 77",
+            "sources 82"
+          ]
+        },
+        {
+          "topicId": "BTO-301",
+          "slug": "why-qr-codes-have-three-corner-squares",
+          "topic": "Why QR Codes Have Three Corner Squares",
+          "cluster": "STRANGE ORIGINS",
+          "bucket": "A",
+          "viralScore": 67,
+          "videoPotentialScore": 80,
+          "selectionScore": 72,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 89,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 80,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 87,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -18,
+              "basis": "penalty",
+              "note": "82/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Those three QR squares aren't decoration.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 80",
+            "hook 77",
+            "sources 82"
+          ]
+        },
+        {
+          "topicId": "BTO-226",
+          "slug": "why-some-barcode-bars-are-longer",
+          "topic": "Why Some Barcode Bars Are Longer",
+          "cluster": "STRANGE ORIGINS",
+          "bucket": "B",
+          "viralScore": 69,
+          "videoPotentialScore": 80,
+          "selectionScore": 73,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 87,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 60,
+              "basis": "measured"
+            },
+            "surprise": {
+              "value": 90,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 94,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 53,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 82,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -10,
+              "basis": "penalty",
+              "note": "90/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Some barcode bars are longer, and that's deliberate.",
+            "score": 74
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 68",
+            "not A: hook 74 < 75"
+          ]
+        },
+        {
+          "topicId": "BTO-040",
+          "slug": "the-shopping-cart-started-as-a-folding-chair",
+          "topic": "The Shopping Cart Started as a Folding Chair",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "B",
+          "viralScore": 64,
+          "videoPotentialScore": 76,
+          "selectionScore": 69,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 82,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 60,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 95,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 78,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 81,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 76,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -20,
+              "basis": "penalty",
+              "note": "80/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "The shopping cart started as a folding chair.",
+            "score": 75
+          },
+          "rejectionReasons": [
+            "VideoPotential 76 ≥ 68"
+          ]
+        }
+      ]
+    },
+    "selected": {
+      "topicId": "BTO-135",
+      "slug": "why-road-cats-eyes-clean-themselves",
+      "topic": "Why Road Cat's Eyes Clean Themselves",
+      "cluster": "HIDDEN ENGINEERING",
+      "bucket": "A",
+      "viralScore": 68,
+      "videoPotentialScore": 82,
+      "selectionScore": 74,
+      "viralComponents": {
+        "curiosity_gap": {
+          "value": 80,
+          "basis": "derived"
+        },
+        "immediate_stakes": {
+          "value": 78,
+          "basis": "derived"
+        },
+        "human_consequence": {
+          "value": 45,
+          "basis": "derived"
+        },
+        "recognizability": {
+          "value": 50,
+          "basis": "inventory-signal"
+        },
+        "surprise": {
+          "value": 60,
+          "basis": "derived"
+        },
+        "visual_potential": {
+          "value": 87,
+          "basis": "inventory-signal"
+        },
+        "archival_footage_potential": {
+          "value": 35,
+          "basis": "inventory-signal"
+        },
+        "first_frame_potential": {
+          "value": 68,
+          "basis": "derived"
+        },
+        "title_potential": {
+          "value": 92,
+          "basis": "derived",
+          "note": "11 source-backed title seeds"
+        },
+        "emotional_tension": {
+          "value": 65,
+          "basis": "derived"
+        },
+        "contradiction": {
+          "value": 85,
+          "basis": "derived"
+        },
+        "unexpected_cause": {
+          "value": 65,
+          "basis": "derived"
+        },
+        "numerical_anomaly": {
+          "value": 86,
+          "basis": "derived"
+        },
+        "didnt_know_factor": {
+          "value": 88,
+          "basis": "derived"
+        },
+        "shareability": {
+          "value": 87,
+          "basis": "derived"
+        },
+        "channel_fit": {
+          "value": 100,
+          "basis": "derived"
+        },
+        "historical_similarity": {
+          "value": 50,
+          "basis": "neutral",
+          "note": "no same-cluster channel evidence yet"
+        },
+        "duplicate_risk": {
+          "value": 0,
+          "basis": "penalty",
+          "note": "no published-title collision"
+        },
+        "saturation_risk": {
+          "value": 0,
+          "basis": "penalty",
+          "note": "0 published / 1 inventory in cluster"
+        },
+        "source_confidence_risk": {
+          "value": -20,
+          "basis": "penalty",
+          "note": "80/100 source quality"
+        },
+        "weak_footage_risk": {
+          "value": -40,
+          "basis": "penalty",
+          "note": "no archival footage confirmed"
+        }
+      },
+      "selectedHook": {
+        "family": "visual_first_reveal",
+        "spoken": "Road cat's eyes clean themselves when cars hit them.",
+        "score": 77
+      },
+      "rejectionReasons": [
+        "VideoPotential 82 ≥ 80",
+        "hook 77",
+        "sources 80"
+      ]
+    },
+    "reason": "EXPLORE (0.25): under-sampled cluster HIDDEN ENGINEERING"
+  },
+  "hooks": {
+    "selected": {
+      "family": "visual_first_reveal",
+      "spoken": "Road cat's eyes clean themselves when cars hit them.",
+      "onScreen": "SELF CLEANING",
+      "fields": [
+        "openingLine"
+      ],
+      "editorial": true,
+      "words": 9,
+      "estimatedSeconds": 2.8,
+      "scores": {
+        "SwipeStoppingPower": 65,
+        "CuriosityGap": 35,
+        "Clarity": 100,
+        "Specificity": 55,
+        "EmotionalIntensity": 30,
+        "Credibility": 100,
+        "VisualCompatibility": 96,
+        "ChannelFit": 60,
+        "ImmediateComprehension": 100,
+        "RetentionExpectation": 49,
+        "VoiceoverNaturalness": 100,
+        "FirstFrameCompatibility": 96,
+        "FactualDefensibility": 100,
+        "ShortFormSuitability": 97
+      },
+      "total": 77,
+      "blocked": false,
+      "blockers": [],
+      "generic": false,
+      "adjustedTotal": 77,
+      "fitsOpening": true
+    },
+    "selectedScore": 77,
+    "passes": true,
+    "candidateCount": 11,
+    "familyCount": 6,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "family": "visual_first_reveal",
+        "spoken": "Road cat's eyes clean themselves when cars hit them.",
+        "onScreen": "SELF CLEANING",
+        "fields": [
+          "openingLine"
+        ],
+        "editorial": true,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 96,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 49,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 96,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 77,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 77,
+        "fitsOpening": true
+      },
+      {
+        "family": "shocking_consequence",
+        "spoken": "Passing traffic keeps the reflectors clean.",
+        "onScreen": "SELF CLEANING",
+        "fields": [
+          "consequence"
+        ],
+        "editorial": false,
+        "words": 6,
+        "estimatedSeconds": 1.9,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 89,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 49,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 89,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 75,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 75,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "Percy Shaw of Halifax patented reflective road studs in 1934.",
+        "onScreen": "1934",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 35,
+          "Clarity": 95,
+          "Specificity": 80,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 45,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 74,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 74,
+        "fitsOpening": false
+      },
+      {
+        "family": "unexpected_chain_reaction",
+        "spoken": "The trick is a rubber eyelid.",
+        "onScreen": "SELF CLEANING",
+        "fields": [
+          "secondBeat"
+        ],
+        "editorial": false,
+        "words": 6,
+        "estimatedSeconds": 1.9,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 50,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 80,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 71,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 71,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The flexible rubber dome is deformed by passing traffic.",
+        "onScreen": "SELF CLEANING",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 50,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 71,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 71,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "A company to manufacture the studs was established in 1935.",
+        "onScreen": "1935",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 35,
+          "Clarity": 95,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 85,
+          "RetentionExpectation": 41,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 70,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 70,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Rainwater held in the base makes that wipe even more efficient.",
+        "onScreen": "SELF CLEANING",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 51,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 69,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 69,
+        "fitsOpening": false
+      },
+      {
+        "family": "question_gap",
+        "spoken": "What is self-cleaning faces for?",
+        "onScreen": "SELF CLEANING",
+        "fields": [
+          "subject"
+        ],
+        "editorial": false,
+        "words": 5,
+        "estimatedSeconds": 1.6,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 63,
+          "Clarity": 100,
+          "Specificity": 10,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 59,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 64,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 59,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The name came from a cat's eyes reflecting light in the dark.",
+        "onScreen": "SELF CLEANING",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 12,
+        "estimatedSeconds": 3.8,
+        "scores": {
+          "SwipeStoppingPower": 53,
+          "CuriosityGap": 45,
+          "Clarity": 85,
+          "Specificity": 30,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 70,
+          "RetentionExpectation": 49,
+          "VoiceoverNaturalness": 90,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 82
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The base holds water after rain, making the cleaning more efficient.",
+        "onScreen": "SELF CLEANING",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 46,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The name came from Shaw's inspiration: eyeshine reflecting from a cat's eyes.",
+        "onScreen": "SELF CLEANING",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 12,
+        "estimatedSeconds": 3.8,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 45,
+          "Clarity": 85,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 70,
+          "RetentionExpectation": 46,
+          "VoiceoverNaturalness": 90,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 82
+        },
+        "total": 66,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 66,
+        "fitsOpening": false
+      }
+    ]
+  },
+  "first3Seconds": {
+    "First3SecondPlan": {
+      "narration": "Road cat's eyes clean themselves when cars hit them.",
+      "firstFrame": {
+        "description": "road reflectors fills the frame; one marker isolates self-cleaning faces",
+        "source": "procedural render",
+        "startAtSeconds": 0,
+        "sourceClass": "REAL_OBJECT",
+        "communicates": "mystery",
+        "rule": "labelled illustration; no logo, no establishing shot"
+      },
+      "visual": "road reflectors fills the frame; one marker isolates self-cleaning faces",
+      "onScreenText": "SELF CLEANING",
+      "motion": "macro push toward the highlighted detail in 0.7 s, then cut to source evidence",
+      "cutTiming": [
+        0,
+        1.4,
+        2.8
+      ],
+      "soundCue": "one small tactile click synchronized to the highlighted detail",
+      "communicates": "mystery"
+    },
+    "score": 84,
+    "passes": true,
+    "blockers": [],
+    "notes": []
+  },
+  "script": {
+    "format": "short",
+    "generator": "editorial (researched record)",
+    "targetSeconds": 28.9,
+    "spoken": "Road cat's eyes clean themselves when cars hit them. The trick is a rubber eyelid. Percy Shaw of Halifax patented reflective road studs in 1934. The name came from a cat's eyes reflecting light in the dark. The reflectors sit in a flexible rubber dome inside a cast iron housing. When a tyre presses it down, a fixed rubber wiper cleans the reflectors. Rainwater held in the base makes that wipe even more efficient. So passing traffic keeps the reflectors clean.",
+    "claims": [
+      {
+        "start": 0,
+        "end": 3.2,
+        "role": "VISUAL_MYSTERY",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Road cat's eyes clean themselves when cars hit them."
+      },
+      {
+        "start": 3.2,
+        "end": 5.4,
+        "role": "CLEAR_PROMISE",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "The trick is a rubber eyelid."
+      },
+      {
+        "start": 5.4,
+        "end": 8.9,
+        "role": "ORIGIN",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Percy Shaw of Halifax patented reflective road studs in 1934."
+      },
+      {
+        "start": 8.9,
+        "end": 13.2,
+        "role": "ORIGIN",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "The name came from a cat's eyes reflecting light in the dark."
+      },
+      {
+        "start": 13.2,
+        "end": 17.9,
+        "role": "EXPLANATION",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "The reflectors sit in a flexible rubber dome inside a cast iron housing."
+      },
+      {
+        "start": 17.9,
+        "end": 22.5,
+        "role": "EXPLANATION",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "When a tyre presses it down, a fixed rubber wiper cleans the reflectors."
+      },
+      {
+        "start": 22.5,
+        "end": 26.4,
+        "role": "SURPRISING_DETAIL",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Rainwater held in the base makes that wipe even more efficient."
+      },
+      {
+        "start": 26.4,
+        "end": 28.9,
+        "role": "PAYOFF",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "So passing traffic keeps the reflectors clean."
+      }
+    ],
+    "lines": [
+      "Road cat's eyes clean themselves when cars hit them.",
+      "The trick is a rubber eyelid.",
+      "Percy Shaw of Halifax patented reflective road studs in 1934.",
+      "The name came from a cat's eyes reflecting light in the dark.",
+      "The reflectors sit in a flexible rubber dome inside a cast iron housing.",
+      "When a tyre presses it down, a fixed rubber wiper cleans the reflectors.",
+      "Rainwater held in the base makes that wipe even more efficient.",
+      "So passing traffic keeps the reflectors clean."
+    ],
+    "structure": [
+      "VISUAL_MYSTERY",
+      "CLEAR_PROMISE",
+      "ORIGIN",
+      "ORIGIN",
+      "EXPLANATION",
+      "EXPLANATION",
+      "SURPRISING_DETAIL",
+      "PAYOFF"
+    ],
+    "forbiddenOpening": false,
+    "sourceIds": [
+      "National Motor Museum — When were Cats Eyes first invented?",
+      "MyLearning — Percy Shaw, the Inventor of Catseyes"
+    ],
+    "retention": {
+      "score": 90,
+      "words": 81,
+      "estimatedSeconds": 28.9,
+      "components": {
+        "hookDelay": 95,
+        "setupDelay": 85,
+        "sentenceLength": 100,
+        "informationDensity": 95,
+        "repetition": 100,
+        "deadSections": 100,
+        "escalation": 90,
+        "unansweredQuestions": 60,
+        "earlyPayoff": 55,
+        "visualOpportunities": 80,
+        "clarity": 100,
+        "duration": 95,
+        "endingStrength": 45
+      },
+      "duplicatePairs": [],
+      "findings": [
+        "final line has no payoff / consequence / lesson"
+      ],
+      "blockers": [],
+      "roles": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "rejectionReason": null,
+      "rewriteSuggested": false,
+      "passes": true
+    },
+    "estimatedSeconds": 28.9
+  },
+  "titles": {
+    "selected": {
+      "title": "How Road Studs Wipe Their Own Reflectors",
+      "source": "editorial",
+      "pattern": "how",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 95,
+        "channelIdentity": 60,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85,
+        "consequence": 42,
+        "compactness": 100,
+        "recognizability": 80,
+        "nonRedundancy": 100,
+        "factualIntegrity": 100,
+        "historicalPerformanceSimilarity": 50,
+        "patternFreshness": 100
+      },
+      "total": 82,
+      "patternPenalty": 0,
+      "adjustedTotal": 82,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 82,
+    "count": 31,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "title": "How Road Studs Wipe Their Own Reflectors",
+        "source": "editorial",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 60,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 82,
+        "patternPenalty": 0,
+        "adjustedTotal": 82,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Cars Clean These Road Reflectors",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 60,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 80,
+        "patternPenalty": 0,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Rain Makes These Road Reflectors Cleaner",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 60,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 79,
+        "patternPenalty": 0,
+        "adjustedTotal": 79,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Wiper Inside Every Road Stud",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 84,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Traffic Keeps Cat's Eyes Clean",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 75,
+        "patternPenalty": 0,
+        "adjustedTotal": 75,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Road Cat's Eyes Clean Themselves",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 50,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 74,
+        "patternPenalty": 0,
+        "adjustedTotal": 74,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Rubber Eyelid Inside Cat's Eyes",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Happens When a Tyre Hits a Cat's Eye",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 60,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The 1934 Road Stud That Cleans Itself",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 62,
+          "truthfulness": 100,
+          "searchIntent": 38,
+          "channelIdentity": 60,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 72,
+        "patternPenalty": 0,
+        "adjustedTotal": 72,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Percy Shaw's Self-Cleaning Road Stud",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 60,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 70,
+        "patternPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Road Reflectors Have Self-cleaning Faces",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "have",
+          "faces"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why This Detail Still Exists on Road Reflectors",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 87,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "still",
+          "exists"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Tiny Design Choice on Road Reflectors",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "tiny"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Road Reflectors Explained Through One Small Detail",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "through"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Everyday Engineering of Road Reflectors",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 75,
+        "patternPenalty": 0,
+        "adjustedTotal": 75,
+        "unsupportedWords": [
+          "everyday"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Look Closely at Road Reflectors",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 50,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 75,
+        "patternPenalty": 0,
+        "adjustedTotal": 75,
+        "unsupportedWords": [
+          "closely"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Road Reflectors: The Detail Everyone Overlooks",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 72,
+        "patternPenalty": 0,
+        "adjustedTotal": 72,
+        "unsupportedWords": [
+          "everyone",
+          "overlooks"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Purpose of Self-cleaning Faces",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 74,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 70,
+        "patternPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [
+          "faces"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "What Self-cleaning Faces Were Actually Made for",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 42,
+          "channelIdentity": 62,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 69,
+        "patternPenalty": 0,
+        "adjustedTotal": 69,
+        "unsupportedWords": [
+          "faces",
+          "made"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Design Reason Behind Self-cleaning Faces",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 69,
+        "patternPenalty": 0,
+        "adjustedTotal": 69,
+        "unsupportedWords": [
+          "faces"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Ordinary Detail With an Older Purpose",
+        "source": "older-purpose",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 41,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 86,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 68,
+        "patternPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [
+          "older"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why Designers Kept Self-cleaning Faces",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 42,
+          "channelIdentity": 74,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 67,
+        "patternPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [
+          "kept",
+          "faces"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Reason Self-cleaning Faces Look Like This",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 66,
+        "patternPenalty": 0,
+        "adjustedTotal": 66,
+        "unsupportedWords": [
+          "faces"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Original Job of Self-cleaning Faces",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 64,
+        "patternPenalty": 0,
+        "adjustedTotal": 64,
+        "unsupportedWords": [
+          "job",
+          "faces"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why Road Reflectors Still Use This Old Detail",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [
+          "still",
+          "use",
+          "old"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "How Self-cleaning Faces Became Part of Road Reflectors",
+        "source": "legacy-generator",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 87,
+          "channelIdentity": 50,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 71,
+        "patternPenalty": 0,
+        "adjustedTotal": 71,
+        "unsupportedWords": [
+          "faces",
+          "became",
+          "part"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "Road Reflectors Hide a Piece of Design History",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 69,
+        "patternPenalty": 0,
+        "adjustedTotal": 69,
+        "unsupportedWords": [
+          "hide",
+          "piece",
+          "history"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "What Problem Did Self-cleaning Faces Solve?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 55,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 66,
+        "patternPenalty": 0,
+        "adjustedTotal": 66,
+        "unsupportedWords": [
+          "problem",
+          "faces",
+          "solve"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "Self-cleaning Faces: Function or Leftover?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 66,
+          "specificity": 47,
+          "truthfulness": 55,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 63,
+        "patternPenalty": 0,
+        "adjustedTotal": 63,
+        "unsupportedWords": [
+          "faces",
+          "function",
+          "leftover"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "This Detail Wasn't Added by Accident",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 55,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 60,
+        "patternPenalty": 0,
+        "adjustedTotal": 60,
+        "unsupportedWords": [
+          "wasnt",
+          "added",
+          "accident"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "This Self-cleaning Faces Wasn't Added by Accident",
+        "source": "not-accident",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 40,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 40,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 57,
+        "patternPenalty": 0,
+        "adjustedTotal": 57,
+        "unsupportedWords": [
+          "faces",
+          "wasnt",
+          "added",
+          "accident"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "cta": {
+    "type": "NONE",
+    "reason": "deterministic roll 0.79 ≥ ctaProbability 0.35"
+  },
+  "loop": {
+    "LoopPotentialScore": 60,
+    "apply": false,
+    "plan": {
+      "reason": "loop would not improve story satisfaction; ending stays a clean payoff"
+    }
+  },
+  "integrity": {
+    "score": 70,
+    "scenes": [
+      {
+        "scene": 1,
+        "text": "cat's eyes glowing on a night road",
+        "sourceClass": "REAL_OBJECT",
+        "label": "n/a"
+      },
+      {
+        "scene": 2,
+        "text": "macro view of a road stud",
+        "sourceClass": "MACRO_DETAIL",
+        "label": "n/a"
+      },
+      {
+        "scene": 3,
+        "text": "cutaway of the rubber dome and wiper",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 4,
+        "text": "a tyre pressing the stud down",
+        "sourceClass": "REAL_OBJECT",
+        "label": "n/a"
+      },
+      {
+        "scene": 5,
+        "text": "rainwater pooled in the stud base",
+        "sourceClass": "REAL_OBJECT",
+        "label": "n/a"
+      }
+    ],
+    "classes": [
+      "REAL_OBJECT",
+      "MACRO_DETAIL",
+      "TECHNICAL_ILLUSTRATION"
+    ],
+    "hardFails": [],
+    "notes": []
+  },
+  "factual": {
+    "score": 100,
+    "hardFails": [],
+    "notes": [],
+    "claimClasses": {
+      "CONFIRMED_FACT": 9
+    },
+    "unsupportedNumbers": []
+  },
+  "pacing": {
+    "plannedSegments": [
+      1.319,
+      0.901,
+      1.348,
+      1.932,
+      1.784,
+      2.387,
+      1.646,
+      3.201,
+      3.225,
+      2.641,
+      3.478,
+      2.829,
+      2.21
+    ],
+    "segments": 13,
+    "cutsInFirst3Seconds": 3,
+    "averageSeconds": 2.22,
+    "longestSeconds": 3.478,
+    "mechanical": false
+  },
+  "captions": {
+    "events": 26,
+    "maxWords": 4,
+    "maxLines": 2,
+    "tooFast": 0,
+    "safeZoneMarginV": 560,
+    "passes": true
+  },
+  "relatedLong": null,
+  "experiment": null,
+  "readiness": {
+    "ProductionReadinessScore": 87,
+    "decision": "PUBLISH",
+    "stage": "final",
+    "dimensions": {
+      "topicPotential": 82,
+      "hook": 77,
+      "title": 82,
+      "script": 90,
+      "firstSeconds": 84,
+      "factual": 100,
+      "visualRelevance": 70,
+      "sources": 80,
+      "metadata": 100,
+      "visualQuality": 82,
+      "audio": 85,
+      "captions": 90,
+      "duration": 100,
+      "pacing": 92,
+      "render": 100
+    },
+    "unmeasured": [],
+    "hardFails": [],
+    "notes": [],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "growthMeta": {
+    "hookType": "visual_first_reveal",
+    "hookScore": 77,
+    "selectedHook": "Road cat's eyes clean themselves when cars hit them.",
+    "firstLine": "Road cat's eyes clean themselves when cars hit them.",
+    "firstSecondsScore": 84,
+    "topicCluster": "HIDDEN ENGINEERING",
+    "bucket": "A",
+    "viralScore": 68,
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 78,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 45,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 50,
+        "basis": "inventory-signal"
+      },
+      "surprise": {
+        "value": 60,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 87,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 92,
+        "basis": "derived",
+        "note": "11 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 86,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 87,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 1 inventory in cluster"
+      },
+      "source_confidence_risk": {
+        "value": -20,
+        "basis": "penalty",
+        "note": "80/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -40,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "storyStructure": "VISUAL_MYSTERY>CLEAR_PROMISE>FAST_EXPLANATION>SPECIFIC_PAYOFF",
+    "titlePattern": "how",
+    "selectedTitle": "How Road Studs Wipe Their Own Reflectors",
+    "titleScore": 82,
+    "titleCandidates": 31,
+    "hookCandidates": 11,
+    "topicScore": 82,
+    "popularityScore": null,
+    "ctaStyle": "NONE",
+    "durationBucket": "26-35s",
+    "openingVisual": "REAL_OBJECT",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 77,
+      "CuriosityScore": 80,
+      "HookPotentialScore": 77,
+      "VisualImpactScore": 87,
+      "EmotionalImpactScore": 65,
+      "StoryCompressionScore": 84,
+      "RewatchPotentialScore": 69,
+      "SharePotentialScore": 87,
+      "CommentPotentialScore": 63,
+      "SubscriberConversionPotential": 70,
+      "NoveltyScore": 95,
+      "AudienceFitScore": 82,
+      "SourceQualityScore": 80,
+      "ChannelFitScore": 100
+    },
+    "selectionMode": "EXPLORE"
+  },
+  "summary": {
+    "Channel": "The Hidden Logic of Things",
+    "Content Type": "SHORT",
+    "Topic": "Why Road Cat's Eyes Clean Themselves",
+    "Topic Score": 82,
+    "Topic Bucket": "A",
+    "Selected Hook": "Road cat's eyes clean themselves when cars hit them.",
+    "Hook Type": "visual_first_reveal",
+    "Hook Score": 77,
+    "First-3-sec Score": 84,
+    "Duration": "~28.9s (estimated)",
+    "Scenes": 13,
+    "Production Score": "87 (final) → PUBLISH",
+    "Experiment": "none",
+    "Related Long Video": "none yet"
+  }
+}

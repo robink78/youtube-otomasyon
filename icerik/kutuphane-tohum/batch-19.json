@@ -1,0 +1,578 @@
+[
+  {
+    "slug": "tam-3054-2007",
+    "wiki": "TAM_Airlines_Flight_3054",
+    "commons": [
+      "TAM Airlines Flight 3054"
+    ],
+    "baslik": "One Thrust Lever Left in Climb on a Wet Runway",
+    "ad": "TAM Airlines Flight 3054",
+    "kisa": "TAM 3054",
+    "nesne": "Thrust lever",
+    "yil": 2007,
+    "kume": "aviation-failures",
+    "oncelik": 9,
+    "sonuc": "overran the runway at Congonhas and hit a warehouse",
+    "tetik": "a thrust lever left in climb position on landing",
+    "mekanizma": "one engine still producing power so the spoilers never deployed and the jet couldn't stop",
+    "sayi": "199 DIED",
+    "ders": "Airbus had proposed a warning for this lever error, and the crash renewed attention to it",
+    "zincir": [
+      "ONE REVERSER DEACTIVATED",
+      "WET SHORT RUNWAY",
+      "ONE LEVER LEFT IN CLIMB",
+      "SPOILERS DON'T DEPLOY",
+      "JET OVERRUNS"
+    ],
+    "yanilgi": "The runway was slippery, but the key failure was one lever. With it above idle, the spoilers stayed down.",
+    "tartisma": "The system logic required both levers at idle. Should automation override an obvious landing?",
+    "basliklar": [
+      "Why TAM Flight 3054 Couldn't Stop",
+      "The Thrust Lever Left in Climb"
+    ],
+    "kapak": [
+      "ONE LEVER",
+      "NO SPOILERS"
+    ],
+    "hook": "One lever was left in climb",
+    "soru": "Should automation override it?",
+    "sahneler": [
+      "In rain at São Paulo, an Airbus A320 raced off the end of the runway.",
+      "It crossed a road and exploded into a warehouse, killing one hundred ninety nine people.",
+      "One thrust reverser had been deactivated.",
+      "On touchdown, one thrust lever stayed in climb position.",
+      "That engine kept producing power.",
+      "The spoilers needed both levers at idle to deploy.",
+      "The jet couldn't slow down on the short runway.",
+      "Airbus had proposed a warning for this lever error."
+    ]
+  },
+  {
+    "slug": "chase-maryland-1987",
+    "wiki": "1987_Maryland_train_collision",
+    "commons": [
+      "1987 Maryland train collision"
+    ],
+    "baslik": "The Locomotives That Ran Past a Stop Signal",
+    "ad": "the Chase, Maryland collision",
+    "kisa": "Chase Maryland",
+    "nesne": "Signal",
+    "yil": 1987,
+    "kume": "rail-disasters",
+    "oncelik": 8,
+    "sonuc": "caused an Amtrak train to hit light locomotives",
+    "tetik": "a crew failing to stop at signals",
+    "mekanizma": "locomotives fouling the main line after passing stop signals, with a cab signal whistle taped silent",
+    "sayi": "100+ MPH",
+    "ders": "random drug testing was mandated for safety-sensitive transport jobs",
+    "zincir": [
+      "CREW IMPAIRED",
+      "SIGNALS IGNORED",
+      "LOCOMOTIVES FOUL MAIN LINE",
+      "AMTRAK AT 100+ MPH",
+      "COLLISION"
+    ],
+    "yanilgi": "The signals worked. The freight crew didn't stop for them.",
+    "tartisma": "The crash led to random drug testing across transport. Where should testing stop?",
+    "basliklar": [
+      "Why the Chase, Maryland Train Crash Happened",
+      "The Signals the Crew Ignored"
+    ],
+    "kapak": [
+      "IGNORED SIGNALS",
+      "100+ MPH"
+    ],
+    "hook": "They ran the stop signal",
+    "soru": "Where should testing stop?",
+    "sahneler": [
+      "An Amtrak train at over one hundred miles per hour hit locomotives on its track.",
+      "It crashed and killed fourteen passengers and two crew.",
+      "Conrail locomotives had run onto the main line.",
+      "Their crew failed to stop at the signals.",
+      "They tested positive for cannabis.",
+      "Their cab warning whistle had been muted with duct tape.",
+      "The engineer went to prison.",
+      "Congress later mandated random drug testing for safety-sensitive jobs."
+    ]
+  },
+  {
+    "slug": "sidney-lanier-bridge-1972",
+    "wiki": "Sidney_Lanier_Bridge",
+    "commons": [
+      "Sidney Lanier Bridge"
+    ],
+    "baslik": "A Ship Knocked Out a Lift Bridge and Cars Fell",
+    "ad": "the Sidney Lanier Bridge",
+    "kisa": "Sidney Lanier Bridge",
+    "nesne": "Lift bridge",
+    "yil": 1972,
+    "kume": "bridge-failures",
+    "oncelik": 7,
+    "sonuc": "had spans knocked down by a ship",
+    "tetik": "a cargo ship striking the low bridge",
+    "mekanizma": "ship impact on a low vertical-lift bridge with poor navigational clearance",
+    "sayi": "TEN DIED",
+    "ders": "the replacement bridge was built higher with ship-collision islands",
+    "zincir": [
+      "LOW CLEARANCE",
+      "SHIP APPROACHES",
+      "STRIKES BRIDGE",
+      "SPANS FALL",
+      "CARS PLUNGE"
+    ],
+    "yanilgi": "It wasn't the first strike. The bridge was hit by ships twice.",
+    "tartisma": "Clearance problems were known for years. How long should a risky bridge stay in service?",
+    "basliklar": [
+      "Why the Sidney Lanier Bridge Fell",
+      "The Bridge Ships Kept Hitting"
+    ],
+    "kapak": [
+      "SHIP STRIKE",
+      "TEN DIED"
+    ],
+    "hook": "Ships kept hitting it",
+    "soru": "How long should it stay?",
+    "sahneler": [
+      "A cargo ship crashed into the Sidney Lanier Bridge in Georgia.",
+      "Spans fell into the river, and ten people were killed.",
+      "It was a low vertical-lift bridge.",
+      "Its navigational clearance was poor.",
+      "Cars on the bridge plunged into the water.",
+      "It was one of two ship collisions it suffered.",
+      "Larger ships later couldn't reach the port at all.",
+      "The replacement was built higher, with protective islands."
+    ]
+  },
+  {
+    "slug": "yungay-ancash-1970",
+    "wiki": "1970_Ancash_earthquake",
+    "commons": [
+      "1970 Ancash earthquake"
+    ],
+    "baslik": "The Avalanche That Buried a Town in Minutes",
+    "ad": "the Ancash earthquake",
+    "kisa": "Yungay",
+    "nesne": "Glacier",
+    "yil": 1970,
+    "kume": "natural-hazards",
+    "oncelik": 9,
+    "sonuc": "triggered an avalanche that buried Yungay",
+    "tetik": "an earthquake destabilizing Huascarán's north wall",
+    "mekanizma": "a rock, ice and snow avalanche gathering mud and debris as it raced down the valley",
+    "sayi": "18 KM",
+    "ders": "Yungay was declared a national cemetery and the town was rebuilt elsewhere",
+    "zincir": [
+      "OFFSHORE EARTHQUAKE",
+      "MOUNTAIN WALL BREAKS",
+      "ICE AND ROCK FALL",
+      "AVALANCHE GROWS",
+      "TOWN BURIED"
+    ],
+    "yanilgi": "The earthquake was offshore. The deadliest blow came from a mountain far inland.",
+    "tartisma": "The disaster came from far outside the shaking zone. How far should hazard maps reach?",
+    "basliklar": [
+      "How the 1970 Peru Earthquake Buried Yungay",
+      "The World's Deadliest Avalanche"
+    ],
+    "kapak": [
+      "BURIED",
+      "18 KM"
+    ],
+    "hook": "A mountain buried the town",
+    "soru": "How far should hazard maps reach?",
+    "sahneler": [
+      "An earthquake struck off the coast of Peru.",
+      "Within minutes, a wall of ice and rock buried the town of Yungay.",
+      "The shaking broke the north wall of Mount Huascarán.",
+      "Ice, rock and snow fell down the valley.",
+      "It raced about eighteen kilometres at enormous speed.",
+      "It picked up mud and debris as it went.",
+      "It became the world's deadliest avalanche.",
+      "Yungay's site was declared a national cemetery."
+    ]
+  },
+  {
+    "slug": "hope-slide-1965",
+    "wiki": "Hope_Slide",
+    "commons": [
+      "Hope Slide"
+    ],
+    "baslik": "Half a Mountain Fell on a Highway",
+    "ad": "the Hope Slide",
+    "kisa": "Hope Slide",
+    "nesne": "Mountainside",
+    "yil": 1965,
+    "kume": "natural-hazards",
+    "oncelik": 7,
+    "sonuc": "buried a highway under rock",
+    "tetik": "the collapse of Johnson Peak's southwestern slope",
+    "mekanizma": "a massive rock slope failure, possibly linked to small earthquakes",
+    "sayi": "FOUR DIED",
+    "ders": "the new road was built over the debris and the site is a viewpoint",
+    "zincir": [
+      "SMALL AVALANCHE STOPS CARS",
+      "EARLY MORNING QUAKES",
+      "SLOPE FAILS",
+      "ROCK BURIES HIGHWAY",
+      "FOUR DIE"
+    ],
+    "yanilgi": "The victims were stopped by a smaller avalanche first. Then the big slide came.",
+    "tartisma": "A small warning event trapped people in the danger zone. How do you read a warning correctly?",
+    "basliklar": [
+      "What Caused the Hope Slide",
+      "Half a Mountain on the Highway"
+    ],
+    "kapak": [
+      "HALF A MOUNTAIN",
+      "BURIED"
+    ],
+    "hook": "Half a mountain fell",
+    "soru": "How do you read a warning?",
+    "sahneler": [
+      "In British Columbia, a mountainside collapsed onto a highway.",
+      "In seconds, rock buried the road, and four people were killed.",
+      "A small avalanche had already stopped cars there.",
+      "Two small earthquakes were recorded that morning.",
+      "Then Johnson Peak's slope gave way.",
+      "Tens of millions of cubic metres of rock came down.",
+      "It is one of Canada's largest recorded landslides.",
+      "The new highway was built over the debris."
+    ]
+  },
+  {
+    "slug": "gol-1907-2006",
+    "wiki": "Gol_Transportes_Aéreos_Flight_1907",
+    "commons": [
+      "Gol Transportes Aéreos Flight 1907"
+    ],
+    "baslik": "A Business Jet's Collision Warning Was Switched Off",
+    "ad": "Gol Flight 1907",
+    "kisa": "Gol 1907",
+    "nesne": "TCAS",
+    "yil": 2006,
+    "kume": "aviation-failures",
+    "oncelik": 9,
+    "sonuc": "collided mid-air with a business jet over the Amazon",
+    "tetik": "two jets at the same altitude on opposite headings",
+    "mekanizma": "controller errors plus a collision-avoidance system that wasn't active on the business jet",
+    "sayi": "154 DIED",
+    "ders": "Brazil faced scrutiny over its air traffic control system",
+    "zincir": [
+      "WRONG ALTITUDE",
+      "RADIO CONTACT LOST",
+      "TCAS INACTIVE",
+      "SAME ALTITUDE HEAD-ON",
+      "WINGLET SLICES WING"
+    ],
+    "yanilgi": "The business jet survived. Its winglet sliced the airliner's wing off.",
+    "tartisma": "Brazil's and America's investigators blamed different parties. Who gets the blame when layers fail?",
+    "basliklar": [
+      "Why Gol Flight 1907 Collided Over the Amazon",
+      "The Collision Warning That Was Off"
+    ],
+    "kapak": [
+      "TCAS OFF",
+      "154 DIED"
+    ],
+    "hook": "The warning system was off",
+    "soru": "Who gets the blame?",
+    "sahneler": [
+      "Over the Amazon, a Boeing 737 and a business jet collided head-on.",
+      "The airliner broke up, and all one hundred fifty four aboard were killed.",
+      "Both jets were at the same altitude.",
+      "Controllers failed to catch it.",
+      "The business jet's collision-avoidance system wasn't active.",
+      "Its winglet sliced off half of the 737's left wing.",
+      "The damaged business jet landed safely.",
+      "Investigators disagreed over where blame lay."
+    ]
+  },
+  {
+    "slug": "avianca-52-1990",
+    "wiki": "Avianca_Flight_052",
+    "commons": [
+      "Avianca Flight 52"
+    ],
+    "baslik": "The Jet That Ran Out of Fuel Without Saying Emergency",
+    "ad": "Avianca Flight 052",
+    "kisa": "Avianca 52",
+    "nesne": "Fuel",
+    "yil": 1990,
+    "kume": "aviation-failures",
+    "oncelik": 9,
+    "sonuc": "ran out of fuel and crashed on Long Island",
+    "tetik": "a crew that never declared a fuel emergency",
+    "mekanizma": "holding delays and a missed approach while controllers didn't understand the fuel state",
+    "sayi": "73 DIED",
+    "ders": "fuel emergency terminology was standardized",
+    "zincir": [
+      "THREE HOLDS",
+      "FUEL RUNS LOW",
+      "CREW ASKS FOR PRIORITY",
+      "NO WORD EMERGENCY",
+      "ENGINES FLAME OUT"
+    ],
+    "yanilgi": "The crew asked for priority. Controllers didn't treat it as an emergency.",
+    "tartisma": "One word could have changed the outcome. Should safety depend on the right word?",
+    "basliklar": [
+      "Why Avianca Flight 52 Ran Out of Fuel",
+      "The Word the Crew Never Said"
+    ],
+    "kapak": [
+      "NO FUEL",
+      "ONE WORD"
+    ],
+    "hook": "They never said emergency",
+    "soru": "Should safety depend on one word?",
+    "sahneler": [
+      "A Boeing 707 ran out of fuel and crashed on a Long Island hillside.",
+      "It broke apart, and seventy three people were killed.",
+      "The flight was held in three holding patterns.",
+      "Fuel ran low.",
+      "The crew asked for priority, but never said emergency.",
+      "After a missed approach, the engines flamed out.",
+      "Controllers didn't grasp how little fuel was left.",
+      "Fuel emergency terms were standardized."
+    ]
+  },
+  {
+    "slug": "starship-ift-1-2023",
+    "wiki": "Starship_flight_test_1",
+    "commons": [
+      "Starship flight test 1"
+    ],
+    "baslik": "The Rocket That Destroyed Its Own Launch Pad",
+    "ad": "Starship flight test 1",
+    "kisa": "Starship IFT-1",
+    "nesne": "Launch pad",
+    "yil": 2023,
+    "kume": "spaceflight-disasters",
+    "oncelik": 9,
+    "sonuc": "was destroyed minutes after lift-off",
+    "tetik": "engines failing and a pad damaged by the launch",
+    "mekanizma": "a pad built without flame diverters or water deluge eroded by thrust, while engine failures crippled the vehicle",
+    "sayi": "UNDER 4 MINUTES",
+    "ders": "the pad was rebuilt with protections it had lacked",
+    "zincir": [
+      "NO FLAME TRENCH",
+      "ENGINES FAIL AT LIFT-OFF",
+      "PAD DAMAGED",
+      "VEHICLE TUMBLES",
+      "DESTROYED"
+    ],
+    "yanilgi": "It was planned as a test. The pad lacked protections most launch sites use.",
+    "tartisma": "SpaceX called it a learning flight. When is a test failure a success?",
+    "basliklar": [
+      "What Went Wrong on Starship's First Flight",
+      "The Launch That Wrecked the Pad"
+    ],
+    "kapak": [
+      "PAD DESTROYED",
+      "4 MINUTES"
+    ],
+    "hook": "It wrecked its own pad",
+    "soru": "When is failure a success?",
+    "sahneler": [
+      "The most powerful rocket ever flown lifted off from Texas.",
+      "Less than four minutes later, it was destroyed.",
+      "Three engines failed to ignite at lift-off.",
+      "The blast damaged the launch pad.",
+      "Debris spread into a nearby state park.",
+      "Multiple engines failed during flight.",
+      "SpaceX said it had expected to learn.",
+      "The pad had no flame diverters or water deluge system."
+    ]
+  },
+  {
+    "slug": "hammersmith-bridge-2019",
+    "wiki": "Hammersmith_Bridge",
+    "commons": [
+      "Hammersmith Bridge"
+    ],
+    "baslik": "The Bridge Kept Cool With Foil and Air-Conditioning",
+    "ad": "Hammersmith Bridge",
+    "kisa": "Hammersmith Bridge",
+    "nesne": "Cast-iron pedestals",
+    "yil": 2019,
+    "kume": "materials-failures",
+    "oncelik": 8,
+    "sonuc": "was closed after cracks appeared in its pedestals",
+    "tetik": "cracks in the cast-iron pedestals",
+    "mekanizma": "cracking in cast-iron pedestals worsening under heat expansion",
+    "sayi": "CLOSED",
+    "ders": "the bridge needed years of repairs to its bearings and pedestals",
+    "zincir": [
+      "VICTORIAN CAST IRON",
+      "PEDESTALS CRACK",
+      "CLOSED TO CARS",
+      "HEATWAVE WORSENS CRACKS",
+      "CLOSED TO ALL"
+    ],
+    "yanilgi": "The bridge didn't fall. Engineers closed it before it could.",
+    "tartisma": "Closing a bridge for years costs a community. When is caution too costly?",
+    "basliklar": [
+      "Why Hammersmith Bridge Was Closed",
+      "The Bridge Wrapped in Foil"
+    ],
+    "kapak": [
+      "CRACKS",
+      "WRAPPED IN FOIL"
+    ],
+    "hook": "They cooled it with foil",
+    "soru": "When is caution too costly?",
+    "sahneler": [
+      "Engineers found cracks in the pedestals of London's Hammersmith Bridge.",
+      "Suddenly the bridge was closed to all motor traffic.",
+      "The pedestals were made of cast iron.",
+      "In a heatwave, the cracks worsened.",
+      "The bridge was closed to walkers and cyclists too.",
+      "Its chains were later wrapped in foil and cooled with air-conditioning.",
+      "The goal was to stop further cracking.",
+      "Repairs dragged on for years."
+    ]
+  },
+  {
+    "slug": "ss-noronic-1949",
+    "wiki": "SS_Noronic",
+    "commons": [
+      "SS Noronic"
+    ],
+    "baslik": "The Ship That Burned at the Dock in Toronto",
+    "ad": "the SS Noronic",
+    "kisa": "Noronic",
+    "nesne": "Linen closet",
+    "yil": 1949,
+    "kume": "fire-and-explosions",
+    "oncelik": 9,
+    "sonuc": "burned at its pier in Toronto Harbour",
+    "tetik": "a fire in a locked linen closet",
+    "mekanizma": "a delayed alarm and polished wood paneling letting fire spread through the ship",
+    "sayi": "118+ DIED",
+    "ders": "Canada and the US tightened fire safety rules for passenger ships",
+    "zincir": [
+      "SMOKE FROM LOCKED CLOSET",
+      "NO ALARM SOUNDED",
+      "CLOSET OPENED",
+      "FIRE EXPLODES OUT",
+      "POLISHED PANELS BURN"
+    ],
+    "yanilgi": "The ship was docked, yet at least 118 people died. The fire spread faster than they could escape.",
+    "tartisma": "A crew member went for keys instead of the alarm. How should crews be trained for fire?",
+    "basliklar": [
+      "Why the SS Noronic Fire Was So Deadly",
+      "The Closet Fire That Burned a Ship"
+    ],
+    "kapak": [
+      "AT THE DOCK",
+      "NO ALARM"
+    ],
+    "hook": "It burned at the dock",
+    "soru": "Keys, or the alarm?",
+    "sahneler": [
+      "At night, a passenger ship caught fire while docked in Toronto Harbour.",
+      "It spread in minutes, and at least one hundred eighteen people died.",
+      "Smoke came from a locked linen closet.",
+      "A bellboy ran for the keys without sounding the alarm.",
+      "When the closet was opened, fire burst into the hallway.",
+      "Polished wood paneling fed the flames.",
+      "Most passengers were American tourists.",
+      "Fire rules for passenger ships were tightened."
+    ]
+  },
+  {
+    "slug": "ss-sirio-1906",
+    "wiki": "SS_Sirio",
+    "commons": [
+      "SS Sirio"
+    ],
+    "baslik": "The Emigrant Ship That Hit a Reef at Full Speed",
+    "ad": "the SS Sirio",
+    "kisa": "Sirio",
+    "nesne": "Reef",
+    "yil": 1906,
+    "kume": "maritime-disasters",
+    "oncelik": 7,
+    "sonuc": "ran aground on a reef off Spain",
+    "tetik": "a course too close to the coast",
+    "mekanizma": "grounding at full speed on a reef off Hormigas Island",
+    "sayi": "200+ DIED",
+    "ders": "the wreck deeply affected emigrant communities and scrutiny of ship officers",
+    "zincir": [
+      "EMIGRANTS BOUND FOR SOUTH AMERICA",
+      "COURSE CLOSE TO COAST",
+      "FULL SPEED",
+      "REEF STRUCK",
+      "SHIP SINKS"
+    ],
+    "yanilgi": "The reef was known. The ship was simply on a dangerous course.",
+    "tartisma": "Early reports wrongly accused the captain of fleeing. Why do first reports blame so fast?",
+    "basliklar": [
+      "Why the SS Sirio Was Wrecked",
+      "The Emigrant Ship on the Reef"
+    ],
+    "kapak": [
+      "REEF",
+      "FULL SPEED"
+    ],
+    "hook": "Full speed onto a reef",
+    "soru": "Why do first reports blame so fast?",
+    "sahneler": [
+      "An Italian steamer full of emigrants ran onto a reef off Spain.",
+      "It struck at full speed, and at least two hundred people were killed.",
+      "It was bound for South America.",
+      "Its course ran too close to the coast.",
+      "It hit a reef off Hormigas Island.",
+      "An eyewitness said it was taking a dangerous course.",
+      "Panic broke out, and lifeboats were swamped.",
+      "The disaster shook emigrant communities in Italy."
+    ]
+  },
+  {
+    "slug": "ara-san-juan-2017",
+    "wiki": "ARA_San_Juan_(S-42)",
+    "commons": [
+      "ARA San Juan (S-42)"
+    ],
+    "baslik": "Seawater in the Batteries, Then Silence",
+    "ad": "ARA San Juan",
+    "kisa": "ARA San Juan",
+    "nesne": "Batteries",
+    "yil": 2017,
+    "kume": "maritime-disasters",
+    "oncelik": 9,
+    "sonuc": "vanished and imploded in the South Atlantic",
+    "tetik": "water leaking through the snorkel into the batteries",
+    "mekanizma": "a battery fire after seawater entry, followed by loss and implosion",
+    "sayi": "44 CREW",
+    "ders": "the wreck was found a year later and Argentina's naval readiness came under scrutiny",
+    "zincir": [
+      "SNORKEL LEAKS",
+      "WATER HITS BATTERIES",
+      "FIRE STARTS",
+      "LAST MESSAGE",
+      "IMPLOSION"
+    ],
+    "yanilgi": "The crew reported the problem. An implosion was detected within hours.",
+    "tartisma": "The search took a year. How do you find a submarine that goes silent?",
+    "basliklar": [
+      "What Happened to ARA San Juan",
+      "The Submarine That Went Silent"
+    ],
+    "kapak": [
+      "44 CREW",
+      "SILENT"
+    ],
+    "hook": "Then the submarine went silent",
+    "soru": "How do you find it?",
+    "sahneler": [
+      "An Argentine submarine vanished during a routine patrol.",
+      "Within hours, sensors picked up a sound consistent with an implosion.",
+      "Its last report described a problem.",
+      "Seawater had leaked through the snorkel into the batteries.",
+      "It started a fire.",
+      "All forty four crew were lost.",
+      "The wreck was found a year later at great depth.",
+      "Argentina's naval readiness came under scrutiny."
+    ]
+  }
+]

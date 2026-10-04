@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Tunnel Ceiling That Fell on Passing Cars",
+  "kaynaklar": [
+    {
+      "ad": "sasago-tunnel-1.png",
+      "wikimedia": "Sasago Tunnel(Chūō Expwy) 3D model 2.png"
+    },
+    {
+      "ad": "sasago-tunnel-2.png",
+      "wikimedia": "Sasago Tunnel(Chūō Expwy) collapsed 3D model 2.png"
+    },
+    {
+      "ad": "sasago-tunnel-3.jpg",
+      "wikimedia": "Construction work at Sasago tunnel east portal.jpg"
+    },
+    {
+      "ad": "sasago-tunnel-4.jpg",
+      "wikimedia": "Sasago tunnel ceiling board crash point. Feb,8,2013.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Concrete ceiling panels fell inside a Japanese expressway tunnel.",
+      "kaynak": "Footage/sasago-tunnel-1.png"
+    },
+    {
+      "metin": "They crushed passing vehicles, and nine people were killed.",
+      "kaynak": "Footage/sasago-tunnel-2.png"
+    },
+    {
+      "metin": "The tunnel itself stayed intact.",
+      "kaynak": "Footage/sasago-tunnel-3.jpg"
+    },
+    {
+      "metin": "The heavy panels hung from anchor bolts glued into the rock.",
+      "kaynak": "Footage/sasago-tunnel-4.jpg"
+    },
+    {
+      "metin": "Over decades, the adhesive degraded.",
+      "kaynak": "Footage/sasago-tunnel-1.png"
+    },
+    {
+      "metin": "Bolts pulled out, and a long stretch of panels came down.",
+      "kaynak": "Footage/sasago-tunnel-2.png"
+    },
+    {
+      "metin": "Inspections had been mostly visual.",
+      "kaynak": "Footage/sasago-tunnel-3.jpg"
+    },
+    {
+      "metin": "Japan then ordered checks of tunnels and ageing infrastructure.",
+      "kaynak": "Footage/sasago-tunnel-4.jpg"
+    }
+  ],
+  "aciklama": "Sasago Tunnel had its ceiling collapse onto traffic. The cause: degradation of adhesive-anchored bolts supporting heavy concrete ceiling panels.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Sasago Tunnel",
+    "2012",
+    "ceiling panels",
+    "engineering failure"
+  ],
+  "hook": "The ceiling fell",
+  "soru": "Is looking enough?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Sasago Tunnel",
+    "kisa": "Sasago Tunnel",
+    "nesne": "Ceiling panels",
+    "yil": 2012,
+    "sonuc": "had its ceiling collapse onto traffic",
+    "tetik": "anchor bolts holding ceiling panels pulling out",
+    "mekanizma": "degradation of adhesive-anchored bolts supporting heavy concrete ceiling panels",
+    "sayi": "CEILING FELL",
+    "ders": "Japan ordered inspections of tunnel ceilings and ageing infrastructure",
+    "zincir": [
+      "HEAVY CONCRETE CEILING PANELS",
+      "HELD BY GLUED ANCHOR BOLTS",
+      "ADHESIVE DEGRADES",
+      "BOLTS PULL OUT",
+      "PANELS FALL ON CARS"
+    ],
+    "zaman": [],
+    "yanilgi": "The tunnel itself didn't collapse. Its suspended ceiling panels fell.",
+    "tartisma": "Inspections relied on looking, not testing the bolts. Is visual inspection enough?",
+    "basliklar": [
+      "The Tunnel Ceiling That Fell on Passing Cars",
+      "Why the Sasago Tunnel Ceiling Collapsed",
+      "The Anchor Bolts That Let Go"
+    ],
+    "kapak": [
+      "CEILING FELL",
+      "GLUED BOLTS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Sasago Tunnel",
+        "url": "https://en.wikipedia.org/wiki/Sasago_Tunnel"
+      },
+      {
+        "ad": "Japan Transport Safety Board / MLIT — koufu dis00028 (cited by Wikipedia)",
+        "url": "http://www.ktr.mlit.go.jp/saigai/koufu_dis00028.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-12",
+    "wiki": "Sasago_Tunnel",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Sasago Tunnel(Chūō Expwy) 3D model 2.png [CC0]",
+      "Sasago Tunnel(Chūō Expwy) collapsed 3D model 2.png [CC0]",
+      "Construction work at Sasago tunnel east portal.jpg [Public domain]",
+      "Sasago tunnel ceiling board crash point. Feb,8,2013.JPG [CC BY 3.0]"
+    ]
+  }
+}

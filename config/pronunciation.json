@@ -1,0 +1,346 @@
+{
+  "_comment": "Pronunciation dictionary. 'say' = human guide shown in reports. 'tts' = text actually sent to the TTS voice (captions keep the original spelling). Add manual overrides here; entries are matched case-insensitively on whole words.",
+  "terms": {
+    "O-ring": {
+      "say": "OH-ring",
+      "tts": "O ring",
+      "type": "engineering"
+    },
+    "O-rings": {
+      "say": "OH-rings",
+      "tts": "O rings",
+      "type": "engineering"
+    },
+    "aeroelastic": {
+      "say": "AIR-oh-ee-LAS-tik",
+      "tts": "aero-elastic",
+      "type": "engineering"
+    },
+    "Tacoma": {
+      "say": "tuh-KOH-muh",
+      "tts": "Tacoma",
+      "type": "place"
+    },
+    "Chernobyl": {
+      "say": "cher-NOH-bil",
+      "tts": "Chernobyl",
+      "type": "place"
+    },
+    "Fukushima": {
+      "say": "foo-koo-SHEE-mah",
+      "tts": "Fukushima",
+      "type": "place"
+    },
+    "Vajont": {
+      "say": "vah-YONT",
+      "tts": "Vayont",
+      "type": "place"
+    },
+    "Challenger": {
+      "say": "CHAL-in-jer",
+      "tts": "Challenger",
+      "type": "vehicle"
+    },
+    "Columbia": {
+      "say": "kuh-LUM-bee-uh",
+      "tts": "Columbia",
+      "type": "vehicle"
+    },
+    "RBMK": {
+      "say": "R-B-M-K",
+      "tts": "R B M K",
+      "type": "abbreviation"
+    },
+    "Bhopal": {
+      "say": "boh-PAHL",
+      "tts": "Bhopal",
+      "type": "place"
+    },
+    "Hindenburg": {
+      "say": "HIN-den-burg",
+      "tts": "Hindenburg",
+      "type": "vehicle"
+    },
+    "Halifax": {
+      "say": "HAL-ih-fax",
+      "tts": "Halifax",
+      "type": "place"
+    },
+    "Vesuvius": {
+      "say": "vuh-SOO-vee-us",
+      "tts": "Vesuvius",
+      "type": "place"
+    },
+    "Pompeii": {
+      "say": "pom-PAY",
+      "tts": "Pompeii",
+      "type": "place"
+    },
+    "Bikini": {
+      "say": "bih-KEE-nee",
+      "tts": "Bikini",
+      "type": "place"
+    },
+    "Atoll": {
+      "say": "AT-ol",
+      "tts": "atoll",
+      "type": "place"
+    },
+    "Puget": {
+      "say": "PYOO-jit",
+      "tts": "Pew-jit",
+      "type": "place"
+    },
+    "Mont-Blanc": {
+      "say": "mon-BLAHN",
+      "tts": "Mont Blanc",
+      "type": "vehicle"
+    },
+    "Niigata": {
+      "say": "nee-GAH-tah",
+      "tts": "Niigata",
+      "type": "place"
+    },
+    "Grenfell": {
+      "say": "GREN-fel",
+      "tts": "Grenfell",
+      "type": "place"
+    },
+    "Deepwater": {
+      "say": "DEEP-water",
+      "tts": "Deepwater",
+      "type": "place"
+    },
+    "Concorde": {
+      "say": "KON-kord",
+      "tts": "Concorde",
+      "type": "vehicle"
+    },
+    "Hyatt": {
+      "say": "HY-ut",
+      "tts": "Hyatt",
+      "type": "company"
+    },
+    "NTSB": {
+      "say": "N-T-S-B",
+      "tts": "N T S B",
+      "type": "abbreviation"
+    },
+    "NASA": {
+      "say": "NAS-uh",
+      "tts": "NASA",
+      "type": "abbreviation"
+    },
+    "TNT": {
+      "say": "T-N-T",
+      "tts": "T N T",
+      "type": "abbreviation"
+    },
+    "MAX": {
+      "say": "max",
+      "tts": "Max",
+      "type": "vehicle"
+    },
+    "mph": {
+      "say": "miles per hour",
+      "tts": "miles per hour",
+      "type": "unit"
+    },
+    "kph": {
+      "say": "kilometers per hour",
+      "tts": "kilometers per hour",
+      "type": "unit"
+    },
+    "psi": {
+      "say": "P-S-I",
+      "tts": "P S I",
+      "type": "unit"
+    },
+    "liquefaction": {
+      "say": "lik-wih-FAK-shun",
+      "tts": "liquefaction",
+      "type": "engineering"
+    },
+    "pyroclastic": {
+      "say": "PY-roh-KLAS-tik",
+      "tts": "pyroclastic",
+      "type": "engineering"
+    },
+    "carboxyhemoglobin": {
+      "say": "kar-BOK-see-HEE-muh-gloh-bin",
+      "tts": "carboxy-hemoglobin",
+      "type": "engineering"
+    },
+    "tempered": {
+      "say": "TEM-perd",
+      "tts": "tempered",
+      "type": "engineering"
+    },
+    "rebar": {
+      "say": "REE-bar",
+      "tts": "ree-bar",
+      "type": "engineering"
+    },
+    "zeppelin": {
+      "say": "ZEP-uh-lin",
+      "tts": "zeppelin",
+      "type": "vehicle"
+    },
+    "Imo": {
+      "say": "EE-moh",
+      "tts": "Imo",
+      "type": "vehicle"
+    },
+    "Forrestal": {
+      "say": "FOR-ih-stul",
+      "tts": "Forrestal",
+      "type": "vehicle"
+    },
+    "Lithium-7": {
+      "say": "LITH-ee-um seven",
+      "tts": "lithium seven",
+      "type": "engineering"
+    },
+    "megatons": {
+      "say": "MEG-uh-tunz",
+      "tts": "megatons",
+      "type": "unit"
+    },
+    "Hudson": {
+      "say": "HUD-sun",
+      "tts": "Hudson",
+      "type": "place"
+    },
+    "Skylab": {
+      "say": "SKY-lab",
+      "tts": "Skylab",
+      "type": "vehicle"
+    },
+    "Eastland": {
+      "say": "EEST-lund",
+      "tts": "Eastland",
+      "type": "vehicle"
+    },
+    "Vanguard": {
+      "say": "VAN-gard",
+      "tts": "Vanguard",
+      "type": "vehicle"
+    },
+    "Sputnik": {
+      "say": "SPUT-nik",
+      "tts": "Sputnik",
+      "type": "vehicle"
+    },
+    "Flopnik": {
+      "say": "FLOP-nik",
+      "tts": "Flopnik",
+      "type": "vehicle"
+    },
+    "Velcro": {
+      "say": "VEL-kro",
+      "tts": "Velcro",
+      "type": "company"
+    },
+    "Apollo": {
+      "say": "uh-POL-oh",
+      "tts": "Apollo",
+      "type": "vehicle"
+    }
+  },
+  "knownWords": [
+    "Pacific",
+    "Atlantic",
+    "Canada",
+    "Italy",
+    "Germany",
+    "German",
+    "Germans",
+    "American",
+    "Americas",
+    "Allied",
+    "Japan",
+    "Japanese",
+    "Europe",
+    "America",
+    "United",
+    "States",
+    "New",
+    "Jersey",
+    "York",
+    "San",
+    "Francisco",
+    "Andreas",
+    "April",
+    "March",
+    "May",
+    "July",
+    "June",
+    "December",
+    "November",
+    "January",
+    "February",
+    "August",
+    "September",
+    "October",
+    "World",
+    "War",
+    "Two",
+    "Harbour",
+    "Harbor",
+    "Bridge",
+    "Narrows",
+    "Mount",
+    "Earth",
+    "Sun",
+    "Engineers",
+    "Failure",
+    "Reconstructed",
+    "Washington",
+    "Titanic",
+    "Boeing",
+    "Moon",
+    "Mars",
+    "Otis",
+    "Texas",
+    "London",
+    "Navy",
+    "Saint",
+    "Helens",
+    "Bravo",
+    "Castle",
+    "NASA",
+    "Manchester"
+  ],
+  "cliches": [
+    "let's dive in",
+    "let us dive in",
+    "dive into",
+    "here's the fascinating part",
+    "but here's where things get interesting",
+    "in today's video",
+    "in this video",
+    "welcome to",
+    "welcome back",
+    "without further ado",
+    "buckle up",
+    "stay tuned",
+    "you won't believe",
+    "mind-blowing",
+    "game-changer",
+    "smash that like",
+    "don't forget to subscribe",
+    "make sure to subscribe",
+    "have you ever wondered",
+    "little did they know",
+    "in conclusion",
+    "at the end of the day",
+    "it's important to note",
+    "delve",
+    "tapestry",
+    "testament to",
+    "a stark reminder",
+    "shed light on",
+    "unravel the mystery",
+    "in the realm of"
+  ]
+}

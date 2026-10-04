@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The First Submarine Rescue in History",
+  "kaynaklar": [
+    {
+      "ad": "uss-squalus-1.jpg",
+      "wikimedia": "USS Wandank (AT-26) and USS Falcon (ASR-2).jpg"
+    },
+    {
+      "ad": "uss-squalus-2.jpg",
+      "wikimedia": "USS Falcon (ASR-2) in the summer of 1939.jpg"
+    },
+    {
+      "ad": "uss-squalus-3.jpg",
+      "wikimedia": "US Navy 030808-N-0000X-002 Cdr. Charles 'Swede' Momsen stands next to the rail (third from left) as USS Falcon (ASR 2) crewmen suit-up two Deep Sea Divers.jpg"
+    },
+    {
+      "ad": "uss-squalus-4.jpg",
+      "wikimedia": "USS Sailfish;0819202.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During a test dive, the submarine Squalus suddenly flooded.",
+      "kaynak": "Footage/uss-squalus-1.jpg"
+    },
+    {
+      "metin": "It sank to the seabed, and twenty six men were killed.",
+      "kaynak": "Footage/uss-squalus-2.jpg"
+    },
+    {
+      "metin": "A main air induction valve had failed to close.",
+      "kaynak": "Footage/uss-squalus-3.jpg"
+    },
+    {
+      "metin": "Seawater poured into the rear compartments.",
+      "kaynak": "Footage/uss-squalus-4.jpg"
+    },
+    {
+      "metin": "Thirty three men survived in the forward part.",
+      "kaynak": "Footage/uss-squalus-1.jpg"
+    },
+    {
+      "metin": "Rescuers lowered a new diving bell called the McCann chamber.",
+      "kaynak": "Footage/uss-squalus-2.jpg"
+    },
+    {
+      "metin": "It brought all thirty three to the surface.",
+      "kaynak": "Footage/uss-squalus-3.jpg"
+    },
+    {
+      "metin": "It was the first successful submarine rescue.",
+      "kaynak": "Footage/uss-squalus-4.jpg"
+    }
+  ],
+  "aciklama": "USS Squalus flooded and sank on a test dive. The cause: failure of the main engine air induction valve flooding the aft compartments.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "USS Squalus",
+    "1939",
+    "induction valve",
+    "engineering failure"
+  ],
+  "hook": "33 men came back",
+  "soru": "Trust the indicator?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "USS Squalus",
+    "kisa": "USS Squalus",
+    "nesne": "Induction valve",
+    "yil": 1939,
+    "sonuc": "flooded and sank on a test dive",
+    "tetik": "a main induction valve failing to close",
+    "mekanizma": "failure of the main engine air induction valve flooding the aft compartments",
+    "sayi": "33 RESCUED",
+    "ders": "the McCann rescue chamber proved submarine rescue was possible",
+    "zincir": [
+      "TEST DIVE",
+      "INDUCTION VALVE FAILS",
+      "AFT COMPARTMENTS FLOOD",
+      "SUB SINKS TO SEABED",
+      "RESCUE CHAMBER SAVES SURVIVORS"
+    ],
+    "zaman": [],
+    "yanilgi": "Not everyone was lost. A new rescue chamber brought survivors up from the seabed.",
+    "tartisma": "The indicator showed the valve closed. How much should crews trust indicator lights?",
+    "basliklar": [
+      "The First Submarine Rescue in History",
+      "Why USS Squalus Sank",
+      "The First Submarine Rescue"
+    ],
+    "kapak": [
+      "33 RESCUED",
+      "VALVE FAILED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Squalus",
+        "url": "https://en.wikipedia.org/wiki/USS_Squalus"
+      },
+      {
+        "ad": "Government source — faq99 1 (cited by Wikipedia)",
+        "url": "http://www.history.navy.mil/faqs/faq99-1.htm"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "USS_Squalus",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "USS Wandank (AT-26) and USS Falcon (ASR-2).jpg [Public domain]",
+      "USS Falcon (ASR-2) in the summer of 1939.jpg [Public domain]",
+      "US Navy 030808-N-0000X-002 Cdr. Charles 'Swede' Momsen stands next to the rail (third from left) as USS Falcon (ASR 2) crewmen suit-up two Deep Sea Divers.jpg [Public domain]",
+      "USS Sailfish;0819202.jpg [Public domain]"
+    ]
+  }
+}

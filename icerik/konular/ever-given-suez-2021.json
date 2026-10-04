@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "How One Ship Blocked the Suez Canal for Six Days",
+  "kaynaklar": [
+    {
+      "ad": "ever-given-suez-1.jpg",
+      "wikimedia": "Ever Given in Suez Canal viewed from ISS (cropped) 3 to 2.jpg"
+    },
+    {
+      "ad": "ever-given-suez-2.jpg",
+      "wikimedia": "Container Ship 'Ever Given' stuck in the Suez Canal, Egypt - March 24th, 2021 cropped.jpg"
+    },
+    {
+      "ad": "ever-given-suez-3.jpg",
+      "wikimedia": "Ever Given in Suez Canal viewed from ISS.jpg"
+    },
+    {
+      "ad": "ever-given-suez-4.jpg",
+      "wikimedia": "Container Ship 'Ever Given' stuck in the Suez Canal, Egypt - March 24th, 2021 (51070311183).jpg"
+    },
+    {
+      "ad": "ever-given-suez-5.png",
+      "wikimedia": "Ever Given ship stuck in the Suez Canal (51329719336).png"
+    },
+    {
+      "ad": "ever-given-suez-6.jpg",
+      "wikimedia": "Suez Canal Crisis (ASTER).jpg"
+    },
+    {
+      "ad": "ever-given-suez-7.jpg",
+      "wikimedia": "Sign about delivery bottlenecks due to March 2021 Suez Canal obstruction at German supermarket.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A giant container ship wedged itself sideways across the Suez Canal.",
+      "kaynak": "Footage/ever-given-suez-1.jpg"
+    },
+    {
+      "metin": "Within hours, global shipping was blocked for six days.",
+      "kaynak": "Footage/ever-given-suez-2.jpg"
+    },
+    {
+      "metin": "Strong winds were blowing during a sandstorm.",
+      "kaynak": "Footage/ever-given-suez-3.jpg"
+    },
+    {
+      "metin": "Its tall stack of containers caught the wind like a sail.",
+      "kaynak": "Footage/ever-given-suez-4.jpg"
+    },
+    {
+      "metin": "In a narrow canal, water flow near the bank pulls a ship's stern.",
+      "kaynak": "Footage/ever-given-suez-5.png"
+    },
+    {
+      "metin": "Engineers call this the bank effect.",
+      "kaynak": "Footage/ever-given-suez-6.jpg"
+    },
+    {
+      "metin": "The bow drove into one bank and the stern into the other.",
+      "kaynak": "Footage/ever-given-suez-7.jpg"
+    },
+    {
+      "metin": "The canal later widened its southern section.",
+      "kaynak": "Footage/ever-given-suez-1.jpg"
+    }
+  ],
+  "aciklama": "Ever Given wedged itself across the Suez Canal. The cause: wind loading on a very tall container stack plus hydrodynamic bank effect in a narrow channel.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Ever Given",
+    "2021",
+    "container ship",
+    "engineering failure"
+  ],
+  "hook": "Stuck sideways",
+  "soru": "Bigger ships, same canal?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Ever Given",
+    "kisa": "Ever Given",
+    "nesne": "Container ship",
+    "yil": 2021,
+    "sonuc": "wedged itself across the Suez Canal",
+    "tetik": "strong winds acting on a stack of containers",
+    "mekanizma": "wind loading on a very tall container stack plus hydrodynamic bank effect in a narrow channel",
+    "sayi": "SIX DAYS",
+    "ders": "the canal widened and deepened its southern section",
+    "zincir": [
+      "HIGH WINDS AND SANDSTORM",
+      "TALL STACK ACTS LIKE A SAIL",
+      "BANK EFFECT PULLS THE STERN",
+      "BOW DRIVES INTO THE BANK",
+      "CANAL BLOCKED"
+    ],
+    "zaman": [],
+    "yanilgi": "No engine failure stopped it. Wind and the pull of the canal's banks swung the ship sideways.",
+    "tartisma": "Ships keep growing while the canal stays narrow. Who should pay for infrastructure to keep up?",
+    "basliklar": [
+      "How One Ship Blocked the Suez Canal for Six Days",
+      "Why the Ever Given Blocked the Suez Canal",
+      "The Wind and the Bank Effect"
+    ],
+    "kapak": [
+      "STUCK SIDEWAYS",
+      "SIX DAYS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2021 Suez Canal obstruction",
+        "url": "https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — investigation begins into how ship got stuck on suez canal idUSKBN2BN1 (cited by Wikipedia)",
+        "url": "https://www.reuters.com/article/us-egypt-suezcanal-ship/investigation-begins-into-how-ship-got-stuck-on-suez-canal-idUSKBN2BN10B"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "2021_Suez_Canal_obstruction",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Ever Given in Suez Canal viewed from ISS (cropped) 3 to 2.jpg [Public domain]",
+      "Container Ship 'Ever Given' stuck in the Suez Canal, Egypt - March 24th, 2021 cropped.jpg [CC BY 2.0]",
+      "Ever Given in Suez Canal viewed from ISS.jpg [Public domain]",
+      "Container Ship 'Ever Given' stuck in the Suez Canal, Egypt - March 24th, 2021 (51070311183).jpg [CC BY 2.0]",
+      "Ever Given ship stuck in the Suez Canal (51329719336).png [CC BY 2.0]",
+      "Suez Canal Crisis (ASTER).jpg [Public domain]",
+      "Sign about delivery bottlenecks due to March 2021 Suez Canal obstruction at German supermarket.jpg [CC0]"
+    ]
+  }
+}

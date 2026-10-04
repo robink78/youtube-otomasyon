@@ -1,0 +1,1070 @@
+[
+  {
+    "slug": "lion-air-610-2018",
+    "wiki": "Lion_Air_Flight_610",
+    "commons": [
+      "Lion Air Flight 610"
+    ],
+    "baslik": "One Faulty Sensor Kept Pushing the Nose Down",
+    "ad": "Lion Air Flight 610",
+    "kisa": "Lion Air 610",
+    "nesne": "Angle-of-attack sensor",
+    "yil": 2018,
+    "kume": "software-and-control-failures",
+    "oncelik": 10,
+    "sonuc": "dove into the Java Sea minutes after take-off",
+    "tetik": "a faulty angle-of-attack sensor feeding flight-control software",
+    "mekanizma": "MCAS repeatedly trimming the nose down based on a single erroneous sensor",
+    "sayi": "ONE SENSOR",
+    "ders": "MCAS was redesigned to use two sensors and act only once",
+    "zincir": [
+      "SENSOR READS WRONG ANGLE",
+      "MCAS TRIMS NOSE DOWN",
+      "PILOTS TRIM BACK UP",
+      "MCAS ACTIVATES AGAIN AND AGAIN",
+      "JET DIVES INTO THE SEA"
+    ],
+    "yanilgi": "The pilots weren't fighting a mystery failure they could simply switch off. Most had never been told the MCAS system existed.",
+    "tartisma": "The system relied on one sensor on a jet that had two. Why would a design ignore its own redundancy?",
+    "basliklar": [
+      "Why Lion Air Flight 610 Crashed",
+      "The Software That Fought the Pilots"
+    ],
+    "kapak": [
+      "ONE SENSOR",
+      "NOSE DOWN"
+    ],
+    "hook": "It kept pushing down",
+    "soru": "Would you know to switch it off?",
+    "sahneler": [
+      "Minutes after take-off, a new Boeing 737 MAX dove into the Java Sea.",
+      "All one hundred eighty nine people aboard were killed.",
+      "A sensor measuring the wing's angle had failed.",
+      "Flight software trusted it and pushed the nose down.",
+      "The pilots pulled it back up, over and over.",
+      "The software kept activating again.",
+      "Most pilots hadn't been told the system existed.",
+      "It was redesigned to use two sensors and act only once."
+    ]
+  },
+  {
+    "slug": "swissair-111-1998",
+    "wiki": "Swissair_Flight_111",
+    "commons": [
+      "Swissair Flight 111"
+    ],
+    "baslik": "Burning Insulation Brought Down Swissair 111",
+    "ad": "Swissair Flight 111",
+    "kisa": "Swissair 111",
+    "nesne": "Wiring",
+    "yil": 1998,
+    "kume": "fire-and-explosions",
+    "oncelik": 9,
+    "sonuc": "crashed into the Atlantic after a cockpit fire",
+    "tetik": "arcing wires above the cockpit ceiling",
+    "mekanizma": "electrical arcing igniting flammable insulation blankets in the ceiling",
+    "sayi": "229 KILLED",
+    "ders": "flammable insulation blankets were replaced across airliner fleets",
+    "zincir": [
+      "WIRE ARCS IN THE CEILING",
+      "INSULATION BLANKET IGNITES",
+      "FIRE SPREADS UNSEEN",
+      "SYSTEMS FAIL",
+      "JET CRASHES INTO THE SEA"
+    ],
+    "yanilgi": "The smell of smoke seemed minor at first. The real fire was hidden above the ceiling, spreading along the insulation.",
+    "tartisma": "The crew prepared to dump fuel before landing. Should a fire always mean landing immediately?",
+    "basliklar": [
+      "Why Swissair Flight 111 Crashed",
+      "The Hidden Fire Above the Cockpit"
+    ],
+    "kapak": [
+      "HIDDEN FIRE",
+      "229 KILLED"
+    ],
+    "hook": "The fire was hidden",
+    "soru": "Land now, or dump fuel first?",
+    "sahneler": [
+      "An airliner crashed into the Atlantic off Nova Scotia.",
+      "It had caught fire in flight, and all two hundred twenty nine aboard were killed.",
+      "The crew smelled smoke in the cockpit.",
+      "The fire was hidden above the ceiling.",
+      "Arcing wires had ignited the insulation blankets there.",
+      "The fire spread unseen and knocked out systems one by one.",
+      "The jet went down before it could land.",
+      "Flammable insulation was replaced across airliner fleets."
+    ]
+  },
+  {
+    "slug": "asiana-214-2013",
+    "wiki": "Asiana_Airlines_Flight_214",
+    "commons": [
+      "Asiana Airlines Flight 214"
+    ],
+    "baslik": "The Autothrottle Everyone Thought Was Holding Speed",
+    "ad": "Asiana Airlines Flight 214",
+    "kisa": "Asiana 214",
+    "nesne": "Autothrottle",
+    "yil": 2013,
+    "kume": "aviation-failures",
+    "oncelik": 8,
+    "sonuc": "hit the seawall short of the runway in San Francisco",
+    "tetik": "an autothrottle left in a mode that did not hold speed",
+    "mekanizma": "unintended autothrottle mode on a visual approach, letting airspeed decay unnoticed",
+    "sayi": "TOO SLOW",
+    "ders": "training on automation modes and manual approaches was strengthened",
+    "zincir": [
+      "VISUAL APPROACH, GLIDESLOPE OFF",
+      "AUTOTHROTTLE IN HOLD MODE",
+      "AIRSPEED DECAYS",
+      "LATE GO-AROUND",
+      "TAIL HITS SEAWALL"
+    ],
+    "yanilgi": "The engines were working. The crew believed the automation was holding speed when it wasn't.",
+    "tartisma": "Highly automated jets can make manual flying rare. How do pilots stay sharp when automation does most of the work?",
+    "basliklar": [
+      "Why Asiana Flight 214 Crashed Short of the Runway",
+      "When Pilots Trusted the Wrong Automation Mode"
+    ],
+    "kapak": [
+      "TOO SLOW",
+      "WRONG MODE"
+    ],
+    "hook": "Nobody was holding speed",
+    "soru": "Trust the automation?",
+    "sahneler": [
+      "A Boeing 777 slammed into the seawall at San Francisco airport.",
+      "Its tail broke off, and three people were killed.",
+      "The approach had been too slow and too low.",
+      "The crew believed the autothrottle was holding speed.",
+      "It had been left in a mode that didn't.",
+      "The airspeed kept falling, and nobody noticed in time.",
+      "The go-around came seconds too late.",
+      "Training on automation modes was strengthened afterward."
+    ]
+  },
+  {
+    "slug": "comair-5191-2006",
+    "wiki": "Comair_Flight_5191",
+    "commons": [
+      "Comair Flight 5191"
+    ],
+    "baslik": "The Jet That Took Off From the Wrong Runway",
+    "ad": "Comair Flight 5191",
+    "kisa": "Comair 5191",
+    "nesne": "Runway",
+    "yil": 2006,
+    "kume": "aviation-failures",
+    "oncelik": 8,
+    "sonuc": "crashed after taking off from a runway far too short",
+    "tetik": "a turn onto the wrong runway in the dark",
+    "mekanizma": "take-off from a short, unlit general-aviation runway instead of the assigned runway",
+    "sayi": "49 KILLED",
+    "ders": "runway-confirmation procedures and cockpit moving-map displays were promoted",
+    "zincir": [
+      "PRE-DAWN DEPARTURE",
+      "TAXI ROUTE CHANGED BY CONSTRUCTION",
+      "WRONG RUNWAY ENTERED",
+      "RUNWAY TOO SHORT",
+      "CRASH BEYOND THE END"
+    ],
+    "yanilgi": "The jet had no mechanical fault. It was on the wrong runway, too short for a loaded airliner.",
+    "tartisma": "Only one controller was on duty and was busy with other tasks. How much should one person be expected to catch?",
+    "basliklar": [
+      "Why Comair Flight 5191 Crashed",
+      "The Wrong Runway in the Dark"
+    ],
+    "kapak": [
+      "WRONG RUNWAY",
+      "TOO SHORT"
+    ],
+    "hook": "Wrong runway",
+    "soru": "Would you check the heading?",
+    "sahneler": [
+      "Before dawn, a regional jet ran off the end of a runway in Kentucky.",
+      "It crashed into trees, and forty nine people were killed.",
+      "It had lined up on the wrong runway.",
+      "That runway was short and unlit.",
+      "Construction had changed the usual taxi route.",
+      "Neither pilot noticed the heading didn't match.",
+      "The jet couldn't lift off in time.",
+      "Runway-confirmation checks were strengthened afterward."
+    ]
+  },
+  {
+    "slug": "american-eagle-4184-1994",
+    "wiki": "American_Eagle_Flight_4184",
+    "commons": [
+      "American Eagle Flight 4184"
+    ],
+    "baslik": "Ice That Formed Behind the De-Icing Boots",
+    "ad": "American Eagle Flight 4184",
+    "kisa": "American Eagle 4184",
+    "nesne": "Wing ice",
+    "yil": 1994,
+    "kume": "aviation-failures",
+    "oncelik": 8,
+    "sonuc": "rolled over and crashed while holding in freezing rain",
+    "tetik": "a ridge of ice forming behind the wing's de-icing boots",
+    "mekanizma": "supercooled large droplets forming ice beyond the protected area, disturbing airflow over the ailerons",
+    "sayi": "68 KILLED",
+    "ders": "icing certification was expanded to cover large supercooled droplets",
+    "zincir": [
+      "HOLDING IN FREEZING DRIZZLE",
+      "LARGE DROPLETS",
+      "ICE RIDGE BEHIND THE BOOTS",
+      "AILERON SNATCHES",
+      "SUDDEN ROLL AND CRASH"
+    ],
+    "yanilgi": "The de-icing boots worked. The ice formed just behind them, where nothing could remove it.",
+    "tartisma": "The aircraft met certification rules that didn't cover these droplets. When certification is incomplete, who notices first?",
+    "basliklar": [
+      "Why American Eagle Flight 4184 Crashed",
+      "The Ice Nobody Designed For"
+    ],
+    "kapak": [
+      "BEHIND THE BOOTS",
+      "68 KILLED"
+    ],
+    "hook": "Ice behind the boots",
+    "soru": "Certified, but safe?",
+    "sahneler": [
+      "Holding in freezing rain, a turboprop suddenly rolled over.",
+      "It crashed into a field in Indiana, and sixty eight people were killed.",
+      "Ice had built up on its wings.",
+      "Its de-icing boots cracked off ice at the front.",
+      "But large droplets froze just behind them.",
+      "That ridge disturbed the airflow over the ailerons.",
+      "The controls snatched, and the plane rolled.",
+      "Icing certification later expanded to cover these droplets."
+    ]
+  },
+  {
+    "slug": "qantas-72-2008",
+    "wiki": "Qantas_Flight_72",
+    "commons": [
+      "Qantas Flight 72"
+    ],
+    "baslik": "The Airliner That Suddenly Dove Twice on Its Own",
+    "ad": "Qantas Flight 72",
+    "kisa": "Qantas 72",
+    "nesne": "Air data unit",
+    "yil": 2008,
+    "kume": "software-and-control-failures",
+    "oncelik": 8,
+    "sonuc": "pitched down violently twice in cruise",
+    "tetik": "spikes of false data from one air data unit",
+    "mekanizma": "incorrect angle-of-attack spikes passed to flight control computers by a faulty ADIRU",
+    "sayi": "TWO DIVES",
+    "ders": "Airbus changed flight control software to reject data spikes",
+    "zincir": [
+      "ONE ADIRU FAULTS",
+      "DATA SPIKES",
+      "COMPUTERS SEE A STALL",
+      "NOSE PUSHED DOWN",
+      "PASSENGERS THROWN INTO CEILING"
+    ],
+    "yanilgi": "No turbulence hit the plane. The dives were commanded by the flight computers reacting to false data.",
+    "tartisma": "The exact trigger for the data spikes was never found. Can you certify a fix for a fault you can't reproduce?",
+    "basliklar": [
+      "Why Qantas Flight 72 Suddenly Dove",
+      "The False Data That Pushed an Airliner Down"
+    ],
+    "kapak": [
+      "FALSE DATA",
+      "TWO DIVES"
+    ],
+    "hook": "It dove on its own",
+    "soru": "Fix a fault you can't reproduce?",
+    "sahneler": [
+      "Cruising over Western Australia, an Airbus suddenly pitched down.",
+      "In seconds, unbelted passengers were thrown into the ceiling.",
+      "Then it happened again.",
+      "The pilots hadn't moved the controls.",
+      "One air data unit was sending short spikes of false data.",
+      "The flight computers read them as a stall and pushed the nose down.",
+      "The crew landed safely at a nearby air base.",
+      "Airbus then changed the software to reject spikes like these."
+    ]
+  },
+  {
+    "slug": "pan-am-214-1963",
+    "wiki": "Pan_Am_Flight_214",
+    "commons": [
+      "Pan Am Flight 214"
+    ],
+    "baslik": "The Lightning Strike That Ignited a Fuel Tank",
+    "ad": "Pan Am Flight 214",
+    "kisa": "Pan Am 214",
+    "nesne": "Fuel tank",
+    "yil": 1963,
+    "kume": "aviation-failures",
+    "oncelik": 7,
+    "sonuc": "exploded in flight near Elkton, Maryland",
+    "tetik": "lightning striking the wing",
+    "mekanizma": "lightning igniting fuel vapour in a reserve wing tank",
+    "sayi": "81 KILLED",
+    "ders": "lightning protection standards for aircraft fuel systems were tightened",
+    "zincir": [
+      "HOLDING IN A THUNDERSTORM",
+      "LIGHTNING STRIKES THE WING",
+      "SPARK REACHES FUEL VAPOUR",
+      "RESERVE TANK EXPLODES",
+      "WING SEPARATES"
+    ],
+    "yanilgi": "Aircraft are hit by lightning regularly. This one showed that fuel vents and tanks needed specific protection.",
+    "tartisma": "The jet was holding near a storm while it waited. Should planes hold near thunderstorms at all?",
+    "basliklar": [
+      "Why Pan Am Flight 214 Exploded",
+      "The Lightning Bolt That Changed Fuel Tank Design"
+    ],
+    "kapak": [
+      "LIGHTNING",
+      "FUEL VAPOUR"
+    ],
+    "hook": "Struck by lightning",
+    "soru": "Hold near a storm?",
+    "sahneler": [
+      "Holding near a thunderstorm, a Boeing 707 was struck by lightning.",
+      "A wing exploded, and all eighty one aboard were killed.",
+      "Planes are hit by lightning often and usually survive.",
+      "This strike reached fuel vapour in a reserve tank.",
+      "The vapour ignited and blew the tank apart.",
+      "The damaged wing separated.",
+      "Investigators studied how fuel vents and tanks handle lightning.",
+      "Lightning protection rules for fuel systems were tightened."
+    ]
+  },
+  {
+    "slug": "r101-airship-1930",
+    "wiki": "R101",
+    "commons": [
+      "R101 airship"
+    ],
+    "baslik": "Britain's Giant Airship Crashed on Its First Big Voyage",
+    "ad": "the R101 airship",
+    "kisa": "R101",
+    "nesne": "Airship",
+    "yil": 1930,
+    "kume": "aviation-failures",
+    "oncelik": 8,
+    "sonuc": "crashed and burned in France",
+    "tetik": "loss of gas from damaged gasbags in bad weather",
+    "mekanizma": "loss of lift from gasbag damage and a torn cover, causing a nose-down descent and hydrogen fire",
+    "sayi": "48 KILLED",
+    "ders": "Britain abandoned its rigid airship programme",
+    "zincir": [
+      "RUSHED TO MEET A DEADLINE",
+      "GASBAGS CHAFE AND LEAK",
+      "COVER TEARS IN STORM",
+      "NOSE-DOWN DIVE",
+      "HYDROGEN FIRE"
+    ],
+    "yanilgi": "The flight wasn't doomed by one mistake. Rushed testing, leaking gasbags and bad weather combined on the first long trip.",
+    "tartisma": "The voyage was timed to meet a political deadline. When should a schedule give way to testing?",
+    "basliklar": [
+      "Why the R101 Airship Crashed",
+      "The Airship Rushed Into Service"
+    ],
+    "kapak": [
+      "RUSHED",
+      "48 KILLED"
+    ],
+    "hook": "Rushed into the sky",
+    "soru": "Deadline or testing?",
+    "sahneler": [
+      "Britain's giant airship R101 crashed on a hillside in France.",
+      "Its hydrogen caught fire, and forty eight people were killed.",
+      "It was on its first long voyage, bound for India.",
+      "Testing had been rushed to meet a political deadline.",
+      "Its gasbags rubbed and leaked, losing lift.",
+      "In a storm, the nose dropped and it hit the ground.",
+      "Hydrogen turned the wreck into a fireball.",
+      "Britain then abandoned its rigid airship programme."
+    ]
+  },
+  {
+    "slug": "uss-akron-1933",
+    "wiki": "USS_Akron",
+    "commons": [
+      "USS Akron"
+    ],
+    "baslik": "The Navy's Flying Aircraft Carrier Fell Into the Sea",
+    "ad": "USS Akron",
+    "kisa": "USS Akron",
+    "nesne": "Airship",
+    "yil": 1933,
+    "kume": "aviation-failures",
+    "oncelik": 8,
+    "sonuc": "crashed into the Atlantic in a storm",
+    "tetik": "a storm forcing the airship's tail into the water",
+    "mekanizma": "severe storm downdraft and low flying altitude driving the tail into the sea",
+    "sayi": "73 DIED",
+    "ders": "the loss helped end the US Navy's rigid airship programme",
+    "zincir": [
+      "FLYING INTO A STORM",
+      "DOWNDRAFT PUSHES IT LOWER",
+      "TAIL HITS THE WATER",
+      "STRUCTURE BREAKS UP",
+      "NO LIFE JACKETS ABOARD"
+    ],
+    "yanilgi": "Most men didn't die from the impact. They drowned or died of cold because there were no life jackets aboard.",
+    "tartisma": "The airship carried almost no life jackets. How do obvious safety items get left behind?",
+    "basliklar": [
+      "Why USS Akron Crashed",
+      "The Flying Aircraft Carrier With No Life Jackets"
+    ],
+    "kapak": [
+      "NO LIFE JACKETS",
+      "73 DIED"
+    ],
+    "hook": "No life jackets",
+    "soru": "How is that missed?",
+    "sahneler": [
+      "The US Navy's giant airship Akron crashed into the Atlantic.",
+      "Seventy three of the seventy six men aboard died.",
+      "It had flown into a violent storm.",
+      "A downdraft pushed it lower and lower.",
+      "Its tail struck the water, and the structure broke up.",
+      "There were almost no life jackets aboard.",
+      "Most of the crew drowned in the cold sea.",
+      "The loss helped end the Navy's rigid airship programme."
+    ]
+  },
+  {
+    "slug": "mars-polar-lander-1999",
+    "wiki": "Mars_Polar_Lander",
+    "commons": [
+      "Mars Polar Lander"
+    ],
+    "baslik": "A Software Glitch Shut Off the Engines Too Early",
+    "ad": "Mars Polar Lander",
+    "kisa": "Mars Polar Lander",
+    "nesne": "Lander",
+    "yil": 1999,
+    "kume": "software-and-control-failures",
+    "oncelik": 8,
+    "sonuc": "went silent during landing on Mars",
+    "tetik": "leg deployment jolts read as a touchdown signal",
+    "mekanizma": "software treating spurious touchdown-sensor signals from leg deployment as landing, cutting the engines",
+    "sayi": "40 METRES",
+    "ders": "landing software is now tested with full end-to-end sensor behaviour",
+    "zincir": [
+      "LEGS DEPLOY IN DESCENT",
+      "SENSORS GIVE A FALSE SIGNAL",
+      "SOFTWARE REMEMBERS IT",
+      "ENGINES CUT AT ALTITUDE",
+      "LANDER FALLS"
+    ],
+    "yanilgi": "The lander most likely didn't crash from a hard terrain landing. Software probably shut its engines while it was still high above the surface.",
+    "tartisma": "A test after a wiring fix was never rerun. How many retests are enough?",
+    "basliklar": [
+      "Why Mars Polar Lander Went Silent",
+      "The False Touchdown That Killed a Mars Mission"
+    ],
+    "kapak": [
+      "FALSE TOUCHDOWN",
+      "ENGINES OFF"
+    ],
+    "hook": "It thought it had landed",
+    "soru": "Would you rerun the test?",
+    "sahneler": [
+      "A NASA lander went silent as it descended to Mars.",
+      "It most likely crashed into the surface and was never heard from again.",
+      "The likely cause was a false signal.",
+      "When the legs unfolded, the jolt tripped the touchdown sensors.",
+      "The software remembered that signal.",
+      "High above the ground, it decided it had landed and cut the engines.",
+      "The lander fell the rest of the way.",
+      "Landing software is now tested end to end with real sensor behaviour."
+    ]
+  },
+  {
+    "slug": "genesis-capsule-2004",
+    "wiki": "Genesis_(spacecraft)",
+    "commons": [
+      "Genesis spacecraft crash"
+    ],
+    "baslik": "A Sensor Installed Upside Down Crashed a NASA Capsule",
+    "ad": "the Genesis sample capsule",
+    "kisa": "Genesis",
+    "nesne": "Capsule",
+    "yil": 2004,
+    "kume": "spaceflight-disasters",
+    "oncelik": 8,
+    "sonuc": "slammed into the Utah desert",
+    "tetik": "accelerometers installed backwards",
+    "mekanizma": "g-switch sensors mounted in the wrong orientation, so the parachutes never deployed",
+    "sayi": "UPSIDE DOWN",
+    "ders": "orientation-critical parts now require independent verification",
+    "zincir": [
+      "SENSORS INSTALLED BACKWARDS",
+      "DESIGN REVIEW MISSES IT",
+      "RE-ENTRY DECELERATION NOT DETECTED",
+      "PARACHUTES NEVER OPEN",
+      "CAPSULE HITS THE GROUND"
+    ],
+    "yanilgi": "The parachutes didn't fail. They were never told to open, because the sensors were mounted backwards.",
+    "tartisma": "Some solar wind samples were still recovered from the wreck. Is a partial success a failure?",
+    "basliklar": [
+      "Why the Genesis Capsule Crashed",
+      "The Sensors Installed Upside Down"
+    ],
+    "kapak": [
+      "UPSIDE DOWN",
+      "NO PARACHUTE"
+    ],
+    "hook": "Installed upside down",
+    "soru": "Who checks the orientation?",
+    "sahneler": [
+      "A NASA capsule carrying pieces of the solar wind slammed into the Utah desert.",
+      "Its parachutes never opened, and it crashed at high speed.",
+      "The parachutes worked fine.",
+      "They were triggered by small acceleration sensors.",
+      "Those sensors had been installed backwards.",
+      "They never detected the capsule slowing down in the atmosphere.",
+      "Some samples were still recovered from the wreck.",
+      "Parts like these now need independent orientation checks."
+    ],
+    "excludeStills": [
+      "Rebecca at the well"
+    ]
+  },
+  {
+    "slug": "hubble-mirror-1990",
+    "wiki": "Hubble_Space_Telescope",
+    "commons": [
+      "Hubble Space Telescope mirror"
+    ],
+    "baslik": "Hubble's Mirror Was Ground Perfectly — to the Wrong Shape",
+    "ad": "the Hubble Space Telescope",
+    "kisa": "Hubble",
+    "nesne": "Primary mirror",
+    "yil": 1990,
+    "kume": "spaceflight-disasters",
+    "oncelik": 9,
+    "sonuc": "sent back blurry images after launch",
+    "tetik": "a misassembled testing instrument used to shape the mirror",
+    "mekanizma": "spherical aberration from a null corrector with a misplaced lens",
+    "sayi": "WRONG SHAPE",
+    "ders": "a corrective optics package was installed by astronauts in 1993",
+    "zincir": [
+      "NULL CORRECTOR MISASSEMBLED",
+      "MIRROR POLISHED TO MATCH IT",
+      "OTHER TESTS DISMISSED",
+      "LAUNCH",
+      "BLURRY IMAGES"
+    ],
+    "yanilgi": "The mirror wasn't badly made. It was polished with extreme precision to the wrong shape.",
+    "tartisma": "Other test instruments showed the error but were dismissed. When should one test override another?",
+    "basliklar": [
+      "Why Hubble's First Images Were Blurry",
+      "The Perfect Mirror Ground to the Wrong Shape"
+    ],
+    "kapak": [
+      "WRONG SHAPE",
+      "BLURRY"
+    ],
+    "hook": "Perfect, but wrong",
+    "soru": "Which test do you trust?",
+    "sahneler": [
+      "The Hubble Space Telescope was launched, and its first images came back blurry.",
+      "Suddenly, the billion-dollar observatory looked like a failure.",
+      "Its main mirror had been ground to the wrong shape.",
+      "It was polished with extreme precision against a faulty test tool.",
+      "One lens in that tool had been set in the wrong place.",
+      "Other tests hinted at the error but were dismissed.",
+      "Astronauts later installed corrective optics in orbit.",
+      "Hubble's images became some of the sharpest ever taken."
+    ]
+  },
+  {
+    "slug": "soyuz-ms-10-2018",
+    "wiki": "Soyuz_MS-10",
+    "commons": [
+      "Soyuz MS-10"
+    ],
+    "baslik": "A Bent Pin Aborted a Crewed Launch Mid-Flight",
+    "ad": "Soyuz MS-10",
+    "kisa": "Soyuz MS-10",
+    "nesne": "Separation sensor",
+    "yil": 2018,
+    "kume": "spaceflight-disasters",
+    "oncelik": 8,
+    "sonuc": "aborted during launch",
+    "tetik": "a sensor pin bent during rocket assembly",
+    "mekanizma": "a deformed separation sensor pin preventing a booster from separating cleanly",
+    "sayi": "ABORT",
+    "ders": "assembly checks for separation sensors were tightened",
+    "zincir": [
+      "PIN BENT DURING ASSEMBLY",
+      "SEPARATION SIGNAL FAILS",
+      "BOOSTER HITS THE CORE STAGE",
+      "ROCKET BREAKS UP",
+      "CREW CAPSULE ESCAPES"
+    ],
+    "yanilgi": "The crew survived because the escape system worked, not because the failure was small.",
+    "tartisma": "The pin was bent at the factory. How do you inspect damage that happens during assembly?",
+    "basliklar": [
+      "Why Soyuz MS-10 Aborted",
+      "The Bent Pin That Stopped a Launch"
+    ],
+    "kapak": [
+      "ONE BENT PIN",
+      "ABORT"
+    ],
+    "hook": "One bent pin",
+    "soru": "Who inspects the assembly?",
+    "sahneler": [
+      "Two minutes into a crewed launch, a Soyuz rocket failed.",
+      "Suddenly, a booster struck the core stage and the rocket began to break up.",
+      "The escape system pulled the crew capsule away.",
+      "Both astronauts landed safely.",
+      "The cause was a bent pin on a separation sensor.",
+      "It had been damaged while the rocket was assembled.",
+      "The booster didn't separate cleanly.",
+      "Assembly checks for these sensors were tightened afterward."
+    ]
+  },
+  {
+    "slug": "antares-orb-3-2014",
+    "wiki": "Cygnus_Orb-3",
+    "commons": [
+      "Antares Orb-3"
+    ],
+    "baslik": "A Decades-Old Engine Exploded Seconds After Launch",
+    "ad": "the Antares Orb-3 launch",
+    "kisa": "Orb-3",
+    "nesne": "Rocket engine",
+    "yil": 2014,
+    "kume": "spaceflight-disasters",
+    "oncelik": 7,
+    "sonuc": "exploded seconds after lift-off",
+    "tetik": "a turbopump failure in a refurbished engine",
+    "mekanizma": "failure in the liquid oxygen turbopump of a refurbished AJ26 engine",
+    "sayi": "SECONDS",
+    "ders": "Antares was re-engined with new RD-181 engines",
+    "zincir": [
+      "DECADES-OLD ENGINES REFURBISHED",
+      "TURBOPUMP FAILS",
+      "ENGINE THRUST LOST",
+      "ROCKET FALLS BACK",
+      "RANGE SAFETY DESTRUCT"
+    ],
+    "yanilgi": "The engines were not new designs. They were refurbished engines originally built for the Soviet Moon rocket.",
+    "tartisma": "Using old engines saved money. How old is too old for rocket hardware?",
+    "basliklar": [
+      "Why the Antares Orb-3 Rocket Exploded",
+      "The Old Engine That Failed on Launch"
+    ],
+    "kapak": [
+      "OLD ENGINE",
+      "SECONDS"
+    ],
+    "hook": "The engine was decades old",
+    "soru": "How old is too old?",
+    "sahneler": [
+      "Seconds after lift-off, a cargo rocket exploded over Virginia.",
+      "It fell back onto the launch pad in a fireball.",
+      "Nobody was aboard; it carried supplies for the space station.",
+      "Its engines were refurbished engines built decades earlier.",
+      "A turbopump in one of them failed.",
+      "With thrust lost, the rocket was destroyed.",
+      "The pad needed major repairs.",
+      "Antares was later rebuilt with new engines."
+    ]
+  },
+  {
+    "slug": "spacex-crs-7-2015",
+    "wiki": "SpaceX_CRS-7",
+    "commons": [
+      "SpaceX CRS-7"
+    ],
+    "baslik": "A Failed Steel Strut Broke Up a Falcon 9",
+    "ad": "SpaceX CRS-7",
+    "kisa": "CRS-7",
+    "nesne": "Strut",
+    "yil": 2015,
+    "kume": "spaceflight-disasters",
+    "oncelik": 8,
+    "sonuc": "broke apart two minutes after launch",
+    "tetik": "a steel strut holding a helium tank",
+    "mekanizma": "failure of a strut securing a helium bottle in the second-stage oxygen tank",
+    "sayi": "ONE STRUT",
+    "ders": "SpaceX switched to struts with individual testing",
+    "zincir": [
+      "STRUT BELOW ITS RATED STRENGTH",
+      "HELIUM BOTTLE BREAKS FREE",
+      "TANK OVERPRESSURIZES",
+      "SECOND STAGE BURSTS",
+      "VEHICLE BREAKS UP"
+    ],
+    "yanilgi": "No engine failed. A small part holding a tank inside the second stage gave way.",
+    "tartisma": "The strut was a supplier part. How much should a company test parts it buys?",
+    "basliklar": [
+      "Why SpaceX CRS-7 Broke Apart",
+      "The Strut That Failed Inside a Falcon 9"
+    ],
+    "kapak": [
+      "ONE STRUT",
+      "BROKE APART"
+    ],
+    "hook": "One small strut",
+    "soru": "Test every part?",
+    "sahneler": [
+      "Two minutes after launch, a Falcon 9 rocket broke apart.",
+      "The cargo bound for the space station was destroyed.",
+      "The cause was hidden inside the second stage.",
+      "A steel strut held a helium tank in place.",
+      "It failed below its rated strength.",
+      "The tank broke free and helium flooded out.",
+      "The pressure burst the stage.",
+      "SpaceX switched to struts tested one by one."
+    ]
+  },
+  {
+    "slug": "schiaparelli-2016",
+    "wiki": "Schiaparelli_EDM",
+    "commons": [
+      "Schiaparelli EDM"
+    ],
+    "baslik": "The Mars Lander That Thought It Was Underground",
+    "ad": "the Schiaparelli lander",
+    "kisa": "Schiaparelli",
+    "nesne": "Lander",
+    "yil": 2016,
+    "kume": "software-and-control-failures",
+    "oncelik": 8,
+    "sonuc": "crashed on Mars",
+    "tetik": "a saturated rotation sensor for about one second",
+    "mekanizma": "saturated inertial measurement unit leading software to compute a negative altitude",
+    "sayi": "NEGATIVE ALTITUDE",
+    "ders": "ESA improved sensor-saturation handling and simulations for later landers",
+    "zincir": [
+      "PARACHUTE OPENS WITH A JOLT",
+      "ROTATION SENSOR SATURATES",
+      "SOFTWARE COMPUTES BELOW GROUND",
+      "PARACHUTE RELEASED EARLY",
+      "LANDER FREE-FALLS"
+    ],
+    "yanilgi": "The parachute and thrusters worked. The software believed the lander was already below the surface.",
+    "tartisma": "The saturation lasted around one second. How long should software trust a sensor stuck at its maximum?",
+    "basliklar": [
+      "Why Schiaparelli Crashed on Mars",
+      "The Lander That Calculated It Was Underground"
+    ],
+    "kapak": [
+      "BELOW GROUND",
+      "FREE FALL"
+    ],
+    "hook": "It thought it was underground",
+    "soru": "Trust a maxed-out sensor?",
+    "sahneler": [
+      "Europe's Schiaparelli lander crashed on Mars.",
+      "It fell from high above the surface and was destroyed.",
+      "As its parachute opened, the lander spun hard.",
+      "A rotation sensor maxed out for about a second.",
+      "The software combined that bad value with other data.",
+      "It calculated an altitude below the ground.",
+      "So it released the parachute and fired its thrusters only briefly.",
+      "ESA improved how later landers handle saturated sensors."
+    ]
+  },
+  {
+    "slug": "noaa-n-prime-2003",
+    "wiki": "NOAA-19",
+    "commons": [
+      "NOAA-N Prime"
+    ],
+    "baslik": "A Weather Satellite Fell Over in the Factory",
+    "ad": "the NOAA-N Prime satellite",
+    "kisa": "NOAA-N Prime",
+    "nesne": "Satellite",
+    "yil": 2003,
+    "kume": "industrial-disasters",
+    "oncelik": 7,
+    "sonuc": "fell off its stand during manufacturing",
+    "tetik": "bolts removed from its holding fixture without anyone recording it",
+    "mekanizma": "a turnover cart missing its bolts because procedures weren't followed",
+    "sayi": "MISSING BOLTS",
+    "ders": "NASA reinforced procedure checks for handling spacecraft",
+    "zincir": [
+      "BOLTS REMOVED FOR ANOTHER JOB",
+      "NOT RECORDED",
+      "TEAM SKIPS THE CHECK",
+      "SATELLITE ROTATED",
+      "SATELLITE FALLS TO THE FLOOR"
+    ],
+    "yanilgi": "The satellite wasn't dropped by a crane. It slid off a cart whose bolts had been removed by another team.",
+    "tartisma": "The step to verify the bolts was skipped because it seemed routine. Why do routine checks get skipped?",
+    "basliklar": [
+      "How a Satellite Fell Over in the Factory",
+      "The Missing Bolts on a Weather Satellite"
+    ],
+    "kapak": [
+      "MISSING BOLTS",
+      "FELL OVER"
+    ],
+    "hook": "It fell off its stand",
+    "soru": "Would you check the bolts?",
+    "sahneler": [
+      "A weather satellite being built for NOAA fell over in the factory.",
+      "It crashed to the floor and was badly damaged.",
+      "Workers were rotating it on a turnover cart.",
+      "The bolts that held it to the cart were missing.",
+      "Another team had removed them and not recorded it.",
+      "The step to check them was skipped.",
+      "The satellite was rebuilt and launched years later.",
+      "Handling procedures for spacecraft were reinforced."
+    ]
+  },
+  {
+    "slug": "gemini-8-1966",
+    "wiki": "Gemini_8",
+    "commons": [
+      "Gemini 8"
+    ],
+    "baslik": "Neil Armstrong's Spacecraft Spun Out of Control",
+    "ad": "Gemini 8",
+    "kisa": "Gemini 8",
+    "nesne": "Thruster",
+    "yil": 1966,
+    "kume": "spaceflight-disasters",
+    "oncelik": 8,
+    "sonuc": "began spinning violently in orbit",
+    "tetik": "a thruster stuck on after an electrical short",
+    "mekanizma": "a stuck-open orbital attitude thruster causing a rapidly increasing spin",
+    "sayi": "STUCK THRUSTER",
+    "ders": "thruster circuits were changed so a single fault could be isolated",
+    "zincir": [
+      "DOCKED WITH TARGET",
+      "THRUSTER STICKS ON",
+      "UNDOCKING MAKES IT WORSE",
+      "SPIN NEARS BLACKOUT LEVELS",
+      "RE-ENTRY THRUSTERS USED TO STOP IT"
+    ],
+    "yanilgi": "The spin wasn't caused by the target vehicle. It came from a thruster on Gemini itself.",
+    "tartisma": "Using the re-entry thrusters forced the mission to end early. Is ending a mission early a failure?",
+    "basliklar": [
+      "Why Gemini 8 Spun Out of Control",
+      "The Stuck Thruster Armstrong Had to Stop"
+    ],
+    "kapak": [
+      "SPINNING",
+      "STUCK THRUSTER"
+    ],
+    "hook": "It spun out of control",
+    "soru": "End the mission early?",
+    "sahneler": [
+      "In orbit, Neil Armstrong's spacecraft began spinning out of control.",
+      "Suddenly, it rolled faster and faster, close to making the crew black out.",
+      "They had just docked with a target vehicle.",
+      "One of Gemini's own thrusters was stuck on.",
+      "Undocking only made the spin faster.",
+      "Armstrong used the re-entry thrusters to stop it.",
+      "The mission had to end early.",
+      "Thruster circuits were redesigned to isolate a single fault."
+    ]
+  },
+  {
+    "slug": "apollo-12-lightning-1969",
+    "wiki": "Apollo_12",
+    "commons": [
+      "Apollo 12 launch"
+    ],
+    "baslik": "Apollo 12 Was Struck by Lightning Twice During Launch",
+    "ad": "Apollo 12",
+    "kisa": "Apollo 12",
+    "nesne": "Electrical system",
+    "yil": 1969,
+    "kume": "spaceflight-disasters",
+    "oncelik": 8,
+    "sonuc": "was hit by lightning during launch",
+    "tetik": "the rocket and its exhaust plume triggering lightning in clouds",
+    "mekanizma": "vehicle-triggered lightning knocking fuel cells offline and scrambling telemetry",
+    "sayi": "TWICE",
+    "ders": "launch rules now forbid launching through clouds that can trigger lightning",
+    "zincir": [
+      "LAUNCH INTO RAIN CLOUDS",
+      "ROCKET TRIGGERS LIGHTNING",
+      "FUEL CELLS DROP OFFLINE",
+      "TELEMETRY GARBLED",
+      "SCE TO AUX RESTORES DATA"
+    ],
+    "yanilgi": "There was no active thunderstorm overhead. The rocket itself triggered the lightning.",
+    "tartisma": "One engineer remembered an obscure switch that saved the mission. How do you capture knowledge like that?",
+    "basliklar": [
+      "How Apollo 12 Survived Two Lightning Strikes",
+      "The Rocket That Triggered Its Own Lightning"
+    ],
+    "kapak": [
+      "STRUCK TWICE",
+      "SCE TO AUX"
+    ],
+    "hook": "Struck twice",
+    "soru": "Would you know the switch?",
+    "sahneler": [
+      "Seconds after lift-off, Apollo 12 was struck by lightning.",
+      "Seconds later it was hit again, and warnings flooded the cabin.",
+      "The rocket itself had triggered the lightning in the clouds.",
+      "Fuel cells dropped offline and the data went haywire.",
+      "An engineer on the ground recalled an obscure switch setting.",
+      "Flipping it restored the data.",
+      "The mission went on to land on the Moon.",
+      "Launch rules now forbid flying through clouds like these."
+    ]
+  },
+  {
+    "slug": "starliner-oft-2019",
+    "wiki": "Boeing_Orbital_Flight_Test",
+    "commons": [
+      "Boeing Orbital Flight Test"
+    ],
+    "baslik": "A Clock Set Wrong Sent Starliner Into the Wrong Orbit",
+    "ad": "the Starliner Orbital Flight Test",
+    "kisa": "Starliner OFT",
+    "nesne": "Mission timer",
+    "yil": 2019,
+    "kume": "software-and-control-failures",
+    "oncelik": 8,
+    "sonuc": "failed to reach the space station",
+    "tetik": "a mission timer set from the wrong moment",
+    "mekanizma": "the spacecraft pulling its elapsed-time clock from the rocket at the wrong point",
+    "sayi": "WRONG TIME",
+    "ders": "Boeing reworked its software testing before flying again",
+    "zincir": [
+      "TIMER READ AT WRONG MOMENT",
+      "SPACECRAFT THINKS IT IS LATER",
+      "BURNS FUEL TOO EARLY",
+      "COMMUNICATION GAP",
+      "DOCKING CANCELLED"
+    ],
+    "yanilgi": "The engines worked. The spacecraft simply believed it was at a different point in the mission.",
+    "tartisma": "End-to-end tests were split into chunks. Is a test that stops halfway a test at all?",
+    "basliklar": [
+      "Why Starliner Missed the Space Station",
+      "The Clock That Was Set Wrong"
+    ],
+    "kapak": [
+      "WRONG TIME",
+      "NO DOCKING"
+    ],
+    "hook": "Its clock was wrong",
+    "soru": "Test all the way through?",
+    "sahneler": [
+      "Boeing's uncrewed Starliner reached space but couldn't get to the station.",
+      "Suddenly, it began burning fuel as if it were far later in the mission.",
+      "Its mission clock was wrong.",
+      "It had read the time from the rocket at the wrong moment.",
+      "The spacecraft used too much fuel to reach its target.",
+      "The docking had to be cancelled.",
+      "Tests had not run the full mission end to end.",
+      "Boeing reworked its software testing before flying again."
+    ]
+  },
+  {
+    "slug": "hitomi-2016",
+    "wiki": "Hitomi_(satellite)",
+    "commons": [
+      "Hitomi satellite"
+    ],
+    "baslik": "A Satellite Spun Itself to Pieces Weeks After Launch",
+    "ad": "the Hitomi satellite",
+    "kisa": "Hitomi",
+    "nesne": "Attitude control",
+    "yil": 2016,
+    "kume": "software-and-control-failures",
+    "oncelik": 7,
+    "sonuc": "broke apart in orbit",
+    "tetik": "an attitude error followed by a thruster command with wrong parameters",
+    "mekanizma": "spin-up from faulty attitude estimation, then thrusters firing in the wrong direction",
+    "sayi": "SPUN APART",
+    "ders": "JAXA tightened review of uploaded commands and parameters",
+    "zincir": [
+      "STAR TRACKER GLITCH",
+      "ATTITUDE MISJUDGED",
+      "WHEELS SPIN UP",
+      "SAFE MODE THRUSTERS WRONGLY SET",
+      "SOLAR PANELS TEAR OFF"
+    ],
+    "yanilgi": "No debris hit it. The satellite's own control system spun it faster until parts broke off.",
+    "tartisma": "A wrong parameter file had been uploaded without full checks. Who double-checks the numbers?",
+    "basliklar": [
+      "Why the Hitomi Satellite Broke Apart",
+      "The Wrong Parameters That Spun a Satellite"
+    ],
+    "kapak": [
+      "SPUN APART",
+      "WRONG PARAMETERS"
+    ],
+    "hook": "It spun itself apart",
+    "soru": "Who checks the parameters?",
+    "sahneler": [
+      "A new Japanese X-ray satellite broke apart weeks after launch.",
+      "It spun faster and faster until its solar panels were destroyed.",
+      "It began with a glitch in estimating its orientation.",
+      "The satellite thought it was rotating when it wasn't.",
+      "Its correction added real spin instead.",
+      "Then thrusters fired using wrongly set parameters.",
+      "That made the spin worse, and the structure failed.",
+      "JAXA tightened checks on uploaded commands and settings."
+    ],
+    "excludeStills": [
+      "AVN",
+      "Adult",
+      "Hitomi Nozoe",
+      "Hitomi Shimatani",
+      "Tanaka",
+      "Transiting Exoplanet"
+    ],
+    "strictStills": true
+  },
+  {
+    "slug": "n1-rocket-1969",
+    "wiki": "N1_(rocket)",
+    "commons": [
+      "N1 rocket"
+    ],
+    "baslik": "The Soviet Moon Rocket That Failed Every Launch",
+    "ad": "the N1 rocket",
+    "kisa": "N1 rocket",
+    "nesne": "Rocket",
+    "yil": 1969,
+    "kume": "spaceflight-disasters",
+    "oncelik": 8,
+    "sonuc": "failed in all four launch attempts",
+    "tetik": "thirty first-stage engines that were never tested together",
+    "mekanizma": "complex clustered engines and control system without full ground testing of the first stage",
+    "sayi": "4 OF 4 FAILED",
+    "ders": "the Soviet crewed lunar programme was cancelled",
+    "zincir": [
+      "30 ENGINES IN ONE STAGE",
+      "NO FULL GROUND TEST",
+      "ENGINE FAILURE CASCADES",
+      "CONTROL SYSTEM SHUTS ENGINES",
+      "ROCKET LOST"
+    ],
+    "yanilgi": "It wasn't one bad launch. All four flights failed, one of them destroying its own launch pad.",
+    "tartisma": "Testing the whole first stage on the ground was skipped to save time and money. Is testing ever optional?",
+    "basliklar": [
+      "Why the N1 Moon Rocket Failed",
+      "Thirty Engines That Were Never Tested Together"
+    ],
+    "kapak": [
+      "30 ENGINES",
+      "4 OF 4 FAILED"
+    ],
+    "hook": "Four launches, four failures",
+    "soru": "Skip the ground test?",
+    "sahneler": [
+      "The Soviet Moon rocket N1 failed on every launch.",
+      "One exploded just after lift-off and destroyed its own launch pad.",
+      "Its first stage used thirty engines.",
+      "They were never fired together on the ground before flight.",
+      "When one failed, problems cascaded through the cluster.",
+      "The control system shut down engines it shouldn't have.",
+      "After four failures, the programme stopped.",
+      "The Soviet crewed lunar landing was cancelled."
+    ]
+  }
+]

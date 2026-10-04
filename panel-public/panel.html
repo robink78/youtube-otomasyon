@@ -23,6 +23,9 @@
              border-radius:8px;cursor:pointer;font-size:13.5px}
   nav button:hover{color:var(--txt)}
   nav button.on{background:var(--panel2);border-color:var(--line);color:var(--acc)}
+  nav a.dis-arac{color:var(--dim);border:1px solid var(--line);padding:7px 15px;border-radius:8px;
+    text-decoration:none;font-size:13px;margin-left:6px;transition:.15s}
+  nav a.dis-arac:hover{color:var(--acc);border-color:var(--acc)}
 
   main{flex:1;display:flex;min-height:0}
   .sol{width:290px;border-right:1px solid var(--line);overflow:auto;background:var(--panel);flex-shrink:0}
@@ -87,7 +90,11 @@
   <nav>
     <button data-t="videolar" class="on">Videolar</button>
     <button data-t="muzik">Müzik</button>
+    <button data-t="trend">Trendler</button>
     <button data-t="kaynaklar">Kaynaklar</button>
+    <a class="dis-arac" href="/buyume.html" title="Kanal büyüme paneli — izlenme, abone, CTR, trafik, desenler">📈 Büyüme</a>
+    <a class="dis-arac" href="http://localhost:4190" target="_blank"
+       title="Link yapıştır → indir. YouTube, TikTok, X, Instagram + viral Keşfet">⬇ Video İndirici</a>
   </nav>
 </header>
 
@@ -118,6 +125,15 @@ const slug=s=>String(s).replace(/[ıİşŞğĞüÜöÖçÇâÂîû]/g,c=>TR[c])
 const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
 const api=(u,o)=>fetch(u,o).then(r=>r.json());
 
+async function calistirGoster(govde,mesaj){
+  const L=$("#log"); if(L) L.innerHTML="";
+  logYaz(mesaj||"başlatılıyor…");
+  const d=await api("/api/calistir",{method:"POST",
+    headers:{"Content-Type":"application/json"},body:JSON.stringify(govde)});
+  if(d.hata){ logYaz(d.hata,"hata"); return; }
+  izle(d.id);
+}
+
 function logYaz(t,tip){
   const d=document.createElement("div");
   if(tip) d.className=tip;
@@ -127,6 +143,16 @@ function logYaz(t,tip){
 
 // tazeleSag=true SADECE kullanici bir sey yaptiginda. Otomatik yenileme
 // sag paneli asla yeniden cizmez — yoksa acik form ve yazdigin metin ucar.
+// Bazi araclar bu depoda yok (DJ mix gibi). Sekmesini hic gostermemek,
+// tiklayip hata almaktan iyi.
+async function ozellikleriYukle(){
+  try{
+    const o=await api("/api/ozellikler");
+    if(!o.muzik){ const b=document.querySelector('nav button[data-t="muzik"]'); if(b) b.remove(); }
+    if(!o.indirici){ const a=document.querySelector('nav a.dis-arac'); if(a) a.remove(); }
+  }catch(e){}
+}
+
 async function yukle(tazeleSag){
   const d=await api("/api/isler");
   ISLER=d.isler;
@@ -144,7 +170,8 @@ function cizSol(){
       <div class="ad">${esc(i.baslik).slice(0,42)}</div>
       <div class="alt">
         <span class="rozet ${i.format==="long"?"":"short"}">${
-          i.format==="reels"?"REELS":i.format==="short"?"SHORTS":"UZUN"}</span>
+          i.format==="reels"?"REELS":i.format==="tiktok"?"TIKTOK"
+          :i.format==="short"?"SHORTS":"UZUN"}</span>
         <span class="rozet ${i.senaryo?"ok":"yok"}">senaryo</span>
         <span class="rozet ${i.gorsel?"ok":"yok"}">${i.gorsel||0} görsel</span>
         <span class="rozet ${i.sesParca?"ok":"yok"}">ses</span>
@@ -180,6 +207,7 @@ Roma İmparatorluğu neden çöktü"></textarea>
           <option value="long">YouTube uzun video — 16:9, en az 15 dk</option>
           <option value="short">YouTube Shorts — 9:16, max 45 sn</option>
           <option value="reels">Instagram Reels — 9:16</option>
+          <option value="tiktok">TikTok — 9:16</option>
         </select></div>
       <div class="alan"><label>Süre (dakika)</label>
         <input id="nSure" type="number" step="0.5" min="0.2" max="30" placeholder="formata göre">
@@ -201,11 +229,12 @@ Roma İmparatorluğu neden çöktü"></textarea>
     if(!$("#nAd").dataset.elle) $("#nAd").value=slug(e.target.value);
   });
 
-  const SURE_VARSAYILAN={long:15,short:0.67,reels:3};
+  const SURE_VARSAYILAN={long:15,short:0.67,reels:3,tiktok:1};
   const SURE_NOT={
     long:"YouTube uzun video. 15 dakikanın altına düşürme.",
     short:"YouTube Shorts. 45 saniyeyi (0.75 dk) aşarsa Shorts sayılmaz.",
-    reels:"Instagram Reels. 3 dakikayı aşarsan Instagram takipçin olmayanlara önermiyor — teknik sınır 20 dk."
+    reels:"Instagram Reels. 3 dakikayı aşarsan Instagram takipçin olmayanlara önermiyor — teknik sınır 20 dk.",
+    tiktok:"TikTok. Teknik sınır 10 dk ama dağıtım kısada: 60 saniye ve altı en iyi çalışıyor."
   };
   function sureGuncelle(){
     const f=$("#nFormat").value, s=$("#nSure");
@@ -231,7 +260,8 @@ async function yeniOlustur(hemenUret){
       sureDk:parseFloat($("#nSure").value)||0})});
   if(r.hata) return alert(r.hata);
 
-  SECILI=r.ad; EKRAN="is"; await yukle(true);
+  SECILI=r.ad; EKRAN="is"; await ozellikleriYukle();
+yukle(true);
   logYaz("yeni iş: "+r.ad,"ok");
   if(hemenUret) calistir("hepsi",r.ad);
 }
@@ -248,6 +278,7 @@ function cizSag(){
   if(EKRAN==="yeni") return;          // yeni video formu acikken uzerine cizme
   const S=$("#sag");
   if(SEKME==="muzik") return S.innerHTML=muzikHTML();
+  if(SEKME==="trend") return S.innerHTML=trendHTML();
   if(SEKME==="kaynaklar") return S.innerHTML=kaynakHTML(), kaynakYukle();
   const i=ISLER.find(x=>x.ad===SECILI);
   if(!i) return S.innerHTML=`<div class="bos">Soldan bir iş seç veya yeni oluştur</div>`;
@@ -357,6 +388,7 @@ function cizSag(){
 
       <div class="alan"><label>Hareket efekti</label>
         <select id="gEfekt">
+          <option value="sinematik">Sinematik kamera (2.5D) — zoom + çapraz kaydırma</option>
           <option value="zoom">Normal zoom (Ken Burns)</option>
           <option value="yavas">Yavaş zoom — sakin</option>
           <option value="hizli">Hızlı zoom — enerjik</option>
@@ -533,6 +565,78 @@ function muzikHTML(){
 }
 function muzikCalistir(tur){
   calistir(tur,null,{klasor:$("#mklasor").value,mixAd:$("#mad").value});
+}
+
+
+function trendHTML(){
+  return `
+  <div class="ust">
+    <div><h2>Trend Arama</h2>
+      <div class="kucuk">YouTube · Instagram · TikTok — üçü birden taranır, rapor <code>trend/</code> klasörüne yazılır</div></div>
+  </div>
+
+  <div class="kart">
+    <h3>Konuya göre trend ara</h3>
+    <div class="alan"><label>Konu</label>
+      <input id="tKonu" placeholder="örn. animal comparison — boş bırakırsan genel trend gelir"></div>
+    <div class="satir">
+      <div class="alan" style="flex:1"><label>Dil</label>
+        <select id="tDil">
+          <option value="en">İngilizce</option>
+          <option value="tr">Türkçe</option>
+          <option value="es">İspanyolca</option>
+          <option value="de">Almanca</option>
+          <option value="ar">Arapça</option>
+        </select></div>
+      <div class="alan" style="flex:1"><label>Instagram/TikTok izlenme eşiği</label>
+        <input id="tMin" value="200000"></div>
+      <div class="alan" style="flex:1"><label>Platform</label>
+        <select id="tPlatform">
+          <option value="hepsi">Üçü birden</option>
+          <option value="yt">Sadece YouTube</option>
+          <option value="ig">Sadece Instagram + TikTok</option>
+        </select></div>
+    </div>
+    <div class="alan"><label><input type="checkbox" id="tSiki"> Sıkı eşleşme
+      <span class="kucuk">(YouTube'da başlığın tüm kelimeleri geçsin — dar konularda aç)</span></label></div>
+    <div class="satir">
+      <button class="b esas" onclick="trendAra()">📈 Trend ara</button>
+      <button class="b" onclick="viralAra()">🔥 Bu haftanın viral Shorts'ları</button>
+    </div>
+  </div>
+
+  <div class="kart">
+    <h3>Ne işe yarar</h3>
+    <div class="kucuk">
+      <p><b>YouTube tarafı hız ölçer</b> — saatlik izlenme. Şu an ne patlıyor.
+      Toplam izlenme eşiği koymak yanlış olurdu: taze bir video saatte 3000
+      izlenme alıyor olsa da henüz 500 bine ulaşmamış olur.</p>
+      <p><b>Instagram/TikTok tarafı aşırı performans ölçer</b> — videonun,
+      o hesabın kendi ortalamasını kaç kat aştığı. Büyük hesap olmak
+      gerekmiyor; kalıbı tutan küçük hesap da listeye giriyor.</p>
+      <p>Rapordaki <code>hook_0_3s</code> alanı en değerli kısım: ilk üç
+      saniyede ekranda ne olduğunu, ne yazdığını ve ne duyulduğunu söylüyor.
+      Kalıp orada. Aynı kalıbı iki farklı hesapta gördüysen o bir trend;
+      bir kere gördüysen tesadüf olabilir.</p>
+    </div>
+  </div>`;
+}
+
+function trendAra(){
+  const g={
+    tur:"trend",
+    konu:$("#tKonu").value.trim(),
+    dil:$("#tDil").value,
+    min:$("#tMin").value.trim()||"200000",
+    siki:$("#tSiki").checked,
+    platform:$("#tPlatform").value
+  };
+  calistirGoster(g,"Trend aranıyor…");
+}
+
+function viralAra(){
+  calistirGoster({tur:"viral",konu:$("#tKonu").value.trim(),dil:$("#tDil").value,min:"10000000"},
+                 "Bu haftanın viral Shorts'ları aranıyor…");
 }
 
 function kaynakHTML(){

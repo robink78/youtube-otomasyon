@@ -1,0 +1,23 @@
+{
+  "channel": "behind-the-ordinary",
+  "days": {
+    "2026-10-03": {
+      "units": 1635,
+      "ops": {
+        "channels.list": 29,
+        "playlistItems.list": 6,
+        "videos.insert": 1
+      }
+    },
+    "2026-10-04": {
+      "units": 1693,
+      "ops": {
+        "channels.list": 65,
+        "playlistItems.list": 14,
+        "videos.list": 14,
+        "videos.insert": 1
+      }
+    }
+  },
+  "project": "739767423116"
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Locked Doors That Trapped Garment Workers in a Fire",
+  "kaynaklar": [
+    {
+      "ad": "triangle-shirtwaist-1.jpg",
+      "wikimedia": "TriangleFire 25March1911 BodiesOnSidewalk.jpg"
+    },
+    {
+      "ad": "triangle-shirtwaist-2.jpg",
+      "wikimedia": "TriangleFireengine crop.jpg"
+    },
+    {
+      "ad": "triangle-shirtwaist-3.jpg",
+      "wikimedia": "TriangleTradeParade.jpg"
+    },
+    {
+      "ad": "triangle-shirtwaist-4.jpg",
+      "wikimedia": "Triangle Shirtwaist coffins.jpg"
+    },
+    {
+      "ad": "triangle-shirtwaist-5.jpg",
+      "wikimedia": "\"Open for Business – Help Wanted!\" cartoon by Leon Israel, 1911.jpg"
+    },
+    {
+      "ad": "triangle-shirtwaist-6.jpg",
+      "wikimedia": "Bodies from Washington Place fire, Mar 1911 LCCN98502780.jpg"
+    },
+    {
+      "ad": "triangle-shirtwaist-7.jpg",
+      "wikimedia": "Bodiesonthestreet-TriangleFactoryFire-1911.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Fire swept through a garment factory in New York.",
+      "kaynak": "Footage/triangle-shirtwaist-1.jpg"
+    },
+    {
+      "metin": "Workers were trapped on the upper floors, and one hundred forty six died.",
+      "kaynak": "Footage/triangle-shirtwaist-2.jpg"
+    },
+    {
+      "metin": "It started in a bin of scrap fabric.",
+      "kaynak": "Footage/triangle-shirtwaist-3.jpg"
+    },
+    {
+      "metin": "One exit door was locked.",
+      "kaynak": "Footage/triangle-shirtwaist-4.jpg"
+    },
+    {
+      "metin": "The fire escape collapsed under the crowd.",
+      "kaynak": "Footage/triangle-shirtwaist-5.jpg"
+    },
+    {
+      "metin": "Fire ladders couldn't reach the upper floors.",
+      "kaynak": "Footage/triangle-shirtwaist-6.jpg"
+    },
+    {
+      "metin": "The building itself was called fireproof.",
+      "kaynak": "Footage/triangle-shirtwaist-7.jpg"
+    },
+    {
+      "metin": "New York then passed sweeping fire safety and labor laws.",
+      "kaynak": "Footage/triangle-shirtwaist-1.jpg"
+    }
+  ],
+  "aciklama": "Triangle Shirtwaist burned with workers trapped inside. The cause: rapid fire spread with locked exit doors and a fire escape that collapsed.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Triangle Shirtwaist",
+    "1911",
+    "factory",
+    "engineering failure"
+  ],
+  "hook": "The doors were locked",
+  "soru": "Control or safety?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Triangle Shirtwaist Factory",
+    "kisa": "Triangle Shirtwaist",
+    "nesne": "Factory",
+    "yil": 1911,
+    "sonuc": "burned with workers trapped inside",
+    "tetik": "a fire in scrap fabric on a crowded factory floor",
+    "mekanizma": "rapid fire spread with locked exit doors and a fire escape that collapsed",
+    "sayi": "146 DIED",
+    "ders": "New York passed sweeping fire safety and labor laws",
+    "zincir": [
+      "SCRAP FABRIC CATCHES FIRE",
+      "FIRE SPREADS QUICKLY",
+      "EXIT DOOR LOCKED",
+      "FIRE ESCAPE COLLAPSES",
+      "WORKERS TRAPPED"
+    ],
+    "zaman": [],
+    "yanilgi": "The building itself was considered fireproof. The people inside were not protected.",
+    "tartisma": "Doors were locked to prevent theft and breaks. How often do rules for control override safety?",
+    "basliklar": [
+      "The Locked Doors That Trapped Garment Workers in a Fire",
+      "Why the Triangle Shirtwaist Fire Was So Deadly",
+      "The Fireproof Building That Trapped Its Workers"
+    ],
+    "kapak": [
+      "LOCKED DOORS",
+      "146 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Triangle Shirtwaist Factory fire",
+        "url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire"
+      },
+      {
+        "ad": "Government source — brown (cited by Wikipedia)",
+        "url": "http://www.nyc.gov/html/lpc/downloads/pdf/reports/brown.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Triangle_Shirtwaist_Factory_fire",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "TriangleFire 25March1911 BodiesOnSidewalk.jpg [Public domain]",
+      "TriangleFireengine crop.jpg [Public domain]",
+      "TriangleTradeParade.jpg [Public domain]",
+      "Triangle Shirtwaist coffins.jpg [Public domain]",
+      "\"Open for Business – Help Wanted!\" cartoon by Leon Israel, 1911.jpg [Public domain]",
+      "Bodies from Washington Place fire, Mar 1911 LCCN98502780.jpg [Public domain]",
+      "Bodiesonthestreet-TriangleFactoryFire-1911.jpg [Public domain]"
+    ]
+  }
+}

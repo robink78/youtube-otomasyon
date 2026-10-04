@@ -1,0 +1,292 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/behind-the-ordinary/state/production/why-the-bluetooth-logo-looks-like-that/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "rate": "+4%",
+    "claimDurations": [
+      3.160694931463182,
+      3.160694931463182,
+      5.17969397513548,
+      5.444086707044948,
+      5.732515141855276,
+      4.795122728721709,
+      5.5642652215492525,
+      4.662926362766975
+    ],
+    "durationSeconds": 37.7,
+    "width": null,
+    "height": null,
+    "hasAudio": true,
+    "music": {
+      "mood": "everyday-warm",
+      "profile": {
+        "kok": 56,
+        "oran": 1.335,
+        "trem": 0.143,
+        "renk": "pink",
+        "yanki": [
+          618,
+          1050
+        ],
+        "alcak": 989,
+        "ton": "warm"
+      }
+    }
+  },
+  "video": {
+    "file": "channels/behind-the-ordinary/state/production/why-the-bluetooth-logo-looks-like-that/why-the-bluetooth-logo-looks-like-that.mp4",
+    "captionsBurned": true,
+    "distinctVisuals": 5,
+    "realImageCount": 2,
+    "numberCardCount": 0,
+    "maxStaticSeconds": 3.611,
+    "visualChanges": 17,
+    "openingHookCovered": true,
+    "cardNumbersValid": true,
+    "openingSemantic": {
+      "measured": true,
+      "relevant": true,
+      "decision": "PUBLISH",
+      "assetType": "licensed-still",
+      "asset": "TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg A TP-Link Archer T2UB Nano dongle. This dongle provides both Wi-Fi and Bluetooth functionality on a computer running Windows. wikipedia-article the Bluetooth logo on a phone settings screen",
+      "topicTerms": [
+        "bluetooth",
+        "symbol",
+        "its",
+        "angular",
+        "rune",
+        "logo",
+        "bind",
+        "merges",
+        "younger",
+        "futhark",
+        "runes",
+        "harald",
+        "initials",
+        "viking",
+        "king",
+        "two",
+        "merged",
+        "one"
+      ],
+      "matchedTerms": [
+        "bluetooth",
+        "logo"
+      ],
+      "strongTerms": [
+        "bluetooth",
+        "logo"
+      ],
+      "genericTermsIgnored": [],
+      "subjectMatch": true,
+      "mechanismMatch": true,
+      "designDetailMatch": false,
+      "claimMatch": true,
+      "rejectionReasons": [],
+      "reason": "opening asset matches distinctive evidence: bluetooth, logo"
+    },
+    "opening": "motion",
+    "visualQuality": {
+      "decision": "PUBLISH",
+      "score": 100,
+      "reasons": [],
+      "semanticEvidence": {
+        "measured": true,
+        "relevant": true,
+        "decision": "PUBLISH",
+        "assetType": "licensed-still",
+        "asset": "TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg A TP-Link Archer T2UB Nano dongle. This dongle provides both Wi-Fi and Bluetooth functionality on a computer running Windows. wikipedia-article the Bluetooth logo on a phone settings screen",
+        "topicTerms": [
+          "bluetooth",
+          "symbol",
+          "its",
+          "angular",
+          "rune",
+          "logo",
+          "bind",
+          "merges",
+          "younger",
+          "futhark",
+          "runes",
+          "harald",
+          "initials",
+          "viking",
+          "king",
+          "two",
+          "merged",
+          "one"
+        ],
+        "matchedTerms": [
+          "bluetooth",
+          "logo"
+        ],
+        "strongTerms": [
+          "bluetooth",
+          "logo"
+        ],
+        "genericTermsIgnored": [],
+        "subjectMatch": true,
+        "mechanismMatch": true,
+        "designDetailMatch": false,
+        "claimMatch": true,
+        "rejectionReasons": [],
+        "reason": "opening asset matches distinctive evidence: bluetooth, logo"
+      }
+    },
+    "segmentSeconds": [
+      1.319,
+      0.9009999999999998,
+      0.9406949314631814,
+      0.40730506853681847,
+      1.9320000000000004,
+      1.7839999999999998,
+      2.3869999999999996,
+      1.8300838380618423,
+      3.016916161938159,
+      3.2250000000000014,
+      2.6409999999999982,
+      3.4780000000000015,
+      3.6108084156837705,
+      2.1661915843162305,
+      3.3980736372330185,
+      2.6289263627669754,
+      2.033999999999999
+    ],
+    "sources": [
+      {
+        "shot": 1,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 2,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:BluetoothUSB.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 3,
+        "claimIndex": 0,
+        "type": "procedural",
+        "sourceId": "procedural:0:2:84ffd7e444ed",
+        "numbers": []
+      },
+      {
+        "shot": 4,
+        "claimIndex": 1,
+        "type": "procedural",
+        "sourceId": "procedural:1:100:8196a89ddb1f",
+        "numbers": []
+      },
+      {
+        "shot": 5,
+        "claimIndex": 1,
+        "type": "procedural",
+        "sourceId": "procedural:1:101:8196a89ddb1f",
+        "numbers": []
+      },
+      {
+        "shot": 6,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 7,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:BluetoothUSB.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 8,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg#3",
+        "numbers": []
+      },
+      {
+        "shot": 9,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:BluetoothUSB.jpg#3",
+        "numbers": []
+      },
+      {
+        "shot": 10,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg#4",
+        "numbers": []
+      },
+      {
+        "shot": 11,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:BluetoothUSB.jpg#4",
+        "numbers": []
+      },
+      {
+        "shot": 12,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg#5",
+        "numbers": []
+      },
+      {
+        "shot": 13,
+        "claimIndex": 5,
+        "type": "licensed-still",
+        "sourceId": "still:BluetoothUSB.jpg#5",
+        "numbers": []
+      },
+      {
+        "shot": 14,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg#6",
+        "numbers": []
+      },
+      {
+        "shot": 15,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:BluetoothUSB.jpg#6",
+        "numbers": []
+      },
+      {
+        "shot": 16,
+        "claimIndex": 7,
+        "type": "licensed-still",
+        "sourceId": "still:TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg#7",
+        "numbers": []
+      },
+      {
+        "shot": 17,
+        "claimIndex": 7,
+        "type": "licensed-still",
+        "sourceId": "still:BluetoothUSB.jpg#7",
+        "numbers": []
+      }
+    ],
+    "durationSeconds": 37.7,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/behind-the-ordinary/state/production/why-the-bluetooth-logo-looks-like-that/thumbnail.jpg",
+    "bytes": 60420,
+    "sourceType": "licensed-still",
+    "sourceId": "still:TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg",
+    "textWords": 2,
+    "usesLicensedStill": true
+  }
+}

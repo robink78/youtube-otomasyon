@@ -1,0 +1,63 @@
+{
+  "slug": "why-mines-collapse",
+  "olusturuldu": "2026-09-24T16:22:41.993Z",
+  "originality": 87,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.09,
+      "kim": "bikini-baker"
+    },
+    "hook": {
+      "deger": 0.24,
+      "kim": "why-dams-fail"
+    },
+    "structure": {
+      "deger": 0.78,
+      "kim": "the-science-of-sinkholes"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.52,
+      "kim": "how-hurricanes-destroy"
+    },
+    "cta": {
+      "deger": 0.35,
+      "kim": "why-rockets-explode"
+    },
+    "description": {
+      "deger": 0.14,
+      "kim": "why-ships-sink"
+    },
+    "music": {
+      "deger": 0.84,
+      "kim": "bikini-baker"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.09,
+    "HOOK_SIMILARITY": 0.24,
+    "STRUCTURE_SIMILARITY": 0.78,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.52,
+    "CTA_SIMILARITY": 0.35,
+    "DESCRIPTION_SIMILARITY": 0.14,
+    "MUSIC_SIMILARITY": 0.84
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

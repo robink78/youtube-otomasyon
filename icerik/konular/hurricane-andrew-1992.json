@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Hurricane That Exposed Poorly Built Homes",
+  "kaynaklar": [
+    {
+      "ad": "hurricane-andrew-1.jpg",
+      "wikimedia": "Destruction following hurricane andrew.jpg"
+    },
+    {
+      "ad": "hurricane-andrew-2.jpg",
+      "wikimedia": "FEMA - 2378 - Photograph by Bob Epstein taken on 08-24-1992 in Florida.jpg"
+    },
+    {
+      "ad": "hurricane-andrew-3.jpg",
+      "wikimedia": "FEMA - 2399 - Photograph by Bob Epstein taken on 08-24-1992 in Florida.jpg"
+    },
+    {
+      "ad": "hurricane-andrew-4.jpg",
+      "wikimedia": "Hurricane andrew fema 2563.jpg"
+    },
+    {
+      "ad": "hurricane-andrew-5.jpg",
+      "wikimedia": "2550.jpg"
+    },
+    {
+      "ad": "hurricane-andrew-6.jpg",
+      "wikimedia": "307th Fighter Squadron F-16s Homestead Hurricane Andrew.jpg"
+    },
+    {
+      "ad": "hurricane-andrew-7.jpg",
+      "wikimedia": "31st-fw-hurricane-andrew-1992.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Hurricane Andrew smashed into south Florida.",
+      "kaynak": "Footage/hurricane-andrew-1.jpg"
+    },
+    {
+      "metin": "Tens of thousands of homes were destroyed in a single night.",
+      "kaynak": "Footage/hurricane-andrew-2.jpg"
+    },
+    {
+      "metin": "Investigators studied why so many failed.",
+      "kaynak": "Footage/hurricane-andrew-3.jpg"
+    },
+    {
+      "metin": "Many roofs were poorly nailed and weakly connected.",
+      "kaynak": "Footage/hurricane-andrew-4.jpg"
+    },
+    {
+      "metin": "Wind peeled them off.",
+      "kaynak": "Footage/hurricane-andrew-5.jpg"
+    },
+    {
+      "metin": "Broken windows let pressure build inside.",
+      "kaynak": "Footage/hurricane-andrew-6.jpg"
+    },
+    {
+      "metin": "Building codes had not always been enforced.",
+      "kaynak": "Footage/hurricane-andrew-7.jpg"
+    },
+    {
+      "metin": "Florida then created a stronger statewide building code.",
+      "kaynak": "Footage/hurricane-andrew-1.jpg"
+    }
+  ],
+  "aciklama": "Hurricane Andrew destroyed tens of thousands of homes in south Florida. The cause: roof uplift and failure where construction and code enforcement fell short.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Hurricane Andrew",
+    "1992",
+    "homes",
+    "engineering failure"
+  ],
+  "hook": "The roofs peeled off",
+  "soru": "Code without inspection?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "Hurricane Andrew",
+    "kisa": "Hurricane Andrew",
+    "nesne": "Homes",
+    "yil": 1992,
+    "sonuc": "destroyed tens of thousands of homes in south Florida",
+    "tetik": "extreme winds on houses with weak roof connections",
+    "mekanizma": "roof uplift and failure where construction and code enforcement fell short",
+    "sayi": "ROOFS FAILED",
+    "ders": "Florida created a statewide building code with stronger wind rules",
+    "zincir": [
+      "EXTREME WINDS",
+      "ROOF DECKING POORLY NAILED",
+      "ROOFS PEEL OFF",
+      "WINDOWS BREAK, PRESSURE INSIDE",
+      "HOMES DESTROYED"
+    ],
+    "zaman": [],
+    "yanilgi": "Winds alone didn't explain the damage. Poor construction and weak inspections made it far worse.",
+    "tartisma": "Codes existed but weren't always enforced. Is a code without inspection a code at all?",
+    "basliklar": [
+      "The Hurricane That Exposed Poorly Built Homes",
+      "Why Hurricane Andrew Destroyed So Many Homes",
+      "The Weak Roofs Hurricane Andrew Exposed"
+    ],
+    "kapak": [
+      "ROOFS FAILED",
+      "WEAK CODES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hurricane Andrew",
+        "url": "https://en.wikipedia.org/wiki/Hurricane_Andrew"
+      },
+      {
+        "ad": "NOAA — nws nhc 6 (cited by Wikipedia)",
+        "url": "http://www.nhc.noaa.gov/pdf/nws-nhc-6.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "Hurricane_Andrew",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Destruction following hurricane andrew.jpg [Public domain]",
+      "FEMA - 2378 - Photograph by Bob Epstein taken on 08-24-1992 in Florida.jpg [Public domain]",
+      "FEMA - 2399 - Photograph by Bob Epstein taken on 08-24-1992 in Florida.jpg [Public domain]",
+      "Hurricane andrew fema 2563.jpg [Public domain]",
+      "2550.jpg [Public domain]",
+      "307th Fighter Squadron F-16s Homestead Hurricane Andrew.jpg [Public domain]",
+      "31st-fw-hurricane-andrew-1992.jpg [Public domain]"
+    ]
+  }
+}

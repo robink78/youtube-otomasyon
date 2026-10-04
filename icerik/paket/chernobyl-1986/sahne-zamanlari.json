@@ -1,0 +1,74 @@
+[
+  {
+    "sahne": 0,
+    "bas": 0,
+    "son": 2.933333333333333,
+    "rol": "hook",
+    "tempo": "fast",
+    "cekim": 2,
+    "hareket": "punch"
+  },
+  {
+    "sahne": 1,
+    "bas": 2.933333333333333,
+    "son": 7.333333333333333,
+    "rol": "countdown",
+    "tempo": "fast",
+    "cekim": 2,
+    "hareket": "punch"
+  },
+  {
+    "sahne": 2,
+    "bas": 7.333333333333333,
+    "son": 9.9,
+    "rol": "context",
+    "tempo": "medium",
+    "cekim": 1,
+    "hareket": "push"
+  },
+  {
+    "sahne": 3,
+    "bas": 9.9,
+    "son": 12.133333333333333,
+    "rol": "context",
+    "tempo": "medium",
+    "cekim": 1,
+    "hareket": "push"
+  },
+  {
+    "sahne": 4,
+    "bas": 12.133333333333333,
+    "son": 14.7,
+    "rol": "context",
+    "tempo": "medium",
+    "cekim": 1,
+    "hareket": "push"
+  },
+  {
+    "sahne": 5,
+    "bas": 14.7,
+    "son": 18.733333333333334,
+    "rol": "technical",
+    "tempo": "slow",
+    "cekim": 1,
+    "hareket": "drift"
+  },
+  {
+    "sahne": 6,
+    "bas": 18.733333333333334,
+    "son": 21.666666666666668,
+    "rol": "context",
+    "tempo": "medium",
+    "cekim": 1,
+    "hareket": "push"
+  },
+  {
+    "sahne": 7,
+    "bas": 21.666666666666668,
+    "son": 25.7,
+    "rol": "lesson",
+    "tempo": "slow",
+    "cekim": 1,
+    "hareket": "drift"
+  }
+]

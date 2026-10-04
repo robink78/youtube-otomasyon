@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Hurricane Waves Lifted a Bridge Off Its Piers",
+  "kaynaklar": [
+    {
+      "ad": "i-10-twin-span-1.jpg",
+      "wikimedia": "FEMA - 16081 - Photograph by Win Henderson taken on 09-20-2005 in Louisiana.jpg"
+    },
+    {
+      "ad": "i-10-twin-span-2.jpg",
+      "wikimedia": "FEMA - 16084 - Photograph by Win Henderson taken on 09-20-2005 in Louisiana.jpg"
+    },
+    {
+      "ad": "i-10-twin-span-3.jpg",
+      "wikimedia": "FEMA - 17204 - Photograph by Robert Kaufmann taken on 10-15-2005 in Louisiana.jpg"
+    },
+    {
+      "ad": "i-10-twin-span-4.jpg",
+      "wikimedia": "FEMA - 24798 - Photograph by Andrea Booher taken on 09-19-2005 in Louisiana.jpg"
+    },
+    {
+      "ad": "i-10-twin-span-5.jpg",
+      "wikimedia": "FEMA - 24800 - Photograph by Andrea Booher taken on 09-19-2005 in Louisiana.jpg"
+    },
+    {
+      "ad": "i-10-twin-span-6.jpg",
+      "wikimedia": "Newtwinspan.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Hurricane Katrina knocked dozens of spans off a bridge near New Orleans.",
+      "kaynak": "Footage/i-10-twin-span-1.jpg"
+    },
+    {
+      "metin": "Within hours, the interstate link across Lake Pontchartrain was cut.",
+      "kaynak": "Footage/i-10-twin-span-2.jpg"
+    },
+    {
+      "metin": "Storm surge raised the water up to the bridge deck.",
+      "kaynak": "Footage/i-10-twin-span-3.jpg"
+    },
+    {
+      "metin": "Waves pushed up from beneath.",
+      "kaynak": "Footage/i-10-twin-span-4.jpg"
+    },
+    {
+      "metin": "The spans were held mostly by their own weight.",
+      "kaynak": "Footage/i-10-twin-span-5.jpg"
+    },
+    {
+      "metin": "They were lifted and dropped off their piers.",
+      "kaynak": "Footage/i-10-twin-span-6.jpg"
+    },
+    {
+      "metin": "Air trapped under the deck added buoyancy.",
+      "kaynak": "Footage/i-10-twin-span-1.jpg"
+    },
+    {
+      "metin": "The replacement bridge was built much higher.",
+      "kaynak": "Footage/i-10-twin-span-2.jpg"
+    }
+  ],
+  "aciklama": "I-10 Twin Span had dozens of spans knocked off their piers. The cause: surge raising water to the deck while waves lifted spans that were not anchored against uplift.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "I-10 Twin Span",
+    "2005",
+    "bridge spans",
+    "engineering failure"
+  ],
+  "hook": "The water lifted it",
+  "soru": "Anchor against uplift?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the I-10 Twin Span Bridge",
+    "kisa": "I-10 Twin Span",
+    "nesne": "Bridge spans",
+    "yil": 2005,
+    "sonuc": "had dozens of spans knocked off their piers",
+    "tetik": "storm surge and waves from Hurricane Katrina",
+    "mekanizma": "surge raising water to the deck while waves lifted spans that were not anchored against uplift",
+    "sayi": "SPANS LIFTED",
+    "ders": "the replacement bridge was built higher above the water",
+    "zincir": [
+      "LOW BRIDGE OVER LAKE",
+      "SURGE RAISES WATER TO DECK",
+      "WAVES PUSH UP",
+      "SPANS FLOAT OFF PIERS",
+      "BRIDGE CUT"
+    ],
+    "zaman": [],
+    "yanilgi": "The bridge wasn't pushed sideways by wind. Water lifted the spans off their supports.",
+    "tartisma": "The spans were held mainly by their own weight. Should bridges near coasts be anchored against uplift?",
+    "basliklar": [
+      "Hurricane Waves Lifted a Bridge Off Its Piers",
+      "How Hurricane Katrina Lifted the I-10 Twin Span",
+      "The Bridge Spans That Floated Away"
+    ],
+    "kapak": [
+      "LIFTED OFF",
+      "KATRINA"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — I-10 Twin Span Bridge",
+        "url": "https://en.wikipedia.org/wiki/I-10_Twin_Span_Bridge"
+      },
+      {
+        "ad": "Government source — ViewDocument.aspx?d=880013 (cited by Wikipedia)",
+        "url": "http://www.legis.la.gov/legis/ViewDocument.aspx?d=880013"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15",
+    "wiki": "I-10_Twin_Span_Bridge",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "FEMA - 16081 - Photograph by Win Henderson taken on 09-20-2005 in Louisiana.jpg [Public domain]",
+      "FEMA - 16084 - Photograph by Win Henderson taken on 09-20-2005 in Louisiana.jpg [Public domain]",
+      "FEMA - 17204 - Photograph by Robert Kaufmann taken on 10-15-2005 in Louisiana.jpg [Public domain]",
+      "FEMA - 24798 - Photograph by Andrea Booher taken on 09-19-2005 in Louisiana.jpg [Public domain]",
+      "FEMA - 24800 - Photograph by Andrea Booher taken on 09-19-2005 in Louisiana.jpg [Public domain]",
+      "Newtwinspan.JPG [Public domain]"
+    ]
+  }
+}

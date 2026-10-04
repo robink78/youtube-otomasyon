@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Ship That Burned at the Dock in Toronto",
+  "kaynaklar": [
+    {
+      "ad": "ss-noronic-1.jpg",
+      "wikimedia": "Noronic burns.jpg"
+    },
+    {
+      "ad": "ss-noronic-2.jpg",
+      "wikimedia": "Wreck of the SS Noronic -a.jpg"
+    },
+    {
+      "ad": "ss-noronic-3.jpg",
+      "wikimedia": "Wreck of the SS Noronic -b.jpg"
+    },
+    {
+      "ad": "ss-noronic-4.jpg",
+      "wikimedia": "SS Noronic memorial at Mount Pleasant Cemetery, Toronto.jpg"
+    },
+    {
+      "ad": "ss-noronic-5.jpg",
+      "wikimedia": "RPPC Noronic.jpg"
+    },
+    {
+      "ad": "ss-noronic-6.jpg",
+      "wikimedia": "SS Noronic .jpg"
+    },
+    {
+      "ad": "ss-noronic-7.jpg",
+      "wikimedia": "SS Noronic at Prescott, ON around 1939.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At night, a passenger ship caught fire while docked in Toronto Harbour.",
+      "kaynak": "Footage/ss-noronic-1.jpg"
+    },
+    {
+      "metin": "It spread in minutes, and at least one hundred eighteen people died.",
+      "kaynak": "Footage/ss-noronic-2.jpg"
+    },
+    {
+      "metin": "Smoke came from a locked linen closet.",
+      "kaynak": "Footage/ss-noronic-3.jpg"
+    },
+    {
+      "metin": "A bellboy ran for the keys without sounding the alarm.",
+      "kaynak": "Footage/ss-noronic-4.jpg"
+    },
+    {
+      "metin": "When the closet was opened, fire burst into the hallway.",
+      "kaynak": "Footage/ss-noronic-5.jpg"
+    },
+    {
+      "metin": "Polished wood paneling fed the flames.",
+      "kaynak": "Footage/ss-noronic-6.jpg"
+    },
+    {
+      "metin": "Most passengers were American tourists.",
+      "kaynak": "Footage/ss-noronic-7.jpg"
+    },
+    {
+      "metin": "Fire rules for passenger ships were tightened.",
+      "kaynak": "Footage/ss-noronic-1.jpg"
+    }
+  ],
+  "aciklama": "Noronic burned at its pier in Toronto Harbour. The cause: a delayed alarm and polished wood paneling letting fire spread through the ship.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Noronic",
+    "1949",
+    "linen closet",
+    "engineering failure"
+  ],
+  "hook": "It burned at the dock",
+  "soru": "Keys, or the alarm?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the SS Noronic",
+    "kisa": "Noronic",
+    "nesne": "Linen closet",
+    "yil": 1949,
+    "sonuc": "burned at its pier in Toronto Harbour",
+    "tetik": "a fire in a locked linen closet",
+    "mekanizma": "a delayed alarm and polished wood paneling letting fire spread through the ship",
+    "sayi": "118+ DIED",
+    "ders": "Canada and the US tightened fire safety rules for passenger ships",
+    "zincir": [
+      "SMOKE FROM LOCKED CLOSET",
+      "NO ALARM SOUNDED",
+      "CLOSET OPENED",
+      "FIRE EXPLODES OUT",
+      "POLISHED PANELS BURN"
+    ],
+    "zaman": [],
+    "yanilgi": "The ship was docked, yet at least 118 people died. The fire spread faster than they could escape.",
+    "tartisma": "A crew member went for keys instead of the alarm. How should crews be trained for fire?",
+    "basliklar": [
+      "The Ship That Burned at the Dock in Toronto",
+      "Why the SS Noronic Fire Was So Deadly",
+      "The Closet Fire That Burned a Ship"
+    ],
+    "kapak": [
+      "AT THE DOCK",
+      "NO ALARM"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SS Noronic",
+        "url": "https://en.wikipedia.org/wiki/SS_Noronic"
+      },
+      {
+        "ad": "Government source — shipwrecks (cited by Wikipedia)",
+        "url": "http://www.collectionscanada.gc.ca/sos/shipwrecks/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-19",
+    "wiki": "SS_Noronic",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Noronic burns.jpg [CC BY 2.0]",
+      "Wreck of the SS Noronic -a.jpg [Public domain]",
+      "Wreck of the SS Noronic -b.jpg [Public domain]",
+      "SS Noronic memorial at Mount Pleasant Cemetery, Toronto.jpg [CC BY 4.0]",
+      "RPPC Noronic.jpg [Public domain]",
+      "SS Noronic .jpg [Public domain]",
+      "SS Noronic at Prescott, ON around 1939.jpg [Public domain]"
+    ]
+  }
+}

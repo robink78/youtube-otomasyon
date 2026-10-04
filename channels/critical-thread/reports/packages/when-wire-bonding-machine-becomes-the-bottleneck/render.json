@@ -1,0 +1,37 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/critical-thread/state/production/when-wire-bonding-machine-becomes-the-bottleneck/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "claimDurations": [
+      1.92,
+      4.008,
+      8.208,
+      9.456,
+      7.248
+    ],
+    "durationSeconds": 30.72,
+    "width": null,
+    "height": null,
+    "hasAudio": true
+  },
+  "video": {
+    "file": "channels/critical-thread/state/production/when-wire-bonding-machine-becomes-the-bottleneck/when-wire-bonding-machine-becomes-the-bottleneck.mp4",
+    "captionsBurned": true,
+    "visualChanges": 9,
+    "illustrationLabel": true,
+    "scenarioSpecific": true,
+    "durationSeconds": 30.75,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/critical-thread/state/production/when-wire-bonding-machine-becomes-the-bottleneck/thumbnail.jpg",
+    "bytes": 67300,
+    "scenarioSpecific": true,
+    "textWords": 2
+  }
+}

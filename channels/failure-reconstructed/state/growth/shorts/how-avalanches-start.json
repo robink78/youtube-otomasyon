@@ -1,0 +1,1900 @@
+{
+  "schema": "growth-short-plan/1",
+  "channel": "failure-reconstructed",
+  "channelName": "Failure Reconstructed",
+  "contentType": "short",
+  "createdAt": "2026-10-02T19:23:04.288Z",
+  "topic": {
+    "id": "how-avalanches-start",
+    "slug": "how-avalanches-start",
+    "title": "How a Single Step Triggers an Avalanche",
+    "cluster": "natural-hazards",
+    "subject": "Avalanches"
+  },
+  "topicScore": {
+    "channel": "failure-reconstructed",
+    "topicId": "how-avalanches-start",
+    "slug": "how-avalanches-start",
+    "title": "How a Single Step Triggers an Avalanche",
+    "cluster": "natural-hazards",
+    "VideoPotentialScore": 74,
+    "ViralPotentialScore": 59,
+    "SelectionScore": 65,
+    "bucket": "C",
+    "reasons": [
+      "VideoPotential 74 in experimental band 55–67",
+      "sources 41 < 60",
+      "single-source: every claim rests on 1 source — add an authoritative second source to qualify for A/B"
+    ],
+    "enrichable": false,
+    "factors": {
+      "TopicDemandScore": {
+        "value": 55,
+        "basis": "derived",
+        "note": "no demand signal; evergreen proxy"
+      },
+      "CuriosityScore": {
+        "value": 98,
+        "basis": "derived"
+      },
+      "HookPotentialScore": {
+        "value": 82,
+        "basis": "derived",
+        "note": "16 candidates / 10 families"
+      },
+      "VisualImpactScore": {
+        "value": 64,
+        "basis": "derived"
+      },
+      "EmotionalImpactScore": {
+        "value": 73,
+        "basis": "derived"
+      },
+      "StoryCompressionScore": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "RewatchPotentialScore": {
+        "value": 71,
+        "basis": "derived"
+      },
+      "SharePotentialScore": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "CommentPotentialScore": {
+        "value": 83,
+        "basis": "derived"
+      },
+      "SubscriberConversionPotential": {
+        "value": 78,
+        "basis": "derived+learned",
+        "note": "series depth: 48 topics in natural-hazards"
+      },
+      "NoveltyScore": {
+        "value": 20,
+        "basis": "derived",
+        "note": "max title similarity 1.00"
+      },
+      "AudienceFitScore": {
+        "value": 70,
+        "basis": "derived"
+      },
+      "SourceQualityScore": {
+        "value": 41,
+        "basis": "derived",
+        "note": "no primary/authoritative source; only tertiary or unclassified sources"
+      },
+      "ChannelFitScore": {
+        "value": 88,
+        "basis": "derived"
+      }
+    },
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 98,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 86,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 55,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 50,
+        "basis": "inventory-signal"
+      },
+      "surprise": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 64,
+        "basis": "derived"
+      },
+      "archival_footage_potential": {
+        "value": 45,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 92,
+        "basis": "derived",
+        "note": "4 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 73,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 82,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 74,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 59,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "learned",
+        "note": "3 same-cluster upload(s), breakout rate 0"
+      },
+      "duplicate_risk": {
+        "value": -100,
+        "basis": "penalty",
+        "note": "published-title similarity 1.00"
+      },
+      "saturation_risk": {
+        "value": -19,
+        "basis": "penalty",
+        "note": "3 published / 48 inventory in cluster"
+      },
+      "source_confidence_risk": {
+        "value": -59,
+        "basis": "penalty",
+        "note": "no primary/authoritative source; only tertiary or unclassified sources"
+      },
+      "weak_footage_risk": {
+        "value": -45,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "viralWeights": {
+      "curiosity_gap": 1.1,
+      "immediate_stakes": 1.1,
+      "human_consequence": 0.9,
+      "recognizability": 0.9,
+      "surprise": 0.9,
+      "visual_potential": 1,
+      "archival_footage_potential": 0.8,
+      "first_frame_potential": 1,
+      "title_potential": 0.8,
+      "emotional_tension": 0.9,
+      "contradiction": 0.7,
+      "unexpected_cause": 0.9,
+      "numerical_anomaly": 0.6,
+      "didnt_know_factor": 0.8,
+      "shareability": 0.9,
+      "channel_fit": 1,
+      "historical_similarity": 1,
+      "duplicate_risk": 1.2,
+      "saturation_risk": 0.6,
+      "source_confidence_risk": 1.2,
+      "weak_footage_risk": 0.8
+    },
+    "viralCalculation": {
+      "positive": 74.2,
+      "penalty": 15.7,
+      "penaltyScale": 0.25
+    },
+    "weights": {
+      "TopicDemandScore": 0.8,
+      "CuriosityScore": 1,
+      "HookPotentialScore": 1.3,
+      "VisualImpactScore": 1.3,
+      "EmotionalImpactScore": 1.2,
+      "StoryCompressionScore": 1.3,
+      "RewatchPotentialScore": 0.7,
+      "SharePotentialScore": 0.8,
+      "CommentPotentialScore": 0.7,
+      "SubscriberConversionPotential": 0.8,
+      "NoveltyScore": 0.8,
+      "AudienceFitScore": 0.9,
+      "SourceQualityScore": 1.1,
+      "ChannelFitScore": 1
+    },
+    "boilerplate": {
+      "ratio": 0,
+      "templatedFields": [],
+      "checkedFields": 6
+    },
+    "specificEvidence": 24,
+    "sourceQuality": {
+      "score": 41,
+      "tiers": [
+        {
+          "name": "Wikipedia — Avalanche",
+          "url": "https://en.wikipedia.org/wiki/Avalanche",
+          "tier": "ENCYCLOPEDIA",
+          "score": 55
+        }
+      ],
+      "primaryCount": 0,
+      "notes": [
+        "no primary/authoritative source",
+        "only tertiary or unclassified sources"
+      ]
+    },
+    "selectedHook": {
+      "family": "mechanism_reveal",
+      "spoken": "Avalanches failed because weak-layer collapse under a snow slab.",
+      "score": 82
+    }
+  },
+  "topicDecision": null,
+  "hooks": {
+    "selected": {
+      "family": "mechanism_reveal",
+      "spoken": "Avalanches failed because weak-layer collapse under a snow slab.",
+      "onScreen": "ONE STEP",
+      "fields": [
+        "mechanism",
+        "subject"
+      ],
+      "editorial": false,
+      "words": 9,
+      "estimatedSeconds": 2.8,
+      "scores": {
+        "SwipeStoppingPower": 95,
+        "CuriosityGap": 35,
+        "Clarity": 100,
+        "Specificity": 71,
+        "EmotionalIntensity": 66,
+        "Credibility": 100,
+        "VisualCompatibility": 76,
+        "ChannelFit": 70,
+        "ImmediateComprehension": 100,
+        "RetentionExpectation": 62,
+        "VoiceoverNaturalness": 100,
+        "FirstFrameCompatibility": 76,
+        "FactualDefensibility": 100,
+        "ShortFormSuitability": 97
+      },
+      "total": 82,
+      "blocked": false,
+      "blockers": [],
+      "generic": false,
+      "adjustedTotal": 82
+    },
+    "selectedScore": 82,
+    "passes": true,
+    "candidateCount": 16,
+    "familyCount": 10,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "family": "mechanism_reveal",
+        "spoken": "Avalanches failed because weak-layer collapse under a snow slab.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "mechanism",
+          "subject"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 95,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 71,
+          "EmotionalIntensity": 66,
+          "Credibility": 100,
+          "VisualCompatibility": 76,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 62,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 76,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 82,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 82
+      },
+      {
+        "family": "countdown",
+        "spoken": "It explodes downhill at eighty miles an hour.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 85,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 38,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 84,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 58,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 84,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 77,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 77
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The real cause was weak-layer collapse under a snow slab.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "mechanism"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 53,
+          "CuriosityGap": 59,
+          "Clarity": 95,
+          "Specificity": 38,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 85,
+          "RetentionExpectation": 56,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 74,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 74
+      },
+      {
+        "family": "shocking_consequence",
+        "spoken": "Avalanches start.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "consequence"
+        ],
+        "editorial": false,
+        "words": 2,
+        "estimatedSeconds": 0.6,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 35,
+          "Clarity": 90,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 89,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 96,
+          "RetentionExpectation": 49,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 89,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 60
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72
+      },
+      {
+        "family": "contradiction",
+        "spoken": "The slope was not the problem.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 6,
+        "estimatedSeconds": 1.9,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 59,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 70,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 57,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 70,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The danger was hidden underneath.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 5,
+        "estimatedSeconds": 1.6,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 59,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 57,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Snow falls in layers all winter long.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Between them sits a weak, sugary layer of crystals.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "One extra load snaps that bond and the slab slides.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 45,
+          "Clarity": 95,
+          "Specificity": 38,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 85,
+          "RetentionExpectation": 51,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Slopes near thirty eight degrees are the most dangerous.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72
+      },
+      {
+        "family": "visual_first_reveal",
+        "spoken": "A single skier can bring down thousands of tons of snow.",
+        "onScreen": "ONE STEP, A MOVING MOUNTAIN",
+        "fields": [
+          "openingLine"
+        ],
+        "editorial": true,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 35,
+          "Clarity": 90,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 96,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 41,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 96,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 69,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 69
+      },
+      {
+        "family": "unexpected_chain_reaction",
+        "spoken": "It started with weak layer buried. It ended with slab releases.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "chain"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 46,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 80,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 69,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 69
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "It holds the slab above like a house of cards.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 45,
+          "Clarity": 95,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 85,
+          "RetentionExpectation": 46,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 69,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 69
+      },
+      {
+        "family": "human_consequence",
+        "spoken": "In most avalanche deaths the victims triggered the slide themselves.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 35,
+          "Clarity": 95,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 86,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 85,
+          "RetentionExpectation": 41,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 86,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 69,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 69
+      },
+      {
+        "family": "question_gap",
+        "spoken": "Avalanches: what fails first?",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "subject"
+        ],
+        "editorial": false,
+        "words": 4,
+        "estimatedSeconds": 1.3,
+        "scores": {
+          "SwipeStoppingPower": 95,
+          "CuriosityGap": 63,
+          "Clarity": 100,
+          "Specificity": 43,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 59,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 77,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 59,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68
+      },
+      {
+        "family": "scarcity_bottleneck",
+        "spoken": "a single skier.",
+        "onScreen": "ONE STEP",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 3,
+        "estimatedSeconds": 0.9,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 70,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 44,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 70,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 60
+        },
+        "total": 66,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 66
+      }
+    ]
+  },
+  "first3Seconds": {
+    "First3SecondPlan": {
+      "narration": "Avalanches failed because weak-layer collapse under a snow slab.",
+      "firstFrame": {
+        "description": "Evidence frame for: \"A single skier can bring down thousands of tons of snow.\"",
+        "source": null,
+        "startAtSeconds": null,
+        "sourceClass": "LICENSED_STOCK",
+        "communicates": "consequence",
+        "rule": "opens on the most striking evidence moment, never the reel's leader"
+      },
+      "visual": "Evidence frame for: \"A single skier can bring down thousands of tons of snow.\"",
+      "onScreenText": "ONE STEP",
+      "motion": "slow push-in 100→112% on the still, hard cut at the first beat",
+      "cutTiming": [
+        0,
+        1.4,
+        2.8
+      ],
+      "soundCue": "low impact hit under the first cut",
+      "communicates": "consequence"
+    },
+    "score": 89,
+    "passes": true,
+    "blockers": [],
+    "notes": []
+  },
+  "script": {
+    "format": "short",
+    "generator": "editorial case file + selected hook",
+    "spoken": "Avalanches failed because weak-layer collapse under a snow slab. It explodes downhill at eighty miles an hour. The slope was not the problem. The danger was hidden underneath. Snow falls in layers all winter long. Between them sits a weak, sugary layer of crystals. It holds the slab above like a house of cards. One extra load snaps that bond and the slab slides. Slopes near thirty eight degrees are the most dangerous.",
+    "lines": [
+      "Avalanches failed because weak-layer collapse under a snow slab.",
+      "It explodes downhill at eighty miles an hour.",
+      "The slope was not the problem. The danger was hidden underneath.",
+      "Snow falls in layers all winter long.",
+      "Between them sits a weak, sugary layer of crystals.",
+      "It holds the slab above like a house of cards.",
+      "One extra load snaps that bond and the slab slides.",
+      "Slopes near thirty eight degrees are the most dangerous."
+    ],
+    "originalLines": [
+      "A single skier can bring down thousands of tons of snow.",
+      "It explodes downhill at eighty miles an hour.",
+      "The slope was not the problem. The danger was hidden underneath.",
+      "Snow falls in layers all winter long.",
+      "Between them sits a weak, sugary layer of crystals.",
+      "It holds the slab above like a house of cards.",
+      "One extra load snaps that bond and the slab slides.",
+      "Slopes near thirty eight degrees are the most dangerous."
+    ],
+    "openingRewrite": {
+      "lines": [
+        "Avalanches failed because weak-layer collapse under a snow slab.",
+        "It explodes downhill at eighty miles an hour.",
+        "The slope was not the problem. The danger was hidden underneath.",
+        "Snow falls in layers all winter long.",
+        "Between them sits a weak, sugary layer of crystals.",
+        "It holds the slab above like a house of cards.",
+        "One extra load snaps that bond and the slab slides.",
+        "Slopes near thirty eight degrees are the most dangerous."
+      ],
+      "changed": true,
+      "original": "A single skier can bring down thousands of tons of snow.",
+      "selected": "Avalanches failed because weak-layer collapse under a snow slab.",
+      "source": "fact-checked hook candidate"
+    },
+    "structure": [
+      "CONSEQUENCE",
+      "FAILURE",
+      "FAILURE",
+      "ESCALATION",
+      "ESCALATION",
+      "ESCALATION",
+      "CAUSE",
+      "ENGINEERING_REVEAL"
+    ],
+    "retention": {
+      "score": 85,
+      "words": 73,
+      "estimatedSeconds": 26.1,
+      "components": {
+        "hookDelay": 95,
+        "setupDelay": 85,
+        "sentenceLength": 100,
+        "informationDensity": 91,
+        "repetition": 100,
+        "deadSections": 100,
+        "escalation": 45,
+        "unansweredQuestions": 60,
+        "earlyPayoff": 90,
+        "visualOpportunities": 100,
+        "clarity": 100,
+        "duration": 95,
+        "endingStrength": 45
+      },
+      "duplicatePairs": [],
+      "findings": [
+        "no curiosity bridge after the opening",
+        "final line has no payoff / consequence / lesson"
+      ],
+      "blockers": [],
+      "roles": [
+        "CONSEQUENCE",
+        "FAILURE",
+        "FAILURE",
+        "ESCALATION",
+        "ESCALATION",
+        "ESCALATION",
+        "CAUSE",
+        "ENGINEERING_REVEAL"
+      ],
+      "rejectionReason": null,
+      "rewriteSuggested": false,
+      "passes": true
+    },
+    "estimatedSeconds": 26.1
+  },
+  "titles": {
+    "selected": {
+      "title": "How Avalanches Really Failed",
+      "source": "how-really",
+      "pattern": "how",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 71,
+        "truthfulness": 100,
+        "searchIntent": 95,
+        "channelIdentity": 62,
+        "ctrPotential": 75,
+        "novelty": 87,
+        "evergreenPotential": 85,
+        "consequence": 95,
+        "compactness": 100,
+        "recognizability": 80,
+        "nonRedundancy": 87,
+        "factualIntegrity": 100,
+        "historicalPerformanceSimilarity": 50
+      },
+      "total": 84,
+      "adjustedTotal": 84,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 84,
+    "count": 24,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "title": "How Avalanches Really Failed",
+        "source": "how-really",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 71,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 75,
+          "novelty": 87,
+          "evergreenPotential": 85,
+          "consequence": 95,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 87,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 84,
+        "adjustedTotal": 84,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Avalanches: What Failed First",
+        "source": "failed-first",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 71,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 87,
+          "novelty": 68,
+          "evergreenPotential": 85,
+          "consequence": 95,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 68,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Engineers Changed After Avalanches",
+        "source": "lesson",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 71,
+          "truthfulness": 100,
+          "searchIntent": 87,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 82,
+        "adjustedTotal": 82,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Flaw Inside Avalanches",
+        "source": "hidden-flaw",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 71,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 79,
+          "novelty": 84,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 84,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 82,
+        "adjustedTotal": 82,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Avalanches Start",
+        "source": "why",
+        "pattern": "why",
+        "scores": {
+          "clarity": 88,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 50,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Really Happened to Avalanches",
+        "source": "what-really",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 71,
+          "truthfulness": 100,
+          "searchIntent": 87,
+          "channelIdentity": 50,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Trigger Behind Avalanches",
+        "source": "trigger",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 50,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Inside Avalanches: The Failure Chain",
+        "source": "inside-chain",
+        "pattern": "inside",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 71,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 75,
+          "novelty": 66,
+          "evergreenPotential": 85,
+          "consequence": 95,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 66,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Avalanches: Cause, Chain, Consequence",
+        "source": "cause-chain-consequence",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 71,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 91,
+          "evergreenPotential": 85,
+          "consequence": 95,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 91,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Avalanches: The Failure Reconstructed",
+        "source": "brand",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 71,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 63,
+          "novelty": 90,
+          "evergreenPotential": 85,
+          "consequence": 95,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 90,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Avalanches: The Engineering Behind the Disaster",
+        "source": "engineering-behind",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 89,
+          "evergreenPotential": 85,
+          "consequence": 95,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 89,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [
+          "disaster"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "How a Single Skier Brought Down Avalanches",
+        "source": "how-trigger",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 87,
+          "channelIdentity": 50,
+          "ctrPotential": 67,
+          "novelty": 89,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 89,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 77,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "brought"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "38°: The Detail That Doomed Avalanches",
+        "source": "number-led",
+        "pattern": "number-led",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 70,
+          "searchIntent": 75,
+          "channelIdentity": 50,
+          "ctrPotential": 73,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 95,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 77,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "detail",
+          "doomed"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The First Crack in Avalanches",
+        "source": "first-crack",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 87,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 87,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 77,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "crack"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why 38 Degrees Is the Most Dangerous Slope",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 62,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 60,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 75,
+        "adjustedTotal": 75,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Avalanches Explained in One Chain Reaction",
+        "source": "one-chain",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 91,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 91,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 75,
+        "adjustedTotal": 75,
+        "unsupportedWords": [
+          "reaction"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Seconds That Decided Avalanches",
+        "source": "seconds",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 50,
+          "ctrPotential": 55,
+          "novelty": 90,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 90,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 74,
+        "adjustedTotal": 74,
+        "unsupportedWords": [
+          "decided"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "How One Step Releases a Whole Mountainside",
+        "source": "editorial",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 60,
+          "ctrPotential": 57,
+          "novelty": 89,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 89,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 72,
+        "adjustedTotal": 72,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Layer That Makes Snow Slide",
+        "source": "editorial",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 60,
+          "ctrPotential": 57,
+          "novelty": 93,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 93,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 71,
+        "adjustedTotal": 71,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Slope That Start",
+        "source": "the-x-that",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 88,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 69,
+        "adjustedTotal": 69,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How a Single Step Triggers an Avalanche",
+        "source": "current",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 57,
+          "novelty": 20,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 20,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 63,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Avalanches: 5 Failures in Sequence",
+        "source": "failure-count",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 45,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 73,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 95,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 45,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 73,
+        "adjustedTotal": 73,
+        "unsupportedWords": [
+          "failures"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "What Everyone Gets Wrong About Avalanches",
+        "source": "misconception",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 87,
+          "channelIdentity": 50,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 72,
+        "adjustedTotal": 72,
+        "unsupportedWords": [
+          "everyone",
+          "gets",
+          "wrong"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "Why Nobody Saw Avalanches Coming",
+        "source": "nobody-saw",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 25,
+          "searchIntent": 95,
+          "channelIdentity": 50,
+          "ctrPotential": 79,
+          "novelty": 91,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 91,
+          "factualIntegrity": 25,
+          "historicalPerformanceSimilarity": 50
+        },
+        "total": 68,
+        "adjustedTotal": 68,
+        "unsupportedWords": [
+          "nobody",
+          "saw",
+          "coming"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "cta": {
+    "type": "NONE",
+    "reason": "deterministic roll 0.97 ≥ ctaProbability 0.35"
+  },
+  "loop": {
+    "LoopPotentialScore": 40,
+    "apply": false,
+    "plan": {
+      "reason": "loop would not improve story satisfaction; ending stays a clean payoff"
+    }
+  },
+  "integrity": {
+    "score": 60,
+    "scenes": [
+      {
+        "scene": 1,
+        "text": "A single skier can bring down thousands of tons of snow.",
+        "sourceClass": "LICENSED_STOCK",
+        "label": "n/a"
+      },
+      {
+        "scene": 2,
+        "text": "It explodes downhill at eighty miles an hour.",
+        "sourceClass": "LICENSED_STOCK",
+        "label": "n/a"
+      },
+      {
+        "scene": 3,
+        "text": "The slope was not the problem. The danger was hidden underneath.",
+        "sourceClass": "LICENSED_STOCK",
+        "label": "n/a"
+      },
+      {
+        "scene": 4,
+        "text": "Snow falls in layers all winter long.",
+        "sourceClass": "LICENSED_STOCK",
+        "label": "n/a"
+      },
+      {
+        "scene": 5,
+        "text": "Between them sits a weak, sugary layer of crystals.",
+        "sourceClass": "LICENSED_STOCK",
+        "label": "n/a"
+      },
+      {
+        "scene": 6,
+        "text": "It holds the slab above like a house of cards.",
+        "sourceClass": "LICENSED_STOCK",
+        "label": "n/a"
+      },
+      {
+        "scene": 7,
+        "text": "One extra load snaps that bond and the slab slides.",
+        "sourceClass": "LICENSED_STOCK",
+        "label": "n/a"
+      },
+      {
+        "scene": 8,
+        "text": "Slopes near thirty eight degrees are the most dangerous.",
+        "sourceClass": "LICENSED_STOCK",
+        "label": "n/a"
+      }
+    ],
+    "classes": [
+      "LICENSED_STOCK"
+    ],
+    "hardFails": [],
+    "notes": [
+      "licensed stock: colour-graded, never presented as archival film"
+    ]
+  },
+  "factual": {
+    "score": 100,
+    "hardFails": [],
+    "notes": [],
+    "claimClasses": {
+      "CONFIRMED_FACT": 18,
+      "INTERPRETATION": 1
+    },
+    "unsupportedNumbers": []
+  },
+  "pacing": {
+    "plannedSegments": [
+      1.319,
+      0.901,
+      1.348,
+      1.932,
+      1.784,
+      2.387,
+      1.646,
+      3.201,
+      3.225,
+      2.641,
+      3.478,
+      2.238
+    ],
+    "segments": 12,
+    "cutsInFirst3Seconds": 3,
+    "averageSeconds": 2.18,
+    "longestSeconds": 3.478,
+    "mechanical": false
+  },
+  "captions": {
+    "events": 24,
+    "maxWords": 4,
+    "maxLines": 2,
+    "tooFast": 0,
+    "safeZoneMarginV": 560,
+    "passes": true
+  },
+  "relatedLong": null,
+  "experiment": null,
+  "readiness": {
+    "ProductionReadinessScore": 80,
+    "decision": "REVIEW",
+    "stage": "pre",
+    "dimensions": {
+      "topicPotential": 74,
+      "hook": 82,
+      "title": 84,
+      "script": 85,
+      "firstSeconds": 89,
+      "factual": 100,
+      "visualRelevance": 60,
+      "sources": 41,
+      "metadata": 100,
+      "visualQuality": null,
+      "audio": null,
+      "captions": null,
+      "duration": null,
+      "pacing": 92,
+      "render": null
+    },
+    "unmeasured": [
+      "visualQuality",
+      "audio",
+      "captions",
+      "duration",
+      "render"
+    ],
+    "hardFails": [],
+    "notes": [],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "growthMeta": {
+    "hookType": "mechanism_reveal",
+    "hookScore": 82,
+    "selectedHook": "Avalanches failed because weak-layer collapse under a snow slab.",
+    "firstLine": "Avalanches failed because weak-layer collapse under a snow slab.",
+    "firstSecondsScore": 89,
+    "topicCluster": "natural-hazards",
+    "bucket": "C",
+    "viralScore": 59,
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 98,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 86,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 55,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 50,
+        "basis": "inventory-signal"
+      },
+      "surprise": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 64,
+        "basis": "derived"
+      },
+      "archival_footage_potential": {
+        "value": 45,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 92,
+        "basis": "derived",
+        "note": "4 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 73,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 82,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 74,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 59,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "learned",
+        "note": "3 same-cluster upload(s), breakout rate 0"
+      },
+      "duplicate_risk": {
+        "value": -100,
+        "basis": "penalty",
+        "note": "published-title similarity 1.00"
+      },
+      "saturation_risk": {
+        "value": -19,
+        "basis": "penalty",
+        "note": "3 published / 48 inventory in cluster"
+      },
+      "source_confidence_risk": {
+        "value": -59,
+        "basis": "penalty",
+        "note": "no primary/authoritative source; only tertiary or unclassified sources"
+      },
+      "weak_footage_risk": {
+        "value": -45,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "storyStructure": "CONSEQUENCE>FAILURE>CAUSE>ESCALATION>ENGINEERING_REVEAL",
+    "titlePattern": "how",
+    "selectedTitle": "How Avalanches Really Failed",
+    "ctaStyle": "NONE",
+    "durationBucket": "26-35s",
+    "openingVisual": "LICENSED_STOCK",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 55,
+      "CuriosityScore": 98,
+      "HookPotentialScore": 82,
+      "VisualImpactScore": 64,
+      "EmotionalImpactScore": 73,
+      "StoryCompressionScore": 100,
+      "RewatchPotentialScore": 71,
+      "SharePotentialScore": 97,
+      "CommentPotentialScore": 83,
+      "SubscriberConversionPotential": 78,
+      "NoveltyScore": 20,
+      "AudienceFitScore": 70,
+      "SourceQualityScore": 41,
+      "ChannelFitScore": 88
+    },
+    "selectionMode": null
+  },
+  "summary": {
+    "Channel": "Failure Reconstructed",
+    "Content Type": "SHORT",
+    "Topic": "How a Single Step Triggers an Avalanche",
+    "Topic Score": 74,
+    "Topic Bucket": "C",
+    "Selected Hook": "Avalanches failed because weak-layer collapse under a snow slab.",
+    "Hook Type": "mechanism_reveal",
+    "Hook Score": 82,
+    "First-3-sec Score": 89,
+    "Duration": "~26.1s (estimated)",
+    "Scenes": 12,
+    "Production Score": "80 (pre) → REVIEW",
+    "Experiment": "none",
+    "Related Long Video": "none yet"
+  }
+}

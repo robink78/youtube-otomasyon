@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Iced Sensors and a Stall Nobody Recognized",
+  "kaynaklar": [
+    {
+      "ad": "air-france-447-1.jpg",
+      "wikimedia": "Airbus A330-203 AF447 Localização.jpg"
+    },
+    {
+      "ad": "air-france-447-2.jpg",
+      "wikimedia": "Henry Munhoz exibe fotografia.jpg"
+    },
+    {
+      "ad": "air-france-447-3.jpg",
+      "wikimedia": "Ramon Borges Cardoso.jpg"
+    },
+    {
+      "ad": "air-france-447-4.jpg",
+      "wikimedia": "Wreckage of F-GZCP.jpg"
+    },
+    {
+      "ad": "air-france-447-5.jpg",
+      "wikimedia": "Balanço dos dez dias de operações.jpg"
+    },
+    {
+      "ad": "air-france-447-6.jpg",
+      "wikimedia": "Coletiva de Impresa voo 447.jpg"
+    },
+    {
+      "ad": "air-france-447-7.jpg",
+      "wikimedia": "Henry Munhoz.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An airliner fell into the Atlantic Ocean.",
+      "kaynak": "Footage/air-france-447-1.jpg"
+    },
+    {
+      "metin": "It dropped for minutes in a deep stall, and all two hundred twenty eight aboard died.",
+      "kaynak": "Footage/air-france-447-2.jpg"
+    },
+    {
+      "metin": "It began with ice crystals.",
+      "kaynak": "Footage/air-france-447-3.jpg"
+    },
+    {
+      "metin": "They blocked the tubes that measure airspeed.",
+      "kaynak": "Footage/air-france-447-4.jpg"
+    },
+    {
+      "metin": "The autopilot disconnected, and the crew lost trusted speed data.",
+      "kaynak": "Footage/air-france-447-5.jpg"
+    },
+    {
+      "metin": "The nose was held up, and the wings stopped producing lift.",
+      "kaynak": "Footage/air-france-447-6.jpg"
+    },
+    {
+      "metin": "The stall was never recognized.",
+      "kaynak": "Footage/air-france-447-7.jpg"
+    },
+    {
+      "metin": "Now crews train for high-altitude stalls, and the sensors were replaced.",
+      "kaynak": "Footage/air-france-447-1.jpg"
+    }
+  ],
+  "aciklama": "Air France 447 fell into the Atlantic in a stall. The cause: pitot tube icing causing autopilot disconnect, followed by a sustained aerodynamic stall.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Air France 447",
+    "pitot tube",
+    "stall",
+    "Airbus A330",
+    "2009"
+  ],
+  "hook": "The plane was still flyable",
+  "soru": "Would you push the nose down?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Air France Flight 447",
+    "kisa": "Air France 447",
+    "nesne": "Airliner",
+    "yil": 2009,
+    "sonuc": "fell into the Atlantic in a stall",
+    "tetik": "ice crystals blocking the airspeed sensors",
+    "mekanizma": "pitot tube icing causing autopilot disconnect, followed by a sustained aerodynamic stall",
+    "sayi": "228 ABOARD",
+    "ders": "pitot probes were replaced and crews now train on high-altitude stall recovery",
+    "zincir": [
+      "ICE BLOCKS PITOT TUBES",
+      "AIRSPEED READINGS DROP",
+      "AUTOPILOT DISCONNECTS",
+      "NOSE HELD UP",
+      "STALL ALL THE WAY DOWN"
+    ],
+    "zaman": [
+      {
+        "t": "Jun 1, 2009",
+        "olay": "Pitot icing over the Atlantic; stall"
+      }
+    ],
+    "yanilgi": "The plane itself was flyable. The airspeed readings came back within about a minute, but the stall had already set in.",
+    "tartisma": "The stall warning went quiet at very low airspeed, then sounded again when the nose lowered. How should a warning behave when data is unreliable?",
+    "basliklar": [
+      "Iced Sensors and a Stall Nobody Recognized",
+      "Why Air France 447 Fell From the Sky",
+      "The Stall That Lasted Minutes"
+    ],
+    "kapak": [
+      "STALL",
+      "ICED SENSORS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Air France Flight 447",
+        "url": "https://en.wikipedia.org/wiki/Air_France_Flight_447"
+      },
+      {
+        "ad": "BEA (French air accident bureau) — organisation.of.investigation.af447.en (cited by Wikipedia)",
+        "url": "http://www.bea.aero/en/enquetes/flight.af.447/organisation.of.investigation.af447.en.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Air_France_Flight_447",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Airbus A330-203 AF447 Localização.jpg [CC BY 3.0 br]",
+      "Henry Munhoz exibe fotografia.jpg [CC BY 3.0 br]",
+      "Ramon Borges Cardoso.jpg [CC BY 3.0 br]",
+      "Wreckage of F-GZCP.jpg [Public domain]",
+      "Balanço dos dez dias de operações.jpg [CC BY 3.0 br]",
+      "Coletiva de Impresa voo 447.jpg [CC BY 3.0 br]",
+      "Henry Munhoz.jpg [CC BY 3.0 br]"
+    ]
+  }
+}

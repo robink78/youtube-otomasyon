@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Rocket That Shook Like a Pogo Stick",
+  "kaynaklar": [
+    {
+      "ad": "apollo-6-pogo-1.jpg",
+      "wikimedia": "Saturn Apollo Program 9903402.jpg"
+    },
+    {
+      "ad": "apollo-6-pogo-2.jpg",
+      "wikimedia": "Apollo6Interstage.jpg"
+    },
+    {
+      "ad": "apollo-6-pogo-3.jpg",
+      "wikimedia": "Apollo 6 launch.jpg"
+    },
+    {
+      "ad": "apollo-6-pogo-4.jpg",
+      "wikimedia": "S68-27366.jpg"
+    },
+    {
+      "ad": "apollo-6-pogo-5.jpg",
+      "wikimedia": "Apollo 6 and Mobile Service Structure during rollout.jpg"
+    },
+    {
+      "ad": "apollo-6-pogo-6.jpg",
+      "wikimedia": "Apollo 6 on the pad at sunset.jpg"
+    },
+    {
+      "ad": "apollo-6-pogo-7.jpg",
+      "wikimedia": "Apollo 6 on the pad.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two minutes after launch, the Saturn V on Apollo 6 began to shake.",
+      "kaynak": "Footage/apollo-6-pogo-1.jpg"
+    },
+    {
+      "metin": "Suddenly the vibrations exceeded its design limits.",
+      "kaynak": "Footage/apollo-6-pogo-2.jpg"
+    },
+    {
+      "metin": "Engine thrust always fluctuates slightly.",
+      "kaynak": "Footage/apollo-6-pogo-3.jpg"
+    },
+    {
+      "metin": "The fuel lines had their own resonance, like an organ pipe.",
+      "kaynak": "Footage/apollo-6-pogo-4.jpg"
+    },
+    {
+      "metin": "The structure vibrated like a tuning fork.",
+      "kaynak": "Footage/apollo-6-pogo-5.jpg"
+    },
+    {
+      "metin": "Later, engine lines ruptured and two engines shut down early.",
+      "kaynak": "Footage/apollo-6-pogo-6.jpg"
+    },
+    {
+      "metin": "A wiring error shut down the second one.",
+      "kaynak": "Footage/apollo-6-pogo-7.jpg"
+    },
+    {
+      "metin": "Pogo suppression was added before crews flew.",
+      "kaynak": "Footage/apollo-6-pogo-1.jpg"
+    }
+  ],
+  "aciklama": "Apollo 6 shook violently and lost engines on its test flight. The cause: thrust fluctuations resonating with propellant lines and the vehicle structure.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Apollo 6",
+    "1968",
+    "saturn v",
+    "engineering failure"
+  ],
+  "hook": "It shook like a pogo stick",
+  "soru": "Was one fix enough?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Apollo 6",
+    "kisa": "Apollo 6",
+    "nesne": "Saturn V",
+    "yil": 1968,
+    "sonuc": "shook violently and lost engines on its test flight",
+    "tetik": "pogo oscillations from feed line resonance",
+    "mekanizma": "thrust fluctuations resonating with propellant lines and the vehicle structure",
+    "sayi": "POGO",
+    "ders": "pogo suppression was added before the Saturn V carried crews",
+    "zincir": [
+      "ENGINE THRUST FLUCTUATES",
+      "FEED LINES RESONATE",
+      "STRUCTURE SHAKES",
+      "LINES RUPTURE",
+      "ENGINES SHUT DOWN"
+    ],
+    "zaman": [],
+    "yanilgi": "The shaking wasn't random. Engine, pipes, and structure resonated like an organ pipe and a tuning fork.",
+    "tartisma": "The next Saturn V carried astronauts to the Moon. Was one fix enough to trust it?",
+    "basliklar": [
+      "The Rocket That Shook Like a Pogo Stick",
+      "Why Apollo 6 Nearly Shook Itself Apart",
+      "The Pogo Oscillation That Threatened Apollo"
+    ],
+    "kapak": [
+      "POGO",
+      "SHAKING"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Apollo 6",
+        "url": "https://en.wikipedia.org/wiki/Apollo_6"
+      },
+      {
+        "ad": "NASA — SP 4205 (cited by Wikipedia)",
+        "url": "https://history.nasa.gov/SP-4205.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-16",
+    "wiki": "Apollo_6",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Saturn Apollo Program 9903402.jpg [Public domain]",
+      "Apollo6Interstage.jpg [Public domain]",
+      "Apollo 6 launch.jpg [Public domain]",
+      "S68-27366.jpg [Public domain]",
+      "Apollo 6 and Mobile Service Structure during rollout.jpg [Public domain]",
+      "Apollo 6 on the pad at sunset.jpg [Public domain]",
+      "Apollo 6 on the pad.jpg [Public domain]"
+    ]
+  }
+}

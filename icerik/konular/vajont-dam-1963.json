@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Dam Survived — the Valley Didn't",
+  "kaynaklar": [
+    {
+      "ad": "vajont-dam-1.jpg",
+      "wikimedia": "SETAF-AF remembers Vajont Dam (8062151).jpg"
+    },
+    {
+      "ad": "vajont-dam-2.jpg",
+      "wikimedia": "SETAF-AF remembers Vajont Dam (8062152).jpg"
+    },
+    {
+      "ad": "vajont-dam-3.jpg",
+      "wikimedia": "Vajont Dam 60th Anniversary Ceremony (8062986).jpg"
+    },
+    {
+      "ad": "vajont-dam-4.jpg",
+      "wikimedia": "PONTE TUBO VAJONT 1964.jpg"
+    },
+    {
+      "ad": "vajont-dam-5.jpg",
+      "wikimedia": "Longarone before Vajont dam disaster.jpg"
+    },
+    {
+      "ad": "vajont-dam-6.jpg",
+      "wikimedia": "La diga del Vajont vista da Longarone 18-8-2005.jpg"
+    },
+    {
+      "ad": "vajont-dam-7.jpg",
+      "wikimedia": "VajontDiga.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A mountainside collapsed into a reservoir in the Italian Alps.",
+      "kaynak": "Footage/vajont-dam-1.jpg"
+    },
+    {
+      "metin": "A giant wave rushed over the dam and destroyed the towns below.",
+      "kaynak": "Footage/vajont-dam-2.jpg"
+    },
+    {
+      "metin": "Here's the strange part: the dam itself survived.",
+      "kaynak": "Footage/vajont-dam-3.jpg"
+    },
+    {
+      "metin": "The failure was the slope beside the lake.",
+      "kaynak": "Footage/vajont-dam-4.jpg"
+    },
+    {
+      "metin": "Filling the reservoir soaked and weakened that rock.",
+      "kaynak": "Footage/vajont-dam-5.jpg"
+    },
+    {
+      "metin": "For years it crept, until it slid all at once.",
+      "kaynak": "Footage/vajont-dam-6.jpg"
+    },
+    {
+      "metin": "The dam only guided the wave into the valley.",
+      "kaynak": "Footage/vajont-dam-7.jpg"
+    },
+    {
+      "metin": "Now reservoir slopes are studied as closely as dams.",
+      "kaynak": "Footage/vajont-dam-1.jpg"
+    }
+  ],
+  "aciklama": "Vajont Dam sent a giant wave over its crest. The cause: a massive landslide displacing reservoir water over the dam.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Vajont Dam",
+    "landslide",
+    "dam disaster",
+    "Italy",
+    "1963"
+  ],
+  "hook": "The dam held",
+  "soru": "Would you have filled the lake?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Vajont Dam",
+    "kisa": "Vajont Dam",
+    "nesne": "Dam",
+    "yil": 1963,
+    "sonuc": "sent a giant wave over its crest",
+    "tetik": "a mountainside sliding into the reservoir",
+    "mekanizma": "a massive landslide displacing reservoir water over the dam",
+    "sayi": "DAM SURVIVED",
+    "ders": "reservoir slopes are now studied as closely as the dam itself",
+    "zincir": [
+      "RESERVOIR FILLED AGAINST WEAK SLOPE",
+      "SLOPE CREEPS FOR YEARS",
+      "LANDSLIDE FALLS INTO LAKE",
+      "WAVE OVERTOPS DAM",
+      "TOWNS BELOW DESTROYED"
+    ],
+    "zaman": [
+      {
+        "t": "Oct 9, 1963",
+        "olay": "Landslide into the reservoir; wave overtops the dam"
+      }
+    ],
+    "yanilgi": "The dam didn't break. It was the mountainside next to it that failed, and the dam survived almost intact.",
+    "tartisma": "Warnings about the slope existed before the reservoir was filled. Who should have stopped it?",
+    "basliklar": [
+      "The Dam Survived — the Valley Didn't",
+      "Why the Vajont Dam Disaster Happened",
+      "The Mountain That Fell Into a Lake"
+    ],
+    "kapak": [
+      "DAM SURVIVED",
+      "THE MOUNTAIN FELL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Vajont Dam",
+        "url": "https://en.wikipedia.org/wiki/Vajont_Dam"
+      },
+      {
+        "ad": "ASDSO Dam Failures and Lessons Learned — Vajont Dam (Italy, 1963)",
+        "url": "https://damfailures.org/case-study/vajont-dam-italy-1963/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Vajont_Dam",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "SETAF-AF remembers Vajont Dam (8062151).jpg [Public domain]",
+      "SETAF-AF remembers Vajont Dam (8062152).jpg [Public domain]",
+      "Vajont Dam 60th Anniversary Ceremony (8062986).jpg [Public domain]",
+      "PONTE TUBO VAJONT 1964.jpg [Public domain]",
+      "Longarone before Vajont dam disaster.jpg [Public domain]",
+      "La diga del Vajont vista da Longarone 18-8-2005.jpg [Public domain]",
+      "VajontDiga.jpg [Public domain]"
+    ]
+  }
+}

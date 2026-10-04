@@ -1,0 +1,63 @@
+{
+  "slug": "how-fire-spreads",
+  "olusturuldu": "2026-09-24T16:22:41.582Z",
+  "originality": 87,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.13,
+      "kim": "how-hurricanes-destroy"
+    },
+    "hook": {
+      "deger": 0.14,
+      "kim": "how-lightning-destroys"
+    },
+    "structure": {
+      "deger": 0.78,
+      "kim": "how-hurricanes-destroy"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0.11,
+      "kim": "how-carbon-monoxide-kills"
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.53,
+      "kim": "how-floods-destroy-cities"
+    },
+    "cta": {
+      "deger": 0.31,
+      "kim": "why-mines-collapse"
+    },
+    "description": {
+      "deger": 0.13,
+      "kim": "how-hurricanes-destroy"
+    },
+    "music": {
+      "deger": 0.82,
+      "kim": "halifax-explosion"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.13,
+    "HOOK_SIMILARITY": 0.14,
+    "STRUCTURE_SIMILARITY": 0.78,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0.11,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.53,
+    "CTA_SIMILARITY": 0.31,
+    "DESCRIPTION_SIMILARITY": 0.13,
+    "MUSIC_SIMILARITY": 0.82
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kanal Büyümesi</title>
+<style>
+  :root{
+    --bg:#04060B; --panel:#0B1017; --panel2:#131A24; --line:#1E2836;
+    --txt:#E6EDF3; --dim:#8A97A6; --acc:#6FD8FF; --acc2:#FFB37A;
+    --ok:#7CE38B; --err:#FF7B72; --warn:#FFD479;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--txt)}
+  header{display:flex;align-items:center;gap:16px;padding:14px 22px;border-bottom:1px solid var(--line);background:var(--panel)}
+  header h1{margin:0;font-size:16px;letter-spacing:.5px}
+  header h1 span{color:var(--acc)}
+  header a{color:var(--dim);text-decoration:none;border:1px solid var(--line);padding:6px 12px;border-radius:8px;font-size:13px}
+  header a:hover{color:var(--acc);border-color:var(--acc)}
+  header .kapsam{margin-left:auto;color:var(--dim);font-size:12.5px}
+  main{padding:20px 22px;max-width:1280px;margin:0 auto}
+  .kartlar{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px;margin-bottom:22px}
+  .kart{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+  .kart .e{color:var(--dim);font-size:12px;text-transform:uppercase;letter-spacing:.5px}
+  .kart .d{font-size:22px;font-weight:600;margin-top:4px;font-variant-numeric:tabular-nums}
+  .kart .d.yok{color:var(--dim);font-size:14px;font-weight:400}
+  h2{font-size:14px;color:var(--acc2);margin:26px 0 10px;letter-spacing:.4px;text-transform:uppercase}
+  table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;font-size:13px;vertical-align:top}
+  th{color:var(--dim);font-weight:500;background:var(--panel2)}
+  td.n{text-align:right;font-variant-numeric:tabular-nums}
+  td a{color:var(--acc);text-decoration:none}
+  .yok{color:var(--dim)}
+  .etiket{display:inline-block;font-size:11px;padding:1px 7px;border-radius:10px;border:1px solid var(--line);color:var(--dim);margin:1px 3px 1px 0}
+  .etiket.u{border-color:#5a4a1f;color:var(--warn)} .etiket.i{border-color:#1f5a33;color:var(--ok)}
+  .desenler{display:grid;grid-template-columns:repeat(auto-fill,minmax(380px,1fr));gap:12px}
+  .not{color:var(--warn);font-size:12.5px;margin:6px 0 0}
+  .bar{height:6px;background:var(--acc);border-radius:3px;opacity:.75}
+  .hata{color:var(--err);padding:30px}
+  .ozet-not{color:var(--dim);font-size:12.5px;margin-top:-12px;margin-bottom:18px}
+</style>
+</head>
+<body>
+<header>
+  <h1>📈 FAILURE RECONSTRUCTED <span>BÜYÜME</span></h1>
+  <a href="/">← Panel</a>
+  <span class="kapsam" id="kapsam"></span>
+</header>
+<main id="ana"><p class="yok">yükleniyor…</p></main>
+<script>
+const f = (x, s = "") => x == null ? '<span class="yok">unavailable</span>' : (typeof x === "number" ? x.toLocaleString("en-US") : x) + s;
+const kutu = (e, d, s = "") => `<div class="kart"><div class="e">${e}</div><div class="d${d == null ? " yok" : ""}">${d == null ? "unavailable" : f(d, s)}</div></div>`;
+const kacis = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+async function yukle() {
+  const ana = document.getElementById("ana");
+  let d;
+  try { const r = await fetch("/api/buyume"); d = await r.json(); if (d.hata) throw new Error(d.hata); }
+  catch (e) { ana.innerHTML = `<p class="hata">Veri alınamadı: ${kacis(e.message)}</p>`; return; }
+  document.getElementById("kapsam").textContent = "Kaynak: " + d.analitikKapsami + " · " + new Date(d.olusturuldu).toLocaleString();
+  const o = d.ozet;
+  const buyume = o.aboneBuyume ? `${o.aboneBuyume.fark >= 0 ? "+" : ""}${o.aboneBuyume.fark} (${o.aboneBuyume.from} → ${o.aboneBuyume.to})` : null;
+  let h = `<div class="kartlar">
+    ${kutu("Toplam izlenme", o.toplamIzlenme)}${kutu("Abone", o.abone)}${kutu("Abone büyümesi", buyume)}
+    ${kutu("Video başına izlenme", o.videoBasinaIzlenme)}${kutu("CTR", o.ctr, "%")}${kutu("Ort. izlenme süresi", o.avd, " sn")}
+    ${kutu("Ort. izlenme %", o.avp, "%")}${kutu("1.000 izlenmede abone", o.subsPer1000)}${kutu("Browse", o.browse, "%")}
+    ${kutu("Suggested", o.suggested, "%")}${kutu("Search", o.search, "%")}${kutu("Geri dönen izleyici", o.returning)}
+  </div>
+  <p class="ozet-not">"unavailable" = API bu metriği vermiyor ya da yetki yok (CTR/gösterim YouTube API'de yok — Studio'dan analytics/&lt;id&gt;/studio-manual.json'a girilebilir). Hiçbir değer tahmin edilmez.</p>`;
+
+  h += `<h2>Videolar</h2><table><tr><th>Video</th><th>Küme</th><th class="n">İzlenme</th><th class="n">Beğeni</th><th class="n">Yorum</th><th class="n">İzlenme %</th><th class="n">Abone</th><th>Trafik</th><th>Teşhis</th><th>Ölçüm</th></tr>`;
+  for (const v of d.videolar.slice().sort((a, b) => (b.views || 0) - (a.views || 0))) {
+    const tr = v.suggested == null ? '<span class="yok">—</span>' : `Sug ${v.suggested}% · Srch ${v.search}% · Shorts ${v.shortsFeed}%`;
+    h += `<tr><td><a href="https://youtu.be/${kacis(v.videoId)}" target="_blank">${kacis(v.baslik)}</a><br><span class="etiket">${kacis(v.format)}</span><span class="etiket">${kacis(v.baslikKalibi)}</span></td>
+      <td>${kacis(v.kume || "—")}</td><td class="n">${f(v.views)}</td><td class="n">${f(v.likes)}</td><td class="n">${f(v.comments)}</td>
+      <td class="n">${f(v.avp, "%")}</td><td class="n">${f(v.subs)}</td><td>${tr}</td>
+      <td>${v.teshis.map((t) => `<span class="etiket ${t === "OUTPERFORMER" || t === "HEALTHY" ? "i" : "u"}">${t}</span>`).join("")}</td>
+      <td class="yok">${kacis(v.olcum || "—")}</td></tr>`;
+  }
+  h += `</table>`;
+
+  h += `<h2>Desenler (en iyi başlık / kapak / konu / hook / uzunluk / gün-saat)</h2><div class="desenler">`;
+  for (const p of d.desenler) {
+    const maks = Math.max(1, ...p.satir.map((s) => s.medyanIzlenme || 0));
+    h += `<div><table><tr><th>${kacis(p.etiket)}</th><th class="n">n</th><th class="n">Medyan izlenme</th><th>Güven</th></tr>`;
+    if (!p.satir.length) h += `<tr><td colspan="4" class="yok">veri yok</td></tr>`;
+    for (const s of p.satir) h += `<tr><td>${kacis(s.grup)}<div class="bar" style="width:${Math.round((s.medyanIzlenme || 0) / maks * 100)}%"></div></td>
+      <td class="n">${s.n}</td><td class="n">${f(s.medyanIzlenme)}</td><td>${s.guven === "ok" ? '<span class="etiket i">ok</span>' : `<span class="etiket u">${kacis(s.guven)}</span>`}</td></tr>`;
+    h += `</table>${p.not ? `<p class="not">⚠ ${kacis(p.not)}</p>` : ""}</div>`;
+  }
+  h += `</div>`;
+  ana.innerHTML = h;
+}
+yukle();
+</script>
+</body>
+</html>

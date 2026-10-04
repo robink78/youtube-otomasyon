@@ -1,0 +1,190 @@
+{
+  "format": "long",
+  "targetMinutes": [
+    8,
+    15
+  ],
+  "coldOpen": "Road cat's eyes clean themselves when cars hit them.",
+  "centralQuestion": "How do cat's eye road studs keep their reflectors clean?",
+  "sections": [
+    {
+      "order": 1,
+      "section": "Cold open",
+      "evidence": "VERIFIED FACT"
+    },
+    {
+      "order": 2,
+      "section": "The question",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 3,
+      "section": "Origin and context",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 4,
+      "section": "The design problem",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 5,
+      "section": "The documented explanation",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 6,
+      "section": "The surprising detail",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 7,
+      "section": "Real-world consequence",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 8,
+      "section": "Final payoff",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 9,
+      "section": "Next curiosity bridge",
+      "evidence": "CLAIM IDS REQUIRED"
+    }
+  ],
+  "sources": [
+    {
+      "name": "National Motor Museum — When were Cats Eyes first invented?",
+      "url": "https://nationalmotormuseum.org.uk/help-centre/motoring-firsts/when-were-cats-eyes-reflective-road-studs-first-invented/",
+      "type": "museum"
+    },
+    {
+      "name": "MyLearning — Percy Shaw, the Inventor of Catseyes",
+      "url": "https://www.mylearning.org/stories/percy-shaw-the-inventor-of-catseyes/feline-inspiration",
+      "type": "museum learning resource (Calderdale Museums)"
+    }
+  ],
+  "evidence": [
+    {
+      "role": "origin",
+      "layer": "VERIFIED FACT",
+      "claim": "Reflective cat's eye road studs were patented by Percy Shaw of Halifax in 1934.",
+      "quote": "Reflective Cats Eye road studs were patented by Percy Shaw of Halifax in 1934",
+      "source": "National Motor Museum — When were Cats Eyes first invented?",
+      "url": "https://nationalmotormuseum.org.uk/help-centre/motoring-firsts/when-were-cats-eyes-reflective-road-studs-first-invented/"
+    },
+    {
+      "role": "context",
+      "layer": "VERIFIED FACT",
+      "claim": "A company to manufacture the studs was established in 1935.",
+      "quote": "A manufacturing company, Reflective Road Studs Ltd, was established in 1935",
+      "source": "National Motor Museum — When were Cats Eyes first invented?",
+      "url": "https://nationalmotormuseum.org.uk/help-centre/motoring-firsts/when-were-cats-eyes-reflective-road-studs-first-invented/"
+    },
+    {
+      "role": "origin",
+      "layer": "VERIFIED FACT",
+      "claim": "The name came from Shaw's inspiration: eyeshine reflecting from a cat's eyes.",
+      "quote": "the eyeshine reflecting from the eyes of a cat",
+      "source": "Wikipedia — Cat's eye (road)",
+      "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+    },
+    {
+      "role": "explanation",
+      "layer": "VERIFIED FACT",
+      "claim": "The original design set two pairs of retroreflectors into a white rubber dome mounted in a cast iron housing.",
+      "quote": "two pairs of retroreflectors set into a white rubber dome, mounted in a cast iron housing",
+      "source": "Wikipedia — Cat's eye (road)",
+      "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+    },
+    {
+      "role": "explanation",
+      "layer": "VERIFIED FACT",
+      "claim": "The flexible rubber dome is deformed by passing traffic.",
+      "quote": "the flexible rubber dome which is occasionally deformed by the passage of traffic",
+      "source": "Wikipedia — Cat's eye (road)",
+      "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+    },
+    {
+      "role": "explanation",
+      "layer": "VERIFIED FACT",
+      "claim": "A fixed rubber wiper cleans the reflectors as they sink below the road surface.",
+      "quote": "A fixed rubber wiper cleans the surface of the reflectors as they sink below the surface of the road",
+      "source": "Wikipedia — Cat's eye (road)",
+      "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+    },
+    {
+      "role": "surprising-detail",
+      "layer": "VERIFIED FACT",
+      "claim": "The base holds water after rain, making the cleaning more efficient.",
+      "quote": "the base tends to hold water after a shower of rain, making this process even more efficient",
+      "source": "Wikipedia — Cat's eye (road)",
+      "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+    },
+    {
+      "role": "surprising-detail",
+      "layer": "VERIFIED FACT",
+      "claim": "The rubber cushion collected rainwater and closed like an eyelid over the glass when a tyre ran over it.",
+      "quote": "closed like an eyelid over the glass stud when a car tyre ran over it",
+      "source": "MyLearning — Percy Shaw, the Inventor of Catseyes",
+      "url": "https://www.mylearning.org/stories/percy-shaw-the-inventor-of-catseyes/feline-inspiration"
+    },
+    {
+      "role": "context",
+      "layer": "VERIFIED FACT",
+      "claim": "Metal kerbs protect the dome and give tactile and audible feedback to drivers who wander.",
+      "quote": "which also give tactile and audible feedback for wandering drivers",
+      "source": "Wikipedia — Cat's eye (road)",
+      "url": "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)"
+    }
+  ],
+  "visualPlan": [
+    "cat's eyes glowing on a night road",
+    "macro view of a road stud",
+    "cutaway of the rubber dome and wiper",
+    "a tyre pressing the stud down",
+    "rainwater pooled in the stud base"
+  ],
+  "titleCandidates": [
+    "Why Road Cat's Eyes Clean Themselves",
+    "Why road reflectors Have self-cleaning faces",
+    "The Hidden Purpose of self-cleaning faces",
+    "What self-cleaning faces Were Actually Made For",
+    "This Detail Wasn't Added by Accident",
+    "The Design Reason Behind self-cleaning faces",
+    "Why This Detail Still Exists on road reflectors",
+    "The Original Job of self-cleaning faces",
+    "road reflectors: The Detail Everyone Overlooks",
+    "How self-cleaning faces Became Part of road reflectors",
+    "What Problem Did self-cleaning faces Solve?",
+    "The Tiny Design Choice on road reflectors",
+    "Why road reflectors Still Use This Old Detail",
+    "self-cleaning faces: Function or Leftover?",
+    "The Everyday Engineering of road reflectors",
+    "Look Closely at road reflectors",
+    "The Reason self-cleaning faces Look Like This",
+    "road reflectors Hide a Piece of Design History",
+    "Why Designers Kept self-cleaning faces",
+    "road reflectors Explained Through One Small Detail"
+  ],
+  "thumbnailConceptRequirement": "one object + one highlighted detail; zero to four words; five concepts",
+  "standaloneShorts": [
+    {
+      "angle": "visual mystery",
+      "hook": "Road cat's eyes clean themselves when cars hit them."
+    },
+    {
+      "angle": "documented origin",
+      "hook": "How self-cleaning faces became part of road reflectors."
+    },
+    {
+      "angle": "design mechanism",
+      "hook": "The problem self-cleaning faces were designed to solve."
+    },
+    {
+      "angle": "misconception",
+      "hook": "They look like simple glass beads, but the stud is a small cleaning mechanism."
+    }
+  ]
+}

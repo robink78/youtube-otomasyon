@@ -1,0 +1,98 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why Do Bridges Collapse?",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "The war every bridge fights",
+  "soru": "Would you trust an old bridge?",
+  "arama_yedek": "suspension bridge",
+  "aciklama": "Every bridge is in a quiet war against physics - wind, resonance, and metal fatigue. Here is how bridges actually fail, and why the ones you cross survived.\n\n#shorts #engineering #science #howitworks #disaster",
+  "etiketler": [
+    "bridge collapse",
+    "engineering",
+    "physics",
+    "resonance",
+    "metal fatigue",
+    "how it works",
+    "science"
+  ],
+  "sahneler": [
+    {
+      "metin": "Wind alone once tore a steel bridge apart.",
+      "arama": "suspension bridge aerial"
+    },
+    {
+      "metin": "Its deck twisted like a ribbon, then dropped into the water below.",
+      "arama": "storm wind clouds"
+    },
+    {
+      "metin": "But how can air destroy steel?",
+      "arama": "bridge cables"
+    },
+    {
+      "metin": "At the wrong speed, a deck's twisting motion feeds on itself.",
+      "arama": "steel beams structure"
+    },
+    {
+      "metin": "Engineers call it flutter, and it doomed the Tacoma Narrows Bridge.",
+      "arama": "cracked metal"
+    },
+    {
+      "metin": "Metal also gets tired. Every flex leaves a tiny crack.",
+      "arama": "rusty metal"
+    },
+    {
+      "metin": "That is why modern bridges are tested in wind tunnels.",
+      "arama": "engineer inspection"
+    },
+    {
+      "metin": "The bridges you cross learned from the ones that fell.",
+      "arama": "city bridge traffic night"
+    }
+  ],
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "mekanizma",
+    "ad": "Bridges",
+    "nesne": "Bridge",
+    "sonuc": "collapse",
+    "tetik": "wind, fatigue and corrosion",
+    "mekanizma": "metal fatigue and aeroelastic flutter",
+    "sayi": "1 WEAK LINK",
+    "ders": "bridges are wind-tunnel tested and inspected for cracks",
+    "zincir": [
+      "WIND & TRAFFIC LOADS",
+      "CYCLIC FLEXING",
+      "FATIGUE CRACKS GROW",
+      "CORROSION THINS STEEL",
+      "MEMBER FAILS"
+    ],
+    "yanilgi": "Bridge failures are often blamed on 'resonance', but most real collapses come from fatigue, corrosion, scour or design errors — flutter is the rare, dramatic exception.",
+    "tartisma": "Which is the bigger threat to the bridges you cross today: wind, or old age?",
+    "basliklar": [
+      "The Quiet War Every Bridge Is Fighting",
+      "What Really Brings a Bridge Down",
+      "The Tiny Cracks That Topple Bridges"
+    ],
+    "kapak": [
+      "THE HIDDEN CRACK",
+      "WIND VS STEEL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Fatigue (material)",
+        "url": "https://en.wikipedia.org/wiki/Fatigue_(material)"
+      },
+      {
+        "ad": "Wikipedia — Aeroelastic flutter",
+        "url": "https://en.wikipedia.org/wiki/Aeroelastic_flutter"
+      },
+      {
+        "ad": "Wikipedia — Silver Bridge",
+        "url": "https://en.wikipedia.org/wiki/Silver_Bridge"
+      }
+    ]
+  }
+}

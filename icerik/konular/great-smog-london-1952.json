@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Fog That Killed Thousands in London",
+  "kaynaklar": [
+    {
+      "ad": "great-smog-london-1.png",
+      "wikimedia": "1952 Great London Smog mortality-2.png"
+    },
+    {
+      "ad": "great-smog-london-2.png",
+      "wikimedia": "1952 Great London Smog mortality.png"
+    },
+    {
+      "ad": "great-smog-london-3.jpg",
+      "wikimedia": "Een agent helpt mensen met oversteken Op de achtergrond is Big Ben te zien, Bestanddeelnr 254-1954.jpg"
+    },
+    {
+      "ad": "great-smog-london-4.jpg",
+      "wikimedia": "Battersea Power Station, 1934 with only two chimneys (Our Generation, 1938).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A thick yellow smog settled over London for five days.",
+      "kaynak": "Footage/great-smog-london-1.png"
+    },
+    {
+      "metin": "Within days, thousands of people were killed by it.",
+      "kaynak": "Footage/great-smog-london-2.png"
+    },
+    {
+      "metin": "The weather was unusually cold and windless.",
+      "kaynak": "Footage/great-smog-london-3.jpg"
+    },
+    {
+      "metin": "Homes burned coal to stay warm.",
+      "kaynak": "Footage/great-smog-london-4.jpg"
+    },
+    {
+      "metin": "An anticyclone trapped the smoke over the city.",
+      "kaynak": "Footage/great-smog-london-1.png"
+    },
+    {
+      "metin": "Visibility dropped so low that buses stopped.",
+      "kaynak": "Footage/great-smog-london-2.png"
+    },
+    {
+      "metin": "Later research put the death toll far higher than first reports.",
+      "kaynak": "Footage/great-smog-london-3.jpg"
+    },
+    {
+      "metin": "It led to the Clean Air Act of 1956.",
+      "kaynak": "Footage/great-smog-london-4.jpg"
+    }
+  ],
+  "aciklama": "Great Smog blanketed London in toxic smog for five days. The cause: an anticyclone and temperature inversion holding coal pollution over the city.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Great Smog",
+    "1952",
+    "coal smoke",
+    "engineering failure"
+  ],
+  "hook": "The fog was deadly",
+  "soru": "Why do tolls change?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Great Smog",
+    "kisa": "Great Smog",
+    "nesne": "Coal smoke",
+    "yil": 1952,
+    "sonuc": "blanketed London in toxic smog for five days",
+    "tetik": "cold windless weather trapping coal smoke",
+    "mekanizma": "an anticyclone and temperature inversion holding coal pollution over the city",
+    "sayi": "THOUSANDS DEAD",
+    "ders": "the Clean Air Act 1956 restricted coal smoke",
+    "zincir": [
+      "COLD WEATHER",
+      "COAL FIRES BURN",
+      "WINDLESS ANTICYCLONE",
+      "SMOKE TRAPPED",
+      "THOUSANDS DIE"
+    ],
+    "zaman": [],
+    "yanilgi": "It looked like ordinary London fog. Deaths ran far higher than first estimates.",
+    "tartisma": "Early reports undercounted the dead. Why do disaster tolls keep changing?",
+    "basliklar": [
+      "The Fog That Killed Thousands in London",
+      "Why the Great Smog of London Was So Deadly",
+      "The Fog That Killed Thousands"
+    ],
+    "kapak": [
+      "TOXIC FOG",
+      "THOUSANDS DEAD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Great Smog of London",
+        "url": "https://en.wikipedia.org/wiki/Great_Smog_of_London"
+      },
+      {
+        "ad": "Government source — 50 years on (cited by Wikipedia)",
+        "url": "http://legacy.london.gov.uk/mayor/environment/air_quality/docs/50_years_on.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-16-fix",
+    "wiki": "Great_Smog_of_London",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "1952 Great London Smog mortality-2.png [Public domain]",
+      "1952 Great London Smog mortality.png [Public domain]",
+      "Een agent helpt mensen met oversteken Op de achtergrond is Big Ben te zien, Bestanddeelnr 254-1954.jpg [CC0]",
+      "Battersea Power Station, 1934 with only two chimneys (Our Generation, 1938).jpg [Public domain]"
+    ]
+  }
+}

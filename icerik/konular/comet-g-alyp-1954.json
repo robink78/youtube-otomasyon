@@ -1,0 +1,128 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The First Jetliner Kept Breaking Apart in the Sky",
+  "kaynaklar": [
+    {
+      "ad": "comet-g-alyp-1.jpg",
+      "wikimedia": "British Overseas Airways Corporation - de Havilland DH-106 Comet 1 G-ALYP.jpg"
+    },
+    {
+      "ad": "comet-g-alyp-2.jpg",
+      "wikimedia": "De Havilland Comet 1 silhouette.jpg"
+    },
+    {
+      "ad": "comet-g-alyp-3.jpg",
+      "wikimedia": "BOAC Comet 1952.jpg"
+    },
+    {
+      "ad": "comet-g-alyp-4.jpg",
+      "wikimedia": "Porto azzurro, cimitero, memoriale delle vittime del Volo BOAC 781, precipitato il 10 gennaio 1954, 02.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The world's first jet airliner broke apart over the sea.",
+      "kaynak": "Footage/comet-g-alyp-1.jpg"
+    },
+    {
+      "metin": "All thirty five people aboard died.",
+      "kaynak": "Footage/comet-g-alyp-2.jpg"
+    },
+    {
+      "metin": "Then another Comet fell from the sky months later.",
+      "kaynak": "Footage/comet-g-alyp-3.jpg"
+    },
+    {
+      "metin": "Investigators pressurized a whole Comet in a water tank, again and again.",
+      "kaynak": "Footage/comet-g-alyp-4.jpg"
+    },
+    {
+      "metin": "The cabin split open at a sharp corner in the roof.",
+      "kaynak": "Footage/comet-g-alyp-1.jpg"
+    },
+    {
+      "metin": "Every flight had stretched the metal, until fatigue cracked it.",
+      "kaynak": "Footage/comet-g-alyp-2.jpg"
+    },
+    {
+      "metin": "Sharp corners concentrated the stress.",
+      "kaynak": "Footage/comet-g-alyp-3.jpg"
+    },
+    {
+      "metin": "Since then, jets have rounded windows and fatigue-tested fuselages.",
+      "kaynak": "Footage/comet-g-alyp-4.jpg"
+    }
+  ],
+  "aciklama": "Comet broke apart in flight. The cause: metal fatigue from repeated pressurisation concentrated at sharp cut-out corners.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "de Havilland Comet",
+    "BOAC 781",
+    "metal fatigue",
+    "jet airliner",
+    "1954"
+  ],
+  "hook": "The first jetliner",
+  "soru": "Would you have flown it?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "the de Havilland Comet",
+    "kisa": "Comet",
+    "nesne": "Fuselage",
+    "yil": 1954,
+    "sonuc": "broke apart in flight",
+    "tetik": "fatigue cracks at a corner of a cut-out in the cabin roof",
+    "mekanizma": "metal fatigue from repeated pressurisation concentrated at sharp cut-out corners",
+    "sayi": "35 ABOARD",
+    "ders": "fuselages are now fatigue-tested in water tanks and designed to stop cracks",
+    "zincir": [
+      "CABIN PRESSURISED EVERY FLIGHT",
+      "STRESS PEAKS AT CUT-OUT CORNERS",
+      "FATIGUE CRACK GROWS",
+      "FUSELAGE RUPTURES",
+      "AIRLINER BREAKS UP"
+    ],
+    "zaman": [
+      {
+        "t": "Jan 10, 1954",
+        "olay": "BOAC Flight 781 breaks up near Elba"
+      }
+    ],
+    "yanilgi": "It wasn't a bomb or engine fire. Investigators proved it by pressurising a whole Comet in a water tank until the cabin cracked.",
+    "tartisma": "The Comet was the world's first jet airliner. Can a first design ever be fully safe?",
+    "basliklar": [
+      "The First Jetliner Kept Breaking Apart in the Sky",
+      "Why the de Havilland Comet Failed",
+      "The Water Tank Test That Solved the Comet Crashes"
+    ],
+    "kapak": [
+      "METAL FATIGUE",
+      "FIRST JET"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — BOAC Flight 781",
+        "url": "https://en.wikipedia.org/wiki/BOAC_Flight_781"
+      },
+      {
+        "ad": "FAA — G ALYP Report (cited by Wikipedia)",
+        "url": "https://lessonslearned.faa.gov/Comet1/G-ALYP_Report.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "BOAC_Flight_781",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "British Overseas Airways Corporation - de Havilland DH-106 Comet 1 G-ALYP.jpg [Public domain]",
+      "De Havilland Comet 1 silhouette.jpg [Public domain]",
+      "BOAC Comet 1952.jpg [Public domain]",
+      "Porto azzurro, cimitero, memoriale delle vittime del Volo BOAC 781, precipitato il 10 gennaio 1954, 02.jpg [CC BY 3.0]"
+    ]
+  }
+}

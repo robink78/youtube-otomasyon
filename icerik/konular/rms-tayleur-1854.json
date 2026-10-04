@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Iron Ship Whose Compasses Lied",
+  "kaynaklar": [
+    {
+      "ad": "rms-tayleur-1.jpg",
+      "wikimedia": "Loss of 'the Tayleur' Australian packet-ship, off Lambay Island ILN-1854 (cropped).jpg"
+    },
+    {
+      "ad": "rms-tayleur-2.jpg",
+      "wikimedia": "Tayleur.jpg"
+    },
+    {
+      "ad": "rms-tayleur-3.jpg",
+      "wikimedia": "Wreck of 'the Tayleur', seen from the mainland, on Sunday. ILN-1854-0128-0019.jpg"
+    },
+    {
+      "ad": "rms-tayleur-4.jpg",
+      "wikimedia": "Loss of 'the Tayleur' Australian packet-ship, off Lambay Island ILN-1854-0128-0019.jpg"
+    },
+    {
+      "ad": "rms-tayleur-5.jpg",
+      "wikimedia": "The new Iron Clipper ship Tayleur.jpg"
+    },
+    {
+      "ad": "rms-tayleur-6.jpg",
+      "wikimedia": "Iron Clipper Ship Tayleur.. The history of progress in Great Britain (IA historyofprogres01phil) (page 420 crop).jpg"
+    },
+    {
+      "ad": "rms-tayleur-7.jpg",
+      "wikimedia": "The New Iron Clipper-Built Ship 'Tayleur,' for Australia ILN-1853-1126-0017.jpeg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On its maiden voyage, the iron clipper Tayleur ran aground off Ireland.",
+      "kaynak": "Footage/rms-tayleur-1.jpg"
+    },
+    {
+      "metin": "It struck rocks on Lambay Island, and hundreds were killed.",
+      "kaynak": "Footage/rms-tayleur-2.jpg"
+    },
+    {
+      "metin": "The crew had followed their compasses.",
+      "kaynak": "Footage/rms-tayleur-3.jpg"
+    },
+    {
+      "metin": "But the ship's iron hull disturbed them.",
+      "kaynak": "Footage/rms-tayleur-4.jpg"
+    },
+    {
+      "metin": "The compasses hadn't been properly corrected.",
+      "kaynak": "Footage/rms-tayleur-5.jpg"
+    },
+    {
+      "metin": "In poor visibility, the error went unnoticed.",
+      "kaynak": "Footage/rms-tayleur-6.jpg"
+    },
+    {
+      "metin": "The ship headed straight for the island.",
+      "kaynak": "Footage/rms-tayleur-7.jpg"
+    },
+    {
+      "metin": "It pushed research into correcting compasses on iron ships.",
+      "kaynak": "Footage/rms-tayleur-1.jpg"
+    }
+  ],
+  "aciklama": "Tayleur ran aground on its maiden voyage. The cause: magnetic deviation from an iron hull that the compasses were not corrected for.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Tayleur",
+    "1854",
+    "compass",
+    "engineering failure"
+  ],
+  "hook": "The compasses lied",
+  "soru": "How do you find unseen risks?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "RMS Tayleur",
+    "kisa": "Tayleur",
+    "nesne": "Compass",
+    "yil": 1854,
+    "sonuc": "ran aground on its maiden voyage",
+    "tetik": "compasses deflected by the ship's own iron hull",
+    "mekanizma": "magnetic deviation from an iron hull that the compasses were not corrected for",
+    "sayi": "MAIDEN VOYAGE",
+    "ders": "the case pushed research into correcting compasses on iron ships",
+    "zincir": [
+      "NEW IRON HULL",
+      "COMPASSES NOT CORRECTED",
+      "DEVIATION IN BAD VISIBILITY",
+      "SHIP HEADS FOR ISLAND",
+      "WRECKED ON ROCKS"
+    ],
+    "zaman": [],
+    "yanilgi": "The crew followed their compasses. The compasses were pulled off by the iron hull itself.",
+    "tartisma": "New materials brought a hidden side effect. How do you find problems nobody has seen yet?",
+    "basliklar": [
+      "The Iron Ship Whose Compasses Lied",
+      "Why the RMS Tayleur Was Wrecked",
+      "The Compasses Pulled Off Course by Iron"
+    ],
+    "kapak": [
+      "WRONG COMPASS",
+      "IRON HULL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — RMS Tayleur",
+        "url": "https://en.wikipedia.org/wiki/RMS_Tayleur"
+      },
+      {
+        "ad": "Academic / engineering journal — doBasicSearch?Query=\"RMS+Tayleur\"&acc=on&wc=on (cited by Wikipedia)",
+        "url": "https://www.jstor.org/action/doBasicSearch?Query=%22RMS+Tayleur%22&acc=on&wc=on"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15",
+    "wiki": "RMS_Tayleur",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Loss of 'the Tayleur' Australian packet-ship, off Lambay Island ILN-1854 (cropped).jpg [Public domain]",
+      "Tayleur.jpg [Public domain]",
+      "Wreck of 'the Tayleur', seen from the mainland, on Sunday. ILN-1854-0128-0019.jpg [Public domain]",
+      "Loss of 'the Tayleur' Australian packet-ship, off Lambay Island ILN-1854-0128-0019.jpg [Public domain]",
+      "The new Iron Clipper ship Tayleur.jpg [Public domain]",
+      "Iron Clipper Ship Tayleur.. The history of progress in Great Britain (IA historyofprogres01phil) (page 420 crop).jpg [Public domain]",
+      "The New Iron Clipper-Built Ship 'Tayleur,' for Australia ILN-1853-1126-0017.jpeg [Public domain]"
+    ]
+  }
+}

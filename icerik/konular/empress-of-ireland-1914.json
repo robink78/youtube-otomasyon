@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Liner That Sank in Fourteen Minutes",
+  "kaynaklar": [
+    {
+      "ad": "empress-of-ireland-1.jpg",
+      "wikimedia": "19140531 Lost Liner's Captain Testifies - RMS Empress of Ireland - The New York Times.jpg"
+    },
+    {
+      "ad": "empress-of-ireland-2.jpg",
+      "wikimedia": "19140531 RMS Empress of Ireland - passenger and crew list - The New York Times.jpg"
+    },
+    {
+      "ad": "empress-of-ireland-3.jpg",
+      "wikimedia": "191405 Ship's surgeon treats Empress of Ireland survivor.jpg"
+    },
+    {
+      "ad": "empress-of-ireland-4.jpg",
+      "wikimedia": "Illustration - Sinking of the Empress of Ireland, 1914.jpg"
+    },
+    {
+      "ad": "empress-of-ireland-5.jpg",
+      "wikimedia": "Empress-of-Ireland.jpg"
+    },
+    {
+      "ad": "empress-of-ireland-6.jpg",
+      "wikimedia": "LADY GREY LCCN2014696150.jpg"
+    },
+    {
+      "ad": "empress-of-ireland-7.jpg",
+      "wikimedia": "Miss T. Towsend from N. Zealand who jumped overboard and was rescued by LADY GREY LCCN2014696151.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In fog on the St. Lawrence River, a collier rammed the liner Empress of Ireland.",
+      "kaynak": "Footage/empress-of-ireland-1.jpg"
+    },
+    {
+      "metin": "In fourteen minutes, the liner rolled over and sank, and one thousand twelve people died.",
+      "kaynak": "Footage/empress-of-ireland-2.jpg"
+    },
+    {
+      "metin": "Unlike Titanic, it carried enough lifeboats.",
+      "kaynak": "Footage/empress-of-ireland-3.jpg"
+    },
+    {
+      "metin": "It sank too fast to launch most of them.",
+      "kaynak": "Footage/empress-of-ireland-4.jpg"
+    },
+    {
+      "metin": "The collier had opened a huge hole in its side.",
+      "kaynak": "Footage/empress-of-ireland-5.jpg"
+    },
+    {
+      "metin": "Water also poured in through open portholes.",
+      "kaynak": "Footage/empress-of-ireland-6.jpg"
+    },
+    {
+      "metin": "Many passengers were asleep below.",
+      "kaynak": "Footage/empress-of-ireland-7.jpg"
+    },
+    {
+      "metin": "The disaster reinforced rules on watertight doors and portholes.",
+      "kaynak": "Footage/empress-of-ireland-1.jpg"
+    }
+  ],
+  "aciklama": "Empress of Ireland sank in minutes after a collision in fog. The cause: a large side breach with open portholes and too little time to close watertight doors.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Empress of Ireland",
+    "1914",
+    "liner",
+    "engineering failure"
+  ],
+  "hook": "Fourteen minutes",
+  "soru": "Who closes the portholes?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Empress of Ireland",
+    "kisa": "Empress of Ireland",
+    "nesne": "Liner",
+    "yil": 1914,
+    "sonuc": "sank in minutes after a collision in fog",
+    "tetik": "a collier striking it amidships in fog",
+    "mekanizma": "a large side breach with open portholes and too little time to close watertight doors",
+    "sayi": "14 MINUTES",
+    "ders": "the disaster reinforced rules on watertight doors and portholes",
+    "zincir": [
+      "FOG ON THE ST. LAWRENCE",
+      "SHIPS MISJUDGE EACH OTHER",
+      "COLLIER HITS AMIDSHIPS",
+      "WATER POURS THROUGH PORTHOLES",
+      "SHIP ROLLS AND SINKS"
+    ],
+    "zaman": [],
+    "yanilgi": "Unlike Titanic, there were enough lifeboats. The ship sank too fast to launch most of them.",
+    "tartisma": "Open portholes let water flood in faster. Who is responsible for closing them at night?",
+    "basliklar": [
+      "The Liner That Sank in Fourteen Minutes",
+      "Why the Empress of Ireland Sank So Fast",
+      "The Liner Lost in Fourteen Minutes"
+    ],
+    "kapak": [
+      "14 MINUTES",
+      "1,012 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — RMS Empress of Ireland",
+        "url": "https://en.wikipedia.org/wiki/RMS_Empress_of_Ireland"
+      },
+      {
+        "ad": "IMO — SOLAS 1914 (cited by Wikipedia)",
+        "url": "http://www.imo.org/KnowledgeCentre/ReferencesAndArchives/HistoryofSOLAS/Documents/SOLAS%201914.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "RMS_Empress_of_Ireland",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "19140531 Lost Liner's Captain Testifies - RMS Empress of Ireland - The New York Times.jpg [Public domain]",
+      "19140531 RMS Empress of Ireland - passenger and crew list - The New York Times.jpg [Public domain]",
+      "191405 Ship's surgeon treats Empress of Ireland survivor.jpg [Public domain]",
+      "Illustration - Sinking of the Empress of Ireland, 1914.jpg [Public domain]",
+      "Empress-of-Ireland.jpg [Public domain]",
+      "LADY GREY LCCN2014696150.jpg [Public domain]",
+      "Miss T. Towsend from N. Zealand who jumped overboard and was rescued by LADY GREY LCCN2014696151.jpg [Public domain]"
+    ]
+  }
+}

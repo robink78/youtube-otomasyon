@@ -1,0 +1,230 @@
+{
+  "slug": "halifax-explosion",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.458Z",
+  "secilen": "The Harbor Collision That Flattened a City",
+  "secilenPuan": 47,
+  "mevcutPuan": 36.5,
+  "sablonOnerisi": {
+    "baslik": "1917: The Halifax Explosion Flattened a Square Mile of the City",
+    "puan": 65.4,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 8,
+  "adaylar": [
+    {
+      "baslik": "1917: The Halifax Explosion Flattened a Square Mile of the City",
+      "kalip": "label-colon",
+      "toplam": 65.4,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 8,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 9,
+        "appeal": 9,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.3
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (63 chars)",
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "The Real Reason the Halifax Explosion Flattened a Square Mile of the City",
+      "kalip": "real-reason",
+      "toplam": 62.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 6,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 9,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 7.1
+      },
+      "similarity": {
+        "max": 0.12,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (73 chars)"
+      ],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "The Harbor Collision That Flattened a City",
+      "kalip": "the-x-that",
+      "toplam": 47,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 9,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.4
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "The Nuclear Test That Poisoned a Paradise Forever"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The Harbor That Flattened a Square Mile of the City",
+      "kalip": "the-x-that",
+      "toplam": 47,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 9,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.4
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "The Disaster That Ended the Age of the Airship"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 4 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "Halifax 1917 Explained",
+      "kalip": "explained",
+      "toplam": 40.7,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.06,
+        "closest": "Why Glass Explodes for No Reason"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    },
+    {
+      "baslik": "Two Ships Collided. Twenty Minutes Later, a Square Mile Was Gone.",
+      "kalip": "two-beat",
+      "toplam": 36.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 5,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.09,
+        "closest": "Why Mines Collapse Deep Underground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (65 chars)",
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The Biggest Explosion Before the Atomic Bomb",
+      "kalip": "statement",
+      "toplam": 36.5,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"statement\" already used by 4 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "3 KILOTONS. That's All It Took",
+      "kalip": "label-colon",
+      "toplam": 31.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 7,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 0.67,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:number-all-it-took"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

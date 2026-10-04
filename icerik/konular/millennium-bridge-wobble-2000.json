@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Why London's New Bridge Started Swaying Under Walkers",
+  "kaynaklar": [
+    {
+      "ad": "millennium-bridge-wobble-1.jpg",
+      "wikimedia": "Blackfriars.railway.bridge.arp.jpg"
+    },
+    {
+      "ad": "millennium-bridge-wobble-2.jpg",
+      "wikimedia": "City of London, London, UK - panoramio - IIya Kuzhekin (37).jpg"
+    },
+    {
+      "ad": "millennium-bridge-wobble-3.jpg",
+      "wikimedia": "Millennium Bridge decking underside.jpg"
+    },
+    {
+      "ad": "millennium-bridge-wobble-4.jpg",
+      "wikimedia": "View from Millenium bridge 04 Panorama.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On opening day, London's new Millennium Bridge began to sway.",
+      "kaynak": "Footage/millennium-bridge-wobble-1.jpg"
+    },
+    {
+      "metin": "Within minutes, the deck was swaying so much that people clung to the rails.",
+      "kaynak": "Footage/millennium-bridge-wobble-2.jpg"
+    },
+    {
+      "metin": "The cause was the people walking on it.",
+      "kaynak": "Footage/millennium-bridge-wobble-3.jpg"
+    },
+    {
+      "metin": "A small sideways sway made walkers widen their steps.",
+      "kaynak": "Footage/millennium-bridge-wobble-4.jpg"
+    },
+    {
+      "metin": "Without noticing, they fell into step together.",
+      "kaynak": "Footage/millennium-bridge-wobble-1.jpg"
+    },
+    {
+      "metin": "Each step pushed the bridge further, and the sway grew.",
+      "kaynak": "Footage/millennium-bridge-wobble-2.jpg"
+    },
+    {
+      "metin": "Engineers added dampers to absorb the motion.",
+      "kaynak": "Footage/millennium-bridge-wobble-3.jpg"
+    },
+    {
+      "metin": "Footbridges are now checked for this crowd effect.",
+      "kaynak": "Footage/millennium-bridge-wobble-4.jpg"
+    }
+  ],
+  "aciklama": "Millennium Bridge began swaying under crowds on opening day. The cause: synchronous lateral excitation: walkers falling into step with the bridge's sideways motion.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Millennium Bridge",
+    "2000",
+    "footbridge",
+    "engineering failure"
+  ],
+  "hook": "The crowd fell into step",
+  "soru": "Would you keep walking?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Millennium Bridge",
+    "kisa": "Millennium Bridge",
+    "nesne": "Footbridge",
+    "yil": 2000,
+    "sonuc": "began swaying under crowds on opening day",
+    "tetik": "thousands of pedestrians adjusting their steps to the sway",
+    "mekanizma": "synchronous lateral excitation: walkers falling into step with the bridge's sideways motion",
+    "sayi": "TWO DAYS",
+    "ders": "footbridge design now checks for lateral crowd-induced vibration",
+    "zincir": [
+      "SLIGHT SIDEWAYS SWAY",
+      "WALKERS WIDEN THEIR STANCE",
+      "STEPS SYNCHRONISE",
+      "SWAY GROWS",
+      "BRIDGE CLOSED, DAMPERS ADDED"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't soldiers marching or wind. Ordinary walkers unconsciously fell into step with a small sideways sway.",
+    "tartisma": "The effect wasn't in the design codes. How do engineers design for something nobody has measured?",
+    "basliklar": [
+      "Why London's New Bridge Started Swaying Under Walkers",
+      "Why the Millennium Bridge Wobbled",
+      "The Crowd That Made a Bridge Sway"
+    ],
+    "kapak": [
+      "WOBBLY BRIDGE",
+      "IN STEP"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Millennium Bridge, London",
+        "url": "https://en.wikipedia.org/wiki/Millennium_Bridge,_London"
+      },
+      {
+        "ad": "Government source — sh2003010154 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/sh2003010154"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Millennium_Bridge,_London",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Blackfriars.railway.bridge.arp.jpg [Public domain]",
+      "City of London, London, UK - panoramio - IIya Kuzhekin (37).jpg [CC BY 3.0]",
+      "Millennium Bridge decking underside.jpg [CC0]",
+      "View from Millenium bridge 04 Panorama.jpg [CC BY 4.0]"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Misaligned Oil Pipe Blew Apart an A380 Engine",
+  "kaynaklar": [
+    {
+      "ad": "qantas-32-1.png",
+      "wikimedia": "Qantas Flight 32 damage.png"
+    },
+    {
+      "ad": "qantas-32-2.jpg",
+      "wikimedia": "Qantas A380-800 VH-OQC Trent 900 nacelle.jpg"
+    },
+    {
+      "ad": "qantas-32-3.jpg",
+      "wikimedia": "Qantas a380 vh-oqa takeoff heathrow arp.jpg"
+    },
+    {
+      "ad": "qantas-32-4.jpg",
+      "wikimedia": "2 x A380s on final approach (6066307789).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Minutes after leaving Singapore, an A380's engine exploded.",
+      "kaynak": "Footage/qantas-32-1.png"
+    },
+    {
+      "metin": "In seconds, debris tore through the wing and cut wiring.",
+      "kaynak": "Footage/qantas-32-2.jpg"
+    },
+    {
+      "metin": "The crew spent nearly two hours working through failures, then landed safely.",
+      "kaynak": "Footage/qantas-32-3.jpg"
+    },
+    {
+      "metin": "The cause was a small oil pipe inside the engine.",
+      "kaynak": "Footage/qantas-32-4.jpg"
+    },
+    {
+      "metin": "It had been machined off-centre, leaving its wall too thin.",
+      "kaynak": "Footage/qantas-32-1.png"
+    },
+    {
+      "metin": "A fatigue crack leaked oil, which caught fire.",
+      "kaynak": "Footage/qantas-32-2.jpg"
+    },
+    {
+      "metin": "A turbine disc overheated and burst.",
+      "kaynak": "Footage/qantas-32-3.jpg"
+    },
+    {
+      "metin": "Engines with the faulty pipe were inspected and replaced.",
+      "kaynak": "Footage/qantas-32-4.jpg"
+    }
+  ],
+  "aciklama": "Qantas 32 suffered an uncontained engine failure. The cause: misaligned counterbore thinning an oil feed stub pipe, leading to fatigue, oil fire and turbine disc failure.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Qantas 32",
+    "2010",
+    "oil feed pipe",
+    "engineering failure"
+  ],
+  "hook": "The wall was too thin",
+  "soru": "Near-miss or luck?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "Qantas Flight 32",
+    "kisa": "Qantas 32",
+    "nesne": "Oil feed pipe",
+    "yil": 2010,
+    "sonuc": "suffered an uncontained engine failure",
+    "tetik": "a fatigue crack in an oil pipe made with a thin wall",
+    "mekanizma": "misaligned counterbore thinning an oil feed stub pipe, leading to fatigue, oil fire and turbine disc failure",
+    "sayi": "THIN WALL",
+    "ders": "engines with the faulty pipe were inspected and replaced",
+    "zincir": [
+      "PIPE BORED OFF-CENTRE",
+      "WALL TOO THIN",
+      "FATIGUE CRACK LEAKS OIL",
+      "OIL FIRE",
+      "TURBINE DISC BURSTS"
+    ],
+    "zaman": [],
+    "yanilgi": "The engine didn't fail from bird strike or fuel. A manufacturing error left one oil pipe's wall too thin.",
+    "tartisma": "Nobody died, but debris cut wiring and a fuel tank. Would you call that a near-miss or a disaster averted by luck?",
+    "basliklar": [
+      "A Misaligned Oil Pipe Blew Apart an A380 Engine",
+      "Why Qantas Flight 32's Engine Exploded",
+      "The Thin-Walled Pipe That Burst an A380 Engine"
+    ],
+    "kapak": [
+      "THIN WALL",
+      "UNCONTAINED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Qantas Flight 32",
+        "url": "https://en.wikipedia.org/wiki/Qantas_Flight_32"
+      },
+      {
+        "ad": "Australian Transport Safety Bureau — ao 2010 089 final (cited by Wikipedia)",
+        "url": "http://www.atsb.gov.au/media/4173625/ao-2010-089_final.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-03",
+    "wiki": "Qantas_Flight_32",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Qantas Flight 32 damage.png [CC BY 3.0 au]",
+      "Qantas A380-800 VH-OQC Trent 900 nacelle.jpg [CC BY 2.0]",
+      "Qantas a380 vh-oqa takeoff heathrow arp.jpg [Public domain]",
+      "2 x A380s on final approach (6066307789).jpg [CC BY 2.0]"
+    ]
+  }
+}

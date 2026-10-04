@@ -1,0 +1,1558 @@
+{
+  "channel": "critical-thread",
+  "records": [
+    {
+      "slug": "what-quietly-depends-on-english-channel-traffic-separation-scheme",
+      "topic": "The Strait Carrying 400 Ships a Day",
+      "coreQuestion": "How do more than 400 ships a day cross paths in the narrow Strait of Dover without colliding?",
+      "openingLine": "Why 400 ships a day never collide here.",
+      "secondBeat": "The Strait of Dover runs on strict one-way lanes.",
+      "dependency": "North Sea ports and Atlantic trade depend on safe passage through the Strait of Dover.",
+      "mechanism": "A strict scheme of one-way shipping lanes, watched around the clock from both coasts, separates opposing traffic.",
+      "bottleneck": "Through-traffic crosses busy ferry routes between England and France in a narrow strait.",
+      "failureConsequence": "A collision or grounding would block lanes used by hundreds of ships a day.",
+      "resilience": "The Channel Tunnel carries some freight beneath the strait, but not deep-sea cargo.",
+      "expectedConsequence": "ships queue and reroute while lanes are cleared",
+      "number": "400+ ships/day",
+      "thumbnailText": "400 SHIPS DAILY",
+      "visualScenes": [
+        "traffic separation lanes in the Strait of Dover",
+        "ferries crossing shipping lanes",
+        "coastguard radar room",
+        "Channel Tunnel beneath the seabed",
+        "ship density heat map",
+        "white cliffs with passing tankers"
+      ],
+      "editorialTitles": [
+        "The Busiest Strait Most People Never Think About",
+        "How 400 Ships a Day Share the Dover Strait"
+      ],
+      "facts": [
+        {
+          "claim": "The strait is one of the busiest international seaways in the world, used by over 400 commercial vessels daily.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Dover",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Dover"
+        },
+        {
+          "claim": "HM Coastguard and the Maritime Gendarmerie maintain a 24-hour watch over the strait and enforce a strict regime of shipping lanes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Dover",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Dover"
+        },
+        {
+          "claim": "The Channel Tunnel provides an alternative route, crossing beneath the strait at an average depth of 45 m (148 ft) below the seabed.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Dover",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Dover"
+        },
+        {
+          "claim": "The first flood that formed the strait was about 425,000 years ago, when an ice-dammed lake in the southern North Sea overflowed.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Dover",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Dover"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 400 ships a day never collide here.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The Strait of Dover runs on strict one-way lanes.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It's one of the busiest seaways in the world.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "British and French coastguards watch it 24 hours a day.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Ferries between England and France must cut across the flow.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "The Channel Tunnel runs 45 metres below the seabed, but carries no ships.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "One collision here could stall traffic for North Sea ports.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a painted-on-the-chart rulebook keeps trade moving.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-mississippi-river-lock-system",
+      "topic": "The Structure Stopping the Mississippi From Moving",
+      "coreQuestion": "What keeps the Mississippi River from abandoning New Orleans for a shorter route to the sea?",
+      "openingLine": "Why the Mississippi is held to 30% diversion.",
+      "secondBeat": "Left alone, the river would shift to the Atchafalaya.",
+      "dependency": "New Orleans, Baton Rouge and the river's industrial corridor depend on the Mississippi staying in its channel.",
+      "mechanism": "Control gates at Old River cap how much of the Mississippi's flow can divert into the Atchafalaya River.",
+      "bottleneck": "The river naturally wants to shift to the steeper Atchafalaya route; one structure holds it back.",
+      "failureConsequence": "A failure would let the Mississippi change course, leaving ports on a stagnant channel.",
+      "resilience": "An auxiliary structure was added after the 1973 flood nearly caused failure.",
+      "expectedConsequence": "a river avulsion would reroute shipping, water supply and industry",
+      "number": "30%",
+      "thumbnailText": "HOLDING A RIVER",
+      "visualScenes": [
+        "map of the Mississippi and Atchafalaya split",
+        "Old River control gates",
+        "1973 flood damage",
+        "flow share diagram 70/30",
+        "ports along the lower Mississippi",
+        "avulsion concept animation"
+      ],
+      "editorialTitles": [
+        "The Gate Holding the Mississippi in Place",
+        "Why the Mississippi Wants to Move"
+      ],
+      "facts": [
+        {
+          "claim": "Between 1850 and 1950, the percentage of latitude flow entering the Atchafalaya River had increased from less than 10 percent to about 30 percent.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Old River Control Structure",
+          "url": "https://en.wikipedia.org/wiki/Old_River_Control_Structure"
+        },
+        {
+          "claim": "The Corps completed construction on the ORCS in 1963 to prevent the main channel flow of the Mississippi from altering its current course through avulsion.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Old River Control Structure",
+          "url": "https://en.wikipedia.org/wiki/Old_River_Control_Structure"
+        },
+        {
+          "claim": "The Mississippi flood of 1973 almost caused the control structure to fail.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Old River Control Structure",
+          "url": "https://en.wikipedia.org/wiki/Old_River_Control_Structure"
+        },
+        {
+          "claim": "By 1880, it rarely flowed eastward and was rapidly capturing more of the flow of the Mississippi.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Old River Control Structure",
+          "url": "https://en.wikipedia.org/wiki/Old_River_Control_Structure"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the Mississippi is held to 30% diversion.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Left alone, the river would shift to the Atchafalaya.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Between 1850 and 1950, that branch grew from under 10 to 30 percent.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "In 1963, engineers finished the Old River Control Structure to stop it.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "The 1973 flood almost made it fail.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Ports and refineries downstream depend on the river staying put.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "If the river moved, they'd sit beside a fading channel.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why one set of gates holds back a whole river.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-los-angeles-long-beach-port-complex",
+      "topic": "The Twin Ports That Unload America's Imports",
+      "coreQuestion": "Why does so much of America's imported cargo arrive through two neighbouring ports?",
+      "openingLine": "Why America's busiest container port has a twin.",
+      "secondBeat": "Los Angeles sits right beside the Port of Long Beach.",
+      "dependency": "Retailers and manufacturers across the U.S. depend on cargo arriving at Los Angeles and Long Beach.",
+      "mechanism": "Container terminals hand boxes to on-dock rail and trucks that carry them inland.",
+      "bottleneck": "Terminal space, cranes and rail links concentrate transpacific imports into one bay.",
+      "failureConsequence": "Congestion at the twin ports delays goods nationwide.",
+      "resilience": "Other West Coast, Gulf and East Coast ports can take some diverted ships.",
+      "expectedConsequence": "ships wait offshore and inland deliveries slip",
+      "number": "82 cranes",
+      "thumbnailText": "AMERICA’S PORT",
+      "visualScenes": [
+        "aerial view of San Pedro Bay ports",
+        "container cranes unloading",
+        "on-dock rail yard",
+        "ships anchored offshore",
+        "transpacific shipping route map",
+        "trucks queuing at terminal gates"
+      ],
+      "editorialTitles": [
+        "The Two Ports Behind America's Imports",
+        "Why Los Angeles and Long Beach Matter So Much"
+      ],
+      "facts": [
+        {
+          "claim": "The port has 25 cargo terminals, 82 container cranes, eight container terminals, and 113 miles (182 km) of on-dock rail.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Los Angeles",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Los_Angeles"
+        },
+        {
+          "claim": "It occupies 7,500 acres of land and water with 43 miles (69 km) of waterfront and adjoins the separate Port of Long Beach.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Los Angeles",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Los_Angeles"
+        },
+        {
+          "claim": "The port is the busiest port in the United States by container volume, and the 10th-busiest worldwide when combined with the neighboring Port of Long Beach.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Los Angeles",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Los_Angeles"
+        },
+        {
+          "claim": "In 1985, the port handled one million containers in a year for the first time.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Los Angeles",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Los_Angeles"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why America's busiest container port has a twin.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Los Angeles sits right beside the Port of Long Beach.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Los Angeles alone has 82 container cranes and 25 cargo terminals.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It adds 113 miles of on-dock rail.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Combined, the twin ports rank 10th in the world.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Transpacific cargo funnels into this single bay.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "When it jams, store shelves far inland feel it.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why one bay can set the pace for a whole country's imports.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-air-cargo-hub-network",
+      "topic": "The Airport Where Packages Change Planes at Night",
+      "coreQuestion": "Why does so much overnight air freight fly through Memphis?",
+      "openingLine": "Why 1 city sorts a million packages nightly.",
+      "secondBeat": "FedEx built its main hub there in 1973.",
+      "dependency": "Overnight parcel delivery across the U.S. depends on a central sorting hub where planes swap packages.",
+      "mechanism": "Planes converge on one hub at night, packages are sorted, and flights depart before dawn.",
+      "bottleneck": "A hub-and-spoke network concentrates the whole night's sort in one place.",
+      "failureConsequence": "Weather or an outage at the hub delays packages across the network.",
+      "resilience": "Regional hubs and ground networks absorb part of the volume.",
+      "expectedConsequence": "next-day deliveries slip across the country",
+      "number": "1 million packages/night",
+      "thumbnailText": "1M PACKAGES NIGHTLY",
+      "visualScenes": [
+        "cargo jets lined up at night",
+        "package sorting conveyor maze",
+        "hub-and-spoke route map",
+        "timeline of the night sort",
+        "ramp crews loading containers",
+        "dawn departures wave"
+      ],
+      "editorialTitles": [
+        "The Night Hub Behind Overnight Delivery",
+        "Why Memphis Became a Cargo Giant"
+      ],
+      "facts": [
+        {
+          "claim": "In 1973, Federal Express established its main hub at the airport.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Memphis International Airport",
+          "url": "https://en.wikipedia.org/wiki/Memphis_International_Airport"
+        },
+        {
+          "claim": "Memphis became the busiest airport by cargo traffic worldwide in 1992.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Memphis International Airport",
+          "url": "https://en.wikipedia.org/wiki/Memphis_International_Airport"
+        },
+        {
+          "claim": "By 2000, the hub processed over one million packages per night, and FedEx ran 150 daily flights from Memphis.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Memphis International Airport",
+          "url": "https://en.wikipedia.org/wiki/Memphis_International_Airport"
+        },
+        {
+          "claim": "As of 2018, Memphis was the second-busiest cargo airport in the world.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Memphis International Airport",
+          "url": "https://en.wikipedia.org/wiki/Memphis_International_Airport"
+        },
+        {
+          "claim": "The airport opened the first air-cargo terminal in the country in February 1958.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Memphis International Airport",
+          "url": "https://en.wikipedia.org/wiki/Memphis_International_Airport"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 1 city sorts a million packages nightly.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "FedEx built its main hub there in 1973.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "By 1992, it was the world's busiest cargo airport.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "By 2000, FedEx ran 150 daily flights from the hub.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Planes fly in, packages swap planes, and flights leave before dawn.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "One stormy night at the hub delays deliveries nationwide.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "As of 2018, it was still the second-busiest cargo airport.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That's why overnight delivery depends on one city's night shift.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-hvdc-converter-valve-is-so-hard-to-replace",
+      "topic": "The Power Lines Carrying Electricity 3,000 Kilometres",
+      "coreQuestion": "How do grids move power thousands of kilometres, and why are the converters so critical?",
+      "openingLine": "Why one Chinese power line runs 3,000 kilometres.",
+      "secondBeat": "It uses direct current at 1,100 kilovolts.",
+      "dependency": "Long-distance transmission, undersea interconnectors and offshore wind depend on HVDC converter stations.",
+      "mechanism": "Converter valves turn alternating current into direct current for transmission, then back again.",
+      "bottleneck": "Each link depends on custom converter stations at both ends.",
+      "failureConsequence": "A converter outage removes the whole link's capacity at once.",
+      "resilience": "Parallel AC lines and spare capacity elsewhere cover some of the loss.",
+      "expectedConsequence": "grid operators lose a large block of imported power instantly",
+      "number": "1,100 kV",
+      "thumbnailText": "3,000 KM POWERLINE",
+      "visualScenes": [
+        "HVDC converter hall with valve towers",
+        "AC to DC conversion diagram",
+        "3,000 km line across China",
+        "undersea interconnector map",
+        "voltage comparison chart",
+        "offshore wind converter platform"
+      ],
+      "editorialTitles": [
+        "The Converters Behind Long-Distance Power",
+        "Why HVDC Links Hinge on Their Converters"
+      ],
+      "facts": [
+        {
+          "claim": "A high-voltage direct current (HVDC) system uses direct current and high voltages (currently between 100 kV and 800 kV) for electric power transmission.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — High-voltage direct current",
+          "url": "https://en.wikipedia.org/wiki/High-voltage_direct_current"
+        },
+        {
+          "claim": "The longest HVDC link in the world is the Zhundong–South Anhui link in China, a ±1,100 kV, ultra HVDC line with a length of more than 3,000 km (1,900 mi).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — High-voltage direct current",
+          "url": "https://en.wikipedia.org/wiki/High-voltage_direct_current"
+        },
+        {
+          "claim": "Early commercial installations included a 100 kV, 20 MW system between Gotland and mainland Sweden in 1954.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — High-voltage direct current",
+          "url": "https://en.wikipedia.org/wiki/High-voltage_direct_current"
+        },
+        {
+          "claim": "Other Thury systems operating at up to 100 kV DC worked into the 1930s, but the rotating machinery required high maintenance and had high energy loss.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — High-voltage direct current",
+          "url": "https://en.wikipedia.org/wiki/High-voltage_direct_current"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one Chinese power line runs 3,000 kilometres.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It uses direct current at 1,100 kilovolts.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Most HVDC links run between 100 and 800 kilovolts.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "An early one linked Gotland to Sweden in 1954, at just 20 megawatts.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Converter stations at each end turn AC into DC and back.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Lose a converter, and the whole link's power drops at once.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why long-distance power depends on its two endpoints.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-black-start-generator",
+      "topic": "The Small Generators That Restart a Dead Grid",
+      "coreQuestion": "After a total blackout, how does a grid restart when power plants need power to start?",
+      "openingLine": "Why big power plants can't restart themselves.",
+      "secondBeat": "Steam plants use up to 10% of output just running.",
+      "dependency": "Grid recovery after a blackout depends on units that can start without external power.",
+      "mechanism": "Black-start units energise lines step by step so larger plants can restart.",
+      "bottleneck": "Big steam plants need external power just to run their own pumps and fans.",
+      "failureConsequence": "Without enough black-start capacity, restoring a grid takes far longer.",
+      "resilience": "Batteries and grid-forming wind farms are now proving they can black-start too.",
+      "expectedConsequence": "outages last longer when black-start units are scarce",
+      "number": "10–50 MW",
+      "thumbnailText": "RESTARTING THE GRID",
+      "visualScenes": [
+        "dark city skyline during a blackout",
+        "small hydro plant starting up",
+        "restoration sequence diagram",
+        "steam plant auxiliary pumps",
+        "battery power station",
+        "wind farm with grid-forming inverters"
+      ],
+      "editorialTitles": [
+        "How a Dead Power Grid Comes Back",
+        "Why Power Plants Need Power to Start"
+      ],
+      "facts": [
+        {
+          "claim": "A typical BS generator is a small (10–50 MW) hydro or gas turbine generation unit.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Black start",
+          "url": "https://en.wikipedia.org/wiki/Black_start"
+        },
+        {
+          "claim": "Generating plants using steam turbines require station service power of up to 10% of their capacity for boiler feedwater pumps, boiler forced-draft combustion air blowers, and for fuel preparation.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Black start",
+          "url": "https://en.wikipedia.org/wiki/Black_start"
+        },
+        {
+          "claim": "The first black start on Germany's grid was tested in 2017 at WEMAG battery power station in Schwerin on a disconnected, isolated grid.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Black start",
+          "url": "https://en.wikipedia.org/wiki/Black_start"
+        },
+        {
+          "claim": "In 2020, the 69 MW Dersalloch wind farm black-started part of the Scotland grid, using virtual synchronous machines.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Black start",
+          "url": "https://en.wikipedia.org/wiki/Black_start"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why big power plants can't restart themselves.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Steam plants use up to 10% of output just running.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "After a blackout, that power has to come from somewhere.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Small black-start units, often 10 to 50 megawatts, go first.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "They energise lines step by step until bigger plants wake up.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "In 2020, a 69-megawatt Scottish wind farm black-started part of the grid.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Without enough of these units, restoration drags on.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a grid's restart button is its smallest generators.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-internet-exchange-point-becomes-the-bottleneck",
+      "topic": "The Frankfurt Hub Moving 19.6 Terabits a Second",
+      "coreQuestion": "Why does so much internet traffic meet in a few buildings in Frankfurt?",
+      "openingLine": "Why 19.6 terabits a second meet in Frankfurt.",
+      "secondBeat": "That's the peak throughput of DE-CIX, one exchange point.",
+      "dependency": "Networks from more than 100 countries exchange traffic directly at DE-CIX in Frankfurt.",
+      "mechanism": "Carriers, ISPs and content networks connect to a shared switching fabric and swap traffic without paying transit.",
+      "bottleneck": "Peering concentrates huge volumes of traffic in a handful of data centres.",
+      "failureConsequence": "An outage forces traffic onto longer, costlier transit routes, adding latency.",
+      "resilience": "Networks usually keep backup transit links and other exchanges.",
+      "expectedConsequence": "latency rises as traffic reroutes",
+      "number": "19.6 Tbit/s",
+      "thumbnailText": "19.6 TERABITS/SEC",
+      "visualScenes": [
+        "data centre corridor with switches",
+        "peering diagram between networks",
+        "map of connected cities",
+        "traffic graph peaking",
+        "fibre patch panels",
+        "transit versus peering route comparison"
+      ],
+      "editorialTitles": [
+        "Where the Internet's Networks Meet",
+        "Why Frankfurt Is an Internet Crossroads"
+      ],
+      "facts": [
+        {
+          "claim": "The DE-CIX Internet exchange point situated in Frankfurt, Germany, is one of the largest IXPs worldwide, with throughput of 19.6 terabits per second (Tbit/s) in July 2026.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — DE-CIX",
+          "url": "https://en.wikipedia.org/wiki/DE-CIX"
+        },
+        {
+          "claim": "DE-CIX is accessible from data centers in over 600 cities worldwide and connects network operators from more than 100 countries.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — DE-CIX",
+          "url": "https://en.wikipedia.org/wiki/DE-CIX"
+        },
+        {
+          "claim": "The optical backbone has a total capacity of 48 terabits per second across a mesh-network topology.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — DE-CIX",
+          "url": "https://en.wikipedia.org/wiki/DE-CIX"
+        },
+        {
+          "claim": "DE-CIX has attracted networks from all over the world, leading to an annual traffic growth rate of up to 100 percent per year.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — DE-CIX",
+          "url": "https://en.wikipedia.org/wiki/DE-CIX"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 19.6 terabits a second meet in Frankfurt.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's the peak throughput of DE-CIX, one exchange point.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It links networks from more than 100 countries.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "They swap traffic directly, instead of paying others to carry it.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its optical backbone can carry 48 terabits per second.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "If it fails, traffic detours over longer, pricier routes.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why the internet's shortcuts run through a few buildings.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-automatic-dependent-surveillance-broadcast-network",
+      "topic": "The Signal Every Plane Broadcasts Once a Second",
+      "coreQuestion": "How do controllers see aircraft where radar can't reach?",
+      "openingLine": "Why planes broadcast their position every second.",
+      "secondBeat": "That's ADS-B, on 1090 or 978 megahertz.",
+      "dependency": "Air traffic control in many regions depends on aircraft broadcasting their own GPS positions.",
+      "mechanism": "Aircraft broadcast position reports every second on 1090 MHz or 978 MHz, picked up by ground stations and other aircraft.",
+      "bottleneck": "The system trusts satellite navigation on board each aircraft.",
+      "failureConsequence": "If GPS is jammed or a transmitter fails, the aircraft drops out of the shared picture.",
+      "resilience": "Radar and procedural separation remain as backups in many areas.",
+      "expectedConsequence": "controllers widen spacing when position data drops",
+      "number": "1 report/second",
+      "thumbnailText": "EVERY SECOND",
+      "visualScenes": [
+        "air traffic control screen with aircraft icons",
+        "GPS satellite to aircraft to ground station diagram",
+        "remote Hudson Bay airspace map",
+        "1090 MHz frequency band graphic",
+        "cockpit traffic display",
+        "radar coverage gap map"
+      ],
+      "editorialTitles": [
+        "The Signal That Replaced Radar in Remote Skies",
+        "How Planes Announce Themselves Every Second"
+      ],
+      "facts": [
+        {
+          "claim": "The most common ADS-B data links operate at 1090 MHz, essentially a modified Mode S transponder, or at 978 MHz.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Automatic Dependent Surveillance–Broadcast",
+          "url": "https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance–Broadcast"
+        },
+        {
+          "claim": "In both forms of ADS-B (1090ES & 978 MHz UAT), the position report is updated once per second.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Automatic Dependent Surveillance–Broadcast",
+          "url": "https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance–Broadcast"
+        },
+        {
+          "claim": "Canada uses ADS-B for surveillance in remote regions not covered by traditional radar since 15 January 2009.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Automatic Dependent Surveillance–Broadcast",
+          "url": "https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance–Broadcast"
+        },
+        {
+          "claim": "Since implementation of the FAA's ADS-B Out equipage requirement on January 1, 2020, ADS-B has become the FAA's preferred surveillance technology.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Automatic Dependent Surveillance–Broadcast",
+          "url": "https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance–Broadcast"
+        },
+        {
+          "claim": "The FAA would like aircraft that operate exclusively below 18,000 feet to use the 978 MHz link, to alleviate congestion of the 1090 MHz frequency.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Automatic Dependent Surveillance–Broadcast",
+          "url": "https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance–Broadcast"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why planes broadcast their position every second.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's ADS-B, on 1090 or 978 megahertz.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Canada has used it since 2009 where radar can't reach.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The FAA required it from January 1, 2020.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Aircraft below 18,000 feet are steered to 978 MHz to ease congestion.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Each report depends on the plane's own satellite navigation.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Jam that signal, and aircraft fade from the shared picture.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why modern air traffic control trusts planes to report themselves.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-airport-baggage-handling-system-becomes-the-bottleneck",
+      "topic": "The Baggage System That Delayed an Entire Airport",
+      "coreQuestion": "How did an automated baggage system help delay a new airport's opening, and why was it scrapped?",
+      "openingLine": "Why Denver's airport opening kept slipping.",
+      "secondBeat": "Its automated baggage system was a condition of the deal.",
+      "dependency": "Airports depend on baggage systems to move luggage between check-in, aircraft and reclaim on tight connections.",
+      "mechanism": "Conveyors and carts route each bag through tunnels to the right aircraft or carousel.",
+      "bottleneck": "A single integrated system must work for every airline and every flight at once.",
+      "failureConsequence": "When it jams, flights leave without bags or wait for them.",
+      "resilience": "Manual handling can replace automation, at higher labour cost.",
+      "expectedConsequence": "connections are missed and bags pile up",
+      "number": "2005",
+      "thumbnailText": "BAGGAGE CHAOS",
+      "visualScenes": [
+        "Denver airport tented roof",
+        "automated baggage carts in tunnels",
+        "opening date slipping on a calendar",
+        "bags piling up at a jam",
+        "manual baggage handlers",
+        "conveyor routing diagram"
+      ],
+      "editorialTitles": [
+        "The Baggage System That Delayed an Airport",
+        "Why Denver Gave Up on Its Robot Luggage Carts"
+      ],
+      "facts": [
+        {
+          "claim": "The airline finally relented under the condition that the airport include an automated baggage system.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Denver International Airport",
+          "url": "https://en.wikipedia.org/wiki/Denver_International_Airport"
+        },
+        {
+          "claim": "Construction delays pushed opening day back, first to December 1993, then to March 1994.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Denver International Airport",
+          "url": "https://en.wikipedia.org/wiki/Denver_International_Airport"
+        },
+        {
+          "claim": "In April 1994, the city invited reporters to observe the first test of the new automated baggage system.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Denver International Airport",
+          "url": "https://en.wikipedia.org/wiki/Denver_International_Airport"
+        },
+        {
+          "claim": "The baggage system continued to be a maintenance hassle and was finally terminated in September 2005, with traditional baggage handlers manually handling cargo and passenger luggage.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Denver International Airport",
+          "url": "https://en.wikipedia.org/wiki/Denver_International_Airport"
+        },
+        {
+          "claim": "The actual use for the tunnels is to move luggage between check-in counters, airplanes and baggage claim areas.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Denver International Airport",
+          "url": "https://en.wikipedia.org/wiki/Denver_International_Airport"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Denver's airport opening kept slipping.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Its automated baggage system was a condition of the deal.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Tunnels move luggage between check-in, planes and baggage claim.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Opening day slid to December 1993, then March 1994.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "In April 1994, reporters watched the system's first test.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "It stayed a maintenance hassle until it was scrapped in 2005.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Humans went back to handling the bags.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why the humble bag belt can decide when an airport opens.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-container-ship-main-engine-is-so-hard-to-replace",
+      "topic": "The 2,300-Tonne Engine Driving a Container Ship",
+      "coreQuestion": "What does it take to push a giant container ship across an ocean?",
+      "openingLine": "Why one 2,300-tonne engine drives a whole ship.",
+      "secondBeat": "The largest version produces 80 megawatts.",
+      "dependency": "Large container ships depend on a single slow-speed diesel engine turning one propeller.",
+      "mechanism": "A two-stroke engine turns the propeller shaft directly, without a gearbox.",
+      "bottleneck": "One engine per ship means no redundancy for propulsion.",
+      "failureConsequence": "An engine failure leaves a ship drifting until tugs or repairs arrive.",
+      "resilience": "Crews carry spare parts and can repair many faults at sea.",
+      "expectedConsequence": "a disabled ship drifts and can block traffic",
+      "number": "80 MW",
+      "thumbnailText": "2,300-TONNE ENGINE",
+      "visualScenes": [
+        "engine as tall as a four-storey building",
+        "crankshaft and crosshead diagram",
+        "Emma Mærsk at sea",
+        "engine room catwalks",
+        "propeller shaft line",
+        "power comparison with a power plant"
+      ],
+      "editorialTitles": [
+        "The Giant Engine Inside a Container Ship",
+        "Why One Engine Moves a Whole Ship"
+      ],
+      "facts": [
+        {
+          "claim": "Its largest 14-cylinder version is 13.5 m (44 ft) high, 26.59 m (87.2 ft) long, weighs over 2,300 t, and produces 80.08 MW (107,390 hp).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wärtsilä-Sulzer RTA96-C",
+          "url": "https://en.wikipedia.org/wiki/Wärtsilä-Sulzer_RTA96-C"
+        },
+        {
+          "claim": "The 14-cylinder version first entered commercial service in September 2006 aboard the Emma Mærsk.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wärtsilä-Sulzer RTA96-C",
+          "url": "https://en.wikipedia.org/wiki/Wärtsilä-Sulzer_RTA96-C"
+        },
+        {
+          "claim": "The Wärtsilä RT-flex96C is a two-stroke turbocharged low-speed diesel engine designed by WinGD.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wärtsilä-Sulzer RTA96-C",
+          "url": "https://en.wikipedia.org/wiki/Wärtsilä-Sulzer_RTA96-C"
+        },
+        {
+          "claim": "As of 2006, more than 300 RT-flex96C engines and older RTA96C engines were in service or on order.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wärtsilä-Sulzer RTA96-C",
+          "url": "https://en.wikipedia.org/wiki/Wärtsilä-Sulzer_RTA96-C"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one 2,300-tonne engine drives a whole ship.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The largest version produces 80 megawatts.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It stands 13.5 metres high and 26.59 metres long.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It first went to sea in 2006 aboard the Emma Mærsk.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It's a slow two-stroke diesel, turning the propeller directly.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Most big ships carry just one main engine.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "If it stops, the ship drifts until help arrives.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a single machine decides whether cargo keeps moving.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-classification-hump-yard-becomes-the-bottleneck",
+      "topic": "The Rail Yard Sorting 3,000 Cars a Day",
+      "coreQuestion": "How does the world's largest rail yard sort thousands of freight cars every day?",
+      "openingLine": "Why 14,000 rail cars pass one yard daily.",
+      "secondBeat": "Bailey Yard in Nebraska sorts about 3,000 of them.",
+      "dependency": "U.S. freight trains depend on hump yards to break up and rebuild trains by destination.",
+      "mechanism": "Cars are pushed over a hump and roll by gravity into the right track.",
+      "bottleneck": "Huge volumes of cars funnel through a few big sorting yards.",
+      "failureConsequence": "A yard slowdown ripples delays across the rail network.",
+      "resilience": "Railroads reroute trains or sort at other yards at lower capacity.",
+      "expectedConsequence": "shipments wait as cars back up at the yard",
+      "number": "14,000 cars/day",
+      "thumbnailText": "3,000 CARS SORTED",
+      "visualScenes": [
+        "aerial view of Bailey Yard",
+        "freight car rolling over the hump",
+        "bowl tracks fanning out",
+        "control tower overlooking the yard",
+        "train count graphic",
+        "wheel-set repair shop"
+      ],
+      "editorialTitles": [
+        "The Giant Rail Yard That Sorts America's Freight",
+        "How Gravity Sorts 3,000 Freight Cars a Day"
+      ],
+      "facts": [
+        {
+          "claim": "An average of 139 trains and over 14,000 railroad cars pass through Bailey Yard every day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bailey Yard",
+          "url": "https://en.wikipedia.org/wiki/Bailey_Yard"
+        },
+        {
+          "claim": "The yard sorts approximately 3,000 cars daily using the yard's two humps.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bailey Yard",
+          "url": "https://en.wikipedia.org/wiki/Bailey_Yard"
+        },
+        {
+          "claim": "Bailey Yard has 200 separate tracks totaling 315 miles (507 km) of track, 985 switches, 766 turnouts, and 17 receiving and 16 departure tracks.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bailey Yard",
+          "url": "https://en.wikipedia.org/wiki/Bailey_Yard"
+        },
+        {
+          "claim": "The humps sort four cars per minute into one of the 114 bowl tracks.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bailey Yard",
+          "url": "https://en.wikipedia.org/wiki/Bailey_Yard"
+        },
+        {
+          "claim": "The eastbound hump is a 34 foot (10 m) tall mound, and the westbound hump is 20 feet (6.1 m) high.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bailey Yard",
+          "url": "https://en.wikipedia.org/wiki/Bailey_Yard"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 14,000 rail cars pass one yard daily.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Bailey Yard in Nebraska sorts about 3,000 of them.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It handles an average of 139 trains a day.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Cars roll over a 34-foot hump and sort by gravity.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's 4 cars a minute into 114 bowl tracks.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "The yard spans 315 miles of track.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "A slowdown here delays freight across the network.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a hill of dirt still sorts America's freight.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-combined-sewer-overflow-gate-is-so-hard-to-replace",
+      "topic": "Why 2 mm of Rain Sent Sewage Into the Thames",
+      "coreQuestion": "Why did London's Victorian sewers overflow into the Thames after light rain?",
+      "openingLine": "Why 2 mm of rain fouled the Thames.",
+      "secondBeat": "London's Victorian sewers carry rain and sewage together.",
+      "dependency": "London's sewer network carries both rainwater and sewage in the same pipes.",
+      "mechanism": "When pipes fill, combined sewer overflows release the excess into the river instead of homes.",
+      "bottleneck": "A system designed for a smaller city now serves a far denser one.",
+      "failureConsequence": "Overflows discharge raw sewage into the river, sometimes weekly.",
+      "resilience": "The Thames Tideway Tunnel intercepts overflows and carries them to treatment.",
+      "expectedConsequence": "river pollution rises with each heavy rain",
+      "number": "57 overflows",
+      "thumbnailText": "2 MM RAIN",
+      "visualScenes": [
+        "Bazalgette-era sewer tunnel",
+        "combined sewer overflow outfall on the Thames",
+        "rainfall triggering discharge diagram",
+        "Tideway tunnel boring machine",
+        "population density comparison",
+        "river water quality chart"
+      ],
+      "editorialTitles": [
+        "Why London's Sewers Spill Into the Thames",
+        "The Super Sewer Built for 2 mm of Rain"
+      ],
+      "facts": [
+        {
+          "claim": "Bazalgette's system had the ability to overflow into the Thames via 57 combined sewer overflows (CSOs) along the banks of the river.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Thames Tideway Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Thames_Tideway_Tunnel"
+        },
+        {
+          "claim": "By 2011 overflows into the river took place more than once a week and as little as 2 mm of rainfall could trigger a discharge.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Thames Tideway Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Thames_Tideway_Tunnel"
+        },
+        {
+          "claim": "In 2001, London's population density was 18,457 people per square kilometre, compared to just 6,825 per square kilometre in Bazalgette's day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Thames Tideway Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Thames_Tideway_Tunnel"
+        },
+        {
+          "claim": "The 2021-22 annual report gave an updated cost of £4.3bn.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Thames Tideway Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Thames_Tideway_Tunnel"
+        },
+        {
+          "claim": "The first sewage flowed into the tunnel in September 2024.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Thames Tideway Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Thames_Tideway_Tunnel"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 2 mm of rain fouled the Thames.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "London's Victorian sewers carry rain and sewage together.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "When full, they spill through 57 overflows into the river.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Density more than doubled, from 6,825 to 18,457 people per square kilometre.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "By 2011, overflows happened more than once a week.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "A £4.3 billion super sewer now intercepts them.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The first sewage flowed into it in September 2024.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why a city's river quality hinges on its oldest pipes.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-foreign-exchange-settlement-system-is-so-hard-to-replace",
+      "topic": "The System Settling $15.4 Trillion in a Day",
+      "coreQuestion": "How does the currency market avoid one bank paying and never getting paid back?",
+      "openingLine": "Why $15.4 trillion once settled in a day.",
+      "secondBeat": "CLS settles both sides of a currency trade together.",
+      "dependency": "Much of the global foreign exchange market settles through CLS to remove settlement risk.",
+      "mechanism": "Payment-versus-payment settlement releases both legs of a currency trade together or not at all.",
+      "bottleneck": "A single system settles a large share of the world's currency trades.",
+      "failureConsequence": "Without it, banks face the risk that a counterparty fails mid-settlement, as in 1974.",
+      "resilience": "Banks can settle bilaterally, but with more risk and more liquidity needed.",
+      "expectedConsequence": "settlement risk and liquidity demands would rise sharply",
+      "number": "$15.4 trillion",
+      "thumbnailText": "$15.4 TRILLION DAY",
+      "visualScenes": [
+        "currency trade with two payment legs",
+        "Herstatt 1974 newspaper headline",
+        "payment-versus-payment diagram",
+        "settlement volume chart",
+        "time zone clock wall",
+        "bank network map"
+      ],
+      "editorialTitles": [
+        "The System That Settles the Currency Market",
+        "Why a 1974 Bank Collapse Still Shapes FX"
+      ],
+      "facts": [
+        {
+          "claim": "Settlement risk is known as Herstatt Risk, after the German bank Bankhaus Herstatt, which collapsed in June 1974 leaving many of its FX counterparties with significant losses.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — CLS Group",
+          "url": "https://en.wikipedia.org/wiki/CLS_Group"
+        },
+        {
+          "claim": "Since it began operations in 2002, CLS has rapidly increased and by March 2017 was settling just over 50% of global FX transactions.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — CLS Group",
+          "url": "https://en.wikipedia.org/wiki/CLS_Group"
+        },
+        {
+          "claim": "The single day record for value settled is US$15.4 trillion, set on 15 December 2021.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — CLS Group",
+          "url": "https://en.wikipedia.org/wiki/CLS_Group"
+        },
+        {
+          "claim": "The single day record for volume settled is 3.2 million trades, set on 5 July 2022.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — CLS Group",
+          "url": "https://en.wikipedia.org/wiki/CLS_Group"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why $15.4 trillion once settled in a day.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "CLS settles both sides of a currency trade together.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "By 2017, it handled just over 50% of global FX trades.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It exists because of Herstatt, a bank that collapsed in 1974.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Its partners paid in, but never got paid back.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Its busiest day by volume was 3.2 million trades.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why the currency market runs on one settlement system.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-internet-protocol-standardization",
+      "topic": "The Day the Internet Ran Out of Addresses",
+      "coreQuestion": "What happened when the internet's original address system ran out of numbers?",
+      "openingLine": "Why the internet's 4.3 billion addresses ran out.",
+      "secondBeat": "IPv4 was designed long before phones and smart devices.",
+      "dependency": "Every device on the internet needs an address, originally from IPv4's fixed pool.",
+      "mechanism": "IANA allocates address blocks to regional registries, which assign them to networks.",
+      "bottleneck": "IPv4 was designed with fewer than 4.3 billion addresses.",
+      "failureConsequence": "Once pools ran dry, networks had to share addresses or move to IPv6.",
+      "resilience": "Address sharing and IPv6 extend capacity, but add complexity.",
+      "expectedConsequence": "address markets and translation layers spread",
+      "number": "4.3 billion",
+      "thumbnailText": "OUT OF ADDRESSES",
+      "visualScenes": [
+        "IPv4 address counter hitting zero",
+        "IANA handing blocks to regional registries",
+        "world map of registries",
+        "IPv6 adoption chart",
+        "home router sharing one address",
+        "ceremony in February 2011"
+      ],
+      "editorialTitles": [
+        "The Day the Internet Ran Out of Addresses",
+        "Why IPv4's 4.3 Billion Weren't Enough"
+      ],
+      "facts": [
+        {
+          "claim": "Because the original Internet architecture had fewer than 4.3 billion addresses available, depletion had been anticipated since the late 1980s.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — IPv4 address exhaustion",
+          "url": "https://en.wikipedia.org/wiki/IPv4_address_exhaustion"
+        },
+        {
+          "claim": "The top-level exhaustion occurred on 31 January 2011.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — IPv4 address exhaustion",
+          "url": "https://en.wikipedia.org/wiki/IPv4_address_exhaustion"
+        },
+        {
+          "claim": "IANA proceeded to allocate one of the five remaining /8s to each RIR, exhausting the IANA pool, at a ceremony and press conference on 3 February 2011.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — IPv4 address exhaustion",
+          "url": "https://en.wikipedia.org/wiki/IPv4_address_exhaustion"
+        },
+        {
+          "claim": "APNIC was the first regional Internet registry to run out of freely allocated IPv4 addresses, on 15 April 2011.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — IPv4 address exhaustion",
+          "url": "https://en.wikipedia.org/wiki/IPv4_address_exhaustion"
+        },
+        {
+          "claim": "In early 2011, only 16–26% of computers were IPv6 capable, while only 0.2% preferred IPv6 addressing.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — IPv4 address exhaustion",
+          "url": "https://en.wikipedia.org/wiki/IPv4_address_exhaustion"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the internet's 4.3 billion addresses ran out.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "IPv4 was designed long before phones and smart devices.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The central pool hit its limit on 31 January 2011.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "On 3 February 2011, the last blocks went to regional registries.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Asia's registry ran out first, on 15 April 2011.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Back then, only 16 to 26% of computers could use IPv6.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "So networks began sharing addresses behind translators.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a numbering standard still shapes how you connect.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-tungsten-carbide-powder-plant-is-so-hard-to-replace",
+      "topic": "The Metal That Melts at 3,422 °C",
+      "coreQuestion": "Why does modern machining depend on a metal mostly supplied by one country?",
+      "openingLine": "Why tool makers need 3,422 °C tungsten.",
+      "secondBeat": "Tungsten has the highest melting point of any element.",
+      "dependency": "Cutting tools, drill bits and wear parts depend on tungsten carbide.",
+      "mechanism": "Tungsten powder is heated with carbon to form carbide, then pressed and sintered into tools.",
+      "bottleneck": "Mined supply is concentrated in China, far ahead of other producers.",
+      "failureConsequence": "Export curbs would squeeze tool makers and heavy industry worldwide.",
+      "resilience": "Recycled scrap supplies about a third of tungsten; other mines are small.",
+      "expectedConsequence": "tool prices rise and lead times stretch",
+      "number": "3,422 °C",
+      "thumbnailText": "3,422 °C",
+      "visualScenes": [
+        "tungsten carbide drill bit cutting steel",
+        "melting point comparison chart",
+        "powder metallurgy press",
+        "production share bar China versus others",
+        "scrap recycling line",
+        "mining site"
+      ],
+      "editorialTitles": [
+        "The Metal Behind Every Cutting Tool",
+        "Why Tungsten Supply Is So Concentrated"
+      ],
+      "facts": [
+        {
+          "claim": "Tungsten has the highest melting point of all known elements, at 3,422 °C (6,192 °F; 3,695 K).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tungsten",
+          "url": "https://en.wikipedia.org/wiki/Tungsten"
+        },
+        {
+          "claim": "About 50% of tungsten is used in tungsten carbide, with the remaining major use being alloys and steels.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tungsten",
+          "url": "https://en.wikipedia.org/wiki/Tungsten"
+        },
+        {
+          "claim": "In 2025, China, Vietnam and Kazakhstan were the leading suppliers with 67,000, 3,000 an 2,400 tonnes, respectively.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tungsten",
+          "url": "https://en.wikipedia.org/wiki/Tungsten"
+        },
+        {
+          "claim": "In 2013 about 34% of total tungsten production came from recycled tungsten-rich scrap, rather than from mined ores.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tungsten",
+          "url": "https://en.wikipedia.org/wiki/Tungsten"
+        },
+        {
+          "claim": "Tungsten carbides (W2C and WC) are produced by heating powdered tungsten with carbon.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tungsten",
+          "url": "https://en.wikipedia.org/wiki/Tungsten"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why tool makers need 3,422 °C tungsten.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Tungsten has the highest melting point of any element.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "About 50% of it becomes tungsten carbide for cutting tools.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "In 2025, China supplied 67,000 tonnes.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "The next supplier, Vietnam, supplied 3,000.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Recycled scrap provided about 34% of production in 2013.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Export limits would hit machine shops worldwide.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why the hardest tools rest on a narrow supply chain.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-platinum-group-metal-refinery",
+      "topic": "The Rock Formation Holding 75% of the World's Platinum",
+      "coreQuestion": "Why does most of the world's platinum come from one geological formation in South Africa?",
+      "openingLine": "Why 75% of platinum sits in one formation.",
+      "secondBeat": "It's South Africa's Bushveld Complex, as big as Ireland.",
+      "dependency": "Catalytic converters, fuel cells and chemical catalysts depend on platinum-group metals.",
+      "mechanism": "Thin ore reefs in the Bushveld Complex are mined deep underground and refined into platinum and palladium.",
+      "bottleneck": "A single igneous complex holds most known platinum resources.",
+      "failureConsequence": "Power cuts, strikes or mine closures in the region tighten global supply.",
+      "resilience": "Recycling of catalytic converters and Russian palladium add supply.",
+      "expectedConsequence": "prices spike when Bushveld output falls",
+      "number": "75%",
+      "thumbnailText": "75% OF PLATINUM",
+      "visualScenes": [
+        "map of the Bushveld Complex",
+        "thin Merensky Reef layer in rock",
+        "deep-level mine shaft",
+        "catalytic converter cutaway",
+        "platinum share pie chart",
+        "refinery furnace"
+      ],
+      "editorialTitles": [
+        "The Rock That Holds the World's Platinum",
+        "Why Platinum Supply Hangs on One Formation"
+      ],
+      "facts": [
+        {
+          "claim": "It represents about 75 percent of the world's platinum and about 50 percent of the world's palladium resources.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bushveld Igneous Complex",
+          "url": "https://en.wikipedia.org/wiki/Bushveld_Igneous_Complex"
+        },
+        {
+          "claim": "It covers over 66,000 km2 (25,000 sq mi), an area the size of Ireland.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bushveld Igneous Complex",
+          "url": "https://en.wikipedia.org/wiki/Bushveld_Igneous_Complex"
+        },
+        {
+          "claim": "The Merensky and UG2 reefs contain approximately 90% of the world's known PGM reserves.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bushveld Igneous Complex",
+          "url": "https://en.wikipedia.org/wiki/Bushveld_Igneous_Complex"
+        },
+        {
+          "claim": "About 80% of the platinum and 20% of the palladium mined each year are produced from these horizons.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bushveld Igneous Complex",
+          "url": "https://en.wikipedia.org/wiki/Bushveld_Igneous_Complex"
+        },
+        {
+          "claim": "The Reef contains an average of 10 ppm platinum group metals.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bushveld Igneous Complex",
+          "url": "https://en.wikipedia.org/wiki/Bushveld_Igneous_Complex"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 75% of platinum sits in one formation.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It's South Africa's Bushveld Complex, as big as Ireland.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It also holds about 50% of palladium resources.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Two thin reefs contain about 90% of known reserves.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "They produce about 80% of the platinum mined each year.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Catalytic converters and fuel cells depend on that supply.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Power cuts or strikes there move prices worldwide.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why one ancient magma body shapes car exhaust rules.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    }
+  ]
+}

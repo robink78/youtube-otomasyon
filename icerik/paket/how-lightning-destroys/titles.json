@@ -1,0 +1,242 @@
+{
+  "slug": "how-lightning-destroys",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.672Z",
+  "secilen": "What a Lightning Strike Does Inside a Wall",
+  "secilenPuan": 60.4,
+  "mevcutPuan": 53.1,
+  "sablonOnerisi": null,
+  "adaySayisi": 9,
+  "adaylar": [
+    {
+      "baslik": "The Physics of How Lightning Destroys Buildings",
+      "kalip": "physics-of",
+      "toplam": 66.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "What Breaks First When Lightning Destroys Buildings",
+      "kalip": "what",
+      "toplam": 63.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.6,
+      "notes": [],
+      "kaynak": "template:breaks-first"
+    },
+    {
+      "baslik": "What a Lightning Strike Does Inside a Wall",
+      "kalip": "what",
+      "toplam": 60.4,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Why Concrete Buildings Rot From the Inside"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "What Actually Happens When Lightning Destroys Buildings",
+      "kalip": "what-really",
+      "toplam": 55.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "What Actually Makes Planes Crash"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-happens"
+    },
+    {
+      "baslik": "What Lightning Really Does to a Building",
+      "kalip": "what",
+      "toplam": 53.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "Why a Tiny Gas Leak Levels a Building"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Why Lightning Destroys Buildings",
+      "kalip": "why",
+      "toplam": 42.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "template:why-plural"
+    },
+    {
+      "baslik": "Why Lightning Makes Trees Explode",
+      "kalip": "why",
+      "toplam": 37.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.33,
+        "closest": "What Actually Makes a Volcano Explode"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "A Power Plant in a Single Flash",
+      "kalip": "statement",
+      "toplam": 25.8,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "How a Single Step Triggers an Avalanche"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"statement\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Lightning Explained",
+      "kalip": "explained",
+      "toplam": 15.4,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.07,
+        "closest": "Why Dams Fail Without Warning"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

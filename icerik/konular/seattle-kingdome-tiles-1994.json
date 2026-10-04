@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Stadium Roof Tiles That Fell Before a Game",
+  "kaynaklar": [
+    {
+      "ad": "seattle-kingdome-tiles-1.jpg",
+      "wikimedia": "1994-07-14 Waterfront mit Kingdome.jpg"
+    },
+    {
+      "ad": "seattle-kingdome-tiles-2.jpg",
+      "wikimedia": "10 inside kindome.jpg"
+    },
+    {
+      "ad": "seattle-kingdome-tiles-3.jpg",
+      "wikimedia": "1985 Mother's Cookies - Seattle Kingdome.JPG"
+    },
+    {
+      "ad": "seattle-kingdome-tiles-4.jpg",
+      "wikimedia": "Kingdome across parking lot in 1996.jpg"
+    },
+    {
+      "ad": "seattle-kingdome-tiles-5.jpg",
+      "wikimedia": "Kingdome implosion.jpg"
+    },
+    {
+      "ad": "seattle-kingdome-tiles-6.jpg",
+      "wikimedia": "Kingdome usage, 1980 (32523178267).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Before a baseball game, heavy ceiling tiles fell from the Kingdome roof.",
+      "kaynak": "Footage/seattle-kingdome-tiles-1.jpg"
+    },
+    {
+      "metin": "Suddenly, tiles crashed into the empty seats below.",
+      "kaynak": "Footage/seattle-kingdome-tiles-2.jpg"
+    },
+    {
+      "metin": "Nobody was hurt, because fans hadn't arrived yet.",
+      "kaynak": "Footage/seattle-kingdome-tiles-3.jpg"
+    },
+    {
+      "metin": "Water had been leaking into the roof.",
+      "kaynak": "Footage/seattle-kingdome-tiles-4.jpg"
+    },
+    {
+      "metin": "It soaked the tiles and made them heavier.",
+      "kaynak": "Footage/seattle-kingdome-tiles-5.jpg"
+    },
+    {
+      "metin": "They pulled away from the concrete dome.",
+      "kaynak": "Footage/seattle-kingdome-tiles-6.jpg"
+    },
+    {
+      "metin": "The stadium closed for months of costly repairs.",
+      "kaynak": "Footage/seattle-kingdome-tiles-1.jpg"
+    },
+    {
+      "metin": "It was later demolished and replaced.",
+      "kaynak": "Footage/seattle-kingdome-tiles-2.jpg"
+    }
+  ],
+  "aciklama": "Kingdome dropped ceiling tiles into the seats. The cause: waterlogged acoustic ceiling tiles detaching from the concrete dome.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Kingdome",
+    "1994",
+    "ceiling tiles",
+    "engineering failure"
+  ],
+  "hook": "It fell before the game",
+  "soru": "How often does timing save us?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the Seattle Kingdome",
+    "kisa": "Kingdome",
+    "nesne": "Ceiling tiles",
+    "yil": 1994,
+    "sonuc": "dropped ceiling tiles into the seats",
+    "tetik": "water getting behind the roof's ceiling tiles",
+    "mekanizma": "waterlogged acoustic ceiling tiles detaching from the concrete dome",
+    "sayi": "TILES FELL",
+    "ders": "the roof was repaired at great cost and the stadium was later demolished",
+    "zincir": [
+      "ROOF LEAKS",
+      "WATER SOAKS TILES",
+      "TILES GROW HEAVY",
+      "TILES DETACH",
+      "STADIUM CLOSED"
+    ],
+    "zaman": [],
+    "yanilgi": "The concrete dome itself stayed sound. The tiles fastened beneath it failed.",
+    "tartisma": "Nobody was hurt because it happened before fans arrived. How often does timing hide a disaster?",
+    "basliklar": [
+      "The Stadium Roof Tiles That Fell Before a Game",
+      "Why Ceiling Tiles Fell From the Kingdome",
+      "The Stadium That Dropped Its Ceiling"
+    ],
+    "kapak": [
+      "TILES FELL",
+      "EMPTY SEATS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Kingdome",
+        "url": "https://en.wikipedia.org/wiki/Kingdome"
+      },
+      {
+        "ad": "Government source — Ordinance 02483 (cited by Wikipedia)",
+        "url": "https://aqua.kingcounty.gov/council/clerk/OldOrdsMotions/Ordinance%2002483.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-strict",
+    "wiki": "Kingdome",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "1994-07-14 Waterfront mit Kingdome.jpg [Public domain]",
+      "10 inside kindome.jpg [CC BY 2.0]",
+      "1985 Mother's Cookies - Seattle Kingdome.JPG [Public domain]",
+      "Kingdome across parking lot in 1996.jpg [CC BY 2.0]",
+      "Kingdome implosion.jpg [CC BY 2.0]",
+      "Kingdome usage, 1980 (32523178267).jpg [CC BY 2.0]"
+    ]
+  }
+}

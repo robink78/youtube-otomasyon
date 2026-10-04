@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Rocket Launch That Flew Four Inches",
+  "kaynaklar": [
+    {
+      "ad": "mercury-redstone-1-1.jpg",
+      "wikimedia": "Escape rocket of Mercury-Redstone 1.jpg"
+    },
+    {
+      "ad": "mercury-redstone-1-2.jpg",
+      "wikimedia": "Mercury-Redstone 1 launch attempt S63-02651.jpg"
+    },
+    {
+      "ad": "mercury-redstone-1-3.jpg",
+      "wikimedia": "Mg-KSC-61C-181.jpg"
+    },
+    {
+      "ad": "mercury-redstone-1-4.jpg",
+      "wikimedia": "61C-196.jpg"
+    },
+    {
+      "ad": "mercury-redstone-1-5.jpg",
+      "wikimedia": "LIFTOFF - MERCURY-REDSTONE (MR)-1A - CAPE (s62-08106).jpg"
+    },
+    {
+      "ad": "mercury-redstone-1-6.jpg",
+      "wikimedia": "Mercury 1A Mission - Clouds - DPLA - 9383802aed245b0241d8899c1d6b66a7.jpg"
+    },
+    {
+      "ad": "mercury-redstone-1-7.jpg",
+      "wikimedia": "Mercury 1A Mission - Clouds - DPLA - d25c3c7c4dc8918ce2fe5e1d13463385.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An uncrewed Mercury rocket ignited on the pad and rose a few inches.",
+      "kaynak": "Footage/mercury-redstone-1-1.jpg"
+    },
+    {
+      "metin": "Then its engine suddenly shut down, and it settled back onto the pad.",
+      "kaynak": "Footage/mercury-redstone-1-2.jpg"
+    },
+    {
+      "metin": "The escape tower fired and flew off on its own.",
+      "kaynak": "Footage/mercury-redstone-1-3.jpg"
+    },
+    {
+      "metin": "The capsule's parachutes popped out.",
+      "kaynak": "Footage/mercury-redstone-1-4.jpg"
+    },
+    {
+      "metin": "Two electrical plugs had disconnected in the wrong order.",
+      "kaynak": "Footage/mercury-redstone-1-5.jpg"
+    },
+    {
+      "metin": "One was slightly longer than the other.",
+      "kaynak": "Footage/mercury-redstone-1-6.jpg"
+    },
+    {
+      "metin": "That sequence told the rocket to shut down.",
+      "kaynak": "Footage/mercury-redstone-1-7.jpg"
+    },
+    {
+      "metin": "Umbilical design and electrical sequencing were changed.",
+      "kaynak": "Footage/mercury-redstone-1-1.jpg"
+    }
+  ],
+  "aciklama": "Mercury-Redstone 1 rose a few inches and shut down. The cause: electrical sequencing fault from umbilical plugs of different lengths separating out of order.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Mercury-Redstone 1",
+    "1960",
+    "rocket",
+    "engineering failure"
+  ],
+  "hook": "It flew four inches",
+  "soru": "How do you safe it?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Mercury-Redstone 1",
+    "kisa": "Mercury-Redstone 1",
+    "nesne": "Rocket",
+    "yil": 1960,
+    "sonuc": "rose a few inches and shut down",
+    "tetik": "two umbilical plugs disconnecting in the wrong order",
+    "mekanizma": "electrical sequencing fault from umbilical plugs of different lengths separating out of order",
+    "sayi": "FOUR INCHES",
+    "ders": "ground umbilical design and electrical sequencing were changed",
+    "zincir": [
+      "ROCKET IGNITES",
+      "RISES A FEW INCHES",
+      "PLUGS SEPARATE OUT OF ORDER",
+      "ENGINE SHUTS DOWN",
+      "ESCAPE TOWER FIRES ALONE"
+    ],
+    "zaman": [],
+    "yanilgi": "The rocket didn't explode. It sat back on the pad while its escape tower flew off on its own.",
+    "tartisma": "A fully fuelled rocket then sat armed on the pad. How do you safe a rocket nobody can approach?",
+    "basliklar": [
+      "The Rocket Launch That Flew Four Inches",
+      "The Mercury-Redstone Flight That Went Four Inches",
+      "The Plugs That Came Out in the Wrong Order"
+    ],
+    "kapak": [
+      "FOUR INCHES",
+      "WRONG ORDER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mercury-Redstone 1",
+        "url": "https://en.wikipedia.org/wiki/Mercury-Redstone_1"
+      },
+      {
+        "ad": "NASA — 19740075935 1974075935 (cited by Wikipedia)",
+        "url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19740075935_1974075935.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-14",
+    "wiki": "Mercury-Redstone_1",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Escape rocket of Mercury-Redstone 1.jpg [Public domain]",
+      "Mercury-Redstone 1 launch attempt S63-02651.jpg [Public domain]",
+      "Mg-KSC-61C-181.jpg [Public domain]",
+      "61C-196.jpg [Public domain]",
+      "LIFTOFF - MERCURY-REDSTONE (MR)-1A - CAPE (s62-08106).jpg [Public domain]",
+      "Mercury 1A Mission - Clouds - DPLA - 9383802aed245b0241d8899c1d6b66a7.jpg [Public domain]",
+      "Mercury 1A Mission - Clouds - DPLA - d25c3c7c4dc8918ce2fe5e1d13463385.jpg [Public domain]"
+    ]
+  }
+}

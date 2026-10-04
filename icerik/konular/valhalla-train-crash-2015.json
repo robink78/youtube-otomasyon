@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Crossing Crash That Turned Into a Train Fire",
+  "kaynaklar": [
+    {
+      "ad": "valhalla-train-crash-1.jpg",
+      "wikimedia": "Interior of lead car in 2015 Valhalla train wreck.jpg"
+    },
+    {
+      "ad": "valhalla-train-crash-2.jpg",
+      "wikimedia": "Kristin Poland sets up 3D Laser Scanner (16270957818).jpg"
+    },
+    {
+      "ad": "valhalla-train-crash-3.jpg",
+      "wikimedia": "Metro North accident at Valhalla, NY - 1.jpg"
+    },
+    {
+      "ad": "valhalla-train-crash-4.jpg",
+      "wikimedia": "Metro North accident at Valhalla, NY - 2.jpg"
+    },
+    {
+      "ad": "valhalla-train-crash-5.jpg",
+      "wikimedia": "NTSB Board Member Robert Sumwalt points to the accident scene of the Metro North train collision in Valhalla, N.Y (16431211226).jpg"
+    },
+    {
+      "ad": "valhalla-train-crash-6.jpg",
+      "wikimedia": "NTSB photo of ML350 steering wheel and shifter.jpg"
+    },
+    {
+      "ad": "valhalla-train-crash-7.jpg",
+      "wikimedia": "Board Member Robert Sumwalt views damaged rail car involved in Metro North train accident (16418405416).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A Metro-North commuter train struck an SUV at a crossing near Valhalla, New York.",
+      "kaynak": "Footage/valhalla-train-crash-1.jpg"
+    },
+    {
+      "metin": "Fire broke out, and six people were killed.",
+      "kaynak": "Footage/valhalla-train-crash-2.jpg"
+    },
+    {
+      "metin": "The SUV was caught as the gates came down.",
+      "kaynak": "Footage/valhalla-train-crash-3.jpg"
+    },
+    {
+      "metin": "The driver moved forward onto the tracks.",
+      "kaynak": "Footage/valhalla-train-crash-4.jpg"
+    },
+    {
+      "metin": "The train hit it.",
+      "kaynak": "Footage/valhalla-train-crash-5.jpg"
+    },
+    {
+      "metin": "The collision tore up the electrified third rail.",
+      "kaynak": "Footage/valhalla-train-crash-6.jpg"
+    },
+    {
+      "metin": "The damaged rail led to a fire in the first car.",
+      "kaynak": "Footage/valhalla-train-crash-7.jpg"
+    },
+    {
+      "metin": "It was Metro-North's deadliest crash.",
+      "kaynak": "Footage/valhalla-train-crash-1.jpg"
+    }
+  ],
+  "aciklama": "Valhalla saw a commuter train hit an SUV at a crossing. The cause: a collision that tore up the electrified third rail, which fed a fire in the lead car.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Valhalla",
+    "2015",
+    "third rail",
+    "engineering failure"
+  ],
+  "hook": "The third rail fed the fire",
+  "soru": "Should crossings exist?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Valhalla train crash",
+    "kisa": "Valhalla",
+    "nesne": "Third rail",
+    "yil": 2015,
+    "sonuc": "saw a commuter train hit an SUV at a crossing",
+    "tetik": "an SUV caught between descending gates",
+    "mekanizma": "a collision that tore up the electrified third rail, which fed a fire in the lead car",
+    "sayi": "SIX DIED",
+    "ders": "grade crossing and third-rail safety came under review",
+    "zincir": [
+      "SUV AT CROSSING",
+      "GATE DROPS ON IT",
+      "DRIVER MOVES FORWARD",
+      "TRAIN HITS SUV",
+      "THIRD RAIL FEEDS FIRE"
+    ],
+    "zaman": [],
+    "yanilgi": "Most deaths weren't from the impact. The damaged third rail led to a deadly fire.",
+    "tartisma": "Every crossing is a meeting point of road and rail. Should busy crossings exist at all?",
+    "basliklar": [
+      "The Crossing Crash That Turned Into a Train Fire",
+      "Why the Valhalla Train Crash Was So Deadly",
+      "The Third Rail That Fed a Fire"
+    ],
+    "kapak": [
+      "THIRD RAIL",
+      "SIX DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Valhalla train crash",
+        "url": "https://en.wikipedia.org/wiki/Valhalla_train_crash"
+      },
+      {
+        "ad": "NTSB — RAR1701 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/RAR1701.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "Valhalla_train_crash",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Interior of lead car in 2015 Valhalla train wreck.jpg [Public domain]",
+      "Kristin Poland sets up 3D Laser Scanner (16270957818).jpg [Public domain]",
+      "Metro North accident at Valhalla, NY - 1.jpg [Public domain]",
+      "Metro North accident at Valhalla, NY - 2.jpg [Public domain]",
+      "NTSB Board Member Robert Sumwalt points to the accident scene of the Metro North train collision in Valhalla, N.Y (16431211226).jpg [Public domain]",
+      "NTSB photo of ML350 steering wheel and shifter.jpg [Public domain]",
+      "Board Member Robert Sumwalt views damaged rail car involved in Metro North train accident (16418405416).jpg [Public domain]"
+    ]
+  }
+}

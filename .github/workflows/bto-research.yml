@@ -1,0 +1,57 @@
+name: The Hidden Logic of Things research
+
+# Daily, evidence-first research of The Hidden Logic of Things's question backlog
+# (scripts/bto-research.js). A question becomes a production-ready record only
+# when its verbatim quotes, numbers, primary sources and quality checks pass;
+# everything else stays in the backlog. Nothing is rendered or uploaded here.
+# Dormant until BTO_RESEARCH=1 and a long-form provider key is configured.
+on:
+  schedule:
+    - cron: '41 4 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Questions to research in this run
+        default: '3'
+
+concurrency:
+  group: portfolio-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    if: ${{ vars.BTO_RESEARCH == '1' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      LONGFORM_LLM_PROVIDER: ${{ vars.LONGFORM_LLM_PROVIDER }}
+      LONGFORM_LLM_FALLBACK_PROVIDER: ${{ vars.LONGFORM_LLM_FALLBACK_PROVIDER }}
+      LONGFORM_LLM_MAX_ATTEMPTS: ${{ vars.LONGFORM_LLM_MAX_ATTEMPTS }}
+      LONGFORM_LLM_MAX_RETRY_MS: ${{ vars.LONGFORM_LLM_MAX_RETRY_MS }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      GROQ_MODEL: ${{ vars.GROQ_MODEL }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --no-audit --no-fund
+      - name: Research and verify
+        run: node scripts/bto-research.js --limit "${{ inputs.limit || '3' }}" --write
+      - name: Commit researched records
+        run: |
+          git config user.name "research-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add channels/behind-the-ordinary/topics
+          if [ -f channels/behind-the-ordinary/state/research-attempts.json ]; then git add channels/behind-the-ordinary/state/research-attempts.json; fi
+          if git diff --cached --quiet; then echo "unchanged"; exit 0; fi
+          git commit -m "chore(bto): researched topic records"
+          for i in 1 2 3 4 5; do git pull --rebase --autostash origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i * 5)); done
+          exit 1

@@ -1,0 +1,1431 @@
+{
+  "schema": "growth-short-plan/1",
+  "channel": "critical-thread",
+  "channelName": "CriticalThread",
+  "contentType": "short",
+  "createdAt": "2026-09-30T16:12:08.878Z",
+  "topic": {
+    "id": "CT-223",
+    "slug": "why-high-lift-water-pump-is-so-hard-to-replace",
+    "title": "The Pumps That Left 150,000 People Without Water",
+    "cluster": "WATER",
+    "subject": "high-lift water pump"
+  },
+  "topicScore": {
+    "channel": "critical-thread",
+    "topicId": "CT-223",
+    "slug": "why-high-lift-water-pump-is-so-hard-to-replace",
+    "title": "The Pumps That Left 150,000 People Without Water",
+    "cluster": "WATER",
+    "VideoPotentialScore": 85,
+    "bucket": "A",
+    "reasons": [
+      "VideoPotential 85 ≥ 80",
+      "hook 82",
+      "sources 95"
+    ],
+    "enrichable": false,
+    "factors": {
+      "TopicDemandScore": {
+        "value": 69,
+        "basis": "inventory-signal",
+        "note": "seed estimate pending channel Search observations"
+      },
+      "CuriosityScore": {
+        "value": 82,
+        "basis": "inventory-signal"
+      },
+      "HookPotentialScore": {
+        "value": 82,
+        "basis": "derived",
+        "note": "12 candidates / 8 families"
+      },
+      "VisualImpactScore": {
+        "value": 82,
+        "basis": "inventory-signal"
+      },
+      "EmotionalImpactScore": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "StoryCompressionScore": {
+        "value": 84,
+        "basis": "derived"
+      },
+      "RewatchPotentialScore": {
+        "value": 69,
+        "basis": "derived"
+      },
+      "SharePotentialScore": {
+        "value": 77,
+        "basis": "derived"
+      },
+      "CommentPotentialScore": {
+        "value": 53,
+        "basis": "derived"
+      },
+      "SubscriberConversionPotential": {
+        "value": 88,
+        "basis": "derived",
+        "note": "series depth: 18 topics in WATER"
+      },
+      "NoveltyScore": {
+        "value": 90,
+        "basis": "inventory-signal"
+      },
+      "AudienceFitScore": {
+        "value": 90,
+        "basis": "inventory-signal"
+      },
+      "SourceQualityScore": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "ChannelFitScore": {
+        "value": 100,
+        "basis": "derived"
+      }
+    },
+    "weights": {
+      "TopicDemandScore": 1,
+      "CuriosityScore": 1.1,
+      "HookPotentialScore": 1.2,
+      "VisualImpactScore": 0.9,
+      "EmotionalImpactScore": 1.2,
+      "StoryCompressionScore": 1.2,
+      "RewatchPotentialScore": 0.6,
+      "SharePotentialScore": 0.9,
+      "CommentPotentialScore": 0.7,
+      "SubscriberConversionPotential": 0.9,
+      "NoveltyScore": 0.9,
+      "AudienceFitScore": 1,
+      "SourceQualityScore": 1.3,
+      "ChannelFitScore": 1.3
+    },
+    "boilerplate": {
+      "ratio": 0,
+      "templatedFields": [],
+      "checkedFields": 8
+    },
+    "specificEvidence": 7,
+    "sourceQuality": {
+      "score": 95,
+      "tiers": [
+        {
+          "name": "U.S. Environmental Protection Agency — Water",
+          "url": "https://www.epa.gov/water-research",
+          "tier": "GOVERNMENT_AGENCY",
+          "score": 95
+        },
+        {
+          "name": "World Health Organization — Water",
+          "url": "https://www.who.int/health-topics/water-sanitation-and-hygiene-wash",
+          "tier": "GOVERNMENT_AGENCY",
+          "score": 95
+        }
+      ],
+      "primaryCount": 2,
+      "notes": []
+    },
+    "selectedHook": {
+      "family": "visual_first_reveal",
+      "spoken": "Why 150,000 people lost safe water in 2022.",
+      "score": 82
+    }
+  },
+  "hooks": {
+    "selected": {
+      "family": "visual_first_reveal",
+      "spoken": "Why 150,000 people lost safe water in 2022.",
+      "onScreen": "150,000",
+      "fields": [
+        "openingLine"
+      ],
+      "editorial": true,
+      "words": 8,
+      "estimatedSeconds": 2.5,
+      "scores": {
+        "SwipeStoppingPower": 95,
+        "CuriosityGap": 49,
+        "Clarity": 100,
+        "Specificity": 88,
+        "EmotionalIntensity": 58,
+        "Credibility": 100,
+        "VisualCompatibility": 96,
+        "ChannelFit": 60
+      },
+      "total": 82,
+      "blocked": false,
+      "blockers": [],
+      "generic": false,
+      "adjustedTotal": 82,
+      "fitsOpening": true
+    },
+    "candidateCount": 12,
+    "familyCount": 8,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "family": "visual_first_reveal",
+        "spoken": "Why 150,000 people lost safe water in 2022.",
+        "onScreen": "150,000",
+        "fields": [
+          "openingLine"
+        ],
+        "editorial": true,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 95,
+          "CuriosityGap": 49,
+          "Clarity": 100,
+          "Specificity": 88,
+          "EmotionalIntensity": 58,
+          "Credibility": 100,
+          "VisualCompatibility": 96,
+          "ChannelFit": 60
+        },
+        "total": 82,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 82,
+        "fitsOpening": true
+      },
+      {
+        "family": "shocking_consequence",
+        "spoken": "Flooding and pump failures left about 150,000 residents without safe water.",
+        "onScreen": "150,000",
+        "fields": [
+          "consequence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 88,
+          "CuriosityGap": 35,
+          "Clarity": 85,
+          "Specificity": 88,
+          "EmotionalIntensity": 84,
+          "Credibility": 100,
+          "VisualCompatibility": 89,
+          "ChannelFit": 60
+        },
+        "total": 79,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 79,
+        "fitsOpening": false
+      },
+      {
+        "family": "unexpected_chain_reaction",
+        "spoken": "Jackson, Mississippi's water system failed after flooding.",
+        "onScreen": "NO WATER",
+        "fields": [
+          "secondBeat"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 70,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 71,
+          "EmotionalIntensity": 66,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 70
+        },
+        "total": 74,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 74,
+        "fitsOpening": true
+      },
+      {
+        "family": "question_gap",
+        "spoken": "What stops if high-lift water pump stops?",
+        "onScreen": "NO WATER",
+        "fields": [
+          "subject"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 95,
+          "CuriosityGap": 63,
+          "Clarity": 100,
+          "Specificity": 43,
+          "EmotionalIntensity": 66,
+          "Credibility": 100,
+          "VisualCompatibility": 59,
+          "ChannelFit": 60
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "It received just $3 million.",
+        "onScreen": "3 MILLION",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 5,
+        "estimatedSeconds": 1.6,
+        "scores": {
+          "SwipeStoppingPower": 80,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "That's why deferred maintenance becomes a public health crisis.",
+        "onScreen": "NO WATER",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 59,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60
+        },
+        "total": 65,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 65,
+        "fitsOpening": false
+      },
+      {
+        "family": "scarcity_bottleneck",
+        "spoken": "City leaders asked the state for $47 million for sewer repairs.",
+        "onScreen": "47 MILLION",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 35,
+          "Clarity": 85,
+          "Specificity": 55,
+          "EmotionalIntensity": 40,
+          "Credibility": 100,
+          "VisualCompatibility": 70,
+          "ChannelFit": 60
+        },
+        "total": 63,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 63,
+        "fitsOpening": false
+      },
+      {
+        "family": "before_after_consequence",
+        "spoken": "Treatment plant pumps keep pressure in every pipe.",
+        "onScreen": "NO WATER",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 60
+        },
+        "total": 63,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 63,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "When they faltered, taps ran dry or unsafe.",
+        "onScreen": "NO WATER",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60
+        },
+        "total": 63,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 63,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "The city had asked for $47 million for sewer repairs.",
+        "onScreen": "47 MILLION",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 35,
+          "Clarity": 93,
+          "Specificity": 55,
+          "EmotionalIntensity": 40,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60
+        },
+        "total": 63,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 63,
+        "fitsOpening": false
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "A public health crisis in and around the city of Jackson.",
+        "onScreen": "NO WATER",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 35,
+          "Clarity": 85,
+          "Specificity": 30,
+          "EmotionalIntensity": 40,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60
+        },
+        "total": 59,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 59,
+        "fitsOpening": false
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "This resulted in approximately 150.",
+        "onScreen": "150",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 5,
+        "estimatedSeconds": 1.6,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 60,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60
+        },
+        "total": 40,
+        "blocked": true,
+        "blockers": [
+          "unsupported number: 150"
+        ],
+        "generic": false,
+        "adjustedTotal": 40,
+        "fitsOpening": true
+      }
+    ]
+  },
+  "first3Seconds": {
+    "First3SecondPlan": {
+      "narration": "Why 150,000 people lost safe water in 2022.",
+      "firstFrame": {
+        "description": "high-lift water pump isolated, dependency lines to what fails without it",
+        "source": "procedural render",
+        "startAtSeconds": 0,
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "communicates": "dependency",
+        "rule": "labelled illustration; no logo, no establishing shot"
+      },
+      "visual": "high-lift water pump isolated, dependency lines to what fails without it",
+      "onScreenText": "150,000",
+      "motion": "dependency lines draw outward in 0.6 s, then hard cut",
+      "cutTiming": [
+        0,
+        1.3,
+        2.5
+      ],
+      "soundCue": "single mechanical click on the first cut",
+      "communicates": "dependency"
+    },
+    "score": 93,
+    "passes": true,
+    "blockers": [],
+    "notes": []
+  },
+  "script": {
+    "format": "short",
+    "generator": "editorial (researched record)",
+    "targetSeconds": 19.6,
+    "spoken": "Why 150,000 people lost safe water in 2022. Jackson, Mississippi's water system failed after flooding. Treatment plant pumps keep pressure in every pipe. When they faltered, taps ran dry or unsafe. The city had asked for $47 million for sewer repairs. It received just $3 million. That's why deferred maintenance becomes a public health crisis.",
+    "claims": [
+      {
+        "start": 0,
+        "end": 2.9,
+        "role": "HIDDEN_SYSTEM",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Why 150,000 people lost safe water in 2022."
+      },
+      {
+        "start": 2.9,
+        "end": 5.4,
+        "role": "WHY_IT_MATTERS",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Jackson, Mississippi's water system failed after flooding."
+      },
+      {
+        "start": 5.4,
+        "end": 8.2,
+        "role": "WHAT_DEPENDS_ON_IT",
+        "layer": "MODEL",
+        "confidence": "MODEL",
+        "text": "Treatment plant pumps keep pressure in every pipe."
+      },
+      {
+        "start": 8.2,
+        "end": 11.1,
+        "role": "FAILURE",
+        "layer": "MODEL",
+        "confidence": "MODEL",
+        "text": "When they faltered, taps ran dry or unsafe."
+      },
+      {
+        "start": 11.1,
+        "end": 14.6,
+        "role": "BOTTLENECK",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "The city had asked for $47 million for sewer repairs."
+      },
+      {
+        "start": 14.6,
+        "end": 16.4,
+        "role": "BOTTLENECK",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "It received just $3 million."
+      },
+      {
+        "start": 16.4,
+        "end": 19.6,
+        "role": "PAYOFF",
+        "layer": "MODEL",
+        "confidence": "MODEL",
+        "text": "That's why deferred maintenance becomes a public health crisis."
+      }
+    ],
+    "lines": [
+      "Why 150,000 people lost safe water in 2022.",
+      "Jackson, Mississippi's water system failed after flooding.",
+      "Treatment plant pumps keep pressure in every pipe.",
+      "When they faltered, taps ran dry or unsafe.",
+      "The city had asked for $47 million for sewer repairs.",
+      "It received just $3 million.",
+      "That's why deferred maintenance becomes a public health crisis."
+    ],
+    "structure": [
+      "HIDDEN_SYSTEM",
+      "WHY_IT_MATTERS",
+      "WHAT_DEPENDS_ON_IT",
+      "FAILURE",
+      "BOTTLENECK",
+      "BOTTLENECK",
+      "PAYOFF"
+    ],
+    "forbiddenOpening": false,
+    "sourceIds": [
+      "U.S. Environmental Protection Agency — Water",
+      "World Health Organization — Water"
+    ],
+    "retention": {
+      "score": 92,
+      "words": 55,
+      "findings": [
+        "sentence 6 filler: just",
+        "no curiosity bridge after the opening"
+      ],
+      "blockers": [],
+      "roles": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "passes": true
+    },
+    "estimatedSeconds": 19.6
+  },
+  "titles": {
+    "selected": {
+      "title": "Inside High-lift Water Pump: The Hidden Dependency",
+      "source": "inside",
+      "pattern": "inside",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 76,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 83,
+        "channelIdentity": 74,
+        "ctrPotential": 87,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "total": 88,
+      "adjustedTotal": 88,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 88,
+    "count": 28,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "title": "Inside High-lift Water Pump: The Hidden Dependency",
+        "source": "inside",
+        "pattern": "inside",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 87,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 88,
+        "adjustedTotal": 88,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Inside High-lift Water Pump: The Hidden Bottleneck",
+        "source": "legacy-generator",
+        "pattern": "inside",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 87,
+        "adjustedTotal": 87,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "2022: Inside High-lift Water Pump",
+        "source": "number-led",
+        "pattern": "number-led",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 77,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 85,
+        "adjustedTotal": 85,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "150,000: Inside High-lift Water Pump",
+        "source": "number-led",
+        "pattern": "number-led",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 77,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 85,
+        "adjustedTotal": 85,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why High-lift Water Pump Is so Hard to Replace",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 84,
+        "adjustedTotal": 84,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Fails When High-lift Water Pump Stops",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 84,
+        "adjustedTotal": 84,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Stops If High-lift Water Pump Stops",
+        "source": "what-stops",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 84,
+        "adjustedTotal": 84,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Critical System Behind High-lift Water Pump",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How High-lift Water Pump Became Critical Infrastructure",
+        "source": "legacy-generator",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 82,
+        "adjustedTotal": 82,
+        "unsupportedWords": [
+          "became"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Can We Replace High-lift Water Pump Fast Enough?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 66,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [
+          "enough"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The World Quietly Depends on High-lift Water Pump",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [
+          "quietly"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why High-lift Water Pump Matters More Than It Looks",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [
+          "looks"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "What Modern Life Needs From High-lift Water Pump",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 87,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 79,
+        "adjustedTotal": 79,
+        "unsupportedWords": [
+          "needs"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Fragile Chain Behind High-lift Water Pump",
+        "source": "fragile-chain",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 78,
+        "adjustedTotal": 78,
+        "unsupportedWords": [
+          "fragile"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "How High-lift Water Pump Holds Modern Infrastructure Together",
+        "source": "legacy-generator",
+        "pattern": "how",
+        "scores": {
+          "clarity": 99,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 77,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "holds",
+          "together"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Dependency Inside Water",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 41,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 74,
+          "ctrPotential": 77,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 77,
+        "adjustedTotal": 77,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "High-lift Water Pump: The Replacement Problem",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 76,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "problem"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why There Is No Quick Substitute for High-lift Water Pump",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 87,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 76,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "quick",
+          "substitute"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "High-lift Water Pump: Failure, Recovery and Redundancy",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 63,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 76,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "recovery"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Capacity Constraint Hidden in High-lift Water Pump",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 76,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "capacity",
+          "constraint"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The High-lift Water Pump Problem",
+        "source": "the-x-problem",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 75,
+        "adjustedTotal": 75,
+        "unsupportedWords": [
+          "problem"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "How Jackson Lost Its Water",
+        "source": "editorial",
+        "pattern": "how",
+        "scores": {
+          "clarity": 97,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 73,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Pumps That Left 150,000 People Without Water",
+        "source": "editorial",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 62,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 72,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 72,
+        "adjustedTotal": 72,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Old Pumps Can Leave a City Dry",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 60,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 72,
+        "adjustedTotal": 72,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The System That Cannot Pause: High-lift Water Pump",
+        "source": "legacy-generator",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 72,
+        "adjustedTotal": 72,
+        "unsupportedWords": [
+          "cannot",
+          "pause"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Fragile Chain Built Around High-lift Water Pump",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 71,
+        "adjustedTotal": 71,
+        "unsupportedWords": [
+          "fragile",
+          "built"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Bottleneck Nobody Sees: High-lift Water Pump",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 40,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 71,
+        "adjustedTotal": 71,
+        "unsupportedWords": [
+          "nobody",
+          "sees"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "Where High-lift Water Pump Fits in the Global Supply Chain",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 70,
+        "adjustedTotal": 70,
+        "unsupportedWords": [
+          "where",
+          "fits",
+          "global"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "cta": {
+    "type": "NONE",
+    "reason": "deterministic roll 0.55 ≥ ctaProbability 0.35"
+  },
+  "loop": {
+    "LoopPotentialScore": 55,
+    "apply": false,
+    "plan": {
+      "reason": "loop would not improve story satisfaction; ending stays a clean payoff"
+    }
+  },
+  "integrity": {
+    "score": 80,
+    "scenes": [
+      {
+        "scene": 1,
+        "text": "dry kitchen tap",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 2,
+        "text": "treatment plant pumps",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 3,
+        "text": "flooded Pearl River",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 4,
+        "text": "bottled water distribution lines",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 5,
+        "text": "funding gap chart",
+        "sourceClass": "PROCESS_DIAGRAM",
+        "label": "n/a"
+      },
+      {
+        "scene": 6,
+        "text": "pressure drop in pipes diagram",
+        "sourceClass": "PROCESS_DIAGRAM",
+        "label": "n/a"
+      }
+    ],
+    "classes": [
+      "TECHNICAL_ILLUSTRATION",
+      "PROCESS_DIAGRAM"
+    ],
+    "hardFails": [],
+    "notes": []
+  },
+  "factual": {
+    "score": 100,
+    "hardFails": [],
+    "notes": [],
+    "claimClasses": {
+      "CONFIRMED_FACT": 4
+    },
+    "unsupportedNumbers": []
+  },
+  "pacing": {
+    "plannedSegments": [
+      1.319,
+      0.901,
+      1.348,
+      1.932,
+      1.784,
+      2.387,
+      1.646,
+      3.201,
+      3.225,
+      2.257
+    ],
+    "segments": 10,
+    "cutsInFirst3Seconds": 3,
+    "averageSeconds": 2,
+    "longestSeconds": 3.225,
+    "mechanical": false
+  },
+  "captions": {
+    "events": 20,
+    "maxWords": 4,
+    "maxLines": 2,
+    "tooFast": 0,
+    "safeZoneMarginV": 560,
+    "passes": true
+  },
+  "relatedLong": null,
+  "experiment": null,
+  "readiness": {
+    "ProductionReadinessScore": 90,
+    "decision": "PUBLISH",
+    "stage": "pre",
+    "dimensions": {
+      "topicPotential": 85,
+      "hook": 82,
+      "script": 92,
+      "firstSeconds": 93,
+      "factual": 100,
+      "visualRelevance": 80,
+      "sources": 95,
+      "metadata": 100,
+      "visualQuality": null,
+      "audio": null,
+      "captions": null,
+      "duration": null,
+      "pacing": 92,
+      "render": null
+    },
+    "unmeasured": [
+      "visualQuality",
+      "audio",
+      "captions",
+      "duration",
+      "render"
+    ],
+    "hardFails": [],
+    "notes": [],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "growthMeta": {
+    "hookType": "visual_first_reveal",
+    "hookScore": 82,
+    "topicCluster": "WATER",
+    "bucket": "A",
+    "storyStructure": "HIDDEN_SYSTEM>WHY_IT_MATTERS>WHAT_DEPENDS_ON_IT>BOTTLENECK>FAILURE_CONSEQUENCE>RESILIENCE",
+    "titlePattern": "inside",
+    "ctaStyle": "NONE",
+    "durationBucket": "under-25s",
+    "openingVisual": "TECHNICAL_ILLUSTRATION",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 69,
+      "CuriosityScore": 82,
+      "HookPotentialScore": 82,
+      "VisualImpactScore": 82,
+      "EmotionalImpactScore": 97,
+      "StoryCompressionScore": 84,
+      "RewatchPotentialScore": 69,
+      "SharePotentialScore": 77,
+      "CommentPotentialScore": 53,
+      "SubscriberConversionPotential": 88,
+      "NoveltyScore": 90,
+      "AudienceFitScore": 90,
+      "SourceQualityScore": 95,
+      "ChannelFitScore": 100
+    }
+  },
+  "summary": {
+    "Channel": "CriticalThread",
+    "Content Type": "SHORT",
+    "Topic": "The Pumps That Left 150,000 People Without Water",
+    "Topic Score": 85,
+    "Topic Bucket": "A",
+    "Selected Hook": "Why 150,000 people lost safe water in 2022.",
+    "Hook Type": "visual_first_reveal",
+    "Hook Score": 82,
+    "First-3-sec Score": 93,
+    "Duration": "~19.6s (estimated)",
+    "Scenes": 10,
+    "Production Score": "90 (pre) → PUBLISH",
+    "Experiment": "none",
+    "Related Long Video": "none yet"
+  }
+}

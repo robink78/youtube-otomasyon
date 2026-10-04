@@ -1,0 +1,67 @@
+{
+  "slug": "chernobyl-1986",
+  "asama": "final",
+  "format": "short",
+  "karar": "PUBLISH",
+  "toplam": 92,
+  "esikler": {
+    "publish": 85,
+    "review": 70
+  },
+  "engelleyen": [],
+  "bilesenler": {
+    "title": {
+      "puan": 51,
+      "notlar": [
+        "\"How Pressing Shutdown Destroyed Reactor 4\" (engine 45.6)"
+      ]
+    },
+    "thumbnail": {
+      "puan": 100,
+      "notlar": []
+    },
+    "hook": {
+      "puan": 95,
+      "notlar": [
+        "5-12s: missing an unexpected detail"
+      ]
+    },
+    "script": {
+      "puan": 100,
+      "notlar": []
+    },
+    "originality": {
+      "puan": 85,
+      "notlar": []
+    },
+    "visual": {
+      "puan": 100,
+      "notlar": [],
+      "olcum": {
+        "w": 1080,
+        "h": 1920,
+        "sure": 25.7,
+        "ses": true
+      },
+      "kritik": null
+    },
+    "engineering": {
+      "puan": 100,
+      "notlar": []
+    },
+    "source": {
+      "puan": 100,
+      "notlar": []
+    },
+    "audio": {
+      "puan": 100,
+      "notlar": [],
+      "olcum": {
+        "I": -15.23,
+        "TP": -1.25,
+        "sessiz": 0
+      }
+    }
+  },
+  "tarih": "2026-10-04T12:12:04.677Z"
+}

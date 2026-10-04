@@ -1,0 +1,116 @@
+{
+  "channel": "behind-the-ordinary",
+  "updatedAt": "2026-10-04T18:12:34.608Z",
+  "calibration": {
+    "short": {
+      "topicScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "viralScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "hookScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "titleScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "readiness": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "popularityScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      }
+    },
+    "long": {
+      "topicScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "viralScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "hookScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "titleScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "readiness": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "popularityScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      }
+    }
+  },
+  "rows": [
+    {
+      "videoId": "ZTtPwqBSxpA",
+      "slug": "why-jeans-have-a-tiny-pocket",
+      "contentType": "short",
+      "cluster": "EVERYDAY MYSTERIES",
+      "publishAt": "2026-10-04T22:00:00.000Z",
+      "predicted": {
+        "topicScore": 81,
+        "viralScore": 69,
+        "hookScore": 77,
+        "titleScore": 83,
+        "readiness": 87,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": null,
+        "views": null,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": null
+      }
+    },
+    {
+      "videoId": "I9Lcpi9kPYs",
+      "slug": "why-road-cats-eyes-clean-themselves",
+      "contentType": "short",
+      "cluster": "HIDDEN ENGINEERING",
+      "publishAt": "2026-10-03T22:00:30Z",
+      "predicted": {
+        "topicScore": 82,
+        "viralScore": 68,
+        "hookScore": 77,
+        "titleScore": 82,
+        "readiness": 87,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 50,
+        "views": 4,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "1h"
+      }
+    }
+  ]
+}

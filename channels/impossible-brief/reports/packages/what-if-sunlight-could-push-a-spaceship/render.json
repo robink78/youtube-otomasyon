@@ -1,0 +1,53 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/impossible-brief/state/production/what-if-sunlight-could-push-a-spaceship/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "claimDurations": [
+      2.112,
+      3.744,
+      3.84,
+      4.752,
+      4.992,
+      3.384,
+      3.672
+    ],
+    "durationSeconds": 26.441,
+    "width": null,
+    "height": null,
+    "hasAudio": true
+  },
+  "video": {
+    "file": "channels/impossible-brief/state/production/what-if-sunlight-could-push-a-spaceship/what-if-sunlight-could-push-a-spaceship.mp4",
+    "captionsBurned": true,
+    "visualChanges": 12,
+    "illustrationLabel": true,
+    "scenarioSpecific": true,
+    "segmentSeconds": [
+      1.319,
+      0.901,
+      1.348,
+      1.932,
+      1.784,
+      2.387,
+      1.646,
+      3.201,
+      3.225,
+      2.641,
+      3.478,
+      2.579
+    ],
+    "durationSeconds": 26.441,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/impossible-brief/state/production/what-if-sunlight-could-push-a-spaceship/thumbnail.jpg",
+    "bytes": 60070,
+    "scenarioSpecific": true,
+    "textWords": 3
+  }
+}

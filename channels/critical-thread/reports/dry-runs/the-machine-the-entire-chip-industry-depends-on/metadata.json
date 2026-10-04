@@ -1,0 +1,16 @@
+{
+  "uploadChannel": "critical-thread",
+  "expectedYouTubeChannelId": "MANUAL_CONFIGURATION_REQUIRED",
+  "uploadEnabled": false,
+  "privacy": "private",
+  "categoryId": "27",
+  "title": "The Machine the Entire Chip Industry Depends On",
+  "description": "What does modern life quietly depend on in EUV lithography system, and what changes when it is unavailable?\n\nSources:\n- ASML — EUV lithography systems: https://www.asml.com/en/products/euv-lithography-systems\n- NIST — Metrology for extreme ultraviolet lithography: https://www.nist.gov/programs-projects/metrology-extreme-ultraviolet-lithography\n\nTechnical illustrations and dependency models are labelled. Estimates and industry claims are attributed; modeled consequences are not presented as observed fact.",
+  "tags": [
+    "infrastructure",
+    "engineering",
+    "supply chain",
+    "semiconductors",
+    "CriticalThread"
+  ]
+}

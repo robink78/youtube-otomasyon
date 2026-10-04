@@ -1,0 +1,2274 @@
+{
+  "schema": "growth-longform-package/1",
+  "channel": "failure-reconstructed",
+  "channelName": "Failure Reconstructed",
+  "contentType": "long",
+  "createdAt": "2026-09-30T15:48:32.929Z",
+  "topic": {
+    "id": "apollo-13-1970",
+    "slug": "apollo-13-1970",
+    "title": "The Wrong Voltage That Nearly Killed Apollo 13",
+    "subject": "Apollo 13",
+    "cluster": "spaceflight-disasters"
+  },
+  "LongFormPotential": {
+    "channel": "failure-reconstructed",
+    "topicId": "apollo-13-1970",
+    "slug": "apollo-13-1970",
+    "title": "The Wrong Voltage That Nearly Killed Apollo 13",
+    "cluster": "spaceflight-disasters",
+    "LongFormPotentialScore": 81,
+    "bucket": "A",
+    "reasons": [
+      "LongFormPotential 81 ≥ 78"
+    ],
+    "factors": {
+      "DepthPotential": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "NarrativeDepth": {
+        "value": 87,
+        "basis": "derived"
+      },
+      "SourceDepth": {
+        "value": 63,
+        "basis": "derived",
+        "note": "2 sources, 1 primary"
+      },
+      "VisualDepth": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "EngineeringOrScientificDepth": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "SearchDemand": {
+        "value": 75,
+        "basis": "inventory-signal",
+        "note": "seed estimate unless measured"
+      },
+      "EvergreenPotential": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "AudienceFit": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "ShortsEvidence": {
+        "value": 50,
+        "basis": "derived",
+        "note": "no published Short in this cluster yet — neutral"
+      },
+      "SeriesPotential": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "ViewerJourneyPotential": {
+        "value": 75,
+        "basis": "derived"
+      }
+    },
+    "weights": {
+      "DepthPotential": 1.2,
+      "NarrativeDepth": 1.2,
+      "SourceDepth": 1.2,
+      "VisualDepth": 1,
+      "EngineeringOrScientificDepth": 1.4,
+      "SearchDemand": 0.9,
+      "EvergreenPotential": 0.9,
+      "AudienceFit": 0.8,
+      "ShortsEvidence": 1,
+      "SeriesPotential": 0.8,
+      "ViewerJourneyPotential": 0.8
+    },
+    "specificEvidence": 28
+  },
+  "researchPackage": {
+    "id": "failure-reconstructed:apollo-13-1970",
+    "sources": [
+      {
+        "name": "NASA — Report of the Apollo 13 Review Board",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_13_review_board.txt",
+        "tier": "OFFICIAL_INVESTIGATION",
+        "score": 100
+      },
+      {
+        "name": "Wikipedia — Apollo 13",
+        "url": "https://en.wikipedia.org/wiki/Apollo_13",
+        "tier": "ENCYCLOPEDIA",
+        "score": 55
+      }
+    ],
+    "claims": 185,
+    "deepResearch": {
+      "article": "Apollo 13",
+      "via": "cited source",
+      "claims": 160,
+      "status": "OK",
+      "licence": "CC BY-SA 4.0 — facts only; never narrate verbatim"
+    },
+    "gaps": [
+      "2 source(s); long-form needs ≥ 3"
+    ],
+    "reuseCount": 0
+  },
+  "outline": {
+    "structure": [
+      "COLD_OPEN",
+      "CONSEQUENCE",
+      "WHAT_HAPPENED",
+      "SYSTEM",
+      "HIDDEN_WEAKNESS",
+      "FAILURE_CHAIN",
+      "CRITICAL_MOMENT",
+      "ENGINEERING_EXPLANATION",
+      "AFTERMATH",
+      "WHAT_CHANGED",
+      "FINAL_TAKEAWAY"
+    ],
+    "sections": [
+      {
+        "order": 1,
+        "section": "COLD_OPEN",
+        "question": "What is the unresolved consequence the viewer sees first?",
+        "claimIds": [
+          "C1",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C20",
+          "C21",
+          "C22",
+          "C23",
+          "C26"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 2,
+        "section": "CONSEQUENCE",
+        "question": "What was lost?",
+        "claimIds": [
+          "C1",
+          "C4",
+          "C26"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 3,
+        "section": "WHAT_HAPPENED",
+        "question": "In what order did it happen?",
+        "claimIds": [
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C20",
+          "C21",
+          "C22",
+          "C23",
+          "C27",
+          "C28",
+          "C29",
+          "C30",
+          "C31",
+          "C32",
+          "C33",
+          "C34",
+          "C35",
+          "C36",
+          "C37",
+          "C38",
+          "C39",
+          "C40",
+          "C41",
+          "C158",
+          "C159",
+          "C160",
+          "C161",
+          "C162",
+          "C163",
+          "C164",
+          "C165",
+          "C166",
+          "C167",
+          "C168",
+          "C169",
+          "C170",
+          "C171",
+          "C172",
+          "C173",
+          "C174",
+          "C175",
+          "C176",
+          "C177",
+          "C178",
+          "C179",
+          "C180",
+          "C181",
+          "C182",
+          "C183",
+          "C184",
+          "C185"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 4,
+        "section": "SYSTEM",
+        "question": "How was the machine/structure supposed to work?",
+        "claimIds": [
+          "C3",
+          "C42",
+          "C43",
+          "C44",
+          "C45",
+          "C46",
+          "C47",
+          "C48",
+          "C49",
+          "C50",
+          "C51",
+          "C52",
+          "C53",
+          "C54",
+          "C55",
+          "C56",
+          "C57",
+          "C58",
+          "C59",
+          "C60"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 5,
+        "section": "HIDDEN_WEAKNESS",
+        "question": "Where was the weakness hiding?",
+        "claimIds": [
+          "C2",
+          "C5",
+          "C6"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 6,
+        "section": "FAILURE_CHAIN",
+        "question": "Which step led to which?",
+        "claimIds": [
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 7,
+        "section": "CRITICAL_MOMENT",
+        "question": "What was the point of no return?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 8,
+        "section": "ENGINEERING_EXPLANATION",
+        "question": "What is the physical mechanism?",
+        "claimIds": [
+          "C61",
+          "C62",
+          "C63",
+          "C64",
+          "C65",
+          "C66",
+          "C67",
+          "C68",
+          "C69",
+          "C70",
+          "C71",
+          "C72",
+          "C73",
+          "C74",
+          "C75",
+          "C76",
+          "C77",
+          "C78",
+          "C79",
+          "C80",
+          "C81",
+          "C82",
+          "C83",
+          "C84",
+          "C85",
+          "C86",
+          "C87",
+          "C88",
+          "C89",
+          "C90",
+          "C91",
+          "C92",
+          "C93",
+          "C94",
+          "C95",
+          "C96",
+          "C97",
+          "C98",
+          "C99",
+          "C100",
+          "C101",
+          "C102",
+          "C103",
+          "C104",
+          "C105",
+          "C106",
+          "C107",
+          "C108",
+          "C109",
+          "C110",
+          "C111",
+          "C112",
+          "C113",
+          "C114",
+          "C115",
+          "C116",
+          "C117",
+          "C118",
+          "C119",
+          "C120",
+          "C121",
+          "C122",
+          "C123",
+          "C124",
+          "C125",
+          "C126",
+          "C127",
+          "C128",
+          "C129",
+          "C130",
+          "C131",
+          "C132",
+          "C133",
+          "C134",
+          "C135",
+          "C136",
+          "C137",
+          "C138",
+          "C139",
+          "C140",
+          "C141",
+          "C142",
+          "C143",
+          "C144",
+          "C145",
+          "C146",
+          "C147",
+          "C148",
+          "C149",
+          "C150",
+          "C151",
+          "C152",
+          "C153",
+          "C154",
+          "C155",
+          "C156",
+          "C157"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 9,
+        "section": "AFTERMATH",
+        "question": "What happened next?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 10,
+        "section": "WHAT_CHANGED",
+        "question": "What do engineers do differently now?",
+        "claimIds": [
+          "C24"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 11,
+        "section": "FINAL_TAKEAWAY",
+        "question": "What should the viewer remember?",
+        "claimIds": [
+          "C25"
+        ],
+        "evidence": "available"
+      }
+    ],
+    "missingSections": [
+      "CRITICAL_MOMENT",
+      "AFTERMATH"
+    ],
+    "coverage": 82
+  },
+  "coldOpens": {
+    "candidates": [
+      {
+        "type": "shocking_consequence",
+        "text": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+        "score": 79,
+        "estimatedSeconds": 3.1
+      },
+      {
+        "type": "hidden_cause",
+        "text": "Nothing hit Apollo 13.",
+        "score": 76,
+        "estimatedSeconds": 1.3
+      },
+      {
+        "type": "countdown",
+        "text": "In seconds, Apollo 13 lost most of its power and oxygen.",
+        "score": 72,
+        "estimatedSeconds": 3.4
+      },
+      {
+        "type": "visual_first_reveal",
+        "text": "Two hundred thousand miles from Earth, an oxygen tank exploded.",
+        "score": 70,
+        "estimatedSeconds": 3.1
+      },
+      {
+        "type": "contradiction",
+        "text": "So how did a tank that passed every test just explode?",
+        "score": 70,
+        "estimatedSeconds": 3.4
+      },
+      {
+        "type": "unexpected_chain_reaction",
+        "text": "It started with switches rated 28 V. It ended with tank ruptures — mission aborted.",
+        "score": 69,
+        "estimatedSeconds": 4.7
+      },
+      {
+        "type": "question_gap",
+        "text": "Apollo 13: what failed first?",
+        "score": 68,
+        "estimatedSeconds": 1.6
+      },
+      {
+        "type": "impossible_sounding_fact",
+        "text": "Its heater switches were rated for 28 volts, not 65.",
+        "score": 66,
+        "estimatedSeconds": 3.1
+      },
+      {
+        "type": "tiny_cause_massive_consequence",
+        "text": "It took only heater switches rated for 28 V run on 65 V.",
+        "score": 64,
+        "estimatedSeconds": 4.1
+      },
+      {
+        "type": "before_after_consequence",
+        "text": "After Apollo 13, every component rating is now checked against every power source it will ever see, including ground equipment.",
+        "score": 64,
+        "estimatedSeconds": 6.3
+      }
+    ],
+    "selected": {
+      "type": "shocking_consequence",
+      "text": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+      "score": 79,
+      "estimatedSeconds": 3.1
+    }
+  },
+  "script": {
+    "generator": "deterministic-evidence",
+    "llmError": null,
+    "depthNote": null,
+    "sections": [
+      {
+        "section": "COLD_OPEN",
+        "paragraphs": [
+          {
+            "text": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+            "claims": [],
+            "role": "cold-open"
+          }
+        ]
+      },
+      {
+        "section": "CONSEQUENCE",
+        "paragraphs": [
+          {
+            "text": "But that was only the visible part. Apollo 13 lost an oxygen tank 200,000 miles from Earth. The key figure: 28 V vs 65 V.",
+            "claims": [
+              "C1",
+              "C4"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "WHAT_HAPPENED",
+        "paragraphs": [
+          {
+            "text": "To see why, look at the structure itself. Mar 1970: Pad detanking: heaters run ~8 hours, switches weld shut. Apr 11: Launch. Apr 13, ~56 h in: Tank stir; oxygen tank 2 ruptures. Apr 17: Crew splashes down safely. Two hundred thousand miles from Earth, an oxygen tank exploded. In seconds, Apollo 13 lost most of its power and oxygen. So how did a tank that passed every test just explode? Its heater switches were rated for 28 volts, not 65. They welded shut, and wires inside cooked at a thousand degrees. Weeks later, in space, damaged wiring sparked inside pure oxygen. The crew survived using the lunar module as a lifeboat. One mismatched voltage nearly cost three lives.",
+            "claims": [
+              "C12",
+              "C13",
+              "C14",
+              "C15",
+              "C16",
+              "C17",
+              "C18",
+              "C19",
+              "C20",
+              "C21",
+              "C22",
+              "C23"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "SYSTEM",
+        "paragraphs": [
+          {
+            "text": "And the warning signs were already there. The mechanism: thermostat switches welded shut by overvoltage, overheating the tank's wiring insulation.",
+            "claims": [
+              "C3"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "HIDDEN_WEAKNESS",
+        "paragraphs": [
+          {
+            "text": "Then the chain began. The trigger: heater switches rated for 28 V run on 65 V. Nothing hit Apollo 13. The failure was built in on the ground weeks earlier, when a mismatch in voltage ratings silently damaged the tank.",
+            "claims": [
+              "C2",
+              "C5",
+              "C6"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "FAILURE_CHAIN",
+        "paragraphs": [
+          {
+            "text": "This is the moment it could no longer be stopped. Step 1 of the failure chain: switches rated 28 V, ground supply 65 V. Step 2 of the failure chain: switches weld shut during detanking. Step 3 of the failure chain: heater cooks wire insulation. Step 4 of the failure chain: spark in pure oxygen in flight. Step 5 of the failure chain: tank ruptures — mission aborted.",
+            "claims": [
+              "C7",
+              "C8",
+              "C9",
+              "C10",
+              "C11"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "CRITICAL_MOMENT",
+        "paragraphs": []
+      },
+      {
+        "section": "ENGINEERING_EXPLANATION",
+        "paragraphs": []
+      },
+      {
+        "section": "AFTERMATH",
+        "paragraphs": []
+      },
+      {
+        "section": "WHAT_CHANGED",
+        "paragraphs": [
+          {
+            "text": "Which leaves one question. What changed: every component rating is now checked against every power source it will ever see, including ground equipment.",
+            "claims": [
+              "C24"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "FINAL_TAKEAWAY",
+        "paragraphs": [
+          {
+            "text": "But that was only the visible part. The switches passed their own tests; the mismatch lived between two teams' specs. Who should own a failure that belongs to no single part?",
+            "claims": [
+              "C25"
+            ],
+            "role": "evidence"
+          }
+        ]
+      }
+    ],
+    "words": 336,
+    "estimatedMinutes": 2.2,
+    "paragraphs": 8,
+    "secondsPerNewBeat": 17
+  },
+  "claimSourceMap": {
+    "rows": [
+      {
+        "section": "COLD_OPEN",
+        "excerpt": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+        "claims": []
+      },
+      {
+        "section": "CONSEQUENCE",
+        "excerpt": "But that was only the visible part. Apollo 13 lost an oxygen tank 200,000 miles from Earth",
+        "claims": [
+          {
+            "id": "C1",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C4",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          }
+        ]
+      },
+      {
+        "section": "WHAT_HAPPENED",
+        "excerpt": "To see why, look at the structure itself. Mar 1970: Pad detanking: heaters run ~8 hours, s",
+        "claims": [
+          {
+            "id": "C12",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C13",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C14",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C15",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C16",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C17",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C18",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C19",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C20",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C21",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C22",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C23",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          }
+        ]
+      },
+      {
+        "section": "SYSTEM",
+        "excerpt": "And the warning signs were already there. The mechanism: thermostat switches welded shut b",
+        "claims": [
+          {
+            "id": "C3",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          }
+        ]
+      },
+      {
+        "section": "HIDDEN_WEAKNESS",
+        "excerpt": "Then the chain began. The trigger: heater switches rated for 28 V run on 65 V. Nothing hit",
+        "claims": [
+          {
+            "id": "C2",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C5",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C6",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          }
+        ]
+      },
+      {
+        "section": "FAILURE_CHAIN",
+        "excerpt": "This is the moment it could no longer be stopped. Step 1 of the failure chain: switches ra",
+        "claims": [
+          {
+            "id": "C7",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C8",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C9",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C10",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          },
+          {
+            "id": "C11",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Apollo 13"
+          }
+        ]
+      },
+      {
+        "section": "WHAT_CHANGED",
+        "excerpt": "Which leaves one question. What changed: every component rating is now checked against eve",
+        "claims": [
+          {
+            "id": "C24",
+            "class": "INTERPRETATION",
+            "source": "Wikipedia — Apollo 13"
+          }
+        ]
+      },
+      {
+        "section": "FINAL_TAKEAWAY",
+        "excerpt": "But that was only the visible part. The switches passed their own tests; the mismatch live",
+        "claims": [
+          {
+            "id": "C25",
+            "class": "INTERPRETATION",
+            "source": "Wikipedia — Apollo 13"
+          }
+        ]
+      }
+    ],
+    "unsupportedParagraphs": 0,
+    "unsupportedNumbers": [],
+    "copyRisks": []
+  },
+  "scenePlan": [
+    {
+      "scene": 1,
+      "narrationSpan": [
+        0,
+        4
+      ],
+      "section": "COLD_OPEN",
+      "visualPurpose": "show evidence",
+      "visualType": "REAL_ARCHIVAL",
+      "subject": "Two hundred thousand miles from Earth, an oxygen tank exploded.",
+      "asset": "Footage/apollo13.ogv",
+      "sourceRequirement": "public-domain / licensed archival with attribution",
+      "durationEstimateSeconds": 4,
+      "motion": "slow push-in to detail",
+      "claimSupported": null,
+      "fallbackAssetStrategy": "labelled reconstruction diagram (never presented as archive)",
+      "disclosure": null
+    },
+    {
+      "scene": 2,
+      "narrationSpan": [
+        4,
+        14
+      ],
+      "section": "CONSEQUENCE",
+      "visualPurpose": "show evidence",
+      "visualType": "REAL_ARCHIVAL",
+      "subject": "In seconds, Apollo 13 lost most of its power and oxygen.",
+      "asset": "Footage/apollo13.ogv",
+      "sourceRequirement": "public-domain / licensed archival with attribution",
+      "durationEstimateSeconds": 10,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C1",
+      "fallbackAssetStrategy": "labelled reconstruction diagram (never presented as archive)",
+      "disclosure": null
+    },
+    {
+      "scene": 3,
+      "narrationSpan": [
+        14,
+        30
+      ],
+      "section": "WHAT_HAPPENED",
+      "visualPurpose": "show evidence",
+      "visualType": "REAL_ARCHIVAL",
+      "subject": "So how did a tank that passed every test just explode?",
+      "asset": "Footage/apollo13.ogv",
+      "sourceRequirement": "public-domain / licensed archival with attribution",
+      "durationEstimateSeconds": 15.9,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C12",
+      "fallbackAssetStrategy": "labelled reconstruction diagram (never presented as archive)",
+      "disclosure": null
+    },
+    {
+      "scene": 4,
+      "narrationSpan": [
+        30,
+        46
+      ],
+      "section": "WHAT_HAPPENED",
+      "visualPurpose": "show evidence",
+      "visualType": "REAL_ARCHIVAL",
+      "subject": "Its heater switches were rated for 28 volts, not 65.",
+      "asset": "Footage/apollo13.ogv",
+      "sourceRequirement": "public-domain / licensed archival with attribution",
+      "durationEstimateSeconds": 15.9,
+      "motion": "lateral reframe / crop to evidence",
+      "claimSupported": "C13",
+      "fallbackAssetStrategy": "labelled reconstruction diagram (never presented as archive)",
+      "disclosure": null
+    },
+    {
+      "scene": 5,
+      "narrationSpan": [
+        46,
+        62
+      ],
+      "section": "WHAT_HAPPENED",
+      "visualPurpose": "show evidence",
+      "visualType": "REAL_ARCHIVAL",
+      "subject": "They welded shut, and wires inside cooked at a thousand degrees.",
+      "asset": "Footage/apollo13.ogv",
+      "sourceRequirement": "public-domain / licensed archival with attribution",
+      "durationEstimateSeconds": 15.9,
+      "motion": "hold, animated highlight on the claimed element",
+      "claimSupported": "C14",
+      "fallbackAssetStrategy": "labelled reconstruction diagram (never presented as archive)",
+      "disclosure": null
+    },
+    {
+      "scene": 6,
+      "narrationSpan": [
+        62,
+        70
+      ],
+      "section": "SYSTEM",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "The mechanism: thermostat switches welded shut by overvoltage, overheating the tank's wiring insulation.",
+      "asset": "diagram:SYSTEM:C3",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 8,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C3",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 7,
+      "narrationSpan": [
+        70,
+        86
+      ],
+      "section": "HIDDEN_WEAKNESS",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "The trigger: heater switches rated for 28 V run on 65 V.",
+      "asset": "diagram:HIDDEN_WEAKNESS:C2",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 16,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C2",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 8,
+      "narrationSpan": [
+        86,
+        99
+      ],
+      "section": "FAILURE_CHAIN",
+      "visualPurpose": "explain mechanism",
+      "visualType": "DIAGRAM",
+      "subject": "Step 1 of the failure chain: switches rated 28 V, ground supply 65 V.",
+      "asset": "diagram:FAILURE_CHAIN:C7",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 13.6,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C7",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 9,
+      "narrationSpan": [
+        99,
+        113
+      ],
+      "section": "FAILURE_CHAIN",
+      "visualPurpose": "explain mechanism",
+      "visualType": "DIAGRAM",
+      "subject": "Step 2 of the failure chain: switches weld shut during detanking.",
+      "asset": "diagram:FAILURE_CHAIN:C8",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 13.6,
+      "motion": "lateral reframe / crop to evidence",
+      "claimSupported": "C8",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 10,
+      "narrationSpan": [
+        113,
+        122
+      ],
+      "section": "WHAT_CHANGED",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "What changed: every component rating is now checked against every power source it will",
+      "asset": "diagram:WHAT_CHANGED:C24",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 9.2,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C24",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 11,
+      "narrationSpan": [
+        122,
+        134
+      ],
+      "section": "FINAL_TAKEAWAY",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "The switches passed their own tests; the mismatch lived between two teams' specs. Who",
+      "asset": "diagram:FINAL_TAKEAWAY:C25",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 12.4,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C25",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    }
+  ],
+  "assetPlan": {
+    "byType": {
+      "REAL_ARCHIVAL": 5,
+      "TECHNICAL_ILLUSTRATION": 4,
+      "DIAGRAM": 2
+    },
+    "distinctSubjects": 7,
+    "archivalLeads": 44,
+    "articleImageCandidates": 36,
+    "overused": [
+      {
+        "asset": "Footage/apollo13.ogv",
+        "count": 5
+      }
+    ],
+    "licensing": "record source, licence and URL per asset in GORSEL-KAYNAKLARI.txt (existing ledger)"
+  },
+  "thumbnails": {
+    "concepts": [
+      {
+        "id": "before-after",
+        "primarySubject": "Apollo 13",
+        "background": "split frame intact vs failed (both real)",
+        "visualHierarchy": "50/50 split, thin divider",
+        "emotion": "loss",
+        "text": "WELDED SHUT",
+        "textLength": 11,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 85,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 89
+      },
+      {
+        "id": "mechanism-callout",
+        "primarySubject": "Service module oxygen tank",
+        "background": "desaturated archival still",
+        "visualHierarchy": "one amber arrow to the failed component",
+        "emotion": "hidden cause",
+        "text": "HOUSTON",
+        "textLength": 7,
+        "textWords": 1,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 75,
+          "VisualImpact": 85,
+          "TopicRecognition": 65,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 92
+        },
+        "total": 87
+      },
+      {
+        "id": "number-contrast",
+        "primarySubject": "28 V",
+        "background": "dark field, subject silhouette",
+        "visualHierarchy": "large number left, subject right",
+        "emotion": "contradiction",
+        "text": "28 V",
+        "textLength": 4,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 75,
+          "VisualImpact": 85,
+          "TopicRecognition": 65,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 87
+      },
+      {
+        "id": "chain-diagram",
+        "primarySubject": "failure chain",
+        "background": "technical drawing overlay on archival still",
+        "visualHierarchy": "3 linked nodes, last one red",
+        "emotion": "inevitability",
+        "text": "THE CHAIN",
+        "textLength": 9,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 80,
+          "VisualImpact": 75,
+          "TopicRecognition": 65,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 92
+        },
+        "total": 87
+      },
+      {
+        "id": "evidence-frame",
+        "primarySubject": "Service module oxygen tank",
+        "background": "real archival frame of the failure",
+        "visualHierarchy": "subject 60% of frame, text top-left",
+        "emotion": "consequence",
+        "text": "28 V vs 65 V",
+        "textLength": 12,
+        "textWords": 5,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 60,
+        "scores": {
+          "Clarity": 71,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 65,
+          "MobileReadability": 60,
+          "Truthfulness": 100,
+          "ChannelFit": 92
+        },
+        "total": 75
+      }
+    ],
+    "selected": {
+      "id": "before-after",
+      "primarySubject": "Apollo 13",
+      "background": "split frame intact vs failed (both real)",
+      "visualHierarchy": "50/50 split, thin divider",
+      "emotion": "loss",
+      "text": "WELDED SHUT",
+      "textLength": 11,
+      "textWords": 2,
+      "contrast": "light subject on dark field; single accent colour",
+      "truthfulness": "evidence-consistent",
+      "mobileReadability": 100,
+      "scores": {
+        "Clarity": 95,
+        "Curiosity": 65,
+        "VisualImpact": 85,
+        "TopicRecognition": 90,
+        "MobileReadability": 100,
+        "Truthfulness": 100,
+        "ChannelFit": 86
+      },
+      "total": 89
+    },
+    "meetsMinimum": true
+  },
+  "titles": {
+    "selected": {
+      "title": "Apollo 13: What Failed, Why, and What Changed",
+      "source": "what-why-changed",
+      "pattern": "label-colon",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 76,
+        "specificity": 92,
+        "truthfulness": 100,
+        "searchIntent": 83,
+        "channelIdentity": 62,
+        "ctrPotential": 97,
+        "novelty": 93,
+        "evergreenPotential": 85
+      },
+      "total": 89,
+      "adjustedTotal": 89,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 89,
+    "count": 25,
+    "candidates": [
+      {
+        "title": "Apollo 13: What Failed, Why, and What Changed",
+        "source": "what-why-changed",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 97,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 89,
+        "adjustedTotal": 89,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Apollo 13's Oxygen Tank Exploded",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 94,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 84,
+          "ctrPotential": 85,
+          "novelty": 85,
+          "evergreenPotential": 85
+        },
+        "total": 88,
+        "adjustedTotal": 88,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How Engineers Solved the Apollo 13 Failure",
+        "source": "engineers-solved",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 87,
+          "channelIdentity": 74,
+          "ctrPotential": 85,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 86,
+        "adjustedTotal": 86,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "28 Volts vs 65: Apollo 13's Hidden Flaw",
+        "source": "editorial",
+        "pattern": "number-led",
+        "scores": {
+          "clarity": 99,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 72,
+          "ctrPotential": 77,
+          "novelty": 20,
+          "evergreenPotential": 85
+        },
+        "total": 85,
+        "adjustedTotal": 85,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Inside the Engineering Failure of Apollo 13",
+        "source": "inside-engineering",
+        "pattern": "inside",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 85,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 85,
+        "adjustedTotal": 85,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Weakness Inside Apollo 13",
+        "source": "hidden-weakness",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 94,
+          "curiosity": 76,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 50,
+          "ctrPotential": 89,
+          "novelty": 85,
+          "evergreenPotential": 85
+        },
+        "total": 85,
+        "adjustedTotal": 85,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Apollo 13 Should Never Have Happened",
+        "source": "never-happened",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 92,
+          "truthfulness": 70,
+          "searchIntent": 95,
+          "channelIdentity": 50,
+          "ctrPotential": 97,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 84,
+        "adjustedTotal": 84,
+        "unsupportedWords": [
+          "never",
+          "have"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why Apollo 13 Failed",
+        "source": "why-failed",
+        "pattern": "why",
+        "scores": {
+          "clarity": 70,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 85,
+          "novelty": 92,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Really Destroyed Apollo 13 — The Complete Investigation",
+        "source": "complete-investigation",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 85,
+          "searchIntent": 87,
+          "channelIdentity": 62,
+          "ctrPotential": 85,
+          "novelty": 94,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [
+          "destroyed"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Apollo 13: From First Warning to Final Failure",
+        "source": "warning-to-failure",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 85,
+          "novelty": 94,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [
+          "warning"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "How Apollo 13 Changed Engineering Forever",
+        "source": "changed-engineering",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 77,
+          "novelty": 91,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [
+          "forever"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Apollo 13: The Full Failure Reconstructed",
+        "source": "full-reconstruction",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 73,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Wrong Voltage That Nearly Killed Apollo 13",
+        "source": "editorial",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 60,
+          "ctrPotential": 73,
+          "novelty": 91,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Ground Test That Doomed Apollo 13",
+        "source": "editorial",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 96,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 60,
+          "ctrPotential": 73,
+          "novelty": 91,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How One Weakness Brought Down Apollo 13",
+        "source": "one-weakness",
+        "pattern": "how",
+        "scores": {
+          "clarity": 99,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 85,
+          "searchIntent": 87,
+          "channelIdentity": 50,
+          "ctrPotential": 77,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [
+          "brought"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Engineering Mistakes Behind Apollo 13",
+        "source": "engineering-mistakes",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 77,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [
+          "mistakes"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Apollo 13: Every Link in the Failure Chain",
+        "source": "every-link",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 73,
+          "novelty": 94,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [
+          "link"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Reconstructing Apollo 13: Cause, Chain, Consequence",
+        "source": "reconstructing",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 65,
+          "novelty": 94,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Apollo 13: The Investigation, Explained",
+        "source": "investigation-explained",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 99,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 65,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Failure Chain That Destroyed Apollo 13",
+        "source": "failure-chain",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 73,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 79,
+        "adjustedTotal": 79,
+        "unsupportedWords": [
+          "destroyed"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Thermostat Switches Welded Shut by Overvoltage: How It Destroyed Apollo 13",
+        "source": "mechanism-long",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 94,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 75,
+          "novelty": 95,
+          "evergreenPotential": 85
+        },
+        "total": 79,
+        "adjustedTotal": 79,
+        "unsupportedWords": [
+          "destroyed"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Physics Behind the Apollo 13 Disaster",
+        "source": "physics-behind",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 50,
+          "ctrPotential": 77,
+          "novelty": 90,
+          "evergreenPotential": 85
+        },
+        "total": 79,
+        "adjustedTotal": 79,
+        "unsupportedWords": [
+          "disaster"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Could Apollo 13 Have Been Prevented?",
+        "source": "prevented",
+        "pattern": "question",
+        "scores": {
+          "clarity": 94,
+          "curiosity": 66,
+          "specificity": 92,
+          "truthfulness": 70,
+          "searchIntent": 83,
+          "channelIdentity": 50,
+          "ctrPotential": 77,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 78,
+        "adjustedTotal": 78,
+        "unsupportedWords": [
+          "have",
+          "prevented"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Apollo 13 — A Forensic Engineering Documentary",
+        "source": "documentary",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 65,
+          "novelty": 93,
+          "evergreenPotential": 85
+        },
+        "total": 77,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "forensic"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The 1970 Disaster Engineers Still Study: Apollo 13",
+        "source": "still-study",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 55,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 65,
+          "novelty": 92,
+          "evergreenPotential": 85
+        },
+        "total": 71,
+        "adjustedTotal": 71,
+        "unsupportedWords": [
+          "disaster",
+          "still",
+          "study"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "derivedShorts": {
+    "shorts": [
+      {
+        "angle": "consequence",
+        "hook": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+        "hookFamily": "shocking_consequence",
+        "hookScore": 79,
+        "first3SecondPlan": {
+          "narration": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+          "firstFrame": {
+            "description": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+            "source": "Footage/apollo13.ogv",
+            "startAtSeconds": 899,
+            "sourceClass": "REAL_ARCHIVAL",
+            "communicates": "consequence",
+            "rule": "opens on the most striking evidence moment, never the reel's leader"
+          },
+          "visual": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+          "onScreenText": "200,000 MILES",
+          "motion": "no zoom on moving film; punch-in crop 100→108% at the first cut",
+          "cutTiming": [
+            0,
+            1.5,
+            3
+          ],
+          "soundCue": "low impact hit under the first cut",
+          "communicates": "consequence"
+        },
+        "miniNarrative": [
+          "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+          "The key figure: 28 V vs 65 V.",
+          "Apollo 13 (April 11–17, 1970) was the seventh crewed mission in the Apollo space program and would have been the third Moon landing."
+        ],
+        "payoff": "Apollo 13 (April 11–17, 1970) was the seventh crewed mission in the Apollo space program and would have been the third Moon landing.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That was only the final failure. The full chain is in the linked episode.",
+        "claimIds": [
+          "C1",
+          "C4",
+          "C26"
+        ]
+      },
+      {
+        "angle": "what-happened",
+        "hook": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+        "hookFamily": "shocking_consequence",
+        "hookScore": 79,
+        "first3SecondPlan": {
+          "narration": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+          "firstFrame": {
+            "description": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+            "source": "Footage/apollo13.ogv",
+            "startAtSeconds": 899,
+            "sourceClass": "REAL_ARCHIVAL",
+            "communicates": "consequence",
+            "rule": "opens on the most striking evidence moment, never the reel's leader"
+          },
+          "visual": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+          "onScreenText": "200,000 MILES",
+          "motion": "no zoom on moving film; punch-in crop 100→108% at the first cut",
+          "cutTiming": [
+            0,
+            1.5,
+            3
+          ],
+          "soundCue": "low impact hit under the first cut",
+          "communicates": "consequence"
+        },
+        "miniNarrative": [
+          "Mar 1970: Pad detanking: heaters run ~8 hours, switches weld shut.",
+          "Apr 11: Launch.",
+          "Apr 13, ~56 h in: Tank stir; oxygen tank 2 ruptures.",
+          "Apr 17: Crew splashes down safely."
+        ],
+        "payoff": "The accident happened at 55:54:53 (03:08 UTC on April 14; 10:08 PM EST, April 13).",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That was only the final failure. The full chain is in the linked episode.",
+        "claimIds": [
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C20",
+          "C21",
+          "C22",
+          "C23",
+          "C27",
+          "C28",
+          "C29",
+          "C30",
+          "C31",
+          "C32",
+          "C33",
+          "C34",
+          "C35",
+          "C36",
+          "C37",
+          "C38",
+          "C39",
+          "C40",
+          "C41",
+          "C158",
+          "C159",
+          "C160",
+          "C161",
+          "C162",
+          "C163",
+          "C164",
+          "C165",
+          "C166",
+          "C167",
+          "C168",
+          "C169",
+          "C170",
+          "C171",
+          "C172",
+          "C173",
+          "C174",
+          "C175",
+          "C176",
+          "C177",
+          "C178",
+          "C179",
+          "C180",
+          "C181",
+          "C182",
+          "C183",
+          "C184",
+          "C185"
+        ]
+      },
+      {
+        "angle": "system",
+        "hook": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+        "hookFamily": "shocking_consequence",
+        "hookScore": 79,
+        "first3SecondPlan": {
+          "narration": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+          "firstFrame": {
+            "description": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+            "source": "Footage/apollo13.ogv",
+            "startAtSeconds": 899,
+            "sourceClass": "REAL_ARCHIVAL",
+            "communicates": "consequence",
+            "rule": "opens on the most striking evidence moment, never the reel's leader"
+          },
+          "visual": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+          "onScreenText": "200,000 MILES",
+          "motion": "no zoom on moving film; punch-in crop 100→108% at the first cut",
+          "cutTiming": [
+            0,
+            1.5,
+            3
+          ],
+          "soundCue": "low impact hit under the first cut",
+          "communicates": "consequence"
+        },
+        "miniNarrative": [
+          "The mechanism: thermostat switches welded shut by overvoltage, overheating the tank's wiring insulation.",
+          "Kennedy challenged his nation to land an astronaut on the Moon by the end of the decade, with a safe return to Earth.",
+          "NASA worked towards this goal incrementally, sending astronauts into space during Project Mercury and Project Gemini, leading up to the Apollo program.",
+          "The goal was achieved with Apollo 11, which landed on the Moon on July 20, 1969."
+        ],
+        "payoff": "There was a greater role for science on Apollo 13, especially for geology, something emphasized by the mission's motto, Ex luna, scientia (From the Moon, knowledge).",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That was only the final failure. The full chain is in the linked episode.",
+        "claimIds": [
+          "C3",
+          "C42",
+          "C43",
+          "C44",
+          "C45",
+          "C46",
+          "C47",
+          "C48",
+          "C49",
+          "C50",
+          "C51",
+          "C52",
+          "C53",
+          "C54",
+          "C55",
+          "C56",
+          "C57",
+          "C58",
+          "C59",
+          "C60"
+        ]
+      },
+      {
+        "angle": "hidden-weakness",
+        "hook": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+        "hookFamily": "shocking_consequence",
+        "hookScore": 79,
+        "first3SecondPlan": {
+          "narration": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+          "firstFrame": {
+            "description": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+            "source": "Footage/apollo13.ogv",
+            "startAtSeconds": 899,
+            "sourceClass": "REAL_ARCHIVAL",
+            "communicates": "consequence",
+            "rule": "opens on the most striking evidence moment, never the reel's leader"
+          },
+          "visual": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+          "onScreenText": "200,000 MILES",
+          "motion": "no zoom on moving film; punch-in crop 100→108% at the first cut",
+          "cutTiming": [
+            0,
+            1.5,
+            3
+          ],
+          "soundCue": "low impact hit under the first cut",
+          "communicates": "consequence"
+        },
+        "miniNarrative": [
+          "The trigger: heater switches rated for 28 V run on 65 V.",
+          "Nothing hit Apollo 13.",
+          "The failure was built in on the ground weeks earlier, when a mismatch in voltage ratings silently damaged the tank."
+        ],
+        "payoff": "The failure was built in on the ground weeks earlier, when a mismatch in voltage ratings silently damaged the tank.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That was only the final failure. The full chain is in the linked episode.",
+        "claimIds": [
+          "C2",
+          "C5",
+          "C6"
+        ]
+      },
+      {
+        "angle": "failure-chain",
+        "hook": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+        "hookFamily": "shocking_consequence",
+        "hookScore": 79,
+        "first3SecondPlan": {
+          "narration": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+          "firstFrame": {
+            "description": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+            "source": "Footage/apollo13.ogv",
+            "startAtSeconds": 899,
+            "sourceClass": "REAL_ARCHIVAL",
+            "communicates": "consequence",
+            "rule": "opens on the most striking evidence moment, never the reel's leader"
+          },
+          "visual": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+          "onScreenText": "200,000 MILES",
+          "motion": "no zoom on moving film; punch-in crop 100→108% at the first cut",
+          "cutTiming": [
+            0,
+            1.5,
+            3
+          ],
+          "soundCue": "low impact hit under the first cut",
+          "communicates": "consequence"
+        },
+        "miniNarrative": [
+          "Step 1 of the failure chain: switches rated 28 V, ground supply 65 V.",
+          "Step 2 of the failure chain: switches weld shut during detanking.",
+          "Step 3 of the failure chain: heater cooks wire insulation.",
+          "Step 4 of the failure chain: spark in pure oxygen in flight."
+        ],
+        "payoff": "Step 5 of the failure chain: tank ruptures — mission aborted.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That was only the final failure. The full chain is in the linked episode.",
+        "claimIds": [
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11"
+        ]
+      },
+      {
+        "angle": "engineering-explanation",
+        "hook": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+        "hookFamily": "shocking_consequence",
+        "hookScore": 79,
+        "first3SecondPlan": {
+          "narration": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+          "firstFrame": {
+            "description": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+            "source": "Footage/apollo13.ogv",
+            "startAtSeconds": 899,
+            "sourceClass": "REAL_ARCHIVAL",
+            "communicates": "consequence",
+            "rule": "opens on the most striking evidence moment, never the reel's leader"
+          },
+          "visual": "Evidence frame for: \"Two hundred thousand miles from Earth, an oxygen tank exploded.\"",
+          "onScreenText": "200,000 MILES",
+          "motion": "no zoom on moving film; punch-in crop 100→108% at the first cut",
+          "cutTiming": [
+            0,
+            1.5,
+            3
+          ],
+          "soundCue": "low impact hit under the first cut",
+          "communicates": "consequence"
+        },
+        "miniNarrative": [
+          "Apollo 13's mission commander, Jim Lovell, was 42 years old at the time of the spaceflight.",
+          "At the time of Apollo 13, Lovell was the NASA astronaut with the most time in space, with 572 hours over the three missions.",
+          "Fred Haise, the Lunar Module pilot (LMP), was 36 years old.",
+          "He held a B.S. in aeronautical engineering, had been a Marine Corps fighter pilot, and was a civilian research pilot for NASA when he was selected as a Group 5 astronaut."
+        ],
+        "payoff": "Some of this photography was to be performed by Swigert as Lovell and Haise walked on the Moon.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That was only the final failure. The full chain is in the linked episode.",
+        "claimIds": [
+          "C61",
+          "C62",
+          "C63",
+          "C64",
+          "C65",
+          "C66",
+          "C67",
+          "C68",
+          "C69",
+          "C70",
+          "C71",
+          "C72",
+          "C73",
+          "C74",
+          "C75",
+          "C76",
+          "C77",
+          "C78",
+          "C79",
+          "C80",
+          "C81",
+          "C82",
+          "C83",
+          "C84",
+          "C85",
+          "C86",
+          "C87",
+          "C88",
+          "C89",
+          "C90",
+          "C91",
+          "C92",
+          "C93",
+          "C94",
+          "C95",
+          "C96",
+          "C97",
+          "C98",
+          "C99",
+          "C100",
+          "C101",
+          "C102",
+          "C103",
+          "C104",
+          "C105",
+          "C106",
+          "C107",
+          "C108",
+          "C109",
+          "C110",
+          "C111",
+          "C112",
+          "C113",
+          "C114",
+          "C115",
+          "C116",
+          "C117",
+          "C118",
+          "C119",
+          "C120",
+          "C121",
+          "C122",
+          "C123",
+          "C124",
+          "C125",
+          "C126",
+          "C127",
+          "C128",
+          "C129",
+          "C130",
+          "C131",
+          "C132",
+          "C133",
+          "C134",
+          "C135",
+          "C136",
+          "C137",
+          "C138",
+          "C139",
+          "C140",
+          "C141",
+          "C142",
+          "C143",
+          "C144",
+          "C145",
+          "C146",
+          "C147",
+          "C148",
+          "C149",
+          "C150",
+          "C151",
+          "C152",
+          "C153",
+          "C154",
+          "C155",
+          "C156",
+          "C157"
+        ]
+      }
+    ],
+    "count": 6,
+    "meetsMinimum": true
+  },
+  "relatedShorts": [
+    {
+      "short_video_id": "bqTpdauhlHo",
+      "short_slug": "challenger-1986",
+      "relationship_type": "SAME_SERIES",
+      "relationship_reason": "same series; subject overlap 0.00, same cluster spaceflight-disasters",
+      "score": 0.4
+    },
+    {
+      "short_video_id": "uqoAjXMbbls",
+      "short_slug": "apollo-13-1970",
+      "relationship_type": "SAME_EVENT",
+      "relationship_reason": "same event; subject overlap 1.00, same cluster spaceflight-disasters",
+      "score": 0.85
+    }
+  ],
+  "nextVideos": {
+    "primary_next_video": {
+      "slug": "apollo-1-1967",
+      "videoId": null,
+      "title": "Apollo 1: The Fire That Happened on the Ground",
+      "reason": "topic expansion; subject overlap 0.50, same cluster spaceflight-disasters",
+      "score": 0.6
+    },
+    "secondary_next_video": {
+      "slug": "apollo-12-lightning-1969",
+      "videoId": null,
+      "title": "Apollo 12 Was Struck by Lightning Twice During Launch",
+      "reason": "topic expansion; subject overlap 0.33, same cluster spaceflight-disasters",
+      "score": 0.6
+    }
+  },
+  "endScreenPlan": {
+    "primary_next_video": {
+      "slug": "apollo-1-1967",
+      "videoId": null,
+      "title": "Apollo 1: The Fire That Happened on the Ground",
+      "reason": "topic expansion; subject overlap 0.50, same cluster spaceflight-disasters",
+      "score": 0.6
+    },
+    "secondary_next_video": {
+      "slug": "apollo-12-lightning-1969",
+      "videoId": null,
+      "title": "Apollo 12 Was Struck by Lightning Twice During Launch",
+      "reason": "topic expansion; subject overlap 0.33, same cluster spaceflight-disasters",
+      "score": 0.6
+    },
+    "playlist": "spaceflight-disasters",
+    "subscribe_element": true,
+    "timing": {
+      "startSeconds": 112,
+      "durationSeconds": 20,
+      "note": "final 20 s; narration must not end abruptly"
+    },
+    "final_narration_transition": "And Apollo 13 wasn't the only time a hidden weakness decided everything — Apollo 1: The Fire That Happened on the Ground is next.",
+    "apiSupport": "UNSUPPORTED — YouTube Data API v3 has no end-screen write endpoint; configure in Studio (task emitted)."
+  },
+  "cost": {
+    "estimated_production_cost": 0.06,
+    "currency": "USD",
+    "breakdown": {
+      "llmTokens": 0,
+      "ttsMinutes": 2.2,
+      "renderMinutesCpu": 6.6,
+      "assets": 11,
+      "youtubeQuotaUnits": 1650
+    },
+    "note": "approximate; update config/growth-engine.json cost units from invoices"
+  },
+  "readiness": {
+    "LongFormProductionReadinessScore": 84,
+    "decision": "BLOCK",
+    "dimensions": {
+      "TopicDepth": 97,
+      "NarrativeQuality": 86,
+      "Hook": 79,
+      "ResearchQuality": 85,
+      "SourceCoverage": 57,
+      "FactualAccuracy": 100,
+      "ScriptRetention": 54,
+      "VisualCoverage": 80,
+      "AudioQuality": null,
+      "Editing": null,
+      "Thumbnail": 89,
+      "Title": 89,
+      "CopyrightSafety": 90,
+      "Disclosure": 95,
+      "EndScreenPlan": 90,
+      "ShortFunnelPotential": 100
+    },
+    "unmeasured": [
+      "AudioQuality",
+      "Editing"
+    ],
+    "hardFails": [
+      "INSUFFICIENT_DEPTH: evidence supports ~2.2 min; target 8–12 min — not padded"
+    ],
+    "notes": [
+      "2 sources (preferred 3): add an independent source before the next revision",
+      "160 deep-research claims need the LLM writer (LONGFORM_LLM=1 + ANTHROPIC_API_KEY); the deterministic writer never narrates encyclopedia text verbatim"
+    ],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "targetMinutes": [
+    8,
+    12
+  ],
+  "summary": {
+    "Channel": "Failure Reconstructed",
+    "Content Type": "LONG_FORM",
+    "Topic": "The Wrong Voltage That Nearly Killed Apollo 13",
+    "LongFormPotentialScore": 81,
+    "Topic Bucket": "A",
+    "Cold Open": "Apollo 13 lost an oxygen tank 200,000 miles from Earth.",
+    "Target Duration": "8–12 min",
+    "Actual Duration": "~2.2 min (script estimate, deterministic-evidence)",
+    "Scenes": 11,
+    "Thumbnail Score": 89,
+    "Title Score": 89,
+    "LongFormProductionReadinessScore": "84 → BLOCK",
+    "Related Shorts": "challenger-1986, apollo-13-1970",
+    "Primary Next Video": "Apollo 1: The Fire That Happened on the Ground"
+  }
+}

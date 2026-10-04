@@ -1,0 +1,41 @@
+{
+  "subject": "road reflectors",
+  "text": [
+    "SELF CLEANING"
+  ],
+  "maxWords": 4,
+  "palette": [
+    "#15130f",
+    "#f3ead8",
+    "#f2ad45",
+    "#4eb3a5"
+  ],
+  "clutter": false,
+  "concepts": [
+    {
+      "id": "single-object-detail",
+      "composition": "one road reflectors filling the frame",
+      "consequence": "one amber marker on self-cleaning faces"
+    },
+    {
+      "id": "macro-purpose",
+      "composition": "macro crop of self-cleaning faces",
+      "consequence": "rest of object softly out of focus"
+    },
+    {
+      "id": "then-now",
+      "composition": "clean two-panel historical and modern road reflectors",
+      "consequence": "self-cleaning faces aligned across both"
+    },
+    {
+      "id": "cutaway",
+      "composition": "labelled cutaway of self-cleaning faces",
+      "consequence": "one teal motion or force arrow"
+    },
+    {
+      "id": "misconception",
+      "composition": "road reflectors isolated on warm charcoal",
+      "consequence": "wrong use dimmed, documented purpose highlighted"
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "videoId": "uqoAjXMbbls",
+  "baslik": "28 Volts vs 65: Apollo 13's Hidden Flaw",
+  "yayin": "2026-09-29",
+  "yasGun": 3,
+  "sureSn": 31,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 1262,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 40,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 2,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": 194,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewDuration": {
+      "deger": 16,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewPercentage": {
+      "deger": 54.35,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "subscribersGained": {
+      "deger": 2,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "subscribersLost": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "netSubscribers": {
+      "deger": 2,
+      "durum": "ok",
+      "kaynak": "derived from Analytics API gained − lost"
+    },
+    "shares": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "engagedViews": {
+      "deger": 658,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "first30sRetention": {
+      "deger": 0.2953,
+      "durum": "ok",
+      "kaynak": "Analytics API (retention at 97% of video)"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": 1.6,
+      "durum": "ok",
+      "kaynak": "derived"
+    },
+    "netSubsPer1000": {
+      "deger": 1.6,
+      "durum": "ok",
+      "kaynak": "derived"
+    },
+    "likeRate": {
+      "deger": 3.2,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 0.16,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": [
+    {
+      "kaynak": "SHORTS",
+      "ad": "Shorts feed",
+      "views": 1113,
+      "oran": 0.9275
+    },
+    {
+      "kaynak": "YT_SEARCH",
+      "ad": "Search",
+      "views": 69,
+      "oran": 0.0575
+    },
+    {
+      "kaynak": "YT_OTHER_PAGE",
+      "ad": "Browse/other YouTube",
+      "views": 12,
+      "oran": 0.01
+    },
+    {
+      "kaynak": "YT_CHANNEL",
+      "ad": "Channel page",
+      "views": 6,
+      "oran": 0.005
+    },
+    {
+      "kaynak": "NO_LINK_OTHER",
+      "ad": "Direct/unknown",
+      "views": 0,
+      "oran": 0
+    }
+  ],
+  "tutma": [
+    {
+      "oran": 0.01,
+      "izleme": 1.2861000000000002,
+      "goreceli": 0.63015
+    },
+    {
+      "oran": 0.02,
+      "izleme": 1.2801,
+      "goreceli": 0.6037
+    },
+    {
+      "oran": 0.03,
+      "izleme": 1.2648000000000001,
+      "goreceli": 0.5779
+    },
+    {
+      "oran": 0.04,
+      "izleme": 1.2314,
+      "goreceli": 0.5547
+    },
+    {
+      "oran": 0.05,
+      "izleme": 1.204,
+      "goreceli": 0.5353
+    },
+    {
+      "oran": 0.06,
+      "izleme": 1.175,
+      "goreceli": 0.52005
+    },
+    {
+      "oran": 0.07,
+      "izleme": 1.1613,
+      "goreceli": 0.50855
+    },
+    {
+      "oran": 0.08,
+      "izleme": 1.1461,
+      "goreceli": 0.5
+    },
+    {
+      "oran": 0.09,
+      "izleme": 1.1416,
+      "goreceli": 0.49345
+    },
+    {
+      "oran": 0.1,
+      "izleme": 1.1355,
+      "goreceli": 0.48815
+    },
+    {
+      "oran": 0.11,
+      "izleme": 1.1279000000000001,
+      "goreceli": 0.48355
+    },
+    {
+      "oran": 0.12,
+      "izleme": 1.1218000000000001,
+      "goreceli": 0.4794
+    },
+    {
+      "oran": 0.13,
+      "izleme": 1.1201999999999999,
+      "goreceli": 0.4755
+    },
+    {
+      "oran": 0.14,
+      "izleme": 1.1126,
+      "goreceli": 0.4718
+    },
+    {
+      "oran": 0.15,
+      "izleme": 1.0898,
+      "goreceli": 0.4684
+    },
+    {
+      "oran": 0.16,
+      "izleme": 1,
+      "goreceli": 0.4653
+    },
+    {
+      "oran": 0.17,
+      "izleme": 0.9543,
+      "goreceli": 0.46245
+    },
+    {
+      "oran": 0.18,
+      "izleme": 0.9193000000000001,
+      "goreceli": 0.46
+    },
+    {
+      "oran": 0.19,
+      "izleme": 0.8889,
+      "goreceli": 0.45785
+    },
+    {
+      "oran": 0.2,
+      "izleme": 0.8539,
+      "goreceli": 0.456
+    },
+    {
+      "oran": 0.21,
+      "izleme": 0.7929999999999999,
+      "goreceli": 0.45455
+    },
+    {
+      "oran": 0.22,
+      "izleme": 0.7609999999999999,
+      "goreceli": 0.4534
+    },
+    {
+      "oran": 0.23,
+      "izleme": 0.7199,
+      "goreceli": 0.4525
+    },
+    {
+      "oran": 0.24,
+      "izleme": 0.6743000000000001,
+      "goreceli": 0.45195
+    },
+    {
+      "oran": 0.25,
+      "izleme": 0.6423000000000001,
+      "goreceli": 0.45165
+    },
+    {
+      "oran": 0.26,
+      "izleme": 0.618,
+      "goreceli": 0.45155
+    },
+    {
+      "oran": 0.27,
+      "izleme": 0.6012,
+      "goreceli": 0.45165
+    },
+    {
+      "oran": 0.28,
+      "izleme": 0.5875,
+      "goreceli": 0.4519
+    },
+    {
+      "oran": 0.29,
+      "izleme": 0.5753,
+      "goreceli": 0.45230000000000004
+    },
+    {
+      "oran": 0.3,
+      "izleme": 0.5495,
+      "goreceli": 0.4528
+    },
+    {
+      "oran": 0.31,
+      "izleme": 0.5327000000000001,
+      "goreceli": 0.4534
+    },
+    {
+      "oran": 0.32,
+      "izleme": 0.5266,
+      "goreceli": 0.45415
+    },
+    {
+      "oran": 0.33,
+      "izleme": 0.516,
+      "goreceli": 0.45505
+    },
+    {
+      "oran": 0.34,
+      "izleme": 0.5129,
+      "goreceli": 0.45605
+    },
+    {
+      "oran": 0.35,
+      "izleme": 0.5068,
+      "goreceli": 0.4572
+    },
+    {
+      "oran": 0.36,
+      "izleme": 0.5038,
+      "goreceli": 0.45845
+    },
+    {
+      "oran": 0.37,
+      "izleme": 0.4962,
+      "goreceli": 0.4599
+    },
+    {
+      "oran": 0.38,
+      "izleme": 0.4962,
+      "goreceli": 0.4615
+    },
+    {
+      "oran": 0.39,
+      "izleme": 0.4932,
+      "goreceli": 0.4632
+    },
+    {
+      "oran": 0.4,
+      "izleme": 0.4855,
+      "goreceli": 0.4651
+    },
+    {
+      "oran": 0.41,
+      "izleme": 0.4764,
+      "goreceli": 0.46715
+    },
+    {
+      "oran": 0.42,
+      "izleme": 0.4703,
+      "goreceli": 0.4694
+    },
+    {
+      "oran": 0.43,
+      "izleme": 0.4658,
+      "goreceli": 0.47185
+    },
+    {
+      "oran": 0.44,
+      "izleme": 0.4581,
+      "goreceli": 0.47455
+    },
+    {
+      "oran": 0.45,
+      "izleme": 0.45049999999999996,
+      "goreceli": 0.47755
+    },
+    {
+      "oran": 0.46,
+      "izleme": 0.446,
+      "goreceli": 0.48085
+    },
+    {
+      "oran": 0.47,
+      "izleme": 0.4429,
+      "goreceli": 0.4845
+    },
+    {
+      "oran": 0.48,
+      "izleme": 0.4429,
+      "goreceli": 0.48855
+    },
+    {
+      "oran": 0.49,
+      "izleme": 0.4414,
+      "goreceli": 0.493
+    },
+    {
+      "oran": 0.5,
+      "izleme": 0.4414,
+      "goreceli": 0.49785
+    },
+    {
+      "oran": 0.51,
+      "izleme": 0.4429,
+      "goreceli": 0.50315
+    },
+    {
+      "oran": 0.52,
+      "izleme": 0.4399,
+      "goreceli": 0.5089
+    },
+    {
+      "oran": 0.53,
+      "izleme": 0.4399,
+      "goreceli": 0.51515
+    },
+    {
+      "oran": 0.54,
+      "izleme": 0.4338,
+      "goreceli": 0.5219
+    },
+    {
+      "oran": 0.55,
+      "izleme": 0.4292,
+      "goreceli": 0.5293
+    },
+    {
+      "oran": 0.56,
+      "izleme": 0.42310000000000003,
+      "goreceli": 0.5374
+    },
+    {
+      "oran": 0.57,
+      "izleme": 0.41700000000000004,
+      "goreceli": 0.54635
+    },
+    {
+      "oran": 0.58,
+      "izleme": 0.414,
+      "goreceli": 0.55625
+    },
+    {
+      "oran": 0.59,
+      "izleme": 0.41100000000000003,
+      "goreceli": 0.5672
+    },
+    {
+      "oran": 0.6,
+      "izleme": 0.4064,
+      "goreceli": 0.5794
+    },
+    {
+      "oran": 0.61,
+      "izleme": 0.3942,
+      "goreceli": 0.5929
+    },
+    {
+      "oran": 0.62,
+      "izleme": 0.3942,
+      "goreceli": 0.60785
+    },
+    {
+      "oran": 0.63,
+      "izleme": 0.3912,
+      "goreceli": 0.62425
+    },
+    {
+      "oran": 0.64,
+      "izleme": 0.382,
+      "goreceli": 0.64195
+    },
+    {
+      "oran": 0.65,
+      "izleme": 0.38049999999999995,
+      "goreceli": 0.6607000000000001
+    },
+    {
+      "oran": 0.66,
+      "izleme": 0.3775,
+      "goreceli": 0.68025
+    },
+    {
+      "oran": 0.67,
+      "izleme": 0.3775,
+      "goreceli": 0.6999500000000001
+    },
+    {
+      "oran": 0.68,
+      "izleme": 0.3729,
+      "goreceli": 0.7192000000000001
+    },
+    {
+      "oran": 0.69,
+      "izleme": 0.3699,
+      "goreceli": 0.7375
+    },
+    {
+      "oran": 0.7,
+      "izleme": 0.36829999999999996,
+      "goreceli": 0.7542
+    },
+    {
+      "oran": 0.71,
+      "izleme": 0.3668,
+      "goreceli": 0.7689
+    },
+    {
+      "oran": 0.72,
+      "izleme": 0.3653,
+      "goreceli": 0.78145
+    },
+    {
+      "oran": 0.73,
+      "izleme": 0.3638,
+      "goreceli": 0.79175
+    },
+    {
+      "oran": 0.74,
+      "izleme": 0.3592,
+      "goreceli": 0.8000499999999999
+    },
+    {
+      "oran": 0.75,
+      "izleme": 0.35159999999999997,
+      "goreceli": 0.8065
+    },
+    {
+      "oran": 0.76,
+      "izleme": 0.35159999999999997,
+      "goreceli": 0.8115
+    },
+    {
+      "oran": 0.77,
+      "izleme": 0.3455,
+      "goreceli": 0.8153
+    },
+    {
+      "oran": 0.78,
+      "izleme": 0.34090000000000004,
+      "goreceli": 0.8182499999999999
+    },
+    {
+      "oran": 0.79,
+      "izleme": 0.3394,
+      "goreceli": 0.8205
+    },
+    {
+      "oran": 0.8,
+      "izleme": 0.3333,
+      "goreceli": 0.82225
+    },
+    {
+      "oran": 0.81,
+      "izleme": 0.3318,
+      "goreceli": 0.8236
+    },
+    {
+      "oran": 0.82,
+      "izleme": 0.33030000000000004,
+      "goreceli": 0.8247
+    },
+    {
+      "oran": 0.83,
+      "izleme": 0.33030000000000004,
+      "goreceli": 0.82555
+    },
+    {
+      "oran": 0.84,
+      "izleme": 0.3272,
+      "goreceli": 0.8262499999999999
+    },
+    {
+      "oran": 0.85,
+      "izleme": 0.3272,
+      "goreceli": 0.82675
+    },
+    {
+      "oran": 0.86,
+      "izleme": 0.3272,
+      "goreceli": 0.82715
+    },
+    {
+      "oran": 0.87,
+      "izleme": 0.32880000000000004,
+      "goreceli": 0.82745
+    },
+    {
+      "oran": 0.88,
+      "izleme": 0.3272,
+      "goreceli": 0.8276
+    },
+    {
+      "oran": 0.89,
+      "izleme": 0.32420000000000004,
+      "goreceli": 0.8276
+    },
+    {
+      "oran": 0.9,
+      "izleme": 0.32270000000000004,
+      "goreceli": 0.82755
+    },
+    {
+      "oran": 0.91,
+      "izleme": 0.32270000000000004,
+      "goreceli": 0.8274
+    },
+    {
+      "oran": 0.92,
+      "izleme": 0.3196,
+      "goreceli": 0.82715
+    },
+    {
+      "oran": 0.93,
+      "izleme": 0.3181,
+      "goreceli": 0.8268500000000001
+    },
+    {
+      "oran": 0.94,
+      "izleme": 0.3135,
+      "goreceli": 0.8265
+    },
+    {
+      "oran": 0.95,
+      "izleme": 0.3105,
+      "goreceli": 0.8261499999999999
+    },
+    {
+      "oran": 0.96,
+      "izleme": 0.3059,
+      "goreceli": 0.8258
+    },
+    {
+      "oran": 0.97,
+      "izleme": 0.2953,
+      "goreceli": 0.8254999999999999
+    },
+    {
+      "oran": 0.98,
+      "izleme": 0.2009,
+      "goreceli": 0.8252
+    },
+    {
+      "oran": 0.99,
+      "izleme": 0.19940000000000002,
+      "goreceli": 0.82495
+    },
+    {
+      "oran": 1,
+      "izleme": 0.1979,
+      "goreceli": 0.8247500000000001
+    }
+  ],
+  "analitikDurumu": "ok",
+  "toplandi": "2026-10-02T18:30:34.622Z",
+  "checkpoint": "3d",
+  "teshis": [
+    {
+      "kod": "WEAK_TOPIC_PACKAGING",
+      "guven": "low",
+      "aciklama": "Current title scores 48/100 in the title engine; best editorial option scores 54.5.",
+      "oneri": "Heuristic only — test the stronger title as a logged experiment rather than switching silently."
+    }
+  ],
+  "retentionDrop": {
+    "second": 6,
+    "magnitude": 0.17049999999999998,
+    "sceneIndex": 1,
+    "sentence": "In seconds, Apollo 13 lost most of its power and oxygen.",
+    "visualType": "REAL ARCHIVAL/LICENCED FOOTAGE"
+  }
+}

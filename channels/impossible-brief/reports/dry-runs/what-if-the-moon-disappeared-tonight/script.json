@@ -1,0 +1,49 @@
+{
+  "format": "short",
+  "targetSeconds": 19.784,
+  "spoken": "Moon gone. Gravity lingers. Lunar tides start changing next. Known physics says the mechanism is orbital angular momentum, tidal forcing and the Earth–Moon barycenter. The best supported consequence is this: ocean tides, axial stability and nights would change on different timescales. The exact timeline depends on how the impossible change occurs.",
+  "claims": [
+    {
+      "start": 0,
+      "end": 1.3344635842257524,
+      "layer": "SPECULATIVE SCENARIO",
+      "confidence": "SPECULATIVE",
+      "text": "Moon gone. Gravity lingers."
+    },
+    {
+      "start": 1.3344635842257524,
+      "end": 3.221188245444856,
+      "layer": "ESTIMATED CONSEQUENCE",
+      "confidence": "SUPPORTED",
+      "text": "Lunar tides start changing next."
+    },
+    {
+      "start": 3.221188245444856,
+      "end": 9.124357102979241,
+      "layer": "KNOWN SCIENCE",
+      "confidence": "VERIFIED",
+      "text": "Known physics says the mechanism is orbital angular momentum, tidal forcing and the Earth–Moon barycenter."
+    },
+    {
+      "start": 9.124357102979241,
+      "end": 16.254549662487946,
+      "layer": "ESTIMATED CONSEQUENCE",
+      "confidence": "ESTIMATED",
+      "text": "The best supported consequence is this: ocean tides, axial stability and nights would change on different timescales."
+    },
+    {
+      "start": 16.254549662487946,
+      "end": 19.784,
+      "layer": "SPECULATIVE SCENARIO",
+      "confidence": "SPECULATIVE",
+      "text": "The exact timeline depends on how the impossible change occurs."
+    }
+  ],
+  "forbiddenOpening": false,
+  "sourceIds": [
+    "NASA Science — Tides",
+    "NASA Science — Moon Facts",
+    "NASA Science — Gravitational Waves"
+  ],
+  "timing": "measured from per-claim narration takes"
+}

@@ -1,0 +1,235 @@
+{
+  "format": "long",
+  "targetMinutes": [
+    8,
+    15
+  ],
+  "coldOpen": "That tiny jeans pocket was not designed for loose change.",
+  "centralQuestion": "Why do jeans have a tiny pocket above the larger front pocket?",
+  "sections": [
+    {
+      "order": 1,
+      "section": "Cold open",
+      "evidence": "VERIFIED FACT"
+    },
+    {
+      "order": 2,
+      "section": "The question",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 3,
+      "section": "Origin and context",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 4,
+      "section": "The design problem",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 5,
+      "section": "The documented explanation",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 6,
+      "section": "The surprising detail",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 7,
+      "section": "Real-world consequence",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 8,
+      "section": "Final payoff",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 9,
+      "section": "Next curiosity bridge",
+      "evidence": "CLAIM IDS REQUIRED"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Levi Strauss & Co. Archives — Pockets Full of History",
+      "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/",
+      "type": "manufacturer archive"
+    },
+    {
+      "name": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/",
+      "type": "manufacturer historian"
+    },
+    {
+      "name": "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts",
+      "url": "https://www.levistrauss.com/2014/04/17/those-oft-forgotten-pant-parts/",
+      "type": "manufacturer archive"
+    }
+  ],
+  "evidence": [
+    {
+      "role": "question",
+      "layer": "VERIFIED FACT",
+      "claim": "The small front-right pocket on classic Levi's jeans is called a watch pocket.",
+      "source": "Levi Strauss & Co. Archives — Pockets Full of History",
+      "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
+    },
+    {
+      "role": "explanation",
+      "layer": "VERIFIED FACT",
+      "claim": "The watch pocket was intended to hold a pocket watch, a common possession in the late nineteenth century.",
+      "source": "Levi Strauss & Co. Archives — Pockets Full of History",
+      "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
+    },
+    {
+      "role": "origin",
+      "layer": "VERIFIED FACT",
+      "claim": "The small watch pocket was part of the original riveted waist overalls introduced in 1873.",
+      "source": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
+    },
+    {
+      "role": "origin",
+      "layer": "VERIFIED FACT",
+      "claim": "Levi Strauss and Jacob Davis received a United States patent for improving the fastening of pocket openings in 1873.",
+      "source": "Levi Strauss & Co. Archives — Pockets Full of History",
+      "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
+    },
+    {
+      "role": "problem",
+      "layer": "VERIFIED FACT",
+      "claim": "Copper rivets strengthened pocket openings and helped keep them from ripping.",
+      "source": "Levi Strauss & Co. Archives — Pockets Full of History",
+      "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
+    },
+    {
+      "role": "context",
+      "layer": "VERIFIED FACT",
+      "claim": "The original trousers were known as waist overalls.",
+      "source": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
+    },
+    {
+      "role": "context",
+      "layer": "VERIFIED FACT",
+      "claim": "The original waist overalls had four pockets in total.",
+      "source": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
+    },
+    {
+      "role": "context",
+      "layer": "VERIFIED FACT",
+      "claim": "Those four pockets were two large front pockets, the watch pocket, and one back pocket.",
+      "source": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
+    },
+    {
+      "role": "explanation",
+      "layer": "VERIFIED FACT",
+      "claim": "Levi Strauss and Company describes the watch pocket as protection for a pocket watch.",
+      "source": "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts",
+      "url": "https://www.levistrauss.com/2014/04/17/those-oft-forgotten-pant-parts/"
+    },
+    {
+      "role": "surprising-detail",
+      "layer": "VERIFIED FACT",
+      "claim": "The tiny front pocket is sometimes called the fifth pocket, but it was part of the original four-pocket arrangement.",
+      "source": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
+    },
+    {
+      "role": "surprising-detail",
+      "layer": "VERIFIED FACT",
+      "claim": "A second back pocket was added in 1901.",
+      "source": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
+    },
+    {
+      "role": "payoff",
+      "layer": "VERIFIED FACT",
+      "claim": "The back pocket added in 1901 is the actual fifth pocket in the documented design sequence.",
+      "source": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
+    },
+    {
+      "role": "consequence",
+      "layer": "VERIFIED FACT",
+      "claim": "During the Second World War, rivets were removed from the watch pocket to save metal.",
+      "source": "Levi Strauss & Co. Archives — Pockets Full of History",
+      "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
+    },
+    {
+      "role": "consequence",
+      "layer": "VERIFIED FACT",
+      "claim": "The watch-pocket rivets were restored after the wartime change.",
+      "source": "Levi Strauss & Co. Archives — Pockets Full of History",
+      "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
+    },
+    {
+      "role": "context",
+      "layer": "VERIFIED FACT",
+      "claim": "The original waist overalls also used a button fly, copper rivets, blue denim, and arcuate stitching.",
+      "source": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
+    },
+    {
+      "role": "payoff",
+      "layer": "VERIFIED FACT",
+      "claim": "The watch pocket remains part of the familiar five-pocket jean design.",
+      "source": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
+    }
+  ],
+  "visualPlan": [
+    "real jeans",
+    "macro view of tiny pockets",
+    "labelled comparison",
+    "source document or engineering diagram",
+    "the detail in everyday use"
+  ],
+  "titleCandidates": [
+    "Why Jeans Have a Tiny Pocket",
+    "Why jeans Have tiny pockets",
+    "The Hidden Purpose of tiny pockets",
+    "What tiny pockets Were Actually Made For",
+    "This Detail Wasn't Added by Accident",
+    "The Design Reason Behind tiny pockets",
+    "Why This Detail Still Exists on jeans",
+    "The Original Job of tiny pockets",
+    "jeans: The Detail Everyone Overlooks",
+    "How tiny pockets Became Part of jeans",
+    "What Problem Did tiny pockets Solve?",
+    "The Tiny Design Choice on jeans",
+    "Why jeans Still Use This Old Detail",
+    "tiny pockets: Function or Leftover?",
+    "The Everyday Engineering of jeans",
+    "Look Closely at jeans",
+    "The Reason tiny pockets Look Like This",
+    "jeans Hide a Piece of Design History",
+    "Why Designers Kept tiny pockets",
+    "jeans Explained Through One Small Detail"
+  ],
+  "thumbnailConceptRequirement": "one object + one highlighted detail; zero to four words; five concepts",
+  "standaloneShorts": [
+    {
+      "angle": "visual mystery",
+      "hook": "That tiny jeans pocket was not designed for loose change."
+    },
+    {
+      "angle": "documented origin",
+      "hook": "How tiny pockets became part of jeans."
+    },
+    {
+      "angle": "design mechanism",
+      "hook": "The problem tiny pockets were designed to solve."
+    },
+    {
+      "angle": "misconception",
+      "hook": "It is often called the fifth pocket, but the second back pocket is the actual fifth pocket in the documented design sequence."
+    }
+  ]
+}

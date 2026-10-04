@@ -1,0 +1,49 @@
+{
+  "variants": [
+    {
+      "slug": "why-road-cats-eyes-clean-themselves",
+      "file": "channels/behind-the-ordinary/state/production/why-road-cats-eyes-clean-themselves/thumbnail.jpg",
+      "sha256": "9319d28a8a5ba11e117f43ebf2fdb4072cd2c6cef4f3fac54e88296e4ff5647e",
+      "concept": "licensed-still",
+      "layoutType": "full-bleed-still-text",
+      "text": "SELF CLEANING",
+      "textLength": 13,
+      "templateVersion": "ib-ct-thumbnail-v1",
+      "human": false,
+      "experimentId": null,
+      "createdAt": "2026-10-03T19:22:31.195Z",
+      "selected": true,
+      "videoId": null
+    },
+    {
+      "slug": "why-jeans-have-a-tiny-pocket",
+      "file": "channels/behind-the-ordinary/state/production/why-jeans-have-a-tiny-pocket/thumbnail.jpg",
+      "sha256": "90010229886c45937638e8797346edb965306495cbd8aa056696d7216ed1002b",
+      "concept": "licensed-still",
+      "layoutType": "full-bleed-still-text",
+      "text": "NOT FOR COINS",
+      "textLength": 13,
+      "templateVersion": "ib-ct-thumbnail-v1",
+      "human": false,
+      "experimentId": null,
+      "createdAt": "2026-10-04T12:28:49.543Z",
+      "selected": true,
+      "videoId": null
+    },
+    {
+      "slug": "why-the-bluetooth-logo-looks-like-that",
+      "file": "channels/behind-the-ordinary/state/production/why-the-bluetooth-logo-looks-like-that/thumbnail.jpg",
+      "sha256": "98b03df50f113efa151aff08e7901a598e9ad5ac1ea937f976c13553714b01d2",
+      "concept": "licensed-still",
+      "layoutType": "full-bleed-still-text",
+      "text": "VIKING INITIALS",
+      "textLength": 15,
+      "templateVersion": "ib-ct-thumbnail-v1",
+      "human": false,
+      "experimentId": null,
+      "createdAt": "2026-10-04T18:00:30.731Z",
+      "selected": true,
+      "videoId": null
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Mid-Air Collision That Created the FAA",
+  "kaynaklar": [
+    {
+      "ad": "grand-canyon-collision-1.jpg",
+      "wikimedia": "Severed tail of TWA Flight 2.jpg"
+    },
+    {
+      "ad": "grand-canyon-collision-2.jpg",
+      "wikimedia": "רגע לפני האסון האווירי בגרנד קניון.jpg"
+    },
+    {
+      "ad": "grand-canyon-collision-3.jpg",
+      "wikimedia": "Impact site TWA Flight 2.jpg"
+    },
+    {
+      "ad": "grand-canyon-collision-4.png",
+      "wikimedia": "United Flight 718 on Chuar Butte.png"
+    },
+    {
+      "ad": "grand-canyon-collision-5.jpg",
+      "wikimedia": "Trans World Airlines - TWA Lockheed L-1049A Super Constellation Star of the Seine N6902C in flight.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two airliners collided over the Grand Canyon.",
+      "kaynak": "Footage/grand-canyon-collision-1.jpg"
+    },
+    {
+      "metin": "Both crashed into the canyon, and one hundred twenty eight people died.",
+      "kaynak": "Footage/grand-canyon-collision-2.jpg"
+    },
+    {
+      "metin": "They had left Los Angeles minutes apart.",
+      "kaynak": "Footage/grand-canyon-collision-3.jpg"
+    },
+    {
+      "metin": "Over the canyon, they flew in uncontrolled airspace.",
+      "kaynak": "Footage/grand-canyon-collision-4.png"
+    },
+    {
+      "metin": "Pilots were expected to see and avoid each other.",
+      "kaynak": "Footage/grand-canyon-collision-5.jpg"
+    },
+    {
+      "metin": "Clouds blocked their views as they converged.",
+      "kaynak": "Footage/grand-canyon-collision-1.jpg"
+    },
+    {
+      "metin": "It was the deadliest US air crash at the time.",
+      "kaynak": "Footage/grand-canyon-collision-2.jpg"
+    },
+    {
+      "metin": "Congress then created the Federal Aviation Agency.",
+      "kaynak": "Footage/grand-canyon-collision-3.jpg"
+    }
+  ],
+  "aciklama": "Grand Canyon collision brought down two airliners over the Grand Canyon. The cause: collision in uncontrolled airspace relying on see-and-avoid among clouds.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Grand Canyon collision",
+    "1956",
+    "airspace",
+    "engineering failure"
+  ],
+  "hook": "Nobody was controlling them",
+  "soru": "Should safety trail growth?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the Grand Canyon mid-air collision",
+    "kisa": "Grand Canyon collision",
+    "nesne": "Airspace",
+    "yil": 1956,
+    "sonuc": "brought down two airliners over the Grand Canyon",
+    "tetik": "two airliners flying in uncontrolled airspace",
+    "mekanizma": "collision in uncontrolled airspace relying on see-and-avoid among clouds",
+    "sayi": "128 DIED",
+    "ders": "Congress created the Federal Aviation Agency to control airspace",
+    "zincir": [
+      "BOTH FLIGHTS LEAVE LOS ANGELES",
+      "UNCONTROLLED AIRSPACE",
+      "CLOUDS BLOCK VIEWS",
+      "PLANES CONVERGE",
+      "COLLISION OVER THE CANYON"
+    ],
+    "zaman": [],
+    "yanilgi": "Neither crew broke the rules of the time. Outside controlled airways, avoiding traffic was up to the pilots' eyes.",
+    "tartisma": "Air traffic control lagged behind the growth of air travel. How long should safety trail growth?",
+    "basliklar": [
+      "The Mid-Air Collision That Created the FAA",
+      "The Grand Canyon Collision That Created the FAA",
+      "Why Two Airliners Collided Over the Canyon"
+    ],
+    "kapak": [
+      "NO CONTROL",
+      "128 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1956 Grand Canyon mid-air collision",
+        "url": "https://en.wikipedia.org/wiki/1956_Grand_Canyon_mid-air_collision"
+      },
+      {
+        "ad": "FAA — CAB accident report (cited by Wikipedia)",
+        "url": "http://lessonslearned.faa.gov/UAL718/CAB_accident_report.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "1956_Grand_Canyon_mid-air_collision",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Severed tail of TWA Flight 2.jpg [Public domain]",
+      "רגע לפני האסון האווירי בגרנד קניון.jpg [CC BY 3.0]",
+      "Impact site TWA Flight 2.jpg [Public domain]",
+      "United Flight 718 on Chuar Butte.png [Public domain]",
+      "Trans World Airlines - TWA Lockheed L-1049A Super Constellation Star of the Seine N6902C in flight.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Arial,58,&H00FFFFFF,&H000000FF,&H00101824,&H90000000,-1,0,0,0,100,100,0,0,1,5,0,2,100,100,230,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.83,Caption,,0,0,0,,Advanced chips depend on
+Dialogue: 0,0:00:00.83,0:00:01.66,Caption,,0,0,0,,EUV lithography.
+Dialogue: 0,0:00:01.66,0:00:02.97,Caption,,0,0,0,,Without it, leading-edge chipmaking
+Dialogue: 0,0:00:02.97,0:00:04.28,Caption,,0,0,0,,loses a qualified step.
+Dialogue: 0,0:00:04.28,0:00:06.20,Caption,,0,0,0,,EUV lithography system occupies
+Dialogue: 0,0:00:06.20,0:00:08.12,Caption,,0,0,0,,a specialized step in
+Dialogue: 0,0:00:08.12,0:00:10.04,Caption,,0,0,0,,semiconductors, linking capacity, interfaces
+Dialogue: 0,0:00:10.04,0:00:11.96,Caption,,0,0,0,,and operating knowledge.
+Dialogue: 0,0:00:11.96,0:00:13.88,Caption,,0,0,0,,If it disappears, capacity
+Dialogue: 0,0:00:13.88,0:00:15.80,Caption,,0,0,0,,tightens first. Wider effects
+Dialogue: 0,0:00:15.80,0:00:17.72,Caption,,0,0,0,,depend on inventories, qualified
+Dialogue: 0,0:00:17.72,0:00:19.64,Caption,,0,0,0,,substitutes and recovery time.
+Dialogue: 0,0:00:19.64,0:00:21.28,Caption,,0,0,0,,Real resilience comes from
+Dialogue: 0,0:00:21.28,0:00:22.91,Caption,,0,0,0,,spares, diversified capacity and
+Dialogue: 0,0:00:22.91,0:00:24.55,Caption,,0,0,0,,recovery plans tested before
+Dialogue: 0,0:00:24.55,0:00:26.19,Caption,,0,0,0,,the bottleneck fails.

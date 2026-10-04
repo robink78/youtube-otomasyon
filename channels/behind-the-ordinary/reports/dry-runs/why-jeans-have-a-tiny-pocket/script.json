@@ -1,0 +1,69 @@
+{
+  "format": "short",
+  "targetSeconds": 27.1,
+  "spoken": "That tiny jeans pocket was not designed for loose change. It is a surviving piece of nineteenth-century workwear. Levi Strauss and Company calls it the watch pocket. Pocket watches were common, so the small pouch carried and protected one. It appeared on the original four-pocket riveted waist overalls in 1873. The second back pocket arrived in 1901, making that the actual fifth pocket. So this tiny pocket is a working trace of the original jeans design.",
+  "claims": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "layer": "VERIFIED FACT",
+      "confidence": "VERIFIED FACT",
+      "text": "That tiny jeans pocket was not designed for loose change.",
+      "role": "VISUAL_MYSTERY"
+    },
+    {
+      "start": 3.6,
+      "end": 6.4,
+      "layer": "VERIFIED FACT",
+      "confidence": "VERIFIED FACT",
+      "text": "It is a surviving piece of nineteenth-century workwear.",
+      "role": "CLEAR_PROMISE"
+    },
+    {
+      "start": 6.4,
+      "end": 9.6,
+      "layer": "VERIFIED FACT",
+      "confidence": "VERIFIED FACT",
+      "text": "Levi Strauss and Company calls it the watch pocket.",
+      "role": "EXPLANATION"
+    },
+    {
+      "start": 9.6,
+      "end": 13.9,
+      "layer": "VERIFIED FACT",
+      "confidence": "VERIFIED FACT",
+      "text": "Pocket watches were common, so the small pouch carried and protected one.",
+      "role": "EXPLANATION"
+    },
+    {
+      "start": 13.9,
+      "end": 17.9,
+      "layer": "VERIFIED FACT",
+      "confidence": "VERIFIED FACT",
+      "text": "It appeared on the original four-pocket riveted waist overalls in 1873.",
+      "role": "ORIGIN"
+    },
+    {
+      "start": 17.9,
+      "end": 22.5,
+      "layer": "VERIFIED FACT",
+      "confidence": "VERIFIED FACT",
+      "text": "The second back pocket arrived in 1901, making that the actual fifth pocket.",
+      "role": "SURPRISING_DETAIL"
+    },
+    {
+      "start": 22.5,
+      "end": 27.1,
+      "layer": "VERIFIED FACT",
+      "confidence": "VERIFIED FACT",
+      "text": "So this tiny pocket is a working trace of the original jeans design.",
+      "role": "PAYOFF"
+    }
+  ],
+  "forbiddenOpening": false,
+  "sourceIds": [
+    "Levi Strauss & Co. Archives — Pockets Full of History",
+    "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+    "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts"
+  ]
+}

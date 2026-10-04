@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Everyone Knew This Pilot Took Risks",
+  "kaynaklar": [
+    {
+      "ad": "fairchild-b52-1.png",
+      "wikimedia": "Fairchild B-52 crash overview fr.png"
+    },
+    {
+      "ad": "fairchild-b52-2.png",
+      "wikimedia": "Fairchild B-52 crash overview.png"
+    },
+    {
+      "ad": "fairchild-b52-3.png",
+      "wikimedia": "AFwing.png"
+    },
+    {
+      "ad": "fairchild-b52-4.jpg",
+      "wikimedia": "US Air Force Boeing B-52H Stratofortress 61-0026 Czar 52.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A B-52 bomber rolled into a steep turn over Fairchild Air Force Base.",
+      "kaynak": "Footage/fairchild-b52-1.png"
+    },
+    {
+      "metin": "It stalled, hit the ground, and exploded, killing all four aboard.",
+      "kaynak": "Footage/fairchild-b52-2.png"
+    },
+    {
+      "metin": "The crash was caught on video.",
+      "kaynak": "Footage/fairchild-b52-3.png"
+    },
+    {
+      "metin": "The pilot pushed the bomber beyond its limits.",
+      "kaynak": "Footage/fairchild-b52-4.jpg"
+    },
+    {
+      "metin": "He had flown dangerously before.",
+      "kaynak": "Footage/fairchild-b52-1.png"
+    },
+    {
+      "metin": "Leaders didn't act on earlier incidents.",
+      "kaynak": "Footage/fairchild-b52-2.png"
+    },
+    {
+      "metin": "Investigators blamed his behavior and the lack of response.",
+      "kaynak": "Footage/fairchild-b52-3.png"
+    },
+    {
+      "metin": "It became a classic lesson in leadership failure.",
+      "kaynak": "Footage/fairchild-b52-4.jpg"
+    }
+  ],
+  "aciklama": "Fairchild B-52 stalled and crashed at Fairchild Air Force Base. The cause: a low, steep turn causing a stall, after years of unchecked risky flying.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Fairchild B-52",
+    "1994",
+    "pilot behavior",
+    "engineering failure"
+  ],
+  "hook": "Everyone knew. Nobody stopped him",
+  "soru": "Who stops a risky expert?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the Fairchild B-52 crash",
+    "kisa": "Fairchild B-52",
+    "nesne": "Pilot behavior",
+    "yil": 1994,
+    "sonuc": "stalled and crashed at Fairchild Air Force Base",
+    "tetik": "a steep turn beyond the bomber's limits",
+    "mekanizma": "a low, steep turn causing a stall, after years of unchecked risky flying",
+    "sayi": "CAUGHT ON VIDEO",
+    "ders": "the case became a lesson in leadership failing to act on warnings",
+    "zincir": [
+      "RISKY FLYING FOR YEARS",
+      "WARNINGS IGNORED",
+      "PRACTICE FOR AIRSHOW",
+      "STEEP LOW TURN",
+      "STALL AND CRASH"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't a sudden lapse. The pilot's behavior had worried others for years.",
+    "tartisma": "Leaders failed to act on earlier incidents. Who is responsible for stopping a risky expert?",
+    "basliklar": [
+      "Everyone Knew This Pilot Took Risks",
+      "Why the Fairchild B-52 Crashed",
+      "The Warnings About One Pilot"
+    ],
+    "kapak": [
+      "WARNINGS IGNORED",
+      "STALL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1994 Fairchild Air Force Base B-52 crash",
+        "url": "https://en.wikipedia.org/wiki/1994_Fairchild_Air_Force_Base_B-52_crash"
+      },
+      {
+        "ad": "Government source — bio.asp?bioID=5566 (cited by Wikipedia)",
+        "url": "http://www.af.mil/bios/bio.asp?bioID=5566"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "1994_Fairchild_Air_Force_Base_B-52_crash",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Fairchild B-52 crash overview fr.png [Public domain]",
+      "Fairchild B-52 crash overview.png [Public domain]",
+      "AFwing.png [CC BY 2.5]",
+      "US Air Force Boeing B-52H Stratofortress 61-0026 Czar 52.jpg [Public domain]"
+    ]
+  }
+}

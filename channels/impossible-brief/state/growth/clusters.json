@@ -1,0 +1,41 @@
+{
+  "channel": "impossible-brief",
+  "clusters": {
+    "FUTURE TECHNOLOGY": {
+      "id": "FUTURE TECHNOLOGY",
+      "anchorLong": null,
+      "longs": [],
+      "shorts": [
+        {
+          "slug": "what-if-sunlight-could-push-a-spaceship",
+          "videoId": "NobEECFBrwo",
+          "title": "What Breaks First If Sunlight Could Push a Spaceship?"
+        }
+      ],
+      "futureLongs": []
+    },
+    "SPACE": {
+      "id": "SPACE",
+      "anchorLong": null,
+      "longs": [],
+      "shorts": [
+        {
+          "slug": "what-if-we-swam-in-europas-ocean",
+          "videoId": "5yPoQCElJuk",
+          "title": "The Hidden Ocean on Jupiter's Moon"
+        },
+        {
+          "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+          "videoId": "u0iftg8gF5w",
+          "title": "Why the Sky, Not the Crater, Killed the Dinosaurs"
+        },
+        {
+          "slug": "what-if-you-put-saturn-in-a-bathtub",
+          "videoId": "Vuvx5nEqcaY",
+          "title": "Would Saturn Really Float in Water?"
+        }
+      ],
+      "futureLongs": []
+    }
+  }
+}

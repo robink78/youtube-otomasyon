@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Autonomous Spacecraft That Bumped Into Its Target",
+  "kaynaklar": [
+    {
+      "ad": "dart-collision-1.jpg",
+      "wikimedia": "Monachoides vicinus dart lateral.jpg"
+    },
+    {
+      "ad": "dart-collision-2.jpg",
+      "wikimedia": "DART and MUBLCOM.jpg"
+    },
+    {
+      "ad": "dart-collision-3.jpg",
+      "wikimedia": "DART at Vandenberg AFB.jpg"
+    },
+    {
+      "ad": "dart-collision-4.jpg",
+      "wikimedia": "KSC-04PD-2234.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A NASA spacecraft built to approach another satellite on its own collided with it.",
+      "kaynak": "Footage/dart-collision-1.jpg"
+    },
+    {
+      "metin": "Suddenly the mission ended, far short of its goals.",
+      "kaynak": "Footage/dart-collision-2.jpg"
+    },
+    {
+      "metin": "Its navigation had failed at close range.",
+      "kaynak": "Footage/dart-collision-3.jpg"
+    },
+    {
+      "metin": "A precision sensor never fully switched on.",
+      "kaynak": "Footage/dart-collision-4.jpg"
+    },
+    {
+      "metin": "The craft kept approaching with inaccurate data.",
+      "kaynak": "Footage/dart-collision-1.jpg"
+    },
+    {
+      "metin": "Its collision-avoidance system relied on the same bad data.",
+      "kaynak": "Footage/dart-collision-2.jpg"
+    },
+    {
+      "metin": "It burned through propellant faster than expected.",
+      "kaynak": "Footage/dart-collision-3.jpg"
+    },
+    {
+      "metin": "The review shaped later autonomous rendezvous work.",
+      "kaynak": "Footage/dart-collision-4.jpg"
+    }
+  ],
+  "aciklama": "DART 2005 collided with the satellite it was meant to approach. The cause: inaccurate position data feeding a collision-avoidance system that then failed.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "DART 2005",
+    "2005",
+    "navigation software",
+    "engineering failure"
+  ],
+  "hook": "It trusted bad numbers",
+  "soru": "Should failure reports be public?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "NASA's DART spacecraft",
+    "kisa": "DART 2005",
+    "nesne": "Navigation software",
+    "yil": 2005,
+    "sonuc": "collided with the satellite it was meant to approach",
+    "tetik": "a navigation failure at close range",
+    "mekanizma": "inaccurate position data feeding a collision-avoidance system that then failed",
+    "sayi": "1.5 M/S",
+    "ders": "NASA's review fed lessons into later autonomous rendezvous work",
+    "zincir": [
+      "NAVIGATION ERROR",
+      "RANGING SENSOR NOT FULLY ON",
+      "APPROACH WITH BAD DATA",
+      "AVOIDANCE FAILS",
+      "COLLISION"
+    ],
+    "zaman": [],
+    "yanilgi": "Nobody was flying it. The spacecraft trusted its own bad numbers.",
+    "tartisma": "The full report was withheld at first. Should failure reports be public?",
+    "basliklar": [
+      "The Autonomous Spacecraft That Bumped Into Its Target",
+      "Why NASA's DART Crashed Into Its Target",
+      "The Robot That Misjudged the Distance"
+    ],
+    "kapak": [
+      "BUMPED",
+      "BAD DATA"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — DART (satellite)",
+        "url": "https://en.wikipedia.org/wiki/DART_(satellite)"
+      },
+      {
+        "ad": "NASA — 167813main RP 06 119 05 020 E DART Report Final Dec 27 (cited by Wikipedia)",
+        "url": "http://www.nasa.gov/pdf/167813main_RP-06-119_05-020-E_DART_Report_Final_Dec_27.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "DART_(satellite)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Monachoides vicinus dart lateral.jpg [CC BY 2.0]",
+      "DART and MUBLCOM.jpg [Public domain]",
+      "DART at Vandenberg AFB.jpg [Public domain]",
+      "KSC-04PD-2234.jpg [Public domain]"
+    ]
+  }
+}

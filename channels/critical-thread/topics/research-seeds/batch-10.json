@@ -1,0 +1,1321 @@
+{
+  "channel": "critical-thread",
+  "records": [
+    {
+      "slug": "when-protective-relay-becomes-the-bottleneck",
+      "topic": "The Tree That Blacked Out 56 Million Italians",
+      "coreQuestion": "How did one power line touching a tree in Switzerland black out all of Italy?",
+      "openingLine": "Why one Swiss tree blacked out 56 million.",
+      "secondBeat": "In 2003, a Swiss line arced to a tree.",
+      "dependency": "Italy's grid depended on imports over a few Alpine lines, protected by automatic relays.",
+      "mechanism": "Relays trip lines that fault; neighbouring lines must carry the extra load within minutes.",
+      "bottleneck": "Remaining lines could carry the load for only about 15 minutes.",
+      "failureConsequence": "Operators didn't reduce imports fast enough, lines overheated and tripped in a cascade.",
+      "resilience": "Better cross-border coordination and faster load reduction followed.",
+      "expectedConsequence": "a whole country dark for up to 12 hours",
+      "number": "56 million",
+      "thumbnailText": "ONE TREE BLACKOUT",
+      "visualScenes": [
+        "Alpine power line near trees",
+        "cross-border grid map Switzerland–Italy",
+        "15-minute countdown",
+        "dark Italian city",
+        "relay tripping diagram",
+        "control room phone call"
+      ],
+      "editorialTitles": [
+        "How One Tree Blacked Out Italy",
+        "Why Grids Have Only Minutes to React"
+      ],
+      "facts": [
+        {
+          "claim": "The 2003 Italy blackout affected all of the Italian Peninsula for 12 hours and part of Switzerland near Geneva for 3 hours on 28 September 2003.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2003 Italy blackout",
+          "url": "https://en.wikipedia.org/wiki/2003_Italy_blackout"
+        },
+        {
+          "claim": "It was the largest blackout in the series of blackouts in 2003, involving about 56 million people.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2003 Italy blackout",
+          "url": "https://en.wikipedia.org/wiki/2003_Italy_blackout"
+        },
+        {
+          "claim": "The 400 kV Lukmanier powerline arced to a nearby tree and automatically disabled itself.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2003 Italy blackout",
+          "url": "https://en.wikipedia.org/wiki/2003_Italy_blackout"
+        },
+        {
+          "claim": "Those circuits could only stably carry the current for approximately 15 min, but the Swiss control room operator was not aware of the urgency.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2003 Italy blackout",
+          "url": "https://en.wikipedia.org/wiki/2003_Italy_blackout"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one Swiss tree blacked out 56 million.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2003, a Swiss line arced to a tree.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Other lines could carry its load for about 15 minutes.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "The operator didn't grasp how little time there was.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Lines overheated and tripped one after another.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "All of Italy lost power, some areas for 12 hours.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why cross-border grids run on minutes, not hours.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-reservoir-outlet-works-is-so-hard-to-replace",
+      "topic": "The Spillway Failure That Evacuated 180,000 People",
+      "coreQuestion": "How did damaged spillways at America's tallest dam force a mass evacuation?",
+      "openingLine": "Why damaged spillways evacuated 180,000 people.",
+      "secondBeat": "In 2017, Oroville Dam's spillways both eroded.",
+      "dependency": "Downstream towns depend on a dam's spillways safely releasing floodwater.",
+      "mechanism": "Spillways carry excess water around the dam; if they erode, the dam's safety margin collapses.",
+      "bottleneck": "Both the main and emergency spillways were damaged at once.",
+      "failureConsequence": "Fears of an uncontrolled release forced evacuations downstream.",
+      "resilience": "Emergency repairs and reduced lake levels averted disaster.",
+      "expectedConsequence": "whole counties evacuate within hours",
+      "number": "180,000 evacuated",
+      "thumbnailText": "180,000 EVACUATED",
+      "visualScenes": [
+        "eroded concrete spillway",
+        "water pouring down the emergency spillway",
+        "evacuation traffic",
+        "tallest dam height comparison",
+        "Lake Oroville storage graphic",
+        "repair crews with helicopters"
+      ],
+      "editorialTitles": [
+        "The Dam Crisis That Evacuated 180,000",
+        "Why Spillways Matter as Much as Dams"
+      ],
+      "facts": [
+        {
+          "claim": "In early February 2017, Oroville Dam's main and emergency spillways both sustained damage during a period of sustained outflow from Lake Oroville, leading to the evacuation of areas downstream.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Oroville Dam crisis",
+          "url": "https://en.wikipedia.org/wiki/Oroville_Dam_crisis"
+        },
+        {
+          "claim": "On February 13, authorities oversaw the evacuation of more than 180,000 people living in the threatened areas.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Oroville Dam crisis",
+          "url": "https://en.wikipedia.org/wiki/Oroville_Dam_crisis"
+        },
+        {
+          "claim": "Completed in 1968, it is the tallest dam in the United States, at 770 feet (230 m).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Oroville Dam crisis",
+          "url": "https://en.wikipedia.org/wiki/Oroville_Dam_crisis"
+        },
+        {
+          "claim": "It impounds Lake Oroville, capable of storing more than 3.5 million acre-feet (4.3 billion cubic meters).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Oroville Dam crisis",
+          "url": "https://en.wikipedia.org/wiki/Oroville_Dam_crisis"
+        },
+        {
+          "claim": "Repairs to the dam were substantially complete by 2019.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Oroville Dam crisis",
+          "url": "https://en.wikipedia.org/wiki/Oroville_Dam_crisis"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why damaged spillways evacuated 180,000 people.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2017, Oroville Dam's spillways both eroded.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It's America's tallest dam, at 230 metres.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its lake holds about 4.3 billion cubic metres.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Spillways are how a full reservoir safely lets water go.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Repairs weren't substantially complete until 2019.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a dam is only as safe as its overflow.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-municipal-solid-waste-transfer-station-is-so-hard-to-replace",
+      "topic": "The Landfill Once the Largest in the World",
+      "coreQuestion": "Where does a city of millions send its trash when its giant landfill closes?",
+      "openingLine": "Why one landfill took 29,000 tons a day.",
+      "secondBeat": "Fresh Kills was the world's largest landfill from 1955.",
+      "dependency": "Cities depend on landfills or transfer stations to move thousands of tonnes of trash daily.",
+      "mechanism": "Transfer stations consolidate collected waste into trucks, trains and barges bound for distant landfills.",
+      "bottleneck": "When a single landfill closes, the whole flow must be rerouted.",
+      "failureConsequence": "Transfer or export disruptions leave trash piling up on streets.",
+      "resilience": "Multiple transfer stations and contracts spread the load.",
+      "expectedConsequence": "waste costs rise as trash travels farther",
+      "number": "29,000 tons/day",
+      "thumbnailText": "29,000 TONS/DAY",
+      "visualScenes": [
+        "Fresh Kills mounds from above",
+        "garbage barges",
+        "transfer station tipping floor",
+        "daily waste volume chart",
+        "trains hauling waste out of state",
+        "park being built on the old landfill"
+      ],
+      "editorialTitles": [
+        "Where a Megacity's Trash Goes",
+        "The Landfill That Was the World's Largest"
+      ],
+      "facts": [
+        {
+          "claim": "The Fresh Kills Landfill was a landfill covering 2,200 acres (890 ha) in the borough of Staten Island in New York City.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Fresh Kills Landfill",
+          "url": "https://en.wikipedia.org/wiki/Fresh_Kills_Landfill"
+        },
+        {
+          "claim": "The landfill opened in 1948, intended to be temporary, but by 1955 had become the largest in the world, and it remained so until its closure in 2001.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Fresh Kills Landfill",
+          "url": "https://en.wikipedia.org/wiki/Fresh_Kills_Landfill"
+        },
+        {
+          "claim": "At the peak of its operation, in 1986, Fresh Kills received 29,000 short tons of residential waste per day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Fresh Kills Landfill",
+          "url": "https://en.wikipedia.org/wiki/Fresh_Kills_Landfill"
+        },
+        {
+          "claim": "From 1991 until its closing, it was the only landfill to accept New York City's residential waste.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Fresh Kills Landfill",
+          "url": "https://en.wikipedia.org/wiki/Fresh_Kills_Landfill"
+        },
+        {
+          "claim": "It consists of four mounds that range in height from 90 to about 225 feet (30 to about 70 m).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Fresh Kills Landfill",
+          "url": "https://en.wikipedia.org/wiki/Fresh_Kills_Landfill"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one landfill took 29,000 tons a day.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Fresh Kills was the world's largest landfill from 1955.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "From 1991, it took all of New York's residential waste.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It closed in 2001.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The city's trash then had to leave by truck, train and barge.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Transfer stations now handle that daily flow.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why a city's cleanliness depends on where trash can go.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-material-recovery-facility-becomes-the-bottleneck",
+      "topic": "The Policy That Upended Global Recycling",
+      "coreQuestion": "What happened to recycling when China stopped accepting the world's scrap?",
+      "openingLine": "Why a 0.5% rule upended global recycling.",
+      "secondBeat": "China had been the main buyer of the world's scrap.",
+      "dependency": "Many countries' recycling systems depended on exporting sorted scrap to China.",
+      "mechanism": "Recovery facilities sort mixed recyclables into bales sold to overseas processors.",
+      "bottleneck": "China's contamination limit dropped to 0.5%, far below what many facilities could reach.",
+      "failureConsequence": "Bales piled up and some recycling went to landfill.",
+      "resilience": "Better sorting and new domestic processors slowly followed.",
+      "expectedConsequence": "recycling costs rise and some programmes shrink",
+      "number": "0.5%",
+      "thumbnailText": "RECYCLING SHOCK",
+      "visualScenes": [
+        "sorting line at a recycling facility",
+        "bales of mixed paper stacked up",
+        "contamination limit chart 5–10% to 0.5%",
+        "shipping containers of scrap",
+        "landfill receiving recyclables",
+        "optical sorter"
+      ],
+      "editorialTitles": [
+        "The Day China Stopped Taking Our Recycling",
+        "Why Recycling Depends on Clean Sorting"
+      ],
+      "facts": [
+        {
+          "claim": "The Operation National Sword (ONS) was a policy initiative launched in 2017 by the government of China to monitor and more stringently review recyclable waste imports.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Operation National Sword",
+          "url": "https://en.wikipedia.org/wiki/Operation_National_Sword"
+        },
+        {
+          "claim": "The Chinese government also announced that the percentage of contaminants allowed in recycled materials would drop from 5–10% to 0.5%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Operation National Sword",
+          "url": "https://en.wikipedia.org/wiki/Operation_National_Sword"
+        },
+        {
+          "claim": "In March 2018, the National Sword policy came into effect, banning the import of 24 categories of scrap materials, including low-grade plastics and unsorted mixed paper.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Operation National Sword",
+          "url": "https://en.wikipedia.org/wiki/Operation_National_Sword"
+        },
+        {
+          "claim": "China had first brought awareness of its intention to limit its imports of contaminated waste and recyclables back in 2013, through its Operation Green Fence program.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Operation National Sword",
+          "url": "https://en.wikipedia.org/wiki/Operation_National_Sword"
+        },
+        {
+          "claim": "China notified the World Trade Organization on 18 July 2017 that it intended to ban additional solid waste imports by year-end.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Operation National Sword",
+          "url": "https://en.wikipedia.org/wiki/Operation_National_Sword"
+        },
+        {
+          "claim": "By early 2019, many Southeast Asian countries also started to reject the waste as well.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Operation National Sword",
+          "url": "https://en.wikipedia.org/wiki/Operation_National_Sword"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a 0.5% rule upended global recycling.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "China had been the main buyer of the world's scrap.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It cut allowed contamination from 5–10% to just 0.5%.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "It followed an earlier 2013 crackdown called Green Fence.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Its 2018 ban covered 24 categories of scrap.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Other Asian countries soon began rejecting it too.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Sorting facilities suddenly needed near-perfect bales.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why recycling is only as good as the sorting line.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-food-safety-laboratory-is-so-hard-to-replace",
+      "topic": "The Milk Scandal That Sickened 300,000 Children",
+      "coreQuestion": "How did melamine in baby formula sicken hundreds of thousands of children?",
+      "openingLine": "Why tainted milk sickened 300,000 children.",
+      "secondBeat": "In 2008, melamine was added to Chinese dairy products.",
+      "dependency": "Food safety depends on laboratories testing for contaminants, not just the nutrients they claim.",
+      "mechanism": "Tests measured nitrogen to estimate protein; melamine faked high protein readings.",
+      "bottleneck": "Standard tests weren't looking for melamine.",
+      "failureConsequence": "Contaminated formula reached infants across China.",
+      "resilience": "Testing for melamine became mandatory worldwide.",
+      "expectedConsequence": "mass illness and a collapse of trust in dairy",
+      "number": "300,000 children",
+      "thumbnailText": "POISONED FORMULA",
+      "visualScenes": [
+        "baby formula cans on shelves",
+        "melamine molecule",
+        "protein test diagram",
+        "hospital ward",
+        "company list of tainted products",
+        "lab testing milk samples"
+      ],
+      "editorialTitles": [
+        "The Formula Scandal That Fooled Food Tests",
+        "Why Food Labs Must Test for the Unexpected"
+      ],
+      "facts": [
+        {
+          "claim": "300,000 affected children were identified, among which 54,000 were hospitalized, according to the latest report in January 2009.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 Chinese milk scandal",
+          "url": "https://en.wikipedia.org/wiki/2008_Chinese_milk_scandal"
+        },
+        {
+          "claim": "The culprit, melamine, was undetected in the tests until 1 August.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 Chinese milk scandal",
+          "url": "https://en.wikipedia.org/wiki/2008_Chinese_milk_scandal"
+        },
+        {
+          "claim": "Further government inspections revealed that products from 21 other companies were also tainted.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 Chinese milk scandal",
+          "url": "https://en.wikipedia.org/wiki/2008_Chinese_milk_scandal"
+        },
+        {
+          "claim": "New Zealand dairy giant Fonterra, which owned a 43% stake in Sanlu, were alerted to the contamination on 2 August.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 Chinese milk scandal",
+          "url": "https://en.wikipedia.org/wiki/2008_Chinese_milk_scandal"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why tainted milk sickened 300,000 children.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2008, melamine was added to Chinese dairy products.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Tests estimated protein from nitrogen, and melamine faked it.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "About 54,000 children were hospitalised.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Products from 21 more companies were found tainted.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Labs had not been looking for melamine at all.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why food safety depends on testing for the unexpected.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-product-recall-traceability-is-so-hard-to-replace",
+      "topic": "The Beef Burgers That Were 100% Horse",
+      "coreQuestion": "How did horse meat end up sold as beef across Europe?",
+      "openingLine": "Why some 'beef' meals were 100% horse.",
+      "secondBeat": "In 2013, DNA tests exposed it across Europe.",
+      "dependency": "Consumers and retailers depend on traceability to know what's really in processed meat.",
+      "mechanism": "Meat passes through traders and processors across borders before reaching products.",
+      "bottleneck": "Long, multi-country chains made substitution hard to detect.",
+      "failureConsequence": "DNA tests revealed horse meat in products labelled beef.",
+      "resilience": "More DNA testing and supply-chain audits followed.",
+      "expectedConsequence": "mass recalls and lost trust in processed meat",
+      "number": "100% horse",
+      "thumbnailText": "BEEF WAS HORSE",
+      "visualScenes": [
+        "frozen lasagne pack",
+        "DNA test in a lab",
+        "supply chain map across Europe",
+        "supermarket recall notice",
+        "burger testing results",
+        "meat trader warehouse"
+      ],
+      "editorialTitles": [
+        "The Scandal Hidden in Europe's Beef",
+        "Why DNA Tests Rewrote Food Labels"
+      ],
+      "facts": [
+        {
+          "claim": "The crisis escalated in February 2013 when some Findus products were found to contain up to 100% horsemeat instead of beef.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2013 horse meat scandal",
+          "url": "https://en.wikipedia.org/wiki/2013_horse_meat_scandal"
+        },
+        {
+          "claim": "The analysis found that 23 out of 27 beef burger samples also contained pig DNA.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2013 horse meat scandal",
+          "url": "https://en.wikipedia.org/wiki/2013_horse_meat_scandal"
+        },
+        {
+          "claim": "The scandal later spread to 13 other European countries.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2013 horse meat scandal",
+          "url": "https://en.wikipedia.org/wiki/2013_horse_meat_scandal"
+        },
+        {
+          "claim": "The first positive test for equine DNA was on 10 December 2012.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2013 horse meat scandal",
+          "url": "https://en.wikipedia.org/wiki/2013_horse_meat_scandal"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why some 'beef' meals were 100% horse.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2013, DNA tests exposed it across Europe.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "23 of 27 burger samples also contained pig DNA.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The scandal spread to 13 more European countries.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Meat passed through traders in several countries before packing.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Each hand-off was a chance to swap what's inside.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why food labels are only as true as their traceability.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-safety-stock-policy",
+      "topic": "The Formula Shortage That Emptied 70% of Shelves",
+      "coreQuestion": "How did one plant's shutdown leave most U.S. baby formula shelves empty?",
+      "openingLine": "Why 70% of formula shelves went empty.",
+      "secondBeat": "In 2022, America's biggest formula plant shut down.",
+      "dependency": "U.S. families depended on a few producers, with one firm making 40% of formula.",
+      "mechanism": "Lean inventories keep costs down but leave little buffer when a plant stops.",
+      "bottleneck": "Abbott's Sturgis plant was its largest, and few others could ramp up quickly.",
+      "failureConsequence": "After a recall and plant closure, out-of-stock rates hit 70%.",
+      "resilience": "Imports and emergency airlifts refilled shelves over months.",
+      "expectedConsequence": "parents search store to store for formula",
+      "number": "70% out of stock",
+      "thumbnailText": "70% OUT-OF-STOCK",
+      "visualScenes": [
+        "empty formula shelves",
+        "out-of-stock chart rising",
+        "Abbott plant exterior",
+        "market share pie",
+        "emergency formula airlift",
+        "parent searching a store"
+      ],
+      "editorialTitles": [
+        "The Baby Formula Crisis Explained",
+        "Why Lean Supply Chains Leave Shelves Empty"
+      ],
+      "facts": [
+        {
+          "claim": "On May 14, nationwide out-of-stock rates were reported to be 43%, up from 31% two weeks prior; by May 22, they had surged to 70%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 United States infant formula shortage",
+          "url": "https://en.wikipedia.org/wiki/2022_United_States_infant_formula_shortage"
+        },
+        {
+          "claim": "Abbott produces 40% of the formula sold in the US, mostly under the Similac brand, and the Sturgis facility is its largest.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 United States infant formula shortage",
+          "url": "https://en.wikipedia.org/wiki/2022_United_States_infant_formula_shortage"
+        },
+        {
+          "claim": "This is drastically above normal out-of-stock rates of 10%, or reported in the first half of 2021, 2% to 8%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 United States infant formula shortage",
+          "url": "https://en.wikipedia.org/wiki/2022_United_States_infant_formula_shortage"
+        },
+        {
+          "claim": "The FDA did not inspect the plant until January 31, 2022.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 United States infant formula shortage",
+          "url": "https://en.wikipedia.org/wiki/2022_United_States_infant_formula_shortage"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 70% of formula shelves went empty.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2022, America's biggest formula plant shut down.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Abbott makes about 40% of U.S. formula.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Out-of-stock rates jumped from 31% to 70% in weeks.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Normally, that rate sits around 10%.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The FDA hadn't inspected the plant until January 31, 2022.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Lean stock and few suppliers left no buffer.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why safety stock is cheap insurance.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-satellite-navigation-ephemeris",
+      "topic": "The GPS Clock That Resets Every 1,024 Weeks",
+      "coreQuestion": "Why does GPS time roll back to zero every 19.6 years?",
+      "openingLine": "Why GPS time resets every 1,024 weeks.",
+      "secondBeat": "That's about every 19.6 years.",
+      "dependency": "GPS receivers depend on a week counter in the satellite message to work out the date.",
+      "mechanism": "The legacy message stores the week number in just ten bits, counting 0 to 1,023.",
+      "bottleneck": "After week 1,023, the counter overflows to zero.",
+      "failureConsequence": "Receivers not built for the rollover can jump back about 20 years.",
+      "resilience": "Newer GPS signals use a 13-bit counter; firmware updates handle rollovers.",
+      "expectedConsequence": "old devices show wrong dates or stop working",
+      "number": "1,024 weeks",
+      "thumbnailText": "GPS TIME RESET",
+      "visualScenes": [
+        "GPS receiver showing a wrong date",
+        "10-bit counter diagram",
+        "rollover timeline",
+        "firmware update screen",
+        "13-bit counter comparison",
+        "old navigation device"
+      ],
+      "editorialTitles": [
+        "Why GPS Time Rolls Back Every 19.6 Years",
+        "The 10-Bit Counter Hidden in GPS"
+      ],
+      "facts": [
+        {
+          "claim": "The GPS week number rollover is a phenomenon that happens every 1,024 weeks, or about 19.6 years.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — GPS week number rollover",
+          "url": "https://en.wikipedia.org/wiki/GPS_week_number_rollover"
+        },
+        {
+          "claim": "The GPS message broadcasts a date which includes a week number counter stored in only ten binary digits, whose range is therefore 0–1,023.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — GPS week number rollover",
+          "url": "https://en.wikipedia.org/wiki/GPS_week_number_rollover"
+        },
+        {
+          "claim": "Software that is not coded to anticipate the rollover to zero may stop working or could be moved back in time by a multiple of approximately 20 years.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — GPS week number rollover",
+          "url": "https://en.wikipedia.org/wiki/GPS_week_number_rollover"
+        },
+        {
+          "claim": "The new CNAV format has a 13-bit week number counter in the range of 0–8191.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — GPS week number rollover",
+          "url": "https://en.wikipedia.org/wiki/GPS_week_number_rollover"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why GPS time resets every 1,024 weeks.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's about every 19.6 years.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The week number fits in just ten binary digits.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "After week 1,023, it rolls back to zero.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Unprepared devices can jump back about 20 years.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Newer signals count up to 8,191 weeks.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Clocks in networks and ships read that date too.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why tiny design choices echo for decades.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-market-data-timestamp-system-is-so-hard-to-replace",
+      "topic": "The Trading Glitch That Lost $460 Million",
+      "coreQuestion": "How did one software deployment error nearly destroy a major trading firm?",
+      "openingLine": "Why one glitch cost Knight Capital $460 million.",
+      "secondBeat": "In 2012, it handled 17.3% of NYSE trading.",
+      "dependency": "Markets depend on trading firms' automated systems behaving exactly as intended.",
+      "mechanism": "Algorithms send orders at machine speed; a faulty deployment can flood markets with trades.",
+      "bottleneck": "Errors compound in minutes before humans can react.",
+      "failureConsequence": "Knight Capital lost $460 million and had to be acquired.",
+      "resilience": "Kill switches and deployment controls became standard.",
+      "expectedConsequence": "a firm's capital evaporates before anyone can stop it",
+      "number": "$460 million",
+      "thumbnailText": "$460M GLITCH",
+      "visualScenes": [
+        "trading screens flashing",
+        "order flood chart",
+        "software deployment diagram",
+        "kill switch concept",
+        "NYSE floor",
+        "merger headline"
+      ],
+      "editorialTitles": [
+        "The Trading Glitch That Sank a Firm",
+        "Why Trading Software Needs a Kill Switch"
+      ],
+      "facts": [
+        {
+          "claim": "The company agreed to be acquired by Getco LLC in December 2012 after an August 2012 trading error lost $460 million.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Knight Capital Group",
+          "url": "https://en.wikipedia.org/wiki/Knight_Capital_Group"
+        },
+        {
+          "claim": "Knight had a market share of 17.3% on NYSE and 16.9% on NASDAQ.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Knight Capital Group",
+          "url": "https://en.wikipedia.org/wiki/Knight_Capital_Group"
+        },
+        {
+          "claim": "Its Electronic Trading Group covered more than 19,000 U.S. securities with an average daily trading volume of more than 21 billion dollars in May 2012.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Knight Capital Group",
+          "url": "https://en.wikipedia.org/wiki/Knight_Capital_Group"
+        },
+        {
+          "claim": "The merger was completed in July 2013, forming KCG Holdings.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Knight Capital Group",
+          "url": "https://en.wikipedia.org/wiki/Knight_Capital_Group"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one glitch cost Knight Capital $460 million.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2012, it handled 17.3% of NYSE trading.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It traded more than $21 billion a day.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "A faulty software rollout sent a flood of unwanted orders.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "By December, it agreed to be acquired.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Machines trade faster than people can react.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why trading systems need a hard stop button.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-bank-core-ledger-becomes-the-bottleneck",
+      "topic": "The Two-Digit Bug That Cost $300 Billion to Fix",
+      "coreQuestion": "Why did the world spend over $300 billion fixing two missing digits?",
+      "openingLine": "Why fixing two digits cost over $300 billion.",
+      "secondBeat": "Old systems stored 1985 simply as 85.",
+      "dependency": "Banks, utilities and governments depended on old software storing years as two digits.",
+      "mechanism": "Storing 1985 as 85 made 2000 indistinguishable from 1900.",
+      "bottleneck": "The bug was buried across millions of lines of legacy code.",
+      "failureConsequence": "Unfixed systems could miscalculate interest, dates and schedules.",
+      "resilience": "Years of remediation meant few major errors occurred.",
+      "expectedConsequence": "a quiet New Year thanks to expensive preparation",
+      "number": "$300 billion",
+      "thumbnailText": "$300B BUG FIX",
+      "visualScenes": [
+        "calendar flipping from 1999 to 2000",
+        "COBOL code on a green screen",
+        "two-digit year diagram",
+        "IT teams working overtime",
+        "cost chart",
+        "quiet midnight celebrations"
+      ],
+      "editorialTitles": [
+        "The Y2K Bug That Didn't Happen",
+        "Why Fixing Two Digits Cost $300 Billion"
+      ],
+      "facts": [
+        {
+          "claim": "The Year 2000 problem (Y2K) was the potential for computer errors related to the formatting and storage of calendar data for dates in and after the year 2000.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Year 2000 problem",
+          "url": "https://en.wikipedia.org/wiki/Year_2000_problem"
+        },
+        {
+          "claim": "Storing 1985 as 85 made the year 2000 indistinguishable from 1900.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Year 2000 problem",
+          "url": "https://en.wikipedia.org/wiki/Year_2000_problem"
+        },
+        {
+          "claim": "The total cost of the work done in preparation for Y2K likely surpassed US$300 billion.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Year 2000 problem",
+          "url": "https://en.wikipedia.org/wiki/Year_2000_problem"
+        },
+        {
+          "claim": "IDC calculated that the US spent an estimated $134 billion preparing for Y2K, and another $13 billion fixing problems in 2000 and 2001.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Year 2000 problem",
+          "url": "https://en.wikipedia.org/wiki/Year_2000_problem"
+        },
+        {
+          "claim": "Contrary to published expectations, few major errors occurred in 2000.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Year 2000 problem",
+          "url": "https://en.wikipedia.org/wiki/Year_2000_problem"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why fixing two digits cost over $300 billion.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Old systems stored 1985 simply as 85.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "So 2000 looked the same as 1900.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "America alone spent about $134 billion preparing.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Few major errors happened in 2000.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The quiet New Year was the result of years of repairs.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why bank ledgers still carry decisions made decades ago.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-copper-smelter",
+      "topic": "The Mine Worth 2.5% of Chile's Economy",
+      "coreQuestion": "Why does one copper mine in the desert matter to the global economy?",
+      "openingLine": "Why one mine makes 2.5% of Chile's GDP.",
+      "secondBeat": "Escondida is a giant copper pit 3,100 metres up.",
+      "dependency": "Wiring, motors and grids worldwide depend on copper concentrate from a few giant mines.",
+      "mechanism": "Ore is mined, concentrated and shipped to smelters, largely in China.",
+      "bottleneck": "A handful of giant mines supply a large share of copper.",
+      "failureConsequence": "Strikes or outages at one mine move world copper prices.",
+      "resilience": "Recycling and other mines cover part of any shortfall.",
+      "expectedConsequence": "copper prices spike when a giant mine stops",
+      "number": "2.5% of GDP",
+      "thumbnailText": "ONE MINE, 2.5%",
+      "visualScenes": [
+        "open-pit mine terraces in the Atacama",
+        "haul trucks",
+        "concentrate loading at a port",
+        "copper wire and motors",
+        "resource size chart",
+        "smelter furnace"
+      ],
+      "editorialTitles": [
+        "The Desert Mine Powering the World's Wires",
+        "Why One Copper Mine Moves Markets"
+      ],
+      "facts": [
+        {
+          "claim": "Escondida is a large open-pit copper mine at 3,100 m (10,200 ft) elevation in the Atacama Desert in Antofagasta Region, Chile.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Escondida",
+          "url": "https://en.wikipedia.org/wiki/Escondida"
+        },
+        {
+          "claim": "In 2019 it was estimated that the mine and its ancillary industries generated 2.5% of Chile's GDP.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Escondida",
+          "url": "https://en.wikipedia.org/wiki/Escondida"
+        },
+        {
+          "claim": "Total resources (including reserves) were 57.6 million tonnes of copper, of which 33.0 million tonnes should be recovered.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Escondida",
+          "url": "https://en.wikipedia.org/wiki/Escondida"
+        },
+        {
+          "claim": "The mine's produce is largely exported to China as ore concentrate.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Escondida",
+          "url": "https://en.wikipedia.org/wiki/Escondida"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one mine makes 2.5% of Chile's GDP.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Escondida is a giant copper pit 3,100 metres up.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It holds about 57.6 million tonnes of copper.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Most of its concentrate ships to China for smelting.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "A few mines like it supply much of the world's copper.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "A strike there can move copper prices worldwide.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why the world's wiring starts in a desert pit.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-aluminum-smelter-becomes-the-bottleneck",
+      "topic": "The Smelter Using 13% of a Country's Electricity",
+      "coreQuestion": "Why does one aluminium smelter use 13% of New Zealand's electricity?",
+      "openingLine": "Why one smelter uses 13% of national power.",
+      "secondBeat": "Tiwai Point opened in 1971, with its own hydro station.",
+      "dependency": "Aluminium smelting depends on huge amounts of cheap, reliable electricity.",
+      "mechanism": "Electrolysis splits alumina into aluminium, drawing power around the clock.",
+      "bottleneck": "One plant's demand is a large share of a national grid.",
+      "failureConsequence": "Closing it would shake the power market and the regional economy.",
+      "resilience": "Long-term power contracts keep the plant running.",
+      "expectedConsequence": "power prices and jobs swing on one plant's future",
+      "number": "13%",
+      "thumbnailText": "13% NATIONAL POWER",
+      "visualScenes": [
+        "potlines glowing in a smelter",
+        "hydro station built to supply it",
+        "national electricity share pie",
+        "Southland economy map",
+        "contract negotiations headline",
+        "aluminium ingots"
+      ],
+      "editorialTitles": [
+        "The Smelter That Uses 13% of a Country's Power",
+        "Why Aluminium Is Frozen Electricity"
+      ],
+      "facts": [
+        {
+          "claim": "It uses 13 percent of New Zealand's electricity, and is reported to account for 10 percent of the Southland region's economy.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tiwai Point Aluminium Smelter",
+          "url": "https://en.wikipedia.org/wiki/Tiwai_Point_Aluminium_Smelter"
+        },
+        {
+          "claim": "The smelter was opened in 1971 following the construction of the Manapouri Power Station by the New Zealand government to supply it with electricity.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tiwai Point Aluminium Smelter",
+          "url": "https://en.wikipedia.org/wiki/Tiwai_Point_Aluminium_Smelter"
+        },
+        {
+          "claim": "Rio Tinto has threatened to close the smelter several times, for example in 2013 and 2020.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tiwai Point Aluminium Smelter",
+          "url": "https://en.wikipedia.org/wiki/Tiwai_Point_Aluminium_Smelter"
+        },
+        {
+          "claim": "In May 2024, new twenty-year electricity contracts were agreed with three suppliers, allowing the smelter to remain open until 2044.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tiwai Point Aluminium Smelter",
+          "url": "https://en.wikipedia.org/wiki/Tiwai_Point_Aluminium_Smelter"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one smelter uses 13% of national power.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Tiwai Point opened in 1971, with its own hydro station.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It's about 10% of the Southland region's economy.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its owner threatened closure in 2013 and again in 2020.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "New contracts now keep it open until 2044.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Aluminium smelting runs on electricity around the clock.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why aluminium is sometimes called frozen electricity.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-network-operations-center-becomes-the-bottleneck",
+      "topic": "The Outage That Cut Off 10 Million Australians",
+      "coreQuestion": "How did one network change cut internet and phones for 10 million Australians?",
+      "openingLine": "Why 10 million Australians lost service at once.",
+      "secondBeat": "In 2023, all Optus services went down at 4:05 a.m.",
+      "dependency": "Mobile, broadband and business services depend on a carrier's core routing staying stable.",
+      "mechanism": "Routers exchange routing updates; a bad update can make them disconnect to protect themselves.",
+      "bottleneck": "One carrier served about a quarter of Australian mobile users.",
+      "failureConsequence": "All services went down at once, for hours.",
+      "resilience": "Engineers restored service by resetting routers, gradually.",
+      "expectedConsequence": "businesses, payments and emergency contact disrupted nationwide",
+      "number": "10 million",
+      "thumbnailText": "10 MILLION OFFLINE",
+      "visualScenes": [
+        "phones showing no service",
+        "router room",
+        "outage timeline from 04:05",
+        "business card terminals down",
+        "customer share chart",
+        "network operations centre"
+      ],
+      "editorialTitles": [
+        "How 10 Million Australians Lost Service",
+        "Why One Carrier Outage Can Stop a Country"
+      ],
+      "facts": [
+        {
+          "claim": "On 8 November 2023, an unplanned network outage occurred, consisting of all Optus internet, cellular and fixed-line services in Australia at 04:05 AEDT.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2023 Optus outage",
+          "url": "https://en.wikipedia.org/wiki/2023_Optus_outage"
+        },
+        {
+          "claim": "The outage directly affected more than 10 million people and 400,000 businesses across Australia.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2023 Optus outage",
+          "url": "https://en.wikipedia.org/wiki/2023_Optus_outage"
+        },
+        {
+          "claim": "Around 25% of Australians use Optus for their cellular service and 19% for broadband internet.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2023 Optus outage",
+          "url": "https://en.wikipedia.org/wiki/2023_Optus_outage"
+        },
+        {
+          "claim": "Restoration was gradual with some services being restored around 13:00 AEDT.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2023 Optus outage",
+          "url": "https://en.wikipedia.org/wiki/2023_Optus_outage"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 10 million Australians lost service at once.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2023, all Optus services went down at 4:05 a.m.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "About 400,000 businesses were affected.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Around 25% of Australians use it for mobile service.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Some services only returned around 1 p.m.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "A core routing fault took every service down together.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why one carrier's control room is national infrastructure.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-coordinate-calibration-artifact-becomes-the-bottleneck",
+      "topic": "The Test Tool That Misshaped Hubble's Mirror",
+      "coreQuestion": "How did a badly assembled test device ruin the Hubble Space Telescope's first images?",
+      "openingLine": "Why Hubble's mirror was 2,200 nanometres off.",
+      "secondBeat": "It was polished smooth to about 10 nanometres.",
+      "dependency": "Precision optics depend on calibration instruments that tell makers when a surface is right.",
+      "mechanism": "A null corrector guides mirror polishing; if it's wrong, the mirror is made perfectly wrong.",
+      "bottleneck": "One test instrument was trusted without independent cross-checks.",
+      "failureConsequence": "The mirror's edge was 2,200 nanometres too flat, blurring images.",
+      "resilience": "A 1993 servicing mission added corrective optics.",
+      "expectedConsequence": "a flagship telescope launched with blurred vision",
+      "number": "2,200 nm",
+      "thumbnailText": "HUBBLE’S BLURRY EYE",
+      "visualScenes": [
+        "Hubble in orbit",
+        "mirror polishing in a clean room",
+        "null corrector diagram",
+        "blurred versus corrected star images",
+        "astronauts servicing Hubble",
+        "precision scale comparison"
+      ],
+      "editorialTitles": [
+        "The Calibration Error That Blurred Hubble",
+        "Why Measuring Tools Need Checking Too"
+      ],
+      "facts": [
+        {
+          "claim": "Although it was believed to be one of the most precisely figured optical mirrors ever made, smooth to about 10 nanometers, the outer perimeter was too flat by about 2200 nanometers.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Hubble Space Telescope",
+          "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+        },
+        {
+          "claim": "The Allen Commission found that a reflective null corrector, a testing device used to achieve a properly shaped non-spherical mirror, had been incorrectly assembled.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Hubble Space Telescope",
+          "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+        },
+        {
+          "claim": "Hubble features a 2.4 m (7 ft 10 in) mirror.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Hubble Space Telescope",
+          "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+        },
+        {
+          "claim": "The optics were corrected to their intended quality by a servicing mission, STS-61, in 1993.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Hubble Space Telescope",
+          "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+        },
+        {
+          "claim": "The Hubble Space Telescope was launched into low Earth orbit in 1990 and remains in operation.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Hubble Space Telescope",
+          "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Hubble's mirror was 2,200 nanometres off.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It was polished smooth to about 10 nanometres.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "But its outer edge was ground too flat.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The test device guiding the polishing was assembled wrong.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Hubble launched in 1990 with blurred vision.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its main mirror is 2.4 metres across.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Astronauts fitted corrective optics in 1993.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That's why the tools that measure need measuring too.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    }
+  ]
+}

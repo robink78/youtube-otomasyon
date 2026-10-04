@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Two Captains Assumed the Other Would Turn",
+  "kaynaklar": [
+    {
+      "ad": "admiral-nakhimov-1.jpg",
+      "wikimedia": "Admiral Nakhimov at Novorossiysk Port.jpg"
+    },
+    {
+      "ad": "admiral-nakhimov-2.jpg",
+      "wikimedia": "Admiral Nakhimov at Novorossiysk Port - edit.jpg"
+    },
+    {
+      "ad": "admiral-nakhimov-3.jpg",
+      "wikimedia": "Collision-sh.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Near Novorossiysk, a bulk carrier rammed the Soviet liner Admiral Nakhimov.",
+      "kaynak": "Footage/admiral-nakhimov-1.jpg"
+    },
+    {
+      "metin": "It sank within minutes, and four hundred twenty three people died.",
+      "kaynak": "Footage/admiral-nakhimov-2.jpg"
+    },
+    {
+      "metin": "A pilot radioed a warning to the freighter.",
+      "kaynak": "Footage/admiral-nakhimov-3.jpg"
+    },
+    {
+      "metin": "The reply was: don't worry.",
+      "kaynak": "Footage/admiral-nakhimov-1.jpg"
+    },
+    {
+      "metin": "The freighter didn't slow or turn.",
+      "kaynak": "Footage/admiral-nakhimov-2.jpg"
+    },
+    {
+      "metin": "The liner's captain had gone to his cabin.",
+      "kaynak": "Footage/admiral-nakhimov-3.jpg"
+    },
+    {
+      "metin": "The officers exchanged radio calls, but it was too late.",
+      "kaynak": "Footage/admiral-nakhimov-1.jpg"
+    },
+    {
+      "metin": "Both captains were sentenced to fifteen years.",
+      "kaynak": "Footage/admiral-nakhimov-2.jpg"
+    }
+  ],
+  "aciklama": "Admiral Nakhimov sank after a collision near Novorossiysk. The cause: collision after both captains violated navigation rules and assumed the other would give way.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Admiral Nakhimov",
+    "1986",
+    "liner",
+    "engineering failure"
+  ],
+  "hook": "Don't worry, they said",
+  "soru": "Equal blame?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the SS Admiral Nakhimov",
+    "kisa": "Admiral Nakhimov",
+    "nesne": "Liner",
+    "yil": 1986,
+    "sonuc": "sank after a collision near Novorossiysk",
+    "tetik": "a freighter holding course despite warnings",
+    "mekanizma": "collision after both captains violated navigation rules and assumed the other would give way",
+    "sayi": "423 DIED",
+    "ders": "both captains were jailed and Soviet maritime safety came under scrutiny",
+    "zincir": [
+      "FREIGHTER ON CROSSING COURSE",
+      "WARNING GIVEN",
+      "FREIGHTER SAYS DON'T WORRY",
+      "LINER CAPTAIN LEAVES BRIDGE",
+      "COLLISION AND RAPID SINKING"
+    ],
+    "zaman": [],
+    "yanilgi": "The ships were in radio contact. Both sides assumed the collision wouldn't happen.",
+    "tartisma": "Both captains got 15 years. Should both sides share equal blame?",
+    "basliklar": [
+      "Two Captains Assumed the Other Would Turn",
+      "Why the Admiral Nakhimov Sank",
+      "The Collision Both Captains Saw Coming"
+    ],
+    "kapak": [
+      "DON'T WORRY",
+      "423 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SS Admiral Nakhimov",
+        "url": "https://en.wikipedia.org/wiki/SS_Admiral_Nakhimov"
+      },
+      {
+        "ad": "Academic / engineering journal — doBasicSearch?Query=\"SS+Admiral+Nakhimov\"&acc=on&wc=on (cited by Wikipedia)",
+        "url": "https://www.jstor.org/action/doBasicSearch?Query=%22SS+Admiral+Nakhimov%22&acc=on&wc=on"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "SS_Admiral_Nakhimov",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Admiral Nakhimov at Novorossiysk Port.jpg [CC0]",
+      "Admiral Nakhimov at Novorossiysk Port - edit.jpg [CC0]",
+      "Collision-sh.jpg [CC BY 2.5]"
+    ]
+  }
+}

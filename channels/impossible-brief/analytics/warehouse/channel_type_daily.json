@@ -1,0 +1,36 @@
+{
+ "rows": [
+  {
+   "day": "2026-09-29",
+   "contentType": "shorts",
+   "views": 1,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 19,
+   "subscribersGained": 0,
+   "subscribersLost": 0,
+   "netSubscribers": 0,
+   "subscriberConversion": 0,
+   "engagementPer1kViews": null,
+   "watchMinutesPerView": 0
+  },
+  {
+   "day": "2026-09-30",
+   "contentType": "shorts",
+   "views": 1,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 23,
+   "subscribersGained": 0,
+   "subscribersLost": 0,
+   "netSubscribers": 0,
+   "subscriberConversion": 0,
+   "engagementPer1kViews": null,
+   "watchMinutesPerView": 0
+  }
+ ],
+ "unavailable": {
+  "impressions": "not exposed by the YouTube Analytics API (YouTube Studio only)",
+  "impressionClickThroughRate": "not exposed by the YouTube Analytics API (YouTube Studio only)"
+ },
+ "table": "channel_type_daily",
+ "channel": "impossible-brief"
+}

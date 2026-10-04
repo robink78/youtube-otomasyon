@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "Why So Many Schools Collapsed in the Sichuan Earthquake",
+  "kaynaklar": [
+    {
+      "ad": "sichuan-schools-1.jpg",
+      "wikimedia": "Sichuan earthquake save..JPG"
+    },
+    {
+      "ad": "sichuan-schools-2.jpg",
+      "wikimedia": "Sichuan earthquake wenchuan.JPG"
+    },
+    {
+      "ad": "sichuan-schools-3.jpg",
+      "wikimedia": "Sichuanearthquake Jiangyou pic9.jpg"
+    },
+    {
+      "ad": "sichuan-schools-4.jpg",
+      "wikimedia": "Flags at half-staff in GBS.jpg"
+    },
+    {
+      "ad": "sichuan-schools-5.jpg",
+      "wikimedia": "Flags at half-staff outside Central Plaza.jpg"
+    },
+    {
+      "ad": "sichuan-schools-6.jpg",
+      "wikimedia": "Moment of silence for earthquake victims in Sichuan 2008-05-18.jpg"
+    },
+    {
+      "ad": "sichuan-schools-7.jpg",
+      "wikimedia": "Sichuan earthquake victims dujiangyan.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A massive earthquake struck Sichuan, China, during school hours.",
+      "kaynak": "Footage/sichuan-schools-1.jpg"
+    },
+    {
+      "metin": "Suddenly school buildings collapsed, burying students inside.",
+      "kaynak": "Footage/sichuan-schools-2.jpg"
+    },
+    {
+      "metin": "In one city, a whole school fell with nine hundred students.",
+      "kaynak": "Footage/sichuan-schools-3.jpg"
+    },
+    {
+      "metin": "Fewer than sixty survived.",
+      "kaynak": "Footage/sichuan-schools-4.jpg"
+    },
+    {
+      "metin": "Eight schools toppled in that city alone.",
+      "kaynak": "Footage/sichuan-schools-5.jpg"
+    },
+    {
+      "metin": "Thousands of schoolchildren died.",
+      "kaynak": "Footage/sichuan-schools-6.jpg"
+    },
+    {
+      "metin": "Shoddy construction was blamed.",
+      "kaynak": "Footage/sichuan-schools-7.jpg"
+    },
+    {
+      "metin": "Parents demanded accountability.",
+      "kaynak": "Footage/sichuan-schools-1.jpg"
+    }
+  ],
+  "aciklama": "Sichuan collapsed schools across Sichuan. The cause: shoddy construction causing school buildings to collapse.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Sichuan",
+    "2008",
+    "school buildings",
+    "engineering failure"
+  ],
+  "hook": "The schools fell first",
+  "soru": "Who is accountable?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the Sichuan earthquake",
+    "kisa": "Sichuan",
+    "nesne": "School buildings",
+    "yil": 2008,
+    "sonuc": "collapsed schools across Sichuan",
+    "tetik": "a massive earthquake striking during school hours",
+    "mekanizma": "shoddy construction causing school buildings to collapse",
+    "sayi": "SCHOOLS FELL",
+    "ders": "the collapses fuelled demands for accountability in construction",
+    "zincir": [
+      "SHODDY CONSTRUCTION",
+      "SCHOOL HOURS",
+      "EARTHQUAKE",
+      "SCHOOLS COLLAPSE",
+      "CHILDREN BURIED"
+    ],
+    "zaman": [],
+    "yanilgi": "Many nearby buildings stood. Schools fell because of how they were built.",
+    "tartisma": "Parents demanded answers. Who is accountable when schools fail?",
+    "basliklar": [
+      "Why So Many Schools Collapsed in the Sichuan Earthquake",
+      "Why the Sichuan Schools Collapsed",
+      "The Schools That Fell in 2008"
+    ],
+    "kapak": [
+      "SCHOOLS FELL",
+      "SHODDY"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2008 Sichuan earthquake",
+        "url": "https://en.wikipedia.org/wiki/2008_Sichuan_earthquake"
+      },
+      {
+        "ad": "NASA — images.php3?img id=18034&rc=3 (cited by Wikipedia)",
+        "url": "http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=18034&rc=3"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-22",
+    "wiki": "2008_Sichuan_earthquake",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Sichuan earthquake save..JPG [Public domain]",
+      "Sichuan earthquake wenchuan.JPG [Public domain]",
+      "Sichuanearthquake Jiangyou pic9.jpg [CC BY 2.0]",
+      "Flags at half-staff in GBS.jpg [CC BY 3.0]",
+      "Flags at half-staff outside Central Plaza.jpg [CC BY 3.0]",
+      "Moment of silence for earthquake victims in Sichuan 2008-05-18.jpg [CC BY 2.0]",
+      "Sichuan earthquake victims dujiangyan.JPG [Public domain]"
+    ]
+  }
+}

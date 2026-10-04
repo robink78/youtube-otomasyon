@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Bridge Kept Cool With Foil and Air-Conditioning",
+  "kaynaklar": [
+    {
+      "ad": "hammersmith-bridge-1.jpg",
+      "wikimedia": "HORR 05.jpg"
+    },
+    {
+      "ad": "hammersmith-bridge-2.png",
+      "wikimedia": "Hammersmith Bridge 1827 - Project Gutenberg etext 12595.png"
+    },
+    {
+      "ad": "hammersmith-bridge-3.jpg",
+      "wikimedia": "Hammersmith.bridge.arp.jpg"
+    },
+    {
+      "ad": "hammersmith-bridge-4.jpg",
+      "wikimedia": "Hammersmith Bridge overloaded boat race 1870 Walter Greaves Tate Britain.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Engineers found cracks in the pedestals of London's Hammersmith Bridge.",
+      "kaynak": "Footage/hammersmith-bridge-1.jpg"
+    },
+    {
+      "metin": "Suddenly the bridge was closed to all motor traffic.",
+      "kaynak": "Footage/hammersmith-bridge-2.png"
+    },
+    {
+      "metin": "The pedestals were made of cast iron.",
+      "kaynak": "Footage/hammersmith-bridge-3.jpg"
+    },
+    {
+      "metin": "In a heatwave, the cracks worsened.",
+      "kaynak": "Footage/hammersmith-bridge-4.jpg"
+    },
+    {
+      "metin": "The bridge was closed to walkers and cyclists too.",
+      "kaynak": "Footage/hammersmith-bridge-1.jpg"
+    },
+    {
+      "metin": "Its chains were later wrapped in foil and cooled with air-conditioning.",
+      "kaynak": "Footage/hammersmith-bridge-2.png"
+    },
+    {
+      "metin": "The goal was to stop further cracking.",
+      "kaynak": "Footage/hammersmith-bridge-3.jpg"
+    },
+    {
+      "metin": "Repairs dragged on for years.",
+      "kaynak": "Footage/hammersmith-bridge-4.jpg"
+    }
+  ],
+  "aciklama": "Hammersmith Bridge was closed after cracks appeared in its pedestals. The cause: cracking in cast-iron pedestals worsening under heat expansion.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Hammersmith Bridge",
+    "2019",
+    "cast-iron pedestals",
+    "engineering failure"
+  ],
+  "hook": "They cooled it with foil",
+  "soru": "When is caution too costly?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "Hammersmith Bridge",
+    "kisa": "Hammersmith Bridge",
+    "nesne": "Cast-iron pedestals",
+    "yil": 2019,
+    "sonuc": "was closed after cracks appeared in its pedestals",
+    "tetik": "cracks in the cast-iron pedestals",
+    "mekanizma": "cracking in cast-iron pedestals worsening under heat expansion",
+    "sayi": "CLOSED",
+    "ders": "the bridge needed years of repairs to its bearings and pedestals",
+    "zincir": [
+      "VICTORIAN CAST IRON",
+      "PEDESTALS CRACK",
+      "CLOSED TO CARS",
+      "HEATWAVE WORSENS CRACKS",
+      "CLOSED TO ALL"
+    ],
+    "zaman": [],
+    "yanilgi": "The bridge didn't fall. Engineers closed it before it could.",
+    "tartisma": "Closing a bridge for years costs a community. When is caution too costly?",
+    "basliklar": [
+      "The Bridge Kept Cool With Foil and Air-Conditioning",
+      "Why Hammersmith Bridge Was Closed",
+      "The Bridge Wrapped in Foil"
+    ],
+    "kapak": [
+      "CRACKS",
+      "WRAPPED IN FOIL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hammersmith Bridge",
+        "url": "https://en.wikipedia.org/wiki/Hammersmith_Bridge"
+      },
+      {
+        "ad": "Government source — 0478 (cited by Wikipedia)",
+        "url": "https://search.lma.gov.uk/scripts/mwimain.dll/144/LMA_OPAC/web_detail?SESSIONSEARCH&exp=refd%20DD/0478"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-19",
+    "wiki": "Hammersmith_Bridge",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "HORR 05.jpg [Public domain]",
+      "Hammersmith Bridge 1827 - Project Gutenberg etext 12595.png [Public domain]",
+      "Hammersmith.bridge.arp.jpg [Public domain]",
+      "Hammersmith Bridge overloaded boat race 1870 Walter Greaves Tate Britain.jpg [CC0]"
+    ]
+  }
+}

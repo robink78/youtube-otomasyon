@@ -1,0 +1,1013 @@
+{
+  "schema": "longform-generation/2",
+  "channel": "behind-the-ordinary",
+  "slug": "the-shopping-cart-started-as-a-folding-chair",
+  "topicHash": "fcee646945bd:146",
+  "status": "FAILED",
+  "createdAt": "2026-10-03T19:22:31.354Z",
+  "updatedAt": "2026-10-03T19:22:31.354Z",
+  "provider": {
+    "primary": "groq",
+    "fallback": null
+  },
+  "factPack": {
+    "topic": "The Shopping Cart Started as a Folding Chair",
+    "central_question": "Where did the shopping cart come from, and why did shoppers first refuse to use it?",
+    "audience_promise": "Answer one precise question about shopping carts using only documented evidence.",
+    "verified_facts": [
+      {
+        "id": "C1",
+        "text": "After demonstrations by hired models, shopping carts became extremely popular.",
+        "source": "Oklahoma Historical Society — Goldman, Sylvan Nathan",
+        "rewrite": false
+      },
+      {
+        "id": "C2",
+        "text": "The governing physics: Sylvan Goldman put a basket on a folding chair's seat and wheels on its legs to let customers move more groceries.",
+        "source": "Oklahoma Historical Society — Goldman, Sylvan Nathan",
+        "rewrite": false
+      },
+      {
+        "id": "C3",
+        "text": "The cart seems like an obvious idea, but shoppers initially resisted it.",
+        "source": "Oklahoma Historical Society — Goldman, Sylvan Nathan",
+        "rewrite": false
+      },
+      {
+        "id": "C4",
+        "text": "The shopping cart started as a folding chair.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C5",
+        "text": "And shoppers first refused to push it.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C6",
+        "text": "In 1936, grocer Sylvan Goldman wondered how customers could move more groceries.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C7",
+        "text": "He put a basket on a folding chair's seat and wheels on its legs.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C8",
+        "text": "His Humpty Dumpty stores introduced these folding basket carriers in 1937.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C9",
+        "text": "One offended woman told him she had pushed her last baby.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C10",
+        "text": "So Goldman hired models to push the carts around his store.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C11",
+        "text": "After that, the folding chair on wheels became extremely popular.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C12",
+        "text": "In 1936 Sylvan Goldman wondered how customers might move more groceries.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": false
+      },
+      {
+        "id": "C13",
+        "text": "Goldman put a basket on the seat of a wooden folding chair and wheels on its legs.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": false
+      },
+      {
+        "id": "C14",
+        "text": "Because they were inspired by a folding chair, Goldman called them folding basket carriers.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": false
+      },
+      {
+        "id": "C15",
+        "text": "One of the first shopping carts was introduced on June 4, 1937, by Goldman, owner of the Humpty Dumpty supermarket chain in Oklahoma.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": false
+      },
+      {
+        "id": "C16",
+        "text": "An offended woman told Goldman she had pushed her last baby.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": false
+      },
+      {
+        "id": "C17",
+        "text": "Goldman hired male and female models to push carts around the store, and carts then became extremely popular.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": false
+      },
+      {
+        "id": "C18",
+        "text": "Goldman and his mechanic Fred Young began tinkering with the design.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": false
+      },
+      {
+        "id": "C19",
+        "text": "Orla Watson invented the swinging rear door that allows carts to nest, in 1946.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": false
+      },
+      {
+        "id": "C20",
+        "text": "Goldman established the Folding Basket Carrier Company to manufacture his invention.",
+        "source": "Oklahoma Historical Society — Goldman, Sylvan Nathan",
+        "rewrite": false
+      },
+      {
+        "id": "C21",
+        "text": "Most modern shopping carts are made of metal or a combination of metal and plastic and have been designed to nest within each other in a line to facilitate collecting and moving many at one time and also to save on storage space.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C22",
+        "text": "The carts can come in many sizes, with larger ones able to carry a child.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C23",
+        "text": "There are also specialized carts designed for two children, and electric mobility scooters with baskets designed for individuals with disabilities.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C24",
+        "text": "As of 2006, approximately 24,000 children are injured in the United States each year in shopping carts.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C25",
+        "text": "Some stores both in the U.S. and elsewhere have child carrying carts that look like a car or van with a seat where a child can sit equipped with a steering wheel and sometimes a horn.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C26",
+        "text": "Such \"Car-Carts\" may offer protection and convenience by keeping the child restrained, closer to the ground, protected from falling items, and amused.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C27",
+        "text": "Shopping carts are usually fitted with four wheels; however if any one wheel jams the cart can become difficult to handle.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C28",
+        "text": "Most carts in the United States have swivel wheels at the front, while the rear wheels are fixed in orientation, while in Europe it is more common to have four swivel wheels.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C29",
+        "text": "This difference in design correlates with smaller retail premises in Europe.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C30",
+        "text": "The front part of the cart is often sectioned off in order to place household goods such as bleach, cleaning products etc. so that they do not mix with food.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C31",
+        "text": "An alternative to the shopping cart is a small hand-held shopping basket.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C32",
+        "text": "A customer may prefer a basket for a small amount of merchandise.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C33",
+        "text": "Small shops, where carts would be impractical, often supply only baskets, or may offer a small cart which uses an inserted shopping basket within the frame of the cart to give customers a choice.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C34",
+        "text": "In the 1910s, Joseph Weingarten, co-founder of the supermarket chain Weingarten's, provided wheeled carriers for shopping baskets.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C35",
+        "text": "One of the first shopping carts was introduced on June 4, 1937, the invention of Sylvan Goldman, owner of the Humpty Dumpty supermarket chain in Oklahoma.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C36",
+        "text": "One night, in 1936, Goldman sat in his office wondering how customers might move more groceries.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C37",
+        "text": "He found a wooden folding chair and put a basket on the seat and wheels on the legs.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C38",
+        "text": "Goldman and one of his employees, a mechanic named Fred Young, began tinkering.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C39",
+        "text": "Their first shopping cart was a metal frame that held two wire baskets.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C40",
+        "text": "Since they were inspired by the folding chair, Goldman called his carts \"folding basket carriers\".",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C41",
+        "text": "Another mechanic, Arthur Kosted, developed a method to mass-produce the carts by inventing an assembly line capable of forming and welding the wire.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C42",
+        "text": "The cart was awarded patent number 2,196,914 on April 9, 1940 (Filing date: March 14, 1938), titled, \"Folding Basket Carriage for Self-Service Stores\".",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C43",
+        "text": "They advertised the invention as part of a new \"No Basket Carrying Plan\".",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C44",
+        "text": "Goldman had already pioneered self-serve stores and carts were part of the self-serve retail concept.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C45",
+        "text": "The invention did not catch on immediately.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C46",
+        "text": "Men found them effeminate; women found them suggestive of a baby carriage.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C47",
+        "text": "\"I've pushed my last baby,\" an offended woman informed Goldman.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C48",
+        "text": "After Goldman hired several male and female models to push his new invention around his store and demonstrate their utility, as well as greeters to explain their use, shopping carts became extremely popular and Goldman became a multimillionaire.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C49",
+        "text": "In urban areas like New York City, where transporting groceries home from the store's parking lot is more likely to involve walking and/or a trip by public transportation than a car ride, privately owned carts resembling Goldman's design are still popular.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C50",
+        "text": "Instead of baskets, these carts are built to hold the paper bags dispensed by the grocery store.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C51",
+        "text": "Another shopping cart innovator was Orla Watson, who invented the swinging rear door to allow for \"nesting\" in 1946.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C52",
+        "text": "Orla Watson continued to make modifications to his original design.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C53",
+        "text": "Advice from his trusted business partners Fred Taylor, a grocery store owner in Kansas City, and George O'Donnell, a grocery store refrigeration salesman, and the incorporation of Watson's swinging door yielded the familiar nesting cart that we see today using the \"double-decker\" approach.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C54",
+        "text": "Goldman patented a similar version of the cart with only one basket rather than the double-decker feature, which he called the \"Nest-Kart\" in 1948, over one year after Watson filed for his patent.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C55",
+        "text": "The Nest-Kart incorporated the same nesting mechanism present on the shopping carts designed by Watson, and an interference investigation was ordered by Telescope Carts, Inc. alleging infringement of the patent in 1948.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C56",
+        "text": "After a protracted legal battle, Goldman ultimately recognized Watson's invention and paid one dollar in damages for counterfeit, in exchange for which Watson granted Goldman an exclusive operating license (apart from the three licenses that had already been granted).",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C57",
+        "text": "In 1909, Bessie DeCamp invented a seat belt for chairs, go-carts or carriages.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C58",
+        "text": "This was well before shopping carts with child seating areas were invented.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C59",
+        "text": "Goldman introduced a child seating area on shopping carts in 1947.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C60",
+        "text": "For whatever reason, it was not until 1967 that seat belts for shopping carts were introduced by David Allen.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C61",
+        "text": "It was high tech for the time, because it was a retractable seat belt.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C62",
+        "text": "In 1946, Orla Watson devised a system for a telescoping (i.e., \"nesting\") shopping cart which did not require assembly or disassembly of its parts before and after use like Goldman's cart; Goldman's design up until this point required that the cart be unfolded much like a folding chair.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C63",
+        "text": "This cart could be fitted into another cart for compact storage via a swinging one-way rear door.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C64",
+        "text": "The swinging rear door formed the basis of the patent claim, and was a major innovation in the evolution of the modern shopping cart.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C65",
+        "text": "Watson applied for a patent on his shopping cart invention in 1946, but Goldman contested it and filed an application for a similar patent with the swinging door feature on a shopping cart with only one basket in 1948 which Goldman named the \"Nest-Kart\".",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C66",
+        "text": "After considerable litigation and allegations of patent infringement, Goldman relinquished his rights to the patent in 1949 to Watson and his company, Telescope Carts, Inc. realizing that the swinging rear door feature was the key to Watson's patent.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C67",
+        "text": "Watson was awarded patent #2,479,530 on August 16, 1949.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C68",
+        "text": "In exchange, Goldman was granted an exclusive licensing right in addition to the three other licenses previously granted; Telescope Carts, Inc. continued to receive royalties for each cart produced by Goldman's company that incorporated the \"nesting\" design.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C69",
+        "text": "This included any shopping cart utilizing his hinged rear door, including the familiar single basket \"nesting\" designs similar to those used in the present.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C70",
+        "text": "Owing to its overwhelming success, many different manufacturers desired to produce shopping carts with the rear swinging door feature but were denied due to the exclusive license issued to Goldman.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C71",
+        "text": "The federal government filed a lawsuit against Telescope Carts, Inc. in 1950 alleging the exclusive license granted to Goldman was invalid, and a Consent Decree was entered into where Telescope Carts, Inc. agreed to offer the same license to any manufacturer.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C72",
+        "text": "Orla Watson and Telescope Carts, Inc. licensed their telescoping shopping cart design to several manufacturers throughout the 1950s and 1960s until the patent expired.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C73",
+        "text": "In 2012, a driverless shopping cart was made by Chaotic Moon Labs.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C74",
+        "text": "The device, called \"Project Sk8\" or \"Smarter Cart\" was basically a cart fitted with Windows Kinect (to detect obstacles), and an electric drivetrain, and used in conjunction with a Windows 8 tablet.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C75",
+        "text": "For smaller stores, shopping baskets with wheels can be used either as a large basket or a small cart.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C76",
+        "text": "These carts are designed for indoor use only.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C77",
+        "text": "In 2017, a mobile device shelf was added to shopping carts at Target stores to support the digital in-store shopping experience.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C78",
+        "text": "The shelf was invented and designed by Nick Dyer, a former employee of Target.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C79",
+        "text": "The introduction of \"EASY Shopper\" in 2019 by Pentland Firth Software GmbH in partnership with the German retailer EDEKA represents another step in the evolution of shopping carts.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C80",
+        "text": "Equipped with a tablet, barcode scanner, and cashierless checkout system, the smart shopping cart aims to provide customers with a more streamlined and convenient shopping experience.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C81",
+        "text": "The system utilizes computer vision to accurately track items in the cart and allow customers to scan and pay for their purchases as they shop, reducing the need to stand in line and wait to pay for their items.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C82",
+        "text": "Past studies determined that retailers who did not offer shopping carts such as Sears suffered lower sales in comparison to retailers who did use shopping carts.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C83",
+        "text": "Subsequent to the introduction of shopping carts and centralized checkout lines at Sears stores, the company noticed a correlating increase in sales.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C84",
+        "text": "In 2004, British supermarket chain Tesco trialed shopping carts with user-adjustable wheel resistance, heart rate monitoring and calorie counting hardware in an effort to raise awareness of health issues.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C85",
+        "text": "The cart's introduction coincided with Tesco's sponsorship of Cancer Research UK's fundraising event Race for Life.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C86",
+        "text": "Also in 2004, shopping carts were identified as a source of pathogens and became a major public health concern.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C87",
+        "text": "This was primarily due to the media spotlight on a Japanese research study revealing large amounts of bacteria on shopping carts.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C88",
+        "text": "Those findings were later backed by a University of Arizona study in 2007.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C89",
+        "text": "In 2009, researchers developed prototypes of computerized context aware shopping carts by attaching tablet computers to ordinary carts.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C90",
+        "text": "Initial field trials showed that the prototype's context awareness provided an opportunity for enhancing and altering the shopping experience.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C91",
+        "text": "Some retailers, such as Target, have begun using carts fully made of recycled plastic with the only metal part being the wheel axles, drawing away from the established metal cart design.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C92",
+        "text": "Target's cart has won design awards for its improved casters, interchangeable plastic parts to simplify repairs, and handles that improve maneuverability.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C93",
+        "text": "Smaller half-sized carts for smaller shopping trips have also become common.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C94",
+        "text": "In many stores, the user inserts a coin, token or card to unlock the cart, which is returned when they return it.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C95",
+        "text": "A lock mounted on the handle connects it to other carts or to a fixed point.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C96",
+        "text": "The deposit system reduces the expense of gathering carts, avoids damage done by runaway carts, and makes it less likely that carts will be removed from the premises.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C97",
+        "text": "Carts that are not returned by the user may be returned by someone else, with the deposit coin acting as a reward.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C98",
+        "text": "Although almost ubiquitous in continental Europe and the UK, the system is less common in Canada and rare in the United States, with the exception of the former Real Superstore (Schnucks) (earlier a subsidiary of a Canadian firm), ALDI, and some locations of Costco and ShopRite.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C99",
+        "text": "In Australia, deposit systems are common in some local government areas, as they have been made compulsory by local law.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C100",
+        "text": "Usually, all ALDI stores, and most Coles and Woolworths stores will have a lock mechanism on their carts that requires a $1 or $2 coin to unlock.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C101",
+        "text": "The deposit varies, but usually coins of higher value, such as €1, £1, or $1, are used.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C102",
+        "text": "Cart collectors have a special key to unlock the carts when needed.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C103",
+        "text": "Some retailers sell tokens as an alternative to coins, often for charity.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C104",
+        "text": "Merchandising companies also offer branded shopping tokens.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C105",
+        "text": "Shopping cart theft can be a costly problem with stores that use them.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C106",
+        "text": "The carts, which typically cost between $75 and $150 each, with some models costing $300–400, are removed by people for various purposes.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C107",
+        "text": "To prevent theft, estimated at $800 million worldwide per annum, stores use various security systems as discussed below.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C108",
+        "text": "Most retailers in North America utilize a cart retrieval service, which collects carts found off the store's premises and returns them to the store for a fee.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C109",
+        "text": "The primary strength of this system is the ability of pedestrian customers to take purchases home and allow retailers to recapture abandoned carts in a timely manner at a fraction of the cost of a replacement cart.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C110",
+        "text": "It also allows retailers to maintain their cart inventories without an expensive capital outlay.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C111",
+        "text": "A drawback of this method is that it is reactive, instead of proactively preventing the carts from leaving the store premises.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C112",
+        "text": "Electronic systems are sometimes used by retailers.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C113",
+        "text": "Each shopping cart is fitted with an electronic locking wheel clamp, or \"boot\".",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C114",
+        "text": "A transmitter with a thin wire is placed around the perimeter of the parking lot, and the boot locks when the cart leaves the designated area.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C115",
+        "text": "Store personnel must then deactivate the lock with a handheld remote control to return the cart to stock.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C116",
+        "text": "Often, a line is painted in front of the broadcast range to warn customers that their cart will stop when rolled past the line.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C117",
+        "text": "However, these systems are very expensive to install and although helpful, are not foolproof.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C118",
+        "text": "The wheels can be lifted over the electronic barrier and/or pushed hard enough that the locks break.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C119",
+        "text": "There are also safety concerns if the person pushing the trolley is running, and also if the trolley does not lock and is taken onto a road, locking due to magnetic materials under the road.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C120",
+        "text": "Some cities have required retailers to install locking wheel systems on their shopping carts.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C121",
+        "text": "In some cases, electronic systems companies have encouraged passage of such laws to create a captive audience of potential customers.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C122",
+        "text": "A low-tech form of theft prevention utilizes a physical impediment, such as vertical posts at the store entrance to keep carts from being taken into the parking lot.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C123",
+        "text": "This method also impedes physically disabled customers, which may be illegal in many jurisdictions.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C124",
+        "text": "For example, in the United States it would be a violation of the Americans with Disabilities Act of 1990.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C125",
+        "text": "Another method (used for example by UK supermarket Iceland) is to mount a pole taller than the entrance, onto the shopping cart, so that the pole will block exit of the cart.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C126",
+        "text": "However, this method requires that the store aisles be higher than the pole, including lights, piping, any overhead signage and fixtures.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C127",
+        "text": "It also prevents customers from carting their purchases to their cars in the store's carts.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C128",
+        "text": "Many customers learn to bring their own folding or otherwise collapsible cart with them, which they can usually hang on the store's cart while shopping.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C129",
+        "text": "A further system is to use a cattle grid style system.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C130",
+        "text": "All pedestrian exits have specially designed flooring tiles, which, along with specially designed wheels on the cart, will immobilize the cart as they roll onto them.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C131",
+        "text": "Like the magnetic systems, this can easily be overcome by lifting the cart over the tiles.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C132",
+        "text": "The names of shopping carts vary by region.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C133",
+        "text": "The following names are region-specific names for shopping carts.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C134",
+        "text": "Special electronic shopping carts are provided by many retailers for the elderly or disabled people.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C135",
+        "text": "These are essentially electric wheelchairs with an attached basket.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C136",
+        "text": "They allow customers to navigate around the store and collect items.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C137",
+        "text": "Manually powered carts are also available specifically designed for use by wheelchair users.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C138",
+        "text": "A still-to-be-implemented aid for people with disabilities is the addition of a guide wheel at the center of rotation of a cart with four caster wheels.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C139",
+        "text": "In order to allow the nesting of carts to be unhindered, this guide wheel is attached to the front of the cart with a piece of spring steel which bends under the cart's weight.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C140",
+        "text": "Caroline's Carts are designed for aiding non-ambulatory adults or larger children, but require an additional person to push.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C141",
+        "text": "Olivier Mourgue, Otl Aicher, Stiletto as well as other artists and designers had wire furniture or artwork made by shopping cart manufacturers.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C142",
+        "text": "One of the most famous thematizations of a shopping cart in art is the 1970 sculpture \"Supermarket Lady\" by US pop artist Duane Hanson, which is critical of consumerism.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C143",
+        "text": "In 1983, the neoist \"one-man artist group\" Stiletto Studios, from Berlin converted a 'stray' shopping cart into an 'inverted' cantilever-wire chair on the principle of objet trouvé.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C144",
+        "text": "Another example is found in Massurrealism, a grass-roots genre started in 1992.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C145",
+        "text": "This art movement merges surrealism with mass media, and was inspired by the use of the shopping cart to comment on contemporary society's mass media saturation and consumer-driven culture.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      },
+      {
+        "id": "C146",
+        "text": "By far, most stolen shopping carts that are not returned and left outside their location, however, are misappropriated by occasional subsequent and secondary users without any artistic or cultural-critical readymade intentions as emergency solutions.",
+        "source": "Wikipedia — Shopping cart",
+        "rewrite": true
+      }
+    ],
+    "bounded_interpretations": [],
+    "uncertain_claims": [],
+    "visual_leads": [
+      {
+        "text": "a modern shopping cart in an aisle",
+        "source": null,
+        "start": null,
+        "origin": "case-file"
+      },
+      {
+        "text": "a wooden folding chair",
+        "source": null,
+        "start": null,
+        "origin": "case-file"
+      },
+      {
+        "text": "a basket placed on the chair seat with wheels on the legs",
+        "source": null,
+        "start": null,
+        "origin": "case-file"
+      },
+      {
+        "text": "the 1930s folding basket carrier",
+        "source": null,
+        "start": null,
+        "origin": "case-file"
+      },
+      {
+        "text": "a row of carts nested together",
+        "source": null,
+        "start": null,
+        "origin": "case-file"
+      },
+      {
+        "text": "Carrinho",
+        "source": "Commons: Carrinho.JPG",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "Cherry Point commissary features Caroline’s Cart 140715 M XX000 000 (cropped)",
+        "source": "Commons: Cherry Point commissary features Caroline’s Cart 140715-M-XX000-000 (cropped).jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "Diamond Chair   Harry Bertoia, MNAM",
+        "source": "Commons: Diamond Chair - Harry Bertoia, MNAM.jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "Dollar Tree carts with anti theft poles",
+        "source": "Commons: Dollar Tree carts with anti-theft poles.jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "Einkaufswagen 2",
+        "source": "Commons: Einkaufswagen-2.jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "Frau mit Einkaufswagen (37939692236)",
+        "source": "Commons: Frau mit Einkaufswagen (37939692236).jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "HomelessParis 7032101",
+        "source": "Commons: HomelessParis 7032101.jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "Homeless man, Tokyo, 2008",
+        "source": "Commons: Homeless man, Tokyo, 2008.jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "Hängeregistratur otl aicher",
+        "source": "Commons: Hängeregistratur-otl-aicher.jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "Japanese shopping cart with phone holder",
+        "source": "Commons: Japanese shopping cart with phone holder.jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "Shopping cart shepherd for Target jeh",
+        "source": "Commons: Shopping cart shepherd for Target jeh.jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "StopShopCarriageReturn",
+        "source": "Commons: StopShopCarriageReturn.JPG",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "Systec duraloc mechanism locked chain coin 1",
+        "source": "Commons: Systec duraloc mechanism locked chain coin-1.jpg",
+        "origin": "article-image (licence check pending)"
+      },
+      {
+        "text": "The original two basket Telescope Cart designed by Orla Watson",
+        "source": "Commons: The original two-basket Telescope Cart designed by Orla Watson.jpg",
+        "origin": "article-image (licence check pending)"
+      }
+    ]
+  },
+  "blueprint": null,
+  "sections": [],
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 0
+  },
+  "error": {
+    "code": "REQUEST",
+    "provider": "groq",
+    "stage": "narrative-angle",
+    "retryable": false,
+    "retryAfterMs": null
+  }
+}

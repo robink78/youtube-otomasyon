@@ -1,0 +1,63 @@
+{
+  "slug": "why-metal-rusts-away",
+  "olusturuldu": "2026-09-24T16:22:41.974Z",
+  "originality": 88,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.1,
+      "kim": "tacoma-narrows"
+    },
+    "hook": {
+      "deger": 0.13,
+      "kim": "hindenburg"
+    },
+    "structure": {
+      "deger": 0.78,
+      "kim": "how-hurricanes-destroy"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0.11,
+      "kim": "why-bridges-collapse"
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.5,
+      "kim": "how-hurricanes-destroy"
+    },
+    "cta": {
+      "deger": 0.38,
+      "kim": "why-concrete-crumbles"
+    },
+    "description": {
+      "deger": 0.11,
+      "kim": "how-floods-destroy-cities"
+    },
+    "music": {
+      "deger": 0.77,
+      "kim": "how-blackouts-spread"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.1,
+    "HOOK_SIMILARITY": 0.13,
+    "STRUCTURE_SIMILARITY": 0.78,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0.11,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.5,
+    "CTA_SIMILARITY": 0.38,
+    "DESCRIPTION_SIMILARITY": 0.11,
+    "MUSIC_SIMILARITY": 0.77
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

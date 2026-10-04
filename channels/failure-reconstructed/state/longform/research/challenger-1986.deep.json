@@ -1,0 +1,1631 @@
+{
+  "schema": "research-deep/1",
+  "channel": "failure-reconstructed",
+  "slug": "challenger-1986",
+  "article": "Space Shuttle Challenger disaster",
+  "via": "cited source",
+  "fetchedAt": "2026-09-30T15:48:32.929Z",
+  "licence": "CC BY-SA 4.0 — facts only; never narrate verbatim",
+  "claims": [
+    {
+      "text": "On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members.",
+      "role": "consequence",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The spacecraft disintegrated about 46,000 feet (14 km) above the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 16:39:13 UTC (11:39:13 a.m.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "EST, local time at the launch site).",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "It was the first fatal accident involving an American spacecraft while in flight.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The mission, designated STS-51-L, was the 10th flight for the orbiter and the 25th flight of the NASA's Space Shuttle program.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The crew was scheduled to deploy a commercial communications satellite and study Halley's Comet while they were in orbit, in addition to taking schoolteacher Christa McAuliffe into space under the Teacher in Space Project.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "This latter task resulted in a higher-than-usual media interest in and coverage of the mission, and the launch and subsequent disaster were seen live in many schools across the United States.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The cause of the disaster was the failure of the primary and secondary O-ring seals in a joint in the right Space Shuttle Solid Rocket Booster (SRB).",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The record-low temperatures on the morning of the launch had stiffened the rubber O-rings, reducing their ability to seal the joints.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Shortly after liftoff the seals were breached, and hot pressurized gas from within the SRB leaked through the joint and burned through the aft attachment strut connecting it to the external propellant tank (ET), then into the tank itself.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The collapse of the ET's internal structures and the rotation of the SRB that followed propelled the shuttle stack, traveling at a speed of Mach 1.92, into a direction that allowed aerodynamic forces to tear the orbiter apart.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Both SRBs detached from the now-destroyed ET and continued to fly uncontrollably until the range safety officer (RSO) sent a signal to destroy them.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The crew compartment containing human remains, and many other fragments from the shuttle, were recovered from the ocean floor after a three-month search and recovery operation.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The exact timing of the deaths of the crew is not known, but several crew members are thought to have survived the initial breakup of the spacecraft.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The orbiter had no escape system, and the impact of the crew compartment at terminal velocity with the ocean surface was too violent to be survivable.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The disaster resulted in a 32-month hiatus in the Space Shuttle program.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "President Ronald Reagan created the Rogers Commission to investigate the accident.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The commission criticized NASA's organizational culture and decision-making processes that had contributed to the accident.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Test data since 1977 had demonstrated a potentially catastrophic flaw in the SRBs' O-rings, but neither NASA nor SRB manufacturer Morton Thiokol had addressed this known defect.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "NASA managers also disregarded engineers' warnings about the dangers of launching in low temperatures and did not report these technical concerns to their superiors.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "As a result of this disaster, NASA established the Office of Safety, Reliability, and Quality Assurance, and arranged for deployment of commercial satellites from expendable launch vehicles, rather than from a crewed orbiter.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The construction of a new Space Shuttle orbiter, Endeavour, was approved in 1987 to replace Challenger, and the new orbiter first flew in 1992.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Subsequent missions were launched with redesigned SRBs and their crews wore pressurized suits during ascent and reentry.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "In February 2003 the Space Shuttle Columbia disintegrated during re-entry.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The Columbia Accident Investigation Board concluded that NASA had failed to learn lessons from the Challenger disaster, which resulted in the second disaster.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The Space Shuttle was a partially reusable spacecraft operated by the US National Aeronautics and Space Administration (NASA).",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "It flew for the first time in April 1981, and was used to conduct in-orbit research, and deploy commercial, military, and scientific payloads.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "At launch, it consisted of the orbiter, which contained the crew and payload, the external tank (ET), and the two solid rocket boosters (SRBs).",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The orbiter was a reusable, winged vehicle that launched vertically and landed as a glider.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Five orbiters were built during the Space Shuttle program.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Challenger (OV-099) was the second orbiter constructed after its conversion from a structural test article.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The orbiter contained the crew compartment, where the crew predominantly lived and worked throughout a mission.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Three Space Shuttle main engines (SSMEs) were mounted at the aft end of the orbiter and provided thrust during launch.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Once in space, the crew maneuvered using the two smaller, aft-mounted Orbital Maneuvering System (OMS) engines.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "When it launched, the orbiter was connected to the ET, which held the fuel for the SSMEs.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The ET consisted of a larger tank for liquid hydrogen (LH2) and a smaller tank for liquid oxygen (LOX), both of which were required for the SSMEs to operate.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "After its fuel had been expended, the ET separated from the orbiter and reentered the atmosphere, where it would break apart during reentry and its pieces would land in the Indian or Pacific Ocean.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Two solid rocket boosters (SRBs), built by Morton Thiokol at the time of the disaster, provided the majority of thrust at liftoff.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "They were connected to the external tank, and burned for the first two minutes of flight.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The SRBs separated from the orbiter once they had expended their fuel and fell into the Atlantic Ocean under a parachute.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "NASA retrieval teams recovered the SRBs and returned them to the Kennedy Space Center (KSC), where they were disassembled and their components were reused on future flights.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Each SRB was constructed in four main sections at the factory in Utah and transported to KSC, then assembled in the Vehicle Assembly Building at KSC with three tang-and-clevis field joints, each joint consisting of a tang from the upper segment fitting into the clevis of the lower segment.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Each field joint was sealed with two 20-foot (6 m) diameter Viton-rubber O-rings around the circumference of the SRB and had a cross-section diameter of 0.280 inches (7.1 mm).",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The O-rings were required to contain the hot, high-pressure gases produced by the burning solid propellant and allowed for the SRBs to be rated for crewed missions.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The two O-rings were configured to create a double bore seal, and the gap between segments was filled with putty.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "When the motor was running, this configuration was designed to compress air in the gap against the upper O-ring, pressing it against the sealing surfaces of its seat.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "On the SRB Critical Items List, the O-rings were listed as Criticality 1R, which indicated that an O-ring failure could result in the destruction of the vehicle and loss of life, and that it was considered a redundant system due to the secondary O-ring.",
+      "role": "evidence",
+      "section": "Space Shuttle",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Evaluations of the proposed SRB design in the early 1970s and field joint testing showed that the wide tolerances between the mated parts allowed the O-rings to be extruded from their seats rather than compressed.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "This extrusion was judged to be acceptable by NASA and Morton Thiokol despite concerns of NASA's engineers.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "A 1977 test showed that up to 0.052 inches (1.3 mm) of joint rotation occurred during the simulated internal pressure of a launch.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Joint rotation, which occurred when the tang and clevis bent away from each other, reduced the pressure on the O-rings, which weakened their seals and made it possible for combustion gases to erode the O-rings.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "NASA engineers suggested that the field joints should be redesigned to include shims around the O-rings, but they received no response.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "In 1980, the NASA Verification/Certification Committee requested further tests on joint integrity to include testing in the temperature range of 40 to 90 °F (4 to 32 °C) and with only a single O-ring installed.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The NASA program managers decided that their current level of testing was sufficient and further testing was not required.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "In December 1982, the Critical Items List was updated to indicate that the secondary O-ring could not provide a backup to the primary O-ring, as it would not necessarily form a seal in the event of joint rotation.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The O-rings were redesignated as Criticality 1, removing the \"R\" to indicate it was no longer considered a redundant system.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The first occurrence of in-flight O-ring erosion occurred on the right SRB on STS-2 in November 1981.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "In August 1984, a post-flight inspection of the left SRB on STS-41-D revealed that soot had blown past the primary O-ring and was found in between the O-rings.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Although there was no damage to the secondary O-ring, this indicated that the primary O-ring was not creating a reliable seal and was allowing hot gas to pass.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The amount of O-ring erosion was insufficient to prevent the O-ring from sealing, and investigators concluded that the soot between the O-rings resulted from non-uniform pressure at the time of ignition.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The January 1985 launch of STS-51-C was the coldest Space Shuttle launch to date.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The air temperature was 62 °F (17 °C) at the time of launch, and the calculated O-ring temperature was 53 °F (12 °C).",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Post-flight analysis revealed erosion in primary O-rings in both SRBs.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Morton Thiokol engineers determined that the cold temperatures caused a loss of flexibility in the O-rings that decreased their ability to seal the field joints, which allowed hot gas and soot to flow past the primary O-ring.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "O-ring erosion occurred on all but one (STS-51-J) of the Space Shuttle flights in 1985, and erosion of both the primary and secondary O-rings occurred on STS-51-B.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "To correct the issues with O-ring erosion, engineers at Morton Thiokol, led by Allan McDonald and Roger Boisjoly, proposed a redesigned field joint that introduced a metal lip to limit movement in the joint.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "They also recommended adding a spacer to provide additional thermal protection and using an O-ring with a larger cross section.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "In July 1985, Morton Thiokol ordered redesigned SRB casings, with the intention of using already-manufactured casings for the upcoming launches until the redesigned cases were available the following year.",
+      "role": "evidence",
+      "section": "O-ring concerns",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The Space Shuttle mission, named STS-51-L, was the twenty-fifth Space Shuttle flight and the tenth flight of Challenger.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The crew was announced on January 27, 1985, and was commanded by Dick Scobee.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Michael Smith was assigned as the pilot, and the mission specialists were Ellison Onizuka, Judith Resnik, and Ronald McNair.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The two payload specialists were Gregory Jarvis, who was assigned to conduct research for the Hughes Aircraft Company, and Christa McAuliffe, who flew as part of the Teacher in Space Project.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The primary mission of the Challenger crew was to use an Inertial Upper Stage (IUS) to deploy TDRS-B, a tracking and data relay satellite.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The crew also planned to study Halley's Comet as it passed near the Sun, and deploy and retrieve the Spartan Halley satellite.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The mission was originally scheduled for July 1985, but was delayed to November and then to January 1986.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The launch date was initially set for January 22, but this was delayed several times while the shuttle waited on the launch pad.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "On December 23, 1985, due to delays in preparations for STS-61-C, the launch was pushed back to January 23.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "On January 22, the mission was postponed until January 26 due to dust storms at the shuttle's emergency landing site, Dakar-Yoff International Airport in Senegal.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "NASA chose Mohammed V International Airport in Casablanca, Morocco, as an alternative emergency site, but a lack of runway lighting there meant that the shuttle now could only launch when it was daytime in Morocco and morning in Florida.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The launch was postponed again by one day when thunderstorms near Cape Canaveral were forecast for January 26; the weather turned out to be clear at the intended launch time, but storms came in shortly thereafter.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The shuttle was prepared to launch on January 27, but the countdown was halted at T−9 minutes when the crew cabin's door handle could not be removed due to a stuck bolt, preventing the needed insulation tile from being installed in its place.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "By the time the bolt had been removed, high winds at Cape Canaveral prevented the launch, as they would have made a RTLS abort dangerous if it were needed.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The winds continued until the morning's launch window closed at 12:37 p.m.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "EST, causing one final postponement to January 28.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "While all of these delays were necessitated by safety concerns, the increased publicity surrounding the mission because of the Teacher in Space Program led major media outlets to ridicule the repeated postponements of the launch.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "On the evening of January 27, CBS's Dan Rather called the bolt issue a \"high-tech low comedy\", while other outlets highlighted the frustration of spectators who had been waiting for the launch that day.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "This negative media coverage was later cited as one of several factors which pressured NASA officials to ignore potential issues with the O-rings so that Challenger could launch as soon as possible.",
+      "role": "evidence",
+      "section": "Mission",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The air temperature on January 28 was predicted to be a record low for a Space Shuttle launch.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The air temperature was forecast to drop to 18 °F (−8 °C) overnight before rising to 22 °F (−6 °C) at 6:00 a.m. and 26 °F (−3 °C) at the scheduled launch time of 9:38 a.m.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Based upon O-ring erosion that had occurred in warmer launches, Morton Thiokol engineers were concerned over the effect the record-cold temperatures would have on the seal provided by the SRB O-rings for the launch.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Cecil Houston, the manager of the Kennedy Space Center (KSC) office of the Marshall Space Flight Center in Alabama, set up a three-way conference call with Morton Thiokol in Utah and the KSC in Florida on the evening of January 27 to discuss the safety of the launch.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Morton Thiokol engineers expressed their concerns about the effect of low temperatures on the resilience of the rubber O-rings.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "As the colder temperatures lowered the elasticity of the rubber O-rings, the engineers feared that the O-rings would not be extruded to form a seal at the time of launch.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The engineers argued that they did not have enough data to determine whether the O-rings would seal at temperatures colder than 53 °F (12 °C), the coldest launch of the Space Shuttle to date.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "During this discussion, Lawrence Mulloy, the NASA SRB project manager, said that he did not accept the analysis behind this decision, and demanded to know if Morton Thiokol expected him to wait until April for warmer temperatures.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Morton Thiokol employees Robert Lund, the Vice President of Engineering, and Joe Kilminster, the Vice President of the Space Booster Programs, recommended against launching until the temperature was above 53 °F (12 °C).",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "When the teleconference prepared to hold a recess to allow for private discussion amongst Morton Thiokol management, Allan J.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "When the call resumed, Morton Thiokol leadership had changed their opinion and stated that the evidence presented on the failure of the O-rings was inconclusive and that there was a substantial margin in the event of a failure or erosion.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "They stated that their decision was to proceed with the launch.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "When McDonald told Mulloy that, as the onsite representative at KSC he would not sign off on the decision, Mulloy demanded that Morton Thiokol provide a signed recommendation to launch; Kilminster confirmed that he would sign it and fax it from Utah immediately, and the teleconference ended.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Mulloy called Arnold Aldrich, the NASA Mission Management Team Leader, to discuss the launch decision and weather concerns, but did not mention the O-ring discussion; the two agreed to proceed with the launch.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "An overnight measurement taken by the KSC Ice Team recorded the left SRB was 25 °F (−4 °C) and the right SRB was 8 °F (−13 °C).",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "These measurements were recorded for engineering data and not reported, because the temperature of the SRBs was not part of the Launch Commit Criteria.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "In addition to its effect on the O-rings, the cold temperatures caused ice to form on the fixed service structure.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "To keep pipes from freezing, water was slowly run from the system; it could not be entirely drained because of the upcoming launch.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "As a result, ice formed from 240 feet (73 m) down in the freezing temperatures.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Engineers at Rockwell International, which manufactured the orbiter, were concerned that ice would be violently thrown during launch and could potentially damage the orbiter's thermal protection system or be aspirated into one of the engines.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Rocco Petrone, the head of Rockwell's space transportation division, and his team determined that the potential damage from ice made the mission unsafe to fly.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Arnold Aldrich consulted with engineers at KSC and the Johnson Space Center (JSC) who advised him that ice did not threaten the safety of the orbiter, and he decided to proceed with the launch.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The launch was delayed for an additional hour to allow more ice to melt.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The ice team performed an inspection at T−20 minutes which indicated that the ice was melting, and Challenger was cleared to launch at 11:38 a.m.",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "EST, with an air temperature of 36 °F (2 °C).",
+      "role": "event",
+      "section": "Decision to launch",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "At T+0, Challenger launched from the Kennedy Space Center Launch Complex 39B (LC-39B) at 11:38:00 a.m.",
+      "role": "evidence",
+      "section": "Liftoff and initial ascent",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Beginning at T+0.678 until T+3.375 seconds, nine puffs of dark gray smoke were recorded escaping from the right-hand SRB near the aft strut that attached the booster to the ET.",
+      "role": "evidence",
+      "section": "Liftoff and initial ascent",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "It was later determined that these smoke puffs were caused by joint rotation in the aft field joint of the right-hand SRB at ignition.",
+      "role": "evidence",
+      "section": "Liftoff and initial ascent",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The cold temperature in the joint had prevented the O-rings from creating a seal.",
+      "role": "evidence",
+      "section": "Liftoff and initial ascent",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Rainfall from the preceding time on the launchpad had likely accumulated within the field joint, further compromising the sealing capability of the O-rings.",
+      "role": "evidence",
+      "section": "Liftoff and initial ascent",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "As a result, hot gas was able to travel past the O-rings and erode them.",
+      "role": "evidence",
+      "section": "Liftoff and initial ascent",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Molten aluminum oxides from the burned propellant unintentionally resealed the joint and created a temporary barrier against further hot gas and flame escaping through the field joint.",
+      "role": "evidence",
+      "section": "Liftoff and initial ascent",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The Space Shuttle main engines (SSMEs) were throttled down as scheduled for maximum dynamic pressure (max q).",
+      "role": "evidence",
+      "section": "Liftoff and initial ascent",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "During its ascent, the Space Shuttle encountered wind shear conditions beginning at T+37, but they were within design limits of the vehicle and were countered by the guidance system.",
+      "role": "evidence",
+      "section": "Liftoff and initial ascent",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "At T+58.788, a tracking film camera captured the beginnings of a plume near the aft attach strut on the right SRB, right before the vehicle passed through max q at T+59.000.",
+      "role": "evidence",
+      "section": "Plume",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The high aerodynamic forces and wind shear likely broke the unintentional aluminum oxide seal that had replaced eroded O-rings, allowing the flame to burn through the joint.",
+      "role": "evidence",
+      "section": "Plume",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Within one second from when it was first recorded, the plume became well-defined, and the enlarging hole caused a drop in internal pressure in the right SRB.",
+      "role": "evidence",
+      "section": "Plume",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "A leak had begun in the liquid hydrogen (LH2) tank of the ET at T+64.660, as indicated by the changing shape of the plume.",
+      "role": "evidence",
+      "section": "Plume",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The SSMEs pivoted to compensate for the booster burn-through, which was creating an unexpected thrust on the vehicle.",
+      "role": "evidence",
+      "section": "Plume",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The pressure in the external LH2 tank began to drop at T+66.764 indicating that the flame had burned from the SRB into the tank.",
+      "role": "evidence",
+      "section": "Plume",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The crew and flight controllers made no indication they were aware of the vehicle and flight anomalies.",
+      "role": "evidence",
+      "section": "Plume",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Covey, told the crew, \"Challenger, go at throttle up\", indicating that the SSMEs had throttled up to 104% thrust.",
+      "role": "evidence",
+      "section": "Plume",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "In response to Covey, Scobee said, \"Roger, go at throttle up\"; this was the last communication from Challenger on the air-to-ground loop.",
+      "role": "evidence",
+      "section": "Plume",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "At T+72.284, the right SRB pulled away from the aft strut that attached it to the ET, causing lateral acceleration that was felt by the crew.",
+      "role": "evidence",
+      "section": "Vehicle breakup",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "At the same time, pressure in the LH2 tank began dropping.",
+      "role": "evidence",
+      "section": "Vehicle breakup",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Pilot Mike Smith said \"Uh-oh\", which was the last crew comment recorded.",
+      "role": "evidence",
+      "section": "Vehicle breakup",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "At T+73.124, white vapor was seen flowing away from the ET, after which the aft dome of the LH2 tank fell off.",
+      "role": "evidence",
+      "section": "Vehicle breakup",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The resulting release and ignition of all liquid hydrogen in the tank pushed the LH2 tank forward into the liquid oxygen (LOX) tank with a force equating to roughly 3,000,000 pounds (13 MN), while the right SRB collided with the intertank structure.",
+      "role": "evidence",
+      "section": "Vehicle breakup",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The failure of the LH2 and LOX tanks resulted in a boiling liquid expanding vapor explosion (BLEVE), with a large part of the liquid evaporating back into gas almost instantly.",
+      "role": "evidence",
+      "section": "Vehicle breakup",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "These events resulted in an abrupt change to the shuttle stack's attitude and direction, which was shrouded from view by the vaporized contents of the now-destroyed ET.",
+      "role": "evidence",
+      "section": "Vehicle breakup",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The disaster unfolded at an altitude of 46,000 feet (14 km).",
+      "role": "evidence",
+      "section": "Vehicle breakup",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Both SRBs survived the breakup of the shuttle stack and continued flying, now unguided by the attitude and trajectory control of their mothership, until their flight termination systems were activated at T+110.",
+      "role": "evidence",
+      "section": "Vehicle breakup",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "At T+73.191, there was a burst of static on the air-to-ground loop as the vehicle broke up, which was later attributed to ground-based radios searching for a signal from the destroyed spacecraft.",
+      "role": "event",
+      "section": "Post-breakup flight controller dialogue",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "NASA Public Affairs Officer Steve Nesbitt was initially unaware of the explosion and continued to read out flight information.",
+      "role": "event",
+      "section": "Post-breakup flight controller dialogue",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "At T+89, after video of the explosion was seen in Mission Control, the Ground Control Officer reported \"negative contact (and) loss of downlink\" as they were no longer receiving transmissions from Challenger.",
+      "role": "event",
+      "section": "Post-breakup flight controller dialogue",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Nesbitt stated, \"Flight controllers here are looking very carefully at the situation.",
+      "role": "event",
+      "section": "Post-breakup flight controller dialogue",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "We have no downlink.\" Soon afterwards, he said, \"We have a report from the Flight Dynamics Officer that the vehicle has exploded.",
+      "role": "event",
+      "section": "Post-breakup flight controller dialogue",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The crew cabin, which was made of reinforced aluminum, separated in one piece from the rest of the orbiter.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "It then traveled in a ballistic arc, reaching an apogee of 65,000 feet (20 km) approximately 25 seconds after the explosion.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "At the time of separation, the maximum acceleration is estimated to have been between 12 and 20 times that of gravity (g).",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Within two seconds it had dropped below 4 g, and within ten seconds the cabin was in free fall.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The forces involved at this stage were probably insufficient to cause major injury to the crew.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "At least some of the crew were alive and conscious after the breakup, as Personal Egress Air Packs (PEAPs) were activated for Smith and two unidentified crewmembers, but not for Scobee.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The PEAPs were not intended for in-flight use, and the astronauts never trained with them for an in-flight emergency.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The location of Smith's activation switch, on the back side of his seat, indicated that either Resnik or Onizuka likely activated it for him.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Investigators found their remaining unused air supply consistent with the expected consumption during the post-breakup trajectory.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "While analyzing the wreckage, investigators discovered that several electrical system switches on Smith's right-hand panel had been moved from their usual launch positions.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The switches had lever locks on top of them that must be pulled out before the switch could be moved.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Later tests established that neither the force of the explosion nor the impact with the ocean could have moved them, indicating that Smith made the switch changes, presumably in a futile attempt to restore electrical power to the cockpit after the crew cabin detached from the rest of the orbiter.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "On July 28, 1986, NASA's Associate Administrator for Space Flight, former astronaut Richard H.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Truly, released a report on the deaths of the crew from physician and Skylab 2 astronaut Joseph P.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The impact of the crew compartment with the ocean surface was so violent that evidence of damage occurring in the seconds which followed the disintegration was masked.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Pressurization could have enabled consciousness for the entire fall until impact.",
+      "role": "cause",
+      "section": "Cause and time of death",
+      "source": "Wikipedia — Space Shuttle Challenger disaster",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "images": [
+    "Booster Rocket Breach - GPN-2000-001425.jpg",
+    "ChallengerPlaque-20231125.jpg",
+    "Challenger Disaster Memorial KSC-9.jpg",
+    "Challenger breakup cabin.jpg",
+    "Challenger explosion.jpg",
+    "Challenger flight 51-l crew.jpg",
+    "Icicles on the Launch Tower - GPN-2000-001348.jpg",
+    "MIT ESD.10 Introduction to Technology and Policy, Fall 2006 - Solid Rocket Booster Design showing location of O-Rings.jpg",
+    "President Ronald Reagan and Nancy Reagan and Families of The \"Challenger\" Victims at The Memorial Service for The Space Shuttle Crew in Houston Texas - DPLA - e1dee6a31bf4ed9af446235deb26780c.jpg",
+    "RogersCommission-v1p57 cropped.jpg",
+    "Rogers Commission members arrive at Kennedy Space Center.jpg",
+    "S83-35803 (cropped).jpg",
+    "STS-51-L - Space Shuttle Challenger on the Crawler-Transporter.jpg",
+    "STS-51-L Recovered Debris (Burn Marks on the SRM) - GPN-2004-00004.jpg",
+    "STS-51-L grey smoke on SRB.jpg",
+    "STS-51L riadiace stredisko.jpg",
+    "Space Shuttle Challenger tribute poster.jpg"
+  ],
+  "status": "OK"
+}

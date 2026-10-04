@@ -1,0 +1,1434 @@
+{
+  "channel": "critical-thread",
+  "records": [
+    {
+      "slug": "the-hidden-system-behind-utility-vegetation-management-corridor",
+      "topic": "The Trees That Blacked Out 55 Million People",
+      "coreQuestion": "How did overgrown trees and a software bug black out 55 million people?",
+      "openingLine": "Why overgrown trees blacked out 55 million people.",
+      "secondBeat": "One August afternoon, sagging lines touched trees in Ohio.",
+      "dependency": "Transmission lines depend on cleared rights-of-way so sagging conductors never touch vegetation.",
+      "mechanism": "Hot, heavily loaded lines sag; if they touch trees, they trip and shift load onto neighbouring lines.",
+      "bottleneck": "Tree trimming along thousands of kilometres of corridor is easy to defer.",
+      "failureConsequence": "One line trips into a tree, others overload, and the grid cascades.",
+      "resilience": "Reliability standards now mandate vegetation management and alarm monitoring.",
+      "expectedConsequence": "a local fault cascades into a regional blackout",
+      "number": "55 million",
+      "thumbnailText": "TREES VS GRID",
+      "visualScenes": [
+        "sagging power line near trees",
+        "control room with a frozen alarm screen",
+        "cascade map across the Northeast",
+        "night skyline of dark New York",
+        "load chart dropping 80%",
+        "tree-trimming crew in a corridor"
+      ],
+      "editorialTitles": [
+        "How Trees Helped Black Out 55 Million People",
+        "Why Grid Reliability Starts With Tree Trimming"
+      ],
+      "facts": [
+        {
+          "claim": "The outage affected an estimated 55 million people, including 10 million people in southern and central Ontario and 45 million people in eight U.S. states.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Northeast blackout of 2003",
+          "url": "https://en.wikipedia.org/wiki/Northeast_blackout_of_2003"
+        },
+        {
+          "claim": "The blackout was due to a software bug in the alarm system at the control room of FirstEnergy, which rendered operators unaware of the need to redistribute load after overloaded transmission lines dropped in voltage.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Northeast blackout of 2003",
+          "url": "https://en.wikipedia.org/wiki/Northeast_blackout_of_2003"
+        },
+        {
+          "claim": "FirstEnergy failed to manage adequately tree growth in its transmission rights-of-way.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Northeast blackout of 2003",
+          "url": "https://en.wikipedia.org/wiki/Northeast_blackout_of_2003"
+        },
+        {
+          "claim": "In the minutes before the event, the NYISO-managed power system was carrying 28,700 MW of load; at the height of the outage, the load had dropped to 5,716 MW, a loss of 80%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Northeast blackout of 2003",
+          "url": "https://en.wikipedia.org/wiki/Northeast_blackout_of_2003"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why overgrown trees blacked out 55 million people.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "One August afternoon, sagging lines touched trees in Ohio.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The utility had failed to manage tree growth along its lines.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "A software bug froze the control room's alarms.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "New York's load fell from 28,700 to 5,716 megawatts.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's an 80% loss in minutes.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why grid reliability starts with a chainsaw.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-synchronous-condenser",
+      "topic": "The Blackout That Dropped 31 GW in Seconds",
+      "coreQuestion": "How did Spain and Portugal lose 31 gigawatts of load in seconds?",
+      "openingLine": "Why Iberia lost 31 gigawatts in seconds.",
+      "secondBeat": "One April day, Spain and Portugal's grid collapsed.",
+      "dependency": "Grid stability depends on voltage control and spinning inertia from machines like synchronous condensers.",
+      "mechanism": "Spinning machines resist sudden frequency and voltage changes, buying operators time to react.",
+      "bottleneck": "Grids with less voltage-controlling capacity have less margin in a disturbance.",
+      "failureConsequence": "Voltage runs out of control, generators trip, and the grid collapses.",
+      "resilience": "Operators now schedule more voltage-controlling plant and add synchronous condensers.",
+      "expectedConsequence": "a whole peninsula goes dark within seconds",
+      "number": "31 GW",
+      "thumbnailText": "31 GW GONE",
+      "visualScenes": [
+        "dark Madrid street",
+        "frequency chart falling below 48 Hz",
+        "synchronous condenser rotor",
+        "voltage control diagram",
+        "restoration progress chart",
+        "grid operator control room"
+      ],
+      "editorialTitles": [
+        "How Iberia's Grid Collapsed in Seconds",
+        "Why Grids Need Voltage Control, Not Just Power"
+      ],
+      "facts": [
+        {
+          "claim": "The total disconnected load was 31 GW.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2025 Iberian Peninsula blackout",
+          "url": "https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout"
+        },
+        {
+          "claim": "12:33:18 – 12:33:21 CEST – grid frequency of the Iberian Peninsula drops below 48.0 Hz.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2025 Iberian Peninsula blackout",
+          "url": "https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout"
+        },
+        {
+          "claim": "By 07:00 CEST on 29 April, electricity had been restored to 99% of energy demand.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2025 Iberian Peninsula blackout",
+          "url": "https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout"
+        },
+        {
+          "claim": "The Chair of the ENTSO-E Board stated: The problem is not renewable energy, but voltage control, regardless of the type of generation.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2025 Iberian Peninsula blackout",
+          "url": "https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout"
+        },
+        {
+          "claim": "In the following days, gas turbines were delivering more power than usual, as their inertia and voltage stability was demanded by the grid operator, but increasing the cost by about 1 eurocent per kWh.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2025 Iberian Peninsula blackout",
+          "url": "https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Iberia lost 31 gigawatts in seconds.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "One April day, Spain and Portugal's grid collapsed.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Frequency fell below 48.0 hertz in three seconds.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Europe's grid body blamed voltage control, not renewables.",
+          "layer": "INDUSTRY CLAIM",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Afterwards, gas turbines ran more for their inertia and voltage support.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Power was back to 99% of demand by the next morning.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why grids need machines that steady voltage, not just megawatts.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-submarine-cable-protection-zone-is-so-hard-to-replace",
+      "topic": "The Anchor That Cut 75% of a Region's Traffic",
+      "coreQuestion": "How can one dragged anchor cut a region off from the internet?",
+      "openingLine": "Why cable breaks cut 75% of Mideast links.",
+      "secondBeat": "In 2008, cable breaks hit links from the Middle East.",
+      "dependency": "Internet traffic between the Middle East, Asia and Europe depends on a few submarine cable routes.",
+      "mechanism": "Cables lie on the seabed near shore, where anchors and fishing gear can snag them.",
+      "bottleneck": "Many cables share the same narrow routes near landing points.",
+      "failureConsequence": "One incident can cut several cables at once.",
+      "resilience": "Traffic reroutes through other cables, at lower capacity.",
+      "expectedConsequence": "internet slows across whole countries until repairs",
+      "number": "75%",
+      "thumbnailText": "ANCHOR CUTS 75%",
+      "visualScenes": [
+        "ship anchor dragging on the seabed",
+        "cable routes near Alexandria",
+        "traffic map Middle East to Europe",
+        "cable repair ship",
+        "internet speed drop chart",
+        "protection zone chart"
+      ],
+      "editorialTitles": [
+        "How One Anchor Cut the Internet",
+        "Why Cable Protection Zones Matter"
+      ],
+      "facts": [
+        {
+          "claim": "The 2008 submarine cable disruption refers to three separate incidents of major damage to submarine optical communication cables around the world.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 submarine cable disruption",
+          "url": "https://en.wikipedia.org/wiki/2008_submarine_cable_disruption"
+        },
+        {
+          "claim": "The break disrupted 75% of communication between the Middle East and Asia and the rest of the world.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 submarine cable disruption",
+          "url": "https://en.wikipedia.org/wiki/2008_submarine_cable_disruption"
+        },
+        {
+          "claim": "This cut was caused by an abandoned anchor weighing 5-6 tonnes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 submarine cable disruption",
+          "url": "https://en.wikipedia.org/wiki/2008_submarine_cable_disruption"
+        },
+        {
+          "claim": "1.7 million Internet users in the UAE were affected by the Internet disruption.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 submarine cable disruption",
+          "url": "https://en.wikipedia.org/wiki/2008_submarine_cable_disruption"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why cable breaks cut 75% of Mideast links.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2008, cable breaks hit links from the Middle East.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "75% of its communication with the wider world was disrupted.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "One cut came from an abandoned anchor of 5 to 6 tonnes.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "1.7 million internet users in the UAE felt it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Cables crowd into the same shallow routes near shore.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why the internet's weakest point is where cables reach land.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-cable-fault-locating-system",
+      "topic": "The Earthquake That Cut Asia's Internet",
+      "coreQuestion": "How did one earthquake off Taiwan disrupt internet and phone service across Asia?",
+      "openingLine": "Why two earthquakes cut Asia's calls to 40%.",
+      "secondBeat": "In 2006, shocks of 7.0 and 6.9 struck off Taiwan.",
+      "dependency": "Asia's international telecoms depend on submarine cables crossing a seismically active region.",
+      "mechanism": "Earthquake-triggered undersea slides sever cables; repair ships must locate and splice each break.",
+      "bottleneck": "Few repair ships serve the region, and each break takes days to fix.",
+      "failureConsequence": "Several cables failing together cut capacity sharply for weeks.",
+      "resilience": "Traffic reroutes over surviving cables and satellites at reduced capacity.",
+      "expectedConsequence": "calls and internet slow for weeks during repairs",
+      "number": "40% capacity",
+      "thumbnailText": "QUAKE CUTS CABLES",
+      "visualScenes": [
+        "seismic map off southern Taiwan",
+        "undersea slide severing cables",
+        "repair ship grappling a cable",
+        "capacity drop chart",
+        "call centre with failed connections",
+        "cable route map across Asia"
+      ],
+      "editorialTitles": [
+        "The Earthquake That Cut Asia's Internet",
+        "Why Finding a Cable Break Takes So Long"
+      ],
+      "facts": [
+        {
+          "claim": "The International Seismological Centre measured the shocks at 7.0 and 6.9 on the moment magnitude scale.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2006 Hengchun earthquakes",
+          "url": "https://en.wikipedia.org/wiki/2006_Hengchun_earthquakes"
+        },
+        {
+          "claim": "Several submarine communications cables were cut, disrupting telecommunication services in various parts of Asia.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2006 Hengchun earthquakes",
+          "url": "https://en.wikipedia.org/wiki/2006_Hengchun_earthquakes"
+        },
+        {
+          "claim": "The international calling capacity was reduced to 40%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2006 Hengchun earthquakes",
+          "url": "https://en.wikipedia.org/wiki/2006_Hengchun_earthquakes"
+        },
+        {
+          "claim": "It was estimated that the first part of the repair of one of the submarine cables would be completed around 16 January 2007.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2006 Hengchun earthquakes",
+          "url": "https://en.wikipedia.org/wiki/2006_Hengchun_earthquakes"
+        },
+        {
+          "claim": "Internet services had resumed to 70% of normal levels.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2006 Hengchun earthquakes",
+          "url": "https://en.wikipedia.org/wiki/2006_Hengchun_earthquakes"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why two earthquakes cut Asia's calls to 40%.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2006, shocks of 7.0 and 6.9 struck off Taiwan.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Several submarine cables were cut at once.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "International calling capacity fell to 40%.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Repair ships had to find and splice each break.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "The first repairs weren't expected until mid-January 2007.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why cable resilience depends on the repair fleet.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-maritime-distress-satellite-link",
+      "topic": "The Satellite System That Rescued 63,745 People",
+      "coreQuestion": "How does a distress beacon at sea reach rescuers anywhere on Earth?",
+      "openingLine": "Why 63,745 people owe their rescue to satellites.",
+      "secondBeat": "Cospas-Sarsat has relayed distress alerts since 1982.",
+      "dependency": "Ships, aircraft and hikers depend on satellite detection of 406 MHz distress beacons.",
+      "mechanism": "Satellites detect beacon signals, locate them and forward alerts to rescue centres.",
+      "bottleneck": "Only 406 MHz digital beacons are monitored by satellite.",
+      "failureConsequence": "Old 121.5 MHz beacons rely on nearby aircraft and can go unheard.",
+      "resilience": "Multiple satellite constellations carry the search-and-rescue payload.",
+      "expectedConsequence": "rescues slow when beacons can't be detected",
+      "number": "63,745 people",
+      "thumbnailText": "63,745 RESCUED",
+      "visualScenes": [
+        "distress beacon activating on a life raft",
+        "satellite detecting a signal",
+        "rescue coordination centre",
+        "helicopter rescue at sea",
+        "406 versus 121.5 MHz comparison",
+        "global coverage map"
+      ],
+      "editorialTitles": [
+        "The Satellites That Hear a Call for Help",
+        "How Cospas-Sarsat Rescued Thousands"
+      ],
+      "facts": [
+        {
+          "claim": "Between September 1982 and December 2023 the Cospas-Sarsat System provided assistance in rescuing at least 63,745 people in 19,883 SAR events.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cospas-Sarsat",
+          "url": "https://en.wikipedia.org/wiki/Cospas-Sarsat"
+        },
+        {
+          "claim": "Distress alerts are detected, located and forwarded to over 200 countries and territories at no cost to beacon owners or the receiving government agencies.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cospas-Sarsat",
+          "url": "https://en.wikipedia.org/wiki/Cospas-Sarsat"
+        },
+        {
+          "claim": "Cospas-Sarsat only monitors for alerts from digital distress beacons that transmit on 406 MHz.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cospas-Sarsat",
+          "url": "https://en.wikipedia.org/wiki/Cospas-Sarsat"
+        },
+        {
+          "claim": "Older beacons that transmit using the legacy analog signal on 121.5 MHz or 243 MHz rely on being received only by nearby aircraft or rescue personnel.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cospas-Sarsat",
+          "url": "https://en.wikipedia.org/wiki/Cospas-Sarsat"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 63,745 people owe their rescue to satellites.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Cospas-Sarsat has relayed distress alerts since 1982.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Alerts go to over 200 countries and territories, free.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Satellites only listen for 406-megahertz digital beacons.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Old 121.5-megahertz beacons rely on a nearby plane hearing them.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's 19,883 search-and-rescue events so far.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why a beacon's frequency can decide whether help comes.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-road-tunnel-ventilation-system",
+      "topic": "The Tunnel Fire That Closed the Alps for 3 Years",
+      "coreQuestion": "How did one truck fire close a key Alpine tunnel for three years?",
+      "openingLine": "A truck fire shut Mont Blanc until 2002.",
+      "secondBeat": "The 1999 blaze started in a single truck.",
+      "dependency": "Road freight between France and Italy depends on the Mont Blanc Tunnel.",
+      "mechanism": "Ventilation and fire systems must clear smoke and heat fast in a long, single-bore tunnel.",
+      "bottleneck": "A single tube with split management left little margin in a fire.",
+      "failureConsequence": "Smoke and heat trapped drivers; the tunnel stayed shut for years.",
+      "resilience": "Unified management, shelters and truck spacing rules followed.",
+      "expectedConsequence": "freight detours across other Alpine routes",
+      "number": "39 deaths",
+      "thumbnailText": "TUNNEL FIRE",
+      "visualScenes": [
+        "tunnel portal under Mont Blanc",
+        "truck fire inside a tunnel",
+        "smoke flow diagram",
+        "closed tunnel sign",
+        "new safety shelters",
+        "Alpine detour route map"
+      ],
+      "editorialTitles": [
+        "The Fire That Closed the Mont Blanc Tunnel",
+        "Why Tunnel Ventilation Is Life or Death"
+      ],
+      "facts": [
+        {
+          "claim": "On the morning of 24 March 1999, the engine of a Belgian transport truck carrying volatile freight caught fire in the tunnel.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Mont Blanc Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Mont_Blanc_Tunnel"
+        },
+        {
+          "claim": "The event expanded into a catastrophe which killed 39 people.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Mont Blanc Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Mont_Blanc_Tunnel"
+        },
+        {
+          "claim": "The fire led to a tunnel closure until 9 March 2002.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Mont Blanc Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Mont_Blanc_Tunnel"
+        },
+        {
+          "claim": "It reduces the route from France to Turin by 50 kilometres (30 miles) and to Milan by 100 km (60 mi).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Mont Blanc Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Mont_Blanc_Tunnel"
+        },
+        {
+          "claim": "The tunnel is 11.611 km (7.215 mi) in length, 8.6 m (28 ft) in width, and 4.35 m (14.3 ft) in height.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Mont Blanc Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Mont_Blanc_Tunnel"
+        },
+        {
+          "claim": "Within the tunnel, a minimum speed of 50 km/h and a maximum speed of 70 km/h applies, while the prescribed distance between vehicles is 150 m.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Mont Blanc Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Mont_Blanc_Tunnel"
+        }
+      ],
+      "narration": [
+        {
+          "text": "A truck fire shut Mont Blanc until 2002.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The 1999 blaze started in a single truck.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "39 people died.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The tunnel stayed closed until March 2002.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "It's 11.611 kilometres long, in a single tube.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It cuts the drive from France to Milan by 100 kilometres.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Vehicles must now keep 150 metres apart.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why a tunnel's ventilation matters as much as its length.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-chlorine-dosing-system",
+      "topic": "The Dose That Ended Typhoid in Tap Water",
+      "coreQuestion": "How did adding a trace of chlorine transform public health?",
+      "openingLine": "Why 0.2 parts per million changed public health.",
+      "secondBeat": "That's roughly the chlorine dose early systems used.",
+      "dependency": "Safe drinking water depends on continuous disinfection at treatment plants.",
+      "mechanism": "Small, controlled chlorine doses kill pathogens that cause cholera, dysentery and typhoid.",
+      "bottleneck": "Dosing must be continuous and correctly calibrated.",
+      "failureConsequence": "If dosing lapses, waterborne disease can return quickly.",
+      "resilience": "Monitoring, backup dosing and alternative disinfectants add layers.",
+      "expectedConsequence": "boil-water notices follow any dosing failure",
+      "number": "0.2–0.35 ppm",
+      "thumbnailText": "0.2 PPM",
+      "visualScenes": [
+        "chlorine dosing pump",
+        "typhoid ward historical photo",
+        "Boonton Reservoir",
+        "dose-response diagram",
+        "water treatment plant",
+        "tap water glass"
+      ],
+      "editorialTitles": [
+        "The Tiny Dose That Made Tap Water Safe",
+        "Why Chlorination Changed Public Health"
+      ],
+      "facts": [
+        {
+          "claim": "Permanent water chlorination began in 1905, when a faulty slow sand filter and a contaminated water supply caused a serious typhoid fever epidemic in Lincoln, England.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Water chlorination",
+          "url": "https://en.wikipedia.org/wiki/Water_chlorination"
+        },
+        {
+          "claim": "The first continuous use of chlorine in the United States for disinfection took place in 1908 at Boonton Reservoir, which served as the supply for Jersey City, New Jersey.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Water chlorination",
+          "url": "https://en.wikipedia.org/wiki/Water_chlorination"
+        },
+        {
+          "claim": "Chlorination was achieved by controlled additions of dilute solutions of chloride of lime (calcium hypochlorite) at doses of 0.2 to 0.35 ppm.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Water chlorination",
+          "url": "https://en.wikipedia.org/wiki/Water_chlorination"
+        },
+        {
+          "claim": "In a paper published in 1894, it was formally proposed to add chlorine to water to render it germ-free.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Water chlorination",
+          "url": "https://en.wikipedia.org/wiki/Water_chlorination"
+        },
+        {
+          "claim": "Chlorination is used to prevent the spread of waterborne diseases such as cholera, dysentery, and typhoid.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Water chlorination",
+          "url": "https://en.wikipedia.org/wiki/Water_chlorination"
+        },
+        {
+          "claim": "In 1897, the town of Maidstone, England, was the first to have its entire water supply treated with chlorine.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Water chlorination",
+          "url": "https://en.wikipedia.org/wiki/Water_chlorination"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 0.2 parts per million changed public health.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's roughly the chlorine dose early systems used.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "In 1897, Maidstone treated its whole supply.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Chlorine was first proposed for drinking water in 1894.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "In 1905, a typhoid outbreak made Lincoln chlorinate permanently.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "By 1908, Jersey City had continuous disinfection.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "If dosing stops, waterborne disease can return fast.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a small pump is one of medicine's biggest wins.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-aseptic-filling-machine-becomes-the-bottleneck",
+      "topic": "The Carton That Lets Milk Skip the Fridge",
+      "coreQuestion": "How can milk sit on a shelf for months without refrigeration?",
+      "openingLine": "Why 1 sterile machine replaced the milk fridge.",
+      "secondBeat": "Aseptic packaging removed the need for a cold chain.",
+      "dependency": "Shelf-stable milk and juice depend on aseptic filling of sterile product into sterile cartons.",
+      "mechanism": "Product and packaging are sterilised separately, then filled and sealed in a sterile zone.",
+      "bottleneck": "A few specialised machine makers supply most aseptic filling lines.",
+      "failureConsequence": "A contaminated or stopped line halts shelf-stable output.",
+      "resilience": "Chilled distribution can replace some volume, at higher cost.",
+      "expectedConsequence": "shelf-stable supply tightens and cold-chain costs rise",
+      "number": "1961",
+      "thumbnailText": "FRIDGE-FREE MILK",
+      "visualScenes": [
+        "aseptic carton filling line",
+        "sterile zone diagram",
+        "cartons on an unrefrigerated shelf",
+        "1952 tetrahedron package",
+        "cold chain versus aseptic comparison",
+        "distribution truck in a hot region"
+      ],
+      "editorialTitles": [
+        "How Milk Survives Without a Fridge",
+        "The Machine That Replaced the Cold Chain"
+      ],
+      "facts": [
+        {
+          "claim": "In the 1960s and 1970s, the development of the Tetra Brik package and the aseptic packaging technology made supply possible without the need for a cold chain.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tetra Pak",
+          "url": "https://en.wikipedia.org/wiki/Tetra_Pak"
+        },
+        {
+          "claim": "In 1952, the first filling machine producing 100 ml cream tetrahedrons was delivered to a local dairy.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tetra Pak",
+          "url": "https://en.wikipedia.org/wiki/Tetra_Pak"
+        },
+        {
+          "claim": "In 1954, the first machine producing 500 ml milk packages was sold to a Stockholm dairy.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tetra Pak",
+          "url": "https://en.wikipedia.org/wiki/Tetra_Pak"
+        },
+        {
+          "claim": "Tetra Pak's commercial breakthrough arrived in the mid-1960s with the Tetra Brik package, introduced in 1963, and the development of the aseptic technology.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tetra Pak",
+          "url": "https://en.wikipedia.org/wiki/Tetra_Pak"
+        },
+        {
+          "claim": "In 1964, the first Tetra Classic Aseptic machine outside of Europe was installed in Lebanon.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Tetra Pak",
+          "url": "https://en.wikipedia.org/wiki/Tetra_Pak"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 1 sterile machine replaced the milk fridge.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Aseptic packaging removed the need for a cold chain.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Product and carton are sterilised, then sealed together.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The first filling machine, in 1952, made 100 ml cream packs.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The Tetra Brik arrived in 1963.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "If a sterile line fails, shelf-stable output stops.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a filling machine can replace a refrigerator.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-crop-disease-surveillance-network",
+      "topic": "The Wheat Fungus That Spread Across 3 Continents",
+      "coreQuestion": "How did one wheat fungus spread from Uganda to Iran, and why does surveillance matter?",
+      "openingLine": "Why one fungus can destroy 100% of wheat.",
+      "secondBeat": "Ug99 stem rust was found in Uganda in 1999.",
+      "dependency": "Wheat harvests depend on surveillance that spots new rust strains before they spread.",
+      "mechanism": "Fungal spores travel on wind; surveillance networks track new races and guide resistant varieties.",
+      "bottleneck": "Ug99 overcame resistance genes that had protected wheat for decades.",
+      "failureConsequence": "Without early detection, susceptible wheat can lose up to 100% of its crop.",
+      "resilience": "Breeders deploy new resistance genes, guided by surveillance data.",
+      "expectedConsequence": "wheat losses spread before resistant seed can be planted",
+      "number": "100% losses",
+      "thumbnailText": "WHEAT KILLER",
+      "visualScenes": [
+        "rust-infected wheat stem",
+        "spore spread map from Uganda",
+        "resistance gene diagram",
+        "field survey team",
+        "resistant versus susceptible plots",
+        "timeline 1999 to 2014"
+      ],
+      "editorialTitles": [
+        "The Fungus That Threatens the World's Wheat",
+        "Why Crop Disease Surveillance Matters"
+      ],
+      "facts": [
+        {
+          "claim": "Ug99 can cause up to 100% crop losses and is virulent against many resistance genes which have previously protected wheat against stem rust.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ug99",
+          "url": "https://en.wikipedia.org/wiki/Ug99"
+        },
+        {
+          "claim": "It was found in Uganda in 1999, Kenya in 2001, Ethiopia in 2003, Sudan and Yemen in 2006, Iran in 2007, and Tanzania in 2009, Eritrea in 2012, and Rwanda and Egypt in 2014.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ug99",
+          "url": "https://en.wikipedia.org/wiki/Ug99"
+        },
+        {
+          "claim": "These resistant Sr genes, of which 50 are known, give wheat different resistances to stem rust.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ug99",
+          "url": "https://en.wikipedia.org/wiki/Ug99"
+        },
+        {
+          "claim": "Like most Ug99 races, and unlike other stem rust varieties, it is virulent against the Sr gene Sr31.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ug99",
+          "url": "https://en.wikipedia.org/wiki/Ug99"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one fungus can destroy 100% of wheat.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Ug99 stem rust was found in Uganda in 1999.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "By 2007, it had spread as far as Iran.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "It beat resistance genes that had protected wheat for decades.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "About 50 resistance genes are known.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Surveillance tells breeders which ones still work.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why bread depends on people tracking spores.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-pollination-service-fleet-becomes-the-bottleneck",
+      "topic": "The 1 Million Beehives Trucked to California",
+      "coreQuestion": "Why do beekeepers from almost every U.S. state truck their hives to California each spring?",
+      "openingLine": "Why 1 million beehives travel to California.",
+      "secondBeat": "It's the world's largest managed pollination event.",
+      "dependency": "California's almond crop depends on hives trucked in by migratory beekeepers.",
+      "mechanism": "Pollination brokers contract hives from across the country for a few weeks of bloom.",
+      "bottleneck": "Nearly half of U.S. hives must be in one valley at once.",
+      "failureConsequence": "Colony losses or transport disruption would cut almond yields.",
+      "resilience": "Self-pollinating varieties reduce dependence on bees.",
+      "expectedConsequence": "almond prices rise when hives run short",
+      "number": "1 million hives",
+      "thumbnailText": "1 MILLION HIVES",
+      "visualScenes": [
+        "trucks loaded with beehives at night",
+        "almond orchard in bloom",
+        "bee on almond blossom",
+        "map of hives converging on California",
+        "global almond supply share chart",
+        "broker contract graphic"
+      ],
+      "editorialTitles": [
+        "The Biggest Pollination Event on Earth",
+        "Why Almonds Depend on Trucked-In Bees"
+      ],
+      "facts": [
+        {
+          "claim": "The pollination of California's almonds is the largest annual managed pollination event in the world, with over 1 million hives (nearly half of all beehives in the U.S.) being brought to the almond groves.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Almond",
+          "url": "https://en.wikipedia.org/wiki/Almond"
+        },
+        {
+          "claim": "California produces about 80% of the world's almond supply.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Almond",
+          "url": "https://en.wikipedia.org/wiki/Almond"
+        },
+        {
+          "claim": "Much of the supply of bees is managed by pollination brokers, who contract with migratory beekeepers from at least 49 states for the event.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Almond",
+          "url": "https://en.wikipedia.org/wiki/Almond"
+        },
+        {
+          "claim": "Due to high acreage and water demand for almond cultivation, and need for pesticides, California almond production may be unsustainable.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Almond",
+          "url": "https://en.wikipedia.org/wiki/Almond"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 1 million beehives travel to California.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It's the world's largest managed pollination event.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That's nearly half of all beehives in the U.S.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "California grows about 80% of the world's almonds.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Brokers bring in beekeepers from at least 49 states.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "A bad year for bees means a bad year for almonds.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a nut harvest depends on trucks full of bees.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-programmable-logic-controller-becomes-the-bottleneck",
+      "topic": "The Worm That Broke 1,000 Machines",
+      "coreQuestion": "How did a computer worm physically damage industrial machines?",
+      "openingLine": "Why one worm broke 1,000 machines.",
+      "secondBeat": "Stuxnet surfaced in 2010 after years of development.",
+      "dependency": "Factories, pipelines and power plants depend on programmable logic controllers to run physical equipment.",
+      "mechanism": "PLCs execute control logic; if their programming is subverted, machines can be driven to damage themselves.",
+      "bottleneck": "PLC programming tools run on ordinary PCs that malware can reach.",
+      "failureConsequence": "Compromised controllers can wreck equipment while reporting normal operation.",
+      "resilience": "Network segmentation and code signing make PLC tampering harder.",
+      "expectedConsequence": "physical damage hidden behind normal-looking readouts",
+      "number": "1,000 machines",
+      "thumbnailText": "CODE BREAKS METAL",
+      "visualScenes": [
+        "industrial PLC cabinet",
+        "worm spreading via USB drive",
+        "Step 7 software screen",
+        "centrifuge hall",
+        "fake normal readings diagram",
+        "network segmentation diagram"
+      ],
+      "editorialTitles": [
+        "The Worm That Broke Machines",
+        "Why PLCs Are Cyber Targets"
+      ],
+      "facts": [
+        {
+          "claim": "Stuxnet is a malicious computer worm first uncovered on 17 June 2010 and thought to have been in development since at least 2005.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Stuxnet",
+          "url": "https://en.wikipedia.org/wiki/Stuxnet"
+        },
+        {
+          "claim": "Targeting industrial control systems, the worm infected over 200,000 computers and caused 1,000 machines to physically degrade.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Stuxnet",
+          "url": "https://en.wikipedia.org/wiki/Stuxnet"
+        },
+        {
+          "claim": "Exploiting four zero-day flaws in the systems, Stuxnet functions by targeting machines using the Microsoft Windows operating system and networks, then seeking out Siemens Step7 software.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Stuxnet",
+          "url": "https://en.wikipedia.org/wiki/Stuxnet"
+        },
+        {
+          "claim": "Stuxnet infects PLCs by subverting the Step-7 software application that is used to reprogram these devices.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Stuxnet",
+          "url": "https://en.wikipedia.org/wiki/Stuxnet"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one worm broke 1,000 machines.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Stuxnet surfaced in 2010 after years of development.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It infected over 200,000 computers.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It used four zero-day flaws to reach Siemens Step 7 software.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "It reached them through ordinary Windows PCs.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Then it reprogrammed the controllers running physical machines.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The machines degraded while operators saw little wrong.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why factory controllers are now security targets.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-public-key-certificate-standard-becomes-the-bottleneck",
+      "topic": "The Certificate Authority That Collapsed in Months",
+      "coreQuestion": "What happens when a company that vouches for websites gets hacked?",
+      "openingLine": "Why 500 fake certificates killed a company.",
+      "secondBeat": "DigiNotar vouched for websites from 1998.",
+      "dependency": "Secure web connections depend on certificate authorities that browsers trust.",
+      "mechanism": "Browsers trust certificates signed by approved authorities; a compromised authority can sign fakes.",
+      "bottleneck": "One compromised authority can vouch for any website.",
+      "failureConsequence": "Fake certificates enable man-in-the-middle attacks on users.",
+      "resilience": "Browsers can distrust an authority entirely; certificate logs now detect fakes.",
+      "expectedConsequence": "the authority's certificates are revoked and the company fails",
+      "number": "500+ fake certificates",
+      "thumbnailText": "500 FAKE CERTIFICATES",
+      "visualScenes": [
+        "browser padlock icon",
+        "certificate chain diagram",
+        "fake certificate intercepting traffic",
+        "browser blacklist update",
+        "company bankruptcy notice",
+        "certificate transparency log"
+      ],
+      "editorialTitles": [
+        "The Hack That Broke Web Trust",
+        "Why One Certificate Authority Can Endanger Millions"
+      ],
+      "facts": [
+        {
+          "claim": "DigiNotar BV was a Dutch certificate authority from 1998 to 2011.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — DigiNotar",
+          "url": "https://en.wikipedia.org/wiki/DigiNotar"
+        },
+        {
+          "claim": "The company was hacked in June 2011 and it issued hundreds of fraudulent certificates, some of which were used for man-in-the-middle attacks on Iranian Gmail users.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — DigiNotar",
+          "url": "https://en.wikipedia.org/wiki/DigiNotar"
+        },
+        {
+          "claim": "After more than 500 fake DigiNotar certificates were found, major web browser makers reacted by blacklisting all DigiNotar certificates.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — DigiNotar",
+          "url": "https://en.wikipedia.org/wiki/DigiNotar"
+        },
+        {
+          "claim": "On 10 January 2011 the company was sold to VASCO Data Security International.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — DigiNotar",
+          "url": "https://en.wikipedia.org/wiki/DigiNotar"
+        },
+        {
+          "claim": "It was acquired in January 2011 by VASCO and subsequently declared bankrupt in September of the same year.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — DigiNotar",
+          "url": "https://en.wikipedia.org/wiki/DigiNotar"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 500 fake certificates killed a company.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "DigiNotar vouched for websites from 1998.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Browsers trust any certificate a trusted authority signs.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "In June 2011, it was hacked.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Fake certificates were used to spy on Iranian Gmail users.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Browsers then blacklisted every DigiNotar certificate.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "By September 2011, the company was bankrupt.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why web trust rests on a few signing keys.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-pharmaceutical-active-ingredient-plant",
+      "topic": "The Contaminated Ingredient That Killed 81 People",
+      "coreQuestion": "How did a contaminated drug ingredient from overseas kill patients in U.S. hospitals?",
+      "openingLine": "Why one contaminated ingredient killed 81 people.",
+      "secondBeat": "In 2008, adulterated heparin reached U.S. patients.",
+      "dependency": "Finished medicines depend on active ingredients often made by distant suppliers.",
+      "mechanism": "Ingredient makers must qualify their own suppliers; contamination upstream passes into finished drugs.",
+      "bottleneck": "Long supply chains make it hard to verify every upstream source.",
+      "failureConsequence": "An adulterated ingredient reaches patients as a trusted brand-name drug.",
+      "resilience": "Supplier audits, testing and international guidelines tighten oversight.",
+      "expectedConsequence": "recalls and shortages follow contamination",
+      "number": "81 deaths",
+      "thumbnailText": "POISONED SUPPLY CHAIN",
+      "visualScenes": [
+        "heparin vials",
+        "supply chain map from raw material to hospital",
+        "laboratory testing a sample",
+        "recall notice",
+        "audit checklist",
+        "hospital pharmacy shelf"
+      ],
+      "editorialTitles": [
+        "The Drug Ingredient That Poisoned a Supply Chain",
+        "Why Medicine Depends on Distant Suppliers"
+      ],
+      "facts": [
+        {
+          "claim": "2008 Chinese heparin adulteration refers to heparin adulteration incidents that occurred in the United States of America in 2008.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 Chinese heparin adulteration",
+          "url": "https://en.wikipedia.org/wiki/2008_Chinese_heparin_adulteration"
+        },
+        {
+          "claim": "Baxter then sold this adulterated heparin in the US, which killed 81 people, and left 785 severely injured.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 Chinese heparin adulteration",
+          "url": "https://en.wikipedia.org/wiki/2008_Chinese_heparin_adulteration"
+        },
+        {
+          "claim": "According to the internationally harmonized guideline, ICH Q7, API manufacturers are fully responsible for qualifying their suppliers through on-site audits, testing, and regular communications.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 Chinese heparin adulteration",
+          "url": "https://en.wikipedia.org/wiki/2008_Chinese_heparin_adulteration"
+        },
+        {
+          "claim": "The heparin incidents occurred in 2008.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2008 Chinese heparin adulteration",
+          "url": "https://en.wikipedia.org/wiki/2008_Chinese_heparin_adulteration"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one contaminated ingredient killed 81 people.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2008, adulterated heparin reached U.S. patients.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It also left 785 people severely injured.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The ingredient passed through a long supply chain first.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Guidelines now make ingredient makers audit their suppliers.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "One bad source upstream can reach every hospital downstream.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why drug safety starts far before the pharmacy.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-global-aeronautical-messaging-network",
+      "topic": "The Outage That Grounded Every U.S. Departure",
+      "coreQuestion": "How did one failed notice system ground every departure in the U.S.?",
+      "openingLine": "Why one outage stopped every U.S. departure.",
+      "secondBeat": "In January 2023, the FAA's NOTAM system went offline.",
+      "dependency": "Pilots depend on NOTAMs, notices about runway closures and hazards, before every flight.",
+      "mechanism": "The NOTAM system distributes safety notices that crews must review before departure.",
+      "bottleneck": "One central system feeds notices to all flights.",
+      "failureConsequence": "When it went offline, the FAA paused all domestic departures.",
+      "resilience": "Backup systems and manual procedures restored service within hours.",
+      "expectedConsequence": "a nationwide ground stop and a day of delays",
+      "number": "first since 2001",
+      "thumbnailText": "NATIONWIDE GROUND STOP",
+      "visualScenes": [
+        "departure board full of delays",
+        "pilot reviewing NOTAMs",
+        "FAA command centre",
+        "grounded aircraft at gates",
+        "timeline of the outage",
+        "backup system diagram"
+      ],
+      "editorialTitles": [
+        "The Notice System That Grounded America",
+        "Why One FAA Outage Stopped Every Flight"
+      ],
+      "facts": [
+        {
+          "claim": "On January 11, the FAA ordered airlines to pause all domestic departures after its pilot-alerting Notice to Air Missions (NOTAM) system went offline overnight, causing extensive disruption.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2023 FAA system outage",
+          "url": "https://en.wikipedia.org/wiki/2023_FAA_system_outage"
+        },
+        {
+          "claim": "The outage was the first time since September 11, 2001, that the FAA issued a nationwide ground stop in the United States.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2023 FAA system outage",
+          "url": "https://en.wikipedia.org/wiki/2023_FAA_system_outage"
+        },
+        {
+          "claim": "Flights were beginning to resume departures after the FAA terminated the NOTAM outage advisory, and departures at other airports were expected to resume by 9 am.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2023 FAA system outage",
+          "url": "https://en.wikipedia.org/wiki/2023_FAA_system_outage"
+        },
+        {
+          "claim": "Southwest Airlines was down 2.4%, while Delta Air Lines, United Airlines and American Airlines were down about 1%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2023 FAA system outage",
+          "url": "https://en.wikipedia.org/wiki/2023_FAA_system_outage"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one outage stopped every U.S. departure.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In January 2023, the FAA's NOTAM system went offline.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "NOTAMs warn pilots about closed runways and hazards.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The FAA paused all domestic departures.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "It was the first nationwide ground stop since 2001.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Flights began resuming later that morning.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "One central notice system fed every flight.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why aviation safety depends on unglamorous databases.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-eloran-terrestrial-timing-system-becomes-the-bottleneck",
+      "topic": "The Radio Backup to GPS That Was Switched Off",
+      "coreQuestion": "Why did the U.S. turn off its radio navigation backup, and why do people want it back?",
+      "openingLine": "Why America switched off its GPS backup.",
+      "secondBeat": "Loran-C's U.S. stations went dark in 2010.",
+      "dependency": "Navigation and timing users depend on GPS, with few terrestrial backups.",
+      "mechanism": "Loran stations broadcast powerful low-frequency pulses that receivers time to fix position.",
+      "bottleneck": "Once shut down, the network can't simply be switched back on.",
+      "failureConsequence": "Without a terrestrial backup, GPS jamming leaves users with fewer options.",
+      "resilience": "Proposals for eLoran would restore a hard-to-jam timing signal.",
+      "expectedConsequence": "GPS outages bite harder without a fallback",
+      "number": "90–100 kHz",
+      "thumbnailText": "GPS BACKUP OFF",
+      "visualScenes": [
+        "tall Loran transmitter mast",
+        "low-frequency pulse diagram",
+        "map of former Loran chains",
+        "GPS jamming illustration",
+        "eLoran receiver chip",
+        "shutdown timeline 2010 to 2015"
+      ],
+      "editorialTitles": [
+        "The GPS Backup America Switched Off",
+        "Why eLoran Keeps Coming Back"
+      ],
+      "facts": [
+        {
+          "claim": "In 2010, the US and Canadian systems were shut down, along with Loran-C/CHAYKA stations that were shared with Russia.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Loran-C",
+          "url": "https://en.wikipedia.org/wiki/Loran-C"
+        },
+        {
+          "claim": "At the end of 2015, navigation chains in most of Europe were turned off.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Loran-C",
+          "url": "https://en.wikipedia.org/wiki/Loran-C"
+        },
+        {
+          "claim": "This process eventually settled on the band from 90 to 100 kHz.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Loran-C",
+          "url": "https://en.wikipedia.org/wiki/Loran-C"
+        },
+        {
+          "claim": "In December 2015 there was renewed discussion of funding an eLoran system, and NIST offered to fund development of a microchip-sized eLoran receiver for distribution of timing signals.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Loran-C",
+          "url": "https://en.wikipedia.org/wiki/Loran-C"
+        },
+        {
+          "claim": "Loran-C was used primarily by militaries after it was introduced in 1957.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Loran-C",
+          "url": "https://en.wikipedia.org/wiki/Loran-C"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why America switched off its GPS backup.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Loran-C's U.S. stations went dark in 2010.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It used the band from 90 to 100 kilohertz.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Most European chains went dark at the end of 2015.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That same year, talk of a modern eLoran revived.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Towers torn down can't be switched back on.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why GPS's biggest weakness is having no understudy.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    }
+  ]
+}

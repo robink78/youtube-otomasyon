@@ -1,0 +1,92 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why Concrete Buildings Rot From the Inside",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "The cancer inside the walls",
+  "soru": "Trust old concrete?",
+  "arama_yedek": "concrete building old",
+  "aciklama": "Concrete looks like it lasts forever, but a hidden reaction rots it from within. Here is concrete cancer.\n\n#shorts #engineering #science #construction #howitworks",
+  "etiketler": [
+    "concrete",
+    "construction",
+    "engineering",
+    "decay",
+    "science"
+  ],
+  "sahneler": [
+    {
+      "metin": "Concrete looks like it lasts forever. It does not.",
+      "arama": "crumbling concrete"
+    },
+    {
+      "metin": "Chunks can suddenly break off bridges and balconies.",
+      "arama": "damaged concrete"
+    },
+    {
+      "metin": "The cause is hidden inside: the steel bars that make it strong.",
+      "arama": "rebar concrete"
+    },
+    {
+      "metin": "If water and salt reach that steel, it starts to rust.",
+      "arama": "cracked concrete wall"
+    },
+    {
+      "metin": "Rusting steel swells and pushes the concrete apart from inside.",
+      "arama": "concrete crack"
+    },
+    {
+      "metin": "Engineers call it concrete cancer, and it spreads silently.",
+      "arama": "old concrete building"
+    },
+    {
+      "metin": "A pillar can look fine while rotting hollow within.",
+      "arama": "concrete pillar"
+    },
+    {
+      "metin": "That is why aging bridges must be watched closely.",
+      "arama": "concrete bridge"
+    }
+  ],
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "mekanizma",
+    "ad": "Concrete",
+    "nesne": "Concrete",
+    "sonuc": "rots from the inside",
+    "tetik": "water and salt reaching the steel",
+    "mekanizma": "rebar corrosion (concrete cancer)",
+    "sayi": "ROTTING INSIDE",
+    "ders": "aging structures need regular inspection",
+    "zincir": [
+      "WATER + SALT PENETRATE",
+      "REBAR CORRODES",
+      "RUST EXPANDS",
+      "CONCRETE CRACKS & SPALLS",
+      "MORE STEEL EXPOSED"
+    ],
+    "yanilgi": "Concrete itself rarely wears out — the steel inside rusts and expands, cracking the concrete from within.",
+    "tartisma": "Surfside in 2021 showed how long-reported damage can go unrepaired. How often should older buildings be inspected?",
+    "basliklar": [
+      "Why Concrete Rots From the Inside",
+      "The Rust Hidden Inside Concrete",
+      "Concrete Cancer: The Silent Threat in Old Buildings"
+    ],
+    "kapak": [
+      "ROTTING INSIDE",
+      "CONCRETE CANCER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Concrete degradation",
+        "url": "https://en.wikipedia.org/wiki/Concrete_degradation"
+      },
+      {
+        "ad": "Wikipedia — Surfside condominium collapse",
+        "url": "https://en.wikipedia.org/wiki/Surfside_condominium_collapse"
+      }
+    ]
+  }
+}

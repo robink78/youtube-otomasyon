@@ -1,0 +1,79 @@
+{
+  "_comment": "Failure Reconstructed growth & quality settings. Missing keys fall back to lib/ayar.js defaults. No secrets here — secrets live in .env.",
+  "brand": {
+    "name": "Failure Reconstructed",
+    "tagline": "Forensic Engineering Documentaries",
+    "handle": "@FailureReconstructed"
+  },
+  "ctaStrategy": "adaptive",
+  "disclosure": {
+    "enabled": true,
+    "label": "AI RECONSTRUCTION",
+    "labelDiagrams": false,
+    "descriptionNote": true,
+    "voiceNote": "Narration uses a synthetic voice. Footage is real archival film or licensed stock; anything reconstructed is labelled on screen."
+  },
+  "qualityGate": {
+    "publish": 85,
+    "review": 70,
+    "weights": {
+      "title": 1,
+      "thumbnail": 0.8,
+      "hook": 1.2,
+      "script": 1.2,
+      "originality": 1.2,
+      "visual": 1,
+      "engineering": 1.1,
+      "source": 1,
+      "audio": 0.8
+    },
+    "hardBlocks": {
+      "originality": 40,
+      "source": 40,
+      "audio": 30
+    },
+    "blockOnReview": false
+  },
+  "publishing": {
+    "short": {
+      "everyDays": 1,
+      "maxStretchDays": 3
+    },
+    "long": {
+      "everyDays": 7,
+      "maxStretchDays": 14
+    },
+    "stretchWhenRecentBlocks": 2,
+    "stretchOnReview": false,
+    "schedule": {
+      "_comment": "Fallback only: channels set publishTime 18:00 in publishTimeZone America/New_York (US evening; audience ~93% US, analytics 2026-09-25), which core/scheduling/calendar.js converts with DST. hourUTC approximates it for legacy helpers. Only PUBLISH is uploadable and scheduled; REVIEW/BLOCK never leave the runner.",
+      "enabled": true,
+      "hourUTC": 22,
+      "minLeadHours": 1,
+      "gates": [
+        "PUBLISH"
+      ]
+    }
+  },
+  "clusters": {
+    "minVideosForPlaylist": 3
+  },
+  "pinnedComment": {
+    "post": true
+  },
+  "analytics": {
+    "checkpoints": [
+      1,
+      3,
+      7,
+      14,
+      30
+    ],
+    "minSampleForInsight": 5,
+    "minViewsForRates": 100
+  },
+  "renk": {
+    "_comment": "Channel colour grade for modern stock footage ('strong documentary', chosen 2026-09-25): colour halved, cooler steel shadows, slightly lifted blacks and softened highlights, so stock sits with the archival films while staying clearly colour (never faked as B&W archive). Archival film is untouched. Empty string disables it.",
+    "stok": "eq=saturation=0.5:contrast=1.12:brightness=-0.04:gamma=0.95,colorbalance=rs=-0.06:gs=-0.01:bs=0.07:rm=-0.03:bm=0.03:rh=-0.02:bh=0.02,curves=all='0/0.03 0.5/0.47 1/0.95'"
+  }
+}

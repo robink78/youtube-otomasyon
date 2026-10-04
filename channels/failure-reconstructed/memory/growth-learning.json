@@ -1,0 +1,94 @@
+{
+  "channel": "failure-reconstructed",
+  "updatedAt": "2026-10-04T18:12:24.913Z",
+  "caveat": "Associations within this channel only. Topic, timing and packaging confound each other; adopted learning nudges heuristics, it never proves causation.",
+  "shorts": {
+    "sampleSize": 13,
+    "status": "adaptive",
+    "baselines": {
+      "views": 1033,
+      "averagePercentageViewed": 70.38,
+      "subscribersPer1000Views": 2.13,
+      "watchHoursPer1000Views": 3.03,
+      "engagementPer1000Views": 32.93
+    },
+    "observations": [
+      {
+        "stage": "OBSERVATION",
+        "dimension": "topicCluster",
+        "value": "natural-hazards",
+        "sample": 3,
+        "lift": -0.16,
+        "z": -0.38
+      },
+      {
+        "stage": "OBSERVATION",
+        "dimension": "durationBucket",
+        "value": "18-25s",
+        "sample": 3,
+        "lift": 0.001,
+        "z": 0
+      },
+      {
+        "stage": "OBSERVATION",
+        "dimension": "storyStructure",
+        "value": "CONSEQUENCE>FAILURE>CAUSE>ESCALATION>ENGINEERING_REVEAL",
+        "sample": 3,
+        "lift": 0.001,
+        "z": 0
+      },
+      {
+        "stage": "OBSERVATION",
+        "dimension": "ctaStyle",
+        "value": "COMMENT_PROMPT",
+        "sample": 3,
+        "lift": 0.001,
+        "z": 0
+      },
+      {
+        "stage": "OBSERVATION",
+        "dimension": "openingVisual",
+        "value": "REAL_ARCHIVAL",
+        "sample": 3,
+        "lift": 0.001,
+        "z": 0
+      },
+      {
+        "stage": "OBSERVATION",
+        "dimension": "bucket",
+        "value": "A",
+        "sample": 3,
+        "lift": 0.001,
+        "z": 0
+      }
+    ],
+    "hypotheses": [],
+    "adopted": [],
+    "suppressed": [],
+    "adoptedWeights": {},
+    "adoptedHookFamilyBonus": {},
+    "adoptedTitlePatternBonus": {},
+    "adoptedClusterBonus": {},
+    "adoptedDurationBucketBonus": {}
+  },
+  "longform": {
+    "sampleSize": 0,
+    "status": "heuristics-only",
+    "baselines": {
+      "views": null,
+      "averagePercentageViewed": null,
+      "subscribersPer1000Views": null,
+      "watchHoursPer1000Views": null,
+      "engagementPer1000Views": null
+    },
+    "observations": [],
+    "hypotheses": [],
+    "adopted": [],
+    "suppressed": [],
+    "adoptedWeights": {},
+    "adoptedHookFamilyBonus": {},
+    "adoptedTitlePatternBonus": {},
+    "adoptedClusterBonus": {},
+    "adoptedDurationBucketBonus": {}
+  }
+}

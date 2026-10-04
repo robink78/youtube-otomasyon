@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "The Nuclear Test That Poisoned a Paradise Forever",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "A paradise, erased",
+  "soru": "Was it worth it?",
+  "aciklama": "In 1946 the US detonated an atomic bomb underwater at Bikini Atoll - the test that contaminated an entire fleet and left a paradise uninhabitable to this day.\n\n#shorts #history #nuclear #disaster #coldwar",
+  "etiketler": [
+    "Bikini Atoll",
+    "Operation Crossroads",
+    "nuclear test",
+    "1946",
+    "history",
+    "cold war",
+    "disaster"
+  ],
+  "kaynaklar": [
+    {
+      "ad": "bikini.ogv",
+      "wikimedia": "Baker Shot.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "One bomb made a Pacific island unlivable for eighty years.",
+      "kaynak": "Footage/bikini.ogv",
+      "baslangic": 8
+    },
+    {
+      "metin": "Two million tons of radioactive water exploded into the sky.",
+      "kaynak": "Footage/bikini.ogv",
+      "baslangic": 6
+    },
+    {
+      "metin": "It crashed back down and swallowed a fleet of warships.",
+      "kaynak": "Footage/bikini.ogv",
+      "baslangic": 17
+    },
+    {
+      "metin": "So why is the island still poisoned today?",
+      "kaynak": "Footage/bikini.ogv",
+      "baslangic": 2
+    },
+    {
+      "metin": "The bomb was detonated underwater, right beneath the ships.",
+      "kaynak": "Footage/bikini.ogv",
+      "baslangic": 0.3
+    },
+    {
+      "metin": "The spray soaked every deck in radiation nobody could scrub off.",
+      "kaynak": "Footage/bikini.ogv",
+      "baslangic": 20
+    },
+    {
+      "metin": "The fleet was never cleaned. The islanders never returned home.",
+      "kaynak": "Footage/bikini.ogv",
+      "baslangic": 24
+    },
+    {
+      "metin": "Eighty years on, Bikini is still too radioactive to live on.",
+      "kaynak": "Footage/bikini.ogv",
+      "baslangic": 41
+    }
+  ],
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "the Baker Test",
+    "kisa": "Bikini Atoll",
+    "nesne": "Test",
+    "yil": 1946,
+    "sonuc": "contaminated an entire fleet",
+    "tetik": "an underwater atomic detonation",
+    "mekanizma": "radioactive base surge and spray",
+    "sayi": "2M TONS",
+    "ders": "underwater nuclear tests proved far dirtier than airbursts",
+    "zincir": [
+      "23-KILOTON UNDERWATER BLAST",
+      "2 MILLION TONS OF WATER LIFTED",
+      "RADIOACTIVE BASE SURGE",
+      "FLEET COATED IN FALLOUT",
+      "DECONTAMINATION FAILS"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 1946",
+        "olay": "Bikini islanders relocated 'temporarily'"
+      },
+      {
+        "t": "Jul 1, 1946",
+        "olay": "Test Able — airburst"
+      },
+      {
+        "t": "Jul 25, 1946",
+        "olay": "Test Baker — underwater detonation"
+      },
+      {
+        "t": "Today",
+        "olay": "Atoll still not safely resettled"
+      }
+    ],
+    "yanilgi": "Baker was meant to show how warships survive an atomic attack. The surprise was that ships left afloat could not be decontaminated.",
+    "tartisma": "Should the Navy have run an underwater test knowing so little about radioactive spray?",
+    "basliklar": [
+      "The Nuclear Test That Poisoned a Paradise",
+      "The Fleet That Could Never Be Cleaned",
+      "Why Bikini Atoll Is Still Too Radioactive to Live On"
+    ],
+    "kapak": [
+      "NEVER RETURNED",
+      "2M TONS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Operation Crossroads",
+        "url": "https://en.wikipedia.org/wiki/Operation_Crossroads"
+      }
+    ]
+  }
+}

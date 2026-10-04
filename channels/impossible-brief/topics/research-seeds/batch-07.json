@@ -1,0 +1,1725 @@
+{
+  "channel": "impossible-brief",
+  "records": [
+    {
+      "slug": "what-if-the-moon-kept-drifting-away",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If the Moon Kept Drifting Away?",
+      "hook": "Why the Moon drifts 38 millimetres farther every year.",
+      "openingLine": "Why the Moon drifts 38 millimetres farther every year.",
+      "secondBeat": "That's about as fast as your fingernails grow.",
+      "scientificMechanism": "tidal interaction transfers Earth's spin energy to the Moon, slowly raising its orbit",
+      "scenarioChange": "the Moon kept receding for hundreds of millions of years",
+      "expectedConsequence": "a smaller-looking Moon, and eventually no total solar eclipses",
+      "coreQuestion": "If the Moon kept drifting away, what would we lose first?",
+      "misconception": "The Moon isn't fixed in place; it recedes by centimetres every year.",
+      "number": "38 mm per year",
+      "thumbnailText": "MOON DRIFTING AWAY",
+      "visualScenes": [
+        "laser beam hitting a lunar reflector",
+        "Moon orbit widening animation",
+        "total solar eclipse",
+        "angular size comparison Moon versus Sun",
+        "fingernail growth comparison",
+        "Apollo reflector on the surface"
+      ],
+      "editorialTitles": [
+        "Why the Moon Is Slowly Leaving Us",
+        "What Happens When Eclipses End"
+      ],
+      "facts": [
+        {
+          "claim": "Measurements from laser reflectors left during the Apollo missions have found that the Moon's distance increases by 38 mm (1.5 in) per year, roughly the rate at which human fingernails grow.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Moon",
+          "url": "https://en.wikipedia.org/wiki/Moon"
+        },
+        {
+          "claim": "It orbits Earth at an average distance of 384,399 kilometers (238,854 mi).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Moon",
+          "url": "https://en.wikipedia.org/wiki/Moon"
+        },
+        {
+          "claim": "On average the Moon's angular diameter is about 0.52°, roughly the same apparent size as the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Moon",
+          "url": "https://en.wikipedia.org/wiki/Moon"
+        },
+        {
+          "claim": "As the Moon's orbit around Earth is inclined by about 5.145° to the orbit of Earth around the Sun, eclipses do not occur at every full and new moon.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Moon",
+          "url": "https://en.wikipedia.org/wiki/Moon"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the Moon drifts 38 millimetres farther every year.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's about as fast as your fingernails grow.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Apollo's laser reflectors let us measure it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It orbits about 384,399 kilometres away today.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "From Earth, it spans about 0.52 degrees, like the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "As it recedes, it will look smaller than the Sun.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Then total solar eclipses will stop happening.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So perfect eclipses are a temporary coincidence.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-lived-on-mercury",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Lived on Mercury?",
+      "hook": "Why one Mercury day lasts 176 Earth days.",
+      "openingLine": "Why one Mercury day lasts 176 Earth days.",
+      "secondBeat": "That's twice as long as its 88-day year.",
+      "scientificMechanism": "a slow 3:2 spin–orbit resonance and no atmosphere create extreme day–night temperature swings",
+      "scenarioChange": "someone tried to live on Mercury",
+      "expectedConsequence": "months-long days reaching about 700 K and nights far below freezing",
+      "coreQuestion": "If you lived on Mercury, how long would a day last, and how hot would it get?",
+      "misconception": "Mercury's day isn't shorter than its year; one sunrise to the next lasts two Mercury years.",
+      "number": "176 Earth days",
+      "thumbnailText": "A 176-DAY DAY",
+      "visualScenes": [
+        "Mercury's cratered surface",
+        "sunrise lasting months animation",
+        "temperature swing chart",
+        "orbit versus rotation diagram",
+        "shadowed polar craters",
+        "Caloris Planitia"
+      ],
+      "editorialTitles": [
+        "The Planet Where a Day Lasts Two Years",
+        "Why Mercury Is Both Scorching and Freezing"
+      ],
+      "facts": [
+        {
+          "claim": "One solar day (sunrise to sunrise) on Mercury lasts for around 176 Earth days, or twice Mercury's sidereal year.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mercury (planet)",
+          "url": "https://en.wikipedia.org/wiki/Mercury_(planet)"
+        },
+        {
+          "claim": "Mercury's sidereal year (88.0 Earth days) and sidereal day (58.65 Earth days) are in a 3:2 ratio, in a spin–orbit resonance.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mercury (planet)",
+          "url": "https://en.wikipedia.org/wiki/Mercury_(planet)"
+        },
+        {
+          "claim": "At perihelion, the equatorial subsolar point climbs to a temperature of about 700 K.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mercury (planet)",
+          "url": "https://en.wikipedia.org/wiki/Mercury_(planet)"
+        },
+        {
+          "claim": "On the dark side of the planet, temperatures average 110 K (−163 °C).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mercury (planet)",
+          "url": "https://en.wikipedia.org/wiki/Mercury_(planet)"
+        },
+        {
+          "claim": "The floors of deep craters at the poles are never exposed to direct sunlight, and temperatures there remain below 102 K.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mercury (planet)",
+          "url": "https://en.wikipedia.org/wiki/Mercury_(planet)"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one Mercury day lasts 176 Earth days.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's twice as long as its 88-day year.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It spins slowly, locked in a 3:2 dance with its orbit.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "At noon, the surface can reach about 700 kelvin.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The night side averages −163 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Polar craters never see sunlight at all.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "With no atmosphere, nothing evens the heat out.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the closest planet to the Sun still has frozen corners.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-comet-slammed-into-jupiter",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If a Comet Slammed Into Jupiter?",
+      "hook": "Why a comet hit Jupiter at 60 km/s.",
+      "openingLine": "Why a comet hit Jupiter at 60 km/s.",
+      "secondBeat": "In 1994, Shoemaker–Levy 9 struck as a string of fragments.",
+      "scientificMechanism": "Jupiter's gravity tears apart and captures passing comets, then its escape velocity sets impact speed",
+      "scenarioChange": "a broken comet struck Jupiter",
+      "expectedConsequence": "a string of fireballs leaving scars larger than Earth, visible from our telescopes",
+      "coreQuestion": "If a comet slammed into Jupiter, what would we see from Earth?",
+      "misconception": "Jupiter doesn't just attract impacts that would hit Earth; it also tears comets apart first.",
+      "number": "60 km/s",
+      "thumbnailText": "COMET HITS JUPITER",
+      "visualScenes": [
+        "string of comet fragments",
+        "fireball plume on Jupiter's limb",
+        "dark impact scars",
+        "Jupiter tidal breakup diagram",
+        "Hubble image of impacts",
+        "impact speed graphic"
+      ],
+      "editorialTitles": [
+        "The Week a Comet Hit Jupiter",
+        "What Shoemaker–Levy 9 Taught Us"
+      ],
+      "facts": [
+        {
+          "claim": "The comet was later observed as a series of fragments ranging up to 2 km (1.2 mi) in diameter.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Comet Shoemaker–Levy 9",
+          "url": "https://en.wikipedia.org/wiki/Comet_Shoemaker–Levy_9"
+        },
+        {
+          "claim": "These fragments collided with Jupiter's southern hemisphere between July 16 and 22, 1994 at a speed of approximately 60 km/s (37 mi/s) or 216,000 km/h.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Comet Shoemaker–Levy 9",
+          "url": "https://en.wikipedia.org/wiki/Comet_Shoemaker–Levy_9"
+        },
+        {
+          "claim": "Calculations showed that its unusual fragmented form was due to a previous closer approach to Jupiter in July 1992.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Comet Shoemaker–Levy 9",
+          "url": "https://en.wikipedia.org/wiki/Comet_Shoemaker–Levy_9"
+        },
+        {
+          "claim": "The plume from the fireball quickly reached a height of over 3,000 km (1,900 mi) and was observed by the HST.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Comet Shoemaker–Levy 9",
+          "url": "https://en.wikipedia.org/wiki/Comet_Shoemaker–Levy_9"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a comet hit Jupiter at 60 km/s.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "In 1994, Shoemaker–Levy 9 struck as a string of fragments.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Jupiter's gravity had torn it apart in 1992.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Some pieces were up to 2 kilometres wide.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "One fireball plume rose over 3,000 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The impacts ran from July 16 to 22.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Each hit left dark scars visible from Earth.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Jupiter works as a shredder, not just a shield.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-earth-were-tilted-like-uranus",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If Earth Were Tilted Like Uranus?",
+      "hook": "Why Uranus's poles get 42 years of sunlight.",
+      "openingLine": "Why Uranus's poles get 42 years of sunlight.",
+      "secondBeat": "Then they get 42 years of darkness.",
+      "scientificMechanism": "a planet's axial tilt sets how sunlight shifts between hemispheres over its orbit",
+      "scenarioChange": "Earth's axis tipped to lie nearly on its side",
+      "expectedConsequence": "decades-long polar days and nights, and extreme seasons everywhere",
+      "coreQuestion": "If Earth were tilted like Uranus, what would seasons be like?",
+      "misconception": "Uranus isn't upright; it rolls around the Sun almost on its side.",
+      "number": "42 years of daylight",
+      "thumbnailText": "42-YEAR DAYLIGHT",
+      "visualScenes": [
+        "Uranus on its side with rings",
+        "orbit showing pole facing the Sun",
+        "42-year daylight timeline",
+        "Earth tipped to 82 degrees",
+        "Voyager 2 flyby 1986",
+        "coldest atmosphere chart"
+      ],
+      "editorialTitles": [
+        "The Planet With 42-Year Days",
+        "What If Earth Rolled Around the Sun"
+      ],
+      "facts": [
+        {
+          "claim": "It has a marked axial tilt of 82.23°, with a retrograde rotation period of 17 hours and 14 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Uranus",
+          "url": "https://en.wikipedia.org/wiki/Uranus"
+        },
+        {
+          "claim": "In an 84-Earth-year orbital period around the Sun, its poles get around 42 years of continuous sunlight, followed by 42 years of continuous darkness.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Uranus",
+          "url": "https://en.wikipedia.org/wiki/Uranus"
+        },
+        {
+          "claim": "The planet's atmosphere has the lowest minimum temperature (49 K (−224 °C)) of all of the Solar System's planets.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Uranus",
+          "url": "https://en.wikipedia.org/wiki/Uranus"
+        },
+        {
+          "claim": "As of 2026, it has been visited only once when in 1986 the Voyager 2 probe flew by the planet.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Uranus",
+          "url": "https://en.wikipedia.org/wiki/Uranus"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Uranus's poles get 42 years of sunlight.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Then they get 42 years of darkness.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Its axis is tilted 82.23 degrees, nearly on its side.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "One orbit takes 84 Earth years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Tilt Earth like that, and each pole gets decades-long days.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Seasons would swing between endless glare and endless night.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Only Voyager 2 has visited Uranus, in 1986.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Earth's gentle seasons come from a modest tilt.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-volcano-poisoned-a-country",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If a Volcano Poisoned a Country?",
+      "hook": "Why one eruption killed 80% of Iceland's sheep.",
+      "openingLine": "Why one eruption killed 80% of Iceland's sheep.",
+      "secondBeat": "Laki released about 8 million tons of fluorine.",
+      "scientificMechanism": "a long fissure eruption releases huge volumes of fluorine and sulfur gases that contaminate grass and air",
+      "scenarioChange": "a months-long fissure eruption struck a farming nation",
+      "expectedConsequence": "livestock die from fluorine poisoning, followed by famine",
+      "coreQuestion": "If a volcano poisoned a country's air and grass, what would kill people: the lava or the famine?",
+      "misconception": "Laki's deadliest effect wasn't lava; it was poisoned grazing and famine.",
+      "number": "8 million tons of fluorine",
+      "thumbnailText": "THE POISON ERUPTION",
+      "visualScenes": [
+        "Laki fissure row of craters",
+        "gas plume over Iceland",
+        "sheep grazing on ash-covered grass",
+        "fluorine poisoning diagram",
+        "famine timeline",
+        "haze over Europe"
+      ],
+      "editorialTitles": [
+        "The Eruption That Starved Iceland",
+        "Why Laki Killed With Gas, Not Lava"
+      ],
+      "facts": [
+        {
+          "claim": "The system erupted violently over an eight-month period between June 1783 and February 1784 from the Laki fissure and the adjoining volcano Grímsvötn.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Laki",
+          "url": "https://en.wikipedia.org/wiki/Laki"
+        },
+        {
+          "claim": "About 80% of sheep (190,500 head), 50% of cattle (11,500 head), and 50% of horses (28,000 head) died because of dental and skeletal fluorosis from the 8 million tons of fluorine that were released.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Laki",
+          "url": "https://en.wikipedia.org/wiki/Laki"
+        },
+        {
+          "claim": "An estimated 20% of the population died in the famine after the fissure eruptions ensued, with about 8,000 excess deaths.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Laki",
+          "url": "https://en.wikipedia.org/wiki/Laki"
+        },
+        {
+          "claim": "The gases were carried by the convective eruption column to altitudes around 15 km (50,000 ft).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Laki",
+          "url": "https://en.wikipedia.org/wiki/Laki"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one eruption killed 80% of Iceland's sheep.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Laki released about 8 million tons of fluorine.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It erupted for eight months, from June 1783.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Fluorine poisoned the grass that livestock ate.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Half of all cattle and horses died too.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Famine followed, killing about 20% of the population.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Its gases rose about 15 kilometres high.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a volcano's deadliest weapon can be invisible.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-ozone-hole-never-closed",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Ozone Hole Never Closed?",
+      "hook": "Why Antarctic ozone fell 40 to 50 percent.",
+      "openingLine": "Why Antarctic ozone fell 40 to 50 percent.",
+      "secondBeat": "Chlorine from CFCs was tearing ozone apart.",
+      "scientificMechanism": "chlorine from CFCs destroys stratospheric ozone, which absorbs harmful ultraviolet light",
+      "scenarioChange": "CFC use had continued unchecked",
+      "expectedConsequence": "a growing ozone hole and far more ultraviolet reaching the surface",
+      "coreQuestion": "If the ozone hole never closed, what would sunlight do to us?",
+      "misconception": "The ozone hole isn't fixed forever; banning CFCs is letting it recover.",
+      "number": "40–50% lower ozone",
+      "thumbnailText": "HOLE IN SKY",
+      "visualScenes": [
+        "Antarctic ozone hole satellite map",
+        "CFC molecules breaking ozone diagram",
+        "UV index rising",
+        "Montreal Protocol signing",
+        "recovery projection chart",
+        "sunscreen and UV damage"
+      ],
+      "editorialTitles": [
+        "What If We Hadn't Fixed the Ozone Hole",
+        "The Treaty That Saved the Ozone Layer"
+      ],
+      "facts": [
+        {
+          "claim": "These concerns led to the adoption of the Montreal Protocol in 1987, which bans the production of CFCs, halons, and other ozone-depleting chemicals.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ozone depletion",
+          "url": "https://en.wikipedia.org/wiki/Ozone_depletion"
+        },
+        {
+          "claim": "Recovery was projected to continue over the next century, with the ozone hole expected to reach pre-1980 levels by around 2075.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ozone depletion",
+          "url": "https://en.wikipedia.org/wiki/Ozone_depletion"
+        },
+        {
+          "claim": "In 2019, NASA reported that the ozone hole was the smallest ever since it was first discovered in 1982.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ozone depletion",
+          "url": "https://en.wikipedia.org/wiki/Ozone_depletion"
+        },
+        {
+          "claim": "As of 2010, Antarctic total column ozone in September and October continued to be 40–50 percent lower than pre-ozone-hole values.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ozone depletion",
+          "url": "https://en.wikipedia.org/wiki/Ozone_depletion"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Antarctic ozone fell 40 to 50 percent.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Chlorine from CFCs was tearing ozone apart.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Ozone absorbs ultraviolet light before it reaches us.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 1987, the Montreal Protocol banned CFC production.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "By 2019, the hole was the smallest since it was found.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Full recovery is expected around 2075.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Without the ban, far more UV would reach the ground.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So one treaty quietly changed the sky above us.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-great-dying-happened-again",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Great Dying Happened Again?",
+      "hook": "Why 81% of marine species vanished at once.",
+      "openingLine": "Why 81% of marine species vanished at once.",
+      "secondBeat": "It happened about 251.9 million years ago.",
+      "scientificMechanism": "massive carbon release disrupted climate and ocean chemistry, driving extinction over tens of thousands of years",
+      "scenarioChange": "an extinction on the scale of the end-Permian struck today",
+      "expectedConsequence": "most marine species and most land vertebrates lost",
+      "coreQuestion": "If the Great Dying happened again, what would survive?",
+      "misconception": "Mass extinctions aren't instant; the worst one unfolded over tens of thousands of years.",
+      "number": "81% of marine species",
+      "thumbnailText": "THE GREAT DYING",
+      "visualScenes": [
+        "Permian seafloor before and after",
+        "extinction percentage chart",
+        "volcanic traps erupting",
+        "carbon isotope curve",
+        "timeline 251.9 million years ago",
+        "surviving species silhouettes"
+      ],
+      "editorialTitles": [
+        "The Worst Extinction in Earth's History",
+        "What the Great Dying Tells Us About Today"
+      ],
+      "facts": [
+        {
+          "claim": "It is Earth's most severe known extinction event, with the extinction of 57% of biological families, 62% of genera, 81% of marine species, and 70% of terrestrial vertebrate species.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Permian–Triassic extinction event",
+          "url": "https://en.wikipedia.org/wiki/Permian–Triassic_extinction_event"
+        },
+        {
+          "claim": "The extinction occurred between 251.941 ± 0.037 and 251.880 ± 0.031 million years ago, a duration of 60 ± 48 thousand years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Permian–Triassic extinction event",
+          "url": "https://en.wikipedia.org/wiki/Permian–Triassic_extinction_event"
+        },
+        {
+          "claim": "The negative carbon isotope excursion lasted for approximately 500,000 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Permian–Triassic extinction event",
+          "url": "https://en.wikipedia.org/wiki/Permian–Triassic_extinction_event"
+        },
+        {
+          "claim": "The decline of animal life is concentrated over approximately 10,000 to 60,000 years, with plants taking an additional several hundred thousand years to show the full impact.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Permian–Triassic extinction event",
+          "url": "https://en.wikipedia.org/wiki/Permian–Triassic_extinction_event"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 81% of marine species vanished at once.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It happened about 251.9 million years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "70% of land vertebrate species died too.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The main extinction took about 60,000 years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Carbon chemistry stayed disturbed for about 500,000 years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Recovery took far longer than the collapse.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Life survived, but in a very different form.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the worst extinction was slow, and still catastrophic.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-liquid-could-climb-walls",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If a Liquid Could Climb Walls?",
+      "hook": "Why helium below 2.17 kelvin climbs out of cups.",
+      "openingLine": "Why helium below 2.17 kelvin climbs out of cups.",
+      "secondBeat": "It becomes a superfluid with zero viscosity.",
+      "scientificMechanism": "below 2.17 K, helium-4 becomes a superfluid with zero viscosity that can flow up and over container walls",
+      "scenarioChange": "a liquid flowed with no friction at all",
+      "expectedConsequence": "it creeps over container rims and flows through tiny pores",
+      "coreQuestion": "If a liquid could climb walls, what would stop it?",
+      "misconception": "Superfluids aren't just very runny; their superfluid part has zero viscosity.",
+      "number": "2.17 K",
+      "thumbnailText": "LIQUID THAT CLIMBS",
+      "visualScenes": [
+        "superfluid helium creeping over a cup rim",
+        "fountain effect jet",
+        "viscosity comparison chart",
+        "cryostat cooling to 2.17 K",
+        "IRAS satellite cooled by helium",
+        "quantum vortex lines"
+      ],
+      "editorialTitles": [
+        "The Liquid That Climbs Out of Its Cup",
+        "What Happens to Helium Below 2.17 K"
+      ],
+      "facts": [
+        {
+          "claim": "This condensation occurs in liquid helium-4 at a far higher temperature (2.17 K) than it does in helium-3.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Superfluid helium-4",
+          "url": "https://en.wikipedia.org/wiki/Superfluid_helium-4"
+        },
+        {
+          "claim": "The superfluid component has zero viscosity and zero entropy.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Superfluid helium-4",
+          "url": "https://en.wikipedia.org/wiki/Superfluid_helium-4"
+        },
+        {
+          "claim": "Superfluid helium can flow relatively easily up the wall of containers, over the top, and down to the same level as the surface of the liquid inside the container.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Superfluid helium-4",
+          "url": "https://en.wikipedia.org/wiki/Superfluid_helium-4"
+        },
+        {
+          "claim": "The Infrared Astronomical Satellite IRAS, launched in January 1983, was cooled by 73 kilograms of superfluid helium, maintaining a temperature of 1.6 K (−271.55 °C).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Superfluid helium-4",
+          "url": "https://en.wikipedia.org/wiki/Superfluid_helium-4"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why helium below 2.17 kelvin climbs out of cups.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It becomes a superfluid with zero viscosity.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It creeps up the wall, over the top, and down.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It stops only when levels inside and out match.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It can even spray upward in a fountain effect.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "In 1983, 73 kilograms of it cooled a space telescope.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "No ordinary seal could hold it in.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So near absolute zero, quantum rules become visible.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-could-touch-earths-core",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If You Could Touch Earth's Core?",
+      "hook": "Why Earth's core matches the Sun's surface heat.",
+      "openingLine": "Why Earth's core matches the Sun's surface heat.",
+      "secondBeat": "Its surface is about 5,700 kelvin.",
+      "scientificMechanism": "enormous pressure keeps the iron inner core solid despite temperatures like the Sun's surface",
+      "scenarioChange": "someone reached Earth's inner core",
+      "expectedConsequence": "a solid iron ball as hot as the Sun's surface, crushed solid by pressure",
+      "coreQuestion": "If you could touch Earth's core, how hot would it be, and why is it solid?",
+      "misconception": "Earth's inner core isn't molten; pressure keeps it solid even at about 5,700 K.",
+      "number": "5,700 K",
+      "thumbnailText": "HOT AS SUN",
+      "visualScenes": [
+        "Earth cutaway to the inner core",
+        "temperature comparison with the Sun's surface",
+        "pressure keeping iron solid diagram",
+        "seismic waves crossing the core",
+        "inner core size versus the Moon",
+        "timeline of discoveries"
+      ],
+      "editorialTitles": [
+        "Why Earth's Core Is as Hot as the Sun",
+        "The Solid Ball of Fire Beneath Your Feet"
+      ],
+      "facts": [
+        {
+          "claim": "It is primarily a solid ball with a radius of about 1,230 km (760 mi), which is about 20% of Earth's radius or 70% of the Moon's radius.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Earth's inner core",
+          "url": "https://en.wikipedia.org/wiki/Earth's_inner_core"
+        },
+        {
+          "claim": "The temperature at its surface is estimated to be approximately 5,700 K (5,430 °C; 9,800 °F), about the temperature at the surface of the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Earth's inner core",
+          "url": "https://en.wikipedia.org/wiki/Earth's_inner_core"
+        },
+        {
+          "claim": "In 1952, Francis Birch published a detailed analysis of the available data and concluded that the inner core was probably crystalline iron.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Earth's inner core",
+          "url": "https://en.wikipedia.org/wiki/Earth's_inner_core"
+        },
+        {
+          "claim": "In 2005, shear waves were detected passing through the inner core; these claims were initially controversial, but are now gaining acceptance.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Earth's inner core",
+          "url": "https://en.wikipedia.org/wiki/Earth's_inner_core"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Earth's core matches the Sun's surface heat.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Its surface is about 5,700 kelvin.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Yet the inner core is a solid iron ball.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Crushing pressure keeps the metal from melting.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its radius is about 1,230 kilometres, 70% of the Moon's.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 2005, shear waves were detected passing through it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Touching it is impossible; no material survives the trip.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So pressure, not heat alone, decides whether rock is solid.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-your-microbes-disappeared",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If Your Microbes Disappeared?",
+      "hook": "Why your microbes carry 100 times your genes.",
+      "openingLine": "Why your microbes carry 100 times your genes.",
+      "secondBeat": "About 2 million bacterial genes, against 20,000 human ones.",
+      "scientificMechanism": "trillions of microbes in and on the body digest food, train immunity and crowd out pathogens",
+      "scenarioChange": "a person's microbiome vanished",
+      "expectedConsequence": "digestion and immune defence weaken, and harmful microbes can take over",
+      "coreQuestion": "If your microbes disappeared, what would stop working?",
+      "misconception": "Most microbes in your body aren't enemies; many do jobs your own genes can't.",
+      "number": "2 million microbial genes",
+      "thumbnailText": "YOUR INVISIBLE ORGAN",
+      "visualScenes": [
+        "gut bacteria under a microscope",
+        "gene count comparison chart",
+        "species diversity graphic",
+        "antibiotics wiping out gut flora",
+        "fecal transplant diagram",
+        "immune cells and microbes"
+      ],
+      "editorialTitles": [
+        "What Your Body's Microbes Actually Do",
+        "Why You're Outnumbered by Microbial Genes"
+      ],
+      "facts": [
+        {
+          "claim": "The number of bacterial genes is estimated to be 2 million, 100 times the number of approximately 20,000 human genes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human microbiome",
+          "url": "https://en.wikipedia.org/wiki/Human_microbiome"
+        },
+        {
+          "claim": "The researchers calculated that more than 10,000 microbial species occupy the human ecosystem.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human microbiome",
+          "url": "https://en.wikipedia.org/wiki/Human_microbiome"
+        },
+        {
+          "claim": "Fecal microbiota transplant is approximately 85–90% effective in people with CDI for whom antibiotics have not worked or in whom the disease recurs following antibiotics.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human microbiome",
+          "url": "https://en.wikipedia.org/wiki/Human_microbiome"
+        },
+        {
+          "claim": "Only about 50% of humans have easily detectable populations of methanogens.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human microbiome",
+          "url": "https://en.wikipedia.org/wiki/Human_microbiome"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why your microbes carry 100 times your genes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "About 2 million bacterial genes, against 20,000 human ones.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "More than 10,000 microbial species live in and on us.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "They digest food and help train your immune system.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Without them, harmful microbes could move in.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Restoring gut microbes cures 85 to 90% of some stubborn infections.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So your body works as a partnership, not a solo act.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-remembered-every-day-of-your-life",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Remembered Every Day of Your Life?",
+      "hook": "Why fewer than 100 people remember every day.",
+      "openingLine": "Why fewer than 100 people remember every day.",
+      "secondBeat": "The condition is called hyperthymesia.",
+      "scientificMechanism": "highly superior autobiographical memory lets a few people recall specific days in detail",
+      "scenarioChange": "a person remembered every day of their life",
+      "expectedConsequence": "vivid recall of dates and events, but not a perfect memory for everything",
+      "coreQuestion": "If you remembered every day of your life, would it be a gift or a burden?",
+      "misconception": "Hyperthymesia isn't photographic memory for everything; it's for personal life events.",
+      "number": "fewer than 100 people",
+      "thumbnailText": "NEVER FORGET",
+      "visualScenes": [
+        "calendar pages flipping",
+        "memory test with dates",
+        "brain memory regions",
+        "interview on television",
+        "rare cases count graphic",
+        "timestamped diary"
+      ],
+      "editorialTitles": [
+        "The People Who Remember Every Day",
+        "What Hyperthymesia Is Really Like"
+      ],
+      "facts": [
+        {
+          "claim": "It is extraordinarily rare, with fewer than 100 people in the world having been diagnosed with the condition as of 2021.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Hyperthymesia",
+          "url": "https://en.wikipedia.org/wiki/Hyperthymesia"
+        },
+        {
+          "claim": "Participants are challenged to match dates to 60 famous events that happened between the time they were five years old and the present day.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Hyperthymesia",
+          "url": "https://en.wikipedia.org/wiki/Hyperthymesia"
+        },
+        {
+          "claim": "Answers must be chosen within 11 seconds to qualify for consideration.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Hyperthymesia",
+          "url": "https://en.wikipedia.org/wiki/Hyperthymesia"
+        },
+        {
+          "claim": "In the aftermath of the 2006 Neurocase publication alone, more than 200 people contacted McGaugh; however, only a handful were determined to be actual cases.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Hyperthymesia",
+          "url": "https://en.wikipedia.org/wiki/Hyperthymesia"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why fewer than 100 people remember every day.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The condition is called hyperthymesia.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Testers match dates to 60 famous events.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Each answer must come within 11 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "After a 2006 study, over 200 people claimed it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Only a handful turned out to be genuine.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "It covers personal life events, not everything they read.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So forgetting may be as useful as remembering.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-beamed-solar-power-from-space",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If We Beamed Solar Power From Space?",
+      "hook": "Why orbit gets 144% of Earth's best sunlight.",
+      "openingLine": "Why orbit gets 144% of Earth's best sunlight.",
+      "secondBeat": "In space, there's no night, clouds or air.",
+      "scientificMechanism": "orbital solar panels collect sunlight without night or weather and beam energy to ground receivers",
+      "scenarioChange": "large solar power stations operated in orbit",
+      "expectedConsequence": "steady clean power, limited by launch cost and beaming efficiency",
+      "coreQuestion": "If we beamed solar power from space, what would stand in the way?",
+      "misconception": "Space solar power isn't blocked by physics; launch cost is the barrier.",
+      "number": "144% more sunlight",
+      "thumbnailText": "SOLAR FROM SPACE",
+      "visualScenes": [
+        "solar array in orbit",
+        "microwave beam to a ground antenna",
+        "sunlight intensity comparison",
+        "MAPLE experiment 2023",
+        "launch cost chart",
+        "receiver field on the ground"
+      ],
+      "editorialTitles": [
+        "Can We Beam Solar Power From Space?",
+        "Why Space Solar Waits on Launch Costs"
+      ],
+      "facts": [
+        {
+          "claim": "The intensity in orbit is approximately 144% of the maximum attainable intensity on Earth's surface.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space-based solar power",
+          "url": "https://en.wikipedia.org/wiki/Space-based_solar_power"
+        },
+        {
+          "claim": "Caltech's MAPLE project successfully demonstrated beaming power to earth in 2023.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space-based solar power",
+          "url": "https://en.wikipedia.org/wiki/Space-based_solar_power"
+        },
+        {
+          "claim": "MAPLE transmitted an effective isotropic radiated power (EIRP) of 3.2 watts, far below the kilowatts typical of commercial communications satellites.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space-based solar power",
+          "url": "https://en.wikipedia.org/wiki/Space-based_solar_power"
+        },
+        {
+          "claim": "Launch costs in the range of $100–$200 per kilogram of payload from low Earth orbit to Geosynchronous orbit are needed if SPS is to be economically viable.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space-based solar power",
+          "url": "https://en.wikipedia.org/wiki/Space-based_solar_power"
+        },
+        {
+          "claim": "In December 2019, Xinhua reported that China plans to launch a 200-tonne SBSP station capable of generating megawatts of electricity to Earth by 2035.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space-based solar power",
+          "url": "https://en.wikipedia.org/wiki/Space-based_solar_power"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why orbit gets 144% of Earth's best sunlight.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "In space, there's no night, clouds or air.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "In 2023, Caltech's MAPLE beamed power down to Earth.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It sent just 3.2 watts, a proof of concept.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Viable plants need launch costs of $100 to $200 per kilogram.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "China has talked of a 200-tonne station by 2035.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So space solar power is waiting on rockets, not sunlight.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-your-brain-had-a-chip",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If Your Brain Had a Chip?",
+      "hook": "Why one brain implant carries up to 3,072 electrodes.",
+      "openingLine": "Why one brain implant carries up to 3,072 electrodes.",
+      "secondBeat": "Each tiny wire holds 32 of them.",
+      "scientificMechanism": "implanted electrode threads record neuron activity so software can decode intended movements",
+      "scenarioChange": "brain implants became common",
+      "expectedConsequence": "people with paralysis controlling devices by thought, with surgical and long-term risks",
+      "coreQuestion": "If your brain had a chip, what could it actually do today?",
+      "misconception": "Brain implants don't read thoughts; they decode signals linked to intended movement.",
+      "number": "3,072 electrodes",
+      "thumbnailText": "BRAIN CHIP",
+      "visualScenes": [
+        "thin electrode threads in brain tissue",
+        "surgical robot inserting threads",
+        "monkey playing Pong",
+        "patient controlling a cursor",
+        "electrode count graphic",
+        "signal decoding diagram"
+      ],
+      "editorialTitles": [
+        "What Brain Implants Can Really Do",
+        "Inside the Race to Wire the Brain"
+      ],
+      "facts": [
+        {
+          "claim": "Each probe contains 48 or 96 wires, each of which contains 32 independent electrodes, making a system of up to 3,072 electrodes per formation.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neuralink",
+          "url": "https://en.wikipedia.org/wiki/Neuralink"
+        },
+        {
+          "claim": "In April 2021, Neuralink demonstrated a monkey playing the game Pong using a Neuralink implant.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neuralink",
+          "url": "https://en.wikipedia.org/wiki/Neuralink"
+        },
+        {
+          "claim": "On January 29, 2024, Musk announced that Neuralink had successfully implanted a Neuralink device in a human and that the patient was recovering.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neuralink",
+          "url": "https://en.wikipedia.org/wiki/Neuralink"
+        },
+        {
+          "claim": "In August and September 2025, Toronto's University Health Network performed Canada's first Neuralink brain implant surgeries on two patients with cervical spinal cord injuries.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neuralink",
+          "url": "https://en.wikipedia.org/wiki/Neuralink"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one brain implant carries up to 3,072 electrodes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Each tiny wire holds 32 of them.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "They record neurons firing as you intend to move.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 2021, a monkey played Pong with one.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 2024, the first human received the implant.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "By 2025, patients with spinal injuries were getting them in Canada.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "It decodes movement signals, not private thoughts.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So brain chips restore control long before they read minds.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-particle-beam-passed-through-your-head",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If a Particle Beam Passed Through Your Head?",
+      "hook": "Why one man survived 2,000 sieverts to the head.",
+      "openingLine": "Why one man survived 2,000 sieverts to the head.",
+      "secondBeat": "In 1978, a proton beam passed through his skull.",
+      "scientificMechanism": "a narrow high-energy proton beam deposits an enormous dose along a thin path through tissue",
+      "scenarioChange": "a scientist's head crossed an accelerator beam",
+      "expectedConsequence": "severe local damage along the beam path, yet survival",
+      "coreQuestion": "If a particle beam passed through your head, could you survive?",
+      "misconception": "An enormous radiation dose isn't always fatal when it's confined to a thin beam path.",
+      "number": "2,000–3,000 sieverts",
+      "thumbnailText": "BEAM THROUGH HEAD",
+      "visualScenes": [
+        "particle accelerator tunnel",
+        "proton beam path diagram",
+        "dose comparison chart",
+        "Soviet-era control room",
+        "face half paralysed illustration",
+        "safety interlock mechanism"
+      ],
+      "editorialTitles": [
+        "The Man Who Put His Head in a Particle Beam",
+        "How Anatoli Bugorski Survived"
+      ],
+      "facts": [
+        {
+          "claim": "He is known for having survived a radiation accident in 1978, when a high-energy proton beam from a particle accelerator passed through his head.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Anatoli Bugorski",
+          "url": "https://en.wikipedia.org/wiki/Anatoli_Bugorski"
+        },
+        {
+          "claim": "Bugorski was leaning over the equipment when he stuck his head in the path of the 76 GeV (12.2 nJ) proton beam.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Anatoli Bugorski",
+          "url": "https://en.wikipedia.org/wiki/Anatoli_Bugorski"
+        },
+        {
+          "claim": "The exposed parts of his head received a local dose of 200,000 to 300,000 roentgens (2,000 to 3,000 sieverts).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Anatoli Bugorski",
+          "url": "https://en.wikipedia.org/wiki/Anatoli_Bugorski"
+        },
+        {
+          "claim": "On 3 June 1978, he was checking a malfunctioning piece of equipment when the safety mechanisms failed.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Anatoli Bugorski",
+          "url": "https://en.wikipedia.org/wiki/Anatoli_Bugorski"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one man survived 2,000 sieverts to the head.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "In 1978, a proton beam passed through his skull.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Anatoli Bugorski was checking faulty equipment.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The safety mechanisms had failed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The beam carried 76 GeV protons.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The dose along its path was 2,000 to 3,000 sieverts.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Because it was so narrow, most of his body was spared.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So where radiation lands matters as much as how much.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-star-were-flung-out-of-the-galaxy",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If a Star Were Flung Out of the Galaxy?",
+      "hook": "Why one star flees at 1,755 km/s.",
+      "openingLine": "Why one star flees at 1,755 km/s.",
+      "secondBeat": "That's almost 0.6% of the speed of light.",
+      "scientificMechanism": "a binary star passing close to a supermassive black hole can be split, with one star ejected at extreme speed",
+      "scenarioChange": "a star was hurled out of the Milky Way",
+      "expectedConsequence": "it leaves the galaxy forever at a small fraction of light speed",
+      "coreQuestion": "If a black hole flung a star out of the galaxy, how fast would it go?",
+      "misconception": "Black holes don't only swallow stars; they can also launch them.",
+      "number": "1,755 km/s",
+      "thumbnailText": "STAR FLUNG OUT",
+      "visualScenes": [
+        "binary star approaching Sagittarius A*",
+        "one star captured, one ejected",
+        "speed comparison chart",
+        "star leaving the Milky Way",
+        "Grus constellation",
+        "survey telescope"
+      ],
+      "editorialTitles": [
+        "The Star Kicked Out of the Milky Way",
+        "How a Black Hole Launches a Star"
+      ],
+      "facts": [
+        {
+          "claim": "S5-HVS1 is an A-type main-sequence star notable as the fastest one detected as of November 2019, traveling with a peculiar velocity of 1,755 km/s, almost 0.6% of the speed of light.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — S5-HVS1",
+          "url": "https://en.wikipedia.org/wiki/S5-HVS1"
+        },
+        {
+          "claim": "The star is in the Grus (or Crane) constellation in the southern sky, and about 29,000 light-years from Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — S5-HVS1",
+          "url": "https://en.wikipedia.org/wiki/S5-HVS1"
+        },
+        {
+          "claim": "S5-HVS1 was ejected from the Milky Way galaxy after interacting with Sagittarius A*, the supermassive black hole at the center of the galaxy.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — S5-HVS1",
+          "url": "https://en.wikipedia.org/wiki/S5-HVS1"
+        },
+        {
+          "claim": "It is possible that it was originally part of a binary system that was tidally disrupted by the supermassive black hole, causing it to be ejected.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — S5-HVS1",
+          "url": "https://en.wikipedia.org/wiki/S5-HVS1"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one star flees at 1,755 km/s.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's almost 0.6% of the speed of light.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "S5-HVS1 was flung out by our galaxy's central black hole.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It may have been half of a binary pair.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "One star was captured, and its partner was launched.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "It's now about 29,000 light-years from Earth.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "It will never return to the Milky Way.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So black holes don't just swallow stars. They throw them.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-earth-sat-in-the-great-void",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If Earth Sat in the Great Void?",
+      "hook": "Why one region holds 60 galaxies instead of 2,000.",
+      "openingLine": "Why one region holds 60 galaxies instead of 2,000.",
+      "secondBeat": "It's the Boötes void, found in 1981.",
+      "scientificMechanism": "cosmic voids are vast regions with far fewer galaxies than average",
+      "scenarioChange": "the Milky Way sat inside the Boötes void",
+      "expectedConsequence": "a night sky nearly empty of other galaxies",
+      "coreQuestion": "If Earth sat in the Great Void, what would the night sky look like?",
+      "misconception": "The universe isn't evenly filled with galaxies; huge regions are nearly empty.",
+      "number": "60 galaxies",
+      "thumbnailText": "THE GREAT NOTHING",
+      "visualScenes": [
+        "map of galaxies with a huge empty region",
+        "galaxy count comparison",
+        "radius scale 200 million light-years",
+        "night sky without galaxies",
+        "redshift survey chart",
+        "cosmic web structure"
+      ],
+      "editorialTitles": [
+        "The Great Nothing in Space",
+        "What If We Lived in the Boötes Void"
+      ],
+      "facts": [
+        {
+          "claim": "It contains just 60 galaxies, which is significantly fewer than the approximately 2,000 galaxies expected for an area of comparable size.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Boötes void",
+          "url": "https://en.wikipedia.org/wiki/Boötes_void"
+        },
+        {
+          "claim": "With a radius of 62 megaparsecs (nearly 200 million light-years), it is one of the largest known voids in the visible universe.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Boötes void",
+          "url": "https://en.wikipedia.org/wiki/Boötes_void"
+        },
+        {
+          "claim": "It was discovered in 1981 by astronomer Robert Kirshner as part of a survey of galactic redshift.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Boötes void",
+          "url": "https://en.wikipedia.org/wiki/Boötes_void"
+        },
+        {
+          "claim": "Its center is located 700 million light-years from Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Boötes void",
+          "url": "https://en.wikipedia.org/wiki/Boötes_void"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one region holds 60 galaxies instead of 2,000.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It's the Boötes void, found in 1981.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Its radius is nearly 200 million light-years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its center sits 700 million light-years away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "From inside, the night sky would hold almost no other galaxies.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Astronomers might not have discovered other galaxies until much later.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Galaxies gather along filaments, leaving vast gaps between.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the universe is less a cloud than a web with holes.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-coral-reefs-disappeared",
+      "replaces": "what-happens-if-all-ocean-plankton-stops-for-one-day",
+      "category": "OTHER",
+      "topic": "What If Coral Reefs Disappeared?",
+      "hook": "Why 0.1% of the ocean shelters 25% of species.",
+      "openingLine": "Why 0.1% of the ocean shelters 25% of species.",
+      "secondBeat": "It's coral reef, about half the area of France.",
+      "scientificMechanism": "reef-building corals create complex habitat that shelters a large share of marine life",
+      "scenarioChange": "the world's coral reefs died off",
+      "expectedConsequence": "a quarter of marine species lose their home, along with fisheries and coastal protection",
+      "coreQuestion": "If coral reefs disappeared, how much of ocean life would go with them?",
+      "misconception": "Reefs aren't a big share of the ocean; their outsized role comes from habitat, not area.",
+      "number": "25% of marine species",
+      "thumbnailText": "0.1% HOLDS 25%",
+      "visualScenes": [
+        "vibrant coral reef",
+        "bleached coral",
+        "ocean area versus species share chart",
+        "reef fish diversity",
+        "decline since 1950 chart",
+        "regional distribution map"
+      ],
+      "editorialTitles": [
+        "What Losing Coral Reefs Would Cost",
+        "The 0.1% of the Ocean That Holds a Quarter of Its Life"
+      ],
+      "facts": [
+        {
+          "claim": "They occupy less than 0.1% of the world's ocean area, about half the area of France.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Coral reef",
+          "url": "https://en.wikipedia.org/wiki/Coral_reef"
+        },
+        {
+          "claim": "They provide a home for at least 25% of all marine species, including fish, mollusks, worms, crustaceans, echinoderms, sponges, tunicates and other cnidarians.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Coral reef",
+          "url": "https://en.wikipedia.org/wiki/Coral_reef"
+        },
+        {
+          "claim": "Shallow tropical coral reefs have declined by 50% since 1950, partly because they are sensitive to water conditions.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Coral reef",
+          "url": "https://en.wikipedia.org/wiki/Coral_reef"
+        },
+        {
+          "claim": "The Indo-Pacific region accounts for 91.9% of this total.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Coral reef",
+          "url": "https://en.wikipedia.org/wiki/Coral_reef"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 0.1% of the ocean shelters 25% of species.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It's coral reef, about half the area of France.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Corals build the structure that shelters fish and invertebrates.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Shallow tropical reefs have declined 50% since 1950.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Most reefs, 91.9%, lie in the Indo-Pacific.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Lose them, and a quarter of marine species lose their home.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the ocean's richest life depends on its smallest builders.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-mosquitoes-went-extinct",
+      "replaces": "what-breaks-first-if-all-ocean-plankton-is-cut-in-half",
+      "category": "OTHER",
+      "topic": "What If Mosquitoes Went Extinct?",
+      "hook": "Why 700 million people catch mosquito-borne illness yearly.",
+      "openingLine": "Why 700 million people catch mosquito-borne illness yearly.",
+      "secondBeat": "Those infections kill over one million people a year.",
+      "scientificMechanism": "a few mosquito species transmit diseases like malaria, while most species play minor ecological roles",
+      "scenarioChange": "mosquitoes disappeared",
+      "expectedConsequence": "a huge drop in disease deaths, with limited but real ecological gaps",
+      "coreQuestion": "If mosquitoes went extinct, what would we gain and what would we lose?",
+      "misconception": "Most of the 3,600 mosquito species don't spread human disease.",
+      "number": "700 million infections a year",
+      "thumbnailText": "NO MORE MOSQUITOES",
+      "visualScenes": [
+        "mosquito biting skin close-up",
+        "disease burden chart",
+        "species diversity graphic",
+        "mosquito larvae in water",
+        "malaria parasite diagram",
+        "fossil mosquito in amber"
+      ],
+      "editorialTitles": [
+        "What If Mosquitoes Went Extinct",
+        "The Deadliest Animal on Earth"
+      ],
+      "facts": [
+        {
+          "claim": "Mosquitoes, the Culicidae, are a family of small flies consisting of 3,600 species.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mosquito",
+          "url": "https://en.wikipedia.org/wiki/Mosquito"
+        },
+        {
+          "claim": "Nearly 700 million people acquire a mosquito-borne illness each year, resulting in over one million deaths.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mosquito",
+          "url": "https://en.wikipedia.org/wiki/Mosquito"
+        },
+        {
+          "claim": "Paleoculicis minutus is known from Canadian amber, which dates to around 79 million years ago.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mosquito",
+          "url": "https://en.wikipedia.org/wiki/Mosquito"
+        },
+        {
+          "claim": "Kyanne Reidenbach and colleagues analysed mosquito phylogenetics in 2009, using both nuclear DNA and morphology of 26 species.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mosquito",
+          "url": "https://en.wikipedia.org/wiki/Mosquito"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 700 million people catch mosquito-borne illness yearly.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Those infections kill over one million people a year.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Yet there are about 3,600 mosquito species.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Only a small share of them spread human disease.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Mosquitoes have existed for at least 79 million years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Some fish and birds eat them, but few depend on them alone.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So targeting the deadly few matters more than wiping out all.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    }
+  ]
+}

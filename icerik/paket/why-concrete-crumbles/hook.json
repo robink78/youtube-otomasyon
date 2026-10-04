@@ -1,0 +1,50 @@
+{
+  "slug": "why-concrete-crumbles",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.883Z",
+  "ekranHook": "The cancer inside the walls",
+  "mevcut": {
+    "puan": 75,
+    "pencereler": {
+      "0-5": "Concrete looks like it lasts forever. It does not. Inside almost every concrete structure",
+      "5-12": "are steel bars. That steel gives it the strength to span and stand tall. But if water and salt",
+      "12-20": "reach the steel, it starts to rust. Rusting steel swells and pushes the concrete apart from inside. Chunks break off, exposing even",
+      "20-30": "more steel to the air. Engineers call it concrete cancer, and it spreads silently. A pillar can look fine while rotting hollow within. This is why aging bridges"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Concrete looks like it lasts forever."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only water and salt reaching the steel."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is rebar corrosion (concrete cancer) — and it is why aging structures need regular inspection."
+      }
+    ],
+    "metin": "Concrete looks like it lasts forever. It took only water and salt reaching the steel. So what actually happens inside? The answer is rebar corrosion (concrete cancer) — and it is why aging structures need regular inspection.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

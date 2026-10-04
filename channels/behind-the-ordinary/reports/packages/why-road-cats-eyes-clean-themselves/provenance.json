@@ -1,0 +1,87 @@
+{
+  "channel": "behind-the-ordinary",
+  "slug": "why-road-cats-eyes-clean-themselves",
+  "allowedChannels": [
+    "behind-the-ordinary"
+  ],
+  "createdAt": "2026-10-03T19:39:09.294Z",
+  "assets": [
+    {
+      "kind": "image",
+      "source": "commons-search",
+      "title": "Great River Road - Bird's Eye View of Oak Alley - NARA - 7718881.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_River_Road_-_Bird%27s_Eye_View_of_Oak_Alley_-_NARA_-_7718881.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Great_River_Road_-_Bird%27s_Eye_View_of_Oak_Alley_-_NARA_-_7718881.jpg",
+      "attribution": " Unknown author Unknown author or not provided ",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 11340265",
+      "sourceUrl": "https://www.pexels.com/video/aerial-view-on-car-on-road-through-forest-11340265/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/aerial-view-on-car-on-road-through-forest-11340265/",
+      "attribution": "Dronepilot Chile",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 12950313",
+      "sourceUrl": "https://www.pexels.com/video/truck-passing-by-road-signs-12950313/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/truck-passing-by-road-signs-12950313/",
+      "attribution": "Nothing Ahead",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 13543395",
+      "sourceUrl": "https://www.pexels.com/video/wet-asphalt-on-road-after-rain-13543395/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/wet-asphalt-on-road-after-rain-13543395/",
+      "attribution": "izzet çakallı",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "audio",
+      "source": "Microsoft Edge neural TTS (claim-timed)",
+      "title": "narration",
+      "licence": "generated — synthetic voice, disclosed in the description",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "audio",
+      "source": "procedural synthesis (ffmpeg)",
+      "title": "music bed",
+      "licence": "original — generated per video",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "image",
+      "source": "generated graphics (captions, number cards, diagrams)",
+      "title": "on-screen graphics",
+      "licence": "original",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    }
+  ]
+}

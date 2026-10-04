@@ -1,0 +1,88 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why Glass Explodes for No Reason",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "The bomb inside your window",
+  "soru": "Trust tempered glass?",
+  "arama_yedek": "broken glass",
+  "aciklama": "Some glass can explode by itself, days after it is installed. Here is the hidden flaw.\n\n#shorts #science #engineering #howitworks #glass",
+  "etiketler": [
+    "glass",
+    "shatter",
+    "science",
+    "engineering",
+    "materials"
+  ],
+  "sahneler": [
+    {
+      "metin": "Some glass can explode all by itself, with no impact.",
+      "arama": "shattered glass"
+    },
+    {
+      "metin": "The whole panel bursts into thousands of pieces at once.",
+      "arama": "glass shards"
+    },
+    {
+      "metin": "And it's not weak glass. It's the tough, tempered kind.",
+      "arama": "glass texture"
+    },
+    {
+      "metin": "So what makes it blow?",
+      "arama": "glass window"
+    },
+    {
+      "metin": "It's cooled fast, so the surface is squeezed while the core is stretched.",
+      "arama": "broken window"
+    },
+    {
+      "metin": "A microscopic impurity inside can slowly grow.",
+      "arama": "cracked glass"
+    },
+    {
+      "metin": "When it reaches the stretched core, all that energy releases.",
+      "arama": "glass breaking"
+    },
+    {
+      "metin": "It can happen years after the glass was made.",
+      "arama": "modern glass building"
+    }
+  ],
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "mekanizma",
+    "ad": "Tempered Glass",
+    "nesne": "Glass",
+    "sonuc": "explodes on its own",
+    "tetik": "a microscopic impurity",
+    "mekanizma": "an inclusion growing into the tensioned core",
+    "sayi": "NO IMPACT",
+    "ders": "glass for high-rise facades can be heat-soak tested",
+    "zincir": [
+      "GLASS TEMPERED",
+      "SURFACE SQUEEZED, CORE STRETCHED",
+      "TINY INCLUSION GROWS",
+      "CRACK REACHES CORE",
+      "PANEL BURSTS"
+    ],
+    "yanilgi": "'Spontaneous' breakage isn't random — a tiny nickel sulfide inclusion can slowly expand until it cracks the stressed core.",
+    "tartisma": "Should skyscraper glass always be heat-soak tested to find these flaws before installation?",
+    "basliklar": [
+      "Why Tempered Glass Can Explode on Its Own",
+      "The Bomb Hidden Inside a Window",
+      "Glass That Shatters Years After It Was Made"
+    ],
+    "kapak": [
+      "NO IMPACT",
+      "HIDDEN FLAW"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Tempered glass",
+        "url": "https://en.wikipedia.org/wiki/Tempered_glass"
+      }
+    ]
+  }
+}

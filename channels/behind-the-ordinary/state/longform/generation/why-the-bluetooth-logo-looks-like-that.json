@@ -1,0 +1,1034 @@
+{
+  "schema": "longform-generation/2",
+  "channel": "behind-the-ordinary",
+  "slug": "why-the-bluetooth-logo-looks-like-that",
+  "topicHash": "12370004e00f:98",
+  "status": "COMPLETE",
+  "createdAt": "2026-10-03T18:44:15.478Z",
+  "updatedAt": "2026-10-03T19:22:31.354Z",
+  "provider": {
+    "primary": "groq",
+    "fallback": null
+  },
+  "factPack": {
+    "topic": "Why the Bluetooth Logo Looks Like That",
+    "central_question": "Why is the Bluetooth logo that angular symbol, and where did the name come from?",
+    "audience_promise": "Answer one precise question about the Bluetooth symbol using only documented evidence.",
+    "verified_facts": [
+      {
+        "id": "C1",
+        "text": "A temporary code name became the permanent name and logo of a global wireless standard.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C2",
+        "text": "The governing physics: The logo is a bind rune that merges the Younger Futhark runes for Harald Bluetooth's initials.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C3",
+        "text": "Bluetooth sounds like a technical acronym, but it is a king's nickname that was meant to be a placeholder.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C4",
+        "text": "The Bluetooth logo is a Viking king's initials.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C5",
+        "text": "Two runes, merged into one symbol.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C6",
+        "text": "The name honours King Harald Bluetooth, who united Denmark and Norway.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C7",
+        "text": "At an industry meeting, Intel's Jim Kardach suggested it as a temporary code name.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C8",
+        "text": "Harald united Scandinavia. This radio link would unite PCs and phones.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C9",
+        "text": "It was only a placeholder. RadioWire or PAN was meant to replace it.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C10",
+        "text": "PAN was already everywhere online, and RadioWire's trademark check ran out of time.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C11",
+        "text": "So the logo merges Harald's initials in runes: H and B.",
+        "source": "editorial narration (case file)",
+        "rewrite": false
+      },
+      {
+        "id": "C12",
+        "text": "King Harald Bluetooth Gormsson was known for uniting Denmark and Norway in 958.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C13",
+        "text": "Harald's nickname came from a dead tooth of a dark blue-grey colour.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C14",
+        "text": "In 1996 Intel, Ericsson and Nokia met to plan the standardization of a short-range radio technology.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C15",
+        "text": "At that meeting Jim Kardach of Intel suggested Bluetooth as a temporary code name.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C16",
+        "text": "Kardach compared Harald uniting Scandinavia with uniting the PC and cellular industries through a short-range wireless link.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C17",
+        "text": "Bluetooth was intended only as a placeholder name.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C18",
+        "text": "The planned replacement names were RadioWire or PAN (Personal Area Networking).",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C19",
+        "text": "PAN already had tens of thousands of hits on the internet.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C20",
+        "text": "A full trademark search on RadioWire could not be completed in time for launch.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C21",
+        "text": "The Bluetooth logo is a bind rune merging the Younger Futhark runes Hagall and Bjarkan, Harald's initials.",
+        "source": "Bluetooth SIG — Origin of the Name",
+        "rewrite": false
+      },
+      {
+        "id": "C22",
+        "text": "Kardach proposed the code name after seeing a picture of Harald Bluetooth's runestone in a history of the Vikings.",
+        "source": "Wikipedia — Bluetooth",
+        "rewrite": false
+      },
+      {
+        "id": "C23",
+        "text": "A symbol is a mark, sign, or word that indicates, signifies, or is understood as representing an idea, object, relationship, or mathematical formula.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C24",
+        "text": "Symbols allow people to go beyond what is known or seen by creating linkages between otherwise different concepts and experiences.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C25",
+        "text": "All communication is achieved through the use of symbols: for example, a red octagon is a common symbol for \"STOP\"; on maps, blue lines often represent rivers; and a red rose often symbolizes love and compassion.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C26",
+        "text": "Numerals are symbols for numbers; letters of an alphabet may be symbols for certain phonemes; and personal names are symbols representing individuals.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C27",
+        "text": "The academic study of symbols is called semiotics.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C28",
+        "text": "In the arts, symbolism is the use of a concrete element to represent a more abstract idea.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C29",
+        "text": "In cartography, an organized collection of symbols forms a legend for a map.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C30",
+        "text": "A literary or artistic symbol as an \"outward sign\" of something else is a metaphorical extension of this notion of a message from a sender to a recipient.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C31",
+        "text": "In English, the meaning \"something which stands for something else\" was first recorded in 1590, in Edmund Spenser's Faerie Queene.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C32",
+        "text": "Symbols are a means of complex communication that often can have multiple levels of meaning.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C33",
+        "text": "Symbols are the basis of all human understanding and serve as vehicles of conception for all human knowledge.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C34",
+        "text": "Symbols facilitate understanding of the world in which we live, thus serving as the grounds upon which we make judgments.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C35",
+        "text": "In this way, people use symbols not only to make sense of the world around them but also to identify and cooperate in society through constitutive rhetoric.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C36",
+        "text": "Human cultures use symbols to express specific ideologies and social structures and to represent aspects of their specific culture.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C37",
+        "text": "Thus, symbols carry meanings that depend upon one's cultural background.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C38",
+        "text": "As a result, the meaning of a symbol is not inherent in the symbol itself but is culturally learned.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C39",
+        "text": "Heinrich Zimmer gives a concise overview of the nature, and perennial relevance, of symbols.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C40",
+        "text": "Concepts and words are symbols, just as visions, rituals, and images are; so too are the manners and customs of daily life.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C41",
+        "text": "Through all of these, a transcendent reality is mirrored.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C42",
+        "text": "There are so many metaphors reflecting and implying something which, though thus variously expressed, is ineffable, though thus rendered multiform, remains inscrutable.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C43",
+        "text": "Symbols hold the mind to truth but are not themselves the truth, hence it is delusory to borrow them.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C44",
+        "text": "Each civilisation, every age, must bring forth its own.\" In the book Signs and Symbols, it is stated that A symbol ... is a visual image or sign representing an idea – a deeper indicator of universal truth.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C45",
+        "text": "Semiotics is the study of signs, symbols, and signification as communicative behavior.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C46",
+        "text": "Semiotics studies focus on the relationship of the signifier and the signified, also taking into account the interpretation of visual cues, body language, sound, and other contextual clues.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C47",
+        "text": "Semiotics is linked with linguistics and psychology.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C48",
+        "text": "Semioticians not only study what a symbol implies but also how it got its meaning and how it functions to make meaning in society.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C49",
+        "text": "For example, symbols can cause confusion in translation when the same symbol means different things in the source and target languages.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C50",
+        "text": "A potential error documented in survey translation is the symbol of \"x\" used to denote \"yes\" when marking a response in the English language surveys, but \"x\" usually means \"no\" in the Chinese convention.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C51",
+        "text": "Symbols allow the human brain continuously to create meaning using sensory input and decode symbols through both denotation and connotation.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C52",
+        "text": "An alternative definition of symbol, distinguishing it from the term sign was proposed by Swiss psychoanalyst Carl Jung.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C53",
+        "text": "In his studies on what is now called Jungian archetypes, a sign stands for something known, as a word stands for its referent.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C54",
+        "text": "He contrasted a sign with a symbol: something that is unknown and that cannot be made clear or precise.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C55",
+        "text": "An example of a symbol in this sense is Christ as a symbol of the archetype called self.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C56",
+        "text": "Kenneth Burke described Homo sapiens as a \"symbol-using, symbol making, and symbol misusing animal\" to suggest that a person creates symbols as well as misuses them.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C57",
+        "text": "One example he uses to indicate what he means by the misuse of the symbol is the story of a man who, when told that a particular food item was whale blubber, could barely keep from throwing it up.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C58",
+        "text": "Later, his friend discovered it was actually just a dumpling.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C59",
+        "text": "But the man's reaction was a direct consequence of the symbol of \"blubber\" representing something inedible in his mind.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C60",
+        "text": "In addition, the symbol of \"blubber\" was created by the man through various kinds of learning.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C61",
+        "text": "Burke goes on to describe symbols as also being derived from Sigmund Freud's work on condensation and displacement, further stating that symbols are not just relevant to the theory of dreams but also to \"normal symbol systems\".",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C62",
+        "text": "He says they are related through \"substitution\", where one word, phrase, or symbol is substituted for another in order to change the meaning.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C63",
+        "text": "In other words, if one person does not understand a certain word or phrase, another person may substitute a synonym or symbol in order to get the meaning across.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C64",
+        "text": "However, upon learning the new way of interpreting a specific symbol, the person may change his or her already-formed ideas to incorporate the new information.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C65",
+        "text": "Jean Dalby Clift says that people not only add their own interpretations to symbols, but they also create personal symbols that represent their own understanding of their lives: what she calls \"core images\" of the person.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C66",
+        "text": "Clift argues that symbolic work with these personal symbols or core images can be as useful as working with dream symbols in psychoanalysis or counseling.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C67",
+        "text": "William Indick suggests that the symbols that are commonly found in myth, legend, and fantasy fulfill psychological functions and hence are why archetypes such as \"the hero\", \"the princess\" and \"the witch\" have remained popular for centuries.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C68",
+        "text": "Symbols can carry symbolic value in three primary forms: Ideological, comparative, and isomorphic.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C69",
+        "text": "Ideological symbols such as religious and state symbols convey complex sets of beliefs and ideas that indicate \"the right thing to do\".",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C70",
+        "text": "Comparative symbols such as prestigious office addresses, fine art, and prominent awards indicate answers to questions of \"better or worse\" and \"superior or inferior\".",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C71",
+        "text": "Isomorphic symbols blend in with the surrounding cultural environment such that they enable individuals and organizations to conform to their surroundings and evade social and political scrutiny.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C72",
+        "text": "Examples of symbols with isomorphic value include wearing a professional dress during business meetings, shaking hands to greet others in the West, or bowing to greet others in the East.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C73",
+        "text": "A single symbol can carry multiple distinct meanings such that it provides multiple types of symbolic value.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C74",
+        "text": "Paul Tillich argued that, while signs are invented and forgotten, symbols are born and die.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C75",
+        "text": "There are, therefore, dead and living symbols.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C76",
+        "text": "A living symbol can reveal to an individual hidden levels of meaning and transcendent or religious realities.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C77",
+        "text": "For Tillich a symbol always \"points beyond itself\" to something that is unquantifiable and mysterious; symbols open up the \"depth dimension of reality itself\".",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C78",
+        "text": "Symbols are complex, and their meanings can evolve as the individual or culture evolves.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C79",
+        "text": "When a symbol loses its meaning and power for an individual or culture, it becomes a dead symbol.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C80",
+        "text": "When a symbol becomes identified with the deeper reality to which it refers, it becomes idolatrous as the \"symbol is taken for reality.\" The symbol itself is substituted for the deeper meaning it intends to convey.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C81",
+        "text": "The unique nature of a symbol is that it gives access to deeper layers of reality that are otherwise inaccessible.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C82",
+        "text": "A symbol's meaning may be modified by various factors including popular usage, history, and contextual intent.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C83",
+        "text": "The history of a symbol is one of many factors in determining a particular symbol's apparent meaning.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C84",
+        "text": "Consequently, symbols with emotive power carry problems analogous to false etymologies.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C85",
+        "text": "The context of a symbol may change its meaning.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C86",
+        "text": "Similar five-pointed stars might signify a law enforcement officer or a member of the armed services, depending upon the uniform.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C87",
+        "text": "Symbols are used in cartography to communicate geographical information (generally as point, line, or area features).",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C88",
+        "text": "As with other symbols, visual variables such as size, shape, orientation, texture, and pattern provide meaning to the symbol.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C89",
+        "text": "According to semiotics, map symbols are \"read\" by map users when they make a connection between the graphic mark on the map (the sign), a general concept (the interpretant), and a particular feature of the real world (the referent).",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C90",
+        "text": "Map symbols can thus be categorized by how they suggest this connection: Pictorial symbols (also \"image\", \"iconic\", or \"replicative\") appears as the real-world feature, although it is often in a generalized manner; e.g. a tree icon to represents a forest or green denoting vegetation.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C91",
+        "text": "Functional symbols (also \"representational\") directly represent the activity that takes place at the represented feature; e.g. a picture of a skier to represent a ski resort or a tent to represent a campground.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C92",
+        "text": "Conceptual symbols directly represent a concept related to the represented feature; e.g. a dollar sign to represent an ATM, or a Star of David to represent a Jewish synagogue.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C93",
+        "text": "Conventional symbols (also \"associative\") do not have any intuitive relationship but are so commonly used that map readers eventually learn to recognize them; e.g. a red line to represent a highway or a cross to represent a hospital.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C94",
+        "text": "Abstract/geometric symbols (also \"ad hoc\") are arbitrary shapes chosen by the cartographer to represent a certain feature.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C95",
+        "text": "A symbolic action is an action that symbolizes or signals what the actor wants or believes.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C96",
+        "text": "The action conveys meaning to the viewers.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C97",
+        "text": "Symbolic action may overlap with symbolic speech, such as the use of flag burning to express hostility or saluting the flag to express patriotism.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      },
+      {
+        "id": "C98",
+        "text": "In response to intense public criticism, businesses, organizations, and governments may take symbolic actions rather than, or in addition to, directly addressing the identified problems.",
+        "source": "Wikipedia — Symbol",
+        "rewrite": true
+      }
+    ],
+    "bounded_interpretations": [],
+    "uncertain_claims": [],
+    "visual_leads": [
+      {
+        "text": "the Bluetooth logo on a phone settings screen",
+        "source": null,
+        "start": null,
+        "origin": "case-file"
+      },
+      {
+        "text": "the two runes drawn separately",
+        "source": null,
+        "start": null,
+        "origin": "case-file"
+      },
+      {
+        "text": "the runes sliding together into the logo",
+        "source": null,
+        "start": null,
+        "origin": "case-file"
+      },
+      {
+        "text": "a runestone carving",
+        "source": null,
+        "start": null,
+        "origin": "case-file"
+      },
+      {
+        "text": "a laptop and phone pairing",
+        "source": null,
+        "start": null,
+        "origin": "case-file"
+      },
+      {
+        "text": "Encoding communication",
+        "source": "Commons: Encoding communication.jpg",
+        "origin": "article-image (licence check pending)"
+      }
+    ]
+  },
+  "blueprint": {
+    "central_question": "Why is the Bluetooth logo that angular symbol, and where did the name come from?",
+    "audience_promise": "Answer one precise question about the Bluetooth symbol using only documented evidence.",
+    "narrative_angle": "A Viking king’s initials, captured in two Younger Futhark runes, were borrowed as a temporary code‑name for a short‑range radio link. That placeholder stuck, turning a bind‑rune logo into a lasting brand that unites devices just as King Harald Bluetooth united Scandinavia.",
+    "hook_candidates": [
+      "[object Object].",
+      "[object Object].",
+      "[object Object]."
+    ],
+    "retention_beats": [
+      "[object Object].",
+      "[object Object].",
+      "[object Object].",
+      "[object Object].",
+      "[object Object].",
+      "[object Object].",
+      "[object Object].",
+      "[object Object].",
+      "[object Object]."
+    ],
+    "uncertain_claims": [],
+    "section_plan": [
+      {
+        "section": "COLD_OPEN",
+        "question": "What is the unresolved consequence the viewer sees first?",
+        "claimIds": [
+          "C1",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11",
+          "C23"
+        ]
+      },
+      {
+        "section": "THE_QUESTION",
+        "question": "What familiar detail are we actually explaining?",
+        "claimIds": [
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11"
+        ]
+      },
+      {
+        "section": "ORIGIN_CONTEXT",
+        "question": "Where did this design come from?",
+        "claimIds": [
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C22"
+        ]
+      },
+      {
+        "section": "THE_PROBLEM",
+        "question": "What practical problem shaped it?",
+        "claimIds": [
+          "C19",
+          "C20"
+        ]
+      },
+      {
+        "section": "THE_EXPLANATION",
+        "question": "What does the documented evidence show?",
+        "claimIds": [
+          "C2",
+          "C16",
+          "C30",
+          "C31",
+          "C32",
+          "C33",
+          "C34",
+          "C35",
+          "C36",
+          "C37",
+          "C38",
+          "C39",
+          "C40",
+          "C41",
+          "C42",
+          "C43",
+          "C44",
+          "C45",
+          "C46",
+          "C47",
+          "C48",
+          "C49",
+          "C50",
+          "C51",
+          "C68",
+          "C69",
+          "C70",
+          "C71",
+          "C72",
+          "C73",
+          "C74",
+          "C75",
+          "C76",
+          "C77",
+          "C78",
+          "C79",
+          "C80",
+          "C81",
+          "C82",
+          "C83",
+          "C84",
+          "C85",
+          "C86",
+          "C87",
+          "C88",
+          "C89",
+          "C90",
+          "C91",
+          "C92",
+          "C93",
+          "C94",
+          "C95",
+          "C96",
+          "C97",
+          "C98"
+        ]
+      },
+      {
+        "section": "SURPRISING_DETAIL",
+        "question": "Which detail changes the obvious explanation?",
+        "claimIds": [
+          "C3",
+          "C17",
+          "C18"
+        ]
+      },
+      {
+        "section": "REAL_WORLD_CONSEQUENCE",
+        "question": "How did the design persist or change?",
+        "claimIds": [
+          "C1",
+          "C23"
+        ]
+      },
+      {
+        "section": "FINAL_PAYOFF",
+        "question": "What is the precise answer to the opening question?",
+        "claimIds": [
+          "C21"
+        ]
+      },
+      {
+        "section": "NEXT_CURIOSITY_BRIDGE",
+        "question": "Which related ordinary detail follows naturally?",
+        "claimIds": []
+      }
+    ]
+  },
+  "sections": [
+    {
+      "section": "COLD_OPEN",
+      "paragraphs": [
+        {
+          "text": "Two runes, merged into one symbol.",
+          "claims": [],
+          "role": "cold-open"
+        }
+      ]
+    },
+    {
+      "section": "THE_QUESTION",
+      "paragraphs": [
+        {
+          "text": "The Bluetooth logo displays a Viking king’s initials, created by merging two runes that represent H and B.",
+          "claims": [
+            "C4",
+            "C5",
+            "C11"
+          ],
+          "role": "evidence"
+        },
+        {
+          "text": "The name honors King Harald Bluetooth, who united Denmark and Norway, and the radio link was intended to unite PCs and phones.",
+          "claims": [
+            "C6",
+            "C8"
+          ],
+          "role": "evidence"
+        },
+        {
+          "text": "Intel’s Jim Kardach proposed the name as a temporary code name; it was only a placeholder, with RadioWire or PAN slated to replace it, and PAN was already widespread while RadioWire’s trademark check ran out of time.",
+          "claims": [
+            "C7",
+            "C9",
+            "C10"
+          ],
+          "role": "evidence"
+        }
+      ]
+    },
+    {
+      "section": "ORIGIN_CONTEXT",
+      "paragraphs": [
+        {
+          "text": "King Harald Bluetooth Gormsson, noted for uniting Denmark and Norway in 958, earned his nickname from a dead tooth of a dark blue‑grey colour.",
+          "claims": [
+            "C12",
+            "C13"
+          ],
+          "role": "evidence"
+        },
+        {
+          "text": "In 1996 Intel, Ericsson and Nokia convened to plan a short‑range radio standard, and Jim Kardach of Intel suggested Bluetooth as a temporary code name.",
+          "claims": [
+            "C14",
+            "C15"
+          ],
+          "role": "evidence"
+        },
+        {
+          "text": "Kardach chose the name after seeing a picture of Harald Bluetooth’s runestone in a Viking history.",
+          "claims": [
+            "C22"
+          ],
+          "role": "evidence"
+        }
+      ]
+    },
+    {
+      "section": "THE_PROBLEM",
+      "paragraphs": [
+        {
+          "text": "PAN already had tens of thousands of hits on the internet. A full trademark search on RadioWire could not be completed in time for launch.",
+          "claims": [
+            "C19",
+            "C20"
+          ],
+          "role": "evidence"
+        }
+      ]
+    },
+    {
+      "section": "THE_EXPLANATION",
+      "paragraphs": [
+        {
+          "text": "The Bluetooth emblem is a bind rune that fuses the Younger Futhark characters representing Harald Bluetooth’s initials, and its naming story likens the king’s unification of Scandinavia to the technology’s linking of computers and phones.",
+          "claims": [
+            "C2",
+            "C16"
+          ],
+          "role": "evidence"
+        },
+        {
+          "text": "Viewed as an outward sign, the bind rune stands for wireless linking; symbols enable layered communication, are learned rather than inherent, and their meaning shifts with culture and context. Semiotics treats symbols as signifiers paired with signifieds, linking visual marks to concepts, a process studied across linguistics and psychology. Scholars such as Heinrich Zimmer note their timeless relevance. Symbols can convey ideology, compare status, or blend seamlessly into surroundings, becoming isomorphic; examples include dress codes or greetings. A single mark may hold multiple values, be living or dead, and evolve with history. Living symbols can reveal hidden layers, while dead symbols lose power; they may be taken as reality, pointing beyond themselves to mystery. Meaning may be altered by usage, history, intent, emotive force, or context, and similar forms can differ by uniform. Map symbols illustrate categories—pictorial, functional, conceptual, conventional, abstract—showing how visual variables and learned conventions represent real‑world features. Symbolic actions, from flag burning to corporate gestures, further demonstrate how signs signal beliefs and intentions.",
+          "claims": [
+            "C30",
+            "C31",
+            "C32",
+            "C33",
+            "C34",
+            "C35",
+            "C36",
+            "C37",
+            "C38",
+            "C39",
+            "C40",
+            "C41",
+            "C42",
+            "C43",
+            "C44",
+            "C45",
+            "C46",
+            "C47",
+            "C48",
+            "C49",
+            "C50",
+            "C51",
+            "C68",
+            "C69",
+            "C70",
+            "C71",
+            "C72",
+            "C73",
+            "C74",
+            "C75",
+            "C76",
+            "C77",
+            "C78",
+            "C79",
+            "C80",
+            "C81",
+            "C82",
+            "C83",
+            "C84",
+            "C85",
+            "C86",
+            "C87",
+            "C88",
+            "C89",
+            "C90",
+            "C91",
+            "C92",
+            "C93",
+            "C94",
+            "C95",
+            "C96",
+            "C97",
+            "C98"
+          ],
+          "role": "evidence"
+        }
+      ]
+    },
+    {
+      "section": "SURPRISING_DETAIL",
+      "paragraphs": [
+        {
+          "text": "Bluetooth was coined as a placeholder, borrowing a king’s nickname rather than a technical acronym, and the intended permanent names were RadioWire or PAN.",
+          "claims": [
+            "C3",
+            "C17",
+            "C18"
+          ],
+          "role": "evidence"
+        }
+      ]
+    },
+    {
+      "section": "REAL_WORLD_CONSEQUENCE",
+      "paragraphs": [
+        {
+          "text": "The provisional code name was adopted as the enduring name and logo of the worldwide wireless standard, and the logo functions as a visual mark that conveys the idea of unified connectivity.",
+          "claims": [
+            "C1",
+            "C23"
+          ],
+          "role": "evidence"
+        }
+      ]
+    },
+    {
+      "section": "FINAL_PAYOFF",
+      "paragraphs": [
+        {
+          "text": "The Bluetooth logo is a bind rune that merges the Younger Futhark runes Hagall and Bjarkan, forming King Harald’s initials.",
+          "claims": [
+            "C21"
+          ],
+          "role": "evidence"
+        }
+      ]
+    },
+    {
+      "section": "NEXT_CURIOSITY_BRIDGE",
+      "paragraphs": []
+    }
+  ],
+  "usage": {
+    "input_tokens": 12411,
+    "output_tokens": 7992
+  },
+  "providerUsed": "groq",
+  "model": "openai/gpt-oss-120b",
+  "depthNote": "All statements are directly supported by the supplied claim IDs; no additional facts were introduced. Only the supplied claim IDs were used; no additional facts were introduced. Paragraph uses only claims C19 and C20 as required. The placeholder origin and abandoned alternatives shift the simple branding story. Evidence limited to two claims; paragraph stays concise. Only claim C21 supports this answer; evidence is limited to a single confirmed fact.",
+  "error": {
+    "code": "RATE_LIMIT",
+    "provider": "groq",
+    "stage": "section:SURPRISING_DETAIL",
+    "retryable": true,
+    "retryAfterMs": 19000
+  },
+  "quality": {
+    "duplicateSections": [],
+    "repeatedPhrases": [],
+    "weakHook": false,
+    "payoff": true,
+    "filler": [],
+    "introShare": 0.18,
+    "missingPlanSections": [],
+    "hardFails": [],
+    "notes": []
+  }
+}

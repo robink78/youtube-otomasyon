@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Touchscreen Steering That Confused a Warship's Crew",
+  "kaynaklar": [
+    {
+      "ad": "uss-john-s-mccain-collis-1.jpg",
+      "wikimedia": "US Navy 170821-N-OU129-022 Damage to the portside of USS John S. McCain (DDG 56).jpg"
+    },
+    {
+      "ad": "uss-john-s-mccain-collis-2.jpg",
+      "wikimedia": "170821-N-WJ640-030 (36432050630).jpg"
+    },
+    {
+      "ad": "uss-john-s-mccain-collis-3.jpg",
+      "wikimedia": "170824-N-N0101-001 (36828384185).jpg"
+    },
+    {
+      "ad": "uss-john-s-mccain-collis-4.jpg",
+      "wikimedia": "170824-N-N0101-002 (36828383585).jpg"
+    },
+    {
+      "ad": "uss-john-s-mccain-collis-5.jpg",
+      "wikimedia": "USS John S. McCain offizielle Trauerveranstaltung.jpg"
+    },
+    {
+      "ad": "uss-john-s-mccain-collis-6.jpg",
+      "wikimedia": "USS John S. McCain Geleit.jpg"
+    },
+    {
+      "ad": "uss-john-s-mccain-collis-7.jpg",
+      "wikimedia": "USS John S. McCain (DDG-56) aboard MV Treasure on 7 October 2017 (171007-N-N2201-002).JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Near Singapore, the destroyer John S. McCain collided with an oil tanker.",
+      "kaynak": "Footage/uss-john-s-mccain-collis-1.jpg"
+    },
+    {
+      "metin": "Flooding hit crew berthing, and ten sailors died.",
+      "kaynak": "Footage/uss-john-s-mccain-collis-2.jpg"
+    },
+    {
+      "metin": "The crew believed they'd lost steering.",
+      "kaynak": "Footage/uss-john-s-mccain-collis-3.jpg"
+    },
+    {
+      "metin": "Control had been shifted between stations.",
+      "kaynak": "Footage/uss-john-s-mccain-collis-4.jpg"
+    },
+    {
+      "metin": "The touchscreen controls were overly complex.",
+      "kaynak": "Footage/uss-john-s-mccain-collis-5.jpg"
+    },
+    {
+      "metin": "Sailors weren't sure where key indicators were.",
+      "kaynak": "Footage/uss-john-s-mccain-collis-6.jpg"
+    },
+    {
+      "metin": "Reports also cited fatigue and poor communication.",
+      "kaynak": "Footage/uss-john-s-mccain-collis-7.jpg"
+    },
+    {
+      "metin": "The Navy moved back toward physical controls.",
+      "kaynak": "Footage/uss-john-s-mccain-collis-1.jpg"
+    }
+  ],
+  "aciklama": "USS John S. McCain collided with a tanker near Singapore. The cause: overly complex touchscreen controls and a fatigued crew mishandling a steering transfer.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "USS John S. McCain",
+    "2017",
+    "touchscreen controls",
+    "engineering failure"
+  ],
+  "hook": "The touchscreen confused them",
+  "soru": "Touchscreens for critical systems?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "USS John S. McCain",
+    "kisa": "USS John S. McCain",
+    "nesne": "Touchscreen controls",
+    "yil": 2017,
+    "sonuc": "collided with a tanker near Singapore",
+    "tetik": "confusion over steering control on touchscreens",
+    "mekanizma": "overly complex touchscreen controls and a fatigued crew mishandling a steering transfer",
+    "sayi": "TEN DIED",
+    "ders": "the Navy moved back toward physical throttle and helm controls",
+    "zincir": [
+      "BUSY STRAIT",
+      "STEERING TRANSFERRED",
+      "CREW CONFUSED BY SCREENS",
+      "SHIP TURNS INTO TRAFFIC",
+      "COLLISION"
+    ],
+    "zaman": [],
+    "yanilgi": "The steering didn't break. The crew thought they'd lost it because the controls were confusing.",
+    "tartisma": "The Navy later returned to physical controls. Are touchscreens safe for critical systems?",
+    "basliklar": [
+      "The Touchscreen Steering That Confused a Warship's Crew",
+      "Why USS John S. McCain Collided",
+      "The Touchscreen That Steered a Ship Into a Tanker"
+    ],
+    "kapak": [
+      "TOUCHSCREEN",
+      "TEN DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS John S. McCain and Alnic MC collision",
+        "url": "https://en.wikipedia.org/wiki/USS_John_S._McCain_and_Alnic_MC_collision"
+      },
+      {
+        "ad": "NTSB — MAR1901 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/MAR1901.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "USS_John_S._McCain_and_Alnic_MC_collision",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "US Navy 170821-N-OU129-022 Damage to the portside of USS John S. McCain (DDG 56).jpg [Public domain]",
+      "170821-N-WJ640-030 (36432050630).jpg [Public domain]",
+      "170824-N-N0101-001 (36828384185).jpg [Public domain]",
+      "170824-N-N0101-002 (36828383585).jpg [Public domain]",
+      "USS John S. McCain offizielle Trauerveranstaltung.jpg [Public domain]",
+      "USS John S. McCain Geleit.jpg [Public domain]",
+      "USS John S. McCain (DDG-56) aboard MV Treasure on 7 October 2017 (171007-N-N2201-002).JPG [Public domain]"
+    ]
+  }
+}

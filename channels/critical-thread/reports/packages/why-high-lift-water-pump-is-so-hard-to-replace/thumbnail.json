@@ -1,0 +1,41 @@
+{
+  "subject": "high-lift water pump",
+  "text": [
+    "NO WATER"
+  ],
+  "maxWords": 3,
+  "palette": [
+    "#07090d",
+    "#c8ced8",
+    "#d6ae5f",
+    "#5aa9e6"
+  ],
+  "clutter": false,
+  "concepts": [
+    {
+      "id": "critical-object",
+      "composition": "high-lift water pump isolated against a dark technical field",
+      "consequence": "faint global network"
+    },
+    {
+      "id": "system-map",
+      "composition": "high-lift water pump centered inside a minimal dependency map",
+      "consequence": "downstream nodes dimmed"
+    },
+    {
+      "id": "scale",
+      "composition": "extreme close view of high-lift water pump",
+      "consequence": "small Earth silhouette"
+    },
+    {
+      "id": "failure",
+      "composition": "high-lift water pump with one precise break or warning marker",
+      "consequence": "restrained dark infrastructure"
+    },
+    {
+      "id": "replacement",
+      "composition": "high-lift water pump beside an empty replacement outline",
+      "consequence": "lead-time clock"
+    }
+  ]
+}

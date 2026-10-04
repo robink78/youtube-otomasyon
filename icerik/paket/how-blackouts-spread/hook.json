@@ -1,0 +1,49 @@
+{
+  "slug": "how-blackouts-spread",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.529Z",
+  "ekranHook": "The domino nobody sees",
+  "mevcut": {
+    "puan": 65,
+    "pencereler": {
+      "0-5": "A single wire can black out an entire country. The power grid is one",
+      "5-12": "giant connected machine. Every line carries only so much before it overheats. When one line trips, its load jumps",
+      "12-20": "to the others. Now those lines are overloaded, so they trip too. In seconds, the failure cascades across the whole network. Millions",
+      "20-30": "of people go dark before anyone can react. Restarting a dead grid can take days of careful work. The whole system is only as strong as its weakest"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A single wire can black out an entire country."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only one line tripping."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is cascading failure — and it is why grid operators now model cascades and shed load early."
+      }
+    ],
+    "metin": "A single wire can black out an entire country. It took only one line tripping. So what actually happens inside? The answer is cascading failure — and it is why grid operators now model cascades and shed load early.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "eastern-212-1974",
+  "format": "short",
+  "olusturuldu": "2026-10-01T14:37:37.027Z",
+  "ekranHook": "SMALL TALK",
+  "mevcut": {
+    "puan": 70,
+    "pencereler": {
+      "0-5": "Nothing broke on the aircraft. It broke apart and burned, and seventy two of",
+      "5-12": "eighty two aboard were killed. Nothing was wrong with the aircraft. On approach, the crew talked about politics and",
+      "12-20": "cars. Nobody watched the altitude closely. The jet descended far below the safe height. Investigators blamed a lack of attention. It led",
+      "20-30": "to the sterile cockpit rule."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 2 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Eastern Air Lines Flight 212 crashed short of the runway at Charlotte."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a crew distracted by idle conversation during approach."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could a crew distracted by idle conversation during approach do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is descent below safe altitude while the crew failed to monitor instruments — and it is why the sterile cockpit rule banned non-essential talk during critical phases."
+      }
+    ],
+    "metin": "Eastern Air Lines Flight 212 crashed short of the runway at Charlotte. It took only a crew distracted by idle conversation during approach. So how could a crew distracted by idle conversation during approach do this? The answer is descent below safe altitude while the crew failed to monitor instruments — and it is why the sterile cockpit rule banned non-essential talk during critical phases.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Wrong Turn Put a Destroyer Under an Aircraft Carrier",
+  "kaynaklar": [
+    {
+      "ad": "uss-frank-e-evans-1.jpg",
+      "wikimedia": "USS Frank E. Evans (DD-754) post collision.jpg"
+    },
+    {
+      "ad": "uss-frank-e-evans-2.jpg",
+      "wikimedia": "Stern section of USS Frank E. Evans (DD-754) tied up alongside USS Everett F. Larson (DD-830), 3 June 1969 (NH 98651).jpg"
+    },
+    {
+      "ad": "uss-frank-e-evans-3.jpg",
+      "wikimedia": "USS Frank E. Evans (DD-754).jpg"
+    },
+    {
+      "ad": "uss-frank-e-evans-4.jpg",
+      "wikimedia": "USS Frank E. Evans (DD-754) at sea, April 1963.jpg"
+    },
+    {
+      "ad": "uss-frank-e-evans-5.jpg",
+      "wikimedia": "USS Frank E. Evans (DD-754) underway at sea, in 1945 (19-N-78354).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In darkness, an aircraft carrier sliced an American destroyer in two.",
+      "kaynak": "Footage/uss-frank-e-evans-1.jpg"
+    },
+    {
+      "metin": "The bow sank in less than five minutes, and seventy four men were killed.",
+      "kaynak": "Footage/uss-frank-e-evans-2.jpg"
+    },
+    {
+      "metin": "The ships were sailing without lights.",
+      "kaynak": "Footage/uss-frank-e-evans-3.jpg"
+    },
+    {
+      "metin": "The destroyer was ordered to take up a rescue station.",
+      "kaynak": "Footage/uss-frank-e-evans-4.jpg"
+    },
+    {
+      "metin": "Its officer thought the ship was on the carrier's other side.",
+      "kaynak": "Footage/uss-frank-e-evans-5.jpg"
+    },
+    {
+      "metin": "It turned across the carrier's bow.",
+      "kaynak": "Footage/uss-frank-e-evans-1.jpg"
+    },
+    {
+      "metin": "HMAS Melbourne had sunk another destroyer the same way before.",
+      "kaynak": "Footage/uss-frank-e-evans-2.jpg"
+    },
+    {
+      "metin": "Night formation procedures came under scrutiny.",
+      "kaynak": "Footage/uss-frank-e-evans-3.jpg"
+    }
+  ],
+  "aciklama": "Frank E. Evans was cut in half by the carrier HMAS Melbourne. The cause: a conning officer misjudging relative position and turning into the carrier's path.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Frank E. Evans",
+    "1969",
+    "destroyer",
+    "engineering failure"
+  ],
+  "hook": "It turned the wrong way",
+  "soru": "Why do failures repeat?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "USS Frank E. Evans",
+    "kisa": "Frank E. Evans",
+    "nesne": "Destroyer",
+    "yil": 1969,
+    "sonuc": "was cut in half by the carrier HMAS Melbourne",
+    "tetik": "a turn across the carrier's bow in darkness",
+    "mekanizma": "a conning officer misjudging relative position and turning into the carrier's path",
+    "sayi": "74 DIED",
+    "ders": "night formation manoeuvre procedures were examined after the collision",
+    "zincir": [
+      "DARKNESS, NO LIGHTS",
+      "ORDERED TO RESCUE STATION",
+      "POSITION MISJUDGED",
+      "TURNS ACROSS CARRIER BOW",
+      "CUT IN TWO"
+    ],
+    "zaman": [],
+    "yanilgi": "The destroyer didn't collide by chance. Its officer believed it was on the carrier's other side.",
+    "tartisma": "Melbourne had cut another destroyer in half years earlier. Why do the same failures repeat?",
+    "basliklar": [
+      "A Wrong Turn Put a Destroyer Under an Aircraft Carrier",
+      "Why USS Frank E. Evans Was Cut in Half",
+      "The Destroyer That Turned the Wrong Way"
+    ],
+    "kapak": [
+      "WRONG TURN",
+      "CUT IN HALF"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Frank E. Evans",
+        "url": "https://en.wikipedia.org/wiki/USS_Frank_E._Evans"
+      },
+      {
+        "ad": "Government source — HMAS EVANS AND MELBOURNE 3 JUN 69 (cited by Wikipedia)",
+        "url": "http://www.jag.navy.mil/library/investigations/HMAS%20EVANS%20AND%20MELBOURNE%203%20JUN%2069.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-16",
+    "wiki": "USS_Frank_E._Evans",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "USS Frank E. Evans (DD-754) post collision.jpg [Public domain]",
+      "Stern section of USS Frank E. Evans (DD-754) tied up alongside USS Everett F. Larson (DD-830), 3 June 1969 (NH 98651).jpg [Public domain]",
+      "USS Frank E. Evans (DD-754).jpg [Public domain]",
+      "USS Frank E. Evans (DD-754) at sea, April 1963.jpg [Public domain]",
+      "USS Frank E. Evans (DD-754) underway at sea, in 1945 (19-N-78354).jpg [Public domain]"
+    ]
+  }
+}

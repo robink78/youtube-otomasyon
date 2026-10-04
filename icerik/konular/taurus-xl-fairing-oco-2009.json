@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Rocket Nose Cone That Wouldn't Open — Twice",
+  "kaynaklar": [
+    {
+      "ad": "taurus-xl-fairing-oco-1.jpg",
+      "wikimedia": "OCO in the first half of the payload fairing.jpg"
+    },
+    {
+      "ad": "taurus-xl-fairing-oco-2.jpg",
+      "wikimedia": "Orbiting Carbon Observatory launch from Vandenberg.jpg"
+    },
+    {
+      "ad": "taurus-xl-fairing-oco-3.jpg",
+      "wikimedia": "Orbiting Carbon Observatory 1.jpg"
+    },
+    {
+      "ad": "taurus-xl-fairing-oco-4.jpg",
+      "wikimedia": "Key Events in the Launch of NASA's OCO-2.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A NASA satellite built to measure carbon dioxide never reached orbit.",
+      "kaynak": "Footage/taurus-xl-fairing-oco-1.jpg"
+    },
+    {
+      "metin": "Minutes after launch, it fell into the ocean.",
+      "kaynak": "Footage/taurus-xl-fairing-oco-2.jpg"
+    },
+    {
+      "metin": "The rocket's nose cone didn't separate.",
+      "kaynak": "Footage/taurus-xl-fairing-oco-3.jpg"
+    },
+    {
+      "metin": "Carrying its extra weight, the rocket couldn't reach orbit.",
+      "kaynak": "Footage/taurus-xl-fairing-oco-4.jpg"
+    },
+    {
+      "metin": "Engineers worked on a fix.",
+      "kaynak": "Footage/taurus-xl-fairing-oco-1.jpg"
+    },
+    {
+      "metin": "Two years later, another NASA satellite was lost the same way.",
+      "kaynak": "Footage/taurus-xl-fairing-oco-2.jpg"
+    },
+    {
+      "metin": "Both flew on the same type of rocket.",
+      "kaynak": "Footage/taurus-xl-fairing-oco-3.jpg"
+    },
+    {
+      "metin": "NASA moved later missions to other launchers.",
+      "kaynak": "Footage/taurus-xl-fairing-oco-4.jpg"
+    }
+  ],
+  "aciklama": "OCO fairing failed to reach orbit. The cause: fairing separation failure leaving the rocket too heavy to reach orbit.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "OCO fairing",
+    "2009",
+    "payload fairing",
+    "engineering failure"
+  ],
+  "hook": "It failed twice",
+  "soru": "Why didn't the fix work?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the Taurus XL launches of OCO and Glory",
+    "kisa": "OCO fairing",
+    "nesne": "Payload fairing",
+    "yil": 2009,
+    "sonuc": "failed to reach orbit",
+    "tetik": "a payload fairing that did not separate",
+    "mekanizma": "fairing separation failure leaving the rocket too heavy to reach orbit",
+    "sayi": "TWICE",
+    "ders": "NASA moved later climate missions to other rockets",
+    "zincir": [
+      "LAUNCH NORMAL",
+      "FAIRING SHOULD SEPARATE",
+      "IT STAYS ON",
+      "ROCKET TOO HEAVY",
+      "SATELLITE FALLS INTO OCEAN"
+    ],
+    "zaman": [],
+    "yanilgi": "The satellite was fine. It never escaped the nose cone meant to protect it.",
+    "tartisma": "The same failure destroyed a second satellite two years later. Why didn't the first fix work?",
+    "basliklar": [
+      "The Rocket Nose Cone That Wouldn't Open — Twice",
+      "Why the Orbiting Carbon Observatory Never Reached Orbit",
+      "The Fairing That Failed Twice"
+    ],
+    "kapak": [
+      "WOULDN'T OPEN",
+      "TWICE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Orbiting Carbon Observatory",
+        "url": "https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory"
+      },
+      {
+        "ad": "NASA — OCO SWG final 508 (cited by Wikipedia)",
+        "url": "https://eospso.gsfc.nasa.gov/ftp_docs/OCO_SWG_final_508.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-14",
+    "wiki": "Orbiting_Carbon_Observatory",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "OCO in the first half of the payload fairing.jpg [Public domain]",
+      "Orbiting Carbon Observatory launch from Vandenberg.jpg [Public domain]",
+      "Orbiting Carbon Observatory 1.jpg [Public domain]",
+      "Key Events in the Launch of NASA's OCO-2.jpg [Public domain]"
+    ]
+  }
+}

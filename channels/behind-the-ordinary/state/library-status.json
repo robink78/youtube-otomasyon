@@ -1,0 +1,47 @@
+{
+  "channel": "behind-the-ordinary",
+  "channelName": "The Hidden Logic of Things",
+  "calculatedAt": "2026-10-04T18:12:34.772Z",
+  "qualifiedTopics": 525,
+  "validatedCandidates": 525,
+  "researchBacklog": 518,
+  "readyShorts": 4,
+  "readyLongForm": 1,
+  "daysOfInventory": 4,
+  "monthsOfInventory": 0.1,
+  "categoryDistribution": {
+    "EVERYDAY MYSTERIES": 105,
+    "HIDDEN ENGINEERING": 105,
+    "STRANGE ORIGINS": 105,
+    "DESIGN DECISIONS": 105,
+    "ORDINARY SYSTEMS": 105
+  },
+  "sourceCoverage": {
+    "Levi Strauss & Co. Archives — Pockets Full of History": 2,
+    "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket": 1,
+    "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts": 2,
+    "Oklahoma Historical Society — Goldman, Sylvan Nathan": 1,
+    "Gateway to Oklahoma History — Shopping Cart at Humpty Dumpty (photograph)": 1,
+    "National Motor Museum — When were Cats Eyes first invented?": 1,
+    "MyLearning — Percy Shaw, the Inventor of Catseyes": 1,
+    "GS1 — EAN/UPC barcodes": 1,
+    "GS1 US — UPCs, barcodes and prefixes": 1,
+    "Bluetooth SIG — Origin of the Name": 1,
+    "Bluetooth SIG — Bluetooth Technology Overview": 1,
+    "DENSO WAVE — History of QR Code": 1,
+    "DENSO WAVE — What is a QR Code?": 1
+  },
+  "blockedTopics": 1,
+  "lowConfidenceTopics": 518,
+  "duplicateTopics": 0,
+  "duplicateRate": 0,
+  "sourceReadyRate": 1.33,
+  "visualReadyRate": 100,
+  "acceptance": {
+    "minimumDays": 365,
+    "minimumQualifiedTopics": 500,
+    "daysPass": false,
+    "topicTargetPass": true,
+    "passes": false
+  }
+}

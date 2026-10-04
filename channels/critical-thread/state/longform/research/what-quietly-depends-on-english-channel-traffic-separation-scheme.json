@@ -1,0 +1,236 @@
+{
+  "schema": "research-package/1",
+  "id": "critical-thread:what-quietly-depends-on-english-channel-traffic-separation-scheme",
+  "channel": "critical-thread",
+  "topicId": "CT-404",
+  "slug": "what-quietly-depends-on-english-channel-traffic-separation-scheme",
+  "subject": "English Channel traffic separation scheme",
+  "cluster": "GLOBAL CHOKEPOINTS",
+  "topicHash": "9348869f6a6e+deep0",
+  "createdAt": "2026-09-30T15:48:35.713Z",
+  "reuseCount": 0,
+  "reusableFor": [
+    "long-form",
+    "derived-shorts",
+    "metadata",
+    "fact-check",
+    "visual-sourcing",
+    "follow-up-episodes"
+  ],
+  "sources": [
+    {
+      "name": "International Maritime Organization",
+      "url": "https://www.imo.org/",
+      "tier": "GOVERNMENT_AGENCY",
+      "score": 95
+    },
+    {
+      "name": "UNCTAD transport and trade logistics",
+      "url": "https://unctad.org/topic/transport-and-trade-logistics",
+      "tier": "GOVERNMENT_AGENCY",
+      "score": 95
+    },
+    {
+      "name": "Wikipedia — English Channel traffic separation scheme",
+      "url": "https://en.wikipedia.org/wiki/English_Channel_traffic_separation_scheme",
+      "tier": "ENCYCLOPEDIA",
+      "score": 55
+    }
+  ],
+  "deepResearch": {
+    "article": "English Channel traffic separation scheme",
+    "claims": 0,
+    "status": "ARTICLE_NOT_FOUND"
+  },
+  "sourceQuality": 95,
+  "primarySources": 2,
+  "claims": [
+    {
+      "id": "C1",
+      "text": "A collision or grounding would block lanes used by hundreds of ships a day.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "International Maritime Organization",
+      "role": "consequence"
+    },
+    {
+      "id": "C2",
+      "text": "A strict scheme of one-way shipping lanes, watched around the clock from both coasts, separates opposing traffic.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "International Maritime Organization",
+      "role": "mechanism"
+    },
+    {
+      "id": "C3",
+      "text": "The key figure: 400+ ships/day.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "International Maritime Organization",
+      "role": "number"
+    },
+    {
+      "id": "C4",
+      "text": "Why 400 ships a day never collide here.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C5",
+      "text": "The Strait of Dover runs on strict one-way lanes.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C6",
+      "text": "It's one of the busiest seaways in the world.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C7",
+      "text": "British and French coastguards watch it 24 hours a day.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C8",
+      "text": "Ferries between England and France must cut across the flow.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C9",
+      "text": "The Channel Tunnel runs 45 metres below the seabed, but carries no ships.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C10",
+      "text": "One collision here could stall traffic for North Sea ports.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C11",
+      "text": "That's why a painted-on-the-chart rulebook keeps trade moving.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C12",
+      "text": "The strait is one of the busiest international seaways in the world, used by over 400 commercial vessels daily.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — Strait of Dover",
+      "role": "evidence"
+    },
+    {
+      "id": "C13",
+      "text": "HM Coastguard and the Maritime Gendarmerie maintain a 24-hour watch over the strait and enforce a strict regime of shipping lanes.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — Strait of Dover",
+      "role": "evidence"
+    },
+    {
+      "id": "C14",
+      "text": "The Channel Tunnel provides an alternative route, crossing beneath the strait at an average depth of 45 m (148 ft) below the seabed.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — Strait of Dover",
+      "role": "evidence"
+    },
+    {
+      "id": "C15",
+      "text": "The first flood that formed the strait was about 425,000 years ago, when an ice-dammed lake in the southern North Sea overflowed.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — Strait of Dover",
+      "role": "evidence"
+    },
+    {
+      "id": "C16",
+      "text": "North Sea ports and Atlantic trade depend on safe passage through the Strait of Dover.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "International Maritime Organization",
+      "role": "dependency"
+    },
+    {
+      "id": "C17",
+      "text": "Through-traffic crosses busy ferry routes between England and France in a narrow strait.",
+      "class": "MODEL",
+      "layer": "MODEL",
+      "source": "International Maritime Organization",
+      "role": "bottleneck"
+    },
+    {
+      "id": "C18",
+      "text": "The Channel Tunnel carries some freight beneath the strait, but not deep-sea cargo.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "International Maritime Organization",
+      "role": "resilience"
+    }
+  ],
+  "visualLeads": [
+    {
+      "text": "traffic separation lanes in the Strait of Dover",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "ferries crossing shipping lanes",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "coastguard radar room",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "Channel Tunnel beneath the seabed",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "ship density heat map",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "white cliffs with passing tankers",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    }
+  ],
+  "footage": [],
+  "gaps": [
+    "2 source(s); long-form needs ≥ 3",
+    "no deep research — long-form depth limited to the Shorts case file"
+  ]
+}

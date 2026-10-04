@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Why So Many Buildings Collapsed in the 1999 İzmit Earthquake",
+  "kaynaklar": [
+    {
+      "ad": "izmit-earthquake-1.jpg",
+      "wikimedia": "August 17, 1999 Izmit earthquake Yuvacik.jpg"
+    },
+    {
+      "ad": "izmit-earthquake-2.jpg",
+      "wikimedia": "A slope failure in the small harbor of Hereke.jpg"
+    },
+    {
+      "ad": "izmit-earthquake-3.jpg",
+      "wikimedia": "A small slope failure from earthquake-related subsidence in the harbor of Hereke.jpg"
+    },
+    {
+      "ad": "izmit-earthquake-4.jpg",
+      "wikimedia": "August 17, 1999 Gölcük earthquake Sirinyali (1).jpg"
+    },
+    {
+      "ad": "izmit-earthquake-5.jpg",
+      "wikimedia": "August 17, 1999 Izmit earthquake Adapazari (1).jpg"
+    },
+    {
+      "ad": "izmit-earthquake-6.jpg",
+      "wikimedia": "August 17, 1999 Izmit earthquake Adapazari (2).jpg"
+    },
+    {
+      "ad": "izmit-earthquake-7.jpg",
+      "wikimedia": "August 17, 1999 Izmit earthquake Arifiye.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A powerful earthquake struck northwest Turkey before dawn.",
+      "kaynak": "Footage/izmit-earthquake-1.jpg"
+    },
+    {
+      "metin": "Thousands of buildings collapsed, and about seventeen thousand people died.",
+      "kaynak": "Footage/izmit-earthquake-2.jpg"
+    },
+    {
+      "metin": "Many were concrete apartment blocks.",
+      "kaynak": "Footage/izmit-earthquake-3.jpg"
+    },
+    {
+      "metin": "Their ground floors were often open shops with few walls.",
+      "kaynak": "Footage/izmit-earthquake-4.jpg"
+    },
+    {
+      "metin": "Concrete quality and steel detailing were frequently poor.",
+      "kaynak": "Footage/izmit-earthquake-5.jpg"
+    },
+    {
+      "metin": "Codes existed but were weakly enforced.",
+      "kaynak": "Footage/izmit-earthquake-6.jpg"
+    },
+    {
+      "metin": "Floors pancaked onto each other.",
+      "kaynak": "Footage/izmit-earthquake-7.jpg"
+    },
+    {
+      "metin": "Turkey then introduced compulsory earthquake insurance and tighter inspections.",
+      "kaynak": "Footage/izmit-earthquake-1.jpg"
+    }
+  ],
+  "aciklama": "Izmit earthquake collapsed many apartment buildings. The cause: soft-storey failures and poor concrete and detailing in reinforced concrete frames.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Izmit earthquake",
+    "1999",
+    "buildings",
+    "engineering failure"
+  ],
+  "hook": "The codes weren't followed",
+  "soru": "How do you enforce quality?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the 1999 İzmit earthquake",
+    "kisa": "Izmit earthquake",
+    "nesne": "Buildings",
+    "yil": 1999,
+    "sonuc": "collapsed many apartment buildings",
+    "tetik": "strong shaking on poorly built reinforced concrete buildings",
+    "mekanizma": "soft-storey failures and poor concrete and detailing in reinforced concrete frames",
+    "sayi": "17,000 DIED",
+    "ders": "Turkey introduced compulsory earthquake insurance and tightened building inspection",
+    "zincir": [
+      "POOR CONCRETE AND STEEL DETAILING",
+      "OPEN GROUND FLOORS",
+      "WEAK CODE ENFORCEMENT",
+      "STRONG SHAKING",
+      "PANCAKE COLLAPSES"
+    ],
+    "zaman": [],
+    "yanilgi": "Many collapsed buildings could have survived if built to the code of the time.",
+    "tartisma": "Codes existed, but enforcement was weak. How do you enforce building quality at scale?",
+    "basliklar": [
+      "Why So Many Buildings Collapsed in the 1999 İzmit Earthquake",
+      "Why Buildings Collapsed in the İzmit Earthquake",
+      "The Construction Quality an Earthquake Exposed"
+    ],
+    "kapak": [
+      "SOFT STOREYS",
+      "17,000 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1999 İzmit earthquake",
+        "url": "https://en.wikipedia.org/wiki/1999_İzmit_earthquake"
+      },
+      {
+        "ad": "Government source — ss549.pdf?sequence=1&isAllowed=y|Deprem (cited by Wikipedia)",
+        "url": "https://acikerisim.tbmm.gov.tr/bitstream/handle/11543/132/ss549.pdf?sequence=1&isAllowed=y%7CDeprem"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "1999_İzmit_earthquake",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "August 17, 1999 Izmit earthquake Yuvacik.jpg [Public domain]",
+      "A slope failure in the small harbor of Hereke.jpg [Public domain]",
+      "A small slope failure from earthquake-related subsidence in the harbor of Hereke.jpg [Public domain]",
+      "August 17, 1999 Gölcük earthquake Sirinyali (1).jpg [Public domain]",
+      "August 17, 1999 Izmit earthquake Adapazari (1).jpg [Public domain]",
+      "August 17, 1999 Izmit earthquake Adapazari (2).jpg [Public domain]",
+      "August 17, 1999 Izmit earthquake Arifiye.jpg [Public domain]"
+    ]
+  }
+}

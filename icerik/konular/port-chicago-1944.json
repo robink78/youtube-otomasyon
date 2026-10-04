@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Munitions Pier That Exploded During Loading",
+  "kaynaklar": [
+    {
+      "ad": "port-chicago-1.jpg",
+      "wikimedia": "PortChicagoBoxcarRevetment.jpg"
+    },
+    {
+      "ad": "port-chicago-2.jpg",
+      "wikimedia": "Portchicago.jpg"
+    },
+    {
+      "ad": "port-chicago-3.jpg",
+      "wikimedia": "Portchicago2.jpg"
+    },
+    {
+      "ad": "port-chicago-4.jpg",
+      "wikimedia": "Port Chicago Naval Magazine National Memorial POCH 0007.jpg"
+    },
+    {
+      "ad": "port-chicago-5.jpg",
+      "wikimedia": "Quinault victory.JPG"
+    },
+    {
+      "ad": "port-chicago-6.jpg",
+      "wikimedia": "Port Chicago Naval Magazine National Memorial POCH 0001.jpg"
+    },
+    {
+      "ad": "port-chicago-7.jpg",
+      "wikimedia": "PortChicago-aerial-construction.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A munitions pier in California exploded as ships were being loaded.",
+      "kaynak": "Footage/port-chicago-1.jpg"
+    },
+    {
+      "metin": "The blast destroyed both ships and the pier, killing three hundred twenty men.",
+      "kaynak": "Footage/port-chicago-2.jpg"
+    },
+    {
+      "metin": "Loading was racing to meet targets.",
+      "kaynak": "Footage/port-chicago-3.jpg"
+    },
+    {
+      "metin": "Most sailors had no training in handling explosives.",
+      "kaynak": "Footage/port-chicago-4.jpg"
+    },
+    {
+      "metin": "Munitions detonated during the work.",
+      "kaynak": "Footage/port-chicago-5.jpg"
+    },
+    {
+      "metin": "Survivors who then refused unsafe work were court-martialled.",
+      "kaynak": "Footage/port-chicago-6.jpg"
+    },
+    {
+      "metin": "The case became a landmark in civil rights history.",
+      "kaynak": "Footage/port-chicago-7.jpg"
+    },
+    {
+      "metin": "The Navy changed its munitions-handling procedures.",
+      "kaynak": "Footage/port-chicago-1.jpg"
+    }
+  ],
+  "aciklama": "Port Chicago exploded while ships were being loaded with munitions. The cause: detonation of explosives during hurried, poorly supervised loading.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Port Chicago",
+    "1944",
+    "munitions pier",
+    "engineering failure"
+  ],
+  "hook": "Loaded too fast",
+  "soru": "Refuse unsafe work?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Port Chicago pier",
+    "kisa": "Port Chicago",
+    "nesne": "Munitions pier",
+    "yil": 1944,
+    "sonuc": "exploded while ships were being loaded with munitions",
+    "tetik": "munitions detonating during rushed loading",
+    "mekanizma": "detonation of explosives during hurried, poorly supervised loading",
+    "sayi": "320 KILLED",
+    "ders": "the Navy changed munitions-handling training and procedures",
+    "zincir": [
+      "LOADING RACES TO MEET QUOTAS",
+      "LITTLE TRAINING",
+      "MUNITIONS DETONATE",
+      "SHIPS AND PIER DESTROYED",
+      "SAFETY PROTESTS FOLLOW"
+    ],
+    "zaman": [],
+    "yanilgi": "The workers had not been trained in handling explosives. Speed was prioritized.",
+    "tartisma": "Sailors who refused to return to unsafe work were court-martialled. When is refusing unsafe work justified?",
+    "basliklar": [
+      "The Munitions Pier That Exploded During Loading",
+      "Why the Port Chicago Pier Exploded",
+      "The Munitions Loaded Too Fast"
+    ],
+    "kapak": [
+      "TOO FAST",
+      "320 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Port Chicago disaster",
+        "url": "https://en.wikipedia.org/wiki/Port_Chicago_disaster"
+      },
+      {
+        "ad": "US Coast Guard — Gracey Interview 1 12 (cited by Wikipedia)",
+        "url": "http://www.uscg.mil/History/WEBORALHISTORY/Gracey_Interview_1_12.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "Port_Chicago_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "PortChicagoBoxcarRevetment.jpg [Public domain]",
+      "Portchicago.jpg [Public domain]",
+      "Portchicago2.jpg [Public domain]",
+      "Port Chicago Naval Magazine National Memorial POCH 0007.jpg [Public domain]",
+      "Quinault victory.JPG [Public domain]",
+      "Port Chicago Naval Magazine National Memorial POCH 0001.jpg [Public domain]",
+      "PortChicago-aerial-construction.jpg [Public domain]"
+    ]
+  }
+}

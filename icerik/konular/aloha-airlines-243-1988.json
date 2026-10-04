@@ -1,0 +1,123 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Roof Ripped Off a Plane at 24,000 Feet",
+  "kaynaklar": [
+    {
+      "ad": "aloha-airlines-243-1.png",
+      "wikimedia": "Aloha Airlines Flight 243 fuselage.png"
+    },
+    {
+      "ad": "aloha-airlines-243-2.jpg",
+      "wikimedia": "Aloha Airlines Flight 243 fuselage left side.jpeg"
+    },
+    {
+      "ad": "aloha-airlines-243-3.jpg",
+      "wikimedia": "Ruta243aloha.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At twenty four thousand feet, the roof of a jet tore away.",
+      "kaynak": "Footage/aloha-airlines-243-1.png"
+    },
+    {
+      "metin": "The cabin tore open, and a flight attendant was killed.",
+      "kaynak": "Footage/aloha-airlines-243-2.jpg"
+    },
+    {
+      "metin": "So what ripped open a plane?",
+      "kaynak": "Footage/aloha-airlines-243-3.jpg"
+    },
+    {
+      "metin": "This jet had flown many short, salty island flights.",
+      "kaynak": "Footage/aloha-airlines-243-1.png"
+    },
+    {
+      "metin": "Corrosion loosened a joint along a row of rivets.",
+      "kaynak": "Footage/aloha-airlines-243-2.jpg"
+    },
+    {
+      "metin": "Tiny fatigue cracks grew, then linked into one long tear.",
+      "kaynak": "Footage/aloha-airlines-243-3.jpg"
+    },
+    {
+      "metin": "The pilots still landed it safely on Maui.",
+      "kaynak": "Footage/aloha-airlines-243-1.png"
+    },
+    {
+      "metin": "Now ageing aircraft are inspected for exactly this damage.",
+      "kaynak": "Footage/aloha-airlines-243-2.jpg"
+    }
+  ],
+  "aciklama": "Aloha 243 lost a large section of its roof in flight. The cause: multiple-site fatigue damage and corrosion in a fuselage lap joint.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Aloha Airlines 243",
+    "metal fatigue",
+    "Boeing 737",
+    "decompression",
+    "1988"
+  ],
+  "hook": "The roof tore off",
+  "soru": "Would you have kept flying?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "Aloha Airlines Flight 243",
+    "kisa": "Aloha 243",
+    "nesne": "Fuselage",
+    "yil": 1988,
+    "sonuc": "lost a large section of its roof in flight",
+    "tetik": "tiny fatigue cracks linking up along a lap joint",
+    "mekanizma": "multiple-site fatigue damage and corrosion in a fuselage lap joint",
+    "sayi": "24,000 FT",
+    "ders": "ageing aircraft now get mandatory inspections for multiple-site fatigue damage",
+    "zincir": [
+      "HUMID SALTY AIR, MANY SHORT FLIGHTS",
+      "LAP JOINT CORRODES AND DISBONDS",
+      "SMALL FATIGUE CRACKS FORM",
+      "CRACKS LINK UP",
+      "ROOF TEARS AWAY"
+    ],
+    "zaman": [
+      {
+        "t": "Apr 28, 1988",
+        "olay": "Explosive decompression near 24,000 ft"
+      }
+    ],
+    "yanilgi": "No single big crack did it. Many tiny cracks along a row of rivets joined into one long tear.",
+    "tartisma": "A passenger reportedly saw a crack while boarding. How should a warning from a passenger be handled?",
+    "basliklar": [
+      "The Roof Ripped Off a Plane at 24,000 Feet",
+      "How Aloha 243 Landed Without a Roof",
+      "The Tiny Cracks That Opened a Jet"
+    ],
+    "kapak": [
+      "NO ROOF",
+      "24,000 FT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Aloha Airlines Flight 243",
+        "url": "https://en.wikipedia.org/wiki/Aloha_Airlines_Flight_243"
+      },
+      {
+        "ad": "NTSB Aircraft Accident Report AAR-89-03 — Aloha Airlines Flight 243",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR8903.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Aloha_Airlines_Flight_243",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Aloha Airlines Flight 243 fuselage.png [Public domain]",
+      "Aloha Airlines Flight 243 fuselage left side.jpeg [Public domain]",
+      "Ruta243aloha.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/impossible-brief/state/production/if-mercury-moved-twice-as-close-when-would-earth-notice/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "claimDurations": [
+      1.056,
+      2.184,
+      6.864,
+      7.464,
+      4.152
+    ],
+    "durationSeconds": 21.72,
+    "width": null,
+    "height": null,
+    "hasAudio": true
+  },
+  "video": {
+    "file": "channels/impossible-brief/state/production/if-mercury-moved-twice-as-close-when-would-earth-notice/if-mercury-moved-twice-as-close-when-would-earth-notice.mp4",
+    "captionsBurned": true,
+    "visualChanges": 8,
+    "illustrationLabel": true,
+    "scenarioSpecific": true,
+    "durationSeconds": 21.72,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/impossible-brief/state/production/if-mercury-moved-twice-as-close-when-would-earth-notice/thumbnail.jpg",
+    "bytes": 54959,
+    "scenarioSpecific": true,
+    "textWords": 1
+  }
+}

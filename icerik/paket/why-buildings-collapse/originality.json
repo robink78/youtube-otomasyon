@@ -1,0 +1,63 @@
+{
+  "slug": "why-buildings-collapse",
+  "olusturuldu": "2026-09-24T16:22:41.874Z",
+  "originality": 82,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.17,
+      "kim": "how-ground-turns-to-liquid"
+    },
+    "hook": {
+      "deger": 0.17,
+      "kim": "why-planes-crash"
+    },
+    "structure": {
+      "deger": 0.89,
+      "kim": "hindenburg"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0.11,
+      "kim": "why-concrete-crumbles"
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.53,
+      "kim": "how-hurricanes-destroy"
+    },
+    "cta": {
+      "deger": 0.15,
+      "kim": "how-blackouts-spread"
+    },
+    "description": {
+      "deger": 0.17,
+      "kim": "how-ground-turns-to-liquid"
+    },
+    "music": {
+      "deger": 0.92,
+      "kim": "how-hurricanes-destroy"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.17,
+    "HOOK_SIMILARITY": 0.17,
+    "STRUCTURE_SIMILARITY": 0.89,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0.11,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.53,
+    "CTA_SIMILARITY": 0.15,
+    "DESCRIPTION_SIMILARITY": 0.17,
+    "MUSIC_SIMILARITY": 0.92
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

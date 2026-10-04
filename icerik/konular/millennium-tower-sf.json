@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The San Francisco Skyscraper That Is Sinking and Tilting",
+  "kaynaklar": [
+    {
+      "ad": "millennium-tower-sf-1.jpg",
+      "wikimedia": "MilleneumTowerUnderConstructionDuringFebruary2008.jpg"
+    },
+    {
+      "ad": "millennium-tower-sf-2.jpg",
+      "wikimedia": "The Millennium Tower (301 Mission Street) as seen from the south, SF, March 2008.JPG"
+    },
+    {
+      "ad": "millennium-tower-sf-3.jpg",
+      "wikimedia": "Millennium tower (15412285792).jpg"
+    },
+    {
+      "ad": "millennium-tower-sf-4.jpg",
+      "wikimedia": "SF From Marin Highlands3.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A luxury skyscraper in San Francisco began sinking and tilting.",
+      "kaynak": "Footage/millennium-tower-sf-1.jpg"
+    },
+    {
+      "metin": "Within years, it had settled far more than engineers predicted.",
+      "kaynak": "Footage/millennium-tower-sf-2.jpg"
+    },
+    {
+      "metin": "The tower is made of heavy concrete.",
+      "kaynak": "Footage/millennium-tower-sf-3.jpg"
+    },
+    {
+      "metin": "Its piles stop in soil instead of reaching bedrock.",
+      "kaynak": "Footage/millennium-tower-sf-4.jpg"
+    },
+    {
+      "metin": "The soft layers below compressed under the weight.",
+      "kaynak": "Footage/millennium-tower-sf-1.jpg"
+    },
+    {
+      "metin": "Nearby construction also drew water from the ground.",
+      "kaynak": "Footage/millennium-tower-sf-2.jpg"
+    },
+    {
+      "metin": "A retrofit added new piles down to bedrock.",
+      "kaynak": "Footage/millennium-tower-sf-3.jpg"
+    },
+    {
+      "metin": "The fix itself caused more settlement before it was adjusted.",
+      "kaynak": "Footage/millennium-tower-sf-4.jpg"
+    }
+  ],
+  "aciklama": "Millennium Tower sank and tilted more than expected. The cause: settlement of a heavy concrete tower on friction piles in compressible soil, worsened by nearby dewatering.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Millennium Tower",
+    "2016",
+    "skyscraper",
+    "engineering failure"
+  ],
+  "hook": "It is sinking",
+  "soru": "Who pays when a tower sinks?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the Millennium Tower",
+    "kisa": "Millennium Tower",
+    "nesne": "Skyscraper",
+    "yil": 2016,
+    "sonuc": "sank and tilted more than expected",
+    "tetik": "foundation piles that stop short of bedrock",
+    "mekanizma": "settlement of a heavy concrete tower on friction piles in compressible soil, worsened by nearby dewatering",
+    "sayi": "SINKING",
+    "ders": "a retrofit added new piles down to bedrock on one side",
+    "zincir": [
+      "HEAVY CONCRETE TOWER",
+      "PILES STOP ABOVE BEDROCK",
+      "SOFT SOIL COMPRESSES",
+      "NEARBY DIGGING DRAWS WATER",
+      "TOWER SINKS AND TILTS"
+    ],
+    "zaman": [],
+    "yanilgi": "The tower isn't about to fall. But it settled and tilted far beyond what was predicted.",
+    "tartisma": "The foundation met approvals at the time. Who pays when a building sinks?",
+    "basliklar": [
+      "The San Francisco Skyscraper That Is Sinking and Tilting",
+      "Why San Francisco's Millennium Tower Is Sinking",
+      "The Skyscraper That Didn't Reach Bedrock"
+    ],
+    "kapak": [
+      "SINKING",
+      "NO BEDROCK"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Millennium Tower (San Francisco)",
+        "url": "https://en.wikipedia.org/wiki/Millennium_Tower_(San_Francisco)"
+      },
+      {
+        "ad": "Academic / engineering journal — 10.1061/41016(314)85 (cited by Wikipedia)",
+        "url": "https://doi.org/10.1061%2F41016(314)85"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "Millennium_Tower_(San_Francisco)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "MilleneumTowerUnderConstructionDuringFebruary2008.jpg [Public domain]",
+      "The Millennium Tower (301 Mission Street) as seen from the south, SF, March 2008.JPG [Public domain]",
+      "Millennium tower (15412285792).jpg [CC BY 2.0]",
+      "SF From Marin Highlands3.jpg [Public domain]"
+    ]
+  }
+}

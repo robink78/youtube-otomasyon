@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "why-qr-codes-have-three-corner-squares",
+    "errors": [],
+    "words": 78,
+    "hooks": 13,
+    "hookScore": 77,
+    "growth": {
+      "bucket": "A",
+      "potential": 80,
+      "readiness": 84,
+      "decision": "REVIEW",
+      "hooks": 13,
+      "hardFails": [],
+      "templated": []
+    }
+  },
+  {
+    "slug": "why-the-bluetooth-logo-looks-like-that",
+    "errors": [],
+    "words": 87,
+    "hooks": 14,
+    "hookScore": 75,
+    "growth": {
+      "bucket": "A",
+      "potential": 82,
+      "readiness": 85,
+      "decision": "PUBLISH",
+      "hooks": 14,
+      "hardFails": [],
+      "templated": []
+    }
+  },
+  {
+    "slug": "why-some-barcode-bars-are-longer",
+    "errors": [],
+    "words": 78,
+    "hooks": 14,
+    "hookScore": 74,
+    "growth": {
+      "bucket": "B",
+      "potential": 80,
+      "readiness": 86,
+      "decision": "PUBLISH",
+      "hooks": 14,
+      "hardFails": [],
+      "templated": []
+    }
+  },
+  {
+    "slug": "the-shopping-cart-started-as-a-folding-chair",
+    "errors": [],
+    "words": 84,
+    "hooks": 13,
+    "hookScore": 75,
+    "growth": {
+      "bucket": "B",
+      "potential": 76,
+      "readiness": 82,
+      "decision": "REVIEW",
+      "hooks": 13,
+      "hardFails": [],
+      "templated": []
+    }
+  },
+  {
+    "slug": "why-road-cats-eyes-clean-themselves",
+    "errors": [],
+    "words": 81,
+    "hooks": 11,
+    "hookScore": 77,
+    "growth": {
+      "bucket": "A",
+      "potential": 82,
+      "readiness": 85,
+      "decision": "PUBLISH",
+      "hooks": 11,
+      "hardFails": [],
+      "templated": []
+    }
+  },
+  {
+    "slug": "why-jeans-have-copper-rivets",
+    "errors": [],
+    "words": 82,
+    "hooks": 13,
+    "hookScore": 77,
+    "growth": {
+      "bucket": "A",
+      "potential": 80,
+      "readiness": 86,
+      "decision": "PUBLISH",
+      "hooks": 13,
+      "hardFails": [],
+      "templated": []
+    }
+  }
+]

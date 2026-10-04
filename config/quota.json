@@ -1,0 +1,21 @@
+{
+  "_comment": "YouTube Data API v3 quota policy. Costs are units per call as published in Google's quota calculator; verify there before changing. The daily budget is per Google Cloud project and resets at midnight Pacific Time. Analytics API calls use a separate quota and are not counted here.",
+  "dailyUnitsPerProject": 10000,
+  "reserveUnits": 200,
+  "costs": {
+    "channels.list": 1,
+    "playlistItems.list": 1,
+    "playlists.list": 1,
+    "videos.list": 1,
+    "commentThreads.list": 1,
+    "comments.list": 1,
+    "search.list": 100,
+    "videos.insert": 1600,
+    "videos.update": 50,
+    "thumbnails.set": 50,
+    "playlists.insert": 50,
+    "playlistItems.insert": 50,
+    "commentThreads.insert": 50,
+    "comments.insert": 50
+  }
+}

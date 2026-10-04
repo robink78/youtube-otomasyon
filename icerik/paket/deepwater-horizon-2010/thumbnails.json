@@ -1,0 +1,91 @@
+{
+  "slug": "deepwater-horizon-2010",
+  "format": "short",
+  "baslik": "Deepwater Horizon: The Test Result Nobody Believed",
+  "olusturuldu": "2026-09-27T12:31:03.309Z",
+  "puan": 100,
+  "birincil": "key-number",
+  "konseptler": [
+    {
+      "id": "event-frame",
+      "duzen": "subject-right-text-left",
+      "anaGorsel": "the most dramatic real frame of the failure (from the hook/event scene)",
+      "kirpma": "9:16 full frame; subject in upper-middle third, clear of captions",
+      "odak": "the offshore drilling rig at the moment of failure",
+      "hiyerarsi": [
+        "failure moment",
+        "2-4 word text",
+        "brand accent bar"
+      ],
+      "metin": "11 LOST",
+      "duyguTetigi": "shock / awe — the viewer sees the failure happening",
+      "kontrast": "darken & desaturate background 20%, warm accent on text, subject kept at natural colour",
+      "kaynakSahne": "hook",
+      "mobil": {
+        "gecti": true,
+        "sorunlar": [],
+        "not": "Shorts feed mostly shows a frame from the video — the opening frame matters more than a custom cover."
+      },
+      "baslikTekrari": 0,
+      "uyarilar": [],
+      "aiIstem": {
+        "istem": "Documentary thumbnail, the most dramatic real frame of the failure (from the hook/event scene), the offshore drilling rig at the moment of failure, darken & desaturate background 20%, warm accent on text, subject kept at natural colour, photographic, no text, no logos",
+        "not": "use only when no real frame exists; label RECONSTRUCTION on use (config/growth.json disclosure)"
+      }
+    },
+    {
+      "id": "key-number",
+      "duzen": "giant-number-center",
+      "anaGorsel": "blurred real frame behind a giant measured value",
+      "kirpma": "number fills ~45% of the frame height; frame blurred 12px behind",
+      "odak": "the number 87 DAYS",
+      "hiyerarsi": [
+        "number",
+        "one-line context",
+        "brand accent"
+      ],
+      "metin": "87 DAYS",
+      "duyguTetigi": "curiosity about scale — \"only 87 days?\"",
+      "kontrast": "amber number with thick dark outline over dark blur",
+      "kaynakSahne": "event",
+      "mobil": {
+        "gecti": true,
+        "sorunlar": [],
+        "not": "Shorts feed mostly shows a frame from the video — the opening frame matters more than a custom cover."
+      },
+      "baslikTekrari": 0,
+      "uyarilar": [],
+      "aiIstem": {
+        "istem": "Documentary thumbnail, blurred real frame behind a giant measured value, the number 87 DAYS, amber number with thick dark outline over dark blur, photographic, no text, no logos",
+        "not": "use only when no real frame exists; label RECONSTRUCTION on use (config/growth.json disclosure)"
+      }
+    },
+    {
+      "id": "mechanism-overlay",
+      "duzen": "diagram-overlay",
+      "anaGorsel": "real frame with an engineering mark-up: red circle/arrow on the component that failed",
+      "kirpma": "tight crop on the failing component",
+      "odak": "where well blowout after a failed cement barrier and a blowout preventer that could not seal acts",
+      "hiyerarsi": [
+        "red mark-up on component",
+        "text",
+        "blueprint grid tint"
+      ],
+      "metin": "MISREAD TEST",
+      "duyguTetigi": "intrigue — 'what broke here?'",
+      "kontrast": "cool blueprint tint on image, warm red mark-up, white text",
+      "kaynakSahne": "technical",
+      "mobil": {
+        "gecti": true,
+        "sorunlar": [],
+        "not": "Shorts feed mostly shows a frame from the video — the opening frame matters more than a custom cover."
+      },
+      "baslikTekrari": 0.5,
+      "uyarilar": [],
+      "aiIstem": {
+        "istem": "Documentary thumbnail, real frame with an engineering mark-up: red circle/arrow on the component that failed, where well blowout after a failed cement barrier and a blowout preventer that could not seal acts, cool blueprint tint on image, warm red mark-up, white text, photographic, no text, no logos",
+        "not": "use only when no real frame exists; label RECONSTRUCTION on use (config/growth.json disclosure)"
+      }
+    }
+  ]
+}

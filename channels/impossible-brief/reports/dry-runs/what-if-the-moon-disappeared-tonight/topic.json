@@ -1,0 +1,90 @@
+{
+  "id": "IB-SPA-001",
+  "slug": "what-if-the-moon-disappeared-tonight",
+  "topic": "What If the Moon Disappeared Tonight?",
+  "category": "SPACE",
+  "hook": "If the Moon vanished tonight, Earth would feel its gravity for about 1.3 more seconds. Then lunar tides—not all tides—would begin to fade.",
+  "openingLine": "Moon gone. Gravity lingers.",
+  "secondBeat": "Lunar tides start changing next.",
+  "scientificMechanism": "orbital angular momentum, tidal forcing and the Earth–Moon barycenter",
+  "coreQuestion": "Under general relativity and Earth–Moon dynamics, what changes first if the Moon vanishes without transferring its momentum?",
+  "scenarioChange": "the Moon vanished without transferring its momentum",
+  "expectedConsequence": "ocean tides, axial stability and nights would change on different timescales",
+  "shortPotential": {
+    "score": 98,
+    "durationSeconds": [
+      22,
+      32
+    ],
+    "angle": "first consequence → mechanism → payoff"
+  },
+  "longFormPotential": {
+    "score": 62,
+    "rationale": "Supports a timeline, secondary effects and real-world constraints when the score is 75 or higher."
+  },
+  "visualPotential": {
+    "score": 95,
+    "scenes": [
+      "the Moon",
+      "mechanism diagram",
+      "scale comparison",
+      "consequence map"
+    ]
+  },
+  "evergreenScore": 91,
+  "curiosityScore": 97,
+  "competitionEstimate": "medium-high",
+  "sourceQuality": {
+    "score": 94,
+    "grade": "primary-authority",
+    "authorities": [
+      "NASA Science — Tides",
+      "NASA Science — Moon Facts",
+      "NASA Science — Gravitational Waves"
+    ]
+  },
+  "confidence": "SUPPORTED",
+  "claimFramework": [
+    {
+      "layer": "KNOWN SCIENCE",
+      "confidence": "VERIFIED",
+      "claim": "orbital angular momentum, tidal forcing and the Earth–Moon barycenter"
+    },
+    {
+      "layer": "ESTIMATED CONSEQUENCE",
+      "confidence": "SUPPORTED",
+      "claim": "ocean tides, axial stability and nights would change on different timescales"
+    },
+    {
+      "layer": "SPECULATIVE SCENARIO",
+      "confidence": "SPECULATIVE",
+      "claim": "the Moon vanished without transferring its momentum"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA Science — Tides",
+      "url": "https://science.nasa.gov/moon/tides/",
+      "type": "government science agency"
+    },
+    {
+      "name": "NASA Science — Moon Facts",
+      "url": "https://science.nasa.gov/moon/facts/",
+      "type": "government science agency"
+    },
+    {
+      "name": "NASA Science — Gravitational Waves",
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/",
+      "type": "government science agency"
+    }
+  ],
+  "quality": {
+    "channelFit": 100,
+    "scienceDepth": 92,
+    "distinctiveness": 82,
+    "sourceability": 96,
+    "nonDuplicate": true,
+    "qualified": true
+  },
+  "status": "qualified"
+}

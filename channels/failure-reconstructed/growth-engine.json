@@ -1,0 +1,143 @@
+{
+  "_comment": "Failure Reconstructed growth overrides: consequence, engineering chain reaction and visual disaster evidence dominate.",
+  "identity": "forensic engineering documentary",
+  "lexicon": [
+    "fail",
+    "collapse",
+    "explod",
+    "engineer",
+    "design",
+    "flaw",
+    "crack",
+    "pressure",
+    "load",
+    "weld",
+    "bridge",
+    "dam",
+    "tank",
+    "hull",
+    "structure",
+    "fatigue",
+    "warning",
+    "investigat",
+    "sank",
+    "burn",
+    "tore",
+    "chain",
+    "valve",
+    "wire",
+    "steel",
+    "rupture"
+  ],
+  "topic": {
+    "weights": {
+      "TopicDemandScore": 0.8,
+      "CuriosityScore": 1,
+      "HookPotentialScore": 1.3,
+      "VisualImpactScore": 1.3,
+      "EmotionalImpactScore": 1.2,
+      "StoryCompressionScore": 1.3,
+      "RewatchPotentialScore": 0.7,
+      "SharePotentialScore": 0.8,
+      "CommentPotentialScore": 0.7,
+      "SubscriberConversionPotential": 0.8,
+      "NoveltyScore": 0.8,
+      "AudienceFitScore": 0.9,
+      "SourceQualityScore": 1.1,
+      "ChannelFitScore": 1
+    },
+    "priorityClusters": [
+      "bridge-failures",
+      "aviation-failures",
+      "maritime-disasters",
+      "spaceflight-disasters",
+      "nuclear-accidents",
+      "industrial-disasters",
+      "structural-failures",
+      "fire-and-explosions",
+      "infrastructure-failures",
+      "materials-failures"
+    ]
+  },
+  "hooks": {
+    "preferredFamilies": [
+      "shocking_consequence",
+      "tiny_cause_massive_consequence",
+      "hidden_cause",
+      "warning_ignored",
+      "unexpected_chain_reaction",
+      "misconception_reversal"
+    ]
+  },
+  "story": {
+    "shorts": [
+      "CONSEQUENCE",
+      "FAILURE",
+      "CAUSE",
+      "ESCALATION",
+      "ENGINEERING_REVEAL"
+    ],
+    "longform": [
+      "COLD_OPEN",
+      "CONSEQUENCE",
+      "WHAT_HAPPENED",
+      "SYSTEM",
+      "HIDDEN_WEAKNESS",
+      "FAILURE_CHAIN",
+      "CRITICAL_MOMENT",
+      "ENGINEERING_EXPLANATION",
+      "AFTERMATH",
+      "WHAT_CHANGED",
+      "FINAL_TAKEAWAY"
+    ]
+  },
+  "engagement": {
+    "ctas": [
+      "Which failure should we reconstruct next?",
+      "Which engineering failure should we take apart next?"
+    ],
+    "longCtas": [
+      "That was only the final failure. The full chain is in the linked episode.",
+      "The full failure chain is reconstructed in the linked episode."
+    ],
+    "commentPrompt": "Which failure should we reconstruct next?"
+  },
+  "visualIntegrity": {
+    "classes": [
+      "REAL_ARCHIVAL",
+      "RECONSTRUCTION",
+      "ILLUSTRATION",
+      "MAP",
+      "DIAGRAM",
+      "AI_GENERATED",
+      "LICENSED_STOCK"
+    ],
+    "requireLabel": [
+      "RECONSTRUCTION",
+      "AI_GENERATED",
+      "ILLUSTRATION"
+    ],
+    "neverPresentAsArchival": [
+      "RECONSTRUCTION",
+      "AI_GENERATED",
+      "ILLUSTRATION",
+      "LICENSED_STOCK"
+    ]
+  },
+  "firstSeconds": {
+    "soundCue": "low impact hit under the first cut"
+  },
+  "longform": {
+    "potentialWeights": {
+      "EngineeringOrScientificDepth": 1.4,
+      "NarrativeDepth": 1.2
+    },
+    "shortCta": "That was only the final failure. The full chain is in the linked episode."
+  },
+  "scheduler": {
+    "shorts": {
+      "fallbackToC": true,
+      "_comment": "Live daily channel: most queued case files cite a single encyclopedia source (bucket C). Fallback keeps the existing cadence while every C still needs PUBLISH-level production readiness; source-enrichment tasks are emitted daily."
+    }
+  }
+}

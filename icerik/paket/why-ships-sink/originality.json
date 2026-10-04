@@ -1,0 +1,63 @@
+{
+  "slug": "why-ships-sink",
+  "olusturuldu": "2026-09-24T16:22:42.050Z",
+  "originality": 91,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.13,
+      "kim": "why-buildings-collapse"
+    },
+    "hook": {
+      "deger": 0.13,
+      "kim": "the-science-of-sinkholes"
+    },
+    "structure": {
+      "deger": 0.67,
+      "kim": "how-avalanches-start"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.5,
+      "kim": "halifax-explosion"
+    },
+    "cta": {
+      "deger": 0.05,
+      "kim": "san-francisco-1906"
+    },
+    "description": {
+      "deger": 0.14,
+      "kim": "why-mines-collapse"
+    },
+    "music": {
+      "deger": 0.88,
+      "kim": "how-lightning-destroys"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.13,
+    "HOOK_SIMILARITY": 0.13,
+    "STRUCTURE_SIMILARITY": 0.67,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.5,
+    "CTA_SIMILARITY": 0.05,
+    "DESCRIPTION_SIMILARITY": 0.14,
+    "MUSIC_SIMILARITY": 0.88
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

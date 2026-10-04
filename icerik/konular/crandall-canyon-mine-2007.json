@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Rescue That Killed Three More",
+  "kaynaklar": [
+    {
+      "ad": "crandall-canyon-mine-1.jpg",
+      "wikimedia": "Crandall Canyon Structures.jpg"
+    },
+    {
+      "ad": "crandall-canyon-mine-2.jpg",
+      "wikimedia": "Crandall Canyon Mine Memorial.jpg"
+    },
+    {
+      "ad": "crandall-canyon-mine-3.jpg",
+      "wikimedia": "Mine Memorial.jpg"
+    },
+    {
+      "ad": "crandall-canyon-mine-4.jpg",
+      "wikimedia": "Crandall Canyon Mine Sign.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A Utah coal mine collapsed, trapping six miners underground.",
+      "kaynak": "Footage/crandall-canyon-mine-1.jpg"
+    },
+    {
+      "metin": "Ten days later, another collapse killed three rescue workers.",
+      "kaynak": "Footage/crandall-canyon-mine-2.jpg"
+    },
+    {
+      "metin": "The mine used retreat mining.",
+      "kaynak": "Footage/crandall-canyon-mine-3.jpg"
+    },
+    {
+      "metin": "Coal pillars holding up the roof were being removed.",
+      "kaynak": "Footage/crandall-canyon-mine-4.jpg"
+    },
+    {
+      "metin": "Rescuers cleared rubble toward the trapped miners.",
+      "kaynak": "Footage/crandall-canyon-mine-1.jpg"
+    },
+    {
+      "metin": "Another collapse struck them.",
+      "kaynak": "Footage/crandall-canyon-mine-2.jpg"
+    },
+    {
+      "metin": "The six miners were never recovered.",
+      "kaynak": "Footage/crandall-canyon-mine-3.jpg"
+    },
+    {
+      "metin": "Retreat mining and rescue safety came under scrutiny.",
+      "kaynak": "Footage/crandall-canyon-mine-4.jpg"
+    }
+  ],
+  "aciklama": "Crandall Canyon collapsed, trapping six miners. The cause: removing coal pillars that held up the roof, followed by further collapses.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Crandall Canyon",
+    "2007",
+    "coal pillars",
+    "engineering failure"
+  ],
+  "hook": "Then the rescuers died",
+  "soru": "When should a rescue stop?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Crandall Canyon Mine",
+    "kisa": "Crandall Canyon",
+    "nesne": "Coal pillars",
+    "yil": 2007,
+    "sonuc": "collapsed, trapping six miners",
+    "tetik": "a collapse during retreat mining",
+    "mekanizma": "removing coal pillars that held up the roof, followed by further collapses",
+    "sayi": "SIX TRAPPED",
+    "ders": "the disaster led to scrutiny of retreat mining and rescue safety",
+    "zincir": [
+      "RETREAT MINING",
+      "PILLARS REMOVED",
+      "COLLAPSE TRAPS SIX",
+      "RESCUE UNDERGROUND",
+      "SECOND COLLAPSE"
+    ],
+    "zaman": [],
+    "yanilgi": "The first collapse wasn't the end. Ten days later, rescuers died too.",
+    "tartisma": "Rescuers entered the same unstable mine. When should a rescue stop?",
+    "basliklar": [
+      "The Rescue That Killed Three More",
+      "What Happened at Crandall Canyon",
+      "The Rescue That Became a Second Disaster"
+    ],
+    "kapak": [
+      "SIX TRAPPED",
+      "THREE MORE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Crandall Canyon Mine",
+        "url": "https://en.wikipedia.org/wiki/Crandall_Canyon_Mine"
+      },
+      {
+        "ad": "Government source — ofr 481 (cited by Wikipedia)",
+        "url": "http://geology.utah.gov/online/ofr/ofr-481.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "Crandall_Canyon_Mine",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Crandall Canyon Structures.jpg [CC0]",
+      "Crandall Canyon Mine Memorial.jpg [CC0]",
+      "Mine Memorial.jpg [CC0]",
+      "Crandall Canyon Mine Sign.jpg [CC0]"
+    ]
+  }
+}

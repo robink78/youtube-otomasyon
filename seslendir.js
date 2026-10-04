@@ -6,10 +6,24 @@ const path = require("path");
 const { MsEdgeTTS, OUTPUT_FORMAT } = require("msedge-tts");
 
 const JOB = process.argv[2] || "001-time-travel";
-const VOICE = process.argv[3] || "en-US-ChristopherNeural";
-const RATE = process.argv[4] || "+7%";   // Osman'in istegi: -10%'dan %19 daha akici
-
 const BASE = path.join(__dirname, "uretim", JOB);
+
+// Ses ve hiz konu.json'dan okunur; komut satiri onu ezer.
+// Boylece zincir (panel) Turkce videoda Turkce sesi kendiliginden kullanir.
+//   "ses": "tr-TR-AhmetNeural"   (Turkce erkek)
+//   "ses": "tr-TR-EmelNeural"    (Turkce kadin)
+//   "sesHizi": "+7%"
+let K_SES = null, K_HIZ = null;
+try {
+  const k = JSON.parse(fs.readFileSync(path.join(BASE, "konu.json"), "utf8"));
+  if (k.ses) K_SES = k.ses;
+  if (k.sesHizi) K_HIZ = k.sesHizi;
+} catch (e) {}
+
+// Varsayilan ses Andrew: kanalin dogal anlatici sesi (Christopher robotik bulundu).
+const VOICE = process.argv[3] || K_SES || "en-US-AndrewNeural";
+const RATE = process.argv[4] || K_HIZ || "+7%";   // -10%'dan %19 daha akici
+
 const VOICE_DIR = path.join(BASE, "Voice");
 const PARTS = path.join(VOICE_DIR, "parts");
 const TXT = path.join(VOICE_DIR, "SESLENDIRME-TAM-METIN.txt");
@@ -33,7 +47,11 @@ function synth(tts, text) {
 
     if (metadataStream) metadataStream.on("data", d => {
       try {
-        const obj = typeof d === "string" ? JSON.parse(d) : d;
+        // msedge-tts metadatayi Buffer olarak yolluyor (string degil).
+        // Buffer'i cozmeden JSON.parse atlanirsa kelime zamanlari HIC yakalanmaz.
+        const obj = Buffer.isBuffer(d) ? JSON.parse(d.toString("utf8"))
+                  : typeof d === "string" ? JSON.parse(d)
+                  : d;
         const list = obj.Metadata || (Array.isArray(obj) ? obj : [obj]);
         for (const m of list) {
           if (m.Type === "WordBoundary" && m.Data) {
@@ -56,7 +74,15 @@ function synth(tts, text) {
 (async () => {
   fs.mkdirSync(PARTS, { recursive: true });
   const raw = fs.readFileSync(TXT, "utf8").replace(/\r\n/g, "\n");
-  const paras = raw.split(/\n\s*\n/).map(s => s.trim()).filter(Boolean);
+  // "## BOLUM" basliklari seslendirilmez; bolum haritasi video-yap'a (chapters) kalir.
+  const { paragraflar: paras, harita } = require("./lib/sahne").bolumAyir(raw);
+  fs.writeFileSync(path.join(VOICE_DIR, "bolumler-harita.json"), JSON.stringify(harita, null, 2));
+  const telaffuz = require("./pronunciation-check");
+  if (!paras.length) throw new Error('Senaryo bos.');
+  // Regenerate this job's numbered fragments so shortened scripts cannot retain old audio.
+  for (const name of fs.readdirSync(PARTS)) {
+    if (/^\d+\.mp3$/.test(name)) fs.unlinkSync(path.join(PARTS, name));
+  }
   console.log(`${paras.length} paragraf, ses: ${VOICE}, hiz: ${RATE}`);
 
   const tts = new MsEdgeTTS();
@@ -72,10 +98,10 @@ function synth(tts, text) {
   for (let i = 0; i < paras.length; i++) {
     let out = null;
     for (let a = 0; a < 3 && !out; a++) {
-      try { out = await synth(tts, paras[i]); }
+      try { out = await synth(tts, telaffuz.ttsMetni(paras[i])); }
       catch (e) { console.log(`  ! ${i+1} deneme ${a+1} hata: ${e.message}`); await new Promise(r => setTimeout(r, 1500)); }
     }
-    if (!out || !out.buf.length) { console.log(`  !! paragraf ${i+1} atlandi`); continue; }
+    if (!out || !out.buf.length) throw new Error(`Paragraf ${i+1} seslendirilemedi; uretim durduruldu.`);
 
     const f = path.join(PARTS, String(i).padStart(3, "0") + ".mp3");
     fs.writeFileSync(f, out.buf);
@@ -114,4 +140,4 @@ function synth(tts, text) {
 
   console.log(`SRT: ${lines.length} altyazi satiri`);
   console.log("Sonraki: ffmpeg ile parcalari birlestir");
-})();
+})().catch(() => { console.error('Seslendirme tamamlanamadi. Uretim durduruldu.'); process.exit(1); });

@@ -1,0 +1,1667 @@
+{
+  "channel": "impossible-brief",
+  "records": [
+    {
+      "slug": "what-if-you-jumped-into-a-tunnel-through-earth",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If You Jumped Into a Tunnel Through Earth?",
+      "hook": "Fall through Earth, and you'd arrive in 38 minutes.",
+      "openingLine": "Fall through Earth, and you'd arrive in 38 minutes.",
+      "secondBeat": "Gravity pulls you down, then slows you back up.",
+      "scientificMechanism": "inside a planet, gravity weakens toward the centre, so a falling object speeds up, then slows symmetrically on the way out",
+      "scenarioChange": "a frictionless tunnel ran straight through Earth",
+      "expectedConsequence": "a fall to the far side in under an hour; with air and friction you would oscillate and stop at the centre",
+      "coreQuestion": "If you jumped into a tunnel through Earth, how long would the fall take, and where would you stop?",
+      "misconception": "You wouldn't get stuck at the centre in a frictionless tunnel; you'd coast out the other side.",
+      "number": "38 minutes",
+      "thumbnailText": "FALL THROUGH EARTH",
+      "visualScenes": [
+        "cutaway of Earth with a straight tunnel",
+        "speed curve peaking at the centre",
+        "uniform versus layered Earth density diagram",
+        "London to Paris shallow tunnel profile",
+        "oscillation damping graph",
+        "clock showing 38 minutes"
+      ],
+      "editorialTitles": [
+        "What If You Fell Through the Earth",
+        "Why a Fall Through Earth Takes 38 Minutes"
+      ],
+      "facts": [
+        {
+          "claim": "By taking into account the realistic density distribution inside the Earth, the expected fall-through time is reduced from 42 to 38 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gravity train",
+          "url": "https://en.wikipedia.org/wiki/Gravity_train"
+        },
+        {
+          "claim": "The straight line path between London and Paris would only require a maximum depth of 2.4 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gravity train",
+          "url": "https://en.wikipedia.org/wiki/Gravity_train"
+        },
+        {
+          "claim": "Such a tunnel would have an initial declination of 1.57 degrees.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gravity train",
+          "url": "https://en.wikipedia.org/wiki/Gravity_train"
+        },
+        {
+          "claim": "The same idea was proposed, without calculation, by Lewis Carroll in 1893 in Sylvie and Bruno Concluded.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gravity train",
+          "url": "https://en.wikipedia.org/wiki/Gravity_train"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Fall through Earth, and you'd arrive in 38 minutes.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Gravity pulls you down, then slows you back up.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "For a uniform planet, the trip takes 42 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Earth's dense core speeds you up, cutting it to 38.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Even London to Paris would need only a 2.4-kilometre-deep tunnel.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Without air and friction, you'd pop out at the far side.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "With them, you'd oscillate, then settle at the centre.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So gravity alone could run a train, if friction didn't exist.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-ice-sank-instead-of-floating",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If Ice Sank Instead of Floating?",
+      "hook": "Ice floats because freezing water expands about 9%.",
+      "openingLine": "Ice floats because freezing water expands about 9%.",
+      "secondBeat": "Most substances shrink as they freeze. Water doesn't.",
+      "scientificMechanism": "water expands as it freezes, so ice is less dense than liquid water and floats",
+      "scenarioChange": "ice became denser than liquid water",
+      "expectedConsequence": "lakes and seas would freeze from the bottom up, accumulating ice that summer could not reach",
+      "coreQuestion": "If ice sank instead of floating, could lakes and oceans stay liquid?",
+      "misconception": "Floating ice isn't normal behaviour; most solids are denser than their liquids.",
+      "number": "9%",
+      "thumbnailText": "ICE THAT SINKS",
+      "visualScenes": [
+        "ice cube floating versus sinking",
+        "hexagonal ice crystal lattice",
+        "density versus temperature curve peaking at 4 °C",
+        "lake freezing from the top down",
+        "lake freezing from the bottom up",
+        "fish under an insulating ice sheet"
+      ],
+      "editorialTitles": [
+        "What If Ice Sank",
+        "Why Floating Ice Keeps Lakes Alive"
+      ],
+      "facts": [
+        {
+          "claim": "An unusual property of water is that its solid form is approximately 8.3% less dense than its liquid form; this is equivalent to a volumetric expansion of 9%.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ice",
+          "url": "https://en.wikipedia.org/wiki/Ice"
+        },
+        {
+          "claim": "The density of ice is 0.9167–0.9168 g/cm3 at 0 °C and standard atmospheric pressure, whereas water has a density of 0.9998–0.999863 g/cm3.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ice",
+          "url": "https://en.wikipedia.org/wiki/Ice"
+        },
+        {
+          "claim": "Liquid water is densest, essentially 1.00 g/cm3, at 4 °C.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ice",
+          "url": "https://en.wikipedia.org/wiki/Ice"
+        },
+        {
+          "claim": "When water freezes, it increases in volume (about 9% for fresh water).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ice",
+          "url": "https://en.wikipedia.org/wiki/Ice"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Ice floats because freezing water expands about 9%.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Most substances shrink as they freeze. Water doesn't.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Ice is about 8.3% less dense than liquid water.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Liquid water is densest at 4 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "If ice sank, lakes would freeze from the bottom up.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Each winter's ice would pile up, shielded from summer sun.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Floating ice instead insulates the water beneath it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a strange quirk of water keeps lakes alive in winter.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-traveled-near-the-speed-of-light",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If You Traveled Near the Speed of Light?",
+      "hook": "Near light speed, your time almost stops.",
+      "openingLine": "Near light speed, your time almost stops.",
+      "secondBeat": "Everyone else's keeps running normally.",
+      "scientificMechanism": "special relativity: moving clocks tick slower relative to a stationary observer, more so near light speed",
+      "scenarioChange": "a traveller moved at a large fraction of light speed",
+      "expectedConsequence": "the traveller ages far less than people at home; the effect is already measurable on the ISS",
+      "coreQuestion": "If you traveled near the speed of light, how much slower would your time run?",
+      "misconception": "Time dilation isn't science fiction; clocks on the ISS already measure it.",
+      "number": "299,792,458 m/s",
+      "thumbnailText": "TIME SLOWS DOWN",
+      "visualScenes": [
+        "spaceship with a slowing clock",
+        "twin paradox diagram",
+        "ISS orbiting with a clock readout",
+        "time dilation curve versus speed",
+        "optical atomic clocks at two heights",
+        "calendar pages flying on Earth"
+      ],
+      "editorialTitles": [
+        "What Happens to Time Near Light Speed",
+        "Why Astronauts Come Home Slightly Younger"
+      ],
+      "facts": [
+        {
+          "claim": "The faster the relative velocity, the greater the time dilation, with time slowing to a stop as one clock approaches the speed of light (299,792,458 m/s).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Time dilation",
+          "url": "https://en.wikipedia.org/wiki/Time_dilation"
+        },
+        {
+          "claim": "Time dilation of 0.5% may become important when an object approaches speeds on the order of 30,000 km/s (1/10 the speed of light).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Time dilation",
+          "url": "https://en.wikipedia.org/wiki/Time_dilation"
+        },
+        {
+          "claim": "After 6 months on the International Space Station, orbiting Earth at a speed of about 7,700 m/s, an astronaut will age about 5 milliseconds less than a person on Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Time dilation",
+          "url": "https://en.wikipedia.org/wiki/Time_dilation"
+        },
+        {
+          "claim": "In 2010, gravitational time dilation was measured at the Earth's surface with a height difference of only 33 centimeters, using optical atomic clocks.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Time dilation",
+          "url": "https://en.wikipedia.org/wiki/Time_dilation"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Near light speed, your time almost stops.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Everyone else's keeps running normally.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Light moves at 299,792,458 metres per second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "At a tenth of that, time dilation reaches about 0.5%.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It's already real: 6 months on the ISS leaves astronauts 5 milliseconds younger.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Atomic clocks even detect gravity's version across 33 centimetres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Near light speed, one year aboard could equal many years at home.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So speed doesn't just move you. It moves you through time.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-1859-solar-superstorm-hit-today",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If the 1859 Solar Superstorm Hit Today?",
+      "hook": "Why a repeat of 1859 could cost $2.6 trillion.",
+      "openingLine": "Why a repeat of 1859 could cost $2.6 trillion.",
+      "secondBeat": "The 1859 Carrington storm set telegraph stations on fire.",
+      "scientificMechanism": "a coronal mass ejection drives a geomagnetic storm that induces currents in long conductors on the ground",
+      "scenarioChange": "a Carrington-class geomagnetic storm hit modern Earth",
+      "expectedConsequence": "induced currents in power grids and damage to satellites, with economic costs in the hundreds of billions or more",
+      "coreQuestion": "If the biggest solar storm on record hit today, what would fail first?",
+      "misconception": "Solar storms don't harm people on the ground directly; the risk is to grids and satellites.",
+      "number": "$600B–$2.6T",
+      "thumbnailText": "SOLAR SUPERSTORM",
+      "visualScenes": [
+        "coronal mass ejection leaving the Sun",
+        "aurora over low latitudes",
+        "sparking telegraph station",
+        "power grid transformers under induced current",
+        "satellites in the storm's path",
+        "2012 near-miss orbit diagram"
+      ],
+      "editorialTitles": [
+        "What If the Carrington Event Hit Today",
+        "Why a Solar Storm Would Hit Power Grids First"
+      ],
+      "facts": [
+        {
+          "claim": "The Carrington Event was the most intense geomagnetic storm in recorded history, peaking on 1–2 September 1859 during solar cycle 10.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Carrington Event",
+          "url": "https://en.wikipedia.org/wiki/Carrington_Event"
+        },
+        {
+          "claim": "It created strong auroral displays that were reported globally and caused sparking and even fires in telegraph stations.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Carrington Event",
+          "url": "https://en.wikipedia.org/wiki/Carrington_Event"
+        },
+        {
+          "claim": "Telegraph systems all over Europe and North America failed, in some cases giving their operators electric shocks.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Carrington Event",
+          "url": "https://en.wikipedia.org/wiki/Carrington_Event"
+        },
+        {
+          "claim": "On 23 July 2012, a Carrington-class solar superstorm was observed, but its trajectory narrowly missed Earth by a margin of roughly nine days.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Carrington Event",
+          "url": "https://en.wikipedia.org/wiki/Carrington_Event"
+        },
+        {
+          "claim": "In June 2013, researchers at Lloyd's of London and AER estimated the cost of a similar event in the present to the US alone at US$600 billion to $2.6 trillion.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Carrington Event",
+          "url": "https://en.wikipedia.org/wiki/Carrington_Event"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a repeat of 1859 could cost $2.6 trillion.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The 1859 Carrington storm set telegraph stations on fire.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Telegraph systems across Europe and North America failed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Some operators even got electric shocks.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 2012, a similar storm missed Earth by about 9 days.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "A 2013 estimate put a repeat's U.S. cost at $600 billion to $2.6 trillion.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Today, long power lines and satellites would take the hit.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the same storm would cost far more now than then.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-asteroid-apophis-hit-earth",
+      "replaces": "if-a-kilometer-wide-asteroid-moved-twice-as-close-when-would-earth-notic",
+      "category": "SPACE",
+      "topic": "What If Asteroid Apophis Hit Earth?",
+      "hook": "Apophis once had a 2.7% chance of hitting Earth.",
+      "openingLine": "Apophis once had a 2.7% chance of hitting Earth.",
+      "secondBeat": "Better tracking ruled out an impact in 2029.",
+      "scientificMechanism": "repeated tracking shrinks an asteroid's orbital uncertainty until an impact can be confirmed or ruled out",
+      "scenarioChange": "Apophis were on a collision course",
+      "expectedConsequence": "a regional disaster rather than a global one; instead, its 2029 flyby becomes a planetary-defence test",
+      "coreQuestion": "If Apophis hit Earth, how bad would it be, and why are we sure it won't in 2029?",
+      "misconception": "Apophis won't hit Earth in 2029; it will pass closer than geostationary satellites.",
+      "number": "31,600 km",
+      "thumbnailText": "APOPHIS 2029",
+      "visualScenes": [
+        "Apophis shape model",
+        "2029 flyby path inside the satellite ring",
+        "impact probability shrinking over time",
+        "geostationary satellite ring around Earth",
+        "regional blast radius map",
+        "planetary-defence spacecraft approaching"
+      ],
+      "editorialTitles": [
+        "What If Apophis Hit Earth",
+        "Why Apophis Will Miss Us in 2029"
+      ],
+      "facts": [
+        {
+          "claim": "99942 Apophis is a near-Earth asteroid and a potentially hazardous object, 450 metres (1,480 ft) by 170 metres (560 ft) in size.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 99942 Apophis",
+          "url": "https://en.wikipedia.org/wiki/99942_Apophis"
+        },
+        {
+          "claim": "During a brief period of concern in December 2004, initial observations indicated a probability of 2.7% that the asteroid would hit Earth on Friday, April 13, 2029.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 99942 Apophis",
+          "url": "https://en.wikipedia.org/wiki/99942_Apophis"
+        },
+        {
+          "claim": "It will pass Earth in 2029 at a distance of about 31,600 km (19,600 mi) above the surface.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 99942 Apophis",
+          "url": "https://en.wikipedia.org/wiki/99942_Apophis"
+        },
+        {
+          "claim": "By 2021, the uncertainty in the 2029 approach distance had been reduced from hundreds of kilometres to just a couple of kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 99942 Apophis",
+          "url": "https://en.wikipedia.org/wiki/99942_Apophis"
+        },
+        {
+          "claim": "Geostationary orbit lies 35,786 km (22,236 mi) above the Earth's equator.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space elevator",
+          "url": "https://en.wikipedia.org/wiki/Space_elevator"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Apophis once had a 2.7% chance of hitting Earth.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Better tracking ruled out an impact in 2029.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The asteroid is about 450 metres long.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 2029, it passes just 31,600 kilometres above the surface.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That's inside the 35,786-kilometre ring of geostationary satellites.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Its path is now known to within a couple of kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "A hit would devastate a region, not end civilisation.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Apophis turned from a threat into a planetary-defence rehearsal.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-olympus-mons-stood-on-earth",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If Olympus Mons Stood on Earth?",
+      "hook": "Why Earth couldn't hold a volcano 2.5 times Everest.",
+      "openingLine": "Why Earth couldn't hold a volcano 2.5 times Everest.",
+      "secondBeat": "Mars's Olympus Mons stands about 21 kilometres high.",
+      "scientificMechanism": "a volcano's maximum height depends on surface gravity and on whether the crust stays over the same hotspot",
+      "scenarioChange": "Mars's Olympus Mons were placed on Earth",
+      "expectedConsequence": "Earth's stronger gravity and moving plates could not support or build a volcano that large",
+      "coreQuestion": "If Olympus Mons stood on Earth, could our planet even hold it up?",
+      "misconception": "Olympus Mons isn't a steep peak; its flanks average only a 5% slope.",
+      "number": "2.5× Everest",
+      "thumbnailText": "2.5× EVEREST",
+      "visualScenes": [
+        "Olympus Mons beside Everest to scale",
+        "Olympus Mons footprint over Italy",
+        "gentle 5% slope profile",
+        "nested summit calderas",
+        "Earth versus Mars gravity comparison",
+        "hotspot under a stationary crust"
+      ],
+      "editorialTitles": [
+        "What If Olympus Mons Were on Earth",
+        "Why Mars Has the Solar System's Giant Volcano"
+      ],
+      "facts": [
+        {
+          "claim": "As measured by the Mars Orbiter Laser Altimeter, it is 21.287 kilometres (69,840 ft) high, about 2.5 times the elevation of Mount Everest above sea level.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Olympus Mons",
+          "url": "https://en.wikipedia.org/wiki/Olympus_Mons"
+        },
+        {
+          "claim": "The edifice is about 600 km (370 mi) wide.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Olympus Mons",
+          "url": "https://en.wikipedia.org/wiki/Olympus_Mons"
+        },
+        {
+          "claim": "Olympus Mons covers an area of about 300,000 km2, which is approximately the size of Italy or the Philippines, and it is supported by a 70 km thick lithosphere.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Olympus Mons",
+          "url": "https://en.wikipedia.org/wiki/Olympus_Mons"
+        },
+        {
+          "claim": "The average slope on the volcano's flanks is only 5%.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Olympus Mons",
+          "url": "https://en.wikipedia.org/wiki/Olympus_Mons"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Earth couldn't hold a volcano 2.5 times Everest.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Mars's Olympus Mons stands about 21 kilometres high.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It's about 600 kilometres wide, the size of Italy in area.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its average slope is only 5%.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "So standing on it, you'd barely notice you're on a mountain.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "On Earth, crust this tall would sink and crumble under its weight.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Mars' weaker gravity and still crust let it grow.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the Solar System's giant volcano needed a smaller planet.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-sun-ran-out-of-hydrogen",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If the Sun Ran Out of Hydrogen?",
+      "hook": "The Sun has 5 billion years of core hydrogen.",
+      "openingLine": "The Sun has 5 billion years of core hydrogen.",
+      "secondBeat": "Then fusion there stops, and the core contracts.",
+      "scientificMechanism": "when core hydrogen fusion stops, the core contracts and heats while the outer layers expand into a red giant",
+      "scenarioChange": "the Sun's core exhausted its hydrogen",
+      "expectedConsequence": "the Sun becomes a red giant; long before, its slow brightening makes Earth uninhabitable",
+      "coreQuestion": "If the Sun ran out of hydrogen, what would happen to Earth, and when?",
+      "misconception": "The Sun won't explode as a supernova; it isn't massive enough.",
+      "number": "5 billion years",
+      "thumbnailText": "SUN RUNS OUT",
+      "visualScenes": [
+        "Sun cross-section with fusing core",
+        "timeline of the Sun's life",
+        "red giant swelling past inner orbits",
+        "Solar System mass pie chart",
+        "Earth's oceans evaporating",
+        "white dwarf remnant"
+      ],
+      "editorialTitles": [
+        "What Happens When the Sun Runs Out of Fuel",
+        "Why We Live in the Sun's Calm Middle Age"
+      ],
+      "facts": [
+        {
+          "claim": "The Sun's mass is around 330,000 times that of Earth, making up about 99.86% of the total mass of the Solar System.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sun",
+          "url": "https://en.wikipedia.org/wiki/Sun"
+        },
+        {
+          "claim": "The Sun formed approximately 4.6 billion years ago from the gravitational collapse of matter within a region of a large molecular cloud.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sun",
+          "url": "https://en.wikipedia.org/wiki/Sun"
+        },
+        {
+          "claim": "The Sun will spend a total of approximately 10 to 11 billion years as a main-sequence star before the red giant phase of the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sun",
+          "url": "https://en.wikipedia.org/wiki/Sun"
+        },
+        {
+          "claim": "When it runs out of hydrogen in the core in approximately 5 billion years, core hydrogen fusion will stop, and there will be nothing to prevent the core from contracting.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sun",
+          "url": "https://en.wikipedia.org/wiki/Sun"
+        }
+      ],
+      "narration": [
+        {
+          "text": "The Sun has 5 billion years of core hydrogen.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Then fusion there stops, and the core contracts.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It holds 99.86% of the Solar System's mass.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It's about 4.6 billion years old, roughly halfway through.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Next comes the red giant phase.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The Sun will swell, and the inner planets will face its heat.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Earth's oceans will be long gone before then.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So we're living in the Sun's calm middle age.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-stood-at-the-bottom-of-the-mariana-trench",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Stood at the Bottom of the Mariana Trench?",
+      "hook": "Why only a few have reached 10,920 metres down.",
+      "openingLine": "Why only a few have reached 10,920 metres down.",
+      "secondBeat": "The Challenger Deep is the ocean's deepest point.",
+      "scientificMechanism": "water pressure rises by roughly one atmosphere every ten metres of depth",
+      "scenarioChange": "a person reached the Challenger Deep without a pressure hull",
+      "expectedConsequence": "air-filled spaces in the body would collapse instantly; only thick-walled vehicles survive there",
+      "coreQuestion": "If you stood at the bottom of the Mariana Trench, what would the pressure do to you?",
+      "misconception": "The deepest ocean isn't lifeless; simple organisms thrive in its sediment.",
+      "number": "10,920 m",
+      "thumbnailText": "THE DEEPEST POINT",
+      "visualScenes": [
+        "depth profile to the Challenger Deep",
+        "bathyscaphe Trieste descending",
+        "12.7 cm steel hull cross-section",
+        "pressure gauge climbing to 1,210 atm",
+        "sediment organisms under a microscope",
+        "Everest upside down in the trench"
+      ],
+      "editorialTitles": [
+        "What If You Went to the Bottom of the Ocean",
+        "Why the Mariana Trench Crushes Us but Not Life"
+      ],
+      "facts": [
+        {
+          "claim": "Both the western and eastern basins have recorded depths (by sonar bathymetry) in excess of 10,920 metres (35,827 ft).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Challenger Deep",
+          "url": "https://en.wikipedia.org/wiki/Challenger_Deep"
+        },
+        {
+          "claim": "The first descent by any vehicle was conducted by the United States Navy using the bathyscaphe Trieste in January 1960.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Challenger Deep",
+          "url": "https://en.wikipedia.org/wiki/Challenger_Deep"
+        },
+        {
+          "claim": "The steel walls were 12.7 cm (5.0 in) thick and designed to withstand pressure of up to 1250 kilograms per square centimetre (17800 psi; 1210 atm; 123 MPa).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Challenger Deep",
+          "url": "https://en.wikipedia.org/wiki/Challenger_Deep"
+        },
+        {
+          "claim": "An analysis of the sediment samples collected by Kaiko found large numbers of simple organisms at 10,900 m (35,800 ft).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Challenger Deep",
+          "url": "https://en.wikipedia.org/wiki/Challenger_Deep"
+        },
+        {
+          "claim": "Cameron decided to start the ascent to the surface after only 2 hours and 34 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Challenger Deep",
+          "url": "https://en.wikipedia.org/wiki/Challenger_Deep"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why only a few have reached 10,920 metres down.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The Challenger Deep is the ocean's deepest point.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Trieste first reached the bottom in January 1960.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its steel hull was 12.7 centimetres thick.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It was built to withstand 1,210 atmospheres of pressure.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Unprotected, that pressure would crush every air space in your body.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Yet simple organisms thrive in the sediment at 10,900 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the deepest place on Earth is hostile to us, not to life.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-lived-in-space-for-a-year",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Lived in Space for a Year?",
+      "hook": "In space, your bones lose about 1.5% a month.",
+      "openingLine": "In space, your bones lose about 1.5% a month.",
+      "secondBeat": "Muscles can shrink even faster without gravity.",
+      "scientificMechanism": "without gravity loading, the body stops maintaining bone and muscle it no longer needs",
+      "scenarioChange": "a person lived in orbit for a year",
+      "expectedConsequence": "steady bone loss, rapid muscle loss, circulation and vision changes, and added radiation risk",
+      "coreQuestion": "If you lived in space for a year, what would weightlessness take from your body?",
+      "misconception": "Weightlessness isn't restful for the body; bone and muscle start wasting within days.",
+      "number": "1.5% bone per month",
+      "thumbnailText": "YEAR IN ORBIT",
+      "visualScenes": [
+        "astronaut floating in the ISS",
+        "bone density scan comparison",
+        "muscle mass loss chart",
+        "blood flow in the neck veins",
+        "eye exam in orbit",
+        "treadmill with bungee harness"
+      ],
+      "editorialTitles": [
+        "What a Year in Space Does to Your Body",
+        "Why Mars Crews Must Fight Weightlessness"
+      ],
+      "facts": [
+        {
+          "claim": "This results in a loss of bone tissue approximately 1.5% per month especially from the lower vertebrae, hip, and femur.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Effect of spaceflight on the human body",
+          "url": "https://en.wikipedia.org/wiki/Effect_of_spaceflight_on_the_human_body"
+        },
+        {
+          "claim": "Some muscles atrophy rapidly, and without regular exercise astronauts can lose up to 20% of their muscle mass in just 5 to 11 days.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Effect of spaceflight on the human body",
+          "url": "https://en.wikipedia.org/wiki/Effect_of_spaceflight_on_the_human_body"
+        },
+        {
+          "claim": "In November 2019, researchers reported that astronauts experienced serious blood flow and clot problems while on board the ISS, based on a six-month study of 11 healthy astronauts.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Effect of spaceflight on the human body",
+          "url": "https://en.wikipedia.org/wiki/Effect_of_spaceflight_on_the_human_body"
+        },
+        {
+          "claim": "A 2024 assessment noted that well-known problems include bone loss, heightened cancer risk, vision impairment, weakened immune systems, and mental health issues.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Effect of spaceflight on the human body",
+          "url": "https://en.wikipedia.org/wiki/Effect_of_spaceflight_on_the_human_body"
+        }
+      ],
+      "narration": [
+        {
+          "text": "In space, your bones lose about 1.5% a month.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Muscles can shrink even faster without gravity.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Without exercise, astronauts can lose up to 20% of muscle in 5 to 11 days.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Hips, spine and thighs lose bone the fastest.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "A 2019 study found blood-flow and clot problems on the ISS.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Vision problems and cancer risk add to the list.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a year in orbit trains the body to forget gravity.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "That's the real obstacle for any trip to Mars.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-mountain-fell-into-a-bay",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If a Mountain Fell Into a Bay?",
+      "hook": "Why water once climbed 524 metres up a mountain.",
+      "openingLine": "Why water once climbed 524 metres up a mountain.",
+      "secondBeat": "30 million cubic metres of rock caused it.",
+      "scientificMechanism": "a large rockslide into a confined bay displaces water violently, driving extreme run-up on the opposite shore",
+      "scenarioChange": "a massive rockslide plunged into a narrow bay",
+      "expectedConsequence": "a local megatsunami strips slopes hundreds of metres up, far beyond any earthquake-driven wave",
+      "coreQuestion": "If a mountain fell into a bay, how high could the water climb?",
+      "misconception": "The tallest waves on record weren't caused by earthquakes directly but by landslides.",
+      "number": "524 m",
+      "thumbnailText": "524-METRE WAVE",
+      "visualScenes": [
+        "Lituya Bay T-shaped map",
+        "rockslide plunging into water",
+        "run-up line on the far slope",
+        "stripped forest trimline",
+        "wave crest model tank",
+        "earthquake fault trace along the bay"
+      ],
+      "editorialTitles": [
+        "The Wave That Climbed 524 Metres",
+        "Why Landslides Make the Tallest Waves"
+      ],
+      "facts": [
+        {
+          "claim": "The 1958 Lituya Bay earthquake occurred on July 9, 1958, with a moment magnitude of 7.8 to 8.3.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1958 Lituya Bay earthquake and megatsunami",
+          "url": "https://en.wikipedia.org/wiki/1958_Lituya_Bay_earthquake_and_megatsunami"
+        },
+        {
+          "claim": "Over 30 million cubic meters of rock fell from a height of several hundred meters into the bay, creating a megatsunami.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1958 Lituya Bay earthquake and megatsunami",
+          "url": "https://en.wikipedia.org/wiki/1958_Lituya_Bay_earthquake_and_megatsunami"
+        },
+        {
+          "claim": "The wave caused damage to the vegetation up the headlands around the area where the rockfall occurred, up to a height of 524 meters.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1958 Lituya Bay earthquake and megatsunami",
+          "url": "https://en.wikipedia.org/wiki/1958_Lituya_Bay_earthquake_and_megatsunami"
+        },
+        {
+          "claim": "Lituya Bay is a T-shaped bay with a width of 2 miles (3 km) and a length of 7 miles (11 km).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1958 Lituya Bay earthquake and megatsunami",
+          "url": "https://en.wikipedia.org/wiki/1958_Lituya_Bay_earthquake_and_megatsunami"
+        },
+        {
+          "claim": "A 1:675 recreation of the tsunami found the wave crest was 150 m (490 ft) tall.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1958 Lituya Bay earthquake and megatsunami",
+          "url": "https://en.wikipedia.org/wiki/1958_Lituya_Bay_earthquake_and_megatsunami"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why water once climbed 524 metres up a mountain.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "30 million cubic metres of rock caused it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "An earthquake of magnitude 7.8 to 8.3 shook it loose.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Lituya Bay is only 3 kilometres wide.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The water surged up the far slope, stripping soil and trees.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Models put the wave crest itself at about 150 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "A narrow bay concentrates a landslide's push into one giant surge.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the tallest waves come from falling mountains, not earthquakes alone.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-another-tambora-erupted-today",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If Another Tambora Erupted Today?",
+      "hook": "Under 1 °C of cooling cancelled a whole summer.",
+      "openingLine": "Under 1 °C of cooling cancelled a whole summer.",
+      "secondBeat": "Tambora erupted in 1815. Summer 1816 barely came.",
+      "scientificMechanism": "a large eruption injects sulfur into the stratosphere, forming aerosols that reflect sunlight and cool the globe",
+      "scenarioChange": "a Tambora-size eruption happened today",
+      "expectedConsequence": "a cool year of failed harvests, transmitted worldwide through food trade and prices",
+      "coreQuestion": "If another Tambora erupted today, could a single volcano still cancel summer?",
+      "misconception": "It didn't take a huge global cooling to cause famine; less than 1 °C was enough.",
+      "number": "0.4–0.7 °C",
+      "thumbnailText": "NO SUMMER",
+      "visualScenes": [
+        "Mount Tambora eruption plume",
+        "sulfur aerosol layer diagram",
+        "global temperature dip in 1816",
+        "frost-damaged crops",
+        "grain price chart",
+        "shipping routes spreading a food shortage"
+      ],
+      "editorialTitles": [
+        "The Volcano That Cancelled Summer",
+        "What If Tambora Erupted Today"
+      ],
+      "facts": [
+        {
+          "claim": "The year 1816 is known as the Year Without a Summer because of severe climate abnormalities that caused average global temperatures to decrease by 0.4–0.7 °C (0.7–1 °F).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Year Without a Summer",
+          "url": "https://en.wikipedia.org/wiki/Year_Without_a_Summer"
+        },
+        {
+          "claim": "The main cause of the Year Without a Summer is generally held to be a volcanic winter created by the April 1815 eruption of Mount Tambora on Sumbawa.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Year Without a Summer",
+          "url": "https://en.wikipedia.org/wiki/Year_Without_a_Summer"
+        },
+        {
+          "claim": "Between 1816 and 1819, major typhus epidemics occurred in parts of Europe, including Ireland, Italy, Switzerland, and Scotland, precipitated by the famine.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Year Without a Summer",
+          "url": "https://en.wikipedia.org/wiki/Year_Without_a_Summer"
+        },
+        {
+          "claim": "The ice dam collapsed catastrophically in June 1818, killing forty people in the resulting flood.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Year Without a Summer",
+          "url": "https://en.wikipedia.org/wiki/Year_Without_a_Summer"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Under 1 °C of cooling cancelled a whole summer.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Tambora erupted in 1815. Summer 1816 barely came.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Global temperatures dropped by 0.4 to 0.7 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That small shift was enough to ruin harvests.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Famine helped trigger typhus epidemics across Europe until 1819.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Today, a similar eruption would hit global grain markets at once.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Food trade would spread the shortage, and the price shock, worldwide.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a single volcano could still test the world's food supply.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-mediterranean-sea-dried-up",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Mediterranean Sea Dried Up?",
+      "hook": "Why the Mediterranean once lost 3,300 km³ a year.",
+      "openingLine": "Why the Mediterranean once lost 3,300 km³ a year.",
+      "secondBeat": "It left a basin up to 5 kilometres deep.",
+      "scientificMechanism": "a nearly enclosed sea in a dry climate loses more water to evaporation than rivers and rain supply",
+      "scenarioChange": "the Mediterranean was cut off from the Atlantic",
+      "expectedConsequence": "the sea evaporates into a deep salt basin until Gibraltar reopens and refills it",
+      "coreQuestion": "If the Mediterranean dried up, how fast would it go, and what would bring it back?",
+      "misconception": "The Mediterranean drying out isn't hypothetical; it happened, possibly several times.",
+      "number": "3,300 km³/year",
+      "thumbnailText": "THE SEA VANISHES",
+      "visualScenes": [
+        "Mediterranean basin drained to salt flats",
+        "Gibraltar strait closing",
+        "evaporation arrows over the basin",
+        "thick salt layers in a core",
+        "Zanclean flood pouring through Gibraltar",
+        "depth map 5 km below sea level"
+      ],
+      "editorialTitles": [
+        "When the Mediterranean Dried Up",
+        "Why One Strait Decides Whether a Sea Exists"
+      ],
+      "facts": [
+        {
+          "claim": "This massive desiccation left a deep dry basin, reaching 3 to 5 km (1.9 to 3.1 mi) deep below normal sea level, with a few hypersaline pockets.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Messinian salinity crisis",
+          "url": "https://en.wikipedia.org/wiki/Messinian_salinity_crisis"
+        },
+        {
+          "claim": "When that was shut off sometime between 6.5 to 6 MYBP, net evaporative loss set in at the rate of around 3,300 cubic kilometres yearly.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Messinian salinity crisis",
+          "url": "https://en.wikipedia.org/wiki/Messinian_salinity_crisis"
+        },
+        {
+          "claim": "The Messinian salinity crisis ended with the Strait of Gibraltar finally reopening 5.33 Ma, when the Atlantic rapidly filled up the Mediterranean basin in what is known as the Zanclean flood.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Messinian salinity crisis",
+          "url": "https://en.wikipedia.org/wiki/Messinian_salinity_crisis"
+        },
+        {
+          "claim": "The Sorbas Basin was filled with evaporites at 5.5 million years ago (Ma), compared to the main basin at 5.96 Ma.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Messinian salinity crisis",
+          "url": "https://en.wikipedia.org/wiki/Messinian_salinity_crisis"
+        },
+        {
+          "claim": "Research has suggested that the desiccation-flooding cycle may have repeated several times during the last 630,000 years of the Miocene epoch.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Messinian salinity crisis",
+          "url": "https://en.wikipedia.org/wiki/Messinian_salinity_crisis"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the Mediterranean once lost 3,300 km³ a year.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It left a basin up to 5 kilometres deep.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Cut off from the Atlantic, evaporation outpaced every river.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Salt piled up in thick layers across the seabed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The drying and flooding may have repeated several times.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "It ended 5.33 million years ago, when Gibraltar reopened.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The Atlantic poured back in, in the Zanclean flood.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So one narrow strait decides whether a sea exists.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-krakatoa-erupted-today",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If Krakatoa Erupted Today?",
+      "hook": "Why Krakatoa was heard 4,800 kilometres away.",
+      "openingLine": "Why Krakatoa was heard 4,800 kilometres away.",
+      "secondBeat": "That's Indonesia to an island near Mauritius.",
+      "scientificMechanism": "an explosive eruption and caldera collapse send pressure waves around the globe and tsunamis across nearby coasts",
+      "scenarioChange": "an 1883-scale Krakatoa eruption happened today",
+      "expectedConsequence": "tsunamis along the Sunda Strait coasts and regional air travel halted by ash",
+      "coreQuestion": "If Krakatoa erupted today, what would do the most damage: the blast, the ash or the waves?",
+      "misconception": "Most of Krakatoa's deaths came from tsunamis, not the explosion itself.",
+      "number": "4,800 km",
+      "thumbnailText": "HEARD 4,800 KM",
+      "visualScenes": [
+        "map of the Sunda Strait",
+        "sound reach circles to Perth and Rodrigues",
+        "ash column 27 km high",
+        "tsunami reaching a coastline",
+        "modern coastal city skyline",
+        "aircraft grounded under ash"
+      ],
+      "editorialTitles": [
+        "What If Krakatoa Erupted Today",
+        "Why Krakatoa's Waves Were Deadlier Than Its Bang"
+      ],
+      "facts": [
+        {
+          "claim": "The explosion was heard 3,110 kilometres (1,930 mi) away in Perth, Western Australia, and Rodrigues near Mauritius, 4,800 kilometres (3,000 mi) away.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1883 eruption of Krakatoa",
+          "url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa"
+        },
+        {
+          "claim": "At least 36,417 deaths are attributed to the eruption and the tsunamis it created.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1883 eruption of Krakatoa",
+          "url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa"
+        },
+        {
+          "claim": "By 2:00 p.m., a black ash cloud could be seen 27 km (89,000 ft) high.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1883 eruption of Krakatoa",
+          "url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa"
+        },
+        {
+          "claim": "Explosions could be heard in Batavia (Jakarta) 160 km (100 mi) away, rattling windows and doors.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1883 eruption of Krakatoa",
+          "url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Krakatoa was heard 4,800 kilometres away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's Indonesia to an island near Mauritius.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "In Perth, 3,110 kilometres away, people heard it too.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its ash cloud climbed 27 kilometres high.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "At least 36,417 deaths are linked to the eruption and tsunamis.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Today, coasts around the Sunda Strait would face the waves first.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Ash high in the sky would ground flights across the region.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Krakatoa's real danger was its waves, not its bang.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-fusion-power-actually-worked",
+      "replaces": "what-if-commercial-fusion-power-solved-its-hardest-engineering-problem",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If Fusion Power Actually Worked?",
+      "hook": "Why fusion's 54% surplus isn't electricity yet.",
+      "openingLine": "Why fusion's 54% surplus isn't electricity yet.",
+      "secondBeat": "At NIF, a 2.05 MJ laser shot yielded 3.15 MJ.",
+      "scientificMechanism": "inertial confinement fusion: lasers compress a fuel capsule until hydrogen isotopes fuse and release energy",
+      "scenarioChange": "fusion reached practical power-plant gain",
+      "expectedConsequence": "scientific breakeven is proven; engineering gain, repetition rate and cost remain the barriers",
+      "coreQuestion": "If fusion power actually worked, what's still standing between a lab shot and your electricity?",
+      "misconception": "Fusion breakeven at NIF counted laser energy on target, not the power the facility drew from the grid.",
+      "number": "3.15 MJ from 2.05 MJ",
+      "thumbnailText": "FUSION BREAKEVEN",
+      "visualScenes": [
+        "192 laser beams converging on a capsule",
+        "fuel capsule implosion sequence",
+        "energy in versus out bar chart",
+        "NIF target chamber",
+        "power plant concept diagram",
+        "yield growth timeline"
+      ],
+      "editorialTitles": [
+        "What It Will Take for Fusion Power to Work",
+        "Why Fusion Breakeven Isn't Electricity Yet"
+      ],
+      "facts": [
+        {
+          "claim": "The design uses 192 beamlines in a parallel system of flashlamp-pumped, neodymium-doped phosphate glass lasers.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — National Ignition Facility",
+          "url": "https://en.wikipedia.org/wiki/National_Ignition_Facility"
+        },
+        {
+          "claim": "The feat required a 2.05 MJ laser (up from 1.9 MJ in 2021), yielding 3.15 MJ, a 54% surplus.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — National Ignition Facility",
+          "url": "https://en.wikipedia.org/wiki/National_Ignition_Facility"
+        },
+        {
+          "claim": "On December 5, 2022, NIF reached scientific breakeven for the first time, producing 154% of the energy of the laser.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — National Ignition Facility",
+          "url": "https://en.wikipedia.org/wiki/National_Ignition_Facility"
+        },
+        {
+          "claim": "Subsequent shots have seen continued increases in yield; a February 2024 shot exceeded 5 MJ.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — National Ignition Facility",
+          "url": "https://en.wikipedia.org/wiki/National_Ignition_Facility"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why fusion's 54% surplus isn't electricity yet.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "At NIF, a 2.05 MJ laser shot yielded 3.15 MJ.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It was the first scientific breakeven, using 192 laser beams.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "A 2024 shot pushed yield past 5 megajoules.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "But the lasers drew far more power from the grid than that.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "A power plant would need far higher gain, many times a second.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Scientific breakeven is proof of physics, not yet of electricity.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So fusion works. Making it pay is the next problem.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-dimmed-the-sun-to-cool-earth",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If We Dimmed the Sun to Cool Earth?",
+      "hook": "One volcano cooled Earth by 0.5 °C for years.",
+      "openingLine": "One volcano cooled Earth by 0.5 °C for years.",
+      "secondBeat": "Some scientists propose copying it on purpose.",
+      "scientificMechanism": "sulfate aerosols in the stratosphere reflect part of incoming sunlight, cooling the surface",
+      "scenarioChange": "humans injected aerosols into the stratosphere on purpose",
+      "expectedConsequence": "cheap, fast cooling that leaves carbon dioxide untouched and must be maintained indefinitely",
+      "coreQuestion": "If we dimmed the Sun to cool Earth, what would we gain, and what could go wrong?",
+      "misconception": "Dimming sunlight wouldn't remove any carbon dioxide; stopping it would release the masked warming.",
+      "number": "0.5 °C",
+      "thumbnailText": "DIMMING THE SUN",
+      "visualScenes": [
+        "Pinatubo eruption plume",
+        "aerosol layer reflecting sunlight",
+        "global temperature dip after 1991",
+        "high-altitude aircraft spraying",
+        "cost comparison bars",
+        "termination shock warming curve"
+      ],
+      "editorialTitles": [
+        "What If We Dimmed the Sun",
+        "Why Geoengineering Treats the Fever, Not the Cause"
+      ],
+      "facts": [
+        {
+          "claim": "For example, the eruption of Mount Pinatubo in 1991 caused global temperatures to drop by about 0.5 degrees Celsius for up to three years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Stratospheric aerosol injection",
+          "url": "https://en.wikipedia.org/wiki/Stratospheric_aerosol_injection"
+        },
+        {
+          "claim": "The annual cost of delivering a sufficient amount of sulfur to counteract expected greenhouse warming is estimated at $5–10 billion US dollars.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Stratospheric aerosol injection",
+          "url": "https://en.wikipedia.org/wiki/Stratospheric_aerosol_injection"
+        },
+        {
+          "claim": "In comparison, the annual cost estimates for climate damage or emission mitigation range from US$200 billion to 2 trillion.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Stratospheric aerosol injection",
+          "url": "https://en.wikipedia.org/wiki/Stratospheric_aerosol_injection"
+        },
+        {
+          "claim": "From 1850 to 2014, they reduced global average surface temperature by about 0.66 °C.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Stratospheric aerosol injection",
+          "url": "https://en.wikipedia.org/wiki/Stratospheric_aerosol_injection"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One volcano cooled Earth by 0.5 °C for years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Some scientists propose copying it on purpose.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Its sulfur haze reflected sunlight back to space.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Estimates put a yearly program at $5 to 10 billion.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Climate damage costs are estimated at $200 billion to $2 trillion a year.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "But stopping suddenly would unleash the hidden warming fast.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "And it wouldn't remove any carbon dioxide at all.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So dimming the sun treats the fever, not the infection.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-magnetar-came-close-to-earth",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If a Magnetar Came Close to Earth?",
+      "hook": "Why one star's magnetism outweighs lead 10,000 times.",
+      "openingLine": "Why one star's magnetism outweighs lead 10,000 times.",
+      "secondBeat": "Its field packs more mass-energy than solid metal.",
+      "scientificMechanism": "a magnetar's field is so intense that it deforms atoms and stores more energy per volume than matter's mass density",
+      "scenarioChange": "a magnetar passed near the Solar System",
+      "expectedConsequence": "at close range its field would distort atoms themselves; even from afar its flares reach Earth",
+      "coreQuestion": "If a magnetar came close to Earth, what would its magnetic field do to ordinary matter?",
+      "misconception": "A magnetar's danger isn't just attraction of metal; its field distorts atoms themselves.",
+      "number": "10,000× lead",
+      "thumbnailText": "STRONGEST MAGNET",
+      "visualScenes": [
+        "magnetar with twisted field lines",
+        "field strength comparison ladder",
+        "atom stretched into a rod",
+        "starquake cracking a crust",
+        "gamma-ray flare reaching Earth",
+        "fridge magnet for scale"
+      ],
+      "editorialTitles": [
+        "What If a Magnetar Came Close",
+        "Why a Magnetar Could Stretch Atoms"
+      ],
+      "facts": [
+        {
+          "claim": "Earth has a geomagnetic field of 30–60 microteslas, and a neodymium-based, rare-earth magnet has a field of about 1.25 tesla.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Magnetar",
+          "url": "https://en.wikipedia.org/wiki/Magnetar"
+        },
+        {
+          "claim": "A magnetar's field has an energy density with an E/c2 mass density more than 10,000 times that of lead.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Magnetar",
+          "url": "https://en.wikipedia.org/wiki/Magnetar"
+        },
+        {
+          "claim": "Magnetars are formed by the collapse of a star with a mass 10–25 times that of the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Magnetar",
+          "url": "https://en.wikipedia.org/wiki/Magnetar"
+        },
+        {
+          "claim": "Starquakes on the surface of the magnetar often lead to extremely powerful gamma-ray flare emissions which have been recorded on Earth in 1979, 1998, and 2004.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Magnetar",
+          "url": "https://en.wikipedia.org/wiki/Magnetar"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one star's magnetism outweighs lead 10,000 times.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Its field packs more mass-energy than solid metal.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Earth's field is just 30 to 60 microteslas.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "A strong neodymium magnet reaches about 1.25 tesla.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Near a magnetar, atoms themselves stretch into thin rods.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Starquakes there have sent gamma-ray flares all the way to Earth.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Up close, chemistry itself would stop working.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the strongest magnets in the universe are also the deadliest.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-all-the-bees-disappeared",
+      "replaces": "what-if-global-pollination-reversed-between-hemispheres",
+      "category": "OTHER",
+      "topic": "What If All the Bees Disappeared?",
+      "hook": "87.5% of flowering plants rely on animal pollinators.",
+      "openingLine": "87.5% of flowering plants rely on animal pollinators.",
+      "secondBeat": "Bees are the best known, but not the only ones.",
+      "scientificMechanism": "many crops need animals to carry pollen between flowers; staple grains are pollinated by wind",
+      "scenarioChange": "all animal pollinators, including bees, disappeared",
+      "expectedConsequence": "staple calories survive, but fruits, nuts and vegetables collapse, shrinking diet variety",
+      "coreQuestion": "If all the bees disappeared, would we starve, or just eat worse?",
+      "misconception": "Losing bees wouldn't end most calories; wind-pollinated staples like wheat and rice would continue.",
+      "number": "3–8%",
+      "thumbnailText": "NO MORE BEES",
+      "visualScenes": [
+        "bee on a crop flower",
+        "wind-pollinated wheat field",
+        "grocery shelf with pollinator crops removed",
+        "honey bee hives in an orchard",
+        "crop dependence chart",
+        "farm output drop bar"
+      ],
+      "editorialTitles": [
+        "What If Bees Disappeared",
+        "Why Losing Bees Would Cost Variety, Not Calories"
+      ],
+      "facts": [
+        {
+          "claim": "An estimated 87.5% of the world's flowering plant species are animal-pollinated, and 60% of crop plant species use animal pollinators.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pollinator decline",
+          "url": "https://en.wikipedia.org/wiki/Pollinator_decline"
+        },
+        {
+          "claim": "According to the USDA 80% of insect crop pollination in the US is due to honey bees.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pollinator decline",
+          "url": "https://en.wikipedia.org/wiki/Pollinator_decline"
+        },
+        {
+          "claim": "The expected direct reduction in total agricultural production in the US in the absence of animal pollination is expected to be 3 to 8%.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pollinator decline",
+          "url": "https://en.wikipedia.org/wiki/Pollinator_decline"
+        },
+        {
+          "claim": "A 2000 study about the economic effects of the honey bee on US food crops calculated that it helped to produce US$14.6 billion in monetary value.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pollinator decline",
+          "url": "https://en.wikipedia.org/wiki/Pollinator_decline"
+        }
+      ],
+      "narration": [
+        {
+          "text": "87.5% of flowering plants rely on animal pollinators.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Bees are the best known, but not the only ones.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "About 60% of crop species use animal pollinators too.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In the US, honey bees do 80% of insect crop pollination.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Yet losing all animal pollinators would cut US farm output only 3 to 8%.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Staples like wheat and rice are pollinated by wind.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The real losses would be fruits, nuts and vegetables.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So without bees we'd still eat, just with far less variety.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    }
+  ]
+}

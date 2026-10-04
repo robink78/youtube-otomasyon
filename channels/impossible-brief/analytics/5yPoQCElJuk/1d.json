@@ -1,0 +1,128 @@
+{
+  "videoId": "5yPoQCElJuk",
+  "baslik": "The Hidden Ocean on Jupiter's Moon",
+  "yayin": "2026-10-02",
+  "yasGun": 1,
+  "sureSn": 35,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 493,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 10,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 1,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "averageViewDuration": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "averageViewPercentage": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "subscribersGained": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "subscribersLost": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "netSubscribers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "shares": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "engagedViews": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "first30sRetention": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "needs subscribersGained"
+    },
+    "netSubsPer1000": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "needs subscribersGained and subscribersLost"
+    },
+    "likeRate": {
+      "deger": 2,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 0.2,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": [],
+  "tutma": [],
+  "analitikDurumu": "ok",
+  "toplandi": "2026-10-03T18:00:36.510Z",
+  "checkpoint": "1d",
+  "teshis": [
+    {
+      "kod": "INSUFFICIENT_DATA",
+      "guven": "high",
+      "aciklama": "493 views after 1 days — too early/small for rate-based conclusions.",
+      "oneri": "Do not change packaging yet unless something is objectively broken (missing sources, typo). Re-check at 7 days."
+    },
+    {
+      "kod": "OUTPERFORMER",
+      "guven": "low",
+      "aciklama": "493 views vs channel median 246.5 (n=2 videos).",
+      "oneri": "Keep the title and opening as they are. Reuse what worked (subject, hook shape) in the next episode of this cluster."
+    }
+  ],
+  "retentionDrop": null
+}

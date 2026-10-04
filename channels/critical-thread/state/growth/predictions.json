@@ -1,0 +1,160 @@
+{
+  "channel": "critical-thread",
+  "updatedAt": "2026-10-04T18:12:31.885Z",
+  "calibration": {
+    "short": {
+      "topicScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "viralScore": {
+        "n": 2,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "hookScore": {
+        "n": 2,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "titleScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "readiness": {
+        "n": 2,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "popularityScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      }
+    },
+    "long": {
+      "topicScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "viralScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "hookScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "titleScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "readiness": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "popularityScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      }
+    }
+  },
+  "rows": [
+    {
+      "videoId": "7q3E09HMIGI",
+      "slug": "why-high-lift-water-pump-is-so-hard-to-replace",
+      "contentType": "short",
+      "cluster": "WATER",
+      "publishAt": "2026-09-30T18:00:00.000Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": 82,
+        "titleScore": null,
+        "readiness": 91,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": null,
+        "views": null,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": null
+      }
+    },
+    {
+      "videoId": "rAZ4cE4A0DE",
+      "slug": "why-nuclear-reactor-coolant-pump-is-so-hard-to-replace",
+      "contentType": "short",
+      "cluster": "ENERGY",
+      "publishAt": "2026-10-04T22:00:00.000Z",
+      "predicted": {
+        "topicScore": 83,
+        "viralScore": 74,
+        "hookScore": 85,
+        "titleScore": 72,
+        "readiness": 89,
+        "popularityScore": 77
+      },
+      "outcome": {
+        "growthScore": null,
+        "views": null,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": null
+      }
+    },
+    {
+      "videoId": "hsuWhB8lCvU",
+      "slug": "what-quietly-depends-on-uninterruptible-power-supply",
+      "contentType": "short",
+      "cluster": "DATA CENTERS",
+      "publishAt": "2026-10-03T22:00:22Z",
+      "predicted": {
+        "topicScore": 84,
+        "viralScore": 76,
+        "hookScore": 77,
+        "titleScore": 73,
+        "readiness": 88,
+        "popularityScore": 62
+      },
+      "outcome": {
+        "growthScore": 27.1,
+        "views": 14,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "1h"
+      }
+    },
+    {
+      "videoId": "fGE8kZOaQZ4",
+      "slug": "inside-the-system-built-around-road-tunnel-ventilation-system",
+      "contentType": "short",
+      "cluster": "ROADS AND BRIDGES",
+      "publishAt": "2026-10-02T18:00:34Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": 77,
+        "hookScore": 81,
+        "titleScore": null,
+        "readiness": 90,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 72.9,
+        "views": 1003,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "48h"
+      }
+    }
+  ]
+}

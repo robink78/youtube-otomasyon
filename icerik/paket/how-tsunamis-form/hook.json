@@ -1,0 +1,50 @@
+{
+  "slug": "how-tsunamis-form",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.695Z",
+  "ekranHook": "The wave you cannot outrun",
+  "mevcut": {
+    "puan": 40,
+    "pencereler": {
+      "0-5": "A tsunami is not a normal wave - it is a moving wall of",
+      "5-12": "ocean. It usually begins with an earthquake deep under the sea. The seafloor jerks upward and shoves a huge",
+      "12-20": "volume of water. In deep water the wave is low but races at jet speed. You would not even feel it pass",
+      "20-30": "beneath a boat. But as it reaches shallow water near the coast, it slows. All that energy piles up into a towering wall of water. The sea often"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "first sentence is long (15 words)",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A tsunami is not a normal wave - it is a moving wall of ocean."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only an undersea earthquake."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is seafloor displacement and wave shoaling — and it is why if the sea suddenly retreats, go to high ground."
+      }
+    ],
+    "metin": "A tsunami is not a normal wave - it is a moving wall of ocean. It took only an undersea earthquake. So what actually happens inside? The answer is seafloor displacement and wave shoaling — and it is why if the sea suddenly retreats, go to high ground.",
+    "puan": 80
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

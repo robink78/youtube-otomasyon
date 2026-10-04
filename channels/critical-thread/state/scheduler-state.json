@@ -1,0 +1,126 @@
+{
+  "channel": "critical-thread",
+  "lastShort": null,
+  "lastLong": null,
+  "queue": [
+    {
+      "channel": "critical-thread",
+      "format": "short",
+      "key": "critical-thread:short",
+      "position": 2,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-09-29",
+      "status": "missed",
+      "settledOn": "2026-10-03"
+    },
+    {
+      "channel": "critical-thread",
+      "format": "long",
+      "key": "critical-thread:long",
+      "position": 5,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-09-29",
+      "status": "expired",
+      "settledOn": "2026-10-03"
+    },
+    {
+      "channel": "critical-thread",
+      "format": "long",
+      "key": "critical-thread:long",
+      "position": 3,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-09-30",
+      "status": "expired",
+      "settledOn": "2026-10-03"
+    },
+    {
+      "channel": "critical-thread",
+      "format": "short",
+      "key": "critical-thread:short",
+      "position": 2,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-09-30",
+      "status": "done",
+      "settledOn": "2026-10-03"
+    },
+    {
+      "channel": "critical-thread",
+      "format": "long",
+      "key": "critical-thread:long",
+      "position": 3,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-01",
+      "status": "expired",
+      "settledOn": "2026-10-03"
+    },
+    {
+      "channel": "critical-thread",
+      "format": "long",
+      "key": "critical-thread:long",
+      "position": 3,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-02",
+      "status": "expired",
+      "settledOn": "2026-10-03"
+    },
+    {
+      "channel": "critical-thread",
+      "format": "short",
+      "key": "critical-thread:short",
+      "position": 3,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-02",
+      "status": "done",
+      "settledOn": "2026-10-03"
+    },
+    {
+      "channel": "critical-thread",
+      "format": "short",
+      "key": "critical-thread:short",
+      "position": 3,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-03",
+      "status": "done",
+      "settledOn": "2026-10-04"
+    },
+    {
+      "channel": "critical-thread",
+      "format": "long",
+      "key": "critical-thread:long",
+      "position": 6,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-03",
+      "status": "expired",
+      "settledOn": "2026-10-04"
+    },
+    {
+      "channel": "critical-thread",
+      "format": "short",
+      "key": "critical-thread:short",
+      "position": 3,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-04",
+      "status": "queued"
+    },
+    {
+      "channel": "critical-thread",
+      "format": "long",
+      "key": "critical-thread:long",
+      "position": 7,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-04",
+      "status": "queued"
+    }
+  ]
+}

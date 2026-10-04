@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Factory Wastewater That Poisoned a Fishing Town",
+  "kaynaklar": [
+    {
+      "ad": "minamata-disease-1.png",
+      "wikimedia": "The-Journal-of-the-Kumamoto-Medical-Society-1.png"
+    },
+    {
+      "ad": "minamata-disease-2.png",
+      "wikimedia": "The-Journal-of-the-Kumamoto-Medical-Society-2.png"
+    },
+    {
+      "ad": "minamata-disease-3.jpg",
+      "wikimedia": "Minamata memorial (1).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In a Japanese fishing town, people began to suffer a mysterious disease.",
+      "kaynak": "Footage/minamata-disease-1.png"
+    },
+    {
+      "metin": "Some were killed, and thousands were left disabled.",
+      "kaynak": "Footage/minamata-disease-2.png"
+    },
+    {
+      "metin": "Cats in the town were affected first.",
+      "kaynak": "Footage/minamata-disease-3.jpg"
+    },
+    {
+      "metin": "A chemical factory was releasing methylmercury into the bay.",
+      "kaynak": "Footage/minamata-disease-1.png"
+    },
+    {
+      "metin": "Small organisms absorbed it, then fish ate them.",
+      "kaynak": "Footage/minamata-disease-2.png"
+    },
+    {
+      "metin": "Mercury built up at each step of the food chain.",
+      "kaynak": "Footage/minamata-disease-3.jpg"
+    },
+    {
+      "metin": "People who ate the fish received toxic doses.",
+      "kaynak": "Footage/minamata-disease-1.png"
+    },
+    {
+      "metin": "A global treaty on mercury now bears Minamata's name.",
+      "kaynak": "Footage/minamata-disease-2.png"
+    }
+  ],
+  "aciklama": "Minamata poisoned people who ate its fish. The cause: bioaccumulation of methylmercury through the marine food chain.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Minamata",
+    "1956",
+    "wastewater",
+    "engineering failure"
+  ],
+  "hook": "The fish carried it",
+  "soru": "How much proof is enough?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "Minamata Bay",
+    "kisa": "Minamata",
+    "nesne": "Wastewater",
+    "yil": 1956,
+    "sonuc": "poisoned people who ate its fish",
+    "tetik": "methylmercury in a chemical factory's wastewater",
+    "mekanizma": "bioaccumulation of methylmercury through the marine food chain",
+    "sayi": "METHYLMERCURY",
+    "ders": "the Minamata Convention on Mercury was named after the town",
+    "zincir": [
+      "FACTORY DISCHARGES MERCURY",
+      "METHYLMERCURY IN THE BAY",
+      "FISH ACCUMULATE IT",
+      "PEOPLE EAT THE FISH",
+      "NEUROLOGICAL DISEASE"
+    ],
+    "zaman": [],
+    "yanilgi": "The water didn't poison people directly. Mercury built up through the food chain until fish carried dangerous doses.",
+    "tartisma": "The cause was suspected years before discharges stopped. How much proof is enough to act?",
+    "basliklar": [
+      "The Factory Wastewater That Poisoned a Fishing Town",
+      "What Caused Minamata Disease",
+      "The Mercury That Climbed the Food Chain"
+    ],
+    "kapak": [
+      "MERCURY",
+      "FOOD CHAIN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Minamata disease",
+        "url": "https://en.wikipedia.org/wiki/Minamata_disease"
+      },
+      {
+        "ad": "National Archives — 81th e (cited by Wikipedia)",
+        "url": "http://webarchive.nationalarchives.gov.uk/20100809113011/http://www.chisso.co.jp/english/investors/other/81th_e.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Minamata_disease",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "The-Journal-of-the-Kumamoto-Medical-Society-1.png [Public domain]",
+      "The-Journal-of-the-Kumamoto-Medical-Society-2.png [Public domain]",
+      "Minamata memorial (1).jpg [Public domain]"
+    ]
+  }
+}

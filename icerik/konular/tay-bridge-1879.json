@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Bridge That Fell With a Train on It",
+  "kaynaklar": [
+    {
+      "ad": "tay-bridge-1.jpg",
+      "wikimedia": "Catastrophe du pont sur le Tay - 1879 - Illustration.jpg"
+    },
+    {
+      "ad": "tay-bridge-2.jpg",
+      "wikimedia": "Catastrophe du pont sur le Tay - 1879 - Photo.jpg"
+    },
+    {
+      "ad": "tay-bridge-3.jpg",
+      "wikimedia": "Detail of men salvaging the wreckage of the Tay Bridge.jpg"
+    },
+    {
+      "ad": "tay-bridge-4.jpg",
+      "wikimedia": "Fallen girders, Tay Bridge.jpg"
+    },
+    {
+      "ad": "tay-bridge-5.jpg",
+      "wikimedia": "North British Railway locomotive 224.jpg"
+    },
+    {
+      "ad": "tay-bridge-6.jpg",
+      "wikimedia": "Original Tay Bridge before the 1879 collapse.jpg"
+    },
+    {
+      "ad": "tay-bridge-7.jpg",
+      "wikimedia": "Part of the train salvaged from the Tay.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In a winter storm, a bridge in Scotland fell with a train on it.",
+      "kaynak": "Footage/tay-bridge-1.jpg"
+    },
+    {
+      "metin": "The high girders collapsed, and everyone aboard was killed.",
+      "kaynak": "Footage/tay-bridge-2.jpg"
+    },
+    {
+      "metin": "Investigators found the bridge was never designed for wind.",
+      "kaynak": "Footage/tay-bridge-3.jpg"
+    },
+    {
+      "metin": "Its columns were held by weak cast-iron lugs.",
+      "kaynak": "Footage/tay-bridge-4.jpg"
+    },
+    {
+      "metin": "Many were badly made and poorly inspected.",
+      "kaynak": "Footage/tay-bridge-5.jpg"
+    },
+    {
+      "metin": "The gale pushed on the girders and the train together.",
+      "kaynak": "Footage/tay-bridge-6.jpg"
+    },
+    {
+      "metin": "The columns gave way, and the span dropped into the Tay.",
+      "kaynak": "Footage/tay-bridge-7.jpg"
+    },
+    {
+      "metin": "After that, British bridges had to be designed for wind.",
+      "kaynak": "Footage/tay-bridge-1.jpg"
+    }
+  ],
+  "aciklama": "Tay Bridge collapsed in a storm while a train crossed. The cause: wind loading the designer never allowed for, acting on weak cast-iron column lugs.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Tay Bridge",
+    "1879",
+    "bridge",
+    "engineering failure"
+  ],
+  "hook": "The whole train fell",
+  "soru": "Would you have crossed that night?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Tay Bridge",
+    "kisa": "Tay Bridge",
+    "nesne": "Bridge",
+    "yil": 1879,
+    "sonuc": "collapsed in a storm while a train crossed",
+    "tetik": "a winter gale hitting a lightly built girder span",
+    "mekanizma": "wind loading the designer never allowed for, acting on weak cast-iron column lugs",
+    "sayi": "NO WIND LOAD",
+    "ders": "British bridges were afterwards designed for explicit wind pressure",
+    "zincir": [
+      "DESIGN IGNORES WIND LOAD",
+      "CAST-IRON LUGS POORLY MADE",
+      "GALE HITS THE HIGH GIRDERS",
+      "COLUMNS BREAK UNDER THE TRAIN",
+      "SPAN AND TRAIN FALL INTO THE TAY"
+    ],
+    "zaman": [],
+    "yanilgi": "The train did not simply blow off the rails. The bridge itself failed: its columns and their cast-iron fixings could not resist the storm.",
+    "tartisma": "The designer was knighted months before the collapse. How much should one engineer's reputation carry?",
+    "basliklar": [
+      "The Bridge That Fell With a Train on It",
+      "Why the Tay Bridge Collapsed",
+      "The Storm Nobody Designed For"
+    ],
+    "kapak": [
+      "NO WIND LOAD",
+      "WHOLE TRAIN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Tay Bridge disaster",
+        "url": "https://en.wikipedia.org/wiki/Tay_Bridge_disaster"
+      },
+      {
+        "ad": "Government source — natural areas and greenspaces (cited by Wikipedia)",
+        "url": "http://www.wirral.gov.uk/my-services/leisure-and-culture/parks-beaches-and-countryside/parks-greenspaces-and-countryside/natural-areas-and-greenspaces"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Tay_Bridge_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Catastrophe du pont sur le Tay - 1879 - Illustration.jpg [Public domain]",
+      "Catastrophe du pont sur le Tay - 1879 - Photo.jpg [Public domain]",
+      "Detail of men salvaging the wreckage of the Tay Bridge.jpg [Public domain]",
+      "Fallen girders, Tay Bridge.jpg [Public domain]",
+      "North British Railway locomotive 224.jpg [Public domain]",
+      "Original Tay Bridge before the 1879 collapse.jpg [Public domain]",
+      "Part of the train salvaged from the Tay.jpg [Public domain]"
+    ]
+  }
+}

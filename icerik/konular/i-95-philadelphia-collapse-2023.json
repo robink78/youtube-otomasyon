@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Tanker Fire Under I-95 Brought Down the Highway",
+  "kaynaklar": [
+    {
+      "ad": "i-95-philadelphia-collap-1.jpg",
+      "wikimedia": "FHA I95 Bridge Collapse Inspection.jpg"
+    },
+    {
+      "ad": "i-95-philadelphia-collap-2.jpg",
+      "wikimedia": "President Joe Biden watches as Pennsylvania Governor Josh Shapiro explains details of the Interstate 95 highway collapse after an aerial tour of the site at Philadelphia International Airport in Philadelphia.jpg"
+    },
+    {
+      "ad": "i-95-philadelphia-collap-3.jpg",
+      "wikimedia": "I-95 elevated South Philadelphia.jpg"
+    },
+    {
+      "ad": "i-95-philadelphia-collap-4.jpg",
+      "wikimedia": "I-95 at Philadelphia (53572501196).jpg"
+    },
+    {
+      "ad": "i-95-philadelphia-collap-5.jpg",
+      "wikimedia": "Interstate 95 Overpass Parking Lot.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A tanker truck crashed and caught fire under Interstate 95 in Philadelphia.",
+      "kaynak": "Footage/i-95-philadelphia-collap-1.jpg"
+    },
+    {
+      "metin": "Within minutes, the heat caused the northbound lanes to collapse.",
+      "kaynak": "Footage/i-95-philadelphia-collap-2.jpg"
+    },
+    {
+      "metin": "The truck was carrying gasoline.",
+      "kaynak": "Footage/i-95-philadelphia-collap-3.jpg"
+    },
+    {
+      "metin": "Its driver lost control on a curve.",
+      "kaynak": "Footage/i-95-philadelphia-collap-4.jpg"
+    },
+    {
+      "metin": "The tank ruptured under the overpass.",
+      "kaynak": "Footage/i-95-philadelphia-collap-5.jpg"
+    },
+    {
+      "metin": "The heat weakened the structure above.",
+      "kaynak": "Footage/i-95-philadelphia-collap-1.jpg"
+    },
+    {
+      "metin": "It recalled similar collapses elsewhere.",
+      "kaynak": "Footage/i-95-philadelphia-collap-2.jpg"
+    },
+    {
+      "metin": "A temporary road reopened I-95 in under two weeks.",
+      "kaynak": "Footage/i-95-philadelphia-collap-3.jpg"
+    }
+  ],
+  "aciklama": "I-95 Philadelphia collapsed after a tanker fire underneath. The cause: extreme heat from burning gasoline weakening the overpass.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "I-95 Philadelphia",
+    "2023",
+    "overpass",
+    "engineering failure"
+  ],
+  "hook": "Fire brought down I-95",
+  "soru": "Keep tankers away?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the I-95 collapse",
+    "kisa": "I-95 Philadelphia",
+    "nesne": "Overpass",
+    "yil": 2023,
+    "sonuc": "collapsed after a tanker fire underneath",
+    "tetik": "a gasoline tanker rolling over on an off-ramp",
+    "mekanizma": "extreme heat from burning gasoline weakening the overpass",
+    "sayi": "8,500 GALLONS",
+    "ders": "a temporary roadway reopened the highway in under two weeks",
+    "zincir": [
+      "TANKER ON CURVE",
+      "DRIVER LOSES CONTROL",
+      "TANK RUPTURES",
+      "FIRE UNDER OVERPASS",
+      "LANES COLLAPSE"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't a structural flaw. Fire underneath was enough.",
+    "tartisma": "Similar collapses happened in Oakland and Atlanta. Should fuel tankers be kept away from overpasses?",
+    "basliklar": [
+      "A Tanker Fire Under I-95 Brought Down the Highway",
+      "Why I-95 Collapsed in Philadelphia",
+      "The Tanker Fire Under the Highway"
+    ],
+    "kapak": [
+      "TANKER FIRE",
+      "COLLAPSED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2023 Interstate 95 highway collapse",
+        "url": "https://en.wikipedia.org/wiki/2023_Interstate_95_highway_collapse"
+      },
+      {
+        "ad": "NTSB — HIR2501 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/HIR2501.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "2023_Interstate_95_highway_collapse",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "FHA I95 Bridge Collapse Inspection.jpg [Public domain]",
+      "President Joe Biden watches as Pennsylvania Governor Josh Shapiro explains details of the Interstate 95 highway collapse after an aerial tour of the site at Philadelphia International Airport in Philadelphia.jpg [Public domain]",
+      "I-95 elevated South Philadelphia.jpg [CC0]",
+      "I-95 at Philadelphia (53572501196).jpg [CC BY 2.0]",
+      "Interstate 95 Overpass Parking Lot.jpg [CC BY 4.0]"
+    ]
+  }
+}

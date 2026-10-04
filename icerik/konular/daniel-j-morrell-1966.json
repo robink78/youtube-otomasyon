@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "One Survivor Watched His Ship Break Apart",
+  "kaynaklar": [
+    {
+      "ad": "daniel-j-morrell-1.jpg",
+      "wikimedia": "Daniel J. Morrell underway.jpg"
+    },
+    {
+      "ad": "daniel-j-morrell-2.jpg",
+      "wikimedia": "Daniel J Morrell (49240554421).jpg"
+    },
+    {
+      "ad": "daniel-j-morrell-3.jpg",
+      "wikimedia": "Steamers Daniel J. Morrell and L. C. Hanna at Dock No. 10 - Flickr - Ashtabula Archive.jpg"
+    },
+    {
+      "ad": "daniel-j-morrell-4.jpg",
+      "wikimedia": "Daniel J. Morrell after launch.jpg"
+    },
+    {
+      "ad": "daniel-j-morrell-5.jpg",
+      "wikimedia": "Daniel J. Morrell in Bay City, Michigan.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In a storm on Lake Huron, a freighter's hull cracked across the deck.",
+      "kaynak": "Footage/daniel-j-morrell-1.jpg"
+    },
+    {
+      "metin": "The ship broke in two, and everyone but one sailor died.",
+      "kaynak": "Footage/daniel-j-morrell-2.jpg"
+    },
+    {
+      "metin": "The survivor spent a freezing night on a raft.",
+      "kaynak": "Footage/daniel-j-morrell-3.jpg"
+    },
+    {
+      "metin": "The stern kept sailing under its own power after the bow fell away.",
+      "kaynak": "Footage/daniel-j-morrell-4.jpg"
+    },
+    {
+      "metin": "Investigators blamed the steel.",
+      "kaynak": "Footage/daniel-j-morrell-5.jpg"
+    },
+    {
+      "metin": "In cold water, it had become brittle.",
+      "kaynak": "Footage/daniel-j-morrell-1.jpg"
+    },
+    {
+      "metin": "Its sister ship had cracked in the same storm.",
+      "kaynak": "Footage/daniel-j-morrell-2.jpg"
+    },
+    {
+      "metin": "Older lake freighters were inspected and reinforced afterward.",
+      "kaynak": "Footage/daniel-j-morrell-3.jpg"
+    }
+  ],
+  "aciklama": "Daniel J. Morrell broke in two on Lake Huron. The cause: hull fracture in cold water, attributed to brittle steel that lost toughness in low temperatures.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Daniel J. Morrell",
+    "1966",
+    "freighter",
+    "engineering failure"
+  ],
+  "hook": "Only one survived",
+  "soru": "Check the whole fleet?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "the Daniel J. Morrell",
+    "kisa": "Daniel J. Morrell",
+    "nesne": "Freighter",
+    "yil": 1966,
+    "sonuc": "broke in two on Lake Huron",
+    "tetik": "a storm loading a hull built of brittle steel",
+    "mekanizma": "hull fracture in cold water, attributed to brittle steel that lost toughness in low temperatures",
+    "sayi": "ONE SURVIVOR",
+    "ders": "older lake freighters were reinforced or inspected for brittle steel",
+    "zincir": [
+      "HULL STEEL BRITTLE IN COLD",
+      "LATE-SEASON STORM",
+      "HULL FLEXES",
+      "FRACTURE RUNS ACROSS DECK",
+      "STERN SAILS ON WITHOUT BOW"
+    ],
+    "zaman": [],
+    "yanilgi": "The stern kept sailing on its own engines after the bow broke away.",
+    "tartisma": "Its sister ship had cracks from the same storm. Should a fleet be checked after one ship fails?",
+    "basliklar": [
+      "One Survivor Watched His Ship Break Apart",
+      "Why the Daniel J. Morrell Broke Apart",
+      "The Brittle Steel of a Great Lakes Freighter"
+    ],
+    "kapak": [
+      "BRITTLE STEEL",
+      "ONE SURVIVOR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SS Daniel J. Morrell",
+        "url": "https://en.wikipedia.org/wiki/SS_Daniel_J._Morrell"
+      },
+      {
+        "ad": "US Coast Guard — danmorrell (cited by Wikipedia)",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/docs/boards/danmorrell.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-12",
+    "wiki": "SS_Daniel_J._Morrell",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Daniel J. Morrell underway.jpg [Public domain]",
+      "Daniel J Morrell (49240554421).jpg [Public domain]",
+      "Steamers Daniel J. Morrell and L. C. Hanna at Dock No. 10 - Flickr - Ashtabula Archive.jpg [Public domain]",
+      "Daniel J. Morrell after launch.jpg [Public domain]",
+      "Daniel J. Morrell in Bay City, Michigan.jpg [Public domain]"
+    ]
+  }
+}

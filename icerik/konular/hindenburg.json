@@ -1,0 +1,121 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "The Disaster That Ended the Age of the Airship",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "kaynaklar": [
+    {
+      "ad": "hindenburg.ogv",
+      "wikimedia": "1937-05-10 Special Release - Zeppelin Explodes Scores Dead.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "This is the disaster that ended the age of the airship.",
+      "kaynak": "Footage/hindenburg.ogv"
+    },
+    {
+      "metin": "May sixth, 1937. The German zeppelin Hindenburg arrives over New Jersey.",
+      "kaynak": "Footage/hindenburg.ogv"
+    },
+    {
+      "metin": "It is longer than three jumbo jets, lifted by seven million cubic feet of hydrogen.",
+      "kaynak": "Footage/hindenburg.ogv"
+    },
+    {
+      "metin": "As it moors to the tower, a spark finds the leaking gas.",
+      "kaynak": "Footage/hindenburg.ogv"
+    },
+    {
+      "metin": "In just thirty four seconds, the entire ship is swallowed by fire.",
+      "kaynak": "Footage/hindenburg.ogv"
+    },
+    {
+      "metin": "Thirty six people die, and a radio reporter breaks down live on air.",
+      "kaynak": "Footage/hindenburg.ogv"
+    },
+    {
+      "metin": "Hydrogen was cheap to make. It was also violently flammable.",
+      "kaynak": "Footage/hindenburg.ogv"
+    },
+    {
+      "metin": "No passenger airship was ever trusted again.",
+      "kaynak": "Footage/hindenburg.ogv"
+    },
+    {
+      "metin": "One spark ended an entire era of flight.",
+      "kaynak": "Footage/hindenburg.ogv"
+    }
+  ],
+  "aciklama": "May 6, 1937: the Hindenburg airship burned in just 34 seconds, ending the age of the zeppelin forever.\n\n#shorts #history #hindenburg #disaster #aviation",
+  "etiketler": [
+    "Hindenburg",
+    "zeppelin",
+    "airship disaster",
+    "1937",
+    "history",
+    "aviation",
+    "disaster"
+  ],
+  "hook": "Gone in 34 seconds",
+  "soru": "Would you have boarded?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the Hindenburg",
+    "kisa": "Hindenburg",
+    "nesne": "Airship",
+    "yil": 1937,
+    "sonuc": "burned in 34 seconds",
+    "tetik": "a spark near leaking hydrogen",
+    "mekanizma": "hydrogen ignition, most likely from static discharge",
+    "sayi": "34 SECONDS",
+    "ders": "no passenger airship was trusted with hydrogen again",
+    "zincir": [
+      "HYDROGEN LEAK NEAR TAIL",
+      "STATIC CHARGE IN STORMY AIR",
+      "SPARK IGNITES GAS",
+      "FIRE RACES THROUGH GAS CELLS",
+      "SHIP LOST IN ~34 SECONDS"
+    ],
+    "zaman": [
+      {
+        "t": "May 6, 1937 19:00",
+        "olay": "Hindenburg approaches Lakehurst after storm delay"
+      },
+      {
+        "t": "19:21",
+        "olay": "Mooring lines dropped"
+      },
+      {
+        "t": "19:25",
+        "olay": "Fire appears near the tail"
+      },
+      {
+        "t": "+34 s",
+        "olay": "Ship on the ground, destroyed — 36 dead"
+      }
+    ],
+    "yanilgi": "The 'incendiary paint' theory is popular, but most analyses point to leaking hydrogen as the fuel and a static spark as the likely ignition.",
+    "tartisma": "The US restricted helium exports at the time. Would helium have saved the Hindenburg, or only delayed the end of the airship era?",
+    "basliklar": [
+      "34 Seconds That Ended the Airship Age",
+      "Why the Hindenburg Burned So Fast",
+      "The Airship Nobody Trusted Again",
+      "One Spark and Seven Million Cubic Feet of Hydrogen"
+    ],
+    "kapak": [
+      "34 SECONDS",
+      "ONE SPARK",
+      "HYDROGEN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hindenburg disaster",
+        "url": "https://en.wikipedia.org/wiki/Hindenburg_disaster"
+      }
+    ],
+    "dogrulama": "Published narration states a spark ignited leaking gas as fact; it is the leading theory (static discharge), not proven. The pinned comment/description should say \"most likely\"."
+  }
+}

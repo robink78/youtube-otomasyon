@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Chemicals Stored Illegally Caused the Tianjin Explosions",
+  "kaynaklar": [
+    {
+      "ad": "tianjin-1.jpg",
+      "wikimedia": "Tianjin explosion scene (4).jpg"
+    },
+    {
+      "ad": "tianjin-2.jpg",
+      "wikimedia": "Tianjin explosion scene 20150813 (20).jpg"
+    },
+    {
+      "ad": "tianjin-3.jpg",
+      "wikimedia": "Tianjin explosion destroyed buildings (1).jpg"
+    },
+    {
+      "ad": "tianjin-4.jpg",
+      "wikimedia": "Tianjin explosion destroyed buildings (10).jpg"
+    },
+    {
+      "ad": "tianjin-5.jpg",
+      "wikimedia": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告 图1.jpg"
+    },
+    {
+      "ad": "tianjin-6.jpg",
+      "wikimedia": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告 图2.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two giant explosions ripped through the port of Tianjin.",
+      "kaynak": "Footage/tianjin-1.jpg"
+    },
+    {
+      "metin": "Firefighters and residents were killed, one hundred seventy three in total.",
+      "kaynak": "Footage/tianjin-2.jpg"
+    },
+    {
+      "metin": "It started with a fire at a chemical warehouse.",
+      "kaynak": "Footage/tianjin-3.jpg"
+    },
+    {
+      "metin": "Nitrocellulose there had dried out in the summer heat.",
+      "kaynak": "Footage/tianjin-4.jpg"
+    },
+    {
+      "metin": "It ignited on its own.",
+      "kaynak": "Footage/tianjin-5.jpg"
+    },
+    {
+      "metin": "Firefighters didn't know what was stored inside.",
+      "kaynak": "Footage/tianjin-6.jpg"
+    },
+    {
+      "metin": "The fire reached ammonium nitrate, which detonated.",
+      "kaynak": "Footage/tianjin-1.jpg"
+    },
+    {
+      "metin": "China then tightened licensing for hazardous chemical storage.",
+      "kaynak": "Footage/tianjin-2.jpg"
+    }
+  ],
+  "aciklama": "Tianjin exploded in the port of Tianjin. The cause: self-ignition of dried nitrocellulose, then detonation of stored ammonium nitrate.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Tianjin",
+    "2015",
+    "warehouse",
+    "engineering failure"
+  ],
+  "hook": "They didn't know what was inside",
+  "soru": "Should inventories be public?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Tianjin chemical warehouse",
+    "kisa": "Tianjin",
+    "nesne": "Warehouse",
+    "yil": 2015,
+    "sonuc": "exploded in the port of Tianjin",
+    "tetik": "nitrocellulose drying out and self-igniting in summer heat",
+    "mekanizma": "self-ignition of dried nitrocellulose, then detonation of stored ammonium nitrate",
+    "sayi": "173 KILLED",
+    "ders": "China tightened hazardous-chemical storage licensing",
+    "zincir": [
+      "HAZARDOUS CHEMICALS OVERSTORED",
+      "NITROCELLULOSE DRIES OUT",
+      "SELF-IGNITES IN HEAT",
+      "FIREFIGHTERS USE WATER",
+      "MASSIVE SECOND EXPLOSION"
+    ],
+    "zaman": [],
+    "yanilgi": "The warehouse sat much closer to homes than the rules allowed.",
+    "tartisma": "Firefighters didn't know what was stored there. Should inventories of hazardous sites be public?",
+    "basliklar": [
+      "Chemicals Stored Illegally Caused the Tianjin Explosions",
+      "Why the Tianjin Warehouse Exploded",
+      "The Chemical Store Too Close to the City"
+    ],
+    "kapak": [
+      "TOO CLOSE",
+      "173 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2015 Tianjin explosions",
+        "url": "https://en.wikipedia.org/wiki/2015_Tianjin_explosions"
+      },
+      {
+        "ad": "Government source — 460731d8cb4c4488be3bb0c218f8b527 (cited by Wikipedia)",
+        "url": "http://www.gov.cn/foot/2016-02/05/5039788/files/460731d8cb4c4488be3bb0c218f8b527.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "2015_Tianjin_explosions",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Tianjin explosion scene (4).jpg [Public domain]",
+      "Tianjin explosion scene 20150813 (20).jpg [Public domain]",
+      "Tianjin explosion destroyed buildings (1).jpg [Public domain]",
+      "Tianjin explosion destroyed buildings (10).jpg [Public domain]",
+      "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告 图1.jpg [Public domain]",
+      "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告 图2.jpg [Public domain]"
+    ]
+  }
+}

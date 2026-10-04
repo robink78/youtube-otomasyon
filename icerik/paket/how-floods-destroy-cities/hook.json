@@ -1,0 +1,49 @@
+{
+  "slug": "how-floods-destroy-cities",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.590Z",
+  "ekranHook": "The gentle-looking killer",
+  "mevcut": {
+    "puan": 80,
+    "pencereler": {
+      "0-5": "Six inches of moving water can knock a grown adult over. Floodwater looks gentle,",
+      "5-12": "but water is incredibly heavy. A foot of it can float many cars, and two feet can sweep most",
+      "12-20": "away. You cannot see what is under the surface either. The road might be gone, hiding a deadly drop. The water is",
+      "20-30": "often full of sewage, chemicals, and debris. And it rises far faster than people expect. More than half of flood deaths happen inside vehicles. The rule is simple"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: a central question/problem is raised",
+      "on-screen hook is 3 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Six inches of moving water can knock a grown adult over."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only six inches of moving water."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is hydrodynamic force and buoyancy — and it is why turn around, don't drown."
+      }
+    ],
+    "metin": "Six inches of moving water can knock a grown adult over. It took only six inches of moving water. So what actually happens inside? The answer is hydrodynamic force and buoyancy — and it is why turn around, don't drown.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

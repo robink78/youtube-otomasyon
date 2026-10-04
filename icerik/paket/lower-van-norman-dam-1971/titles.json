@@ -1,0 +1,673 @@
+{
+  "slug": "lower-van-norman-dam-1971",
+  "format": "short",
+  "olusturuldu": "2026-10-02T12:19:49.018Z",
+  "secilen": "How the Van Norman Dam Nearly Failed",
+  "secilenPuan": 53.3,
+  "mevcutPuan": 46.3,
+  "sablonOnerisi": null,
+  "adaySayisi": 25,
+  "adaylar": [
+    {
+      "baslik": "What Engineers Learned From the Lower Van Norman Dam",
+      "kalip": "what",
+      "toplam": 59.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.29,
+        "closest": "How Engineers Stopped the Leaning Tower From Falling"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:lesson"
+    },
+    {
+      "baslik": "What Really Destroyed the Lower Van Norman Dam",
+      "kalip": "what-really",
+      "toplam": 58.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "The Unexplained Turn That Sank a Destroyer"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-really"
+    },
+    {
+      "baslik": "The Real Reason the Lower Van Norman Dam Nearly Failed in the San Fernando Earthquake",
+      "kalip": "real-reason",
+      "toplam": 57.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 2,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "Why So Many Schools Collapsed in the Sichuan Earthquake"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (85 chars)"
+      ],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "The Lower Van Norman Dam Didn't Just Fail — It Nearly Failed in the San Fernando Earthquake",
+      "kalip": "two-beat",
+      "toplam": 54.9,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 2,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 9.5,
+        "search": 10,
+        "suggested": 7.6
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "Why So Many Schools Collapsed in the Sichuan Earthquake"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.91,
+      "notes": [
+        "long for Shorts feed (91 chars)",
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "template:didnt-just-fail"
+    },
+    {
+      "baslik": "How the Van Norman Dam Nearly Failed",
+      "kalip": "how",
+      "toplam": 53.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.25,
+        "closest": "A Dam Known to Be Unsafe Failed in a Flood"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "How the Lower Van Norman Dam Became Nearly Failed in the San Fernando Earthquake",
+      "kalip": "how",
+      "toplam": 50.5,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 6,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "Why So Many Schools Collapsed in the Sichuan Earthquake"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.9,
+      "notes": [
+        "long for Shorts feed (80 chars)",
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-became"
+    },
+    {
+      "baslik": "The First Failure Inside the Lower Van Norman Dam",
+      "kalip": "statement",
+      "toplam": 48.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "An Engine Failure the Crew Made Worse"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:first-failure"
+    },
+    {
+      "baslik": "Inside Van Norman Dam: The Failure Chain",
+      "kalip": "label-colon",
+      "toplam": 46.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.23,
+        "closest": "An Engine Failure the Crew Made Worse"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"label-colon\" already used by 6 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Why the Lower Van Norman Dam Failed",
+      "kalip": "why",
+      "toplam": 46.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.25,
+        "closest": "A Dam Known to Be Unsafe Failed in a Flood"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "template:plain-why"
+    },
+    {
+      "baslik": "Inside the Lower Van Norman Dam: The Failure Chain",
+      "kalip": "label-colon",
+      "toplam": 46.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.22,
+        "closest": "An Engine Failure the Crew Made Worse"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"label-colon\" already used by 6 other videos"
+      ],
+      "kaynak": "template:inside-chain"
+    },
+    {
+      "baslik": "The Lower Van Norman Dam: What Failed First",
+      "kalip": "label-colon",
+      "toplam": 46.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.32,
+        "closest": "Eastern 212: What Failed First"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"label-colon\" already used by 6 other videos"
+      ],
+      "kaynak": "template:failed-first"
+    },
+    {
+      "baslik": "The Lower Van Norman Dam: The Engineering Behind the Failure",
+      "kalip": "label-colon",
+      "toplam": 45.6,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 9.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.24,
+        "closest": "An Engine Failure the Crew Made Worse"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 6 other videos"
+      ],
+      "kaynak": "template:engineering-behind"
+    },
+    {
+      "baslik": "The Lower Van Norman Dam: 5 Failures in Sequence",
+      "kalip": "label-colon",
+      "toplam": 45.5,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Seawater in the Batteries, Then Silence"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"label-colon\" already used by 6 other videos"
+      ],
+      "kaynak": "template:failure-count"
+    },
+    {
+      "baslik": "The Dam That Nearly Failed Above 80,000 People",
+      "kalip": "the-x-that",
+      "toplam": 45,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 9,
+        "engineering": 7,
+        "search": 5,
+        "suggested": 6.4
+      },
+      "similarity": {
+        "max": 0.22,
+        "closest": "The Dam That Failed Hours After Being Declared Safe"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "1971: The Lower Van Norman Dam Nearly Failed in the San Fernando Earthquake",
+      "kalip": "label-colon",
+      "toplam": 43.7,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 6,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "Why So Many Schools Collapsed in the Sichuan Earthquake"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (75 chars)",
+        "title pattern \"label-colon\" already used by 6 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "The Trigger That Started the Lower Van Norman Dam",
+      "kalip": "the-x-that",
+      "toplam": 41.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "The Tehran Tower That Collapsed During a Fire"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:trigger-started"
+    },
+    {
+      "baslik": "How Earthquake Shaking Liquefying the Dam's Fill Brought Down the Lower Van Norman Dam",
+      "kalip": "how",
+      "toplam": 41.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 2,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "A Tanker Fire Under I-95 Brought Down the Highway"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.9,
+      "notes": [
+        "long for Shorts feed (86 chars)",
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-trigger"
+    },
+    {
+      "baslik": "Van Norman Dam Explained",
+      "kalip": "explained",
+      "toplam": 40.9,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "The Unexplained Turn That Sank a Destroyer"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    },
+    {
+      "baslik": "The Earthen Dam That Nearly Failed in the San Fernando Earthquake",
+      "kalip": "the-x-that",
+      "toplam": 40.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 5,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.25,
+        "closest": "The Double-Deck Freeway That Pancaked in an Earthquake"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (65 chars)",
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "The Chain Reaction Behind the Lower Van Norman Dam",
+      "kalip": "statement",
+      "toplam": 38.2,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Ice That Formed Behind the De-Icing Boots"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:chain-reaction"
+    },
+    {
+      "baslik": "The Lower Van Norman Dam: Cause, Chain, Consequence",
+      "kalip": "label-colon",
+      "toplam": 36.2,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.12,
+        "closest": "The Anchor Handler Pulled Over by Its Own Chain"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.71,
+      "notes": [
+        "title pattern \"label-colon\" already used by 6 other videos"
+      ],
+      "kaynak": "template:cause-chain-consequence"
+    },
+    {
+      "baslik": "80,000 EVACUATED: The Scale of the Lower Van Norman Dam",
+      "kalip": "label-colon",
+      "toplam": 29.5,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 7,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 4.2
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Only Two of Three Gates Opened and the Dam Failed"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 0.88,
+      "notes": [
+        "title pattern \"label-colon\" already used by 6 other videos"
+      ],
+      "kaynak": "template:number-scale"
+    },
+    {
+      "baslik": "The Lower Van Norman Dam: How Liquefaction of Hydraulic Fill Causing a Landslide That Took Part of the Crest Took Over",
+      "kalip": "label-colon",
+      "toplam": 26.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 2,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 7,
+        "appeal": 5,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 4.4
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "An Overheating Bearing and the Toxic Burn That Followed"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (118 chars)",
+        "jargon in title: liquefaction",
+        "title pattern \"label-colon\" already used by 6 other videos"
+      ],
+      "kaynak": "template:mechanism-took-over"
+    },
+    {
+      "baslik": "The Near Miss Above Los Angeles",
+      "kalip": "statement",
+      "toplam": 20.8,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.38,
+        "closest": "The Secret Partial Meltdown Near Los Angeles"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "80,000 EVACUATED. That's All It Took",
+      "kalip": "label-colon",
+      "toplam": 15.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 7,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "The Small Talk That Created the Sterile Cockpit Rule"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"label-colon\" already used by 6 other videos"
+      ],
+      "kaynak": "template:number-all-it-took"
+    }
+  ],
+  "yontem": "At least 20 structurally distinct editorial/template candidates; heuristic scoring 0-10 per criterion weighted to /100, minus similarity and clickbait penalties. Not a prediction of CTR."
+}

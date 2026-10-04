@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "Scientists Were Convicted Over an Earthquake",
+  "kaynaklar": [
+    {
+      "ad": "laquila-earthquake-1.jpg",
+      "wikimedia": "Chiesa di Santa Maria a Paganica.jpg"
+    },
+    {
+      "ad": "laquila-earthquake-2.jpg",
+      "wikimedia": "Ingresso di Onna maggio 2009 - panoramio.jpg"
+    },
+    {
+      "ad": "laquila-earthquake-3.png",
+      "wikimedia": "Abruzzo terremoto.png"
+    },
+    {
+      "ad": "laquila-earthquake-4.jpg",
+      "wikimedia": "Laquila differential interferogram by TerraSAR-X.jpg"
+    },
+    {
+      "ad": "laquila-earthquake-5.jpg",
+      "wikimedia": "President Barack Obama tour earthquake damage in L'Aquila, Italy - Wednesday, July 8, 2009.jpg"
+    },
+    {
+      "ad": "laquila-earthquake-6.jpg",
+      "wikimedia": "Earthquake damage in L'Aquila (10667999425).jpg"
+    },
+    {
+      "ad": "laquila-earthquake-7.jpg",
+      "wikimedia": "Building under repair after the earthquake, Corso Vittorio Emanuele II, L'Aquila, 2010.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At night, an earthquake struck the Italian city of L'Aquila.",
+      "kaynak": "Footage/laquila-earthquake-1.jpg"
+    },
+    {
+      "metin": "Buildings collapsed, and three hundred eight people were killed.",
+      "kaynak": "Footage/laquila-earthquake-2.jpg"
+    },
+    {
+      "metin": "Six days earlier, officials had downplayed the risk.",
+      "kaynak": "Footage/laquila-earthquake-3.png"
+    },
+    {
+      "metin": "Small tremors had been shaking the area.",
+      "kaynak": "Footage/laquila-earthquake-4.jpg"
+    },
+    {
+      "metin": "Many modern buildings failed in a known quake zone.",
+      "kaynak": "Footage/laquila-earthquake-5.jpg"
+    },
+    {
+      "metin": "Six scientists and an official were convicted of manslaughter.",
+      "kaynak": "Footage/laquila-earthquake-6.jpg"
+    },
+    {
+      "metin": "The verdict was overturned in 2014.",
+      "kaynak": "Footage/laquila-earthquake-7.jpg"
+    },
+    {
+      "metin": "It sparked debate on how risk should be communicated.",
+      "kaynak": "Footage/laquila-earthquake-1.jpg"
+    }
+  ],
+  "aciklama": "L'Aquila destroyed buildings in L'Aquila, Italy. The cause: poorly built modern buildings failing in a known earthquake zone.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "L'Aquila",
+    "2009",
+    "risk communication",
+    "engineering failure"
+  ],
+  "hook": "They were told not to worry",
+  "soru": "Should scientists face charges?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the L'Aquila earthquake",
+    "kisa": "L'Aquila",
+    "nesne": "Risk communication",
+    "yil": 2009,
+    "sonuc": "destroyed buildings in L'Aquila, Italy",
+    "tetik": "an earthquake after reassurances days earlier",
+    "mekanizma": "poorly built modern buildings failing in a known earthquake zone",
+    "sayi": "308 DIED",
+    "ders": "the trial sparked global debate on how scientists communicate risk",
+    "zincir": [
+      "SMALL TREMORS",
+      "OFFICIALS REASSURE",
+      "PEOPLE STAY HOME",
+      "EARTHQUAKE AT NIGHT",
+      "MODERN BUILDINGS FAIL"
+    ],
+    "zaman": [],
+    "yanilgi": "The scientists weren't convicted for failing to predict it. They were convicted for downplaying the risk.",
+    "tartisma": "The verdict was later overturned. Should scientists face charges over risk messages?",
+    "basliklar": [
+      "Scientists Were Convicted Over an Earthquake",
+      "Why Scientists Were Convicted After L'Aquila",
+      "The Earthquake and the Reassurance"
+    ],
+    "kapak": [
+      "REASSURED",
+      "308 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2009 L'Aquila earthquake",
+        "url": "https://en.wikipedia.org/wiki/2009_L'Aquila_earthquake"
+      },
+      {
+        "ad": "European Union — 1007699en (cited by Wikipedia)",
+        "url": "http://www.europarl.europa.eu/meetdocs/2009_2014/documents/cont/dt/1007/1007699/1007699en.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "2009_L'Aquila_earthquake",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Chiesa di Santa Maria a Paganica.jpg [CC BY 2.0]",
+      "Ingresso di Onna maggio 2009 - panoramio.jpg [CC BY 3.0]",
+      "Abruzzo terremoto.png [Public domain]",
+      "Laquila differential interferogram by TerraSAR-X.jpg [CC BY 3.0]",
+      "President Barack Obama tour earthquake damage in L'Aquila, Italy - Wednesday, July 8, 2009.jpg [Public domain]",
+      "Earthquake damage in L'Aquila (10667999425).jpg [CC BY 2.0]",
+      "Building under repair after the earthquake, Corso Vittorio Emanuele II, L'Aquila, 2010.jpg [CC0]"
+    ]
+  }
+}

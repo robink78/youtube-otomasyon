@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The School Built on a Chemical Waste Dump",
+  "kaynaklar": [
+    {
+      "ad": "love-canal-1.jpg",
+      "wikimedia": "Love Canal - Danger Hazardous Area sign.jpg"
+    },
+    {
+      "ad": "love-canal-2.jpg",
+      "wikimedia": "Looking down 99th Street in Love Canal.jpg"
+    },
+    {
+      "ad": "love-canal-3.jpg",
+      "wikimedia": "Abandoned Streets in Love Canal.jpg"
+    },
+    {
+      "ad": "love-canal-4.jpg",
+      "wikimedia": "Looking into Love Canal.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In Niagara Falls, chemicals began seeping into homes and a school.",
+      "kaynak": "Footage/love-canal-1.jpg"
+    },
+    {
+      "metin": "Families were evacuated as contamination spread through the neighbourhood.",
+      "kaynak": "Footage/love-canal-2.jpg"
+    },
+    {
+      "metin": "The area had been a chemical waste dump.",
+      "kaynak": "Footage/love-canal-3.jpg"
+    },
+    {
+      "metin": "Waste was buried in an old canal and covered with clay.",
+      "kaynak": "Footage/love-canal-4.jpg"
+    },
+    {
+      "metin": "Later, a school and homes were built on top.",
+      "kaynak": "Footage/love-canal-1.jpg"
+    },
+    {
+      "metin": "Construction broke the cap, and water carried chemicals out.",
+      "kaynak": "Footage/love-canal-2.jpg"
+    },
+    {
+      "metin": "It became a national emergency.",
+      "kaynak": "Footage/love-canal-3.jpg"
+    },
+    {
+      "metin": "The US then created the Superfund law.",
+      "kaynak": "Footage/love-canal-4.jpg"
+    }
+  ],
+  "aciklama": "Love Canal leaked buried chemicals into a neighbourhood. The cause: breach of a chemical waste landfill's cap, letting contaminated water migrate into homes.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Love Canal",
+    "1978",
+    "waste dump",
+    "engineering failure"
+  ],
+  "hook": "Built on buried waste",
+  "soru": "Who owns the risk after a warning?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "Love Canal",
+    "kisa": "Love Canal",
+    "nesne": "Waste dump",
+    "yil": 1978,
+    "sonuc": "leaked buried chemicals into a neighbourhood",
+    "tetik": "construction breaking the clay cap over buried waste",
+    "mekanizma": "breach of a chemical waste landfill's cap, letting contaminated water migrate into homes",
+    "sayi": "SUPERFUND",
+    "ders": "the US created the Superfund law to clean up hazardous waste sites",
+    "zincir": [
+      "CHEMICAL WASTE BURIED IN A CANAL",
+      "COVERED WITH CLAY",
+      "SCHOOL AND HOMES BUILT ON TOP",
+      "CAP BREACHED, WATER RISES",
+      "CHEMICALS SEEP INTO BASEMENTS"
+    ],
+    "zaman": [],
+    "yanilgi": "The waste wasn't hidden in secret. It was sold with a deed warning about the chemicals buried there.",
+    "tartisma": "The land was sold for one dollar with a warning. Who is responsible after the warning?",
+    "basliklar": [
+      "The School Built on a Chemical Waste Dump",
+      "What Went Wrong at Love Canal",
+      "The Neighbourhood Built on Buried Chemicals"
+    ],
+    "kapak": [
+      "BURIED WASTE",
+      "SUPERFUND"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Love Canal",
+        "url": "https://en.wikipedia.org/wiki/Love_Canal"
+      },
+      {
+        "ad": "Government source — report public comment final (cited by Wikipedia)",
+        "url": "http://www.health.ny.gov/environmental/investigations/love_canal/docs/report_public_comment_final.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Love_Canal",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Love Canal - Danger Hazardous Area sign.jpg [Public domain]",
+      "Looking down 99th Street in Love Canal.jpg [CC0]",
+      "Abandoned Streets in Love Canal.jpg [CC0]",
+      "Looking into Love Canal.jpg [CC0]"
+    ]
+  }
+}

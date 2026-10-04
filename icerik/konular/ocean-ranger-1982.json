@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Broken Window Sank the World's Largest Oil Rig",
+  "kaynaklar": [
+    {
+      "ad": "ocean-ranger-1.jpg",
+      "wikimedia": "OceanRanger.jpg"
+    },
+    {
+      "ad": "ocean-ranger-2.jpg",
+      "wikimedia": "Ocean Ranger in Cook Inlet.jpg"
+    },
+    {
+      "ad": "ocean-ranger-3.jpg",
+      "wikimedia": "USS Ranger (CV-61) and USS Independence (CV-62) with supporting ships underway in the Indian Ocean, circa in 1981.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In a violent storm, the world's largest semi-submersible rig capsized.",
+      "kaynak": "Footage/ocean-ranger-1.jpg"
+    },
+    {
+      "metin": "The crew abandoned it, and all eighty four men died.",
+      "kaynak": "Footage/ocean-ranger-2.jpg"
+    },
+    {
+      "metin": "It started with one broken porthole.",
+      "kaynak": "Footage/ocean-ranger-3.jpg"
+    },
+    {
+      "metin": "Seawater flooded the ballast control panel.",
+      "kaynak": "Footage/ocean-ranger-1.jpg"
+    },
+    {
+      "metin": "The panel shorted, and valves began acting on their own.",
+      "kaynak": "Footage/ocean-ranger-2.jpg"
+    },
+    {
+      "metin": "The rig tilted forward, and water entered its chain lockers.",
+      "kaynak": "Footage/ocean-ranger-3.jpg"
+    },
+    {
+      "metin": "It rolled over before dawn.",
+      "kaynak": "Footage/ocean-ranger-1.jpg"
+    },
+    {
+      "metin": "Rig ballast systems, training and survival gear were improved.",
+      "kaynak": "Footage/ocean-ranger-2.jpg"
+    }
+  ],
+  "aciklama": "Ocean Ranger capsized in a storm off Newfoundland. The cause: seawater shorting the ballast control panel, followed by wrong ballast valve operation and flooding.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Ocean Ranger",
+    "1982",
+    "oil rig",
+    "engineering failure"
+  ],
+  "hook": "One porthole broke",
+  "soru": "Who knew the ballast system?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Ocean Ranger",
+    "kisa": "Ocean Ranger",
+    "nesne": "Oil rig",
+    "yil": 1982,
+    "sonuc": "capsized in a storm off Newfoundland",
+    "tetik": "a wave breaking a porthole in the ballast control room",
+    "mekanizma": "seawater shorting the ballast control panel, followed by wrong ballast valve operation and flooding",
+    "sayi": "84 LOST",
+    "ders": "offshore rigs got better ballast system design, training and survival gear",
+    "zincir": [
+      "WAVE BREAKS PORTHOLE",
+      "WATER SHORTS BALLAST PANEL",
+      "VALVES OPEN WRONGLY",
+      "RIG LISTS FORWARD",
+      "CHAIN LOCKERS FLOOD, RIG CAPSIZES"
+    ],
+    "zaman": [],
+    "yanilgi": "The rig wasn't simply overwhelmed by waves. A broken porthole flooded its control panel and the ballast went wrong.",
+    "tartisma": "Crew had little training on the ballast system. Should rigs rely on few people who know the system?",
+    "basliklar": [
+      "A Broken Window Sank the World's Largest Oil Rig",
+      "Why the Ocean Ranger Capsized",
+      "The Porthole That Sank a Rig"
+    ],
+    "kapak": [
+      "ONE WINDOW",
+      "84 LOST"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Ocean Ranger",
+        "url": "https://en.wikipedia.org/wiki/Ocean_Ranger"
+      },
+      {
+        "ad": "US Coast Guard — oceanranger (cited by Wikipedia)",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/docs/boards/oceanranger.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-04",
+    "wiki": "Ocean_Ranger",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "OceanRanger.jpg [Public domain]",
+      "Ocean Ranger in Cook Inlet.jpg [Public domain]",
+      "USS Ranger (CV-61) and USS Independence (CV-62) with supporting ships underway in the Indian Ocean, circa in 1981.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "An Amtrak Train Took a Curve at Twice the Limit",
+  "kaynaklar": [
+    {
+      "ad": "amtrak-188-1.jpg",
+      "wikimedia": "NTSB 2015 Philadelphia train derailment 3.jpg"
+    },
+    {
+      "ad": "amtrak-188-2.jpg",
+      "wikimedia": "NTSB IIC Mike Flanigon and members of the investigative team on the scene of the Amtrak Train -188 Derailment in Philadelphia, PA (17584472756).jpg"
+    },
+    {
+      "ad": "amtrak-188-3.jpg",
+      "wikimedia": "NTSB IIC Mike Flanigon briefs Philadelphia Mayor Michael Nutter on the scene of the Amtrak Train -188 Derailment in Philadelphia, PA (16990416113).jpg"
+    },
+    {
+      "ad": "amtrak-188-4.jpg",
+      "wikimedia": "NTSB 2015 Philadelphia train derailment 1.jpg"
+    },
+    {
+      "ad": "amtrak-188-5.jpg",
+      "wikimedia": "Member Robert Sumwalt on the scene of the Amtrak Train -188 Derailment in Philadelphia, PA (17610818045).jpg"
+    },
+    {
+      "ad": "amtrak-188-6.jpg",
+      "wikimedia": "Member Sumwalt briefs the media on Amtrak Train -188 Derailment in Philadelphia, PA (16990387893).jpg"
+    },
+    {
+      "ad": "amtrak-188-7.jpg",
+      "wikimedia": "Member Sumwalt briefs the media on Amtrak Train -188 Derailment in Philadelphia, PA (17610780071).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An Amtrak train derailed on a sharp curve in Philadelphia.",
+      "kaynak": "Footage/amtrak-188-1.jpg"
+    },
+    {
+      "metin": "Carriages were torn apart, and eight people were killed.",
+      "kaynak": "Footage/amtrak-188-2.jpg"
+    },
+    {
+      "metin": "The train entered the curve at about twice the speed limit.",
+      "kaynak": "Footage/amtrak-188-3.jpg"
+    },
+    {
+      "metin": "The engineer had lost track of where he was.",
+      "kaynak": "Footage/amtrak-188-4.jpg"
+    },
+    {
+      "metin": "He accelerated instead of slowing down.",
+      "kaynak": "Footage/amtrak-188-5.jpg"
+    },
+    {
+      "metin": "Automatic speed control wasn't active on that curve.",
+      "kaynak": "Footage/amtrak-188-6.jpg"
+    },
+    {
+      "metin": "Nothing stopped the train from overspeeding.",
+      "kaynak": "Footage/amtrak-188-7.jpg"
+    },
+    {
+      "metin": "The system was activated on the Northeast Corridor soon after.",
+      "kaynak": "Footage/amtrak-188-1.jpg"
+    }
+  ],
+  "aciklama": "Amtrak 188 derailed on a curve in Philadelphia. The cause: overspeed on a curve, with positive train control not yet active on that section.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Amtrak 188",
+    "2015",
+    "curve",
+    "engineering failure"
+  ],
+  "hook": "Twice the speed limit",
+  "soru": "Is partial protection enough?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "Amtrak Train 188",
+    "kisa": "Amtrak 188",
+    "nesne": "Curve",
+    "yil": 2015,
+    "sonuc": "derailed on a curve in Philadelphia",
+    "tetik": "the train entering a curve at about twice the speed limit",
+    "mekanizma": "overspeed on a curve, with positive train control not yet active on that section",
+    "sayi": "TWICE THE LIMIT",
+    "ders": "Positive Train Control was activated on the Northeast Corridor",
+    "zincir": [
+      "ENGINEER LOSES SITUATIONAL AWARENESS",
+      "TRAIN ACCELERATES",
+      "ENTERS CURVE FAR TOO FAST",
+      "NO AUTOMATIC SPEED CONTROL HERE",
+      "DERAILMENT"
+    ],
+    "zaman": [],
+    "yanilgi": "The engineer wasn't on his phone. Investigators concluded he lost track of where he was.",
+    "tartisma": "The speed-control system was installed nearby but not on that curve. Is partial protection enough?",
+    "basliklar": [
+      "An Amtrak Train Took a Curve at Twice the Limit",
+      "Why Amtrak Train 188 Derailed",
+      "The Curve Taken at Twice the Limit"
+    ],
+    "kapak": [
+      "TWICE THE LIMIT",
+      "TOO FAST"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2015 Philadelphia train derailment",
+        "url": "https://en.wikipedia.org/wiki/2015_Philadelphia_train_derailment"
+      },
+      {
+        "ad": "NTSB — RAR1602 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/RAR1602.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "2015_Philadelphia_train_derailment",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "NTSB 2015 Philadelphia train derailment 3.jpg [Public domain]",
+      "NTSB IIC Mike Flanigon and members of the investigative team on the scene of the Amtrak Train -188 Derailment in Philadelphia, PA (17584472756).jpg [Public domain]",
+      "NTSB IIC Mike Flanigon briefs Philadelphia Mayor Michael Nutter on the scene of the Amtrak Train -188 Derailment in Philadelphia, PA (16990416113).jpg [Public domain]",
+      "NTSB 2015 Philadelphia train derailment 1.jpg [Public domain]",
+      "Member Robert Sumwalt on the scene of the Amtrak Train -188 Derailment in Philadelphia, PA (17610818045).jpg [Public domain]",
+      "Member Sumwalt briefs the media on Amtrak Train -188 Derailment in Philadelphia, PA (16990387893).jpg [Public domain]",
+      "Member Sumwalt briefs the media on Amtrak Train -188 Derailment in Philadelphia, PA (17610780071).jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/impossible-brief/state/production/what-survives-if-the-speed-of-light-reverses-for-one-second/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "claimDurations": [
+      2.136,
+      3.576,
+      6.264,
+      8.136,
+      4.152
+    ],
+    "durationSeconds": 24.195,
+    "width": null,
+    "height": null,
+    "hasAudio": true
+  },
+  "video": {
+    "file": "channels/impossible-brief/state/production/what-survives-if-the-speed-of-light-reverses-for-one-second/what-survives-if-the-speed-of-light-reverses-for-one-second.mp4",
+    "captionsBurned": true,
+    "visualChanges": 8,
+    "illustrationLabel": true,
+    "scenarioSpecific": true,
+    "durationSeconds": 24.208333,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/impossible-brief/state/production/what-survives-if-the-speed-of-light-reverses-for-one-second/thumbnail.jpg",
+    "bytes": 55953,
+    "scenarioSpecific": true,
+    "textWords": 1
+  }
+}

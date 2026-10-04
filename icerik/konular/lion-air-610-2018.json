@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "One Faulty Sensor Kept Pushing the Nose Down",
+  "kaynaklar": [
+    {
+      "ad": "lion-air-610-1.jpg",
+      "wikimedia": "Lion Air Press Conference.jpg"
+    },
+    {
+      "ad": "lion-air-610-2.jpg",
+      "wikimedia": "Joko Widodo Press Conference JT610.jpg"
+    },
+    {
+      "ad": "lion-air-610-3.png",
+      "wikimedia": "PK-LQP Flight Data Recorder.png"
+    },
+    {
+      "ad": "lion-air-610-4.png",
+      "wikimedia": "PK-LQP Flight Data Recorder (2).png"
+    },
+    {
+      "ad": "lion-air-610-5.png",
+      "wikimedia": "PK-LQP Cockpit Voice Recorder.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Minutes after take-off, a new Boeing 737 MAX dove into the Java Sea.",
+      "kaynak": "Footage/lion-air-610-1.jpg"
+    },
+    {
+      "metin": "All one hundred eighty nine people aboard were killed.",
+      "kaynak": "Footage/lion-air-610-2.jpg"
+    },
+    {
+      "metin": "A sensor measuring the wing's angle had failed.",
+      "kaynak": "Footage/lion-air-610-3.png"
+    },
+    {
+      "metin": "Flight software trusted it and pushed the nose down.",
+      "kaynak": "Footage/lion-air-610-4.png"
+    },
+    {
+      "metin": "The pilots pulled it back up, over and over.",
+      "kaynak": "Footage/lion-air-610-5.png"
+    },
+    {
+      "metin": "The software kept activating again.",
+      "kaynak": "Footage/lion-air-610-1.jpg"
+    },
+    {
+      "metin": "Most pilots hadn't been told the system existed.",
+      "kaynak": "Footage/lion-air-610-2.jpg"
+    },
+    {
+      "metin": "It was redesigned to use two sensors and act only once.",
+      "kaynak": "Footage/lion-air-610-3.png"
+    }
+  ],
+  "aciklama": "Lion Air 610 dove into the Java Sea minutes after take-off. The cause: MCAS repeatedly trimming the nose down based on a single erroneous sensor.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Lion Air 610",
+    "2018",
+    "angle-of-attack sensor",
+    "engineering failure"
+  ],
+  "hook": "It kept pushing down",
+  "soru": "Would you know to switch it off?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "Lion Air Flight 610",
+    "kisa": "Lion Air 610",
+    "nesne": "Angle-of-attack sensor",
+    "yil": 2018,
+    "sonuc": "dove into the Java Sea minutes after take-off",
+    "tetik": "a faulty angle-of-attack sensor feeding flight-control software",
+    "mekanizma": "MCAS repeatedly trimming the nose down based on a single erroneous sensor",
+    "sayi": "ONE SENSOR",
+    "ders": "MCAS was redesigned to use two sensors and act only once",
+    "zincir": [
+      "SENSOR READS WRONG ANGLE",
+      "MCAS TRIMS NOSE DOWN",
+      "PILOTS TRIM BACK UP",
+      "MCAS ACTIVATES AGAIN AND AGAIN",
+      "JET DIVES INTO THE SEA"
+    ],
+    "zaman": [],
+    "yanilgi": "The pilots weren't fighting a mystery failure they could simply switch off. Most had never been told the MCAS system existed.",
+    "tartisma": "The system relied on one sensor on a jet that had two. Why would a design ignore its own redundancy?",
+    "basliklar": [
+      "One Faulty Sensor Kept Pushing the Nose Down",
+      "Why Lion Air Flight 610 Crashed",
+      "The Software That Fought the Pilots"
+    ],
+    "kapak": [
+      "ONE SENSOR",
+      "NOSE DOWN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Lion Air Flight 610",
+        "url": "https://en.wikipedia.org/wiki/Lion_Air_Flight_610"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — factbox black boxes the focus of probe in indonesias lion air crash id (cited by Wikipedia)",
+        "url": "https://www.reuters.com/article/us-indonesia-crash-investigation-factbox/factbox-black-boxes-the-focus-of-probe-in-indonesias-lion-air-crash-idUSKCN1N30O1"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Lion_Air_Flight_610",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Lion Air Press Conference.jpg [Public domain]",
+      "Joko Widodo Press Conference JT610.jpg [Public domain]",
+      "PK-LQP Flight Data Recorder.png [Public domain]",
+      "PK-LQP Flight Data Recorder (2).png [Public domain]",
+      "PK-LQP Cockpit Voice Recorder.png [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "slug": "hindenburg",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.483Z",
+  "secilen": "34 Seconds That Ended the Airship Age",
+  "secilenPuan": 54.8,
+  "mevcutPuan": 42.8,
+  "sablonOnerisi": {
+    "baslik": "The Real Reason the Hindenburg Burned in 34 Seconds",
+    "puan": 69.6,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 14,
+  "adaylar": [
+    {
+      "baslik": "The Real Reason the Hindenburg Burned in 34 Seconds",
+      "kalip": "real-reason",
+      "toplam": 69.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Why Glass Explodes for No Reason"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "The Hindenburg Didn't Just Fail — It Burned in 34 Seconds",
+      "kalip": "two-beat",
+      "toplam": 65.9,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 10,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 8.2
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "Why Dams Fail Without Warning"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "template:didnt-just-fail"
+    },
+    {
+      "baslik": "1937: The Hindenburg Burned in 34 Seconds",
+      "kalip": "label-colon",
+      "toplam": 64,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "Why San Francisco Burned for Three Days"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "34 Seconds That Ended the Airship Age",
+      "kalip": "label-colon",
+      "toplam": 54.8,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "The Volcano That Erupted During World War II"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "What Really Destroyed the Hindenburg",
+      "kalip": "what-really",
+      "toplam": 54.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "What Lightning Really Does to a Building"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-really"
+    },
+    {
+      "baslik": "The Airship That Burned in 34 Seconds",
+      "kalip": "the-x-that",
+      "toplam": 49.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Why San Francisco Burned for Three Days"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 4 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "Why the Hindenburg Failed",
+      "kalip": "why",
+      "toplam": 44.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Why the Ground Suddenly Swallows Houses"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "template:plain-why"
+    },
+    {
+      "baslik": "The Disaster That Ended the Age of the Airship",
+      "kalip": "the-x-that",
+      "toplam": 42.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "The Nuclear Test That Poisoned a Paradise Forever"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 4 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "How a Spark Near Leaking Hydrogen Brought Down the Hindenburg",
+      "kalip": "how",
+      "toplam": 41.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.09,
+        "closest": "How a Single Step Triggers an Avalanche"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "long for Shorts feed (61 chars)",
+        "title pattern \"how\" already used by 5 other videos"
+      ],
+      "kaynak": "template:how-trigger"
+    },
+    {
+      "baslik": "Why the Hindenburg Burned So Fast",
+      "kalip": "why",
+      "toplam": 41.5,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Why San Francisco Burned for Three Days"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "34 SECONDS. That's All It Took",
+      "kalip": "label-colon",
+      "toplam": 39.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 7,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5.8
+      },
+      "similarity": {
+        "max": 0.08,
+        "closest": "What Lightning Really Does to a Building"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 0.75,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:number-all-it-took"
+    },
+    {
+      "baslik": "The Airship Nobody Trusted Again",
+      "kalip": "statement",
+      "toplam": 35.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.07,
+        "closest": "The Volcano That Erupted During World War II"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"statement\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "One Spark and Seven Million Cubic Feet of Hydrogen",
+      "kalip": "statement",
+      "toplam": 32.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 2,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.04,
+        "closest": "How Rust Silently Destroys Bridges and Ships"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"statement\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Hindenburg Explained",
+      "kalip": "explained",
+      "toplam": 18.2,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.06,
+        "closest": "Why Glass Explodes for No Reason"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

@@ -1,0 +1,49 @@
+{
+  "format": "short",
+  "targetSeconds": 18.623,
+  "spoken": "Earth stops. Air doesn't. Inertia turns motion into impact. Known physics says the mechanism is angular momentum, surface velocity and atmospheric inertia. The best supported consequence is this: the atmosphere, oceans and crust would keep moving when the ground changed. The exact timeline depends on how the impossible change occurs.",
+  "claims": [
+    {
+      "start": 0,
+      "end": 1.2825812826449843,
+      "layer": "SPECULATIVE SCENARIO",
+      "confidence": "SPECULATIVE",
+      "text": "Earth stops. Air doesn't."
+    },
+    {
+      "start": 1.2825812826449843,
+      "end": 3.2390442087125093,
+      "layer": "ESTIMATED CONSEQUENCE",
+      "confidence": "SUPPORTED",
+      "text": "Inertia turns motion into impact."
+    },
+    {
+      "start": 3.2390442087125093,
+      "end": 8.582965753055841,
+      "layer": "KNOWN SCIENCE",
+      "confidence": "VERIFIED",
+      "text": "Known physics says the mechanism is angular momentum, surface velocity and atmospheric inertia."
+    },
+    {
+      "start": 8.582965753055841,
+      "end": 15.098157772871684,
+      "layer": "ESTIMATED CONSEQUENCE",
+      "confidence": "ESTIMATED",
+      "text": "The best supported consequence is this: the atmosphere, oceans and crust would keep moving when the ground changed."
+    },
+    {
+      "start": 15.098157772871684,
+      "end": 18.623,
+      "layer": "SPECULATIVE SCENARIO",
+      "confidence": "SPECULATIVE",
+      "text": "The exact timeline depends on how the impossible change occurs."
+    }
+  ],
+  "forbiddenOpening": false,
+  "sourceIds": [
+    "NASA Science — Facts About Earth",
+    "NASA Science — Reference Systems",
+    "NOAA — The Coriolis Effect"
+  ],
+  "timing": "measured from per-claim narration takes"
+}

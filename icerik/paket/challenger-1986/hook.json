@@ -1,0 +1,49 @@
+{
+  "slug": "challenger-1986",
+  "format": "short",
+  "olusturuldu": "2026-09-26T12:21:22.836Z",
+  "ekranHook": "73 seconds",
+  "mevcut": {
+    "puan": 100,
+    "pencereler": {
+      "0-5": "Seventy-three seconds after launch, Challenger broke apart. Seven astronauts were killed, in front of",
+      "5-12": "the world. The cause was just a rubber ring, a quarter-inch thick. Overnight, temperatures fell well below freezing. Cold",
+      "12-20": "made the O-rings stiff, so they couldn't seal the booster joint. Burning gas escaped the joint and cut into the fuel tank.",
+      "20-30": "Engineers had warned against launching in the cold the night before. They were overruled. Today, that warning is taught to every engineer."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: a central question/problem is raised",
+      "on-screen hook is 2 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "The Space Shuttle Challenger broke apart 73 seconds after launch."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only an O-ring seal stiffened by cold."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could an O-ring seal stiffened by cold do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is O-ring seal failure in a solid rocket booster field joint — and it is why NASA redesigned the booster joints and changed how engineering objections are heard before launch."
+      }
+    ],
+    "metin": "The Space Shuttle Challenger broke apart 73 seconds after launch. It took only an O-ring seal stiffened by cold. So how could an O-ring seal stiffened by cold do this? The answer is O-ring seal failure in a solid rocket booster field joint — and it is why NASA redesigned the booster joints and changed how engineering objections are heard before launch.",
+    "puan": 95
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

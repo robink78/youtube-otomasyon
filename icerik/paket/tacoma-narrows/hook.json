@@ -1,0 +1,50 @@
+{
+  "slug": "tacoma-narrows",
+  "format": "short",
+  "olusturuldu": "2026-09-27T12:32:58.352Z",
+  "ekranHook": "Filmed as it fell",
+  "mevcut": {
+    "puan": 100,
+    "pencereler": {
+      "0-5": "This bridge tore itself apart in a forty mile an hour wind. The deck",
+      "5-12": "twisted like a ribbon, then dropped into the water. It had been open just four months. So how did",
+      "12-20": "a steady wind destroy solid steel? The wind made the deck flutter, and the flutter fed itself. Each twist pumped in more",
+      "20-30": "energy than the bridge could shed. One man escaped on his hands and knees. Every long bridge since is tested in a wind tunnel."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: a central question/problem is raised",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "The Tacoma Narrows Bridge tore itself apart."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a 40 mph wind."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could a 40 mph wind do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is aeroelastic flutter — and it is why every major bridge is now wind-tunnel tested."
+      }
+    ],
+    "metin": "The Tacoma Narrows Bridge tore itself apart. It took only a 40 mph wind. So how could a 40 mph wind do this? The answer is aeroelastic flutter — and it is why every major bridge is now wind-tunnel tested.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

@@ -1,0 +1,25 @@
+{
+  "data_status": "demo_priors_not_live_research",
+  "niches": [
+    {"name":"AI infrastructure","trend_velocity":88,"competition":74,"global_audience":91,"shorts_fit":83,"monetization":94,"content_supply":90,"production_cost":35,"confidence":55},
+    {"name":"Future technology","trend_velocity":86,"competition":78,"global_audience":94,"shorts_fit":92,"monetization":82,"content_supply":94,"production_cost":42,"confidence":55},
+    {"name":"Engineering facts","trend_velocity":72,"competition":48,"global_audience":89,"shorts_fit":91,"monetization":79,"content_supply":88,"production_cost":32,"confidence":55},
+    {"name":"Aviation engineering","trend_velocity":68,"competition":39,"global_audience":86,"shorts_fit":84,"monetization":87,"content_supply":76,"production_cost":38,"confidence":55},
+    {"name":"Space","trend_velocity":82,"competition":81,"global_audience":96,"shorts_fit":94,"monetization":76,"content_supply":95,"production_cost":45,"confidence":55},
+    {"name":"Weird science","trend_velocity":79,"competition":66,"global_audience":93,"shorts_fit":96,"monetization":67,"content_supply":92,"production_cost":30,"confidence":55},
+    {"name":"Human body","trend_velocity":77,"competition":73,"global_audience":92,"shorts_fit":94,"monetization":69,"content_supply":91,"production_cost":37,"confidence":55},
+    {"name":"Psychology","trend_velocity":84,"competition":86,"global_audience":94,"shorts_fit":95,"monetization":71,"content_supply":95,"production_cost":28,"confidence":55},
+    {"name":"Animals","trend_velocity":81,"competition":89,"global_audience":97,"shorts_fit":98,"monetization":54,"content_supply":98,"production_cost":25,"confidence":55},
+    {"name":"History","trend_velocity":65,"competition":68,"global_audience":87,"shorts_fit":86,"monetization":63,"content_supply":96,"production_cost":39,"confidence":55},
+    {"name":"Military technology","trend_velocity":73,"competition":57,"global_audience":88,"shorts_fit":89,"monetization":74,"content_supply":83,"production_cost":48,"confidence":55},
+    {"name":"Mega structures","trend_velocity":70,"competition":49,"global_audience":91,"shorts_fit":93,"monetization":77,"content_supply":78,"production_cost":41,"confidence":55},
+    {"name":"Cars","trend_velocity":80,"competition":88,"global_audience":93,"shorts_fit":93,"monetization":85,"content_supply":97,"production_cost":43,"confidence":55},
+    {"name":"Luxury engineering","trend_velocity":69,"competition":55,"global_audience":89,"shorts_fit":92,"monetization":88,"content_supply":79,"production_cost":44,"confidence":55},
+    {"name":"Business stories","trend_velocity":71,"competition":64,"global_audience":87,"shorts_fit":84,"monetization":91,"content_supply":90,"production_cost":29,"confidence":55},
+    {"name":"Company failures","trend_velocity":76,"competition":51,"global_audience":90,"shorts_fit":91,"monetization":88,"content_supply":84,"production_cost":31,"confidence":55},
+    {"name":"Cybersecurity","trend_velocity":83,"competition":69,"global_audience":90,"shorts_fit":85,"monetization":95,"content_supply":89,"production_cost":36,"confidence":55},
+    {"name":"Computer science","trend_velocity":66,"competition":50,"global_audience":84,"shorts_fit":78,"monetization":93,"content_supply":91,"production_cost":27,"confidence":55},
+    {"name":"Internet mysteries","trend_velocity":75,"competition":58,"global_audience":92,"shorts_fit":97,"monetization":64,"content_supply":82,"production_cost":30,"confidence":55},
+    {"name":"Data and algorithms","trend_velocity":62,"competition":35,"global_audience":80,"shorts_fit":74,"monetization":96,"content_supply":86,"production_cost":25,"confidence":55}
+  ]
+}

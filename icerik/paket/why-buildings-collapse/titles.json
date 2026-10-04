@@ -1,0 +1,277 @@
+{
+  "slug": "why-buildings-collapse",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.860Z",
+  "secilen": "Earthquakes Don't Kill. Buildings Do.",
+  "secilenPuan": 56,
+  "mevcutPuan": 45.2,
+  "sablonOnerisi": {
+    "baslik": "Soft-story Failure: Why Buildings Collapse in Earthquakes",
+    "puan": 71.5,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 10,
+  "adaylar": [
+    {
+      "baslik": "Soft-story Failure: Why Buildings Collapse in Earthquakes",
+      "kalip": "label-colon",
+      "toplam": 71.5,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:mechanism-why"
+    },
+    {
+      "baslik": "Buildings Collapse in Earthquakes. Engineers Call It Soft-story Failure.",
+      "kalip": "engineers-call-it",
+      "toplam": 69.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 9.5,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (72 chars)"
+      ],
+      "kaynak": "template:engineers-call-it"
+    },
+    {
+      "baslik": "The Physics of How Buildings Collapse in Earthquakes",
+      "kalip": "physics-of",
+      "toplam": 69,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "What Breaks First When Buildings Collapse in Earthquakes",
+      "kalip": "what",
+      "toplam": 63.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.6,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:breaks-first"
+    },
+    {
+      "baslik": "What Actually Happens When Buildings Collapse in Earthquakes",
+      "kalip": "what-really",
+      "toplam": 58.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.23,
+        "closest": "What Actually Makes Planes Crash"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-happens"
+    },
+    {
+      "baslik": "Earthquakes Don't Kill. Buildings Do.",
+      "kalip": "two-beat",
+      "toplam": 56,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.9
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "How Earthquakes Turn Solid Ground to Liquid"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"two-beat\" already used by 3 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why Buildings Collapse in Earthquakes",
+      "kalip": "why",
+      "toplam": 45.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.28,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Why Some Buildings Pancake in Seconds",
+      "kalip": "why",
+      "toplam": 37.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.25,
+        "closest": "Why Concrete Buildings Rot From the Inside"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The Floor That Turns a Building Into a Trap",
+      "kalip": "the-x-that",
+      "toplam": 35,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.22,
+        "closest": "What Lightning Really Does to a Building"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Buildings Explained",
+      "kalip": "explained",
+      "toplam": 15.4,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "Why Concrete Buildings Rot From the Inside"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

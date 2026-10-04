@@ -1,0 +1,65 @@
+{
+  "channel": "behind-the-ordinary",
+  "slug": "why-the-bluetooth-logo-looks-like-that",
+  "allowedChannels": [
+    "behind-the-ordinary"
+  ],
+  "createdAt": "2026-10-04T18:00:30.730Z",
+  "assets": [
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "BluetoothUSB.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BluetoothUSB.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:BluetoothUSB.jpg",
+      "attribution": " Abidh786 at English Wikipedia ",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TP-Link_Archer_T2UB_Nano_dongle_plugged_in_to_a_computer.jpg",
+      "licence": "CC BY 4.0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:TP-Link_Archer_T2UB_Nano_dongle_plugged_in_to_a_computer.jpg",
+      "attribution": " Paowee ",
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "audio",
+      "source": "Microsoft Edge neural TTS (claim-timed)",
+      "title": "narration",
+      "licence": "generated — synthetic voice, disclosed in the description",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "audio",
+      "source": "procedural synthesis (ffmpeg)",
+      "title": "music bed",
+      "licence": "original — generated per video",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "image",
+      "source": "generated graphics (captions, number cards, diagrams)",
+      "title": "on-screen graphics",
+      "licence": "original",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    }
+  ]
+}

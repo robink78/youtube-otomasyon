@@ -1,0 +1,49 @@
+{
+  "slug": "how-carbon-monoxide-kills",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.549Z",
+  "ekranHook": "No smell, no warning",
+  "mevcut": {
+    "puan": 70,
+    "pencereler": {
+      "0-5": "This gas kills people in their sleep, with no warning. Carbon monoxide has no",
+      "5-12": "color, no smell, and no taste. It comes from anything that burns fuel - heaters, cars, stoves. Your blood",
+      "12-20": "grabs onto it two hundred times easier than oxygen. So your body suffocates even in a room full of air. The first",
+      "20-30": "signs feel exactly like being tired or having flu. People fall asleep and simply never wake up. A cheap detector is the only thing that can warn you."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "This gas kills people in their sleep, with no warning."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only anything burning fuel."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is carbon monoxide binding to hemoglobin — and it is why a cheap detector is the only warning."
+      }
+    ],
+    "metin": "This gas kills people in their sleep, with no warning. It took only anything burning fuel. So what actually happens inside? The answer is carbon monoxide binding to hemoglobin — and it is why a cheap detector is the only warning.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

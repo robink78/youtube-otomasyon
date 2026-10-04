@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Avalanche That Buried a Town in Minutes",
+  "kaynaklar": [
+    {
+      "ad": "yungay-ancash-1.jpg",
+      "wikimedia": "Statue of Christ at Cemetery Hill overlooking old Yungay.jpg"
+    },
+    {
+      "ad": "yungay-ancash-2.jpg",
+      "wikimedia": "Pat Nixon in Peru Consuelo Velasco 1970.jpg"
+    },
+    {
+      "ad": "yungay-ancash-3.jpg",
+      "wikimedia": "First Lady Pat Nixon and Peru's First Lady Consuelo Velasco Surveying Earthquake Damage near Lima, Peru - DPLA - 8577872eeecf6017e3b0e5f3f8a4d604.jpg"
+    },
+    {
+      "ad": "yungay-ancash-4.jpg",
+      "wikimedia": "Pat Nixon hospital Peru C3796-18.jpg"
+    },
+    {
+      "ad": "yungay-ancash-5.jpg",
+      "wikimedia": "Een jongen, een van de twintig kinderen, slachtoffers van aardbeving in Peru, wo, Bestanddeelnr 923-6359.jpg"
+    },
+    {
+      "ad": "yungay-ancash-6.jpg",
+      "wikimedia": "Yungay, 1980.jpg"
+    },
+    {
+      "ad": "yungay-ancash-7.jpg",
+      "wikimedia": "1970 Ancash earthquake intensity.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An earthquake struck off the coast of Peru.",
+      "kaynak": "Footage/yungay-ancash-1.jpg"
+    },
+    {
+      "metin": "Within minutes, a wall of ice and rock buried the town of Yungay.",
+      "kaynak": "Footage/yungay-ancash-2.jpg"
+    },
+    {
+      "metin": "The shaking broke the north wall of Mount Huascarán.",
+      "kaynak": "Footage/yungay-ancash-3.jpg"
+    },
+    {
+      "metin": "Ice, rock and snow fell down the valley.",
+      "kaynak": "Footage/yungay-ancash-4.jpg"
+    },
+    {
+      "metin": "It raced about eighteen kilometres at enormous speed.",
+      "kaynak": "Footage/yungay-ancash-5.jpg"
+    },
+    {
+      "metin": "It picked up mud and debris as it went.",
+      "kaynak": "Footage/yungay-ancash-6.jpg"
+    },
+    {
+      "metin": "It became the world's deadliest avalanche.",
+      "kaynak": "Footage/yungay-ancash-7.jpg"
+    },
+    {
+      "metin": "Yungay's site was declared a national cemetery.",
+      "kaynak": "Footage/yungay-ancash-1.jpg"
+    }
+  ],
+  "aciklama": "Yungay triggered an avalanche that buried Yungay. The cause: a rock, ice and snow avalanche gathering mud and debris as it raced down the valley.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Yungay",
+    "1970",
+    "glacier",
+    "engineering failure"
+  ],
+  "hook": "A mountain buried the town",
+  "soru": "How far should hazard maps reach?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Ancash earthquake",
+    "kisa": "Yungay",
+    "nesne": "Glacier",
+    "yil": 1970,
+    "sonuc": "triggered an avalanche that buried Yungay",
+    "tetik": "an earthquake destabilizing Huascarán's north wall",
+    "mekanizma": "a rock, ice and snow avalanche gathering mud and debris as it raced down the valley",
+    "sayi": "18 KM",
+    "ders": "Yungay was declared a national cemetery and the town was rebuilt elsewhere",
+    "zincir": [
+      "OFFSHORE EARTHQUAKE",
+      "MOUNTAIN WALL BREAKS",
+      "ICE AND ROCK FALL",
+      "AVALANCHE GROWS",
+      "TOWN BURIED"
+    ],
+    "zaman": [],
+    "yanilgi": "The earthquake was offshore. The deadliest blow came from a mountain far inland.",
+    "tartisma": "The disaster came from far outside the shaking zone. How far should hazard maps reach?",
+    "basliklar": [
+      "The Avalanche That Buried a Town in Minutes",
+      "How the 1970 Peru Earthquake Buried Yungay",
+      "The World's Deadliest Avalanche"
+    ],
+    "kapak": [
+      "BURIED",
+      "18 KM"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1970 Ancash earthquake",
+        "url": "https://en.wikipedia.org/wiki/1970_Ancash_earthquake"
+      },
+      {
+        "ad": "Academic / engineering journal — Plafker1971 (cited by Wikipedia)",
+        "url": "http://ds.iris.edu/seismo-archives/quakes/1970peru/Plafker1971.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-19",
+    "wiki": "1970_Ancash_earthquake",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Statue of Christ at Cemetery Hill overlooking old Yungay.jpg [Public domain]",
+      "Pat Nixon in Peru Consuelo Velasco 1970.jpg [Public domain]",
+      "First Lady Pat Nixon and Peru's First Lady Consuelo Velasco Surveying Earthquake Damage near Lima, Peru - DPLA - 8577872eeecf6017e3b0e5f3f8a4d604.jpg [Public domain]",
+      "Pat Nixon hospital Peru C3796-18.jpg [Public domain]",
+      "Een jongen, een van de twintig kinderen, slachtoffers van aardbeving in Peru, wo, Bestanddeelnr 923-6359.jpg [CC0]",
+      "Yungay, 1980.jpg [Public domain]",
+      "1970 Ancash earthquake intensity.jpg [Public domain]"
+    ]
+  }
+}

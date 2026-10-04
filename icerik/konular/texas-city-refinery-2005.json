@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Refinery Tower Overfilled for Hours Before It Exploded",
+  "kaynaklar": [
+    {
+      "ad": "texas-city-refinery-1.png",
+      "wikimedia": "BP Texas City Explosion Aftermath.png"
+    },
+    {
+      "ad": "texas-city-refinery-2.png",
+      "wikimedia": "Destroyed Trailers and Blowdown Stack.png"
+    },
+    {
+      "ad": "texas-city-refinery-3.png",
+      "wikimedia": "Trailer area and adjacent ISOM Unit.png"
+    },
+    {
+      "ad": "texas-city-refinery-4.jpg",
+      "wikimedia": "CSB 080114 BP death Wideview.jpg"
+    },
+    {
+      "ad": "texas-city-refinery-5.png",
+      "wikimedia": "Blowdown Stack.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A refinery unit in Texas City exploded during startup.",
+      "kaynak": "Footage/texas-city-refinery-1.png"
+    },
+    {
+      "metin": "The blast destroyed nearby trailers, and fifteen workers were killed.",
+      "kaynak": "Footage/texas-city-refinery-2.png"
+    },
+    {
+      "metin": "A distillation tower had been overfilling for hours.",
+      "kaynak": "Footage/texas-city-refinery-3.png"
+    },
+    {
+      "metin": "Its level gauge gave misleading readings.",
+      "kaynak": "Footage/texas-city-refinery-4.jpg"
+    },
+    {
+      "metin": "Liquid overflowed into a blowdown stack open to the air.",
+      "kaynak": "Footage/texas-city-refinery-5.png"
+    },
+    {
+      "metin": "A vapour cloud formed and was ignited, probably by an idling truck.",
+      "kaynak": "Footage/texas-city-refinery-1.png"
+    },
+    {
+      "metin": "The trailers were far too close to the unit.",
+      "kaynak": "Footage/texas-city-refinery-2.png"
+    },
+    {
+      "metin": "Process safety oversight was strengthened afterward.",
+      "kaynak": "Footage/texas-city-refinery-3.png"
+    }
+  ],
+  "aciklama": "Texas City Refinery exploded during a unit startup. The cause: overflow through a blowdown stack venting to open air, igniting near occupied trailers.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Texas City Refinery",
+    "2005",
+    "distillation tower",
+    "engineering failure"
+  ],
+  "hook": "It overfilled for hours",
+  "soru": "Why were trailers there?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Texas City refinery",
+    "kisa": "Texas City Refinery",
+    "nesne": "Distillation tower",
+    "yil": 2005,
+    "sonuc": "exploded during a unit startup",
+    "tetik": "a distillation tower overfilled with flammable liquid",
+    "mekanizma": "overflow through a blowdown stack venting to open air, igniting near occupied trailers",
+    "sayi": "15 KILLED",
+    "ders": "trailers were moved away from process units and process safety oversight was strengthened",
+    "zincir": [
+      "LEVEL GAUGE READS WRONG",
+      "TOWER OVERFILLS",
+      "LIQUID OVERFLOWS THE STACK",
+      "VAPOUR CLOUD IGNITES",
+      "TRAILERS NEARBY DESTROYED"
+    ],
+    "zaman": [],
+    "yanilgi": "The explosion wasn't a sudden equipment rupture. The tower was overfilled for hours while instruments misled the operators.",
+    "tartisma": "Staff trailers stood close to the unit to save walking time. How close is too close to a hazard?",
+    "basliklar": [
+      "The Refinery Tower Overfilled for Hours Before It Exploded",
+      "Why the Texas City Refinery Exploded",
+      "The Tower Overfilled for Hours"
+    ],
+    "kapak": [
+      "OVERFILLED",
+      "15 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Texas City Refinery explosion",
+        "url": "https://en.wikipedia.org/wiki/Texas_City_Refinery_explosion"
+      },
+      {
+        "ad": "US Chemical Safety Board — baker panel report1.pdf?13842 (cited by Wikipedia)",
+        "url": "https://www.csb.gov/assets/1/20/baker_panel_report1.pdf?13842"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "Texas_City_Refinery_explosion",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "BP Texas City Explosion Aftermath.png [Public domain]",
+      "Destroyed Trailers and Blowdown Stack.png [Public domain]",
+      "Trailer area and adjacent ISOM Unit.png [Public domain]",
+      "CSB 080114 BP death Wideview.jpg [Public domain]",
+      "Blowdown Stack.png [Public domain]"
+    ]
+  }
+}

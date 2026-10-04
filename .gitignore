@@ -10,6 +10,8 @@ onizleme/
 *.mp3
 *.srt
 *.jpg
+# yayin oncesi 8 karelik onizleme (bildirimde gosterilir, ~100 KB)
+!icerik/paket/*/onizleme.jpg
 *.jpeg
 *.png
 
@@ -28,12 +30,12 @@ tmp-test/
 
 # --- KISISEL IS BELGELERI: public depoya girmez ---
 # Kanal stratejisi, icerik fikirleri, yukleme metinleri, X thread'leri.
-# Bunlar Osman'in is materyali; arac degil.
+# Bunlar kullanicinin is materyali; arac degil.
 KANAL-ACILIS-KITI.md
 STRATEJI.md
 MIMARI-VE-KURULUM-PLANI.md
 X-THREAD-*.md
-YUKLEME-PAKETI*.md
+YUKLEME-*.md
 fikir-havuzu.md
 muzik/
 videolar/
@@ -43,3 +45,49 @@ ikinci-gecis.sh
 logo-uret.sh
 muzik-duzelt.sh
 yeni-render.sh
+
+# --- Repo kapsami: SADECE YouTube + Instagram video uretimi ---
+# Asagidakiler bu makinede duruyor ama depoya girmiyor.
+# DJ mix araclari (ayri bir is):
+mix-pro.js
+mix-video.js
+mix-yap.js
+muzik-analiz.js
+ton-analiz.js
+# X thread gorsel ureteci:
+thread-gorsel.js
+# Eski panel (panel.js + panel-public tarafindan degistirildi):
+# NOT: "/" ile koke sabitli — video-indirici/ altindaki ayni adli dosyalari kapsamaz.
+/server.js
+/public/
+/templates/
+/BASLAT.bat
+/viral-analiz/
+
+# --- Video Indirici modulu (video-indirici/) ---
+# kod depoya girer; indirilen videolar ve yerel ayarlar girmez
+video-indirici/indirilenler/
+video-indirici/ayarlar.json
+trend/
+
+# Python / ShortsLab yerel raporlari
+__pycache__/
+*.py[cod]
+shortslab/output/
+# Local ImpossibleBrief dry-run media (JSON reports remain tracked)
+channels/*/reports/dry-runs/**/*.mp4
+channels/*/reports/dry-runs/**/*.m4a
+channels/*/reports/dry-runs/**/*.mp3
+channels/*/reports/dry-runs/**/*.aiff
+channels/*/state/production/
+
+# The three small ImpossibleBrief launch fixtures are reviewed acceptance
+# evidence, not routine production output. Keep their media with the reports.
+!channels/impossible-brief/reports/dry-runs/**/*.mp4
+!channels/impossible-brief/reports/dry-runs/**/*.m4a
+!channels/impossible-brief/reports/dry-runs/**/*.srt
+!channels/impossible-brief/reports/dry-runs/**/*.jpg
+!channels/*/reports/packages/*/onizleme.jpg
+
+# Resumable upload session URLs (capability URLs; never committed)
+**/.upload-sessions.json

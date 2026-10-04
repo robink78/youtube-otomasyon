@@ -1,0 +1,18 @@
+[
+  {
+    "videoId": "5yPoQCElJuk",
+    "channel": "impossible-brief",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "HEALTHY",
+        "confidence": "low",
+        "evidence": "no problem pattern in available metrics",
+        "recommendation": "Keep; revisit at next checkpoint.",
+        "specCode": "HEALTHY"
+      }
+    ],
+    "at": "2026-10-03T18:00:36.526Z"
+  }
+]

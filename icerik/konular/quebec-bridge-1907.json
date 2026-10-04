@@ -1,0 +1,128 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Bridge That Collapsed Under Its Own Weight",
+  "kaynaklar": [
+    {
+      "ad": "quebec-bridge-1.jpg",
+      "wikimedia": "Vestiges du pont de Quebec en 1907.jpg"
+    },
+    {
+      "ad": "quebec-bridge-2.jpg",
+      "wikimedia": "Quebec bridge view No 48 (HS85-10-18817).jpg"
+    },
+    {
+      "ad": "quebec-bridge-3.jpg",
+      "wikimedia": "Pont de Québec 2026.jpg"
+    },
+    {
+      "ad": "quebec-bridge-4.jpg",
+      "wikimedia": "Quebec and Pierre-Laporte Bridges.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A giant bridge collapsed into the St. Lawrence River while it was being built.",
+      "kaynak": "Footage/quebec-bridge-1.jpg"
+    },
+    {
+      "metin": "Seventy five workers were killed.",
+      "kaynak": "Footage/quebec-bridge-2.jpg"
+    },
+    {
+      "metin": "It was crushed by its own weight.",
+      "kaynak": "Footage/quebec-bridge-3.jpg"
+    },
+    {
+      "metin": "The span had been lengthened during design.",
+      "kaynak": "Footage/quebec-bridge-4.jpg"
+    },
+    {
+      "metin": "But the weight of the steel was never properly recalculated.",
+      "kaynak": "Footage/quebec-bridge-1.jpg"
+    },
+    {
+      "metin": "Workers saw a key steel chord bending more each day.",
+      "kaynak": "Footage/quebec-bridge-2.jpg"
+    },
+    {
+      "metin": "The order to stop came too late.",
+      "kaynak": "Footage/quebec-bridge-3.jpg"
+    },
+    {
+      "metin": "Canadian engineers still recall it in the Iron Ring ceremony.",
+      "kaynak": "Footage/quebec-bridge-4.jpg"
+    }
+  ],
+  "aciklama": "Quebec Bridge collapsed into the St. Lawrence River during construction. The cause: buckling of an overloaded lower compression chord.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Quebec Bridge",
+    "bridge collapse",
+    "buckling",
+    "Canada",
+    "1907"
+  ],
+  "hook": "Crushed by its own weight",
+  "soru": "Would you have stopped work?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Quebec Bridge",
+    "kisa": "Quebec Bridge",
+    "nesne": "Bridge",
+    "yil": 1907,
+    "sonuc": "collapsed into the St. Lawrence River during construction",
+    "tetik": "a weight estimate that was never recalculated after the span grew",
+    "mekanizma": "buckling of an overloaded lower compression chord",
+    "sayi": "75 KILLED",
+    "ders": "the collapse is remembered in the Iron Ring ceremony for Canadian engineers",
+    "zincir": [
+      "SPAN LENGTHENED",
+      "DEAD LOAD NOT RECALCULATED",
+      "CHORD BENDS",
+      "WARNINGS DEBATED",
+      "CANTILEVER COLLAPSES"
+    ],
+    "zaman": [
+      {
+        "t": "Aug 29, 1907",
+        "olay": "South cantilever collapses during construction"
+      }
+    ],
+    "yanilgi": "The collapse wasn't sudden and unannounced. Workers had measured a steel chord bending more each day.",
+    "tartisma": "An engineer ordered work stopped, but the message arrived too late. How fast should a warning travel?",
+    "basliklar": [
+      "The Bridge That Collapsed Under Its Own Weight",
+      "Why the Quebec Bridge Fell",
+      "The Warning That Came Too Late"
+    ],
+    "kapak": [
+      "ITS OWN WEIGHT",
+      "75 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Quebec Bridge",
+        "url": "https://en.wikipedia.org/wiki/Quebec_Bridge"
+      },
+      {
+        "ad": "The Canadian Encyclopedia — Quebec Bridge Disasters",
+        "url": "https://www.thecanadianencyclopedia.ca/en/article/quebec-bridge-disasters"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Quebec_Bridge",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Vestiges du pont de Quebec en 1907.jpg [Public domain]",
+      "Quebec bridge view No 48 (HS85-10-18817).jpg [Public domain]",
+      "Pont de Québec 2026.jpg [CC BY 4.0]",
+      "Quebec and Pierre-Laporte Bridges.jpg [CC BY 3.0]"
+    ]
+  }
+}

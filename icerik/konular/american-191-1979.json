@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Forklift Shortcut That Tore an Engine Off a DC-10",
+  "kaynaklar": [
+    {
+      "ad": "american-191-1.jpg",
+      "wikimedia": "American Airlines Flight 191（N110AA）wreckage on runway.jpg"
+    },
+    {
+      "ad": "american-191-2.jpg",
+      "wikimedia": "Jet engine from American Airlines Flight 191.jpg"
+    },
+    {
+      "ad": "american-191-3.jpg",
+      "wikimedia": "Jet flies over wreckage of American Airlines Flight 191.jpg"
+    },
+    {
+      "ad": "american-191-4.jpg",
+      "wikimedia": "Man points to bolt hole in American Airlines Flight 191.jpg"
+    },
+    {
+      "ad": "american-191-5.jpg",
+      "wikimedia": "ETHBIB.Bildarchiv 259239 Gesamte Douglas DC-10-Flotte der Swissair am Boden in Zürich-Kloten.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "As a DC-10 lifted off from Chicago, its left engine tore away.",
+      "kaynak": "Footage/american-191-1.jpg"
+    },
+    {
+      "metin": "The jet rolled over and crashed, killing everyone aboard and two on the ground.",
+      "kaynak": "Footage/american-191-2.jpg"
+    },
+    {
+      "metin": "The damage had been done weeks earlier, during maintenance.",
+      "kaynak": "Footage/american-191-3.jpg"
+    },
+    {
+      "metin": "To save time, workers removed engine and pylon together with a forklift.",
+      "kaynak": "Footage/american-191-4.jpg"
+    },
+    {
+      "metin": "That cracked the pylon's mounting.",
+      "kaynak": "Footage/american-191-5.jpg"
+    },
+    {
+      "metin": "At take-off, it broke and cut hydraulic lines.",
+      "kaynak": "Footage/american-191-1.jpg"
+    },
+    {
+      "metin": "The slats on one wing retracted, and that wing stalled.",
+      "kaynak": "Footage/american-191-2.jpg"
+    },
+    {
+      "metin": "The shortcut was banned, and slats got protection against retracting.",
+      "kaynak": "Footage/american-191-3.jpg"
+    }
+  ],
+  "aciklama": "American 191 crashed after an engine tore off at take-off. The cause: pylon bulkhead cracked by removing engine and pylon together with a forklift.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "American 191",
+    "1979",
+    "engine pylon",
+    "engineering failure"
+  ],
+  "hook": "An engine fell off",
+  "soru": "Would you approve the shortcut?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "American Airlines Flight 191",
+    "kisa": "American 191",
+    "nesne": "Engine pylon",
+    "yil": 1979,
+    "sonuc": "crashed after an engine tore off at take-off",
+    "tetik": "a maintenance shortcut that cracked the engine pylon",
+    "mekanizma": "pylon bulkhead cracked by removing engine and pylon together with a forklift",
+    "sayi": "ENGINE TORE OFF",
+    "ders": "the shortcut was banned and slat systems were given locking protection",
+    "zincir": [
+      "ENGINE AND PYLON REMOVED TOGETHER",
+      "FORKLIFT CRACKS PYLON",
+      "PYLON FAILS AT TAKE-OFF",
+      "HYDRAULIC LINES TORN",
+      "SLATS RETRACT, WING STALLS"
+    ],
+    "zaman": [],
+    "yanilgi": "Losing one engine should not bring down a DC-10. The torn pylon also cut lines that held the wing's slats out.",
+    "tartisma": "The shortcut saved hundreds of work hours. How should an airline approve a new maintenance procedure?",
+    "basliklar": [
+      "The Forklift Shortcut That Tore an Engine Off a DC-10",
+      "Why American Airlines Flight 191 Crashed",
+      "The Maintenance Shortcut That Cracked a Pylon"
+    ],
+    "kapak": [
+      "FORKLIFT",
+      "ENGINE GONE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — American Airlines Flight 191",
+        "url": "https://en.wikipedia.org/wiki/American_Airlines_Flight_191"
+      },
+      {
+        "ad": "NTSB — AAR7917 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR7917.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-03",
+    "wiki": "American_Airlines_Flight_191",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "American Airlines Flight 191（N110AA）wreckage on runway.jpg [Public domain]",
+      "Jet engine from American Airlines Flight 191.jpg [Public domain]",
+      "Jet flies over wreckage of American Airlines Flight 191.jpg [Public domain]",
+      "Man points to bolt hole in American Airlines Flight 191.jpg [Public domain]",
+      "ETHBIB.Bildarchiv 259239 Gesamte Douglas DC-10-Flotte der Swissair am Boden in Zürich-Kloten.jpg [CC BY 4.0]"
+    ]
+  }
+}

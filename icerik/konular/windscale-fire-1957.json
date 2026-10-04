@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Reactor Fire Saved by a Filter Called a Folly",
+  "kaynaklar": [
+    {
+      "ad": "windscale-fire-1.png",
+      "wikimedia": "Windscale-reactor.png"
+    },
+    {
+      "ad": "windscale-fire-2.jpg",
+      "wikimedia": "Sellafield.jpg"
+    },
+    {
+      "ad": "windscale-fire-3.jpg",
+      "wikimedia": "HD.15.003 (11824034284) (right crop).jpg"
+    },
+    {
+      "ad": "windscale-fire-4.jpg",
+      "wikimedia": "HD.15.003 (11824034284).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A British nuclear reactor caught fire at Windscale.",
+      "kaynak": "Footage/windscale-fire-1.png"
+    },
+    {
+      "metin": "For days the core burned, and radiation spread downwind.",
+      "kaynak": "Footage/windscale-fire-2.jpg"
+    },
+    {
+      "metin": "Its graphite stored energy that had to be released by heating.",
+      "kaynak": "Footage/windscale-fire-3.jpg"
+    },
+    {
+      "metin": "During that procedure, the fuel overheated.",
+      "kaynak": "Footage/windscale-fire-4.jpg"
+    },
+    {
+      "metin": "Uranium and graphite began to burn.",
+      "kaynak": "Footage/windscale-fire-1.png"
+    },
+    {
+      "metin": "Engineers finally flooded the pile with water.",
+      "kaynak": "Footage/windscale-fire-2.jpg"
+    },
+    {
+      "metin": "Chimney filters, mocked as a folly, trapped much of the release.",
+      "kaynak": "Footage/windscale-fire-3.jpg"
+    },
+    {
+      "metin": "Britain then moved to safer designs and stronger regulation.",
+      "kaynak": "Footage/windscale-fire-4.jpg"
+    }
+  ],
+  "aciklama": "Windscale caught fire and released radioactive material. The cause: Wigner energy release overheating fuel, which ignited in the air-cooled graphite pile.\n\n#shorts #engineering #nuclear",
+  "etiketler": [
+    "Windscale",
+    "1957",
+    "reactor",
+    "engineering failure"
+  ],
+  "hook": "The reactor was burning",
+  "soru": "Would you add the water?",
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "Windscale Pile No. 1",
+    "kisa": "Windscale",
+    "nesne": "Reactor",
+    "yil": 1957,
+    "sonuc": "caught fire and released radioactive material",
+    "tetik": "a heating procedure to release stored energy in the graphite",
+    "mekanizma": "Wigner energy release overheating fuel, which ignited in the air-cooled graphite pile",
+    "sayi": "COCKCROFT'S FOLLY",
+    "ders": "the UK moved to safer reactor designs and stronger regulation",
+    "zincir": [
+      "GRAPHITE STORES ENERGY",
+      "ANNEAL HEATS THE CORE",
+      "FUEL OVERHEATS",
+      "URANIUM AND GRAPHITE BURN",
+      "WATER FINALLY FLOODS THE PILE"
+    ],
+    "zaman": [],
+    "yanilgi": "The chimney filters were mocked as a waste of money. They trapped much of the radioactive material.",
+    "tartisma": "Engineers pumped water into a burning reactor, not knowing if it would explode. Would you have?",
+    "basliklar": [
+      "The Reactor Fire Saved by a Filter Called a Folly",
+      "Why the Windscale Reactor Caught Fire",
+      "The Filter They Called a Folly"
+    ],
+    "kapak": [
+      "REACTOR FIRE",
+      "THE FOLLY"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Windscale fire",
+        "url": "https://en.wikipedia.org/wiki/Windscale_fire"
+      },
+      {
+        "ad": "IAEA — manchester 07 (cited by Wikipedia)",
+        "url": "http://www.iaea.org/inisnkm/nkm/aws/htgr/fulltext/manchester_07.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "Windscale_fire",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Windscale-reactor.png [Public domain]",
+      "Sellafield.jpg [CC BY 2.0]",
+      "HD.15.003 (11824034284) (right crop).jpg [Public domain]",
+      "HD.15.003 (11824034284).jpg [Public domain]"
+    ]
+  }
+}

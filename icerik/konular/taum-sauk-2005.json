@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Reservoir That Overfilled Because Its Sensors Came Loose",
+  "kaynaklar": [
+    {
+      "ad": "taum-sauk-1.jpg",
+      "wikimedia": "Taum Sauk reservoir-FERC 12-22-05 01.jpg"
+    },
+    {
+      "ad": "taum-sauk-2.jpg",
+      "wikimedia": "Taum Sauk Reservoir from scour-089.jpg"
+    },
+    {
+      "ad": "taum-sauk-3.jpg",
+      "wikimedia": "Taum sauk tour (19).JPG"
+    },
+    {
+      "ad": "taum-sauk-4.jpg",
+      "wikimedia": "Taum sauk4 (10).JPG"
+    },
+    {
+      "ad": "taum-sauk-5.jpg",
+      "wikimedia": "Taum sauk tour (4).JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Before dawn, a mountaintop reservoir in Missouri burst its wall.",
+      "kaynak": "Footage/taum-sauk-1.jpg"
+    },
+    {
+      "metin": "Within minutes, a billion gallons of water rushed down the mountain.",
+      "kaynak": "Footage/taum-sauk-2.jpg"
+    },
+    {
+      "metin": "Pumps had kept filling it past full.",
+      "kaynak": "Footage/taum-sauk-3.jpg"
+    },
+    {
+      "metin": "Its water level sensors had come loose.",
+      "kaynak": "Footage/taum-sauk-4.jpg"
+    },
+    {
+      "metin": "They reported a lower level than the real one.",
+      "kaynak": "Footage/taum-sauk-5.jpg"
+    },
+    {
+      "metin": "A backup sensor was set too high to help.",
+      "kaynak": "Footage/taum-sauk-1.jpg"
+    },
+    {
+      "metin": "Water spilled over the wall and eroded it.",
+      "kaynak": "Footage/taum-sauk-2.jpg"
+    },
+    {
+      "metin": "The rebuilt reservoir has independent overfill protection.",
+      "kaynak": "Footage/taum-sauk-3.jpg"
+    }
+  ],
+  "aciklama": "Taum Sauk overflowed and breached its wall. The cause: pumping continued past full because level sensors read low, overtopping and eroding the embankment.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Taum Sauk",
+    "2005",
+    "reservoir",
+    "engineering failure"
+  ],
+  "hook": "It thought it wasn't full",
+  "soru": "How independent is your backup?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Taum Sauk upper reservoir",
+    "kisa": "Taum Sauk",
+    "nesne": "Reservoir",
+    "yil": 2005,
+    "sonuc": "overflowed and breached its wall",
+    "tetik": "water level sensors that had come loose",
+    "mekanizma": "pumping continued past full because level sensors read low, overtopping and eroding the embankment",
+    "sayi": "SENSORS LOOSE",
+    "ders": "the reservoir was rebuilt with independent overfill protection",
+    "zincir": [
+      "SENSORS DETACH FROM MOUNTS",
+      "LEVEL READS LOW",
+      "PUMPS KEEP FILLING",
+      "WATER OVERTOPS PARAPET",
+      "WALL BREACHES"
+    ],
+    "zaman": [],
+    "yanilgi": "The pumps weren't broken. They kept filling because the sensors said the reservoir wasn't full.",
+    "tartisma": "A backup sensor had been set too high. How independent must a backup be?",
+    "basliklar": [
+      "The Reservoir That Overfilled Because Its Sensors Came Loose",
+      "Why the Taum Sauk Reservoir Breached",
+      "The Sensors That Said It Wasn't Full"
+    ],
+    "kapak": [
+      "SENSORS LOOSE",
+      "OVERFILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Taum Sauk Hydroelectric Power Station",
+        "url": "https://en.wikipedia.org/wiki/Taum_Sauk_Hydroelectric_Power_Station"
+      },
+      {
+        "ad": "Government source — report 10 24 07 (cited by Wikipedia)",
+        "url": "http://www.psc.mo.gov/electric/report%2010-24-07.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "Taum_Sauk_Hydroelectric_Power_Station",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Taum Sauk reservoir-FERC 12-22-05 01.jpg [Public domain]",
+      "Taum Sauk Reservoir from scour-089.jpg [CC BY 3.0]",
+      "Taum sauk tour (19).JPG [Public domain]",
+      "Taum sauk4 (10).JPG [Public domain]",
+      "Taum sauk tour (4).JPG [Public domain]"
+    ]
+  }
+}

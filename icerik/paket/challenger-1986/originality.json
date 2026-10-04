@@ -1,0 +1,63 @@
+{
+  "slug": "challenger-1986",
+  "olusturuldu": "2026-09-26T12:21:22.868Z",
+  "originality": 85,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.25,
+      "kim": "skylab-1973"
+    },
+    "hook": {
+      "deger": 0.34,
+      "kim": "skylab-1973"
+    },
+    "structure": {
+      "deger": 0.75,
+      "kim": "hudson-1549-2009"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.6,
+      "kim": "why-dams-fail"
+    },
+    "cta": {
+      "deger": 0.52,
+      "kim": "mount-st-helens-1980"
+    },
+    "description": {
+      "deger": 0.07,
+      "kim": "why-rockets-explode"
+    },
+    "music": {
+      "deger": 0.71,
+      "kim": "apollo-1-1967"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.25,
+    "HOOK_SIMILARITY": 0.34,
+    "STRUCTURE_SIMILARITY": 0.75,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.6,
+    "CTA_SIMILARITY": 0.52,
+    "DESCRIPTION_SIMILARITY": 0.07,
+    "MUSIC_SIMILARITY": 0.71
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

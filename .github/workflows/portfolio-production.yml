@@ -1,0 +1,212 @@
+name: Multi-channel portfolio production
+
+# All channels run in one serialized portfolio lane so maxConcurrentRenders /
+# maxConcurrentUploads=1 is physically enforced. Every channel step is failure
+# isolated; one failed identity cannot stop any other channel.
+#
+# Shorts production slots (Europe/Istanbul, UTC+3; each channel's config.json
+# publishingCadence.shorts.productionTime): Failure Reconstructed 09:00,
+# ImpossibleBrief 09:30, CriticalThread 10:00, The Hidden Logic of Things 10:30. Every uploaded Short is scheduled
+# to go public at 18:00 America/New_York on the production date (01:00 TR next
+# day in US summer time, 02:00 TR in winter). Eligibility is one Short
+# per channel per Istanbul calendar day, so the hourly retries below only
+# produce for a channel whose slot has passed and whose day is still empty.
+on:
+  schedule:
+    - cron: '0 6 * * *'
+    - cron: '30 6 * * *'
+    - cron: '0 7 * * *'
+    - cron: '30 7 * * *'
+    - cron: '23 7 * * *'
+    - cron: '23 8 * * *'
+    - cron: '23 9 * * *'
+    - cron: '23 10 * * *'
+    - cron: '23 11 * * *'
+    - cron: '23 12 * * *'
+    - cron: '23 13 * * *'
+    - cron: '23 14 * * *'
+    - cron: '23 15 * * *'
+    - cron: '23 16 * * *'
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: Channel to run
+        type: choice
+        options: [all, both, failure-reconstructed, impossible-brief, critical-thread, behind-the-ordinary]
+        default: all
+      dry_run:
+        description: Render and validate without upload
+        type: boolean
+        default: true
+
+concurrency:
+  group: portfolio-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  portfolio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      FR_YT_CLIENT_ID: ${{ secrets.FR_YT_CLIENT_ID }}
+      FR_YT_CLIENT_SECRET: ${{ secrets.FR_YT_CLIENT_SECRET }}
+      FR_YT_REFRESH_TOKEN: ${{ secrets.FR_YT_REFRESH_TOKEN }}
+      FR_YT_CHANNEL_ID: ${{ vars.FR_YT_CHANNEL_ID }}
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      YT_CHANNEL_ID: ${{ vars.FR_YT_CHANNEL_ID }}
+      IB_CLIENT_ID: ${{ secrets.IB_CLIENT_ID }}
+      IB_CLIENT_SECRET: ${{ secrets.IB_CLIENT_SECRET }}
+      IB_YT_REFRESH_TOKEN: ${{ secrets.IB_YT_REFRESH_TOKEN }}
+      IB_YT_CHANNEL_ID: ${{ vars.IB_YT_CHANNEL_ID }}
+      CT_CLIENT_ID: ${{ secrets.CT_CLIENT_ID }}
+      CT_CLIENT_SECRET: ${{ secrets.CT_CLIENT_SECRET }}
+      CT_YT_REFRESH_TOKEN: ${{ secrets.CT_YT_REFRESH_TOKEN }}
+      CT_YT_CHANNEL_ID: ${{ vars.CT_YT_CHANNEL_ID }}
+      BTO_YT_CLIENT_ID: ${{ secrets.BTO_YT_CLIENT_ID }}
+      BTO_YT_CLIENT_SECRET: ${{ secrets.BTO_YT_CLIENT_SECRET }}
+      BTO_YT_REFRESH_TOKEN: ${{ secrets.BTO_YT_REFRESH_TOKEN }}
+      BTO_YT_CHANNEL_ID: ${{ vars.BTO_YT_CHANNEL_ID }}
+      PEXELS_KEY: ${{ secrets.PEXELS_KEY }}
+      SHORTS_FONT: DejaVu Sans
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Runtime dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends ffmpeg fonts-dejavu-core fonts-liberation
+          npm install --no-audit --no-fund
+      - name: Portfolio plan
+        run: node portfolio-scheduler.js --enqueue
+
+      - name: Failure Reconstructed Short
+        if: github.event_name == 'schedule' || inputs.channel == 'all' || inputs.channel == 'both' || inputs.channel == 'failure-reconstructed'
+        continue-on-error: true
+        env:
+          PUBLISH: ${{ vars.FR_PUBLISH || vars.PUBLISH }}
+          PRODUCTION_RESULT_PATH: ${{ runner.temp }}/fr-production-result.json
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then export PUBLISH=0; fi
+          node saglik.js --channel failure-reconstructed || true
+          node shorts-sira.js --channel failure-reconstructed
+
+      - name: ImpossibleBrief Short
+        if: ${{ always() && ((github.event_name == 'schedule' && vars.IB_PUBLISH == '1') || inputs.channel == 'all' || inputs.channel == 'both' || inputs.channel == 'impossible-brief') }}
+        continue-on-error: true
+        env:
+          PUBLISH: ${{ vars.IB_PUBLISH }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then export PUBLISH=0; fi
+          node saglik.js --channel impossible-brief || true
+          node shorts-sira.js --channel impossible-brief
+
+      - name: CriticalThread Short
+        if: ${{ always() && ((github.event_name == 'schedule' && vars.CT_PUBLISH == '1') || inputs.channel == 'all' || inputs.channel == 'critical-thread') }}
+        continue-on-error: true
+        env:
+          PUBLISH: ${{ vars.CT_PUBLISH }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then export PUBLISH=0; fi
+          node saglik.js --channel critical-thread || true
+          node shorts-sira.js --channel critical-thread
+
+      - name: The Hidden Logic of Things Short
+        if: ${{ always() && ((github.event_name == 'schedule' && vars.BTO_PUBLISH == '1') || inputs.channel == 'all' || inputs.channel == 'behind-the-ordinary') }}
+        continue-on-error: true
+        env:
+          PUBLISH: ${{ vars.BTO_PUBLISH }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then export PUBLISH=0; fi
+          node saglik.js --channel behind-the-ordinary || true
+          node shorts-sira.js --channel behind-the-ordinary
+
+      # Weekly long-form lane (after every Short step, so it can never delay or
+      # starve Shorts). Idempotent per ISO week: on most hourly runs it only
+      # reports "not due". A QUALITY_BLOCKED / REVIEW_REQUIRED cycle is expected
+      # behaviour and exits 0. Render/upload additionally require the channel's
+      # growth-engine longform.render.enabled AND <PREFIX>_LONGFORM_PUBLISH=1;
+      # the LLM writer requires an explicit provider plus that provider's key.
+      - name: Weekly long-form lane (quality over cadence)
+        if: always()
+        continue-on-error: true
+        timeout-minutes: 90
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          LONGFORM_LLM: ${{ vars.LONGFORM_LLM }}
+          LONGFORM_LLM_PROVIDER: ${{ vars.LONGFORM_LLM_PROVIDER }}
+          LONGFORM_LLM_FALLBACK_PROVIDER: ${{ vars.LONGFORM_LLM_FALLBACK_PROVIDER }}
+          LONGFORM_LLM_MAX_ATTEMPTS: ${{ vars.LONGFORM_LLM_MAX_ATTEMPTS }}
+          LONGFORM_LLM_MAX_RETRY_MS: ${{ vars.LONGFORM_LLM_MAX_RETRY_MS }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL }}
+          FR_LONGFORM_PUBLISH: ${{ vars.FR_LONGFORM_PUBLISH }}
+          IB_LONGFORM_PUBLISH: ${{ vars.IB_LONGFORM_PUBLISH }}
+          CT_LONGFORM_PUBLISH: ${{ vars.CT_LONGFORM_PUBLISH }}
+          BTO_LONGFORM_PUBLISH: ${{ vars.BTO_LONGFORM_PUBLISH }}
+        run: |
+          DRY=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then DRY="--dry-run"; fi
+          for CHANNEL in failure-reconstructed impossible-brief critical-thread behind-the-ordinary; do
+            node growth.js longform --channel "$CHANNEL" $DRY || echo "long-form lane for $CHANNEL failed; Shorts are unaffected."
+          done
+
+      - name: Channel-scoped analytics, plans, health and notifications
+        if: always()
+        run: |
+          for CHANNEL in failure-reconstructed impossible-brief critical-thread behind-the-ordinary; do
+            node post-publish-analyzer.js --channel "$CHANNEL" --due || true
+            node analytics-sync.js --channel "$CHANNEL" || true
+            node channel-plan.js --channel "$CHANNEL" || true
+            node library-health.js --channel "$CHANNEL" || true
+            if [ "${{ inputs.dry_run }}" != "true" ]; then
+              node bildirim.js --channel "$CHANNEL" || true
+            else
+              echo "Dry run: $CHANNEL notifications skipped."
+            fi
+          done
+          node portfolio-dashboard.js --write
+          node growth.js report || true
+          node daily-operations-report.js
+
+      - name: Preview artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: portfolio-preview
+          path: |
+            uretim/*/Videos/*.mp4
+            channels/*/state/production/*/Videos/*.mp4
+            channels/*/state/production/*/*.mp4
+            channels/*/state/production/*/quality-gate.json
+            channels/*/state/production/*/validations.json
+            channels/*/state/production/*/render.json
+            channels/*/state/production/*/visual-attribution.json
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Commit isolated state
+        if: always() && inputs.dry_run != true
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add icerik channel analysis analytics experiments migration channels reports || true
+          if git diff --cached --quiet; then echo "No state changes."; exit 0; fi
+          git commit -m "chore: channel-scoped production state"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            sleep $((i * 5))
+          done
+          exit 1

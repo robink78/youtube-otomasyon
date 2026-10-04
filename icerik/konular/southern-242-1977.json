@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Hail Killed Both Engines and the Jet Landed on a Highway",
+  "kaynaklar": [
+    {
+      "ad": "southern-242-1.jpg",
+      "wikimedia": "Flight 242 debris field (cropped).jpg"
+    },
+    {
+      "ad": "southern-242-2.jpg",
+      "wikimedia": "Flight 242 tail and wing (cropped).jpg"
+    },
+    {
+      "ad": "southern-242-3.jpg",
+      "wikimedia": "Flight 242 debris field.jpg"
+    },
+    {
+      "ad": "southern-242-4.jpg",
+      "wikimedia": "Flight 242 tail and wing.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A DC-9 with no working engines tried to land on a Georgia highway.",
+      "kaynak": "Footage/southern-242-1.jpg"
+    },
+    {
+      "metin": "It crashed into roadside buildings, and seventy two people were killed.",
+      "kaynak": "Footage/southern-242-2.jpg"
+    },
+    {
+      "metin": "The crew had flown into a severe thunderstorm.",
+      "kaynak": "Footage/southern-242-3.jpg"
+    },
+    {
+      "metin": "Hail was so intense it broke the windshield.",
+      "kaynak": "Footage/southern-242-4.jpg"
+    },
+    {
+      "metin": "Both engines swallowed massive amounts of water and hail.",
+      "kaynak": "Footage/southern-242-1.jpg"
+    },
+    {
+      "metin": "Their compressors were wrecked, and both flamed out.",
+      "kaynak": "Footage/southern-242-2.jpg"
+    },
+    {
+      "metin": "One board member blamed the decision to fly into the storm.",
+      "kaynak": "Footage/southern-242-3.jpg"
+    },
+    {
+      "metin": "It remains Georgia's deadliest air crash.",
+      "kaynak": "Footage/southern-242-4.jpg"
+    }
+  ],
+  "aciklama": "Southern 242 made a forced landing on a Georgia highway. The cause: massive water and hail ingestion stalling and damaging both engine compressors.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Southern 242",
+    "1977",
+    "jet engines",
+    "engineering failure"
+  ],
+  "hook": "Hail killed both engines",
+  "soru": "Avoid the storm, or cross it?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Southern Airways Flight 242",
+    "kisa": "Southern 242",
+    "nesne": "Jet engines",
+    "yil": 1977,
+    "sonuc": "made a forced landing on a Georgia highway",
+    "tetik": "flying into a severe thunderstorm cell",
+    "mekanizma": "massive water and hail ingestion stalling and damaging both engine compressors",
+    "sayi": "BOTH ENGINES",
+    "ders": "the case sharpened guidance on avoiding rather than penetrating severe storms",
+    "zincir": [
+      "SQUALL LINE AHEAD",
+      "CREW PENETRATES STORM",
+      "HAIL AND WATER FLOOD ENGINES",
+      "BOTH ENGINES FLAME OUT",
+      "FORCED LANDING ON HIGHWAY"
+    ],
+    "zaman": [],
+    "yanilgi": "The engines didn't simply fail. They swallowed so much hail and water that their compressors were wrecked.",
+    "tartisma": "One board member blamed the decision to fly into the storm. Should radar ever be used to fly through storms?",
+    "basliklar": [
+      "Hail Killed Both Engines and the Jet Landed on a Highway",
+      "Why Southern Airways Flight 242 Lost Both Engines",
+      "The Storm That Killed Both Engines"
+    ],
+    "kapak": [
+      "HAIL",
+      "BOTH ENGINES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Southern Airways Flight 242",
+        "url": "https://en.wikipedia.org/wiki/Southern_Airways_Flight_242"
+      },
+      {
+        "ad": "NTSB — AAR7803 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR7803.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-16",
+    "wiki": "Southern_Airways_Flight_242",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Flight 242 debris field (cropped).jpg [Public domain]",
+      "Flight 242 tail and wing (cropped).jpg [Public domain]",
+      "Flight 242 debris field.jpg [Public domain]",
+      "Flight 242 tail and wing.jpg [Public domain]"
+    ]
+  }
+}

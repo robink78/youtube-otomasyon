@@ -1,0 +1,11 @@
+{
+  "_not": "Recorded OAuth authorization metadata, not a universal token expiry. In Testing mode the known seven-day re-authorization window is WARNING at <=7 days and CRITICAL at <=48 hours; live refresh validation is authoritative. youtube-yetki.js updates this file.",
+  "authorizedAt": "2026-10-02T18:04:18.315Z",
+  "oauthMode": "testing",
+  "reauthDeadline": "2026-10-09T18:04:18.315Z",
+  "yetkiTarihi": "2026-10-02T18:04:18.315Z",
+  "mod": "testing",
+  "tiktokYetkiTarihi": "2026-09-26T18:45:20.815Z",
+  "tiktokMod": "sandbox",
+  "channel": "failure-reconstructed"
+}

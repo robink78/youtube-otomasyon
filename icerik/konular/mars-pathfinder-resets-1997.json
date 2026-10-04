@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Mars Lander That Kept Rebooting Itself",
+  "kaynaklar": [
+    {
+      "ad": "mars-pathfinder-resets-1.jpg",
+      "wikimedia": "PIA04305.jpg"
+    },
+    {
+      "ad": "mars-pathfinder-resets-2.jpg",
+      "wikimedia": "Mars Pathfinder Landing Site (opo9723a).jpg"
+    },
+    {
+      "ad": "mars-pathfinder-resets-3.jpg",
+      "wikimedia": "Mars Pathfinder Landing Site (opo9724a).jpg"
+    },
+    {
+      "ad": "mars-pathfinder-resets-4.jpg",
+      "wikimedia": "Mars Pathfinder lander scheme.jpg"
+    },
+    {
+      "ad": "mars-pathfinder-resets-5.jpg",
+      "wikimedia": "Sojourner on Mars PIA01122.jpg"
+    },
+    {
+      "ad": "mars-pathfinder-resets-6.jpg",
+      "wikimedia": "Mars Pathfinder spacecraft - Radnozzle.jpg"
+    },
+    {
+      "ad": "mars-pathfinder-resets-7.jpg",
+      "wikimedia": "Mars Pathfinder spacecraft - Radside.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Days after landing on Mars, NASA's Pathfinder lander started rebooting.",
+      "kaynak": "Footage/mars-pathfinder-resets-1.jpg"
+    },
+    {
+      "metin": "Suddenly its computer reset, halting operations until the next day.",
+      "kaynak": "Footage/mars-pathfinder-resets-2.jpg"
+    },
+    {
+      "metin": "The bug had appeared in testing before launch.",
+      "kaynak": "Footage/mars-pathfinder-resets-3.jpg"
+    },
+    {
+      "metin": "It was judged a rare glitch and given low priority.",
+      "kaynak": "Footage/mars-pathfinder-resets-4.jpg"
+    },
+    {
+      "metin": "A low-priority task was blocking a high-priority one.",
+      "kaynak": "Footage/mars-pathfinder-resets-5.jpg"
+    },
+    {
+      "metin": "It's called priority inversion.",
+      "kaynak": "Footage/mars-pathfinder-resets-6.jpg"
+    },
+    {
+      "metin": "Engineers reproduced it on a duplicate on Earth.",
+      "kaynak": "Footage/mars-pathfinder-resets-7.jpg"
+    },
+    {
+      "metin": "They patched the software on Mars.",
+      "kaynak": "Footage/mars-pathfinder-resets-1.jpg"
+    }
+  ],
+  "aciklama": "Mars Pathfinder kept resetting its computer on Mars. The cause: a low-priority task holding a resource needed by a high-priority task, triggering resets.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Mars Pathfinder",
+    "1997",
+    "flight software",
+    "engineering failure"
+  ],
+  "hook": "It kept rebooting on Mars",
+  "soru": "What makes a remote fix possible?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "Mars Pathfinder",
+    "kisa": "Mars Pathfinder",
+    "nesne": "Flight software",
+    "yil": 1997,
+    "sonuc": "kept resetting its computer on Mars",
+    "tetik": "priority inversion under heavy load",
+    "mekanizma": "a low-priority task holding a resource needed by a high-priority task, triggering resets",
+    "sayi": "FOUR RESETS",
+    "ders": "engineers patched the software from Earth to enable priority inheritance",
+    "zincir": [
+      "BUG SEEN IN TESTING",
+      "MARKED LOW PRIORITY",
+      "HEAVY LOAD ON MARS",
+      "PRIORITY INVERSION",
+      "COMPUTER RESETS"
+    ],
+    "zaman": [],
+    "yanilgi": "The bug wasn't unknown. It had shown up in testing and was judged a minor glitch.",
+    "tartisma": "It was fixed from millions of kilometres away. What makes a remote fix possible?",
+    "basliklar": [
+      "The Mars Lander That Kept Rebooting Itself",
+      "Why Mars Pathfinder Kept Rebooting",
+      "The Priority Inversion on Mars"
+    ],
+    "kapak": [
+      "REBOOTING",
+      "ON MARS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mars Pathfinder",
+        "url": "https://en.wikipedia.org/wiki/Mars_Pathfinder"
+      },
+      {
+        "ad": "NASA — 02 MEPAG McCuistion Mar 09 (cited by Wikipedia)",
+        "url": "http://mepag.jpl.nasa.gov/meeting/mar-09/02_MEPAG_McCuistion_Mar_09.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "Mars_Pathfinder",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "PIA04305.jpg [Public domain]",
+      "Mars Pathfinder Landing Site (opo9723a).jpg [Public domain]",
+      "Mars Pathfinder Landing Site (opo9724a).jpg [Public domain]",
+      "Mars Pathfinder lander scheme.jpg [Public domain]",
+      "Sojourner on Mars PIA01122.jpg [Public domain]",
+      "Mars Pathfinder spacecraft - Radnozzle.jpg [Public domain]",
+      "Mars Pathfinder spacecraft - Radside.jpg [Public domain]"
+    ]
+  }
+}

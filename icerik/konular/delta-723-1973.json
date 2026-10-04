@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Switch in the Wrong Mode and a Jet Hit a Seawall",
+  "kaynaklar": [
+    {
+      "ad": "delta-723-1.jpg",
+      "wikimedia": "Wreckage of Delta Air Lines Flight 723.jpg"
+    },
+    {
+      "ad": "delta-723-2.png",
+      "wikimedia": "Delta-723-localizer.png"
+    },
+    {
+      "ad": "delta-723-3.png",
+      "wikimedia": "Delta723-profile.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In low cloud and fog, a DC-9 struck a seawall at Boston Logan.",
+      "kaynak": "Footage/delta-723-1.jpg"
+    },
+    {
+      "metin": "It crashed and burned, killing all eighty nine people aboard.",
+      "kaynak": "Footage/delta-723-2.png"
+    },
+    {
+      "metin": "The jet reached the outer marker too fast and too high.",
+      "kaynak": "Footage/delta-723-3.png"
+    },
+    {
+      "metin": "Its flight director was likely switched into go-around mode.",
+      "kaynak": "Footage/delta-723-1.jpg"
+    },
+    {
+      "metin": "The crew focused on its confusing guidance.",
+      "kaynak": "Footage/delta-723-2.png"
+    },
+    {
+      "metin": "No one called out the altitude.",
+      "kaynak": "Footage/delta-723-3.png"
+    },
+    {
+      "metin": "The jet passed decision height and kept descending.",
+      "kaynak": "Footage/delta-723-1.jpg"
+    },
+    {
+      "metin": "Stabilized approach and altitude call-out practices were reinforced.",
+      "kaynak": "Footage/delta-723-2.png"
+    }
+  ],
+  "aciklama": "Delta 723 struck a seawall at Boston Logan. The cause: unstabilized approach in fog while the crew was preoccupied with misleading guidance.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Delta 723",
+    "1973",
+    "flight director",
+    "engineering failure"
+  ],
+  "hook": "It was in the wrong mode",
+  "soru": "Who watches the altitude?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Delta Air Lines Flight 723",
+    "kisa": "Delta 723",
+    "nesne": "Flight director",
+    "yil": 1973,
+    "sonuc": "struck a seawall at Boston Logan",
+    "tetik": "a flight director probably left in go-around mode",
+    "mekanizma": "unstabilized approach in fog while the crew was preoccupied with misleading guidance",
+    "sayi": "89 ABOARD",
+    "ders": "stabilized approach and altitude call-out practices were reinforced",
+    "zincir": [
+      "FAST AND HIGH AT MARKER",
+      "FLIGHT DIRECTOR IN WRONG MODE",
+      "CREW DISTRACTED BY IT",
+      "DECISION HEIGHT PASSED",
+      "HITS SEAWALL"
+    ],
+    "zaman": [],
+    "yanilgi": "The instrument didn't fail. It was likely set to the wrong mode, and it absorbed the crew's attention.",
+    "tartisma": "No altitude call-outs were made. Who should watch the altitude when automation confuses?",
+    "basliklar": [
+      "A Switch in the Wrong Mode and a Jet Hit a Seawall",
+      "Why Delta Flight 723 Hit the Seawall",
+      "The Flight Director in the Wrong Mode"
+    ],
+    "kapak": [
+      "WRONG MODE",
+      "SEAWALL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Delta Air Lines Flight 723",
+        "url": "https://en.wikipedia.org/wiki/Delta_Air_Lines_Flight_723"
+      },
+      {
+        "ad": "NTSB — 6120 1web Reader (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/Documents/6120_1web_Reader.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-16",
+    "wiki": "Delta_Air_Lines_Flight_723",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Wreckage of Delta Air Lines Flight 723.jpg [Public domain]",
+      "Delta-723-localizer.png [Public domain]",
+      "Delta723-profile.png [Public domain]"
+    ]
+  }
+}

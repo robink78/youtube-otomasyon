@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Locomotives That Ran Past a Stop Signal",
+  "kaynaklar": [
+    {
+      "ad": "chase-maryland-1.jpg",
+      "wikimedia": "1987 Maryland train collision gunpow.jpg"
+    },
+    {
+      "ad": "chase-maryland-2.jpg",
+      "wikimedia": "1987 Maryland train collision aerial.jpg"
+    },
+    {
+      "ad": "chase-maryland-3.jpg",
+      "wikimedia": "1987 Maryland train collision amtrak.jpg"
+    },
+    {
+      "ad": "chase-maryland-4.jpg",
+      "wikimedia": "1987 Maryland train collision conrail 5044 cab.jpg"
+    },
+    {
+      "ad": "chase-maryland-5.jpg",
+      "wikimedia": "Amtrak AEM7 903 passing through Ivy City in Washington, DC in December 1980 (33857238141).jpg"
+    },
+    {
+      "ad": "chase-maryland-6.jpg",
+      "wikimedia": "Amtrak locomotive 900 with test train, January 1980.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An Amtrak train at over one hundred miles per hour hit locomotives on its track.",
+      "kaynak": "Footage/chase-maryland-1.jpg"
+    },
+    {
+      "metin": "It crashed and killed fourteen passengers and two crew.",
+      "kaynak": "Footage/chase-maryland-2.jpg"
+    },
+    {
+      "metin": "Conrail locomotives had run onto the main line.",
+      "kaynak": "Footage/chase-maryland-3.jpg"
+    },
+    {
+      "metin": "Their crew failed to stop at the signals.",
+      "kaynak": "Footage/chase-maryland-4.jpg"
+    },
+    {
+      "metin": "They tested positive for cannabis.",
+      "kaynak": "Footage/chase-maryland-5.jpg"
+    },
+    {
+      "metin": "Their cab warning whistle had been muted with duct tape.",
+      "kaynak": "Footage/chase-maryland-6.jpg"
+    },
+    {
+      "metin": "The engineer went to prison.",
+      "kaynak": "Footage/chase-maryland-1.jpg"
+    },
+    {
+      "metin": "Congress later mandated random drug testing for safety-sensitive jobs.",
+      "kaynak": "Footage/chase-maryland-2.jpg"
+    }
+  ],
+  "aciklama": "Chase Maryland caused an Amtrak train to hit light locomotives. The cause: locomotives fouling the main line after passing stop signals, with a cab signal whistle taped silent.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Chase Maryland",
+    "1987",
+    "signal",
+    "engineering failure"
+  ],
+  "hook": "They ran the stop signal",
+  "soru": "Where should testing stop?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Chase, Maryland collision",
+    "kisa": "Chase Maryland",
+    "nesne": "Signal",
+    "yil": 1987,
+    "sonuc": "caused an Amtrak train to hit light locomotives",
+    "tetik": "a crew failing to stop at signals",
+    "mekanizma": "locomotives fouling the main line after passing stop signals, with a cab signal whistle taped silent",
+    "sayi": "100+ MPH",
+    "ders": "random drug testing was mandated for safety-sensitive transport jobs",
+    "zincir": [
+      "CREW IMPAIRED",
+      "SIGNALS IGNORED",
+      "LOCOMOTIVES FOUL MAIN LINE",
+      "AMTRAK AT 100+ MPH",
+      "COLLISION"
+    ],
+    "zaman": [],
+    "yanilgi": "The signals worked. The freight crew didn't stop for them.",
+    "tartisma": "The crash led to random drug testing across transport. Where should testing stop?",
+    "basliklar": [
+      "The Locomotives That Ran Past a Stop Signal",
+      "Why the Chase, Maryland Train Crash Happened",
+      "The Signals the Crew Ignored"
+    ],
+    "kapak": [
+      "IGNORED SIGNALS",
+      "100+ MPH"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1987 Maryland train collision",
+        "url": "https://en.wikipedia.org/wiki/1987_Maryland_train_collision"
+      },
+      {
+        "ad": "NTSB — RAR8801 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/RAR8801.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-19",
+    "wiki": "1987_Maryland_train_collision",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "1987 Maryland train collision gunpow.jpg [Public domain]",
+      "1987 Maryland train collision aerial.jpg [Public domain]",
+      "1987 Maryland train collision amtrak.jpg [Public domain]",
+      "1987 Maryland train collision conrail 5044 cab.jpg [Public domain]",
+      "Amtrak AEM7 903 passing through Ivy City in Washington, DC in December 1980 (33857238141).jpg [Public domain]",
+      "Amtrak locomotive 900 with test train, January 1980.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "channel": "failure-reconstructed",
+  "slug": "chernobyl-1986",
+  "allowedChannels": [
+    "failure-reconstructed"
+  ],
+  "createdAt": "2026-10-04T12:12:01.602Z",
+  "assets": [
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (CC BY 2.0)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Radiant_Mayday-Demo_after_CHERNOBYL.jpg",
+      "licence": "CC BY 2.0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Radiant_Mayday-Demo_after_CHERNOBYL.jpg",
+      "attribution": null,
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (Public domain)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chernobyl_BW_2019_G28.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Chernobyl_BW_2019_G28.jpg",
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (Public domain)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chernobylgrassfire.png",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Chernobylgrassfire.png",
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (CC0)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chernobyl_nuclear_disaster_aftermath_abandoned_town_of_Pripyat_02.jpg",
+      "licence": "CC0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Chernobyl_nuclear_disaster_aftermath_abandoned_town_of_Pripyat_02.jpg",
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (CC BY 2.0)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chernobylreactor_1.jpg",
+      "licence": "CC BY 2.0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Chernobylreactor_1.jpg",
+      "attribution": null,
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (Public domain)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umweltverschmutzung-Sapmi.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Umweltverschmutzung-Sapmi.jpg",
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (CC BY 4.0)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Checkpoint_ditkatky_chernobyl_zone.JPG",
+      "licence": "CC BY 4.0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Checkpoint_ditkatky_chernobyl_zone.JPG",
+      "attribution": null,
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "audio",
+      "source": "Microsoft Edge neural TTS (en-US-AndrewNeural)",
+      "title": "narration",
+      "licence": "generated — synthetic voice, disclosed in the description",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "audio",
+      "source": "procedural synthesis (ffmpeg)",
+      "title": "music bed",
+      "licence": "original — generated per video",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "image",
+      "source": "generated graphics (captions, number cards, diagrams)",
+      "title": "on-screen graphics",
+      "licence": "original",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    }
+  ]
+}

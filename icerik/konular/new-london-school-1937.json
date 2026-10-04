@@ -1,0 +1,121 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": 3,
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "baslik": "The New London School Explosion That Gave Gas Its Smell",
+  "kaynaklar": [
+    {
+      "ad": "newlondon.ogv",
+      "wikimedia": "1937-03-20 Children Die As Gas Explosion Shatters School.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Gas smells on purpose because this school exploded.",
+      "kaynak": "Footage/newlondon.ogv",
+      "baslangic": 127
+    },
+    {
+      "metin": "It collapsed with hundreds of children inside.",
+      "kaynak": "Footage/newlondon.ogv",
+      "baslangic": 55
+    },
+    {
+      "metin": "Nearly three hundred people died, most of them students.",
+      "kaynak": "Footage/newlondon.ogv",
+      "baslangic": 41
+    },
+    {
+      "metin": "So why did nobody notice the gas?",
+      "kaynak": "Footage/newlondon.ogv",
+      "baslangic": 94
+    },
+    {
+      "metin": "To save money, the school used raw, odorless gas, and it leaked.",
+      "kaynak": "Footage/newlondon.ogv",
+      "baslangic": 80
+    },
+    {
+      "metin": "One spark, likely from a shop sander, set it off.",
+      "kaynak": "Footage/newlondon.ogv",
+      "baslangic": 60
+    },
+    {
+      "metin": "Within weeks, Texas required gas to carry a warning smell.",
+      "kaynak": "Footage/newlondon.ogv",
+      "baslangic": 114
+    },
+    {
+      "metin": "Every time you smell gas today, that rule is protecting you.",
+      "kaynak": "Footage/newlondon.ogv",
+      "baslangic": 134
+    }
+  ],
+  "aciklama": "On March 18, 1937, odorless gas leaking under the school in New London, Texas exploded, killing nearly 300 people. Texas then required gas to be odorized.\n\n#shorts #engineering #safety",
+  "etiketler": [
+    "New London School explosion",
+    "1937",
+    "natural gas",
+    "gas odorant",
+    "mercaptan",
+    "Texas",
+    "engineering safety"
+  ],
+  "hook": "Gas with no smell",
+  "soru": "Could you smell a leak?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the New London School explosion",
+    "kisa": "New London",
+    "nesne": "School",
+    "yil": 1937,
+    "sonuc": "exploded with students inside",
+    "tetik": "a spark, likely from a sanding machine",
+    "mekanizma": "ignition of an odorless gas-air mixture trapped in a crawlspace",
+    "sayi": "~295 DEAD",
+    "ders": "natural gas must carry an odorant so a leak can be smelled",
+    "zincir": [
+      "SCHOOL TAPS RAW RESIDUE GAS",
+      "ODORLESS GAS LEAKS",
+      "CRAWLSPACE FILLS UNSEEN",
+      "SPARK IGNITES THE MIXTURE",
+      "BUILDING DESTROYED"
+    ],
+    "zaman": [
+      {
+        "t": "Jan 1937",
+        "olay": "School switches to free residue gas from an oil company line"
+      },
+      {
+        "t": "Mar 18, 1937 15:17",
+        "olay": "Shop instructor switches on a sander; the building explodes"
+      },
+      {
+        "t": "Weeks later",
+        "olay": "Texas mandates malodorants in natural gas"
+      }
+    ],
+    "yanilgi": "Natural gas is odorless by nature. The 'gas smell' in your home is an added chemical, required because of disasters like this one.",
+    "tartisma": "Odorant only helps if someone is there to smell it. Should every home also be required to have a gas detector?",
+    "basliklar": [
+      "The School Explosion That Gave Natural Gas Its Smell",
+      "Why Gas Smells Like Rotten Eggs",
+      "The Leak Nobody Could Smell",
+      "Free Gas That Cost Nearly 300 Lives"
+    ],
+    "kapak": [
+      "NO SMELL",
+      "1937",
+      "ONE SPARK"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — New London School explosion",
+        "url": "https://en.wikipedia.org/wiki/New_London_School_explosion"
+      }
+    ]
+  }
+}

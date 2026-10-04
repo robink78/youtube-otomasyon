@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Supertanker's Steering Failed — Then Came the Towing Argument",
+  "kaynaklar": [
+    {
+      "ad": "amoco-cadiz-1.jpg",
+      "wikimedia": "Amoco Cadiz 1 edit1.jpg"
+    },
+    {
+      "ad": "amoco-cadiz-2.jpg",
+      "wikimedia": "Amoco Cadiz 1.jpg"
+    },
+    {
+      "ad": "amoco-cadiz-3.jpg",
+      "wikimedia": "Amoco Cadiz 2.jpg"
+    },
+    {
+      "ad": "amoco-cadiz-4.jpg",
+      "wikimedia": "Amoco Cadiz impact.jpg"
+    },
+    {
+      "ad": "amoco-cadiz-5.jpg",
+      "wikimedia": "Amoco-19780300-02.jpg"
+    },
+    {
+      "ad": "amoco-cadiz-6.jpg",
+      "wikimedia": "Tanker \"Amoco Cadiz\" strandet 1978 HBdia00198.jpg"
+    },
+    {
+      "ad": "amoco-cadiz-7.jpg",
+      "wikimedia": "Diapo-19780300-03.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A supertanker drifted onto the rocks off Brittany and broke apart.",
+      "kaynak": "Footage/amoco-cadiz-1.jpg"
+    },
+    {
+      "metin": "Within days, its entire cargo of crude oil had spilled.",
+      "kaynak": "Footage/amoco-cadiz-2.jpg"
+    },
+    {
+      "metin": "Its hydraulic steering had failed in a storm.",
+      "kaynak": "Footage/amoco-cadiz-3.jpg"
+    },
+    {
+      "metin": "The ship drifted toward the shore.",
+      "kaynak": "Footage/amoco-cadiz-4.jpg"
+    },
+    {
+      "metin": "A tug arrived, but towing terms were discussed first.",
+      "kaynak": "Footage/amoco-cadiz-5.jpg"
+    },
+    {
+      "metin": "When a line was finally attached, it broke.",
+      "kaynak": "Footage/amoco-cadiz-6.jpg"
+    },
+    {
+      "metin": "Hours later, the tanker grounded.",
+      "kaynak": "Footage/amoco-cadiz-7.jpg"
+    },
+    {
+      "metin": "Rules on tanker steering and emergency towing were strengthened.",
+      "kaynak": "Footage/amoco-cadiz-1.jpg"
+    }
+  ],
+  "aciklama": "Amoco Cadiz ran aground off Brittany and broke apart. The cause: steering gear failure followed by delayed towing and grounding.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Amoco Cadiz",
+    "1978",
+    "steering gear",
+    "engineering failure"
+  ],
+  "hook": "Its steering failed",
+  "soru": "Negotiate or tow?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Amoco Cadiz",
+    "kisa": "Amoco Cadiz",
+    "nesne": "Steering gear",
+    "yil": 1978,
+    "sonuc": "ran aground off Brittany and broke apart",
+    "tetik": "a failure of its hydraulic steering gear in a storm",
+    "mekanizma": "steering gear failure followed by delayed towing and grounding",
+    "sayi": "NO STEERING",
+    "ders": "steering redundancy and emergency towing rules for tankers were strengthened",
+    "zincir": [
+      "STEERING GEAR FAILS",
+      "SHIP DRIFTS IN A STORM",
+      "TOWING DELAYED",
+      "TOW LINE PARTS",
+      "TANKER GROUNDS AND BREAKS UP"
+    ],
+    "zaman": [],
+    "yanilgi": "The tanker didn't sink right away. It drifted for hours while help was negotiated.",
+    "tartisma": "Towing terms were debated while the ship drifted. Should rescue ever wait for a contract?",
+    "basliklar": [
+      "A Supertanker's Steering Failed — Then Came the Towing Argument",
+      "Why the Amoco Cadiz Ran Aground",
+      "The Supertanker That Lost Its Steering"
+    ],
+    "kapak": [
+      "NO STEERING",
+      "HOURS ADRIFT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Amoco Cadiz",
+        "url": "https://en.wikipedia.org/wiki/Amoco_Cadiz"
+      },
+      {
+        "ad": "Government source — n78063239 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/n78063239"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "Amoco_Cadiz",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Amoco Cadiz 1 edit1.jpg [Public domain]",
+      "Amoco Cadiz 1.jpg [Public domain]",
+      "Amoco Cadiz 2.jpg [Public domain]",
+      "Amoco Cadiz impact.jpg [Public domain]",
+      "Amoco-19780300-02.jpg [CC0]",
+      "Tanker \"Amoco Cadiz\" strandet 1978 HBdia00198.jpg [CC BY 4.0]",
+      "Diapo-19780300-03.jpg [CC0]"
+    ]
+  }
+}

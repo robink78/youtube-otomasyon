@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "One Control Rod Pulled Too Far Destroyed a Reactor",
+  "kaynaklar": [
+    {
+      "ad": "sl-1-reactor-1.jpg",
+      "wikimedia": "Sl-1-ineel61-9.jpg"
+    },
+    {
+      "ad": "sl-1-reactor-2.jpg",
+      "wikimedia": "Sl-1-ineel61-667.jpg"
+    },
+    {
+      "ad": "sl-1-reactor-3.jpg",
+      "wikimedia": "ALPR.jpg"
+    },
+    {
+      "ad": "sl-1-reactor-4.jpg",
+      "wikimedia": "SL-1Burial.jpg"
+    },
+    {
+      "ad": "sl-1-reactor-5.jpg",
+      "wikimedia": "HD.6B.007 (10578937954).jpg"
+    },
+    {
+      "ad": "sl-1-reactor-6.jpg",
+      "wikimedia": "HD.6B.006 (10579022233).jpg"
+    },
+    {
+      "ad": "sl-1-reactor-7.jpg",
+      "wikimedia": "HD.6D.111 (10731009074).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A small military reactor in Idaho exploded during maintenance.",
+      "kaynak": "Footage/sl-1-reactor-1.jpg"
+    },
+    {
+      "metin": "In an instant, all three men working on it were killed.",
+      "kaynak": "Footage/sl-1-reactor-2.jpg"
+    },
+    {
+      "metin": "They were reconnecting its central control rod.",
+      "kaynak": "Footage/sl-1-reactor-3.jpg"
+    },
+    {
+      "metin": "That rod had to be lifted by hand.",
+      "kaynak": "Footage/sl-1-reactor-4.jpg"
+    },
+    {
+      "metin": "It was pulled far too high.",
+      "kaynak": "Footage/sl-1-reactor-5.jpg"
+    },
+    {
+      "metin": "The reactor went critical and flashed water to steam.",
+      "kaynak": "Footage/sl-1-reactor-6.jpg"
+    },
+    {
+      "metin": "The blast lifted the reactor vessel off its mounts.",
+      "kaynak": "Footage/sl-1-reactor-7.jpg"
+    },
+    {
+      "metin": "Reactors were then designed so no single rod can do this.",
+      "kaynak": "Footage/sl-1-reactor-1.jpg"
+    }
+  ],
+  "aciklama": "SL-1 exploded during maintenance. The cause: prompt criticality from manual withdrawal of the central control rod, causing a steam explosion.\n\n#shorts #engineering #nuclear",
+  "etiketler": [
+    "SL-1",
+    "1961",
+    "control rod",
+    "engineering failure"
+  ],
+  "hook": "One rod too far",
+  "soru": "Should one action be enough?",
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "the SL-1 reactor",
+    "kisa": "SL-1",
+    "nesne": "Control rod",
+    "yil": 1961,
+    "sonuc": "exploded during maintenance",
+    "tetik": "a single control rod pulled out too far by hand",
+    "mekanizma": "prompt criticality from manual withdrawal of the central control rod, causing a steam explosion",
+    "sayi": "3 KILLED",
+    "ders": "reactors were designed so no single rod can make them critical",
+    "zincir": [
+      "MAINTENANCE REQUIRES LIFTING A ROD",
+      "ROD PULLED TOO FAR",
+      "PROMPT CRITICALITY",
+      "STEAM EXPLOSION",
+      "VESSEL JUMPS UPWARD"
+    ],
+    "zaman": [],
+    "yanilgi": "The reactor wasn't running. It was restarted by hand, one rod at a time, and that single rod was enough.",
+    "tartisma": "One rod could make the reactor critical by itself. Should any single action ever be able to cause disaster?",
+    "basliklar": [
+      "One Control Rod Pulled Too Far Destroyed a Reactor",
+      "Why the SL-1 Reactor Exploded",
+      "The Single Control Rod That Went Too Far"
+    ],
+    "kapak": [
+      "ONE ROD",
+      "3 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SL-1",
+        "url": "https://en.wikipedia.org/wiki/SL-1"
+      },
+      {
+        "ad": "NASA — sl1 sfcs (cited by Wikipedia)",
+        "url": "http://pbma.nasa.gov/docs/public/pbma/general/sl1_sfcs.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "SL-1",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Sl-1-ineel61-9.jpg [Public domain]",
+      "Sl-1-ineel61-667.jpg [Public domain]",
+      "ALPR.jpg [Public domain]",
+      "SL-1Burial.jpg [Public domain]",
+      "HD.6B.007 (10578937954).jpg [Public domain]",
+      "HD.6B.006 (10579022233).jpg [Public domain]",
+      "HD.6D.111 (10731009074).jpg [Public domain]"
+    ]
+  }
+}

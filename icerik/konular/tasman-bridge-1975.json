@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Ship That Cut a City in Half",
+  "kaynaklar": [
+    {
+      "ad": "tasman-bridge-1.jpg",
+      "wikimedia": "Tasman Bridge disaster 1975.jpg"
+    },
+    {
+      "ad": "tasman-bridge-2.jpg",
+      "wikimedia": "Sydney Ferry in Hobart to assist following the 1975 collapse of the Tasman Bridge.jpg"
+    },
+    {
+      "ad": "tasman-bridge-3.jpg",
+      "wikimedia": "Sydney ferries KOSCISUSKO and LADY FERGUSON boarded for trip to Hobart 1975.jpg"
+    },
+    {
+      "ad": "tasman-bridge-4.jpg",
+      "wikimedia": "Tasman Bridge near Hobart, Tasmania, Australia b.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A bulk carrier crashed into the piers of Hobart's Tasman Bridge.",
+      "kaynak": "Footage/tasman-bridge-1.jpg"
+    },
+    {
+      "metin": "Two spans fell onto the ship, and it sank.",
+      "kaynak": "Footage/tasman-bridge-2.jpg"
+    },
+    {
+      "metin": "The current had pushed it off course.",
+      "kaynak": "Footage/tasman-bridge-3.jpg"
+    },
+    {
+      "metin": "It struck piers that were never meant to face a ship.",
+      "kaynak": "Footage/tasman-bridge-4.jpg"
+    },
+    {
+      "metin": "In the dark, cars drove into the gap.",
+      "kaynak": "Footage/tasman-bridge-1.jpg"
+    },
+    {
+      "metin": "Twelve people died that night.",
+      "kaynak": "Footage/tasman-bridge-2.jpg"
+    },
+    {
+      "metin": "The city was split in two for years.",
+      "kaynak": "Footage/tasman-bridge-3.jpg"
+    },
+    {
+      "metin": "Ships and traffic were then kept apart whenever vessels passed.",
+      "kaynak": "Footage/tasman-bridge-4.jpg"
+    }
+  ],
+  "aciklama": "Tasman Bridge lost spans when a bulk carrier hit its piers. The cause: ship impact on unprotected piers outside the navigation span.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Tasman Bridge",
+    "1975",
+    "bridge",
+    "engineering failure"
+  ],
+  "hook": "A city split in two",
+  "soru": "One bridge, or two?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Tasman Bridge",
+    "kisa": "Tasman Bridge",
+    "nesne": "Bridge",
+    "yil": 1975,
+    "sonuc": "lost spans when a bulk carrier hit its piers",
+    "tetik": "a bulk carrier pushed off course by the current",
+    "mekanizma": "ship impact on unprotected piers outside the navigation span",
+    "sayi": "12 DEAD",
+    "ders": "shipping rules around the bridge were tightened and traffic was stopped for passing ships",
+    "zincir": [
+      "STRONG CURRENT",
+      "SHIP LEAVES THE MAIN SPAN",
+      "HITS TWO PIERS",
+      "SPANS FALL ONTO THE SHIP",
+      "CARS DRIVE INTO THE GAP"
+    ],
+    "zaman": [],
+    "yanilgi": "The ship didn't hit the channel span. It struck piers nearby that were never meant to face a ship.",
+    "tartisma": "Hobart was cut in two for years. How much redundancy should one bridge city have?",
+    "basliklar": [
+      "The Ship That Cut a City in Half",
+      "Why the Tasman Bridge Collapsed",
+      "The Night Hobart Was Cut in Two"
+    ],
+    "kapak": [
+      "CITY CUT IN HALF",
+      "12 DEAD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Tasman Bridge disaster",
+        "url": "https://en.wikipedia.org/wiki/Tasman_Bridge_disaster"
+      },
+      {
+        "ad": "Government source — IP003 (cited by Wikipedia)",
+        "url": "http://www.bitre.gov.au/publications/07/Files/IP003.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Tasman_Bridge_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Tasman Bridge disaster 1975.jpg [CC BY 4.0]",
+      "Sydney Ferry in Hobart to assist following the 1975 collapse of the Tasman Bridge.jpg [CC BY 4.0]",
+      "Sydney ferries KOSCISUSKO and LADY FERGUSON boarded for trip to Hobart 1975.jpg [CC BY 4.0]",
+      "Tasman Bridge near Hobart, Tasmania, Australia b.jpg [CC0]"
+    ]
+  }
+}

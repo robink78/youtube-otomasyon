@@ -1,0 +1,2418 @@
+{
+  "schema": "growth-short-plan/1",
+  "channel": "behind-the-ordinary",
+  "channelName": "The Hidden Logic of Things",
+  "contentType": "short",
+  "createdAt": "2026-10-04T18:00:30.763Z",
+  "topic": {
+    "id": "BTO-256",
+    "slug": "why-the-bluetooth-logo-looks-like-that",
+    "title": "Why the Bluetooth Logo Looks Like That",
+    "cluster": "STRANGE ORIGINS",
+    "subject": "the Bluetooth symbol"
+  },
+  "topicScore": {
+    "channel": "behind-the-ordinary",
+    "topicId": "BTO-256",
+    "slug": "why-the-bluetooth-logo-looks-like-that",
+    "title": "Why the Bluetooth Logo Looks Like That",
+    "cluster": "STRANGE ORIGINS",
+    "VideoPotentialScore": 82,
+    "ViralPotentialScore": 73,
+    "SelectionScore": 77,
+    "bucket": "A",
+    "reasons": [
+      "VideoPotential 82 ≥ 80",
+      "hook 77",
+      "sources 90"
+    ],
+    "enrichable": false,
+    "factors": {
+      "TopicDemandScore": {
+        "value": 78,
+        "basis": "derived",
+        "note": "no demand signal; evergreen proxy"
+      },
+      "CuriosityScore": {
+        "value": 96,
+        "basis": "inventory-signal"
+      },
+      "HookPotentialScore": {
+        "value": 77,
+        "basis": "derived",
+        "note": "14 candidates / 6 families"
+      },
+      "VisualImpactScore": {
+        "value": 82,
+        "basis": "inventory-signal"
+      },
+      "EmotionalImpactScore": {
+        "value": 69,
+        "basis": "derived"
+      },
+      "StoryCompressionScore": {
+        "value": 84,
+        "basis": "derived"
+      },
+      "RewatchPotentialScore": {
+        "value": 61,
+        "basis": "derived"
+      },
+      "SharePotentialScore": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "CommentPotentialScore": {
+        "value": 63,
+        "basis": "derived"
+      },
+      "SubscriberConversionPotential": {
+        "value": 74,
+        "basis": "derived+learned",
+        "note": "series depth: 3 topics in STRANGE ORIGINS"
+      },
+      "NoveltyScore": {
+        "value": 88,
+        "basis": "inventory-signal"
+      },
+      "AudienceFitScore": {
+        "value": 76,
+        "basis": "inventory-signal"
+      },
+      "SourceQualityScore": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "ChannelFitScore": {
+        "value": 88,
+        "basis": "derived"
+      }
+    },
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 96,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 86,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 55,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 50,
+        "basis": "inventory-signal"
+      },
+      "surprise": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 82,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 92,
+        "basis": "derived",
+        "note": "10 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 69,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 74,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 92,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "subscriber_conversion_potential": {
+        "value": 74,
+        "basis": "derived",
+        "note": "series-depth proxy; no measured conversion yet"
+      },
+      "audience_breadth": {
+        "value": 76,
+        "basis": "inventory-signal"
+      },
+      "hook_potential": {
+        "value": 77,
+        "basis": "derived"
+      },
+      "visual_availability": {
+        "value": 60,
+        "basis": "inventory-signal"
+      },
+      "research_confidence": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 3 inventory in cluster"
+      },
+      "recent_fatigue_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 same-family upload(s) in the last 30 days"
+      },
+      "source_confidence_risk": {
+        "value": -10,
+        "basis": "penalty",
+        "note": "90/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -40,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "viralWeights": {
+      "curiosity_gap": 1.1,
+      "immediate_stakes": 1.1,
+      "human_consequence": 0.9,
+      "recognizability": 0.9,
+      "surprise": 0.9,
+      "visual_potential": 1,
+      "archival_footage_potential": 0.8,
+      "first_frame_potential": 1,
+      "title_potential": 0.8,
+      "emotional_tension": 0.9,
+      "contradiction": 0.7,
+      "unexpected_cause": 0.9,
+      "numerical_anomaly": 0.6,
+      "didnt_know_factor": 0.8,
+      "shareability": 0.9,
+      "channel_fit": 1,
+      "historical_similarity": 1,
+      "subscriber_conversion_potential": 1.1,
+      "audience_breadth": 0.9,
+      "hook_potential": 1,
+      "visual_availability": 0.9,
+      "research_confidence": 1,
+      "duplicate_risk": 1.2,
+      "saturation_risk": 0.6,
+      "recent_fatigue_risk": 0.9,
+      "source_confidence_risk": 1.2,
+      "weak_footage_risk": 0.8
+    },
+    "viralCalculation": {
+      "positive": 75.3,
+      "penalty": 2.3,
+      "penaltyScale": 0.25
+    },
+    "weights": {
+      "TopicDemandScore": 1.1,
+      "CuriosityScore": 1.3,
+      "HookPotentialScore": 1.2,
+      "VisualImpactScore": 1.2,
+      "EmotionalImpactScore": 0.5,
+      "StoryCompressionScore": 1.1,
+      "RewatchPotentialScore": 0.7,
+      "SharePotentialScore": 0.9,
+      "CommentPotentialScore": 0.6,
+      "SubscriberConversionPotential": 1,
+      "NoveltyScore": 1,
+      "AudienceFitScore": 1.2,
+      "SourceQualityScore": 1.4,
+      "ChannelFitScore": 1.4
+    },
+    "boilerplate": {
+      "ratio": 0,
+      "templatedFields": [],
+      "checkedFields": 6
+    },
+    "specificEvidence": 14,
+    "sourceQuality": {
+      "score": 90,
+      "tiers": [
+        {
+          "name": "Bluetooth SIG — Origin of the Name",
+          "url": "https://www.bluetooth.com/about-us/bluetooth-origin/",
+          "tier": "STANDARDS_BODY",
+          "score": 90
+        },
+        {
+          "name": "Bluetooth SIG — Bluetooth Technology Overview",
+          "url": "https://www.bluetooth.com/learn-about-bluetooth/tech-overview/",
+          "tier": "STANDARDS_BODY",
+          "score": 90
+        }
+      ],
+      "primaryCount": 2,
+      "notes": []
+    },
+    "selectedHook": {
+      "family": "unexpected_chain_reaction",
+      "spoken": "Two runes, merged into one symbol.",
+      "score": 77
+    }
+  },
+  "viralPotentialGate": {
+    "score": 73,
+    "minimum": 68,
+    "decision": "PRODUCE",
+    "components": {
+      "curiosity_gap": {
+        "value": 96,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 86,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 55,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 50,
+        "basis": "inventory-signal"
+      },
+      "surprise": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 82,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 92,
+        "basis": "derived",
+        "note": "10 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 69,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 74,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 92,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "subscriber_conversion_potential": {
+        "value": 74,
+        "basis": "derived",
+        "note": "series-depth proxy; no measured conversion yet"
+      },
+      "audience_breadth": {
+        "value": 76,
+        "basis": "inventory-signal"
+      },
+      "hook_potential": {
+        "value": 77,
+        "basis": "derived"
+      },
+      "visual_availability": {
+        "value": 60,
+        "basis": "inventory-signal"
+      },
+      "research_confidence": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 3 inventory in cluster"
+      },
+      "recent_fatigue_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 same-family upload(s) in the last 30 days"
+      },
+      "source_confidence_risk": {
+        "value": -10,
+        "basis": "penalty",
+        "note": "90/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -40,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    }
+  },
+  "topicDecision": null,
+  "hooks": {
+    "selected": {
+      "family": "unexpected_chain_reaction",
+      "spoken": "Two runes, merged into one symbol.",
+      "onScreen": "VIKING INITIALS",
+      "fields": [
+        "secondBeat"
+      ],
+      "editorial": false,
+      "words": 6,
+      "estimatedSeconds": 1.9,
+      "scores": {
+        "SwipeStoppingPower": 65,
+        "CuriosityGap": 45,
+        "Clarity": 100,
+        "Specificity": 63,
+        "EmotionalIntensity": 30,
+        "Credibility": 100,
+        "VisualCompatibility": 80,
+        "ChannelFit": 60,
+        "ImmediateComprehension": 100,
+        "RetentionExpectation": 54,
+        "VoiceoverNaturalness": 100,
+        "FirstFrameCompatibility": 80,
+        "FactualDefensibility": 100,
+        "ShortFormSuitability": 97
+      },
+      "total": 77,
+      "blocked": false,
+      "blockers": [],
+      "generic": false,
+      "adjustedTotal": 77,
+      "fitsOpening": true
+    },
+    "selectedScore": 77,
+    "passes": true,
+    "candidateCount": 14,
+    "familyCount": 6,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "family": "unexpected_chain_reaction",
+        "spoken": "Two runes, merged into one symbol.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "secondBeat"
+        ],
+        "editorial": false,
+        "words": 6,
+        "estimatedSeconds": 1.9,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 63,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 80,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 77,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 77,
+        "fitsOpening": true
+      },
+      {
+        "family": "visual_first_reveal",
+        "spoken": "The Bluetooth logo is a Viking king's initials.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "openingLine"
+        ],
+        "editorial": true,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 96,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 44,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 96,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 75,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 75,
+        "fitsOpening": true
+      },
+      {
+        "family": "scarcity_bottleneck",
+        "spoken": "Bluetooth was intended only as a placeholder name.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 49,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 70,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 56,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 70,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 75,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 75,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "At an industry meeting.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 4,
+        "estimatedSeconds": 1.3,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "It was only a placeholder.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 5,
+        "estimatedSeconds": 1.6,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 59,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 57,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "RadioWire or PAN was meant to replace it.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "PAN was already everywhere online.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 5,
+        "estimatedSeconds": 1.6,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The name honours King Harald Bluetooth, who united Denmark and Norway.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 46,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 71,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 71,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "This radio link would unite PCs and phones.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 50,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 71,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 71,
+        "fitsOpening": true
+      },
+      {
+        "family": "shocking_consequence",
+        "spoken": "Harald's nickname came from a dead tooth of a dark blue-grey colour.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 12,
+        "estimatedSeconds": 3.8,
+        "scores": {
+          "SwipeStoppingPower": 63,
+          "CuriosityGap": 35,
+          "Clarity": 85,
+          "Specificity": 30,
+          "EmotionalIntensity": 66,
+          "Credibility": 100,
+          "VisualCompatibility": 89,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 70,
+          "RetentionExpectation": 48,
+          "VoiceoverNaturalness": 90,
+          "FirstFrameCompatibility": 89,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 82
+        },
+        "total": 71,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 71,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "PAN already had tens of thousands of hits on the internet.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 51,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 69,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 69,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "So the logo merges Harald's initials in runes: H and B.",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 46,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The planned replacement names were RadioWire or PAN (Personal Area Networking).",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 46,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": false
+      },
+      {
+        "family": "question_gap",
+        "spoken": "What is its angular rune for?",
+        "onScreen": "VIKING INITIALS",
+        "fields": [
+          "subject"
+        ],
+        "editorial": false,
+        "words": 6,
+        "estimatedSeconds": 1.9,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 63,
+          "Clarity": 100,
+          "Specificity": 10,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 59,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 64,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 59,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 40,
+        "blocked": true,
+        "blockers": [
+          "incomplete English phrase"
+        ],
+        "generic": false,
+        "adjustedTotal": 40,
+        "fitsOpening": true
+      }
+    ]
+  },
+  "first3Seconds": {
+    "First3SecondPlan": {
+      "narration": "Two runes, merged into one symbol.",
+      "firstFrame": {
+        "description": "the Bluetooth symbol fills the frame; one marker isolates its angular rune",
+        "source": "procedural render",
+        "startAtSeconds": 0,
+        "sourceClass": "REAL_OBJECT",
+        "communicates": "mystery",
+        "rule": "labelled illustration; no logo, no establishing shot"
+      },
+      "visual": "the Bluetooth symbol fills the frame; one marker isolates its angular rune",
+      "onScreenText": "VIKING INITIALS",
+      "motion": "macro push toward the highlighted detail in 0.7 s, then cut to source evidence",
+      "cutTiming": [
+        0,
+        1,
+        1.9
+      ],
+      "soundCue": "one small tactile click synchronized to the highlighted detail",
+      "communicates": "mystery"
+    },
+    "score": 84,
+    "passes": true,
+    "blockers": [],
+    "notes": []
+  },
+  "script": {
+    "format": "short",
+    "generator": "editorial (researched record)",
+    "targetSeconds": 30.4,
+    "spoken": "Two runes, merged into one symbol. Two runes, merged into one symbol. The name honours King Harald Bluetooth, who united Denmark and Norway. At an industry meeting, Intel's Jim Kardach suggested it as a temporary code name. Harald united Scandinavia. This radio link would unite PCs and phones. It was only a placeholder. RadioWire or PAN was meant to replace it. PAN was already everywhere online, and RadioWire's trademark check ran out of time. So the logo merges Harald's initials in runes: H and B.",
+    "claims": [
+      {
+        "start": 0,
+        "end": 2.1,
+        "role": "HOOK",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Two runes, merged into one symbol."
+      },
+      {
+        "start": 2.1,
+        "end": 4.3,
+        "role": "CLEAR_PROMISE",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Two runes, merged into one symbol."
+      },
+      {
+        "start": 4.3,
+        "end": 8.2,
+        "role": "ORIGIN",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "The name honours King Harald Bluetooth, who united Denmark and Norway."
+      },
+      {
+        "start": 8.2,
+        "end": 13.2,
+        "role": "EXPLANATION",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "At an industry meeting, Intel's Jim Kardach suggested it as a temporary code name."
+      },
+      {
+        "start": 13.2,
+        "end": 17.1,
+        "role": "EXPLANATION",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Harald united Scandinavia. This radio link would unite PCs and phones."
+      },
+      {
+        "start": 17.1,
+        "end": 21.8,
+        "role": "SURPRISING_DETAIL",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "It was only a placeholder. RadioWire or PAN was meant to replace it."
+      },
+      {
+        "start": 21.8,
+        "end": 26.4,
+        "role": "SURPRISING_DETAIL",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "PAN was already everywhere online, and RadioWire's trademark check ran out of time."
+      },
+      {
+        "start": 26.4,
+        "end": 30.4,
+        "role": "PAYOFF",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "So the logo merges Harald's initials in runes: H and B."
+      }
+    ],
+    "lines": [
+      "Two runes, merged into one symbol.",
+      "Two runes, merged into one symbol.",
+      "The name honours King Harald Bluetooth, who united Denmark and Norway.",
+      "At an industry meeting, Intel's Jim Kardach suggested it as a temporary code name.",
+      "Harald united Scandinavia. This radio link would unite PCs and phones.",
+      "It was only a placeholder. RadioWire or PAN was meant to replace it.",
+      "PAN was already everywhere online, and RadioWire's trademark check ran out of time.",
+      "So the logo merges Harald's initials in runes: H and B."
+    ],
+    "structure": [
+      "HOOK",
+      "CLEAR_PROMISE",
+      "ORIGIN",
+      "EXPLANATION",
+      "EXPLANATION",
+      "SURPRISING_DETAIL",
+      "SURPRISING_DETAIL",
+      "PAYOFF"
+    ],
+    "forbiddenOpening": false,
+    "sourceIds": [
+      "Bluetooth SIG — Origin of the Name",
+      "Bluetooth SIG — Bluetooth Technology Overview"
+    ],
+    "retention": {
+      "score": 100,
+      "words": 85,
+      "estimatedSeconds": 30.4,
+      "components": {
+        "hookDelay": 95,
+        "setupDelay": 85,
+        "sentenceLength": 100,
+        "informationDensity": 89,
+        "repetition": 75,
+        "deadSections": 100,
+        "escalation": 90,
+        "unansweredQuestions": 60,
+        "earlyPayoff": 55,
+        "visualOpportunities": 80,
+        "clarity": 100,
+        "duration": 95,
+        "endingStrength": 95
+      },
+      "duplicatePairs": [
+        [
+          1,
+          2
+        ]
+      ],
+      "findings": [],
+      "blockers": [],
+      "roles": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "rejectionReason": null,
+      "rewriteSuggested": false,
+      "passes": true
+    },
+    "openingRewrite": {
+      "lines": [
+        "Two runes, merged into one symbol.",
+        "The Bluetooth logo is a Viking king's initials.",
+        "The name honours King Harald Bluetooth, who united Denmark and Norway.",
+        "At an industry meeting, Intel's Jim Kardach suggested it as a temporary code name.",
+        "Harald united Scandinavia. This radio link would unite PCs and phones.",
+        "It was only a placeholder. RadioWire or PAN was meant to replace it.",
+        "PAN was already everywhere online, and RadioWire's trademark check ran out of time.",
+        "So the logo merges Harald's initials in runes: H and B."
+      ],
+      "changed": true,
+      "original": "The Bluetooth logo is a Viking king's initials.",
+      "selected": "Two runes, merged into one symbol.",
+      "source": "editorial line 2 promoted"
+    },
+    "estimatedSeconds": 30.4
+  },
+  "titles": {
+    "selected": {
+      "title": "The Bluetooth Symbol Explained Through One Small Detail",
+      "source": "legacy-generator",
+      "pattern": "statement",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 40,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 83,
+        "channelIdentity": 86,
+        "ctrPotential": 55,
+        "novelty": 100,
+        "evergreenPotential": 85,
+        "consequence": 42,
+        "compactness": 100,
+        "recognizability": 80,
+        "nonRedundancy": 100,
+        "factualIntegrity": 85,
+        "historicalPerformanceSimilarity": 50,
+        "patternFreshness": 100
+      },
+      "total": 77,
+      "patternPenalty": 0,
+      "templateNaturalnessPenalty": 0,
+      "adjustedTotal": 77,
+      "unsupportedWords": [
+        "small"
+      ],
+      "misleading": false
+    },
+    "selectedScore": 77,
+    "count": 30,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "title": "The Bluetooth Symbol Explained Through One Small Detail",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 77,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "small"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Everyday Engineering of the Bluetooth Symbol",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "everyday"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Bluetooth Was Never Meant to Be the Name",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 38,
+          "channelIdentity": 60,
+          "ctrPotential": 65,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Bluetooth Was Only a Placeholder Name",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 38,
+          "channelIdentity": 60,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Viking King Hidden in the Bluetooth Logo",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Runes Inside the Bluetooth Logo",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Tiny Design Choice on the Bluetooth Symbol",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 55,
+          "novelty": 90,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 90,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 75,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 75,
+        "unsupportedWords": [
+          "tiny"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Code Name That Became Bluetooth",
+        "source": "editorial",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 60,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 71,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 71,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Bluetooth Symbol: The Detail Everyone Overlooks",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [
+          "everyone",
+          "overlooks"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Bluetooth Symbol Hide a Piece of Design History",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [
+          "hide",
+          "piece"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Bluetooth Logo Is a Viking King's Initials",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 38,
+          "channelIdentity": 60,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 70,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Bluetooth Almost Became RadioWire or PAN",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 38,
+          "channelIdentity": 60,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 70,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Look Closely at the Bluetooth Symbol",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 72,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 72,
+        "unsupportedWords": [
+          "look",
+          "closely"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "How Its Angular Rune Became Part of the Bluetooth Symbol",
+        "source": "legacy-generator",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 87,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 75,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 71,
+        "unsupportedWords": [
+          "angular",
+          "part"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Purpose of Its Angular Rune",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 74,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 70,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [
+          "angular"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why This Detail Still Exists on the Bluetooth Symbol",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 87,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 77,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [
+          "still",
+          "exists"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why the Bluetooth Logo Looks Like That",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 50,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 74,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Bluetooth Is Named After a King",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 50,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 74,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Its Angular Rune Were Actually Made for",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 42,
+          "channelIdentity": 62,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 69,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 69,
+        "unsupportedWords": [
+          "angular",
+          "made"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Design Reason Behind Its Angular Rune",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 69,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 69,
+        "unsupportedWords": [
+          "angular"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why the Bluetooth Symbol Have Its Angular Rune",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 90,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 90,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 75,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [
+          "have",
+          "angular"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Ordinary Detail With an Older Purpose",
+        "source": "older-purpose",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 41,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 86,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 68,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [
+          "older"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Original Job of Its Angular Rune",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 64,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 64,
+        "unsupportedWords": [
+          "job",
+          "angular"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Reason Its Angular Rune Look Like This",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 63,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 63,
+        "unsupportedWords": [
+          "angular",
+          "look"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why the Bluetooth Symbol Still Use This Old Detail",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 74,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [
+          "still",
+          "use",
+          "old"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "What Problem Did Its Angular Rune Solve?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 55,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 66,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 66,
+        "unsupportedWords": [
+          "problem",
+          "angular",
+          "solve"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "Its Angular Rune: Function or Leftover?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 66,
+          "specificity": 47,
+          "truthfulness": 55,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 63,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 63,
+        "unsupportedWords": [
+          "angular",
+          "function",
+          "leftover"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "This Detail Wasn't Added by Accident",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 55,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 60,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 60,
+        "unsupportedWords": [
+          "wasnt",
+          "added",
+          "accident"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "Why Designers Kept Its Angular Rune",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 55,
+          "searchIntent": 42,
+          "channelIdentity": 74,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 64,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 57,
+        "unsupportedWords": [
+          "designers",
+          "kept",
+          "angular"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "This Its Angular Rune Wasn't Added by Accident",
+        "source": "not-accident",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 40,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 40,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 57,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 57,
+        "unsupportedWords": [
+          "angular",
+          "wasnt",
+          "added",
+          "accident"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "cta": {
+    "type": "NONE",
+    "reason": "deterministic roll 0.90 ≥ ctaProbability 0.35"
+  },
+  "loop": {
+    "LoopPotentialScore": 63,
+    "apply": false,
+    "plan": {
+      "reason": "loop would not improve story satisfaction; ending stays a clean payoff"
+    }
+  },
+  "integrity": {
+    "score": 60,
+    "scenes": [
+      {
+        "scene": 1,
+        "text": "the Bluetooth logo on a phone settings screen",
+        "sourceClass": "REAL_OBJECT",
+        "label": "n/a"
+      },
+      {
+        "scene": 2,
+        "text": "the two runes drawn separately",
+        "sourceClass": "REAL_OBJECT",
+        "label": "n/a"
+      },
+      {
+        "scene": 3,
+        "text": "the runes sliding together into the logo",
+        "sourceClass": "REAL_OBJECT",
+        "label": "n/a"
+      },
+      {
+        "scene": 4,
+        "text": "a runestone carving",
+        "sourceClass": "REAL_OBJECT",
+        "label": "n/a"
+      },
+      {
+        "scene": 5,
+        "text": "a laptop and phone pairing",
+        "sourceClass": "REAL_OBJECT",
+        "label": "n/a"
+      }
+    ],
+    "classes": [
+      "REAL_OBJECT"
+    ],
+    "hardFails": [],
+    "notes": []
+  },
+  "factual": {
+    "score": 100,
+    "hardFails": [],
+    "notes": [],
+    "claimClasses": {
+      "CONFIRMED_FACT": 11
+    },
+    "unsupportedNumbers": []
+  },
+  "pacing": {
+    "plannedSegments": [
+      1.319,
+      0.901,
+      1.348,
+      1.932,
+      1.784,
+      2.387,
+      1.646,
+      3.201,
+      3.225,
+      2.641,
+      3.478,
+      2.829,
+      2.948,
+      0.762
+    ],
+    "segments": 14,
+    "cutsInFirst3Seconds": 3,
+    "averageSeconds": 2.17,
+    "longestSeconds": 3.478,
+    "mechanical": false
+  },
+  "captions": {
+    "events": 30,
+    "maxWords": 4,
+    "maxLines": 2,
+    "tooFast": 0,
+    "safeZoneMarginV": 560,
+    "passes": true
+  },
+  "relatedLong": null,
+  "experiment": null,
+  "readiness": {
+    "ProductionReadinessScore": 88,
+    "decision": "PUBLISH",
+    "stage": "final",
+    "dimensions": {
+      "topicPotential": 82,
+      "viralPotential": 73,
+      "hook": 77,
+      "title": 77,
+      "script": 100,
+      "firstSeconds": 84,
+      "factual": 100,
+      "visualRelevance": 60,
+      "sources": 90,
+      "metadata": 100,
+      "visualQuality": 100,
+      "audio": 85,
+      "captions": 90,
+      "duration": 100,
+      "pacing": 92,
+      "render": 100
+    },
+    "renderedVisualQuality": {
+      "source": "render.video.visualQuality",
+      "score": 100,
+      "decision": "PUBLISH",
+      "reasons": [],
+      "metrics": {
+        "measured": true,
+        "relevant": true,
+        "decision": "PUBLISH",
+        "assetType": "licensed-still",
+        "asset": "TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg A TP-Link Archer T2UB Nano dongle. This dongle provides both Wi-Fi and Bluetooth functionality on a computer running Windows. wikipedia-article the Bluetooth logo on a phone settings screen",
+        "topicTerms": [
+          "bluetooth",
+          "symbol",
+          "its",
+          "angular",
+          "rune",
+          "logo",
+          "bind",
+          "merges",
+          "younger",
+          "futhark",
+          "runes",
+          "harald",
+          "initials",
+          "viking",
+          "king",
+          "two",
+          "merged",
+          "one"
+        ],
+        "matchedTerms": [
+          "bluetooth",
+          "logo"
+        ],
+        "strongTerms": [
+          "bluetooth",
+          "logo"
+        ],
+        "genericTermsIgnored": [],
+        "subjectMatch": true,
+        "mechanismMatch": true,
+        "designDetailMatch": false,
+        "claimMatch": true,
+        "rejectionReasons": [],
+        "reason": "opening asset matches distinctive evidence: bluetooth, logo"
+      }
+    },
+    "unmeasured": [],
+    "hardFails": [],
+    "notes": [],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "growthMeta": {
+    "hookType": "unexpected_chain_reaction",
+    "hookScore": 77,
+    "selectedHook": "Two runes, merged into one symbol.",
+    "firstLine": "Two runes, merged into one symbol.",
+    "firstSecondsScore": 84,
+    "topicCluster": "STRANGE ORIGINS",
+    "bucket": "A",
+    "viralScore": 73,
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 96,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 86,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 55,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 50,
+        "basis": "inventory-signal"
+      },
+      "surprise": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 82,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 92,
+        "basis": "derived",
+        "note": "10 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 69,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 74,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 92,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "subscriber_conversion_potential": {
+        "value": 74,
+        "basis": "derived",
+        "note": "series-depth proxy; no measured conversion yet"
+      },
+      "audience_breadth": {
+        "value": 76,
+        "basis": "inventory-signal"
+      },
+      "hook_potential": {
+        "value": 77,
+        "basis": "derived"
+      },
+      "visual_availability": {
+        "value": 60,
+        "basis": "inventory-signal"
+      },
+      "research_confidence": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 3 inventory in cluster"
+      },
+      "recent_fatigue_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 same-family upload(s) in the last 30 days"
+      },
+      "source_confidence_risk": {
+        "value": -10,
+        "basis": "penalty",
+        "note": "90/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -40,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "storyStructure": "VISUAL_MYSTERY>CLEAR_PROMISE>FAST_EXPLANATION>SPECIFIC_PAYOFF",
+    "titlePattern": "statement",
+    "selectedTitle": "The Bluetooth Symbol Explained Through One Small Detail",
+    "titleScore": 77,
+    "titleCandidates": 30,
+    "hookCandidates": 14,
+    "topicScore": 82,
+    "popularityScore": null,
+    "ctaStyle": "NONE",
+    "durationBucket": "26-35s",
+    "openingVisual": "REAL_OBJECT",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 78,
+      "CuriosityScore": 96,
+      "HookPotentialScore": 77,
+      "VisualImpactScore": 82,
+      "EmotionalImpactScore": 69,
+      "StoryCompressionScore": 84,
+      "RewatchPotentialScore": 61,
+      "SharePotentialScore": 97,
+      "CommentPotentialScore": 63,
+      "SubscriberConversionPotential": 74,
+      "NoveltyScore": 88,
+      "AudienceFitScore": 76,
+      "SourceQualityScore": 90,
+      "ChannelFitScore": 88
+    },
+    "selectionMode": null
+  },
+  "summary": {
+    "Channel": "The Hidden Logic of Things",
+    "Content Type": "SHORT",
+    "Topic": "Why the Bluetooth Logo Looks Like That",
+    "Topic Score": 82,
+    "Topic Bucket": "A",
+    "Selected Hook": "Two runes, merged into one symbol.",
+    "Hook Type": "unexpected_chain_reaction",
+    "Hook Score": 77,
+    "First-3-sec Score": 84,
+    "Duration": "~30.4s (estimated)",
+    "Scenes": 14,
+    "Production Score": "88 (final) → PUBLISH",
+    "Experiment": "none",
+    "Related Long Video": "none yet"
+  }
+}

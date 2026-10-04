@@ -1,0 +1,43 @@
+{
+  "schema": "live-replacement-run/1",
+  "startedAt": "2026-10-04T17:44:48.106Z",
+  "targetLocalTime": "2026-10-04 21:00 Europe/Istanbul",
+  "policy": "upload+verify replacement first; old video PRIVATE only after verified same-day 21:00 schedule; never delete",
+  "keptExisting": [
+    {
+      "channel": "failure-reconstructed",
+      "videoId": "4Mo58FxCr4A",
+      "reason": "Existing Rana Plaza render already had full pre-publication visual checks; avoid destroying a valid public Short merely to chase a packaging improvement."
+    }
+  ],
+  "results": [
+    {
+      "ok": false,
+      "channel": "impossible-brief",
+      "oldVideoId": "u0iftg8gF5w",
+      "error": "NEW_VIDEO_ID_NOT_RECORDED"
+    },
+    {
+      "ok": false,
+      "channel": "critical-thread",
+      "oldVideoId": "hsuWhB8lCvU",
+      "error": "NEW_VIDEO_ID_NOT_RECORDED"
+    },
+    {
+      "ok": true,
+      "channel": "behind-the-ordinary",
+      "oldVideoId": "I9Lcpi9kPYs",
+      "newVideoId": "Q98e12I0NFA",
+      "title": "Why the Bluetooth Logo Looks Like That",
+      "publishAt": "2026-10-05T18:00:00Z",
+      "scheduledForTarget21": false,
+      "oldRetiredToPrivate": false,
+      "retireReason": "replacement scheduled 2026-10-05T18:00:00Z; old kept public to avoid a content gap",
+      "durationSeconds": 37.7,
+      "distinctVisuals": 5,
+      "visualQuality": 100,
+      "readiness": 88
+    }
+  ],
+  "finishedAt": "2026-10-04T18:00:32.068Z"
+}

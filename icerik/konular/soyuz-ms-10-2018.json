@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Bent Pin Aborted a Crewed Launch Mid-Flight",
+  "kaynaklar": [
+    {
+      "ad": "soyuz-ms-10-1.jpg",
+      "wikimedia": "Expedition 57 Crew Returns to Baikonur (NHQ201810110007).jpg"
+    },
+    {
+      "ad": "soyuz-ms-10-2.jpg",
+      "wikimedia": "Soyuz MS-08 backup crew in front of the Soyuz spacecraft mockup.jpg"
+    },
+    {
+      "ad": "soyuz-ms-10-3.jpg",
+      "wikimedia": "Expedition 57 Media Blessing (NHQ201810100006).jpg"
+    },
+    {
+      "ad": "soyuz-ms-10-4.jpg",
+      "wikimedia": "Expedition 57 Crew Returns to Baikonur (NHQ201810110008).jpg"
+    },
+    {
+      "ad": "soyuz-ms-10-5.jpg",
+      "wikimedia": "Expedition 57 Preflight (NHQ201810110062).jpg"
+    },
+    {
+      "ad": "soyuz-ms-10-6.jpg",
+      "wikimedia": "Soyuz MS-10 crew aboard a Russian Federal Space Agency aircraft.jpg"
+    },
+    {
+      "ad": "soyuz-ms-10-7.jpg",
+      "wikimedia": "Soyuz MS-10 crew at the airport in Baikonur.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two minutes into a crewed launch, a Soyuz rocket failed.",
+      "kaynak": "Footage/soyuz-ms-10-1.jpg"
+    },
+    {
+      "metin": "Suddenly, a booster struck the core stage and the rocket began to break up.",
+      "kaynak": "Footage/soyuz-ms-10-2.jpg"
+    },
+    {
+      "metin": "The escape system pulled the crew capsule away.",
+      "kaynak": "Footage/soyuz-ms-10-3.jpg"
+    },
+    {
+      "metin": "Both astronauts landed safely.",
+      "kaynak": "Footage/soyuz-ms-10-4.jpg"
+    },
+    {
+      "metin": "The cause was a bent pin on a separation sensor.",
+      "kaynak": "Footage/soyuz-ms-10-5.jpg"
+    },
+    {
+      "metin": "It had been damaged while the rocket was assembled.",
+      "kaynak": "Footage/soyuz-ms-10-6.jpg"
+    },
+    {
+      "metin": "The booster didn't separate cleanly.",
+      "kaynak": "Footage/soyuz-ms-10-7.jpg"
+    },
+    {
+      "metin": "Assembly checks for these sensors were tightened afterward.",
+      "kaynak": "Footage/soyuz-ms-10-1.jpg"
+    }
+  ],
+  "aciklama": "Soyuz MS-10 aborted during launch. The cause: a deformed separation sensor pin preventing a booster from separating cleanly.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Soyuz MS-10",
+    "2018",
+    "separation sensor",
+    "engineering failure"
+  ],
+  "hook": "One bent pin",
+  "soru": "Who inspects the assembly?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Soyuz MS-10",
+    "kisa": "Soyuz MS-10",
+    "nesne": "Separation sensor",
+    "yil": 2018,
+    "sonuc": "aborted during launch",
+    "tetik": "a sensor pin bent during rocket assembly",
+    "mekanizma": "a deformed separation sensor pin preventing a booster from separating cleanly",
+    "sayi": "ABORT",
+    "ders": "assembly checks for separation sensors were tightened",
+    "zincir": [
+      "PIN BENT DURING ASSEMBLY",
+      "SEPARATION SIGNAL FAILS",
+      "BOOSTER HITS THE CORE STAGE",
+      "ROCKET BREAKS UP",
+      "CREW CAPSULE ESCAPES"
+    ],
+    "zaman": [],
+    "yanilgi": "The crew survived because the escape system worked, not because the failure was small.",
+    "tartisma": "The pin was bent at the factory. How do you inspect damage that happens during assembly?",
+    "basliklar": [
+      "A Bent Pin Aborted a Crewed Launch Mid-Flight",
+      "Why Soyuz MS-10 Aborted",
+      "The Bent Pin That Stopped a Launch"
+    ],
+    "kapak": [
+      "ONE BENT PIN",
+      "ABORT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Soyuz MS-10",
+        "url": "https://en.wikipedia.org/wiki/Soyuz_MS-10"
+      },
+      {
+        "ad": "NASA — TM 2000 209764 (cited by Wikipedia)",
+        "url": "http://ston.jsc.nasa.gov/collections/TRS/_techrep/TM-2000-209764.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Soyuz_MS-10",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Expedition 57 Crew Returns to Baikonur (NHQ201810110007).jpg [Public domain]",
+      "Soyuz MS-08 backup crew in front of the Soyuz spacecraft mockup.jpg [Public domain]",
+      "Expedition 57 Media Blessing (NHQ201810100006).jpg [Public domain]",
+      "Expedition 57 Crew Returns to Baikonur (NHQ201810110008).jpg [Public domain]",
+      "Expedition 57 Preflight (NHQ201810110062).jpg [Public domain]",
+      "Soyuz MS-10 crew aboard a Russian Federal Space Agency aircraft.jpg [Public domain]",
+      "Soyuz MS-10 crew at the airport in Baikonur.jpg [Public domain]"
+    ]
+  }
+}

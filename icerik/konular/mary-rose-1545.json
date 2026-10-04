@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Henry VIII's Warship Sank With Its Gunports Open",
+  "kaynaklar": [
+    {
+      "ad": "mary-rose-1545-1.jpg",
+      "wikimedia": "AnthonyRoll-2 Mary Rose.jpg"
+    },
+    {
+      "ad": "mary-rose-1545-2.png",
+      "wikimedia": "Bronze Demi Cannon Culverins Pmoth.png"
+    },
+    {
+      "ad": "mary-rose-1545-3.jpg",
+      "wikimedia": "AnthonyRoll-2 Mary Rose cropped.jpg"
+    },
+    {
+      "ad": "mary-rose-1545-4.jpg",
+      "wikimedia": "Mary Rose and Henry Grace à Dieu.jpg"
+    },
+    {
+      "ad": "mary-rose-1545-5.png",
+      "wikimedia": "Mary Rose Guns ForeBronzeCulverin RearWroughtIronCannon.png"
+    },
+    {
+      "ad": "mary-rose-1545-6.jpg",
+      "wikimedia": "Mary Rose iron gun watercolor.jpg"
+    },
+    {
+      "ad": "mary-rose-1545-7.jpg",
+      "wikimedia": "Mary Rose returns to Portsmouth.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "King Henry the Eighth's warship Mary Rose sank in front of his eyes.",
+      "kaynak": "Footage/mary-rose-1545-1.jpg"
+    },
+    {
+      "metin": "Within minutes, most of the crew were dead.",
+      "kaynak": "Footage/mary-rose-1545-2.png"
+    },
+    {
+      "metin": "It had been turning during a battle with the French.",
+      "kaynak": "Footage/mary-rose-1545-3.jpg"
+    },
+    {
+      "metin": "As it turned, the ship heeled over.",
+      "kaynak": "Footage/mary-rose-1545-4.jpg"
+    },
+    {
+      "metin": "Its lower gunports were open and close to the water.",
+      "kaynak": "Footage/mary-rose-1545-5.png"
+    },
+    {
+      "metin": "The sea poured in.",
+      "kaynak": "Footage/mary-rose-1545-6.jpg"
+    },
+    {
+      "metin": "The wreck was raised centuries later and studied in detail.",
+      "kaynak": "Footage/mary-rose-1545-7.jpg"
+    },
+    {
+      "metin": "It remains one of the best-studied ships in history.",
+      "kaynak": "Footage/mary-rose-1545-1.jpg"
+    }
+  ],
+  "aciklama": "Mary Rose heeled over and sank during battle. The cause: heeling in a turn with open gunports close to the waterline.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Mary Rose",
+    "1545",
+    "warship",
+    "engineering failure"
+  ],
+  "hook": "The ports were open",
+  "soru": "Guns or water?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Mary Rose",
+    "kisa": "Mary Rose",
+    "nesne": "Warship",
+    "yil": 1545,
+    "sonuc": "heeled over and sank during battle",
+    "tetik": "water entering open lower gunports as the ship turned",
+    "mekanizma": "heeling in a turn with open gunports close to the waterline",
+    "sayi": "OPEN GUNPORTS",
+    "ders": "the recovered wreck became one of the most studied ships in history",
+    "zincir": [
+      "GUNPORTS CLOSE TO WATERLINE",
+      "SHIP TURNS",
+      "HEELS OVER",
+      "WATER FLOODS THROUGH PORTS",
+      "SINKS IN MINUTES"
+    ],
+    "zaman": [],
+    "yanilgi": "It likely wasn't sunk by French guns. Most evidence points to water pouring in through its own open gunports.",
+    "tartisma": "The exact cause is still debated. What evidence would settle it?",
+    "basliklar": [
+      "Henry VIII's Warship Sank With Its Gunports Open",
+      "Why the Mary Rose Sank",
+      "The Gunports That Let the Sea In"
+    ],
+    "kapak": [
+      "PORTS OPEN",
+      "IN MINUTES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mary Rose",
+        "url": "https://en.wikipedia.org/wiki/Mary_Rose"
+      },
+      {
+        "ad": "Government source — PMC8097207 (cited by Wikipedia)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8097207"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-04",
+    "wiki": "Mary_Rose",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "AnthonyRoll-2 Mary Rose.jpg [Public domain]",
+      "Bronze Demi Cannon Culverins Pmoth.png [Public domain]",
+      "AnthonyRoll-2 Mary Rose cropped.jpg [Public domain]",
+      "Mary Rose and Henry Grace à Dieu.jpg [CC BY 4.0]",
+      "Mary Rose Guns ForeBronzeCulverin RearWroughtIronCannon.png [Public domain]",
+      "Mary Rose iron gun watercolor.jpg [Public domain]",
+      "Mary Rose returns to Portsmouth.jpg [CC BY 4.0]"
+    ]
+  }
+}

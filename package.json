@@ -1,13 +1,40 @@
 {
   "name": "youtube-otomasyon",
   "version": "1.0.0",
-  "description": "Faceless AI YouTube icerik otomasyon paneli (localhost)",
+  "description": "Video icerik otomasyon paneli (localhost) — YouTube, Shorts, Reels, TikTok",
   "private": true,
   "scripts": {
-    "start": "node server.js"
+    "start": "node panel.js",
+    "panel": "node panel.js",
+    "test": "node --test tests/js/*.test.js && python3 -m unittest discover -s tests",
+    "test:js": "node --test tests/js/*.test.js",
+    "test:multi-channel": "node --test tests/js/multi-channel.test.js",
+    "test:impossible-brief": "node e2e-impossible-brief.js",
+    "test:critical-thread": "node e2e-critical-thread.js --render",
+    "test:behind-the-ordinary": "node e2e-behind-the-ordinary.js",
+    "oauth:health": "node oauth-health.js --check-all",
+    "simulate:portfolio": "node simulate-portfolio.js",
+    "report:daily": "node daily-operations-report.js",
+    "library:impossible-brief": "node library-health.js --channel impossible-brief",
+    "library:behind-the-ordinary": "node library-health.js --channel behind-the-ordinary",
+    "topics:behind-the-ordinary": "node scripts/generate-behind-the-ordinary-topics.js",
+    "library:failure-reconstructed:inventory": "node scripts/fr-library/build-inventory.js --write",
+    "gate": "node quality-gate.js --all",
+    "optimize": "node existing-video-optimizer.js --all",
+    "dashboard": "node panel.js",
+    "growth": "node growth.js status",
+    "growth:report": "node growth.js report",
+    "growth:report:failure-reconstructed": "node growth.js report --channel failure-reconstructed",
+    "growth:backfill": "node growth.js backfill --channel failure-reconstructed",
+    "growth:dry-run": "node growth.js dry-run",
+    "growth:simulate": "node growth.js simulate",
+    "test:growth": "node --test tests/js/growth.test.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.115.0",
     "msedge-tts": "^2.0.7"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }

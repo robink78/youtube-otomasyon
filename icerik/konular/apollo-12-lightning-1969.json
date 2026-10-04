@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Apollo 12 Was Struck by Lightning Twice During Launch",
+  "kaynaklar": [
+    {
+      "ad": "apollo-12-lightning-1.jpg",
+      "wikimedia": "Apollo 12 launches from Kennedy Space Center.jpg"
+    },
+    {
+      "ad": "apollo-12-lightning-2.jpg",
+      "wikimedia": "Saturn V Apollo 12.jpg"
+    },
+    {
+      "ad": "apollo-12-lightning-3.jpg",
+      "wikimedia": "(Left to right) Pete Conrad, Dick Gordon, and Al Bean pose with the Apollo 12 Saturn V.jpg"
+    },
+    {
+      "ad": "apollo-12-lightning-4.jpg",
+      "wikimedia": "Apollo 12 crew walk to transfer van (KSC-69PC-646).jpg"
+    },
+    {
+      "ad": "apollo-12-lightning-5.jpg",
+      "wikimedia": "Apollo 12 Saturn V on pad 39-A.jpg"
+    },
+    {
+      "ad": "apollo-12-lightning-6.jpg",
+      "wikimedia": "Apollo 12 Saturn V on Transporter - GPN-2000-001854.jpg"
+    },
+    {
+      "ad": "apollo-12-lightning-7.jpg",
+      "wikimedia": "Apollo 12 Saturn V rollout past the Mobile Service Structure (MSS).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Seconds after lift-off, Apollo 12 was struck by lightning.",
+      "kaynak": "Footage/apollo-12-lightning-1.jpg"
+    },
+    {
+      "metin": "Seconds later it was hit again, and warnings flooded the cabin.",
+      "kaynak": "Footage/apollo-12-lightning-2.jpg"
+    },
+    {
+      "metin": "The rocket itself had triggered the lightning in the clouds.",
+      "kaynak": "Footage/apollo-12-lightning-3.jpg"
+    },
+    {
+      "metin": "Fuel cells dropped offline and the data went haywire.",
+      "kaynak": "Footage/apollo-12-lightning-4.jpg"
+    },
+    {
+      "metin": "An engineer on the ground recalled an obscure switch setting.",
+      "kaynak": "Footage/apollo-12-lightning-5.jpg"
+    },
+    {
+      "metin": "Flipping it restored the data.",
+      "kaynak": "Footage/apollo-12-lightning-6.jpg"
+    },
+    {
+      "metin": "The mission went on to land on the Moon.",
+      "kaynak": "Footage/apollo-12-lightning-7.jpg"
+    },
+    {
+      "metin": "Launch rules now forbid flying through clouds like these.",
+      "kaynak": "Footage/apollo-12-lightning-1.jpg"
+    }
+  ],
+  "aciklama": "Apollo 12 was hit by lightning during launch. The cause: vehicle-triggered lightning knocking fuel cells offline and scrambling telemetry.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Apollo 12",
+    "1969",
+    "electrical system",
+    "engineering failure"
+  ],
+  "hook": "Struck twice",
+  "soru": "Would you know the switch?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Apollo 12",
+    "kisa": "Apollo 12",
+    "nesne": "Electrical system",
+    "yil": 1969,
+    "sonuc": "was hit by lightning during launch",
+    "tetik": "the rocket and its exhaust plume triggering lightning in clouds",
+    "mekanizma": "vehicle-triggered lightning knocking fuel cells offline and scrambling telemetry",
+    "sayi": "TWICE",
+    "ders": "launch rules now forbid launching through clouds that can trigger lightning",
+    "zincir": [
+      "LAUNCH INTO RAIN CLOUDS",
+      "ROCKET TRIGGERS LIGHTNING",
+      "FUEL CELLS DROP OFFLINE",
+      "TELEMETRY GARBLED",
+      "SCE TO AUX RESTORES DATA"
+    ],
+    "zaman": [],
+    "yanilgi": "There was no active thunderstorm overhead. The rocket itself triggered the lightning.",
+    "tartisma": "One engineer remembered an obscure switch that saved the mission. How do you capture knowledge like that?",
+    "basliklar": [
+      "Apollo 12 Was Struck by Lightning Twice During Launch",
+      "How Apollo 12 Survived Two Lightning Strikes",
+      "The Rocket That Triggered Its Own Lightning"
+    ],
+    "kapak": [
+      "STRUCK TWICE",
+      "SCE TO AUX"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Apollo 12",
+        "url": "https://en.wikipedia.org/wiki/Apollo_12"
+      },
+      {
+        "ad": "NASA — A12 MissionReport (cited by Wikipedia)",
+        "url": "http://www.hq.nasa.gov/alsj/a12/A12_MissionReport.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Apollo_12",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Apollo 12 launches from Kennedy Space Center.jpg [Public domain]",
+      "Saturn V Apollo 12.jpg [Public domain]",
+      "(Left to right) Pete Conrad, Dick Gordon, and Al Bean pose with the Apollo 12 Saturn V.jpg [Public domain]",
+      "Apollo 12 crew walk to transfer van (KSC-69PC-646).jpg [Public domain]",
+      "Apollo 12 Saturn V on pad 39-A.jpg [Public domain]",
+      "Apollo 12 Saturn V on Transporter - GPN-2000-001854.jpg [Public domain]",
+      "Apollo 12 Saturn V rollout past the Mobile Service Structure (MSS).jpg [Public domain]"
+    ]
+  }
+}

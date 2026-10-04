@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Tanker That Ran Onto a Reef It Knew Was There",
+  "kaynaklar": [
+    {
+      "ad": "exxon-valdez-1.jpg",
+      "wikimedia": "Exxon Valdez Cleanup.jpg"
+    },
+    {
+      "ad": "exxon-valdez-2.jpg",
+      "wikimedia": "Exxon Valdez Aerial.jpg"
+    },
+    {
+      "ad": "exxon-valdez-3.jpg",
+      "wikimedia": "Exxon Valdez Oil Spill (13266806523).jpg"
+    },
+    {
+      "ad": "exxon-valdez-4.jpg",
+      "wikimedia": "Dennis Kelso Interviewed by KCTS.jpg"
+    },
+    {
+      "ad": "exxon-valdez-5.jpg",
+      "wikimedia": "Valdez Trash Pile.jpg"
+    },
+    {
+      "ad": "exxon-valdez-6.jpg",
+      "wikimedia": "OilCleanupAfterValdezSpill.jpg"
+    },
+    {
+      "ad": "exxon-valdez-7.jpg",
+      "wikimedia": "Dead otter - Valdez spill.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A supertanker ran onto a reef in Alaska's Prince William Sound.",
+      "kaynak": "Footage/exxon-valdez-1.jpg"
+    },
+    {
+      "metin": "Its hull ripped open and crude oil spread across the water.",
+      "kaynak": "Footage/exxon-valdez-2.jpg"
+    },
+    {
+      "metin": "The reef was well known and on every chart.",
+      "kaynak": "Footage/exxon-valdez-3.jpg"
+    },
+    {
+      "metin": "The tanker had left the shipping lane to avoid ice.",
+      "kaynak": "Footage/exxon-valdez-4.jpg"
+    },
+    {
+      "metin": "It needed to turn back, and the turn wasn't made.",
+      "kaynak": "Footage/exxon-valdez-5.jpg"
+    },
+    {
+      "metin": "The crew was short-staffed and tired.",
+      "kaynak": "Footage/exxon-valdez-6.jpg"
+    },
+    {
+      "metin": "A single hull was all that held the oil in.",
+      "kaynak": "Footage/exxon-valdez-7.jpg"
+    },
+    {
+      "metin": "US law then phased in double-hulled tankers.",
+      "kaynak": "Footage/exxon-valdez-1.jpg"
+    }
+  ],
+  "aciklama": "Exxon Valdez ran aground and spilled oil into Prince William Sound. The cause: grounding on Bligh Reef after a planned turn was not executed, with a single hull.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Exxon Valdez",
+    "1989",
+    "tanker",
+    "engineering failure"
+  ],
+  "hook": "The reef was charted",
+  "soru": "Who was steering?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Exxon Valdez",
+    "kisa": "Exxon Valdez",
+    "nesne": "Tanker",
+    "yil": 1989,
+    "sonuc": "ran aground and spilled oil into Prince William Sound",
+    "tetik": "a missed turn around a charted reef",
+    "mekanizma": "grounding on Bligh Reef after a planned turn was not executed, with a single hull",
+    "sayi": "SINGLE HULL",
+    "ders": "the Oil Pollution Act of 1990 phased in double-hulled tankers",
+    "zincir": [
+      "DEVIATES TO AVOID ICE",
+      "TURN BACK NOT MADE",
+      "FATIGUED CREW",
+      "HITS BLIGH REEF",
+      "SINGLE HULL RUPTURES"
+    ],
+    "zaman": [],
+    "yanilgi": "The reef was well known and charted. The tanker hit it because a planned turn was never made.",
+    "tartisma": "The crew was short-staffed and tired. How much of the blame belongs to staffing decisions?",
+    "basliklar": [
+      "The Tanker That Ran Onto a Reef It Knew Was There",
+      "Why the Exxon Valdez Ran Aground",
+      "The Missed Turn That Spilled Millions of Gallons"
+    ],
+    "kapak": [
+      "MISSED TURN",
+      "SINGLE HULL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Exxon Valdez oil spill",
+        "url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill"
+      },
+      {
+        "ad": "NOAA — Oil Spill Case Histories (cited by Wikipedia)",
+        "url": "http://response.restoration.noaa.gov/sites/default/files/Oil_Spill_Case_Histories.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "Exxon_Valdez_oil_spill",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Exxon Valdez Cleanup.jpg [Public domain]",
+      "Exxon Valdez Aerial.jpg [Public domain]",
+      "Exxon Valdez Oil Spill (13266806523).jpg [Public domain]",
+      "Dennis Kelso Interviewed by KCTS.jpg [Public domain]",
+      "Valdez Trash Pile.jpg [Public domain]",
+      "OilCleanupAfterValdezSpill.jpg [Public domain]",
+      "Dead otter - Valdez spill.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Small Talk That Created the Sterile Cockpit Rule",
+  "kaynaklar": [
+    {
+      "ad": "eastern-212-1.jpg",
+      "wikimedia": "Aerial View of Flight 212s crash site.jpg"
+    },
+    {
+      "ad": "eastern-212-2.jpg",
+      "wikimedia": "N8984E Eastern Air Lines.jpg"
+    },
+    {
+      "ad": "eastern-212-3.jpg",
+      "wikimedia": "Fragment MET 28.99.212.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A DC-9 crashed in fog several miles short of the Charlotte runway.",
+      "kaynak": "Footage/eastern-212-1.jpg"
+    },
+    {
+      "metin": "It broke apart and burned, and seventy two of eighty two aboard were killed.",
+      "kaynak": "Footage/eastern-212-2.jpg"
+    },
+    {
+      "metin": "Nothing was wrong with the aircraft.",
+      "kaynak": "Footage/eastern-212-3.jpg"
+    },
+    {
+      "metin": "On approach, the crew talked about politics and cars.",
+      "kaynak": "Footage/eastern-212-1.jpg"
+    },
+    {
+      "metin": "Nobody watched the altitude closely.",
+      "kaynak": "Footage/eastern-212-2.jpg"
+    },
+    {
+      "metin": "The jet descended far below the safe height.",
+      "kaynak": "Footage/eastern-212-3.jpg"
+    },
+    {
+      "metin": "Investigators blamed a lack of attention.",
+      "kaynak": "Footage/eastern-212-1.jpg"
+    },
+    {
+      "metin": "It led to the sterile cockpit rule.",
+      "kaynak": "Footage/eastern-212-2.jpg"
+    }
+  ],
+  "aciklama": "Eastern 212 crashed short of the runway at Charlotte. The cause: descent below safe altitude while the crew failed to monitor instruments.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Eastern 212",
+    "1974",
+    "cockpit",
+    "engineering failure"
+  ],
+  "hook": "They were chatting",
+  "soru": "Can rules control attention?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Eastern Air Lines Flight 212",
+    "kisa": "Eastern 212",
+    "nesne": "Cockpit",
+    "yil": 1974,
+    "sonuc": "crashed short of the runway at Charlotte",
+    "tetik": "a crew distracted by idle conversation during approach",
+    "mekanizma": "descent below safe altitude while the crew failed to monitor instruments",
+    "sayi": "72 OF 82",
+    "ders": "the sterile cockpit rule banned non-essential talk during critical phases",
+    "zincir": [
+      "FOG ON APPROACH",
+      "CREW CHATS",
+      "ALTITUDE NOT MONITORED",
+      "JET DESCENDS TOO LOW",
+      "CRASH SHORT OF RUNWAY"
+    ],
+    "zaman": [],
+    "yanilgi": "Nothing broke on the aircraft. The crew's attention drifted during the most critical minutes.",
+    "tartisma": "A rule now bans casual talk below a set altitude. Can rules control attention?",
+    "basliklar": [
+      "The Small Talk That Created the Sterile Cockpit Rule",
+      "Why Eastern Flight 212 Crashed",
+      "The Conversation That Changed Cockpit Rules"
+    ],
+    "kapak": [
+      "SMALL TALK",
+      "TOO LOW"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Eastern Air Lines Flight 212",
+        "url": "https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_212"
+      },
+      {
+        "ad": "NTSB — AAR7509 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR7509.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-16",
+    "wiki": "Eastern_Air_Lines_Flight_212",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Aerial View of Flight 212s crash site.jpg [Public domain]",
+      "N8984E Eastern Air Lines.jpg [CC BY 4.0]",
+      "Fragment MET 28.99.212.jpg [CC0]"
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": 6,
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "baslik": "The 94-Second Fuse That Burned the USS Forrestal",
+  "kaynaklar": [
+    {
+      "ad": "forrestal.ogv",
+      "wikimedia": "Trial by Fire - A Carrier Fights for Life.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "One stray electrical pulse nearly destroyed the carrier Forrestal.",
+      "kaynak": "Footage/forrestal.ogv",
+      "baslangic": 234
+    },
+    {
+      "metin": "A rocket fired by itself and burst a jet's fuel tank.",
+      "kaynak": "Footage/forrestal.ogv",
+      "baslangic": 241
+    },
+    {
+      "metin": "But the real danger was hidden below the planes: loaded bombs.",
+      "kaynak": "Footage/forrestal.ogv",
+      "baslangic": 398
+    },
+    {
+      "metin": "Burning jet fuel spread right beneath them.",
+      "kaynak": "Footage/forrestal.ogv",
+      "baslangic": 421
+    },
+    {
+      "metin": "The bombs were old, far more heat-sensitive than expected.",
+      "kaynak": "Footage/forrestal.ogv",
+      "baslangic": 468
+    },
+    {
+      "metin": "After ninety-four seconds, one exploded and killed most of the fire team.",
+      "kaynak": "Footage/forrestal.ogv",
+      "baslangic": 304
+    },
+    {
+      "metin": "134 sailors died, and the Navy rebuilt its firefighting.",
+      "kaynak": "Footage/forrestal.ogv",
+      "baslangic": 726
+    },
+    {
+      "metin": "Now every carrier has deck sprinklers, and every sailor fights fire.",
+      "kaynak": "Footage/forrestal.ogv",
+      "baslangic": 796
+    }
+  ],
+  "aciklama": "On July 29, 1967, a stray electrical pulse fired a rocket across the deck of the USS Forrestal. Jet fuel burned under old bombs that cooked off in 94 seconds.\n\n#shorts #engineering #navy",
+  "etiketler": [
+    "USS Forrestal",
+    "1967 fire",
+    "aircraft carrier",
+    "Zuni rocket",
+    "bomb cook-off",
+    "damage control",
+    "US Navy"
+  ],
+  "hook": "The 94-second fuse",
+  "soru": "Should every sailor be a firefighter?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the USS Forrestal fire",
+    "kisa": "USS Forrestal",
+    "nesne": "Aircraft carrier",
+    "yil": 1967,
+    "sonuc": "burned with 134 sailors lost",
+    "tetik": "a stray voltage that fired a Zuni rocket",
+    "mekanizma": "bomb cook-off in a jet-fuel fire",
+    "sayi": "94 SECONDS",
+    "ders": "carriers got flight-deck washdown systems and every sailor now trains in firefighting",
+    "zincir": [
+      "STRAY VOLTAGE FIRES ZUNI ROCKET",
+      "ROCKET RUPTURES A-4 FUEL TANK",
+      "JP-5 FIRE SPREADS UNDER BOMBS",
+      "OLD BOMBS COOK OFF AT 94 s",
+      "FIRE TEAM LOST, FIRE SPREADS"
+    ],
+    "zaman": [
+      {
+        "t": "Jul 29, 1967 10:51",
+        "olay": "Power surge fires a Zuni rocket from an F-4 Phantom"
+      },
+      {
+        "t": "+~10 s",
+        "olay": "Fuel from a ruptured A-4 tank ignites on deck"
+      },
+      {
+        "t": "+94 s",
+        "olay": "First bomb detonates, killing most of the firefighting team"
+      },
+      {
+        "t": "Hours later",
+        "olay": "Fires out — 134 dead, 161 injured"
+      }
+    ],
+    "yanilgi": "The sailors weren't careless: untrained crew spraying seawater unknowingly washed away the foam others had laid — a training gap, not a lack of courage.",
+    "tartisma": "The old bombs were used because newer ones were in short supply. Is 'use what you have' ever acceptable with explosives?",
+    "basliklar": [
+      "The 94-Second Fuse That Burned the USS Forrestal",
+      "One Stray Voltage, 134 Sailors Lost",
+      "How a Rocket Fired Itself on an Aircraft Carrier",
+      "Why Old Bombs Turned a Fire Into a Catastrophe"
+    ],
+    "kapak": [
+      "94 SECONDS",
+      "STRAY VOLTAGE",
+      "COOK-OFF"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1967 USS Forrestal fire",
+        "url": "https://en.wikipedia.org/wiki/1967_USS_Forrestal_fire"
+      }
+    ]
+  }
+}

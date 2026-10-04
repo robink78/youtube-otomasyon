@@ -1,0 +1,16 @@
+{
+  "uploadChannel": "critical-thread",
+  "expectedYouTubeChannelId": "UCBTEWcPZvo4B71hFw9Do_NA",
+  "uploadEnabled": false,
+  "privacy": "private",
+  "categoryId": "27",
+  "title": "When wire-bonding machine Becomes the Bottleneck",
+  "description": "What does modern life quietly depend on in wire-bonding machine, and what changes when it is unavailable?\n\nSources:\n- ASML technology: https://www.asml.com/en/technology\n- SEMI industry research: https://www.semi.org/en/market-data\n\nTechnical illustrations and dependency models are labelled. Estimates and industry claims are attributed; modeled consequences are not presented as observed fact.",
+  "tags": [
+    "infrastructure",
+    "engineering",
+    "supply chain",
+    "semiconductors",
+    "CriticalThread"
+  ]
+}

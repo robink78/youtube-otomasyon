@@ -1,0 +1,136 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": 7.2,
+  "baslik": "The Life Preservers That Were Filled With Iron",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "kaynaklar": [
+    {
+      "ad": "f1.jpg",
+      "wikimedia": "PS General Slocum, East River.jpg"
+    },
+    {
+      "ad": "f2.jpg",
+      "wikimedia": "Among the oil barrels where fire started, showing defective life preservers and life boats. General Slocum Disaster, New York Harbor, June 15, 1904 LCCN2009632218.jpg"
+    },
+    {
+      "ad": "f3.jpg",
+      "wikimedia": "The mass of burned timbers and ruined metal, showing broken paddle wheels s(h)a(f)t. General Slocum Disaster, New York Harbor, June 15, 1904 LCCN2009632219.jpg"
+    },
+    {
+      "ad": "f4.jpg",
+      "wikimedia": "Stern view of the Slocum. What was left of the boat which had on board over 1400 people. General Slocum Disaster, June 15, 1904 LCCN2009632222.jpg"
+    },
+    {
+      "ad": "f5.jpg",
+      "wikimedia": "All that was left of the boat which carried over 1000 souls to destruction. General view of Slocum after being raised, Slocum Disaster, New York Harbor LCCN2009632223.jpg"
+    },
+    {
+      "ad": "f6.jpg",
+      "wikimedia": "PS General Slocum, sinking.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Over a thousand people died on a steamboat close to shore.",
+      "kaynak": "Footage/f1.jpg"
+    },
+    {
+      "metin": "Fire spread through the whole ship in minutes.",
+      "kaynak": "Footage/f2.jpg"
+    },
+    {
+      "metin": "So why could nobody escape on a boat surrounded by water?",
+      "kaynak": "Footage/f6.jpg"
+    },
+    {
+      "metin": "The life preservers were thirteen years old and crumbling.",
+      "kaynak": "Footage/f2.jpg"
+    },
+    {
+      "metin": "Some were packed with iron bars to reach the legal weight.",
+      "kaynak": "Footage/f2.jpg"
+    },
+    {
+      "metin": "They dragged people under instead of holding them up.",
+      "kaynak": "Footage/f3.jpg"
+    },
+    {
+      "metin": "The lifeboats were wired to the deck and would not launch.",
+      "kaynak": "Footage/f4.jpg"
+    },
+    {
+      "metin": "The inspector had passed it all. He went to prison.",
+      "kaynak": "Footage/f5.jpg"
+    }
+  ],
+  "aciklama": "On June 15, 1904, the steamboat General Slocum burned in New York Harbor. Its life preservers were rotten and weighted with iron; its lifeboats were wired in place.\n\n#shorts #engineering #history",
+  "etiketler": [
+    "General Slocum",
+    "1904",
+    "steamboat fire",
+    "life preservers",
+    "maritime safety",
+    "New York"
+  ],
+  "hook": "Life vests full of iron",
+  "soru": "Who checks the inspector?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the General Slocum fire",
+    "kisa": "General Slocum",
+    "nesne": "Steamboat",
+    "yil": 1904,
+    "sonuc": "burned with over a thousand dead",
+    "tetik": "a fire in a forward storage room",
+    "mekanizma": "safety equipment that passed inspection but did not work",
+    "sayi": "1,000+ DEAD",
+    "ders": "US steamboat inspection was overhauled and life preservers got material standards and expiry rules",
+    "zincir": [
+      "FIRE STARTS IN STORAGE ROOM",
+      "ROTTEN 13-YEAR-OLD LIFE PRESERVERS",
+      "SOME WEIGHTED WITH IRON TO PASS",
+      "LIFEBOATS WIRED TO THE DECK",
+      "INSPECTION HAD PASSED IT ALL"
+    ],
+    "zaman": [
+      {
+        "t": "Jun 15, 1904 09:30",
+        "olay": "Church excursion boards for a day trip"
+      },
+      {
+        "t": "~10:00",
+        "olay": "Fire found in a forward storage room"
+      },
+      {
+        "t": "Minutes later",
+        "olay": "Fire spreads; life preservers fail, lifeboats will not launch"
+      },
+      {
+        "t": "After",
+        "olay": "Inspector convicted; federal steamboat inspection rewritten"
+      }
+    ],
+    "yanilgi": "The ship was not far from shore and the water was survivable: people died because the safety equipment was fake, not because rescue was impossible.",
+    "tartisma": "The equipment passed inspection because someone signed a form. What makes an inspection real rather than a signature?",
+    "basliklar": [
+      "The Life Preservers That Were Filled With Iron",
+      "Why 1,000 People Died a Few Metres From Shore",
+      "The Safety Gear That Existed Only on Paper",
+      "General Slocum: The Inspection That Killed"
+    ],
+    "kapak": [
+      "FILLED WITH IRON",
+      "1,000+ DEAD",
+      "PASSED INSPECTION"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — PS General Slocum",
+        "url": "https://en.wikipedia.org/wiki/PS_General_Slocum"
+      }
+    ]
+  }
+}

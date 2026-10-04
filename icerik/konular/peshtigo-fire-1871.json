@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Deadliest Wildfire in History Burned the Same Night as Chicago",
+  "kaynaklar": [
+    {
+      "ad": "peshtigo-fire-1.jpg",
+      "wikimedia": "The Peshtigo Fire showing people seeking refuge in the Peshtigo River.jpg"
+    },
+    {
+      "ad": "peshtigo-fire-2.jpg",
+      "wikimedia": "Bird's eye view of Peshtigo, Wisconsin Sept. 1871. LOC 93681235.jpg"
+    },
+    {
+      "ad": "peshtigo-fire-3.jpg",
+      "wikimedia": "Peshtigo Harbor, Wisconsin, 1871.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On the night Chicago burned, a far deadlier fire swept Wisconsin.",
+      "kaynak": "Footage/peshtigo-fire-1.jpg"
+    },
+    {
+      "metin": "It became a firestorm that killed well over a thousand people.",
+      "kaynak": "Footage/peshtigo-fire-2.jpg"
+    },
+    {
+      "metin": "Settlers and railroads cleared forest with fire.",
+      "kaynak": "Footage/peshtigo-fire-3.jpg"
+    },
+    {
+      "metin": "The weather had been unusually dry.",
+      "kaynak": "Footage/peshtigo-fire-1.jpg"
+    },
+    {
+      "metin": "A cold front brought strong winds.",
+      "kaynak": "Footage/peshtigo-fire-2.jpg"
+    },
+    {
+      "metin": "Many small fires merged into one.",
+      "kaynak": "Footage/peshtigo-fire-3.jpg"
+    },
+    {
+      "metin": "It burned more than a million acres.",
+      "kaynak": "Footage/peshtigo-fire-1.jpg"
+    },
+    {
+      "metin": "It's the deadliest wildfire in recorded history.",
+      "kaynak": "Footage/peshtigo-fire-2.jpg"
+    }
+  ],
+  "aciklama": "Peshtigo burned across Wisconsin and Michigan. The cause: slash-and-burn fires merging into a firestorm driven by strong winds.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Peshtigo",
+    "1871",
+    "firestorm",
+    "engineering failure"
+  ],
+  "hook": "The deadliest fire is forgotten",
+  "soru": "Why are some disasters forgotten?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Peshtigo fire",
+    "kisa": "Peshtigo",
+    "nesne": "Firestorm",
+    "yil": 1871,
+    "sonuc": "burned across Wisconsin and Michigan",
+    "tetik": "a cold front merging many land-clearing fires",
+    "mekanizma": "slash-and-burn fires merging into a firestorm driven by strong winds",
+    "sayi": "FIRESTORM",
+    "ders": "the fire became a key case in understanding firestorms",
+    "zincir": [
+      "DRY SEASON",
+      "LAND-CLEARING FIRES",
+      "COLD FRONT WINDS",
+      "FIRES MERGE",
+      "FIRESTORM"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't one fire. Many small clearing fires merged into one.",
+    "tartisma": "It killed far more than Chicago but is barely remembered. Why do some disasters get forgotten?",
+    "basliklar": [
+      "The Deadliest Wildfire in History Burned the Same Night as Chicago",
+      "Why the Peshtigo Fire Was So Deadly",
+      "The Forgotten Fire That Killed Thousands"
+    ],
+    "kapak": [
+      "FORGOTTEN",
+      "FIRESTORM"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Peshtigo fire",
+        "url": "https://en.wikipedia.org/wiki/Peshtigo_fire"
+      },
+      {
+        "ad": "NASA — ast27jul 1 (cited by Wikipedia)",
+        "url": "https://science.nasa.gov/science-news/science-at-nasa/2001/ast27jul_1/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-tmp",
+    "wiki": "Peshtigo_fire",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "The Peshtigo Fire showing people seeking refuge in the Peshtigo River.jpg [Public domain]",
+      "Bird's eye view of Peshtigo, Wisconsin Sept. 1871. LOC 93681235.jpg [Public domain]",
+      "Peshtigo Harbor, Wisconsin, 1871.jpg [Public domain]"
+    ]
+  }
+}

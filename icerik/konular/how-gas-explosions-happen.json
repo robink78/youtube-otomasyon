@@ -1,0 +1,92 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why a Tiny Gas Leak Levels a Building",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "Invisible until its too late",
+  "soru": "Smell gas? What next?",
+  "arama_yedek": "gas flame fire",
+  "aciklama": "A gas leak you can barely smell can flatten an entire building. Here is the deadly chemistry.\n\n#shorts #science #safety #explosion #howitworks",
+  "etiketler": [
+    "gas explosion",
+    "fire",
+    "science",
+    "safety",
+    "explosion"
+  ],
+  "sahneler": [
+    {
+      "metin": "A leak you can barely smell can level a whole building.",
+      "arama": "building explosion"
+    },
+    {
+      "metin": "One spark, and the room explodes before the flames even spread.",
+      "arama": "fire flames"
+    },
+    {
+      "metin": "Natural gas is odorless. The smell is added to warn you.",
+      "arama": "gas stove burner"
+    },
+    {
+      "metin": "A slow leak fills the room with an explosive gas-air mixture.",
+      "arama": "empty room"
+    },
+    {
+      "metin": "Then a light switch or doorbell is enough.",
+      "arama": "light switch"
+    },
+    {
+      "metin": "The shockwave blows walls out in an instant.",
+      "arama": "demolition explosion"
+    },
+    {
+      "metin": "That is why you never flip a switch if you smell gas.",
+      "arama": "gas warning"
+    },
+    {
+      "metin": "Open windows, get out, and call from outside.",
+      "arama": "firefighters building"
+    }
+  ],
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "mekanizma",
+    "ad": "Gas Leaks",
+    "nesne": "House",
+    "sonuc": "level buildings",
+    "tetik": "one tiny spark",
+    "mekanizma": "ignition of a gas-air mixture",
+    "sayi": "ONE SPARK",
+    "ders": "never flip a switch if you smell gas",
+    "zincir": [
+      "SLOW GAS LEAK",
+      "GAS-AIR MIX IN RANGE",
+      "SPARK FROM SWITCH OR APPLIANCE",
+      "WHOLE ROOM IGNITES",
+      "PRESSURE BLOWS OUT WALLS"
+    ],
+    "yanilgi": "A gas explosion isn't mainly a fire — it's a pressure event. Walls fail from the push before the flames spread.",
+    "tartisma": "Should every home with gas have a methane detector, the way homes have smoke alarms?",
+    "basliklar": [
+      "Why One Tiny Spark Can Level a House",
+      "Smell Gas? Why the Light Switch Is Dangerous",
+      "The Pressure Blast Hidden in a Gas Leak"
+    ],
+    "kapak": [
+      "ONE SPARK",
+      "DON'T TOUCH IT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Gas explosion",
+        "url": "https://en.wikipedia.org/wiki/Gas_explosion"
+      },
+      {
+        "ad": "Wikipedia — Natural gas",
+        "url": "https://en.wikipedia.org/wiki/Natural_gas"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Sensors on an Abandoned Pipe Overpressured a Whole Gas Network",
+  "kaynaklar": [
+    {
+      "ad": "merrimack-valley-1.jpg",
+      "wikimedia": "Merrimack Valley gas explosions house (48787740283).jpg"
+    },
+    {
+      "ad": "merrimack-valley-2.jpg",
+      "wikimedia": "Governor-baker-lt-governor-polito-join-officials-to-dedicate-lawrence-square 48743922612 o.jpg"
+    },
+    {
+      "ad": "merrimack-valley-3.jpg",
+      "wikimedia": "Governor-baker-lt-governor-polito-join-officials-to-dedicate-lawrence-square 48743923442 o.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In Massachusetts, gas fires and explosions hit dozens of homes at once.",
+      "kaynak": "Footage/merrimack-valley-1.jpg"
+    },
+    {
+      "metin": "Within hours, houses burned across three towns, and one person was killed.",
+      "kaynak": "Footage/merrimack-valley-2.jpg"
+    },
+    {
+      "metin": "Workers had taken an old gas main out of service.",
+      "kaynak": "Footage/merrimack-valley-3.jpg"
+    },
+    {
+      "metin": "But sensing lines for the pressure regulators were still attached to it.",
+      "kaynak": "Footage/merrimack-valley-1.jpg"
+    },
+    {
+      "metin": "The regulators read zero pressure.",
+      "kaynak": "Footage/merrimack-valley-2.jpg"
+    },
+    {
+      "metin": "So they opened fully and flooded the network with high pressure gas.",
+      "kaynak": "Footage/merrimack-valley-3.jpg"
+    },
+    {
+      "metin": "Appliances and pipes couldn't handle it.",
+      "kaynak": "Footage/merrimack-valley-1.jpg"
+    },
+    {
+      "metin": "Gas work plans now need engineering review of these lines.",
+      "kaynak": "Footage/merrimack-valley-2.jpg"
+    }
+  ],
+  "aciklama": "Merrimack Valley had fires and explosions in dozens of homes. The cause: regulators opening fully after sensing low pressure on an abandoned main, overpressuring low-pressure lines.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Merrimack Valley",
+    "2018",
+    "gas regulator",
+    "engineering failure"
+  ],
+  "hook": "The sensors read a dead pipe",
+  "soru": "How detailed must a plan be?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Merrimack Valley gas network",
+    "kisa": "Merrimack Valley",
+    "nesne": "Gas regulator",
+    "yil": 2018,
+    "sonuc": "had fires and explosions in dozens of homes",
+    "tetik": "regulator sensing lines left on a pipe taken out of service",
+    "mekanizma": "regulators opening fully after sensing low pressure on an abandoned main, overpressuring low-pressure lines",
+    "sayi": "ONE HOUR",
+    "ders": "gas work plans now need engineering review of sensing lines",
+    "zincir": [
+      "OLD MAIN TAKEN OUT OF SERVICE",
+      "SENSING LINES STILL ATTACHED",
+      "REGULATORS READ ZERO PRESSURE",
+      "REGULATORS OPEN FULLY",
+      "HOMES OVERPRESSURED"
+    ],
+    "zaman": [],
+    "yanilgi": "Nothing was leaking at first. The regulators were doing exactly what their sensors told them.",
+    "tartisma": "The work plan didn't include the sensing lines. How detailed must a plan be?",
+    "basliklar": [
+      "Sensors on an Abandoned Pipe Overpressured a Whole Gas Network",
+      "Why the Merrimack Valley Gas Explosions Happened",
+      "The Sensor Lines Left on a Dead Pipe"
+    ],
+    "kapak": [
+      "WRONG SENSOR",
+      "OVERPRESSURE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Merrimack Valley gas explosions",
+        "url": "https://en.wikipedia.org/wiki/Merrimack_Valley_gas_explosions"
+      },
+      {
+        "ad": "NTSB — PAR1902 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/PAR1902.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "Merrimack_Valley_gas_explosions",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Merrimack Valley gas explosions house (48787740283).jpg [Public domain]",
+      "Governor-baker-lt-governor-polito-join-officials-to-dedicate-lawrence-square 48743922612 o.jpg [Public domain]",
+      "Governor-baker-lt-governor-polito-join-officials-to-dedicate-lawrence-square 48743923442 o.jpg [Public domain]"
+    ]
+  }
+}

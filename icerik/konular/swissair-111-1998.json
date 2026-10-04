@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Burning Insulation Brought Down Swissair 111",
+  "kaynaklar": [
+    {
+      "ad": "swissair-111-1.jpg",
+      "wikimedia": "Defense.gov News Photo 980913-N-3093M-012.jpg"
+    },
+    {
+      "ad": "swissair-111-2.jpg",
+      "wikimedia": "Defense.gov News Photo 980914-N-8492C-001.jpg"
+    },
+    {
+      "ad": "swissair-111-3.jpg",
+      "wikimedia": "Defense.gov News Photo 980915-N-8492C-504.jpg"
+    },
+    {
+      "ad": "swissair-111-4.jpg",
+      "wikimedia": "Hudson03.jpg"
+    },
+    {
+      "ad": "swissair-111-5.jpg",
+      "wikimedia": "Swissair Flight 111 wreckage.jpg"
+    },
+    {
+      "ad": "swissair-111-6.jpg",
+      "wikimedia": "Peggy's Cove Swissair Flight 111 Memorial.jpg"
+    },
+    {
+      "ad": "swissair-111-7.jpg",
+      "wikimedia": "Swissair 111 debris.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An airliner crashed into the Atlantic off Nova Scotia.",
+      "kaynak": "Footage/swissair-111-1.jpg"
+    },
+    {
+      "metin": "It had caught fire in flight, and all two hundred twenty nine aboard were killed.",
+      "kaynak": "Footage/swissair-111-2.jpg"
+    },
+    {
+      "metin": "The crew smelled smoke in the cockpit.",
+      "kaynak": "Footage/swissair-111-3.jpg"
+    },
+    {
+      "metin": "The fire was hidden above the ceiling.",
+      "kaynak": "Footage/swissair-111-4.jpg"
+    },
+    {
+      "metin": "Arcing wires had ignited the insulation blankets there.",
+      "kaynak": "Footage/swissair-111-5.jpg"
+    },
+    {
+      "metin": "The fire spread unseen and knocked out systems one by one.",
+      "kaynak": "Footage/swissair-111-6.jpg"
+    },
+    {
+      "metin": "The jet went down before it could land.",
+      "kaynak": "Footage/swissair-111-7.jpg"
+    },
+    {
+      "metin": "Flammable insulation was replaced across airliner fleets.",
+      "kaynak": "Footage/swissair-111-1.jpg"
+    }
+  ],
+  "aciklama": "Swissair 111 crashed into the Atlantic after a cockpit fire. The cause: electrical arcing igniting flammable insulation blankets in the ceiling.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Swissair 111",
+    "1998",
+    "wiring",
+    "engineering failure"
+  ],
+  "hook": "The fire was hidden",
+  "soru": "Land now, or dump fuel first?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "Swissair Flight 111",
+    "kisa": "Swissair 111",
+    "nesne": "Wiring",
+    "yil": 1998,
+    "sonuc": "crashed into the Atlantic after a cockpit fire",
+    "tetik": "arcing wires above the cockpit ceiling",
+    "mekanizma": "electrical arcing igniting flammable insulation blankets in the ceiling",
+    "sayi": "229 KILLED",
+    "ders": "flammable insulation blankets were replaced across airliner fleets",
+    "zincir": [
+      "WIRE ARCS IN THE CEILING",
+      "INSULATION BLANKET IGNITES",
+      "FIRE SPREADS UNSEEN",
+      "SYSTEMS FAIL",
+      "JET CRASHES INTO THE SEA"
+    ],
+    "zaman": [],
+    "yanilgi": "The smell of smoke seemed minor at first. The real fire was hidden above the ceiling, spreading along the insulation.",
+    "tartisma": "The crew prepared to dump fuel before landing. Should a fire always mean landing immediately?",
+    "basliklar": [
+      "Burning Insulation Brought Down Swissair 111",
+      "Why Swissair Flight 111 Crashed",
+      "The Hidden Fire Above the Cockpit"
+    ],
+    "kapak": [
+      "HIDDEN FIRE",
+      "229 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Swissair Flight 111",
+        "url": "https://en.wikipedia.org/wiki/Swissair_Flight_111"
+      },
+      {
+        "ad": "Transportation Safety Board of Canada — a98h0003 (cited by Wikipedia)",
+        "url": "https://www.tsb.gc.ca/sites/default/files/rapports-reports/aviation/A98H0003/eng/a98h0003.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Swissair_Flight_111",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Defense.gov News Photo 980913-N-3093M-012.jpg [Public domain]",
+      "Defense.gov News Photo 980914-N-8492C-001.jpg [Public domain]",
+      "Defense.gov News Photo 980915-N-8492C-504.jpg [Public domain]",
+      "Hudson03.jpg [Public domain]",
+      "Swissair Flight 111 wreckage.jpg [Public domain]",
+      "Peggy's Cove Swissair Flight 111 Memorial.jpg [CC BY 4.0]",
+      "Swissair 111 debris.jpg [Public domain]"
+    ]
+  }
+}

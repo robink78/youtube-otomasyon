@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The New Zealand Mine With One Way Out",
+  "kaynaklar": [
+    {
+      "ad": "pike-river-1.jpg",
+      "wikimedia": "Gg-pike-river-official-remembrance-service-2010-events-060.jpg"
+    },
+    {
+      "ad": "pike-river-2.jpg",
+      "wikimedia": "Gg-pike-river-official-remembrance-service-2010-events-crowd.jpg"
+    },
+    {
+      "ad": "pike-river-3.jpg",
+      "wikimedia": "Gg-pike-river-1st-anniversary-memorial-service-2011-005.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An explosion ripped through the Pike River coal mine in New Zealand.",
+      "kaynak": "Footage/pike-river-1.jpg"
+    },
+    {
+      "metin": "Twenty nine men underground were killed.",
+      "kaynak": "Footage/pike-river-2.jpg"
+    },
+    {
+      "metin": "The mine was new, still ramping up production.",
+      "kaynak": "Footage/pike-river-3.jpg"
+    },
+    {
+      "metin": "Methane was not being drained well enough.",
+      "kaynak": "Footage/pike-river-1.jpg"
+    },
+    {
+      "metin": "Gas warnings had been logged again and again.",
+      "kaynak": "Footage/pike-river-2.jpg"
+    },
+    {
+      "metin": "The mine had only one practical way out.",
+      "kaynak": "Footage/pike-river-3.jpg"
+    },
+    {
+      "metin": "More explosions followed, making rescue impossible.",
+      "kaynak": "Footage/pike-river-1.jpg"
+    },
+    {
+      "metin": "New Zealand rewrote its workplace safety law.",
+      "kaynak": "Footage/pike-river-2.jpg"
+    }
+  ],
+  "aciklama": "Pike River exploded, trapping its workers underground. The cause: methane explosion in a mine with inadequate gas drainage and a single exit.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Pike River",
+    "2010",
+    "coal mine",
+    "engineering failure"
+  ],
+  "hook": "Only one way out",
+  "soru": "Why keep mining?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Pike River mine",
+    "kisa": "Pike River",
+    "nesne": "Coal mine",
+    "yil": 2010,
+    "sonuc": "exploded, trapping its workers underground",
+    "tetik": "a large build-up of methane in the mine",
+    "mekanizma": "methane explosion in a mine with inadequate gas drainage and a single exit",
+    "sayi": "29 MEN",
+    "ders": "New Zealand rewrote its workplace health and safety law",
+    "zincir": [
+      "METHANE DRAINAGE INADEQUATE",
+      "GAS WARNINGS REPEATED",
+      "EXPLOSION",
+      "ONLY ONE WAY OUT",
+      "MORE EXPLOSIONS FOLLOW"
+    ],
+    "zaman": [],
+    "yanilgi": "The mine wasn't old. It was new and still ramping up production when it exploded.",
+    "tartisma": "Gas warnings had been logged many times. Why did production continue?",
+    "basliklar": [
+      "The New Zealand Mine With One Way Out",
+      "Why the Pike River Mine Exploded",
+      "The Mine With a Single Exit"
+    ],
+    "kapak": [
+      "ONE WAY OUT",
+      "29 MEN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Pike River Mine disaster",
+        "url": "https://en.wikipedia.org/wiki/Pike_River_Mine_disaster"
+      },
+      {
+        "ad": "Government source — Pike River Mine Factsheet 201117  (cited by Wikipedia)",
+        "url": "https://www.beehive.govt.nz/sites/default/files/2017-11/Pike%20River%20Mine%20Factsheet%20201117%20.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Pike_River_Mine_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Gg-pike-river-official-remembrance-service-2010-events-060.jpg [CC BY 4.0]",
+      "Gg-pike-river-official-remembrance-service-2010-events-crowd.jpg [CC BY 4.0]",
+      "Gg-pike-river-1st-anniversary-memorial-service-2011-005.jpg [CC BY 4.0]"
+    ]
+  }
+}

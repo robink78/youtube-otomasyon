@@ -1,0 +1,129 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8.5,
+  "baslik": "Deepwater Horizon: The Test Result Nobody Believed",
+  "kaynaklar": [
+    {
+      "ad": "deepwater.ogv",
+      "wikimedia": "Deepwater Horizon fire seen by US Coast Guard helicopter.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Eleven workers died when this oil rig exploded.",
+      "kaynak": "Footage/deepwater.ogv",
+      "baslangic": 28
+    },
+    {
+      "metin": "Then the well burst open, gushing oil for 87 days.",
+      "kaynak": "Footage/deepwater.ogv",
+      "baslangic": 8
+    },
+    {
+      "metin": "It became the largest marine oil spill in history.",
+      "kaynak": "Footage/deepwater.ogv",
+      "baslangic": 16
+    },
+    {
+      "metin": "But the disaster began with a test result nobody believed.",
+      "kaynak": "Footage/deepwater.ogv",
+      "baslangic": 44
+    },
+    {
+      "metin": "A pressure test showed gas leaking past the cement seal.",
+      "kaynak": "Footage/deepwater.ogv",
+      "baslangic": 75
+    },
+    {
+      "metin": "Why? The crew misread it as fine and kept going.",
+      "kaynak": "Footage/deepwater.ogv",
+      "baslangic": 92
+    },
+    {
+      "metin": "When the blowout came, the preventer couldn't cut the bent drill pipe.",
+      "kaynak": "Footage/deepwater.ogv",
+      "baslangic": 100
+    },
+    {
+      "metin": "One bad reading, and one valve that couldn't close.",
+      "kaynak": "Footage/deepwater.ogv",
+      "baslangic": 112
+    }
+  ],
+  "aciklama": "On April 20, 2010, a blowout destroyed the Deepwater Horizon rig and killed 11 workers. A misread pressure test and a blowout preventer that could not seal the well turned it into the largest marine oil spill in history.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Deepwater Horizon",
+    "2010",
+    "oil spill",
+    "blowout preventer",
+    "Macondo",
+    "offshore drilling",
+    "negative pressure test"
+  ],
+  "hook": "The test nobody believed",
+  "soru": "Would you have stopped the job?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Deepwater Horizon",
+    "kisa": "Deepwater Horizon",
+    "nesne": "Offshore drilling rig",
+    "yil": 2010,
+    "sonuc": "exploded and sank, spilling oil for 87 days",
+    "tetik": "a misread negative pressure test",
+    "mekanizma": "well blowout after a failed cement barrier and a blowout preventer that could not seal",
+    "sayi": "87 DAYS",
+    "ders": "well-integrity tests and blowout preventers were overhauled under new US offshore safety rules",
+    "zincir": [
+      "CEMENT BARRIER FAILS",
+      "PRESSURE TEST MISREAD AS PASS",
+      "GAS RISES TO THE RIG",
+      "GAS IGNITES — RIG EXPLODES",
+      "BOP CAN'T CUT BUCKLED PIPE"
+    ],
+    "zaman": [
+      {
+        "t": "Apr 20, 2010 evening",
+        "olay": "Negative pressure test results interpreted as a pass"
+      },
+      {
+        "t": "21:49",
+        "olay": "Gas reaches the rig and ignites"
+      },
+      {
+        "t": "Apr 22",
+        "olay": "Rig sinks; well flows into the Gulf"
+      },
+      {
+        "t": "Jul 15",
+        "olay": "Well capped after 87 days"
+      }
+    ],
+    "yanilgi": "The blowout preventer was 'on' — it activated, but the drill pipe had buckled off-center, so its shear rams couldn't cut and seal it.",
+    "tartisma": "The test said something was wrong, and an explanation was found to make it look fine. How do you build a team that stops when data disagrees with the plan?",
+    "basliklar": [
+      "Deepwater Horizon: The Test Result Nobody Believed",
+      "Why Deepwater Horizon's Last Defense Failed",
+      "The Pressure Test That Could Have Saved 11 Lives",
+      "How One Misread Test Became the Largest Oil Spill"
+    ],
+    "kapak": [
+      "87 DAYS",
+      "MISREAD TEST",
+      "11 LOST"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Deepwater Horizon explosion",
+        "url": "https://en.wikipedia.org/wiki/Deepwater_Horizon_explosion"
+      },
+      {
+        "ad": "US Chemical Safety Board — Macondo investigation",
+        "url": "https://www.csb.gov/macondo-blowout-and-explosion/"
+      }
+    ]
+  }
+}

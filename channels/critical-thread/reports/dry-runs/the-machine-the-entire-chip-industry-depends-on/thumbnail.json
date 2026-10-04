@@ -1,0 +1,41 @@
+{
+  "subject": "EUV lithography system",
+  "text": [
+    "ONE MACHINE"
+  ],
+  "maxWords": 3,
+  "palette": [
+    "#07090d",
+    "#c8ced8",
+    "#d6ae5f",
+    "#5aa9e6"
+  ],
+  "clutter": false,
+  "concepts": [
+    {
+      "id": "critical-object",
+      "composition": "EUV lithography system isolated against a dark technical field",
+      "consequence": "faint global network"
+    },
+    {
+      "id": "system-map",
+      "composition": "EUV lithography system centered inside a minimal dependency map",
+      "consequence": "downstream nodes dimmed"
+    },
+    {
+      "id": "scale",
+      "composition": "extreme close view of EUV lithography system",
+      "consequence": "small Earth silhouette"
+    },
+    {
+      "id": "failure",
+      "composition": "EUV lithography system with one precise break or warning marker",
+      "consequence": "restrained dark infrastructure"
+    },
+    {
+      "id": "replacement",
+      "composition": "EUV lithography system beside an empty replacement outline",
+      "consequence": "lead-time clock"
+    }
+  ]
+}

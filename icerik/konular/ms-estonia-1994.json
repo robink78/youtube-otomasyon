@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Storm Tore Off a Ferry's Bow Visor",
+  "kaynaklar": [
+    {
+      "ad": "ms-estonia-1.jpg",
+      "wikimedia": "Estonia ferry2.jpg"
+    },
+    {
+      "ad": "ms-estonia-2.jpg",
+      "wikimedia": "Silja Line - Silja Star (49966312012) (cropped).jpg"
+    },
+    {
+      "ad": "ms-estonia-3.jpg",
+      "wikimedia": "Estonias bogvisir på Muskö.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In a Baltic storm, the ferry Estonia sank in under an hour.",
+      "kaynak": "Footage/ms-estonia-1.jpg"
+    },
+    {
+      "metin": "Hundreds were trapped, and eight hundred fifty two people died.",
+      "kaynak": "Footage/ms-estonia-2.jpg"
+    },
+    {
+      "metin": "Waves pounded the ship's bow visor.",
+      "kaynak": "Footage/ms-estonia-3.jpg"
+    },
+    {
+      "metin": "Its locks broke, and the visor tore away.",
+      "kaynak": "Footage/ms-estonia-1.jpg"
+    },
+    {
+      "metin": "As it fell, it pulled open the car ramp behind it.",
+      "kaynak": "Footage/ms-estonia-2.jpg"
+    },
+    {
+      "metin": "The sea poured onto the car deck.",
+      "kaynak": "Footage/ms-estonia-3.jpg"
+    },
+    {
+      "metin": "The ship listed and sank.",
+      "kaynak": "Footage/ms-estonia-1.jpg"
+    },
+    {
+      "metin": "Bow visors and ramps on ferries were strengthened afterward.",
+      "kaynak": "Footage/ms-estonia-2.jpg"
+    }
+  ],
+  "aciklama": "MS Estonia sank in the Baltic Sea during a storm. The cause: failure of bow visor locks, pulling open the car ramp and flooding the vehicle deck.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "MS Estonia",
+    "1994",
+    "bow visor",
+    "engineering failure"
+  ],
+  "hook": "The visor tore off",
+  "soru": "Coastal ferry on the open sea?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "MS Estonia",
+    "kisa": "MS Estonia",
+    "nesne": "Bow visor",
+    "yil": 1994,
+    "sonuc": "sank in the Baltic Sea during a storm",
+    "tetik": "waves tearing the bow visor's locks apart",
+    "mekanizma": "failure of bow visor locks, pulling open the car ramp and flooding the vehicle deck",
+    "sayi": "852 DIED",
+    "ders": "bow visor and ramp designs on ferries were strengthened",
+    "zincir": [
+      "HEAVY SEAS POUND THE BOW",
+      "VISOR LOCKS FAIL",
+      "VISOR FALLS OFF",
+      "RAMP PULLED OPEN",
+      "CAR DECK FLOODS"
+    ],
+    "zaman": [],
+    "yanilgi": "The visor wasn't knocked off in one blow. Repeated wave impacts broke its locks until it fell away.",
+    "tartisma": "The ferry was designed for coastal waters. Was it ever meant for that sea in that weather?",
+    "basliklar": [
+      "The Storm Tore Off a Ferry's Bow Visor",
+      "Why MS Estonia Sank",
+      "The Bow Visor That Tore Away in a Storm"
+    ],
+    "kapak": [
+      "VISOR TORN OFF",
+      "852 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — MS Estonia",
+        "url": "https://en.wikipedia.org/wiki/MS_Estonia"
+      },
+      {
+        "ad": "Government source — 11355406 (cited by Wikipedia)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11355406"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-04",
+    "wiki": "MS_Estonia",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Estonia ferry2.jpg [Public domain]",
+      "Silja Line - Silja Star (49966312012) (cropped).jpg [CC0]",
+      "Estonias bogvisir på Muskö.jpg [CC BY 4.0]"
+    ]
+  }
+}

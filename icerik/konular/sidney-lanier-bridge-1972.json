@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "A Ship Knocked Out a Lift Bridge and Cars Fell",
+  "kaynaklar": [
+    {
+      "ad": "sidney-lanier-bridge-1.png",
+      "wikimedia": "Sidney Lanier Bridge collapse, 1972.png"
+    },
+    {
+      "ad": "sidney-lanier-bridge-2.png",
+      "wikimedia": "African Neptune allision with Sidney Lanier Bridge, 1972.png"
+    },
+    {
+      "ad": "sidney-lanier-bridge-3.png",
+      "wikimedia": "Sidney Lanier Bridge collapse.png"
+    },
+    {
+      "ad": "sidney-lanier-bridge-4.jpg",
+      "wikimedia": "Wreck of the Sidney Lanier Bridge, 1972.jpg"
+    },
+    {
+      "ad": "sidney-lanier-bridge-5.jpg",
+      "wikimedia": "SidneyLanierBridgeConstruction.jpg"
+    },
+    {
+      "ad": "sidney-lanier-bridge-6.jpg",
+      "wikimedia": "Sidney Lanier Bridge, Brunswick, Georgia (8367043853).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A cargo ship crashed into the Sidney Lanier Bridge in Georgia.",
+      "kaynak": "Footage/sidney-lanier-bridge-1.png"
+    },
+    {
+      "metin": "Spans fell into the river, and ten people were killed.",
+      "kaynak": "Footage/sidney-lanier-bridge-2.png"
+    },
+    {
+      "metin": "It was a low vertical-lift bridge.",
+      "kaynak": "Footage/sidney-lanier-bridge-3.png"
+    },
+    {
+      "metin": "Its navigational clearance was poor.",
+      "kaynak": "Footage/sidney-lanier-bridge-4.jpg"
+    },
+    {
+      "metin": "Cars on the bridge plunged into the water.",
+      "kaynak": "Footage/sidney-lanier-bridge-5.jpg"
+    },
+    {
+      "metin": "It was one of two ship collisions it suffered.",
+      "kaynak": "Footage/sidney-lanier-bridge-6.jpg"
+    },
+    {
+      "metin": "Larger ships later couldn't reach the port at all.",
+      "kaynak": "Footage/sidney-lanier-bridge-1.png"
+    },
+    {
+      "metin": "The replacement was built higher, with protective islands.",
+      "kaynak": "Footage/sidney-lanier-bridge-2.png"
+    }
+  ],
+  "aciklama": "Sidney Lanier Bridge had spans knocked down by a ship. The cause: ship impact on a low vertical-lift bridge with poor navigational clearance.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Sidney Lanier Bridge",
+    "1972",
+    "lift bridge",
+    "engineering failure"
+  ],
+  "hook": "Ships kept hitting it",
+  "soru": "How long should it stay?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Sidney Lanier Bridge",
+    "kisa": "Sidney Lanier Bridge",
+    "nesne": "Lift bridge",
+    "yil": 1972,
+    "sonuc": "had spans knocked down by a ship",
+    "tetik": "a cargo ship striking the low bridge",
+    "mekanizma": "ship impact on a low vertical-lift bridge with poor navigational clearance",
+    "sayi": "TEN DIED",
+    "ders": "the replacement bridge was built higher with ship-collision islands",
+    "zincir": [
+      "LOW CLEARANCE",
+      "SHIP APPROACHES",
+      "STRIKES BRIDGE",
+      "SPANS FALL",
+      "CARS PLUNGE"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't the first strike. The bridge was hit by ships twice.",
+    "tartisma": "Clearance problems were known for years. How long should a risky bridge stay in service?",
+    "basliklar": [
+      "A Ship Knocked Out a Lift Bridge and Cars Fell",
+      "Why the Sidney Lanier Bridge Fell",
+      "The Bridge Ships Kept Hitting"
+    ],
+    "kapak": [
+      "SHIP STRIKE",
+      "TEN DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Sidney Lanier Bridge",
+        "url": "https://en.wikipedia.org/wiki/Sidney_Lanier_Bridge"
+      },
+      {
+        "ad": "Academic / engineering journal — 10.1201/b15520 (cited by Wikipedia)",
+        "url": "https://doi.org/10.1201%2Fb15520"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-tmp",
+    "wiki": "Sidney_Lanier_Bridge",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Sidney Lanier Bridge collapse, 1972.png [Public domain]",
+      "African Neptune allision with Sidney Lanier Bridge, 1972.png [Public domain]",
+      "Sidney Lanier Bridge collapse.png [Public domain]",
+      "Wreck of the Sidney Lanier Bridge, 1972.jpg [Public domain]",
+      "SidneyLanierBridgeConstruction.jpg [CC BY 3.0]",
+      "Sidney Lanier Bridge, Brunswick, Georgia (8367043853).jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "slug": "why-metal-rusts-away",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.960Z",
+  "secilen": "Rust Never Sleeps — And It Topples Bridges",
+  "secilenPuan": 52.3,
+  "mevcutPuan": 50.2,
+  "sablonOnerisi": {
+    "baslik": "The Physics of How Rust Destroys Bridges and Ships",
+    "puan": 66.1,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 11,
+  "adaylar": [
+    {
+      "baslik": "The Physics of How Rust Destroys Bridges and Ships",
+      "kalip": "physics-of",
+      "toplam": 66.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "What Breaks First When Rust Destroys Bridges and Ships",
+      "kalip": "what",
+      "toplam": 60.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:breaks-first"
+    },
+    {
+      "baslik": "Rust Destroys Bridges and Ships. Engineers Call It Electrochemical Corrosion.",
+      "kalip": "engineers-call-it",
+      "toplam": 59,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 5,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.2
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (77 chars)",
+        "jargon in title: electrochemical"
+      ],
+      "kaynak": "template:engineers-call-it"
+    },
+    {
+      "baslik": "What Actually Happens When Rust Destroys Bridges and Ships",
+      "kalip": "what-really",
+      "toplam": 55.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "What Actually Makes a Volcano Explode"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-happens"
+    },
+    {
+      "baslik": "Electrochemical Corrosion: Why Rust Destroys Bridges and Ships",
+      "kalip": "label-colon",
+      "toplam": 55,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 4,
+        "appeal": 5,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.2
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (62 chars)",
+        "jargon in title: electrochemical",
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:mechanism-why"
+    },
+    {
+      "baslik": "Rust Never Sleeps — And It Topples Bridges",
+      "kalip": "two-beat",
+      "toplam": 52.3,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"two-beat\" already used by 3 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "How Rust Silently Destroys Bridges and Ships",
+      "kalip": "how",
+      "toplam": 50.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Why Rust Destroys Bridges and Ships",
+      "kalip": "why",
+      "toplam": 45.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "template:why-plural"
+    },
+    {
+      "baslik": "How Rust Turns Steel Paper Thin",
+      "kalip": "how",
+      "toplam": 43.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "How Fire Spreads Faster Than You Can Run"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The Slow Fire Eating Bridges and Ships",
+      "kalip": "statement",
+      "toplam": 23.6,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Rust Explained",
+      "kalip": "explained",
+      "toplam": 15.4,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "The Biggest Explosion Before the Atomic Bomb"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

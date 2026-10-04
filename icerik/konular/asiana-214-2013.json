@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Autothrottle Everyone Thought Was Holding Speed",
+  "kaynaklar": [
+    {
+      "ad": "asiana-214-1.jpg",
+      "wikimedia": "Chairman Hersman Briefing Press (9230832869) (cropped).jpg"
+    },
+    {
+      "ad": "asiana-214-2.jpg",
+      "wikimedia": "NTSBAsiana214ExitDoors.jpg"
+    },
+    {
+      "ad": "asiana-214-3.jpg",
+      "wikimedia": "NTSBAsiana214FDRAndCVR.jpg"
+    },
+    {
+      "ad": "asiana-214-4.jpg",
+      "wikimedia": "NTSBAsiana214Fuselage2.jpg"
+    },
+    {
+      "ad": "asiana-214-5.jpg",
+      "wikimedia": "NTSB Investigators on scene (2) (9237802803).jpg"
+    },
+    {
+      "ad": "asiana-214-6.jpg",
+      "wikimedia": "OZ-214-burnt-section.jpg"
+    },
+    {
+      "ad": "asiana-214-7.jpg",
+      "wikimedia": "Asiana 214 crash.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A Boeing 777 slammed into the seawall at San Francisco airport.",
+      "kaynak": "Footage/asiana-214-1.jpg"
+    },
+    {
+      "metin": "Its tail broke off, and three people were killed.",
+      "kaynak": "Footage/asiana-214-2.jpg"
+    },
+    {
+      "metin": "The approach had been too slow and too low.",
+      "kaynak": "Footage/asiana-214-3.jpg"
+    },
+    {
+      "metin": "The crew believed the autothrottle was holding speed.",
+      "kaynak": "Footage/asiana-214-4.jpg"
+    },
+    {
+      "metin": "It had been left in a mode that didn't.",
+      "kaynak": "Footage/asiana-214-5.jpg"
+    },
+    {
+      "metin": "The airspeed kept falling, and nobody noticed in time.",
+      "kaynak": "Footage/asiana-214-6.jpg"
+    },
+    {
+      "metin": "The go-around came seconds too late.",
+      "kaynak": "Footage/asiana-214-7.jpg"
+    },
+    {
+      "metin": "Training on automation modes was strengthened afterward.",
+      "kaynak": "Footage/asiana-214-1.jpg"
+    }
+  ],
+  "aciklama": "Asiana 214 hit the seawall short of the runway in San Francisco. The cause: unintended autothrottle mode on a visual approach, letting airspeed decay unnoticed.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Asiana 214",
+    "2013",
+    "autothrottle",
+    "engineering failure"
+  ],
+  "hook": "Nobody was holding speed",
+  "soru": "Trust the automation?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Asiana Airlines Flight 214",
+    "kisa": "Asiana 214",
+    "nesne": "Autothrottle",
+    "yil": 2013,
+    "sonuc": "hit the seawall short of the runway in San Francisco",
+    "tetik": "an autothrottle left in a mode that did not hold speed",
+    "mekanizma": "unintended autothrottle mode on a visual approach, letting airspeed decay unnoticed",
+    "sayi": "TOO SLOW",
+    "ders": "training on automation modes and manual approaches was strengthened",
+    "zincir": [
+      "VISUAL APPROACH, GLIDESLOPE OFF",
+      "AUTOTHROTTLE IN HOLD MODE",
+      "AIRSPEED DECAYS",
+      "LATE GO-AROUND",
+      "TAIL HITS SEAWALL"
+    ],
+    "zaman": [],
+    "yanilgi": "The engines were working. The crew believed the automation was holding speed when it wasn't.",
+    "tartisma": "Highly automated jets can make manual flying rare. How do pilots stay sharp when automation does most of the work?",
+    "basliklar": [
+      "The Autothrottle Everyone Thought Was Holding Speed",
+      "Why Asiana Flight 214 Crashed Short of the Runway",
+      "When Pilots Trusted the Wrong Automation Mode"
+    ],
+    "kapak": [
+      "TOO SLOW",
+      "WRONG MODE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Asiana Airlines Flight 214",
+        "url": "https://en.wikipedia.org/wiki/Asiana_Airlines_Flight_214"
+      },
+      {
+        "ad": "NTSB — AAR1401 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1401.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Asiana_Airlines_Flight_214",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Chairman Hersman Briefing Press (9230832869) (cropped).jpg [Public domain]",
+      "NTSBAsiana214ExitDoors.jpg [Public domain]",
+      "NTSBAsiana214FDRAndCVR.jpg [Public domain]",
+      "NTSBAsiana214Fuselage2.jpg [Public domain]",
+      "NTSB Investigators on scene (2) (9237802803).jpg [Public domain]",
+      "OZ-214-burnt-section.jpg [Public domain]",
+      "Asiana 214 crash.jpg [CC BY 2.0]"
+    ]
+  }
+}

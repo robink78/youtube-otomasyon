@@ -1,0 +1,1205 @@
+{
+  "channel": "critical-thread",
+  "records": [
+    {
+      "slug": "the-machine-the-entire-chip-industry-depends-on",
+      "topic": "The Machine the Entire Chip Industry Depends On",
+      "coreQuestion": "Why does the most advanced chipmaking run through one company's tin-plasma light machine?",
+      "openingLine": "Every advanced chip depends on one machine.",
+      "secondBeat": "Only one company builds and sells it.",
+      "dependency": "Leading-edge chips at 5 and 3 nanometre process nodes depend on EUV exposure steps.",
+      "mechanism": "A laser hits falling tin droplets to make a plasma that emits 13.5 nm light; mirrors in vacuum carry it to a reflective photomask.",
+      "bottleneck": "A single supplier builds the complete system, and its tin-plasma source and vacuum mirror optics have no drop-in substitute.",
+      "failureConsequence": "Without new EUV tools or service, fabs could not add leading-edge capacity; installed tools keep running only as long as maintenance and spares allow.",
+      "resilience": "Service contracts, spare modules and slower multi-exposure deep-UV patterning are the fallbacks while alternative sources are developed.",
+      "expectedConsequence": "leading-edge capacity stalls first; mature-node chips are largely unaffected",
+      "number": "13.5 nm",
+      "thumbnailText": "ONE MACHINE",
+      "visualScenes": [
+        "laser pulse hitting a tin droplet",
+        "multilayer mirror path in vacuum",
+        "reflective photomask over a wafer",
+        "chip feature scale comparison",
+        "single-supplier dependency map",
+        "fab capacity timeline"
+      ],
+      "editorialTitles": [
+        "Why Only One Company Builds This Chip Machine",
+        "The Tin Droplets Behind Every Advanced Chip"
+      ],
+      "facts": [
+        {
+          "claim": "EUV lithography uses 13.5 nm extreme ultraviolet light from a laser-pulsed tin plasma.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Extreme ultraviolet lithography",
+          "url": "https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography"
+        },
+        {
+          "claim": "As of 2025, ASML is the only company that produces and sells EUV systems for chip production, targeting 5 nm and 3 nm process nodes.",
+          "layer": "INDUSTRY CLAIM",
+          "source": "Wikipedia — Extreme ultraviolet lithography",
+          "url": "https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography"
+        },
+        {
+          "claim": "The light source ejects molten tin droplets about 25 μm across at about 70 m/s through a vacuum chamber.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Extreme ultraviolet lithography",
+          "url": "https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography"
+        },
+        {
+          "claim": "EUV light is absorbed by glass and air, so the systems use mirrors in vacuum instead of lenses.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Extreme ultraviolet lithography",
+          "url": "https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography"
+        },
+        {
+          "claim": "Earlier deep-UV lithography used 193 nm light from argon fluoride lasers.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Extreme ultraviolet lithography",
+          "url": "https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Every advanced chip depends on one machine.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Only one company builds and sells it.",
+          "layer": "INDUSTRY CLAIM",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It uses extreme ultraviolet light at 13.5 nanometres.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Glass and air absorb that light, so everything runs in vacuum, on mirrors.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "The light comes from molten tin droplets, blasted by a laser.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "If this supply stops, there is no second vendor to call.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK_FAILURE"
+        },
+        {
+          "text": "That is why one machine can shape a whole industry.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-submarine-fiber-optic-cable-is-so-hard-to-replace",
+      "topic": "The Garden-Hose-Thin Cables That Carry the Internet Across Oceans",
+      "coreQuestion": "How does intercontinental internet traffic depend on thin cables lying on the seabed?",
+      "openingLine": "Your internet depends on hidden seabed cables.",
+      "secondBeat": "Deep-sea sections are only about 25 millimetres across.",
+      "dependency": "Intercontinental internet and voice traffic runs mostly through fibre cables on the seabed.",
+      "mechanism": "Light pulses travel through fibre pairs inside armoured deep-sea cable about 25 mm across, with repeaters boosting the signal along the route.",
+      "bottleneck": "A cut cable must be located at sea, lifted and spliced by a specialised cable ship before its capacity returns.",
+      "failureConsequence": "A break shifts traffic onto other cables; where spare capacity is thin, latency rises and some links slow until the repair ship arrives.",
+      "resilience": "Route diversity, spare capacity on parallel cables, protection zones near shore and standing repair-ship agreements limit the damage.",
+      "expectedConsequence": "traffic reroutes first; slowdowns depend on how much spare capacity parallel cables hold",
+      "number": "25 mm",
+      "thumbnailText": "ON THE SEABED",
+      "visualScenes": [
+        "cross-section of a deep-sea fibre cable",
+        "cable lying on the ocean floor",
+        "world map of cable routes",
+        "repair ship lifting a cable",
+        "rerouted traffic diagram",
+        "1872 telegraph network map"
+      ],
+      "editorialTitles": [
+        "The Internet Lies on the Ocean Floor",
+        "Why a Cut Cable Needs a Ship to Fix It"
+      ],
+      "facts": [
+        {
+          "claim": "Modern submarine cables are typically about 25 mm in diameter and weigh around 1.4 tonnes per kilometre in deep-sea sections.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Submarine communications cable",
+          "url": "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+        },
+        {
+          "claim": "By 1872 all continents except Antarctica had been linked by submarine telecommunications cables.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Submarine communications cable",
+          "url": "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+        },
+        {
+          "claim": "In 1873 a whale damaged the Persian Gulf Cable between Karachi and Gwadar.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Submarine communications cable",
+          "url": "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+        },
+        {
+          "claim": "Cable ships are limited to about eight knots while laying cable so it settles properly on the sea floor.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cable layer",
+          "url": "https://en.wikipedia.org/wiki/Cable_layer"
+        },
+        {
+          "claim": "Eleven breaks occurred on early cables by 1860 because of storms, tides, sand movement and wear on rocks.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Submarine communications cable",
+          "url": "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+        },
+        {
+          "claim": "The Great Eastern laid the first cable to reach India from Aden in 1870.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Submarine communications cable",
+          "url": "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Your internet depends on hidden seabed cables.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Deep-sea sections are only about 25 millimetres across.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "They weigh around 1.4 tonnes per kilometre on the seabed.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "Continents were already wired this way by 1872.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "When one breaks, a cable ship must find the fault and splice it at sea.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Until then, traffic reroutes onto other cables, if they have room.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "So repair ships are part of the internet too.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-cable-laying-ship",
+      "topic": "The Slow Ships That Keep the Fast Internet Running",
+      "coreQuestion": "Why do the internet's fastest links depend on a small fleet of slow, specialised ships?",
+      "openingLine": "When an ocean cable breaks, who fixes it?",
+      "secondBeat": "A cable ship does, and it lays new ones too.",
+      "dependency": "Every new or broken submarine cable depends on a cable ship to lay or repair it.",
+      "mechanism": "A cable ship pays out cable at low speed along a carefully mapped route, and in repairs grapples the cable from the seabed and splices it on deck.",
+      "bottleneck": "Cable ships are purpose-built, carry specialised handling gear and trained crews, and cannot be improvised from ordinary vessels.",
+      "failureConsequence": "When repair ships are busy or far away, a damaged cable stays down longer and traffic runs on thinner backup routes.",
+      "resilience": "Regional maintenance agreements keep repair ships on standby, and route diversity keeps traffic moving while a repair waits.",
+      "expectedConsequence": "repair time depends on how quickly a ship can reach the fault",
+      "number": "eight knots",
+      "thumbnailText": "SLOW SHIP",
+      "visualScenes": [
+        "cable ship paying out cable at the stern",
+        "mapped cable route on a sea chart",
+        "grapnel lifting a cable from the seabed",
+        "splicing a fibre cable on deck",
+        "SS Great Eastern laying cable",
+        "fleet location map"
+      ],
+      "editorialTitles": [
+        "The Ships That Fix the Internet",
+        "Why Cable Ships Crawl at Eight Knots"
+      ],
+      "facts": [
+        {
+          "claim": "Cable ships are limited to a speed of eight knots while laying cable so it lies properly on the sea floor.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cable layer",
+          "url": "https://en.wikipedia.org/wiki/Cable_layer"
+        },
+        {
+          "claim": "A cable's position must be carefully mapped as it is laid.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cable layer",
+          "url": "https://en.wikipedia.org/wiki/Cable_layer"
+        },
+        {
+          "claim": "In 1866 the SS Great Eastern successfully laid two transatlantic cables.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cable layer",
+          "url": "https://en.wikipedia.org/wiki/Cable_layer"
+        },
+        {
+          "claim": "Oersted, built in 1872 for the Great Northern Telegraph Company, was the first ship specifically designed for cable repair.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cable layer",
+          "url": "https://en.wikipedia.org/wiki/Cable_layer"
+        },
+        {
+          "claim": "USNS Zeus can lay about 1,600 km of cable to a depth of 2,700 m.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cable layer",
+          "url": "https://en.wikipedia.org/wiki/Cable_layer"
+        },
+        {
+          "claim": "Cable engines can feed 240 m of cable a minute.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cable layer",
+          "url": "https://en.wikipedia.org/wiki/Cable_layer"
+        },
+        {
+          "claim": "Goliath was the first ship to lay an ocean cable, in 1850.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cable layer",
+          "url": "https://en.wikipedia.org/wiki/Cable_layer"
+        }
+      ],
+      "narration": [
+        {
+          "text": "When an ocean cable breaks, who fixes it?",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "A cable ship does, and it lays new ones too.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It crawls at about eight knots so the cable settles.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Every metre of the route is mapped as it goes down.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "In 1866, the Great Eastern laid two transatlantic cables.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "By 1872, the first ship built just for cable repair appeared.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK_FAILURE"
+        },
+        {
+          "text": "So the fastest links on Earth depend on its slowest ships.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-domain-name-root-server",
+      "topic": "The 13 Names at the Top of the Internet",
+      "coreQuestion": "How can thirteen root server names hold up every web address without a single point of failure?",
+      "openingLine": "Every website depends on 13 hidden names.",
+      "secondBeat": "They sit at the very top of DNS.",
+      "dependency": "Every domain lookup ultimately relies on the DNS root zone served by thirteen named root servers.",
+      "mechanism": "Resolvers ask a root server which top-level-domain servers to query; anycast spreads each root name across many server instances.",
+      "bottleneck": "The thirteen names are fixed by the original 512-byte DNS packet limit, so resilience has to come from copies behind each name.",
+      "failureConsequence": "Losing several instances barely matters; losing reachability to the whole root would slowly break lookups as cached answers expire.",
+      "resilience": "Anycast copies worldwide, independent operators and resolver caching keep the root available even under attack.",
+      "expectedConsequence": "cached answers hide short outages; only a long, total loss would be felt",
+      "number": "13",
+      "thumbnailText": "13 NAMES",
+      "visualScenes": [
+        "DNS lookup path diagram",
+        "a.root-servers.net to m.root-servers.net list",
+        "world map of anycast instances",
+        "512-byte packet illustration",
+        "resolver cache timeline",
+        "query traffic chart"
+      ],
+      "editorialTitles": [
+        "Why the Internet Has Exactly 13 Root Servers",
+        "The Hidden Directory Behind Every Website"
+      ],
+      "facts": [
+        {
+          "claim": "There are 13 logical root name servers, named a through m under root-servers.net.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Root name server",
+          "url": "https://en.wikipedia.org/wiki/Root_name_server"
+        },
+        {
+          "claim": "The choice of 13 came from the original DNS maximum packet size of 512 bytes over UDP.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Root name server",
+          "url": "https://en.wikipedia.org/wiki/Root_name_server"
+        },
+        {
+          "claim": "Using anycast, the actual number of root server instances was 1954 as of December 5, 2025.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Root name server",
+          "url": "https://en.wikipedia.org/wiki/Root_name_server"
+        },
+        {
+          "claim": "A 2003 survey reported that only 2% of all queries to the root servers were legitimate.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Root name server",
+          "url": "https://en.wikipedia.org/wiki/Root_name_server"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Every website depends on 13 hidden names.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "They sit at the very top of DNS.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Why only 13? The original DNS packet limit was 512 bytes.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "But behind those names run 1,954 server copies worldwide.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "Anycast sends each query to a nearby copy.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "A 2003 survey found only 2% of root queries were legitimate.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That redundancy is why losing one server changes almost nothing.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-cesium-atomic-frequency-standard",
+      "topic": "The Atom That Defines Every Second",
+      "coreQuestion": "How does a microwave transition inside caesium atoms keep networks, navigation and grids on the same time?",
+      "openingLine": "Why every second depends on caesium.",
+      "secondBeat": "It's defined by vibrations inside caesium atoms.",
+      "dependency": "The SI second, and every clock traced to it, depends on the caesium-133 transition.",
+      "mechanism": "A caesium clock locks a microwave oscillator to the 9,192,631,770-cycle hyperfine transition of caesium-133 atoms.",
+      "bottleneck": "Primary caesium standards are few, specialised instruments whose time is shared and compared between national laboratories.",
+      "failureConsequence": "Without traceable reference clocks, networks, positioning and grid synchronisation would slowly drift apart.",
+      "resilience": "Many independent laboratory clocks, satellite time transfer and local holdover oscillators keep time consistent through single failures.",
+      "expectedConsequence": "clocks drift slowly first; systems needing tight synchronisation notice before anyone else",
+      "number": "9,192,631,770",
+      "thumbnailText": "ONE SECOND",
+      "visualScenes": [
+        "caesium atom energy levels diagram",
+        "microwave cavity of an atomic clock",
+        "definition of the second text card",
+        "1967 conference timeline",
+        "time distribution network map",
+        "synchronised grid and network clocks"
+      ],
+      "editorialTitles": [
+        "What Actually Defines One Second",
+        "The Caesium Clock Behind Everyday Time"
+      ],
+      "facts": [
+        {
+          "claim": "The second is the duration of 9192631770 periods of the radiation of the caesium-133 hyperfine transition, as defined by the 13th General Conference on Weights and Measures in 1967.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Caesium standard",
+          "url": "https://en.wikipedia.org/wiki/Caesium_standard"
+        },
+        {
+          "claim": "The radiation has a frequency of exactly 9.19263177 GHz and a wavelength of about 3.26 cm, in the microwave range.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Caesium standard",
+          "url": "https://en.wikipedia.org/wiki/Caesium_standard"
+        },
+        {
+          "claim": "Before 1967 the SI units of time were defined using the tropical year, and before 1960 by the mean solar day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Caesium standard",
+          "url": "https://en.wikipedia.org/wiki/Caesium_standard"
+        },
+        {
+          "claim": "In 1983 the metre was defined indirectly in terms of the caesium standard.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Caesium standard",
+          "url": "https://en.wikipedia.org/wiki/Caesium_standard"
+        },
+        {
+          "claim": "The nucleus of caesium-133 has a nuclear spin of 7/2.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Caesium standard",
+          "url": "https://en.wikipedia.org/wiki/Caesium_standard"
+        },
+        {
+          "claim": "The meter was first defined between 1889 and 1960 by the international prototype meter.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Caesium standard",
+          "url": "https://en.wikipedia.org/wiki/Caesium_standard"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why every second depends on caesium.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It's defined by vibrations inside caesium atoms.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "One second is 9,192,631,770 cycles of their microwave radiation.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "That definition has been official since 1967.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "Before that, time came from Earth's own motion.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Since 1983, even the metre has depended on it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "So losing these clocks means networks, navigation and grids lose shared time.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-suez-canal-traffic-system-is-so-hard-to-replace",
+      "topic": "The 193-Kilometre Shortcut Europe and Asia Can't Replace",
+      "coreQuestion": "Why does one canal through the Egyptian desert decide how fast Europe–Asia trade moves?",
+      "openingLine": "Why one stuck ship stops Suez trade.",
+      "secondBeat": "It's 193 kilometres of water through the Egyptian desert.",
+      "dependency": "Europe–Asia shipping depends on the Suez Canal to avoid sailing around Africa.",
+      "mechanism": "Ships transit in scheduled convoys through a single channel with limited passing sections, so one stuck vessel can stop traffic.",
+      "bottleneck": "There is no parallel route of similar length; the alternative is the long voyage around the Cape of Good Hope.",
+      "failureConsequence": "A closure strands ships at both ends, then forces rerouting that adds days to each voyage and disrupts schedules for weeks.",
+      "resilience": "Widened passing sections, a second channel, salvage capacity and the Cape route as a slow fallback reduce the impact.",
+      "expectedConsequence": "queues form within hours; schedule disruption lasts far longer than the blockage",
+      "number": "193 km",
+      "thumbnailText": "ONE SHORTCUT",
+      "visualScenes": [
+        "satellite view of the Suez Canal",
+        "convoy of container ships in the canal",
+        "Ever Given grounding diagram",
+        "Cape of Good Hope detour map",
+        "capacity expansion timeline",
+        "queue of ships at the entrance"
+      ],
+      "editorialTitles": [
+        "Why One Stuck Ship Can Stop World Trade",
+        "The Canal Europe and Asia Can't Replace"
+      ],
+      "facts": [
+        {
+          "claim": "The Suez Canal is 193.3 kilometres long and is a key trade route between Europe and Asia.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Suez Canal",
+          "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+        },
+        {
+          "claim": "An expansion was intended to nearly double the canal's capacity from 49 to 97 ships per day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Suez Canal",
+          "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+        },
+        {
+          "claim": "In 2004 the canal was closed for three days when the oil tanker Tropic Brilliance became stuck.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Suez Canal",
+          "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+        },
+        {
+          "claim": "Following the grounding of the Ever Given in 2021, Egypt accelerated plans to extend and widen the canal's second channel.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Suez Canal",
+          "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+        },
+        {
+          "claim": "After the Six-Day War, an Egyptian blockade kept the canal closed for eight years.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Suez Canal",
+          "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+        },
+        {
+          "claim": "In 2021 more than 20,600 vessels traversed the canal, an average of 56 per day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Suez Canal",
+          "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+        },
+        {
+          "claim": "Construction lasted from 1859 to 1869, and the canal opened on 17 November 1869.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Suez Canal",
+          "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+        },
+        {
+          "claim": "The Suez Canal Authority opened a new side channel in 2016.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Suez Canal",
+          "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one stuck ship stops Suez trade.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It's 193 kilometres of water through the Egyptian desert.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Its expansion aimed to lift capacity to 97 ships a day.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "In 2004, one stuck tanker closed it for three days.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "In 2021, the grounded Ever Given pushed Egypt to widen it again.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "After the Six-Day War, it stayed closed for eight years.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Every alternative means sailing around Africa.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-panama-canal-lock-water-supply",
+      "topic": "The Canal That Runs on Lake Water",
+      "coreQuestion": "Why does every ship crossing Panama depend on how much fresh water is in the lakes above the locks?",
+      "openingLine": "Every Panama crossing depends on lake water.",
+      "secondBeat": "The locks lift ships 26 metres, using gravity alone.",
+      "dependency": "Every Panama Canal transit depends on fresh water from the lakes above the locks.",
+      "mechanism": "Culverts in the lock walls let lake water flow by gravity into each chamber to raise ships, then drain it toward the sea to lower them.",
+      "bottleneck": "Each lockage spends a chamber of lake water, so the number of transits is limited by how full the lakes are.",
+      "failureConsequence": "In a dry season, water limits reduce daily transits and draft allowances, forcing ships to wait, lighten loads or reroute.",
+      "resilience": "Water-saving basins, draft limits, reservoir management and transit slot rationing stretch the water that is available.",
+      "expectedConsequence": "a dry year cuts crossings first; costs rise as ships queue or divert",
+      "number": "26 m",
+      "thumbnailText": "RUNS ON WATER",
+      "visualScenes": [
+        "lock chamber filling from culverts",
+        "ship rising inside a lock",
+        "Gatun Lake and lock layout map",
+        "water volume per chamber graphic",
+        "dry-season lake level chart",
+        "ships queueing at the entrance"
+      ],
+      "editorialTitles": [
+        "Why the Panama Canal Needs Rain",
+        "The Lake Water Behind Every Panama Crossing"
+      ],
+      "facts": [
+        {
+          "claim": "The Panama Canal locks lift ships up 85 feet (26 metres) to the main elevation of the canal and lower them again.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Panama Canal locks",
+          "url": "https://en.wikipedia.org/wiki/Panama_Canal_locks"
+        },
+        {
+          "claim": "Each lock chamber requires 26,700,000 US gallons (101,000 m3) of water to fill.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Panama Canal locks",
+          "url": "https://en.wikipedia.org/wiki/Panama_Canal_locks"
+        },
+        {
+          "claim": "The water is moved by gravity through culverts from the lake into the chambers, and from each chamber down to the next or to the sea.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Panama Canal locks",
+          "url": "https://en.wikipedia.org/wiki/Panama_Canal_locks"
+        },
+        {
+          "claim": "The first trial lockage of the Gatun Locks was made on September 26, 1913.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Panama Canal locks",
+          "url": "https://en.wikipedia.org/wiki/Panama_Canal_locks"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Every Panama crossing depends on lake water.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The locks lift ships 26 metres, using gravity alone.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Filling one chamber takes about 101,000 cubic metres of water.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "That water flows down from the lake above, through giant culverts.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Each lowering then sends it on toward the sea.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The locks first lifted a test vessel in 1913.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "So a dry year means fewer ships can cross.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-haber-bosch-ammonia-plant-is-so-hard-to-replace",
+      "topic": "The Chemical Reaction That Feeds Billions",
+      "coreQuestion": "How does one high-pressure reaction turn air and natural gas into the fertilizer behind modern harvests?",
+      "openingLine": "Why your food depends on natural gas.",
+      "secondBeat": "This reaction pulls nitrogen from air to make fertilizer.",
+      "dependency": "Most nitrogen fertilizer, and the crop yields built on it, depends on ammonia from the Haber process.",
+      "mechanism": "Nitrogen from air reacts with hydrogen over an iron catalyst at about 200 bar and 500 °C to form ammonia.",
+      "bottleneck": "The plants are large, high-pressure installations that need cheap hydrogen, usually from natural gas.",
+      "failureConsequence": "When natural gas becomes scarce or expensive, ammonia output falls, fertilizer prices rise and farmers apply less the next season.",
+      "resilience": "Fertilizer stocks, diversified gas supply, imported ammonia and more efficient fertilizer use buffer short disruptions.",
+      "expectedConsequence": "fertilizer prices react first; yields follow a season later",
+      "number": "200 bar",
+      "thumbnailText": "AIR TO FOOD",
+      "visualScenes": [
+        "nitrogen and hydrogen reaction diagram",
+        "high-pressure ammonia converter",
+        "natural gas feed to hydrogen",
+        "fertilizer spread on a field",
+        "population growth chart 1900 to 2018",
+        "gas price to food price chain"
+      ],
+      "editorialTitles": [
+        "How Air Becomes Fertilizer",
+        "Why Natural Gas Is Part of Your Food"
+      ],
+      "facts": [
+        {
+          "claim": "The Haber process converts atmospheric nitrogen to ammonia by reaction with hydrogen using an iron catalyst.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        },
+        {
+          "claim": "Atmospheric nitrogen makes up about 78% of the air but is exceptionally stable.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        },
+        {
+          "claim": "Most plants continue to use the original process conditions of about 200 bar and 500 °C.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        },
+        {
+          "claim": "Ammonia production accounts for 1–2% of global energy consumption and 3% to 5% of natural gas consumption.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        },
+        {
+          "claim": "The process enabled the global population to increase from 1.6 billion in 1900 to 7.7 billion by November 2018.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        },
+        {
+          "claim": "A single pass through the reactor yields only about 15% ammonia.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        },
+        {
+          "claim": "Recycling leftover reactants eventually achieves 97% conversion.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why your food depends on natural gas.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "This reaction pulls nitrogen from air to make fertilizer.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Air is 78% nitrogen, but that nitrogen barely reacts.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "So plants force it at about 200 bar and 500 degrees.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "It uses 3 to 5% of the world's natural gas.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Its fertilizer helped population grow from 1.6 to 7.7 billion.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why a gas shortage turns into a food problem.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-swift-messaging-network",
+      "topic": "The Network That Carries the World's Payment Messages",
+      "coreQuestion": "How can a network that never holds money still be able to cut an economy off from global payments?",
+      "openingLine": "Why banks depend on one hidden network.",
+      "secondBeat": "It never holds the money, only the payment messages.",
+      "dependency": "Cross-border bank payments depend on standardised SWIFT messages between institutions.",
+      "mechanism": "Banks exchange standardised payment instructions over SWIFT; settlement itself happens through accounts held elsewhere.",
+      "bottleneck": "Replacing it means every counterparty adopting another messaging system, identifier scheme and security setup at once.",
+      "failureConsequence": "A bank cut off from the network can still hold money but struggles to instruct payments abroad, isolating its customers.",
+      "resilience": "Alternative domestic messaging systems, correspondent workarounds and contingency channels exist but cover only part of the traffic.",
+      "expectedConsequence": "cross-border payments slow or stop first; domestic payments largely continue",
+      "number": "11,000",
+      "thumbnailText": "ONE NETWORK",
+      "visualScenes": [
+        "payment message flow between two banks",
+        "world map of member institutions",
+        "message volume counter",
+        "difference between message and settlement diagram",
+        "founding in Belgium 1973",
+        "cut-off bank isolation map"
+      ],
+      "editorialTitles": [
+        "The Network Behind Almost Every International Payment",
+        "Why SWIFT Never Touches Your Money"
+      ],
+      "facts": [
+        {
+          "claim": "In 2015 SWIFT linked more than 11,000 financial institutions in over 200 countries and territories.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — SWIFT",
+          "url": "https://en.wikipedia.org/wiki/SWIFT"
+        },
+        {
+          "claim": "Its members were exchanging an average of over 32 million messages per day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — SWIFT",
+          "url": "https://en.wikipedia.org/wiki/SWIFT"
+        },
+        {
+          "claim": "As of 2018, around half of all high-value cross-border payments worldwide used the SWIFT network.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — SWIFT",
+          "url": "https://en.wikipedia.org/wiki/SWIFT"
+        },
+        {
+          "claim": "SWIFT is a cooperative established in 1973 in Belgium and owned by its member banks and firms.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — SWIFT",
+          "url": "https://en.wikipedia.org/wiki/SWIFT"
+        },
+        {
+          "claim": "SWIFT does not manage accounts for individuals or institutions and does not hold funds from third parties.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — SWIFT",
+          "url": "https://en.wikipedia.org/wiki/SWIFT"
+        },
+        {
+          "claim": "SWIFT was founded in Brussels on 3 May 1973.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — SWIFT",
+          "url": "https://en.wikipedia.org/wiki/SWIFT"
+        },
+        {
+          "claim": "It was initially supported by 239 banks in 15 countries.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — SWIFT",
+          "url": "https://en.wikipedia.org/wiki/SWIFT"
+        },
+        {
+          "claim": "After a payment is initiated, it must be settled through a payment system such as T2 in Europe.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — SWIFT",
+          "url": "https://en.wikipedia.org/wiki/SWIFT"
+        },
+        {
+          "claim": "SWIFT assigns ISO 9362 Business Identifier Codes, popularly known as SWIFT codes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — SWIFT",
+          "url": "https://en.wikipedia.org/wiki/SWIFT"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why banks depend on one hidden network.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It never holds the money, only the payment messages.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "In 2015, it linked over 11,000 institutions in more than 200 countries.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "Together they sent over 32 million messages a day.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "By 2018, about half of high-value cross-border payments used it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It began in 1973 as a Belgian cooperative owned by banks.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "That's why being cut off from it can isolate a whole economy.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-medical-isotope-reactor",
+      "topic": "The Six-Hour Isotope Behind Millions of Scans",
+      "coreQuestion": "Why do tens of millions of medical scans depend on a few research reactors and a tracer that decays within hours?",
+      "openingLine": "Why hospitals can't stockpile this isotope.",
+      "secondBeat": "Technetium-99m fades by half every six hours.",
+      "dependency": "Tens of millions of diagnostic scans a year depend on technetium-99m made from reactor-produced molybdenum-99.",
+      "mechanism": "Molybdenum-99 from uranium fission in research reactors decays into technetium-99m, which hospitals extract from generators and inject as a tracer.",
+      "bottleneck": "Molybdenum-99 is made in a small number of research reactors, and neither it nor the tracer can be stockpiled.",
+      "failureConsequence": "When a producing reactor goes offline, supply drops within days and hospitals postpone or ration scans.",
+      "resilience": "Coordinated reactor maintenance schedules, additional producers and alternative production routes reduce shortages.",
+      "expectedConsequence": "scan capacity drops within days; nothing can be pulled from storage",
+      "number": "6 hours",
+      "thumbnailText": "6-HOUR CLOCK",
+      "visualScenes": [
+        "research reactor core glow",
+        "molybdenum generator in a hospital",
+        "decay curve over 24 hours",
+        "gamma camera scan",
+        "global supply chain map",
+        "postponed scan calendar"
+      ],
+      "editorialTitles": [
+        "The Medical Isotope You Can't Stockpile",
+        "Why a Reactor Outage Cancels Scans Abroad"
+      ],
+      "facts": [
+        {
+          "claim": "Technetium-99m is used in tens of millions of medical diagnostic procedures annually, the most commonly used medical radioisotope.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Technetium-99m",
+          "url": "https://en.wikipedia.org/wiki/Technetium-99m"
+        },
+        {
+          "claim": "Its half-life is 6.0066 hours, meaning 93.7% of it decays within 24 hours.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Technetium-99m",
+          "url": "https://en.wikipedia.org/wiki/Technetium-99m"
+        },
+        {
+          "claim": "It is produced from molybdenum-99, which has a longer half-life of 2.75 days.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Technetium-99m",
+          "url": "https://en.wikipedia.org/wiki/Technetium-99m"
+        },
+        {
+          "claim": "Molybdenum-99 is usually created by fission of highly enriched uranium in a small number of research and materials testing reactors in several countries.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Technetium-99m",
+          "url": "https://en.wikipedia.org/wiki/Technetium-99m"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why hospitals can't stockpile this isotope.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Technetium-99m fades by half every six hours.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It's used in tens of millions of scans every year.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Within a day, 93.7% of it has decayed.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "It comes from molybdenum-99, which lasts only days.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "That parent is made in a small number of research reactors.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why one reactor outage can cancel scans far away.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-strait-of-hormuz-shipping-lane-becomes-the-bottleneck",
+      "topic": "The 39-Kilometre Gap a Quarter of Seaborne Oil Must Pass",
+      "coreQuestion": "Why does a strait about 39 kilometres wide carry so much of the world's oil and gas?",
+      "openingLine": "25% of seaborne oil depends on one strait.",
+      "secondBeat": "It's the Strait of Hormuz, between Iran and Oman.",
+      "dependency": "A quarter of seaborne oil trade and a fifth of the world's LNG depend on passage through the Strait of Hormuz.",
+      "mechanism": "Tankers follow a traffic separation scheme of two lanes, each about 3.7 kilometres wide, through a strait bordered by Iran and Oman.",
+      "bottleneck": "Gulf exporters have few pipeline routes that bypass the strait, so most of their tanker traffic has no alternative.",
+      "failureConsequence": "Any threat to passage raises insurance and freight costs immediately; a real closure would remove supply faster than reserves could replace it.",
+      "resilience": "Bypass pipelines, strategic petroleum reserves, naval escorts and other producers cover part of a disruption.",
+      "expectedConsequence": "prices react to the threat before any supply is lost",
+      "number": "25%",
+      "thumbnailText": "39 KM",
+      "visualScenes": [
+        "satellite map of the Strait of Hormuz",
+        "tanker lanes of the traffic separation scheme",
+        "share of oil and LNG graphic",
+        "territorial sea boundaries",
+        "bypass pipeline map",
+        "oil price reaction chart"
+      ],
+      "editorialTitles": [
+        "Why a Quarter of Seaborne Oil Passes One Strait",
+        "The Narrow Gap That Moves Oil Prices"
+      ],
+      "facts": [
+        {
+          "claim": "The Strait of Hormuz is about 167 km long, with a width varying from about 97 km to 39 km.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Hormuz",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+        },
+        {
+          "claim": "During 2023–2025, 20% of the world's liquefied natural gas and 25% of seaborne oil trade passed through the strait annually.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Hormuz",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+        },
+        {
+          "claim": "Ships follow a traffic separation scheme in which each lane is 2 nautical miles (3.7 km) wide.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Hormuz",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+        },
+        {
+          "claim": "Iran in 1959 and Oman in 1972 expanded their territorial seas to 12 nautical miles.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Hormuz",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+        }
+      ],
+      "narration": [
+        {
+          "text": "25% of seaborne oil depends on one strait.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It's the Strait of Hormuz, between Iran and Oman.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It also carries 20% of the world's liquefied natural gas.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "At its narrowest, the strait is about 39 kilometres wide.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "Tankers use two lanes, each just 3.7 kilometres wide.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Both countries claim 12 nautical miles of sea there.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why any threat here moves oil prices worldwide.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-ship-to-shore-container-crane-is-so-hard-to-replace",
+      "topic": "The 2,000-Tonne Cranes Every Container Passes Under",
+      "coreQuestion": "Why can't a port simply add or replace the giant cranes that unload every container ship?",
+      "openingLine": "Every container depends on this crane.",
+      "secondBeat": "Ship-to-shore cranes lift every box off the ship.",
+      "dependency": "Container ports depend on ship-to-shore cranes to move every box between ship and quay.",
+      "mechanism": "A gantry crane runs on quay rails and lifts containers with a telescopic spreader, up to two 20-foot boxes at a time.",
+      "bottleneck": "The cranes are enormous, custom-built machines sized to the port's rails and ships, so replacements take long to build and ship.",
+      "failureConsequence": "Losing cranes at a busy terminal slows every vessel at the berth, and queues spread to the next ports on the route.",
+      "resilience": "Spare cranes at other berths, maintenance programmes and moving ships to other terminals absorb single failures.",
+      "expectedConsequence": "berth productivity drops first; ship queues follow",
+      "number": "65 tonnes",
+      "thumbnailText": "2,000 TONNES",
+      "visualScenes": [
+        "ship-to-shore crane over a container ship",
+        "spreader lifting two 20-foot boxes",
+        "crane size comparison",
+        "quay rail gauge diagram",
+        "crane delivered by heavy-lift ship",
+        "berth queue timeline"
+      ],
+      "editorialTitles": [
+        "The Giant Cranes Behind Everything You Buy",
+        "Why Ports Can't Buy a Spare Crane Overnight"
+      ],
+      "facts": [
+        {
+          "claim": "A modern container crane capable of lifting two 20-foot containers at once generally has a rated lifting capacity of 65 tonnes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Container crane",
+          "url": "https://en.wikipedia.org/wiki/Container_crane"
+        },
+        {
+          "claim": "Post-Panamax cranes weigh approximately 800–900 tonnes, while super-post-Panamax cranes can weigh 1,600–2,000 tonnes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Container crane",
+          "url": "https://en.wikipedia.org/wiki/Container_crane"
+        },
+        {
+          "claim": "Gantry rail gauges were typically 12 to 16 meters; as ships grew they increased to 33 m.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Container crane",
+          "url": "https://en.wikipedia.org/wiki/Container_crane"
+        },
+        {
+          "claim": "As ships grew in size, more cranes were assigned to each ship and docks had to get wider.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Container crane",
+          "url": "https://en.wikipedia.org/wiki/Container_crane"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Every container depends on this crane.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Ship-to-shore cranes lift every box off the ship.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "One can lift two 20-foot containers at once.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Its rated load is about 65 tonnes.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "The newest giants weigh up to 2,000 tonnes each.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Their rails grew from 16 to 33 metres apart as ships grew.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "That's why a port can't just buy a spare overnight.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    }
+  ]
+}

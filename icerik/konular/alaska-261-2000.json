@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Too Little Grease Brought Down Alaska 261",
+  "kaynaklar": [
+    {
+      "ad": "alaska-261-1.jpg",
+      "wikimedia": "Defense.gov News Photo 000201-N-2619S-002.jpg"
+    },
+    {
+      "ad": "alaska-261-2.jpg",
+      "wikimedia": "Defense.gov News Photo 000202-N-5961C-005.jpg"
+    },
+    {
+      "ad": "alaska-261-3.jpg",
+      "wikimedia": "Defense.gov News Photo 000203-N-5961C-005.jpg"
+    },
+    {
+      "ad": "alaska-261-4.png",
+      "wikimedia": "Screwshavings2 sm.PNG"
+    },
+    {
+      "ad": "alaska-261-5.jpg",
+      "wikimedia": "US Navy 000202-N-5961C-007 Alaska Airlines 261 recovery operations.jpg"
+    },
+    {
+      "ad": "alaska-261-6.jpg",
+      "wikimedia": "USS Cleveland (LPD-7) underway off the coast of Port Hueneme, California (USA), on 3 February 2000 (000203-N-1523C-002).jpg"
+    },
+    {
+      "ad": "alaska-261-7.jpg",
+      "wikimedia": "Alaska Airlines Flight 261 memorial - Feb 2020.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An airliner suddenly pitched down and dove into the Pacific.",
+      "kaynak": "Footage/alaska-261-1.jpg"
+    },
+    {
+      "metin": "The pilots fought it for minutes, but all eighty eight aboard died.",
+      "kaynak": "Footage/alaska-261-2.jpg"
+    },
+    {
+      "metin": "The tail's trim was driven by a single jackscrew.",
+      "kaynak": "Footage/alaska-261-3.jpg"
+    },
+    {
+      "metin": "Its nut needed regular grease.",
+      "kaynak": "Footage/alaska-261-4.png"
+    },
+    {
+      "metin": "Maintenance intervals had been stretched again and again.",
+      "kaynak": "Footage/alaska-261-5.jpg"
+    },
+    {
+      "metin": "The threads wore away until the nut could no longer hold.",
+      "kaynak": "Footage/alaska-261-6.jpg"
+    },
+    {
+      "metin": "The tail slipped, and the jet became uncontrollable.",
+      "kaynak": "Footage/alaska-261-7.jpg"
+    },
+    {
+      "metin": "Lubrication and wear checks were tightened across the fleet.",
+      "kaynak": "Footage/alaska-261-1.jpg"
+    }
+  ],
+  "aciklama": "Alaska 261 dove into the Pacific Ocean. The cause: stripped acme nut threads on the horizontal stabilizer trim jackscrew.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Alaska 261",
+    "2000",
+    "jackscrew",
+    "engineering failure"
+  ],
+  "hook": "It needed grease",
+  "soru": "Would you stretch the interval?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Alaska Airlines Flight 261",
+    "kisa": "Alaska 261",
+    "nesne": "Jackscrew",
+    "yil": 2000,
+    "sonuc": "dove into the Pacific Ocean",
+    "tetik": "a jackscrew nut worn out by too little lubrication",
+    "mekanizma": "stripped acme nut threads on the horizontal stabilizer trim jackscrew",
+    "sayi": "88 KILLED",
+    "ders": "lubrication and end-play inspection intervals were tightened",
+    "zincir": [
+      "LUBRICATION INTERVALS EXTENDED",
+      "GREASE MISSED",
+      "NUT THREADS WEAR AWAY",
+      "STABILIZER JAMS, THEN SLIPS",
+      "UNCONTROLLABLE DIVE"
+    ],
+    "zaman": [],
+    "yanilgi": "The jackscrew didn't break suddenly. Its nut wore down over years because maintenance intervals had been stretched.",
+    "tartisma": "Each extension of the maintenance interval looked small. How do small savings add up to a failure?",
+    "basliklar": [
+      "Too Little Grease Brought Down Alaska 261",
+      "Why Alaska Airlines Flight 261 Crashed",
+      "The Worn Thread That Controlled a Jet"
+    ],
+    "kapak": [
+      "NO GREASE",
+      "88 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Alaska Airlines Flight 261",
+        "url": "https://en.wikipedia.org/wiki/Alaska_Airlines_Flight_261"
+      },
+      {
+        "ad": "NTSB — AAR0201 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0201.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-03",
+    "wiki": "Alaska_Airlines_Flight_261",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Defense.gov News Photo 000201-N-2619S-002.jpg [Public domain]",
+      "Defense.gov News Photo 000202-N-5961C-005.jpg [Public domain]",
+      "Defense.gov News Photo 000203-N-5961C-005.jpg [Public domain]",
+      "Screwshavings2 sm.PNG [Public domain]",
+      "US Navy 000202-N-5961C-007 Alaska Airlines 261 recovery operations.jpg [Public domain]",
+      "USS Cleveland (LPD-7) underway off the coast of Port Hueneme, California (USA), on 3 February 2000 (000203-N-1523C-002).jpg [Public domain]",
+      "Alaska Airlines Flight 261 memorial - Feb 2020.jpg [Public domain]"
+    ]
+  }
+}

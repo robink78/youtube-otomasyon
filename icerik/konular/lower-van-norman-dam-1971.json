@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Dam That Nearly Failed Above 80,000 People",
+  "kaynaklar": [
+    {
+      "ad": "lower-van-norman-dam-1.jpg",
+      "wikimedia": "Lower Van Norman Dam Damage 1971.jpg"
+    },
+    {
+      "ad": "lower-van-norman-dam-2.jpg",
+      "wikimedia": "Earthquake Damaged Dam (22190042935).jpg"
+    },
+    {
+      "ad": "lower-van-norman-dam-3.jpg",
+      "wikimedia": "USGS - 1971 San Fernando earthquake - Damage at Lower Van Norman Dam.jpg"
+    },
+    {
+      "ad": "lower-van-norman-dam-4.jpg",
+      "wikimedia": "LAD 4 Binder2 008 - USACE-p15141coll5-18850.jpeg"
+    },
+    {
+      "ad": "lower-van-norman-dam-5.jpg",
+      "wikimedia": "Van Norman Dam 1971 eq 0.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An earthquake shook the dam holding Los Angeles' water.",
+      "kaynak": "Footage/lower-van-norman-dam-1.jpg"
+    },
+    {
+      "metin": "Within seconds, part of its crest slid into the reservoir.",
+      "kaynak": "Footage/lower-van-norman-dam-2.jpg"
+    },
+    {
+      "metin": "The dam was built with hydraulic fill.",
+      "kaynak": "Footage/lower-van-norman-dam-3.jpg"
+    },
+    {
+      "metin": "Shaking made the fill liquefy.",
+      "kaynak": "Footage/lower-van-norman-dam-4.jpg"
+    },
+    {
+      "metin": "Luckily, the reservoir was only about half full.",
+      "kaynak": "Footage/lower-van-norman-dam-5.jpg"
+    },
+    {
+      "metin": "Eighty thousand people were evacuated for three days.",
+      "kaynak": "Footage/lower-van-norman-dam-1.jpg"
+    },
+    {
+      "metin": "Engineers lowered the water as fast as possible.",
+      "kaynak": "Footage/lower-van-norman-dam-2.jpg"
+    },
+    {
+      "metin": "It transformed the seismic safety of earthen dams.",
+      "kaynak": "Footage/lower-van-norman-dam-3.jpg"
+    }
+  ],
+  "aciklama": "Van Norman Dam nearly failed in the San Fernando earthquake. The cause: liquefaction of hydraulic fill causing a landslide that took part of the crest.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Van Norman Dam",
+    "1971",
+    "earthen dam",
+    "engineering failure"
+  ],
+  "hook": "It was only half full",
+  "soru": "How much luck is in a near miss?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Lower Van Norman Dam",
+    "kisa": "Van Norman Dam",
+    "nesne": "Earthen dam",
+    "yil": 1971,
+    "sonuc": "nearly failed in the San Fernando earthquake",
+    "tetik": "earthquake shaking liquefying the dam's fill",
+    "mekanizma": "liquefaction of hydraulic fill causing a landslide that took part of the crest",
+    "sayi": "80,000 EVACUATED",
+    "ders": "seismic safety of embankment dams was transformed",
+    "zincir": [
+      "HYDRAULIC FILL DAM",
+      "EARTHQUAKE",
+      "FILL LIQUEFIES",
+      "CREST SLIDES INTO RESERVOIR",
+      "EMERGENCY DRAWDOWN"
+    ],
+    "zaman": [],
+    "yanilgi": "The dam didn't fail. The reservoir happened to be only half full.",
+    "tartisma": "A full reservoir could have killed tens of thousands. How much luck is in every near miss?",
+    "basliklar": [
+      "The Dam That Nearly Failed Above 80,000 People",
+      "How the Van Norman Dam Nearly Failed",
+      "The Near Miss Above Los Angeles"
+    ],
+    "kapak": [
+      "NEAR MISS",
+      "80,000 EVACUATED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Lower Van Norman Dam",
+        "url": "https://en.wikipedia.org/wiki/Lower_Van_Norman_Dam"
+      },
+      {
+        "ad": "USGS — report (cited by Wikipedia)",
+        "url": "https://pubs.usgs.gov/circ/1974/0691a/report.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "Lower_Van_Norman_Dam",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Lower Van Norman Dam Damage 1971.jpg [Public domain]",
+      "Earthquake Damaged Dam (22190042935).jpg [Public domain]",
+      "USGS - 1971 San Fernando earthquake - Damage at Lower Van Norman Dam.jpg [Public domain]",
+      "LAD 4 Binder2 008 - USACE-p15141coll5-18850.jpeg [Public domain]",
+      "Van Norman Dam 1971 eq 0.jpg [Public domain]"
+    ]
+  }
+}

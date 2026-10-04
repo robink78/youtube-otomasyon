@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Bomber Fire That Scattered Plutonium on Greenland's Ice",
+  "kaynaklar": [
+    {
+      "ad": "thule-b52-1.jpg",
+      "wikimedia": "Crested Ice Tank Loading.jpg"
+    },
+    {
+      "ad": "thule-b52-2.jpg",
+      "wikimedia": "Thule AFB B-52 Gunner Rescue.jpg"
+    },
+    {
+      "ad": "thule-b52-3.jpg",
+      "wikimedia": "Thule BMEWS.jpg"
+    },
+    {
+      "ad": "thule-b52-4.jpg",
+      "wikimedia": "Thule air base above.jpeg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A B-52 bomber carrying hydrogen bombs crashed onto Greenland's sea ice.",
+      "kaynak": "Footage/thule-b52-1.jpg"
+    },
+    {
+      "metin": "It exploded on impact, killing one crewman.",
+      "kaynak": "Footage/thule-b52-2.jpg"
+    },
+    {
+      "metin": "The fire started in the cabin.",
+      "kaynak": "Footage/thule-b52-3.jpg"
+    },
+    {
+      "metin": "Cushions had been stored near a heater vent.",
+      "kaynak": "Footage/thule-b52-4.jpg"
+    },
+    {
+      "metin": "The crew bailed out as smoke filled the plane.",
+      "kaynak": "Footage/thule-b52-1.jpg"
+    },
+    {
+      "metin": "On impact, the bombs' conventional explosives detonated.",
+      "kaynak": "Footage/thule-b52-2.jpg"
+    },
+    {
+      "metin": "Plutonium was scattered across the ice.",
+      "kaynak": "Footage/thule-b52-3.jpg"
+    },
+    {
+      "metin": "Airborne nuclear alert flights were ended soon after.",
+      "kaynak": "Footage/thule-b52-4.jpg"
+    }
+  ],
+  "aciklama": "Thule B-52 crashed on sea ice carrying nuclear weapons. The cause: crash detonating the weapons' conventional explosives and dispersing plutonium.\n\n#shorts #engineering #nuclear",
+  "etiketler": [
+    "Thule B-52",
+    "1968",
+    "bomber",
+    "engineering failure"
+  ],
+  "hook": "It started with cushions",
+  "soru": "Worth the risk?",
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "the Thule B-52",
+    "kisa": "Thule B-52",
+    "nesne": "Bomber",
+    "yil": 1968,
+    "sonuc": "crashed on sea ice carrying nuclear weapons",
+    "tetik": "a cabin fire started by cushions near a heater vent",
+    "mekanizma": "crash detonating the weapons' conventional explosives and dispersing plutonium",
+    "sayi": "4 BOMBS",
+    "ders": "airborne nuclear alert flights were ended",
+    "zincir": [
+      "CUSHIONS STORED NEAR HEATER VENT",
+      "CABIN FIRE",
+      "CREW BAILS OUT",
+      "BOMBER HITS SEA ICE",
+      "EXPLOSIVES SCATTER PLUTONIUM"
+    ],
+    "zaman": [],
+    "yanilgi": "There was no nuclear explosion. The bombs' conventional explosives detonated and spread plutonium on the ice.",
+    "tartisma": "Nuclear-armed bombers flew constant alert patrols. Was the risk worth the deterrence?",
+    "basliklar": [
+      "The Bomber Fire That Scattered Plutonium on Greenland's Ice",
+      "Why the Thule B-52 Crashed",
+      "The Cabin Fire That Spread Plutonium"
+    ],
+    "kapak": [
+      "CABIN FIRE",
+      "4 BOMBS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1968 Thule Air Base B-52 crash",
+        "url": "https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash"
+      },
+      {
+        "ad": "European Union — 650924en (cited by Wikipedia)",
+        "url": "http://www.europarl.europa.eu/meetdocs/2004_2009/documents/cm/650/650924/650924en.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "1968_Thule_Air_Base_B-52_crash",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Crested Ice Tank Loading.jpg [Public domain]",
+      "Thule AFB B-52 Gunner Rescue.jpg [Public domain]",
+      "Thule BMEWS.jpg [Public domain]",
+      "Thule air base above.jpeg [Public domain]"
+    ]
+  }
+}

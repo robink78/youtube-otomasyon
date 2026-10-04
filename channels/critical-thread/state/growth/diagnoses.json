@@ -1,0 +1,18 @@
+[
+  {
+    "videoId": "fGE8kZOaQZ4",
+    "channel": "critical-thread",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "LOW_ENGAGEMENT",
+        "confidence": "low",
+        "evidence": "19.19 engagements / 1,000 views",
+        "recommendation": "Contextual comment prompt after the payoff.",
+        "specCode": "LOW_ENGAGEMENT"
+      }
+    ],
+    "at": "2026-10-03T18:00:40.843Z"
+  }
+]

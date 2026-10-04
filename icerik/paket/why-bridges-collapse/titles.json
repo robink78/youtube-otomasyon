@@ -1,0 +1,252 @@
+{
+  "slug": "why-bridges-collapse",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.838Z",
+  "secilen": "What Really Brings a Bridge Down",
+  "secilenPuan": 51.1,
+  "mevcutPuan": 45.2,
+  "sablonOnerisi": {
+    "baslik": "The Physics of How Bridges Collapse",
+    "puan": 68.1,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 9,
+  "adaylar": [
+    {
+      "baslik": "The Physics of How Bridges Collapse",
+      "kalip": "physics-of",
+      "toplam": 68.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "What Actually Happens When Bridges Collapse",
+      "kalip": "what-really",
+      "toplam": 60.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.26,
+        "closest": "What Actually Makes Planes Crash"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"what-really\" already used by 2 other videos"
+      ],
+      "kaynak": "template:what-happens"
+    },
+    {
+      "baslik": "What Really Brings a Bridge Down",
+      "kalip": "what-really",
+      "toplam": 51.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 5,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.26,
+        "closest": "What Lightning Really Does to a Building"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"what-really\" already used by 2 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why Do Bridges Collapse?",
+      "kalip": "why",
+      "toplam": 45.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.3,
+        "closest": "Why Mines Collapse Deep Underground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "What Breaks First When Bridges Collapse",
+      "kalip": "what",
+      "toplam": 44.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "Why Mines Collapse Deep Underground"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "only 50% of title words are supported by the script",
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:breaks-first"
+    },
+    {
+      "baslik": "Why Bridges Collapse",
+      "kalip": "why",
+      "toplam": 42.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.33,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "template:why-plural"
+    },
+    {
+      "baslik": "The Tiny Cracks That Topple Bridges",
+      "kalip": "the-x-that",
+      "toplam": 38.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Why the Tacoma Narrows Bridge Tore Itself Apart"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The Quiet War Every Bridge Is Fighting",
+      "kalip": "statement",
+      "toplam": 35.7,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 5,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Why the Tacoma Narrows Bridge Tore Itself Apart"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"statement\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Bridges Explained",
+      "kalip": "explained",
+      "toplam": 15.4,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "How Rust Silently Destroys Bridges and Ships"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

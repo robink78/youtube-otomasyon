@@ -1,0 +1,1613 @@
+{
+  "channel": "critical-thread",
+  "records": [
+    {
+      "slug": "why-gps-master-control-station-is-so-hard-to-replace",
+      "topic": "The Control Room That Keeps GPS Honest",
+      "coreQuestion": "Why does every GPS fix on Earth depend on a control station correcting clocks in orbit?",
+      "openingLine": "GPS clocks drift 38 microseconds every day.",
+      "secondBeat": "Without correction, your position would slide away within hours.",
+      "dependency": "Every GPS position and timing signal depends on the control segment keeping satellite clocks and orbits corrected.",
+      "mechanism": "Monitor stations track the satellites; the master control station computes clock and orbit corrections and uploads them through ground antennas.",
+      "bottleneck": "The control segment is a single military-run system whose corrections every receiver silently trusts.",
+      "failureConsequence": "If uploads stopped, broadcast clock and orbit data would age and position errors would grow day by day.",
+      "resilience": "Backup master control, worldwide monitor stations and other satellite navigation systems limit the risk.",
+      "expectedConsequence": "errors grow gradually rather than switching off at once",
+      "number": "38 microseconds",
+      "thumbnailText": "38 µs/DAY",
+      "visualScenes": [
+        "GPS satellite constellation",
+        "clock drift from relativity diagram",
+        "monitor stations world map",
+        "master control room consoles",
+        "ground antenna uploading corrections",
+        "position error growing over days"
+      ],
+      "editorialTitles": [
+        "The Hidden Correction Behind Every GPS Fix",
+        "Why GPS Satellites' Clocks Run Fast"
+      ],
+      "facts": [
+        {
+          "claim": "Relativity predicts that clocks on GPS satellites, as observed from Earth, run 38 microseconds faster per day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        },
+        {
+          "claim": "The full constellation of 24 satellites became operational in 1993.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        },
+        {
+          "claim": "Beginning in 1988, command and control moved to the 2nd Satellite Control Squadron at Schriever Space Force Base in Colorado.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        },
+        {
+          "claim": "A timing error of 1 nanosecond corresponds to a positional error of roughly 30 cm.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Atomic clock",
+          "url": "https://en.wikipedia.org/wiki/Atomic_clock"
+        },
+        {
+          "claim": "GPS monitor stations include Hawaii, Kwajalein Atoll, Ascension Island, Diego Garcia and Cape Canaveral.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        }
+      ],
+      "narration": [
+        {
+          "text": "GPS clocks drift 38 microseconds every day.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Without correction, your position would slide away within hours.",
+          "layer": "MODEL",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "One nanosecond of error means about 30 centimetres of position error.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Relativity makes satellite clocks run fast compared with ours.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "So monitor stations from Hawaii to Diego Garcia watch every satellite.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "A control squadron in Colorado computes and uploads the fixes.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why your phone depends on a control room you'll never see.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-rubidium-satellite-clock",
+      "topic": "The Atomic Clocks Flying Above Your Phone",
+      "coreQuestion": "Why does a nanosecond of clock error in orbit become a position error on the ground?",
+      "openingLine": "Your map depends on atomic clocks in orbit.",
+      "secondBeat": "One nanosecond wrong puts you 30 centimetres off.",
+      "dependency": "Satellite positioning depends on onboard atomic clocks keeping nanosecond-level time.",
+      "mechanism": "Receivers measure how long each satellite's timestamped signal took to arrive; clock errors turn directly into distance errors at the speed of light.",
+      "bottleneck": "Space-qualified atomic clocks are specialised instruments that cannot be repaired once launched.",
+      "failureConsequence": "A failing satellite clock corrupts ranging from that satellite until controllers flag it unhealthy or switch clocks.",
+      "resilience": "Each satellite carries redundant clocks, and ground control can mark a faulty satellite unusable within minutes.",
+      "expectedConsequence": "one bad clock degrades accuracy until it is excluded",
+      "number": "30 cm",
+      "thumbnailText": "1 NANOSECOND",
+      "visualScenes": [
+        "atomic clock inside a satellite",
+        "signal travel time diagram",
+        "nanosecond to distance conversion",
+        "satellite clock redundancy",
+        "ground station flagging a satellite",
+        "phone map with position error"
+      ],
+      "editorialTitles": [
+        "Why a Nanosecond Matters to Your Map",
+        "The Atomic Clocks Orbiting Above You"
+      ],
+      "facts": [
+        {
+          "claim": "A timing error of 1 nanosecond corresponds to a positional error of roughly 30 cm when multiplied by the speed of light.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Atomic clock",
+          "url": "https://en.wikipedia.org/wiki/Atomic_clock"
+        },
+        {
+          "claim": "Following the 2019 revision of the SI, every base unit except the mole relies on the definition of the second.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Atomic clock",
+          "url": "https://en.wikipedia.org/wiki/Atomic_clock"
+        },
+        {
+          "claim": "Clocks on GPS satellites, as observed from Earth, run 38 microseconds faster per day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        },
+        {
+          "claim": "The second is expected to be redefined when optical clocks mature, around 2030 or 2034.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Atomic clock",
+          "url": "https://en.wikipedia.org/wiki/Atomic_clock"
+        },
+        {
+          "claim": "In 1955 Friedwardt Winterberg proposed testing general relativity with atomic clocks placed in orbit.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Your map depends on atomic clocks in orbit.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "One nanosecond wrong puts you 30 centimetres off.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Your receiver times how long each signal took to arrive.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Light covers about 30 centimetres every nanosecond.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "And orbiting clocks gain 38 microseconds a day from relativity.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Once launched, those clocks can never be repaired.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why every navigation satellite carries atomic clocks.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-reaction-wheel",
+      "topic": "The Spinning Wheels That Point Space Telescopes",
+      "coreQuestion": "How did two failed spinning wheels end a planet-hunting telescope's main mission?",
+      "openingLine": "Kepler lost its aim when two wheels failed.",
+      "secondBeat": "They were reaction wheels, which point spacecraft.",
+      "dependency": "Precise spacecraft pointing depends on reaction wheels that turn the craft without using fuel.",
+      "mechanism": "Spinning a wheel one way turns the spacecraft the other way, conserving angular momentum.",
+      "bottleneck": "Wheels wear out in space, and most spacecraft cannot be serviced when they do.",
+      "failureConsequence": "Losing wheels below the needed minimum ends precise pointing, forcing thrusters or a reduced mission.",
+      "resilience": "Spare wheels, redundant designs and clever operations like Kepler's K2 mission recover some capability.",
+      "expectedConsequence": "precision pointing is lost first; missions survive only in degraded modes",
+      "number": "2 of 4",
+      "thumbnailText": "2 OF 4",
+      "visualScenes": [
+        "Kepler space telescope",
+        "reaction wheel spinning diagram",
+        "angular momentum exchange animation",
+        "Hubble servicing astronaut",
+        "Hayabusa probe",
+        "K2 mission field of view"
+      ],
+      "editorialTitles": [
+        "How Two Wheels Ended Kepler's Mission",
+        "The Spinning Wheels That Aim Spacecraft"
+      ],
+      "facts": [
+        {
+          "claim": "From July 2012 to May 11, 2013, two out of the four reaction wheels in the Kepler space telescope failed.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Reaction wheel",
+          "url": "https://en.wikipedia.org/wiki/Reaction_wheel"
+        },
+        {
+          "claim": "On August 15, 2013, engineers concluded Kepler's reaction wheels could not be recovered and transit planet-searching could not continue.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Reaction wheel",
+          "url": "https://en.wikipedia.org/wiki/Reaction_wheel"
+        },
+        {
+          "claim": "On May 16, 2014, NASA extended Kepler into a new mission named K2.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Reaction wheel",
+          "url": "https://en.wikipedia.org/wiki/Reaction_wheel"
+        },
+        {
+          "claim": "Hubble was designed with four redundant wheels and keeps pointing ability as long as three are functional.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Reaction wheel",
+          "url": "https://en.wikipedia.org/wiki/Reaction_wheel"
+        },
+        {
+          "claim": "Hayabusa's X-axis reaction wheel failed in 2004 and its Y-axis wheel failed in 2005.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Reaction wheel",
+          "url": "https://en.wikipedia.org/wiki/Reaction_wheel"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Kepler lost its aim when two wheels failed.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "They were reaction wheels, which point spacecraft.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Spin a wheel one way, and the craft turns the other.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Kepler had four. Two failed between 2012 and 2013.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Without them, it couldn't hold steady enough to find planets.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Hubble needs three of its four, and astronauts have replaced wheels.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "That's why a spinning wheel can decide a mission's life.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-orbital-debris-tracking-network-becomes-the-bottleneck",
+      "topic": "The 40,000 Objects Someone Has to Track",
+      "coreQuestion": "How do satellites avoid collisions with tens of thousands of tracked objects in orbit?",
+      "openingLine": "40,230 objects in orbit are being tracked.",
+      "secondBeat": "Every satellite's safety depends on knowing where they are.",
+      "dependency": "Collision avoidance for every satellite depends on space surveillance networks cataloguing debris.",
+      "mechanism": "Radars and telescopes track objects, predict close approaches, and operators manoeuvre when the collision risk is high enough.",
+      "bottleneck": "Only objects large enough to be tracked can be avoided; smaller fragments remain invisible hazards.",
+      "failureConsequence": "Without tracking, operators could not see coming conjunctions, and each collision would create more debris.",
+      "resilience": "Multiple national and commercial tracking networks, data sharing and debris-mitigation rules reduce the risk.",
+      "expectedConsequence": "collision risk rises quietly; the damage appears as new debris clouds",
+      "number": "40,230",
+      "thumbnailText": "40,230 OBJECTS",
+      "visualScenes": [
+        "debris cloud around Earth",
+        "radar tracking a satellite",
+        "close-approach warning diagram",
+        "space station avoidance manoeuvre",
+        "debris growth chart",
+        "collision fragment spread"
+      ],
+      "editorialTitles": [
+        "The 40,000 Objects Circling Earth",
+        "Why Satellites Dodge Space Junk"
+      ],
+      "facts": [
+        {
+          "claim": "As of April 2025, ESA reported 40,230 artificial objects in orbit regularly tracked by space surveillance networks.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Space debris",
+          "url": "https://en.wikipedia.org/wiki/Space_debris"
+        },
+        {
+          "claim": "As of 2009, more than 13,000 close calls were tracked weekly.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Space debris",
+          "url": "https://en.wikipedia.org/wiki/Space_debris"
+        },
+        {
+          "claim": "Known debris with a collision chance over 1/10,000 is avoided by manoeuvring the space station.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Space debris",
+          "url": "https://en.wikipedia.org/wiki/Space_debris"
+        },
+        {
+          "claim": "In 2011, NASA said that 22,000 objects were being tracked.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Space debris",
+          "url": "https://en.wikipedia.org/wiki/Space_debris"
+        },
+        {
+          "claim": "In 1981 the number of objects in orbit was estimated at 5,000.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Space debris",
+          "url": "https://en.wikipedia.org/wiki/Space_debris"
+        },
+        {
+          "claim": "By the late 1990s, about 8,500 of 28,000 launched objects remained in orbit.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Space debris",
+          "url": "https://en.wikipedia.org/wiki/Space_debris"
+        }
+      ],
+      "narration": [
+        {
+          "text": "40,230 objects in orbit are being tracked.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Every satellite's safety depends on knowing where they are.",
+          "layer": "MODEL",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "In 1981, the estimate was about 5,000.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "By 2009, over 13,000 close calls were logged every week.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "The space station moves when the collision risk tops one in 10,000.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "But fragments too small to track can't be dodged at all.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why tracking networks quietly protect every satellite you use.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-deep-space-network-antenna-becomes-the-bottleneck",
+      "topic": "Three Antenna Sites Hear Every Deep-Space Probe",
+      "coreQuestion": "How do three antenna complexes keep contact with spacecraft across the Solar System?",
+      "openingLine": "Why every deep-space probe depends on 3 sites.",
+      "secondBeat": "California, Spain and Australia share the listening.",
+      "dependency": "Communication with deep-space missions depends on the Deep Space Network's three complexes.",
+      "mechanism": "Sites spread around the globe keep at least one large dish facing any spacecraft as Earth rotates.",
+      "bottleneck": "Only a handful of very large dishes can hear the faintest signals, and many missions compete for their time.",
+      "failureConsequence": "Losing a complex would leave gaps in coverage, delaying commands and data from distant probes.",
+      "resilience": "Multiple dishes per site, arraying antennas together and partner agencies' stations add capacity.",
+      "expectedConsequence": "missions lose tracking time before they lose contact entirely",
+      "number": "70 m",
+      "thumbnailText": "3 SITES",
+      "visualScenes": [
+        "70-metre dish at Goldstone",
+        "Earth rotation handing off between sites",
+        "Madrid and Canberra complexes",
+        "faint signal from a distant probe",
+        "antenna scheduling timeline",
+        "Apollo 13 emergency communications"
+      ],
+      "editorialTitles": [
+        "The Three Places That Talk to Deep Space",
+        "Why NASA Needs Antennas on Three Continents"
+      ],
+      "facts": [
+        {
+          "claim": "The Deep Space Network's facilities are located in California, Madrid in Spain and Canberra in Australia.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — NASA Deep Space Network",
+          "url": "https://en.wikipedia.org/wiki/NASA_Deep_Space_Network"
+        },
+        {
+          "claim": "Each complex has three or more 34-meter beam waveguide antennas and one 70-meter antenna.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — NASA Deep Space Network",
+          "url": "https://en.wikipedia.org/wiki/NASA_Deep_Space_Network"
+        },
+        {
+          "claim": "Five of the 34-meter beam waveguide antennas were added in the late 1990s.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — NASA Deep Space Network",
+          "url": "https://en.wikipedia.org/wiki/NASA_Deep_Space_Network"
+        },
+        {
+          "claim": "The Goldstone complex is about 60 kilometres north of Barstow, California.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — NASA Deep Space Network",
+          "url": "https://en.wikipedia.org/wiki/NASA_Deep_Space_Network"
+        },
+        {
+          "claim": "The DSN supplied larger antennas for emergency communications such as Apollo 13.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — NASA Deep Space Network",
+          "url": "https://en.wikipedia.org/wiki/NASA_Deep_Space_Network"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why every deep-space probe depends on 3 sites.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "California, Spain and Australia share the listening.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "As Earth turns, one site always faces each spacecraft.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Each has a 70-metre dish and several 34-metre dishes.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "They even carried emergency links during Apollo 13.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Dozens of missions compete for time on the same few dishes.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "So losing one site means losing a third of the sky.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-geostationary-communications-transponder-is-so-hard-to-replace",
+      "topic": "The Satellites Parked 35,786 Kilometres Up",
+      "coreQuestion": "Why do communications satellites sit exactly 35,786 kilometres above the equator?",
+      "openingLine": "These satellites never move in your sky.",
+      "secondBeat": "They orbit exactly as fast as Earth turns.",
+      "dependency": "Satellite TV, weather imaging and many links depend on the single geostationary ring above the equator.",
+      "mechanism": "At 35,786 km altitude, an orbit takes one sidereal day, so the satellite stays over one spot and fixed dishes can point at it.",
+      "bottleneck": "There is only one geostationary ring, and its orbital slots and frequencies are limited and internationally coordinated.",
+      "failureConsequence": "A failed satellite leaves its coverage dark until a spare is moved or a replacement is launched.",
+      "resilience": "In-orbit spares, redundant transponders and end-of-life graveyard orbits protect the ring.",
+      "expectedConsequence": "service in one footprint drops until capacity is moved",
+      "number": "35,786 km",
+      "thumbnailText": "35,786 KM UP",
+      "visualScenes": [
+        "geostationary ring around Earth",
+        "fixed satellite dish pointing up",
+        "orbit period matching Earth's rotation",
+        "signal delay round trip",
+        "graveyard orbit above the belt",
+        "orbital slot map"
+      ],
+      "editorialTitles": [
+        "Why Satellites Hover Over One Spot",
+        "The 240-Millisecond Delay in Satellite Links"
+      ],
+      "facts": [
+        {
+          "claim": "The geostationary altitude is 35,786 kilometres above the equator.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Geostationary orbit",
+          "url": "https://en.wikipedia.org/wiki/Geostationary_orbit"
+        },
+        {
+          "claim": "This equates to an orbital speed of 3.07 kilometres per second and an orbital period of 1,436 minutes, one sidereal day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Geostationary orbit",
+          "url": "https://en.wikipedia.org/wiki/Geostationary_orbit"
+        },
+        {
+          "claim": "It takes about 240 ms for a signal to pass from a ground transmitter on the equator to the satellite and back.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Geostationary orbit",
+          "url": "https://en.wikipedia.org/wiki/Geostationary_orbit"
+        },
+        {
+          "claim": "Satellites must have a 90% chance of moving over 200 km above the geostationary belt at end of life.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Geostationary orbit",
+          "url": "https://en.wikipedia.org/wiki/Geostationary_orbit"
+        },
+        {
+          "claim": "Subtracting Earth's equatorial radius of 6,378 kilometres gives the geostationary altitude.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Geostationary orbit",
+          "url": "https://en.wikipedia.org/wiki/Geostationary_orbit"
+        }
+      ],
+      "narration": [
+        {
+          "text": "These satellites never move in your sky.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "They orbit exactly as fast as Earth turns.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That only works 35,786 kilometres above the equator.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Up there, one orbit takes 1,436 minutes, one sidereal day.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "A signal's round trip takes about 240 milliseconds.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "At end of life, satellites must climb over 200 kilometres higher.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why this one ring above the equator is so crowded and so guarded.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-rare-earth-separation-plant",
+      "topic": "Why One Country Supplies Most Rare Earths",
+      "coreQuestion": "How did one country come to supply about 90% of the rare-earth powders the world uses?",
+      "openingLine": "90% of rare-earth powders came from one country.",
+      "secondBeat": "In 2019, China supplied around 90% of global demand.",
+      "dependency": "Magnets in motors, turbines and electronics depend on separated rare-earth elements.",
+      "mechanism": "Rare earths occur mixed together and must be separated through long chains of chemical extraction steps.",
+      "bottleneck": "Separation capacity is concentrated in one country, and new plants take years to build and qualify.",
+      "failureConsequence": "Export restrictions tighten supply for magnet makers first, then for the products that use them.",
+      "resilience": "New mines and separation plants in other countries, recycling and substitute magnet designs slowly add supply.",
+      "expectedConsequence": "magnet supply tightens first; finished-product shortages lag",
+      "number": "90%",
+      "thumbnailText": "90% ONE COUNTRY",
+      "visualScenes": [
+        "rare-earth oxide powders",
+        "separation plant extraction columns",
+        "world production share map",
+        "permanent magnet in a motor",
+        "production share timeline 1985 to 1995",
+        "export restriction headlines"
+      ],
+      "editorialTitles": [
+        "Why Rare Earths Are a Chokepoint",
+        "The Chemical Separation Behind Every Magnet"
+      ],
+      "facts": [
+        {
+          "claim": "In 2019, China supplied around 90% of the global demand for the 17 rare-earth powders.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Rare-earth element",
+          "url": "https://en.wikipedia.org/wiki/Rare-earth_element"
+        },
+        {
+          "claim": "Between 1985 and 1995 China increased its share of rare-earth production from 21% to 60%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Rare-earth element",
+          "url": "https://en.wikipedia.org/wiki/Rare-earth_element"
+        },
+        {
+          "claim": "As of 2025, the US and Australia produce the second- and third-highest amounts of rare earths, while Brazil has the second-largest reserves.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Rare-earth element",
+          "url": "https://en.wikipedia.org/wiki/Rare-earth_element"
+        },
+        {
+          "claim": "Promethium, element 61, was produced synthetically in 1945, the last rare-earth element to be discovered.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Rare-earth element",
+          "url": "https://en.wikipedia.org/wiki/Rare-earth_element"
+        }
+      ],
+      "narration": [
+        {
+          "text": "90% of rare-earth powders came from one country.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2019, China supplied around 90% of global demand.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Between 1985 and 1995, its share grew from 21% to 60%.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "These 17 elements occur mixed, and separating them is slow chemistry.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "They end up in magnets for motors, turbines and electronics.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "New separation plants elsewhere take years to build.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why an export rule can ripple into car factories.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-gallium-recovery-circuit",
+      "topic": "The Metal That Melts in Your Hand and Powers Chips",
+      "coreQuestion": "Why does a metal that melts at 29.76 °C matter so much to semiconductors, and who makes it?",
+      "openingLine": "This metal melts in your hand.",
+      "secondBeat": "Gallium turns liquid at 29.76 degrees Celsius.",
+      "dependency": "Compound semiconductors in LEDs, radio chips and power electronics depend on gallium.",
+      "mechanism": "Gallium is recovered as a by-product of refining other ores, then purified for semiconductor compounds.",
+      "bottleneck": "Primary production is concentrated in one country, and recovery capacity elsewhere is small.",
+      "failureConsequence": "Export restrictions would squeeze chipmakers who rely on gallium compounds before substitutes exist.",
+      "resilience": "Restarting recovery at refineries elsewhere, recycling and stockpiles can add supply over time.",
+      "expectedConsequence": "specialty chip supply tightens first",
+      "number": "80–95%",
+      "thumbnailText": "MELTS IN HAND",
+      "visualScenes": [
+        "gallium melting in a palm",
+        "gallium crystal",
+        "LED and radio chip wafers",
+        "by-product refining flow",
+        "production share chart",
+        "export restriction map"
+      ],
+      "editorialTitles": [
+        "The Liquid Metal Behind LEDs and Radar Chips",
+        "Why Gallium Supply Is a Chokepoint"
+      ],
+      "facts": [
+        {
+          "claim": "The melting point of gallium, 29.7646 °C, is used as a temperature reference point.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gallium",
+          "url": "https://en.wikipedia.org/wiki/Gallium"
+        },
+        {
+          "claim": "As of July 2023, China accounted for between 80% and 95% of gallium production.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gallium",
+          "url": "https://en.wikipedia.org/wiki/Gallium"
+        },
+        {
+          "claim": "Germany ceased primary production of gallium in 2016.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gallium",
+          "url": "https://en.wikipedia.org/wiki/Gallium"
+        },
+        {
+          "claim": "Gallium's volume expands by 3.10% when it changes from liquid to solid.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gallium",
+          "url": "https://en.wikipedia.org/wiki/Gallium"
+        },
+        {
+          "claim": "Gallium's boiling point, 2,676 K, is nearly nine times its melting point on the absolute scale.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gallium",
+          "url": "https://en.wikipedia.org/wiki/Gallium"
+        }
+      ],
+      "narration": [
+        {
+          "text": "This metal melts in your hand.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Gallium turns liquid at 29.76 degrees Celsius.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Yet it's in LEDs, radio chips and power electronics.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It's mostly recovered as a by-product of refining other ores.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "By 2023, China made between 80% and 95% of it.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Germany stopped primary production in 2016.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "So one export decision can reach chip factories worldwide.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-cobalt-sulfate-refinery",
+      "topic": "The Battery Metal That Mostly Comes From One Country",
+      "coreQuestion": "Why do so many batteries depend on cobalt mined in the Democratic Republic of the Congo?",
+      "openingLine": "Over 80% of cobalt comes from one country.",
+      "secondBeat": "The Democratic Republic of the Congo mines most of it.",
+      "dependency": "Many lithium-ion battery chemistries depend on refined cobalt.",
+      "mechanism": "Cobalt ore is mined, concentrated and refined into battery-grade chemicals such as cobalt sulfate.",
+      "bottleneck": "Mining is concentrated in one country, so any disruption there moves the whole market.",
+      "failureConsequence": "A supply shock raises battery costs and pushes makers toward cobalt-free chemistries.",
+      "resilience": "Low-cobalt and cobalt-free chemistries, recycling and new mines reduce dependence over time.",
+      "expectedConsequence": "prices react first; chemistry choices shift over years",
+      "number": "80%",
+      "thumbnailText": "80% ONE COUNTRY",
+      "visualScenes": [
+        "cobalt ore sample",
+        "mine in the Katanga region",
+        "production share chart",
+        "battery cathode diagram",
+        "refinery process flow",
+        "cobalt-free battery alternative"
+      ],
+      "editorialTitles": [
+        "Why Batteries Depend on One Country's Cobalt",
+        "The Metal Inside Many Rechargeable Batteries"
+      ],
+      "facts": [
+        {
+          "claim": "In 2024, cobalt production exceeded 300,000 tons, of which the DRC accounted for more than 80%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cobalt",
+          "url": "https://en.wikipedia.org/wiki/Cobalt"
+        },
+        {
+          "claim": "World production in 2016 was 116,000 tonnes, and the DRC alone accounted for more than 50%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cobalt",
+          "url": "https://en.wikipedia.org/wiki/Cobalt"
+        },
+        {
+          "claim": "Large deposits were discovered in the Katanga Province in the Congo in 1914.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cobalt",
+          "url": "https://en.wikipedia.org/wiki/Cobalt"
+        },
+        {
+          "claim": "Cobalt-60 is a commercially important radioisotope used for producing high-energy gamma rays.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cobalt",
+          "url": "https://en.wikipedia.org/wiki/Cobalt"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Over 80% of cobalt comes from one country.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The Democratic Republic of the Congo mines most of it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "World output passed 300,000 tons that year.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "Back in 2016, that country's share was just over 50%.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Refined cobalt ends up in many rechargeable batteries.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "A disruption there moves prices for battery makers everywhere.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why battery chemists keep designing cobalt out.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-high-purity-neon-supply",
+      "topic": "The Gas Behind Chip Lasers That Came From a War Zone",
+      "coreQuestion": "How did most of the world's neon end up coming from Ukraine, and why do chipmakers care?",
+      "openingLine": "70% of the world's neon came from Ukraine.",
+      "secondBeat": "Then the 2022 invasion hit that supply.",
+      "dependency": "Excimer lasers used in chip lithography depend on high-purity neon gas.",
+      "mechanism": "Neon is a trace gas in air, about 18.2 ppm, captured as a by-product of large air-separation plants.",
+      "bottleneck": "Purification capacity was concentrated in a few plants tied to steel production in Russia and Ukraine.",
+      "failureConsequence": "A cut in neon supply raises costs for laser gas and pushes chipmakers to recycle or source elsewhere.",
+      "resilience": "Neon recycling at fabs, new air-separation capacity and stockpiles reduce exposure.",
+      "expectedConsequence": "gas prices jump first; production continues on stockpiles and recycling",
+      "number": "70%",
+      "thumbnailText": "70% FROM UKRAINE",
+      "visualScenes": [
+        "neon discharge tube glow",
+        "air separation plant",
+        "excimer laser in a lithography tool",
+        "supply share map",
+        "Odesa and Moscow plant locations",
+        "neon recycling loop"
+      ],
+      "editorialTitles": [
+        "Why Chipmakers Worried About Ukraine's Neon",
+        "The Trace Gas Inside Chip Lasers"
+      ],
+      "facts": [
+        {
+          "claim": "Before the 2022 Russian invasion of Ukraine, about 70% of the global neon supply was produced in Ukraine as a by-product of steel production in Russia.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Neon",
+          "url": "https://en.wikipedia.org/wiki/Neon"
+        },
+        {
+          "claim": "As of 2020, the company Iceblick, with plants in Odesa and Moscow, supplied 65% of the world's neon.",
+          "layer": "INDUSTRY CLAIM",
+          "source": "Wikipedia — Neon",
+          "url": "https://en.wikipedia.org/wiki/Neon"
+        },
+        {
+          "claim": "Neon constitutes about 18.2 ppm of Earth's atmospheric volume.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Neon",
+          "url": "https://en.wikipedia.org/wiki/Neon"
+        },
+        {
+          "claim": "After 1902, Air Liquide produced industrial quantities of neon as a by-product of air liquefaction.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Neon",
+          "url": "https://en.wikipedia.org/wiki/Neon"
+        },
+        {
+          "claim": "Neon was discovered in 1898 alongside krypton and xenon.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Neon",
+          "url": "https://en.wikipedia.org/wiki/Neon"
+        }
+      ],
+      "narration": [
+        {
+          "text": "70% of the world's neon came from Ukraine.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Then the 2022 invasion hit that supply.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Neon is only a tiny trace in the air we breathe.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "It's captured as a by-product of giant air-separation plants.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "One company once claimed 65% of world supply.",
+          "layer": "INDUSTRY CLAIM",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Chip lithography lasers depend on that purified gas.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why a war zone can reach a chip factory.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-mri-superconducting-magnet",
+      "topic": "The Liquid Helium Keeping MRI Magnets Cold",
+      "coreQuestion": "Why do MRI scanners depend on a liquid that exists only four degrees above absolute zero?",
+      "openingLine": "MRI magnets need helium at −269 degrees.",
+      "secondBeat": "It's liquid helium, only 4.15 kelvin above absolute zero.",
+      "dependency": "Superconducting MRI magnets depend on liquid helium to stay cold enough to superconduct.",
+      "mechanism": "Liquid helium keeps the magnet's coils superconducting, so a strong field runs with no electrical resistance.",
+      "bottleneck": "Helium is a non-renewable by-product of natural gas, and supply comes from a limited number of plants.",
+      "failureConsequence": "Helium shortages raise costs and can delay refills, putting magnets at risk of warming up.",
+      "resilience": "Low-helium sealed magnets, recovery systems and diversified suppliers reduce dependence.",
+      "expectedConsequence": "refill costs rise first; new low-helium designs spread over years",
+      "number": "4.15 K",
+      "thumbnailText": "−269 °C",
+      "visualScenes": [
+        "MRI scanner",
+        "superconducting coil diagram",
+        "liquid helium dewar",
+        "temperature scale to absolute zero",
+        "Large Hadron Collider magnets",
+        "helium supply chain"
+      ],
+      "editorialTitles": [
+        "Why MRI Needs the Coldest Liquid on Earth",
+        "The Helium Behind Every MRI Scan"
+      ],
+      "facts": [
+        {
+          "claim": "At standard pressure, helium exists as a liquid only at −269 °C (4.15 K).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Liquid helium",
+          "url": "https://en.wikipedia.org/wiki/Liquid_helium"
+        },
+        {
+          "claim": "Liquid helium-4 at its boiling point has a density of about 125 g/L, about one-eighth that of liquid water.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Liquid helium",
+          "url": "https://en.wikipedia.org/wiki/Liquid_helium"
+        },
+        {
+          "claim": "The Large Hadron Collider's superconducting magnets are cooled with 120 tonnes of liquid helium.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Liquid helium",
+          "url": "https://en.wikipedia.org/wiki/Liquid_helium"
+        },
+        {
+          "claim": "Most MRI systems operate at 1.5 T, with commercial systems available between 0.2 and 7 T.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Magnetic resonance imaging",
+          "url": "https://en.wikipedia.org/wiki/Magnetic_resonance_imaging"
+        }
+      ],
+      "narration": [
+        {
+          "text": "MRI magnets need helium at −269 degrees.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It's liquid helium, only 4.15 kelvin above absolute zero.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "So that cold keeps the magnet's coils superconducting.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Most scanners run at 1.5 tesla with no electrical resistance.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Physics labs use it too: the Large Hadron Collider holds 120 tonnes.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "Helium is a by-product of natural gas, and supply is limited.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why hospitals watch helium prices as closely as scans.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-kilogram-mass-calibration-chain",
+      "topic": "The Kilogram That Lost Weight",
+      "coreQuestion": "How did the world's master kilogram drift, and what replaced it?",
+      "openingLine": "Why the master kilogram lost 50 micrograms.",
+      "secondBeat": "It drifted compared with its own copies over a century.",
+      "dependency": "Every scale, from pharmacies to trade, traces its accuracy back through a chain of calibrations to the definition of the kilogram.",
+      "mechanism": "National labs compared their platinum-iridium copies with the prototype kilogram in Paris during rare verifications.",
+      "bottleneck": "A single physical object defined the unit, so any drift in it silently shifted the whole chain.",
+      "failureConsequence": "A drifting reference means every calibration inherits an error nobody can measure against the reference itself.",
+      "resilience": "Since 2019 the kilogram is defined by a fixed constant of nature, so it can be realised in labs anywhere.",
+      "expectedConsequence": "errors hide inside the reference until an independent definition exposes them",
+      "number": "50 μg",
+      "thumbnailText": "LOST 50 µg",
+      "visualScenes": [
+        "prototype kilogram under glass bell jars",
+        "vault in Paris",
+        "national copy comparison chart",
+        "micrograms scale graphic",
+        "Planck-constant balance",
+        "calibration chain from lab to shop scale"
+      ],
+      "editorialTitles": [
+        "The Kilogram That Mysteriously Lost Mass",
+        "Why the Kilogram Was Redefined"
+      ],
+      "facts": [
+        {
+          "claim": "The IPK lost perhaps 50 μg of mass over the last century compared with its official copies.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — International Prototype of the Kilogram",
+          "url": "https://en.wikipedia.org/wiki/International_Prototype_of_the_Kilogram"
+        },
+        {
+          "claim": "The only three verifications occurred in 1889, 1948, and 1989.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — International Prototype of the Kilogram",
+          "url": "https://en.wikipedia.org/wiki/International_Prototype_of_the_Kilogram"
+        },
+        {
+          "claim": "The US primary standard K20 had an official mass of 1 kg − 39 μg in 1889.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — International Prototype of the Kilogram",
+          "url": "https://en.wikipedia.org/wiki/International_Prototype_of_the_Kilogram"
+        },
+        {
+          "claim": "The US owns five 90% platinum / 10% iridium kilogram standards.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — International Prototype of the Kilogram",
+          "url": "https://en.wikipedia.org/wiki/International_Prototype_of_the_Kilogram"
+        },
+        {
+          "claim": "Following the 2019 revision of the SI, every base unit except the mole relies on the definition of the second.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Atomic clock",
+          "url": "https://en.wikipedia.org/wiki/Atomic_clock"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the master kilogram lost 50 micrograms.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It drifted compared with its own copies over a century.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It was checked only three times: 1889, 1948 and 1989.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Nations kept platinum-iridium copies to calibrate against it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "If the master drifts, every scale in the chain drifts with it.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "So in 2019, the kilogram was redefined by a constant of nature.",
+          "layer": "VERIFIED FACT",
+          "role": "RESILIENCE"
+        },
+        {
+          "text": "That's why no metal object defines a kilogram anymore.",
+          "layer": "VERIFIED FACT",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-rail-gauge-standard",
+      "topic": "The 1,435-Millimetre Standard That Connects Railways",
+      "coreQuestion": "Why do about 60% of the world's railway lines share one odd track width?",
+      "openingLine": "Why 60% of railways share one odd width.",
+      "secondBeat": "Standard gauge is exactly 1,435 millimetres between the rails.",
+      "dependency": "Through-running trains and cross-border freight depend on shared track gauge.",
+      "mechanism": "Wheelsets are fixed to one rail spacing, so a train can only run where the track matches it.",
+      "bottleneck": "Where gauges differ, cargo must be transferred or wheelsets changed at the border.",
+      "failureConsequence": "A gauge break adds hours, cost and handling to every shipment that crosses it.",
+      "resilience": "Dual-gauge track, variable-gauge wheelsets and transfer terminals soften the break.",
+      "expectedConsequence": "delays concentrate at gauge breaks",
+      "number": "1,435 mm",
+      "thumbnailText": "1,435 MM",
+      "visualScenes": [
+        "rail gauge measurement close-up",
+        "world map of gauge types",
+        "wheelset on track",
+        "border gauge-change station",
+        "early British railway",
+        "dual-gauge track"
+      ],
+      "editorialTitles": [
+        "Why Railway Tracks Are 1,435 Millimetres Apart",
+        "The Odd Number That Connects Railways"
+      ],
+      "facts": [
+        {
+          "claim": "A standard-gauge railway has a track gauge of 1,435 mm (4 ft 8+1⁄2 in).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Standard-gauge railway",
+          "url": "https://en.wikipedia.org/wiki/Standard-gauge_railway"
+        },
+        {
+          "claim": "It is the most widely used track gauge, with about 60% of the lines in the world using it.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Standard-gauge railway",
+          "url": "https://en.wikipedia.org/wiki/Standard-gauge_railway"
+        },
+        {
+          "claim": "Its adoption throughout much of the world allowed interconnectivity and interoperability.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Standard-gauge railway",
+          "url": "https://en.wikipedia.org/wiki/Standard-gauge_railway"
+        },
+        {
+          "claim": "One railway used a different gauge for 15 years before changing to 1,435 mm around 1850.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Standard-gauge railway",
+          "url": "https://en.wikipedia.org/wiki/Standard-gauge_railway"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 60% of railways share one odd width.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Standard gauge is exactly 1,435 millimetres between the rails.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That's four feet eight and a half inches.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Trains' wheels are fixed to one spacing, so tracks must match.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Sharing it lets trains cross networks without stopping.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Where gauges differ, cargo or wheels must change at the border.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why an odd number still decides how freight moves.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-shipping-container-iso-standard",
+      "topic": "The Standard Box That Changed World Trade",
+      "coreQuestion": "How did one standard box size let ships, trains and trucks move 20 million containers?",
+      "openingLine": "20.5 million boxes share the same standard.",
+      "secondBeat": "Intermodal containers fit ships, trains and trucks alike.",
+      "dependency": "Global container shipping depends on standard box sizes and fittings that every crane, ship and truck accepts.",
+      "mechanism": "Standard dimensions and corner fittings let the same box move between ship, rail and road without unpacking.",
+      "bottleneck": "Every crane, cell guide and chassis is built around the standard, so changing it would mean rebuilding the whole system.",
+      "failureConsequence": "A non-standard box cannot use the global network and has to be handled as costly break-bulk cargo.",
+      "resilience": "Because the standard is shared, containers, cranes and ships from any supplier can substitute for each other.",
+      "expectedConsequence": "standardisation makes the system resilient to single suppliers",
+      "number": "20.5 million",
+      "thumbnailText": "ONE BOX",
+      "visualScenes": [
+        "stacked shipping containers",
+        "container moving from ship to train to truck",
+        "twenty-foot equivalent unit graphic",
+        "ISO 6346 reporting mark",
+        "Malcom McLean's first container ship",
+        "container count chart"
+      ],
+      "editorialTitles": [
+        "The Box That Built Global Trade",
+        "Why Every Shipping Container Is the Same Size"
+      ],
+      "facts": [
+        {
+          "claim": "In 2012, there were about 20.5 million intermodal containers in the world.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Intermodal container",
+          "url": "https://en.wikipedia.org/wiki/Intermodal_container"
+        },
+        {
+          "claim": "In 1955, trucking magnate Malcom McLean bought Pan-Atlantic Steamship Company to form a container shipping enterprise, later Sea-Land.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Intermodal container",
+          "url": "https://en.wikipedia.org/wiki/Intermodal_container"
+        },
+        {
+          "claim": "A twenty-foot equivalent unit equals one standard 20-foot (6.1 m) long container.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Intermodal container",
+          "url": "https://en.wikipedia.org/wiki/Intermodal_container"
+        },
+        {
+          "claim": "Each container has a unique ISO 6346 reporting mark.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Intermodal container",
+          "url": "https://en.wikipedia.org/wiki/Intermodal_container"
+        },
+        {
+          "claim": "In 1968, McLean began container service to South Vietnam for the US military.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Intermodal container",
+          "url": "https://en.wikipedia.org/wiki/Intermodal_container"
+        }
+      ],
+      "narration": [
+        {
+          "text": "20.5 million boxes share the same standard.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Intermodal containers fit ships, trains and trucks alike.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The unit of trade is the 20-foot box, about 6.1 metres long.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Each carries a unique ISO 6346 code.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Malcom McLean started building the system in 1955.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "Now every crane and chassis is built around those sizes.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why a box you never see decides what your goods cost.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-barcode-numbering-standard",
+      "topic": "The 12 Digits on Almost Everything You Buy",
+      "coreQuestion": "How does a 12-digit number let every checkout in the world recognise the same product?",
+      "openingLine": "12 digits identify almost everything you buy.",
+      "secondBeat": "A UPC barcode gives every product its own number.",
+      "dependency": "Retail checkout, inventory and supply-chain tracking depend on globally unique product numbers.",
+      "mechanism": "A central organisation assigns number ranges so each trade item gets a unique code that scanners read in a fraction of a second.",
+      "bottleneck": "The numbering system only works if one organisation coordinates the codes worldwide.",
+      "failureConsequence": "Duplicate or missing codes would break checkout, stock counts and recalls.",
+      "resilience": "A single global registry, check digits and backward-compatible code formats keep the system consistent.",
+      "expectedConsequence": "errors surface at checkout and in inventory first",
+      "number": "12 digits",
+      "thumbnailText": "12 DIGITS",
+      "visualScenes": [
+        "UPC barcode close-up",
+        "checkout scanner beam",
+        "digit structure diagram",
+        "first scanned pack of gum",
+        "warehouse inventory scan",
+        "global registry map"
+      ],
+      "editorialTitles": [
+        "The First Thing Ever Scanned at a Checkout",
+        "How 12 Digits Run Every Supermarket"
+      ],
+      "facts": [
+        {
+          "claim": "A UPC-A consists of 12 digits uniquely assigned to each trade item.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "claim": "The international GS1 organisation assigns the digits used for both the UPC and the EAN barcode.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "claim": "The first UPC-marked item scanned at a retail checkout was a 10-pack (50 sticks) of Wrigley's Juicy Fruit gum at the Marsh supermarket in Troy, Ohio.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "claim": "The first UPC scan took place on 26 June 1974.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        },
+        {
+          "claim": "UPC data structures are a component of Global Trade Item Numbers and follow the GS1 specification.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Universal Product Code",
+          "url": "https://en.wikipedia.org/wiki/Universal_Product_Code"
+        }
+      ],
+      "narration": [
+        {
+          "text": "12 digits identify almost everything you buy.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "A UPC barcode gives every product its own number.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "One organisation, GS1, assigns those numbers worldwide.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "The first item ever scanned was a pack of Juicy Fruit gum.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "That happened in Troy, Ohio, on 26 June 1974.",
+          "layer": "VERIFIED FACT",
+          "role": "WHERE_IT_EXISTS"
+        },
+        {
+          "text": "Duplicate codes would break checkouts, stock counts and recalls.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why a registry you never see runs every supermarket.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-border-gateway-routing-system",
+      "topic": "The Day the Internet Outgrew Old Routers",
+      "coreQuestion": "How did one routing-table milestone in 2014 knock parts of the internet offline?",
+      "openingLine": "15,000 new routes knocked old routers offline.",
+      "secondBeat": "The internet's routing table passed 512,000 entries.",
+      "dependency": "Every packet crossing between networks depends on the Border Gateway Protocol's shared routing table.",
+      "mechanism": "Networks announce which address blocks they can reach, and routers store the full table to choose paths.",
+      "bottleneck": "Older routers had hardware tables sized for about 512,000 routes, a limit the internet was approaching.",
+      "failureConsequence": "When the table crossed the limit, affected routers dropped routes and parts of the internet became unstable for hours.",
+      "resilience": "Router reconfiguration, hardware upgrades and route aggregation raise the ceiling.",
+      "expectedConsequence": "instability hits older networks first",
+      "number": "512,000",
+      "thumbnailText": "512K DAY",
+      "visualScenes": [
+        "global routing map",
+        "router memory table filling",
+        "BGP announcement diagram",
+        "network outage timeline",
+        "15,000 new routes graph",
+        "router upgrade"
+      ],
+      "editorialTitles": [
+        "The Day the Internet's Routing Table Broke Old Routers",
+        "What Happened on 512k Day"
+      ],
+      "facts": [
+        {
+          "claim": "A full IPv4 BGP table as of August 2014 was in excess of 512,000 prefixes, while many older routers had a limit of 512k routing entries.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Border Gateway Protocol",
+          "url": "https://en.wikipedia.org/wiki/Border_Gateway_Protocol"
+        },
+        {
+          "claim": "On impacted routers, the TCAM was by default allocated as 512k IPv4 routes and 256k IPv6 routes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Border Gateway Protocol",
+          "url": "https://en.wikipedia.org/wiki/Border_Gateway_Protocol"
+        },
+        {
+          "claim": "The announcement of about 15,000 new routes in short order, starting at 07:48 UTC, pushed the table above 512k.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Border Gateway Protocol",
+          "url": "https://en.wikipedia.org/wiki/Border_Gateway_Protocol"
+        },
+        {
+          "claim": "The new routes were reaggregated within 5 minutes, but instability continued for a number of hours.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Border Gateway Protocol",
+          "url": "https://en.wikipedia.org/wiki/Border_Gateway_Protocol"
+        }
+      ],
+      "narration": [
+        {
+          "text": "15,000 new routes knocked old routers offline.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The internet's routing table passed 512,000 entries.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Every network announces which addresses it can reach, using BGP.",
+          "layer": "VERIFIED FACT",
+          "role": "HOW_IT_WORKS"
+        },
+        {
+          "text": "Many older routers could only hold 512,000 routes.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "It happened in August 2014, starting at 07:48 UTC.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "They were fixed within 5 minutes, yet instability lasted hours.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why the internet's map can outgrow the machines reading it.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-strait-of-malacca-navigation-route",
+      "topic": "The 2.8-Kilometre Channel Asia's Oil Must Pass",
+      "coreQuestion": "Why does so much of Asia's oil squeeze through a channel just 2.8 kilometres wide?",
+      "openingLine": "Why 35% of seaborne oil passes one channel.",
+      "secondBeat": "The Strait of Malacca narrows to just 2.8 kilometres.",
+      "dependency": "Much of East Asia's seaborne oil and gas depends on passage through the Strait of Malacca.",
+      "mechanism": "Ships follow a traffic separation scheme through a long strait that narrows to 2.8 km near Singapore.",
+      "bottleneck": "The largest tankers are too deep for its 25-metre minimum depth, and detours add days.",
+      "failureConsequence": "A blockage would force ships onto longer routes through Indonesian straits, raising costs and delivery times.",
+      "resilience": "Alternative straits, pipelines and strategic reserves cover part of a disruption.",
+      "expectedConsequence": "freight costs rise first as ships reroute",
+      "number": "2.8 km",
+      "thumbnailText": "2.8 KM",
+      "visualScenes": [
+        "satellite map of the Strait of Malacca",
+        "Phillip Channel near Singapore",
+        "tanker traffic lanes",
+        "depth profile of the strait",
+        "alternative route map",
+        "oil share graphic"
+      ],
+      "editorialTitles": [
+        "The Narrow Channel Carrying Asia's Oil",
+        "Why the Strait of Malacca Is a Chokepoint"
+      ],
+      "facts": [
+        {
+          "claim": "As of 2024, over 35% of oil transported by sea and 20% of gas flowed through the strait.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Malacca",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Malacca"
+        },
+        {
+          "claim": "The strait narrows to only 2.8 km (1.5 nautical miles) wide at the Phillip Channel near southern Singapore.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Malacca",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Malacca"
+        },
+        {
+          "claim": "The draught of some of the largest ships exceeds the strait's minimum depth of 25 metres.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Malacca",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Malacca"
+        },
+        {
+          "claim": "Roughly 80% of China's imported crude oil passes through the strait.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Malacca",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Malacca"
+        },
+        {
+          "claim": "There have been 34 shipwrecks in the local traffic separation scheme channel.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strait of Malacca",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Malacca"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 35% of seaborne oil passes one channel.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The Strait of Malacca narrows to just 2.8 kilometres.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That's the Phillip Channel, near southern Singapore.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "About 80% of China's crude imports come this way.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its minimum depth is 25 metres, too shallow for the biggest tankers.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Any detour through other straits adds time and cost.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a channel this narrow shapes an entire region's energy.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "general-slocum-1904",
+  "format": "short",
+  "olusturuldu": "2026-09-30T13:58:21.848Z",
+  "ekranHook": "Life vests full of iron",
+  "mevcut": {
+    "puan": 100,
+    "pencereler": {
+      "0-5": "Over a thousand people died on a steamboat close to shore. Fire spread through",
+      "5-12": "the whole ship in minutes. So why could nobody escape on a boat surrounded by water? The life preservers",
+      "12-20": "were thirteen years old and crumbling. Some were packed with iron bars to reach the legal weight. They dragged people under instead",
+      "20-30": "of holding them up. The lifeboats were wired to the deck and would not launch. The inspector had passed it all. He went to prison."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: a central question/problem is raised",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "The General Slocum fire burned with over a thousand dead."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a fire in a forward storage room."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could a fire in a forward storage room do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is safety equipment that passed inspection but did not work — and it is why US steamboat inspection was overhauled and life preservers got material standards and expiry rules."
+      }
+    ],
+    "metin": "The General Slocum fire burned with over a thousand dead. It took only a fire in a forward storage room. So how could a fire in a forward storage room do this? The answer is safety equipment that passed inspection but did not work — and it is why US steamboat inspection was overhauled and life preservers got material standards and expiry rules.",
+    "puan": 95
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "Half a Mountain Fell on a Highway",
+  "kaynaklar": [
+    {
+      "ad": "hope-slide-1.jpg",
+      "wikimedia": "Hope Slide near west side of Manning Park (1701647281).jpg"
+    },
+    {
+      "ad": "hope-slide-2.jpg",
+      "wikimedia": "Hope slide buried people in 1965 (1701646789).jpg"
+    },
+    {
+      "ad": "hope-slide-3.jpg",
+      "wikimedia": "Hope slide, BC.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In British Columbia, a mountainside collapsed onto a highway.",
+      "kaynak": "Footage/hope-slide-1.jpg"
+    },
+    {
+      "metin": "In seconds, rock buried the road, and four people were killed.",
+      "kaynak": "Footage/hope-slide-2.jpg"
+    },
+    {
+      "metin": "A small avalanche had already stopped cars there.",
+      "kaynak": "Footage/hope-slide-3.jpg"
+    },
+    {
+      "metin": "Two small earthquakes were recorded that morning.",
+      "kaynak": "Footage/hope-slide-1.jpg"
+    },
+    {
+      "metin": "Then Johnson Peak's slope gave way.",
+      "kaynak": "Footage/hope-slide-2.jpg"
+    },
+    {
+      "metin": "Tens of millions of cubic metres of rock came down.",
+      "kaynak": "Footage/hope-slide-3.jpg"
+    },
+    {
+      "metin": "It is one of Canada's largest recorded landslides.",
+      "kaynak": "Footage/hope-slide-1.jpg"
+    },
+    {
+      "metin": "The new highway was built over the debris.",
+      "kaynak": "Footage/hope-slide-2.jpg"
+    }
+  ],
+  "aciklama": "Hope Slide buried a highway under rock. The cause: a massive rock slope failure, possibly linked to small earthquakes.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Hope Slide",
+    "1965",
+    "mountainside",
+    "engineering failure"
+  ],
+  "hook": "Half a mountain fell",
+  "soru": "How do you read a warning?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Hope Slide",
+    "kisa": "Hope Slide",
+    "nesne": "Mountainside",
+    "yil": 1965,
+    "sonuc": "buried a highway under rock",
+    "tetik": "the collapse of Johnson Peak's southwestern slope",
+    "mekanizma": "a massive rock slope failure, possibly linked to small earthquakes",
+    "sayi": "FOUR DIED",
+    "ders": "the new road was built over the debris and the site is a viewpoint",
+    "zincir": [
+      "SMALL AVALANCHE STOPS CARS",
+      "EARLY MORNING QUAKES",
+      "SLOPE FAILS",
+      "ROCK BURIES HIGHWAY",
+      "FOUR DIE"
+    ],
+    "zaman": [],
+    "yanilgi": "The victims were stopped by a smaller avalanche first. Then the big slide came.",
+    "tartisma": "A small warning event trapped people in the danger zone. How do you read a warning correctly?",
+    "basliklar": [
+      "Half a Mountain Fell on a Highway",
+      "What Caused the Hope Slide",
+      "Half a Mountain on the Highway"
+    ],
+    "kapak": [
+      "HALF A MOUNTAIN",
+      "BURIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hope Slide",
+        "url": "https://en.wikipedia.org/wiki/Hope_Slide"
+      },
+      {
+        "ad": "Government source — search historic data stations e.html?searchType=stnName&timeframe=1&tx (cited by Wikipedia)",
+        "url": "https://climate.weather.gc.ca/historical_data/search_historic_data_stations_e.html?searchType=stnName&timeframe=1&txtStationName=Hope+Slide&searchMethod=contains&optLimit=yearRange&StartYear=1840&EndYear=2025&Year=2025&Month=10&Day=19&selRowPerPage=25"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-tmp",
+    "wiki": "Hope_Slide",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Hope Slide near west side of Manning Park (1701647281).jpg [CC BY 2.0]",
+      "Hope slide buried people in 1965 (1701646789).jpg [CC BY 2.0]",
+      "Hope slide, BC.jpg [Public domain]"
+    ]
+  }
+}

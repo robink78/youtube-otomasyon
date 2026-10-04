@@ -1,0 +1,273 @@
+{
+  "slug": "why-concrete-crumbles",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.880Z",
+  "secilen": "Concrete Cancer: The Silent Threat in Old Buildings",
+  "secilenPuan": 53.4,
+  "mevcutPuan": 40.4,
+  "sablonOnerisi": {
+    "baslik": "Concrete Cancer: Why Concrete Rots From the Inside",
+    "puan": 68,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 10,
+  "adaylar": [
+    {
+      "baslik": "Concrete Cancer: Why Concrete Rots From the Inside",
+      "kalip": "label-colon",
+      "toplam": 68,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "template:mechanism-why"
+    },
+    {
+      "baslik": "Concrete Rots From the Inside. Engineers Call It Concrete Cancer.",
+      "kalip": "engineers-call-it",
+      "toplam": 66.3,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 9.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.07,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (65 chars)"
+      ],
+      "kaynak": "template:engineers-call-it"
+    },
+    {
+      "baslik": "The Physics of How Concrete Rots From the Inside",
+      "kalip": "physics-of",
+      "toplam": 66.1,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "What Breaks First When Concrete Rots From the Inside",
+      "kalip": "what",
+      "toplam": 60.2,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.09,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:breaks-first"
+    },
+    {
+      "baslik": "What Actually Happens When Concrete Rots From the Inside",
+      "kalip": "what-really",
+      "toplam": 55.2,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "What Actually Makes a Volcano Explode"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-happens"
+    },
+    {
+      "baslik": "Concrete Cancer: The Silent Threat in Old Buildings",
+      "kalip": "label-colon",
+      "toplam": 53.4,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "The Silent Gas That Kills You in Your Sleep"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The Rust Hidden Inside Concrete",
+      "kalip": "statement",
+      "toplam": 47.4,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "How Rust Silently Destroys Bridges and Ships"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"statement\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why Concrete Rots From the Inside",
+      "kalip": "why",
+      "toplam": 42.3,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why Concrete Buildings Rot From the Inside",
+      "kalip": "why",
+      "toplam": 40.4,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.23,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Concrete Explained",
+      "kalip": "explained",
+      "toplam": 18.3,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.06,
+        "closest": "Why Glass Explodes for No Reason"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

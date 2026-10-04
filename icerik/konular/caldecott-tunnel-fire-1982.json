@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Gasoline Tanker Crashed Inside a Tunnel",
+  "kaynaklar": [
+    {
+      "ad": "caldecott-tunnel-fire-1.png",
+      "wikimedia": "NTSB HAR-83-01 Fig 1.png"
+    },
+    {
+      "ad": "caldecott-tunnel-fire-2.png",
+      "wikimedia": "NTSB HAR-83-02 Fig 2.png"
+    },
+    {
+      "ad": "caldecott-tunnel-fire-3.png",
+      "wikimedia": "Caldecott1.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Just after midnight, a gasoline tanker crashed inside the Caldecott Tunnel.",
+      "kaynak": "Footage/caldecott-tunnel-fire-1.png"
+    },
+    {
+      "metin": "Fire filled the bore, and seven people died.",
+      "kaynak": "Footage/caldecott-tunnel-fire-2.png"
+    },
+    {
+      "metin": "The double tanker drifted between lanes.",
+      "kaynak": "Footage/caldecott-tunnel-fire-3.png"
+    },
+    {
+      "metin": "It struck a car.",
+      "kaynak": "Footage/caldecott-tunnel-fire-1.png"
+    },
+    {
+      "metin": "The gasoline trailer was damaged.",
+      "kaynak": "Footage/caldecott-tunnel-fire-2.png"
+    },
+    {
+      "metin": "Fuel ignited inside the tunnel.",
+      "kaynak": "Footage/caldecott-tunnel-fire-3.png"
+    },
+    {
+      "metin": "Several vehicles were caught in the fire.",
+      "kaynak": "Footage/caldecott-tunnel-fire-1.png"
+    },
+    {
+      "metin": "Tankers carrying hazardous cargo were largely banned from the tunnel.",
+      "kaynak": "Footage/caldecott-tunnel-fire-2.png"
+    }
+  ],
+  "aciklama": "Caldecott Tunnel burned inside a tunnel near Oakland. The cause: a tanker striking a car, rupturing its trailer and igniting fuel in the bore.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Caldecott Tunnel",
+    "1982",
+    "tunnel",
+    "engineering failure"
+  ],
+  "hook": "A tanker burned in the tunnel",
+  "soru": "Should tankers share tunnels?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Caldecott Tunnel fire",
+    "kisa": "Caldecott Tunnel",
+    "nesne": "Tunnel",
+    "yil": 1982,
+    "sonuc": "burned inside a tunnel near Oakland",
+    "tetik": "a chain-reaction crash involving a gasoline tanker",
+    "mekanizma": "a tanker striking a car, rupturing its trailer and igniting fuel in the bore",
+    "sayi": "SEVEN DIED",
+    "ders": "hazardous cargo tankers were largely banned from the tunnel",
+    "zincir": [
+      "TANKER DRIFTS",
+      "HITS CAR",
+      "TRAILER DAMAGED",
+      "GASOLINE IGNITES",
+      "FIRE FILLS BORE"
+    ],
+    "zaman": [],
+    "yanilgi": "Tunnel fires with flammable cargo are rare. This one showed why they're so deadly.",
+    "tartisma": "Tankers were banned afterward. Should dangerous cargo ever share tunnels with cars?",
+    "basliklar": [
+      "A Gasoline Tanker Crashed Inside a Tunnel",
+      "Why the Caldecott Tunnel Fire Was So Deadly",
+      "The Tanker Crash Inside a Tunnel"
+    ],
+    "kapak": [
+      "TUNNEL FIRE",
+      "TANKER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Caldecott Tunnel fire",
+        "url": "https://en.wikipedia.org/wiki/Caldecott_Tunnel_fire"
+      },
+      {
+        "ad": "NTSB — HAR8301 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR8301.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "Caldecott_Tunnel_fire",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "NTSB HAR-83-01 Fig 1.png [Public domain]",
+      "NTSB HAR-83-02 Fig 2.png [Public domain]",
+      "Caldecott1.png [Public domain]"
+    ]
+  }
+}

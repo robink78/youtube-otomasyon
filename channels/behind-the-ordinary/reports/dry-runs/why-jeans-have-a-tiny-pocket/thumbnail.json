@@ -1,0 +1,41 @@
+{
+  "subject": "jeans",
+  "text": [
+    "NOT FOR COINS"
+  ],
+  "maxWords": 4,
+  "palette": [
+    "#15130f",
+    "#f3ead8",
+    "#f2ad45",
+    "#4eb3a5"
+  ],
+  "clutter": false,
+  "concepts": [
+    {
+      "id": "single-object-detail",
+      "composition": "one jeans filling the frame",
+      "consequence": "one amber marker on tiny pockets"
+    },
+    {
+      "id": "macro-purpose",
+      "composition": "macro crop of tiny pockets",
+      "consequence": "rest of object softly out of focus"
+    },
+    {
+      "id": "then-now",
+      "composition": "clean two-panel historical and modern jeans",
+      "consequence": "tiny pockets aligned across both"
+    },
+    {
+      "id": "cutaway",
+      "composition": "labelled cutaway of tiny pockets",
+      "consequence": "one teal motion or force arrow"
+    },
+    {
+      "id": "misconception",
+      "composition": "jeans isolated on warm charcoal",
+      "consequence": "wrong use dimmed, documented purpose highlighted"
+    }
+  ]
+}

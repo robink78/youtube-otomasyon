@@ -1,0 +1,123 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Ship Full of Fertilizer Exploded in a Harbor",
+  "kaynaklar": [
+    {
+      "ad": "texas-city-1.jpg",
+      "wikimedia": "Txcitydisaster5storybuilding.jpg"
+    },
+    {
+      "ad": "texas-city-2.jpg",
+      "wikimedia": "Txcitydisasterboat.jpg"
+    },
+    {
+      "ad": "texas-city-3.jpg",
+      "wikimedia": "Txcitydisasterparkinglot.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A cargo ship exploded in a Texas harbor.",
+      "kaynak": "Footage/texas-city-1.jpg"
+    },
+    {
+      "metin": "The blast flattened the waterfront and killed hundreds.",
+      "kaynak": "Footage/texas-city-2.jpg"
+    },
+    {
+      "metin": "Its cargo was ammonium nitrate fertilizer.",
+      "kaynak": "Footage/texas-city-3.jpg"
+    },
+    {
+      "metin": "A fire had started deep in the hold.",
+      "kaynak": "Footage/texas-city-1.jpg"
+    },
+    {
+      "metin": "The crew closed the hatches and pumped in steam to smother it.",
+      "kaynak": "Footage/texas-city-2.jpg"
+    },
+    {
+      "metin": "That trapped heat, and the fertilizer detonated.",
+      "kaynak": "Footage/texas-city-3.jpg"
+    },
+    {
+      "metin": "The next day, a second ship exploded too.",
+      "kaynak": "Footage/texas-city-1.jpg"
+    },
+    {
+      "metin": "Rules for storing and shipping ammonium nitrate were tightened.",
+      "kaynak": "Footage/texas-city-2.jpg"
+    }
+  ],
+  "aciklama": "Texas City exploded in the port of Texas City. The cause: detonation of ammonium nitrate fertilizer heated in a closed, steam-smothered hold.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Texas City disaster",
+    "ammonium nitrate",
+    "Grandcamp",
+    "explosion",
+    "1947"
+  ],
+  "hook": "It was carrying fertilizer",
+  "soru": "Would you have watched?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the SS Grandcamp",
+    "kisa": "Texas City",
+    "nesne": "Ship",
+    "yil": 1947,
+    "sonuc": "exploded in the port of Texas City",
+    "tetik": "a fire in a hold full of ammonium nitrate",
+    "mekanizma": "detonation of ammonium nitrate fertilizer heated in a closed, steam-smothered hold",
+    "sayi": "2,300 TONS",
+    "ders": "ammonium nitrate handling and port storage rules were tightened",
+    "zincir": [
+      "FIRE IN THE CARGO HOLD",
+      "HATCHES CLOSED, STEAM PUMPED IN",
+      "AMMONIUM NITRATE HEATS",
+      "SHIP DETONATES",
+      "FIRES SET OFF A SECOND SHIP"
+    ],
+    "zaman": [
+      {
+        "t": "Apr 16, 1947",
+        "olay": "Grandcamp explodes; High Flyer explodes the next day"
+      }
+    ],
+    "yanilgi": "Pumping in steam didn't smother the fire. It helped heat the ammonium nitrate toward detonation.",
+    "tartisma": "Crowds gathered to watch the burning ship. How close is too close to a fire you don't understand?",
+    "basliklar": [
+      "A Ship Full of Fertilizer Exploded in a Harbor",
+      "Why the Texas City Disaster Happened",
+      "The Fire They Tried to Smother With Steam"
+    ],
+    "kapak": [
+      "FERTILIZER",
+      "HARBOR BLAST"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Texas City disaster",
+        "url": "https://en.wikipedia.org/wiki/Texas_City_disaster"
+      },
+      {
+        "ad": "Texas State Historical Association — Texas City Disaster",
+        "url": "https://www.tshaonline.org/handbook/entries/texas-city-disaster"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Texas_City_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Txcitydisaster5storybuilding.jpg [Public domain]",
+      "Txcitydisasterboat.jpg [Public domain]",
+      "Txcitydisasterparkinglot.jpg [Public domain]"
+    ]
+  }
+}

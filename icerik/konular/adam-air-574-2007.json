@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Pilots Fixing a Navigation Fault Didn't Notice the Dive",
+  "kaynaklar": [
+    {
+      "ad": "adam-air-574-1.jpg",
+      "wikimedia": "US Navy 070129-N-5747D-001 The Military Sealift Command (MSC) oceanographic survey ship USNS Mary Sears (T-AGS 65) shown moored in Singapore.jpg"
+    },
+    {
+      "ad": "adam-air-574-2.jpg",
+      "wikimedia": "23-3-06, Boeing 737-400, Adam Air, CGK PK-KKW.jpg"
+    },
+    {
+      "ad": "adam-air-574-3.jpg",
+      "wikimedia": "Adam Air Boeing 737-4Q8 PK-KKW.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An airliner dove into the sea off Indonesia.",
+      "kaynak": "Footage/adam-air-574-1.jpg"
+    },
+    {
+      "metin": "It broke apart at high speed, and all one hundred two aboard were killed.",
+      "kaynak": "Footage/adam-air-574-2.jpg"
+    },
+    {
+      "metin": "A navigation unit had been faulty for weeks.",
+      "kaynak": "Footage/adam-air-574-3.jpg"
+    },
+    {
+      "metin": "In flight, both pilots worked on it.",
+      "kaynak": "Footage/adam-air-574-1.jpg"
+    },
+    {
+      "metin": "The autopilot disengaged.",
+      "kaynak": "Footage/adam-air-574-2.jpg"
+    },
+    {
+      "metin": "The jet slowly rolled and nobody noticed.",
+      "kaynak": "Footage/adam-air-574-3.jpg"
+    },
+    {
+      "metin": "When they did, it was in a steep spiral dive.",
+      "kaynak": "Footage/adam-air-574-1.jpg"
+    },
+    {
+      "metin": "Indonesia tightened maintenance oversight and training.",
+      "kaynak": "Footage/adam-air-574-2.jpg"
+    }
+  ],
+  "aciklama": "Adam Air 574 dove into the sea off Sulawesi. The cause: autopilot disengagement while the crew was distracted, leading to an unrecovered spiral dive.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Adam Air 574",
+    "2007",
+    "navigation system",
+    "engineering failure"
+  ],
+  "hook": "Nobody was flying",
+  "soru": "Why do repeat faults stay?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Adam Air Flight 574",
+    "kisa": "Adam Air 574",
+    "nesne": "Navigation system",
+    "yil": 2007,
+    "sonuc": "dove into the sea off Sulawesi",
+    "tetik": "both pilots absorbed in troubleshooting a navigation unit",
+    "mekanizma": "autopilot disengagement while the crew was distracted, leading to an unrecovered spiral dive",
+    "sayi": "102 ABOARD",
+    "ders": "Indonesia tightened maintenance oversight and crew training",
+    "zincir": [
+      "RECURRING NAVIGATION FAULT",
+      "BOTH PILOTS TROUBLESHOOT",
+      "AUTOPILOT DISENGAGES",
+      "SLOW ROLL UNNOTICED",
+      "SPIRAL DIVE"
+    ],
+    "zaman": [],
+    "yanilgi": "The navigation fault didn't bring the jet down. Losing track of the aircraft's attitude did.",
+    "tartisma": "The same fault had been written up many times. Why do recurring defects stay unfixed?",
+    "basliklar": [
+      "Pilots Fixing a Navigation Fault Didn't Notice the Dive",
+      "Why Adam Air Flight 574 Crashed",
+      "The Navigation Fault That Distracted Both Pilots"
+    ],
+    "kapak": [
+      "DISTRACTED",
+      "SPIRAL DIVE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Adam Air Flight 574",
+        "url": "https://en.wikipedia.org/wiki/Adam_Air_Flight_574"
+      },
+      {
+        "ad": "Australian Transport Safety Bureau — Final AdamAir PK KKW 17032008 (cited by Wikipedia)",
+        "url": "http://www.atsb.gov.au/publications/investigation_reports/2008/AAIR/pdf/Final_AdamAir_PK_KKW_17032008.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "Adam_Air_Flight_574",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "US Navy 070129-N-5747D-001 The Military Sealift Command (MSC) oceanographic survey ship USNS Mary Sears (T-AGS 65) shown moored in Singapore.jpg [Public domain]",
+      "23-3-06, Boeing 737-400, Adam Air, CGK PK-KKW.jpg [CC BY 2.0]",
+      "Adam Air Boeing 737-4Q8 PK-KKW.jpg [CC BY 4.0]"
+    ]
+  }
+}

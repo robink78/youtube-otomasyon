@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Navy's Flying Aircraft Carrier Fell Into the Sea",
+  "kaynaklar": [
+    {
+      "ad": "uss-akron-1.jpg",
+      "wikimedia": "USS Akron disaster.jpg"
+    },
+    {
+      "ad": "uss-akron-2.jpg",
+      "wikimedia": "Akron test pilots.jpg"
+    },
+    {
+      "ad": "uss-akron-3.png",
+      "wikimedia": "NH 98039 USS Akron (ZRS-4).png"
+    },
+    {
+      "ad": "uss-akron-4.jpg",
+      "wikimedia": "Photograph Looking Down in Emergency Control Station of a Dirigible - DPLA - 5388f47a18db85b07486610a3c2f618e.jpg"
+    },
+    {
+      "ad": "uss-akron-5.jpg",
+      "wikimedia": "Photograph of a Oil Tank on the USS Akron - DPLA - bf357381946e88ab011a3843eff07b93.jpg"
+    },
+    {
+      "ad": "uss-akron-6.jpg",
+      "wikimedia": "Photograph of a Sailor at the Bow Mooring Post on a Dirigible - DPLA - f2c36ddc98f9bb1c1ccfeab574fb8a6c.jpg"
+    },
+    {
+      "ad": "uss-akron-7.jpg",
+      "wikimedia": "Photograph of Engine Room in a Dirigible - DPLA - 63d353860fb2ebd71062a1be9535384c.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The US Navy's giant airship Akron crashed into the Atlantic.",
+      "kaynak": "Footage/uss-akron-1.jpg"
+    },
+    {
+      "metin": "Seventy three of the seventy six men aboard died.",
+      "kaynak": "Footage/uss-akron-2.jpg"
+    },
+    {
+      "metin": "It had flown into a violent storm.",
+      "kaynak": "Footage/uss-akron-3.png"
+    },
+    {
+      "metin": "A downdraft pushed it lower and lower.",
+      "kaynak": "Footage/uss-akron-4.jpg"
+    },
+    {
+      "metin": "Its tail struck the water, and the structure broke up.",
+      "kaynak": "Footage/uss-akron-5.jpg"
+    },
+    {
+      "metin": "There were almost no life jackets aboard.",
+      "kaynak": "Footage/uss-akron-6.jpg"
+    },
+    {
+      "metin": "Most of the crew drowned in the cold sea.",
+      "kaynak": "Footage/uss-akron-7.jpg"
+    },
+    {
+      "metin": "The loss helped end the Navy's rigid airship programme.",
+      "kaynak": "Footage/uss-akron-1.jpg"
+    }
+  ],
+  "aciklama": "USS Akron crashed into the Atlantic in a storm. The cause: severe storm downdraft and low flying altitude driving the tail into the sea.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "USS Akron",
+    "1933",
+    "airship",
+    "engineering failure"
+  ],
+  "hook": "No life jackets",
+  "soru": "How is that missed?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "USS Akron",
+    "kisa": "USS Akron",
+    "nesne": "Airship",
+    "yil": 1933,
+    "sonuc": "crashed into the Atlantic in a storm",
+    "tetik": "a storm forcing the airship's tail into the water",
+    "mekanizma": "severe storm downdraft and low flying altitude driving the tail into the sea",
+    "sayi": "73 DIED",
+    "ders": "the loss helped end the US Navy's rigid airship programme",
+    "zincir": [
+      "FLYING INTO A STORM",
+      "DOWNDRAFT PUSHES IT LOWER",
+      "TAIL HITS THE WATER",
+      "STRUCTURE BREAKS UP",
+      "NO LIFE JACKETS ABOARD"
+    ],
+    "zaman": [],
+    "yanilgi": "Most men didn't die from the impact. They drowned or died of cold because there were no life jackets aboard.",
+    "tartisma": "The airship carried almost no life jackets. How do obvious safety items get left behind?",
+    "basliklar": [
+      "The Navy's Flying Aircraft Carrier Fell Into the Sea",
+      "Why USS Akron Crashed",
+      "The Flying Aircraft Carrier With No Life Jackets"
+    ],
+    "kapak": [
+      "NO LIFE JACKETS",
+      "73 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Akron",
+        "url": "https://en.wikipedia.org/wiki/USS_Akron"
+      },
+      {
+        "ad": "Government source — akron (cited by Wikipedia)",
+        "url": "http://www.history.navy.mil/danfs/a4/akron.htm"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "USS_Akron",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "USS Akron disaster.jpg [Public domain]",
+      "Akron test pilots.jpg [Public domain]",
+      "NH 98039 USS Akron (ZRS-4).png [Public domain]",
+      "Photograph Looking Down in Emergency Control Station of a Dirigible - DPLA - 5388f47a18db85b07486610a3c2f618e.jpg [Public domain]",
+      "Photograph of a Oil Tank on the USS Akron - DPLA - bf357381946e88ab011a3843eff07b93.jpg [Public domain]",
+      "Photograph of a Sailor at the Bow Mooring Post on a Dirigible - DPLA - f2c36ddc98f9bb1c1ccfeab574fb8a6c.jpg [Public domain]",
+      "Photograph of Engine Room in a Dirigible - DPLA - 63d353860fb2ebd71062a1be9535384c.jpg [Public domain]"
+    ]
+  }
+}

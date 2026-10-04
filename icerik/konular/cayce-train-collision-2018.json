@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Switch Left Set Toward a Parked Train During a Signal Outage",
+  "kaynaklar": [
+    {
+      "ad": "cayce-train-collision-1.jpg",
+      "wikimedia": "NTSB engineers examine 2018 Cayce train collision wreckage.jpg"
+    },
+    {
+      "ad": "cayce-train-collision-2.jpg",
+      "wikimedia": "North view of accident scene (edit) (48356213832).jpg"
+    },
+    {
+      "ad": "cayce-train-collision-3.jpg",
+      "wikimedia": "NS P75 8-28-18 - Flickr - Reginald T. McDowell Sr..jpg"
+    },
+    {
+      "ad": "cayce-train-collision-4.jpg",
+      "wikimedia": "CSX Q211 Cayce, SC 1-18-18 (39767604941).jpg"
+    },
+    {
+      "ad": "cayce-train-collision-5.jpg",
+      "wikimedia": "North End of CSXT Cayce Yard (38773362860).jpg"
+    },
+    {
+      "ad": "cayce-train-collision-6.jpg",
+      "wikimedia": "CSXT Cayce Yard 8-28-18 - Flickr - Reginald T. McDowell Sr..jpg"
+    },
+    {
+      "ad": "cayce-train-collision-7.jpg",
+      "wikimedia": "CSX AC44 leading the Silver Star, June 2019.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Before dawn in South Carolina, an Amtrak train slammed into a parked freight train.",
+      "kaynak": "Footage/cayce-train-collision-1.jpg"
+    },
+    {
+      "metin": "Two crew members were killed, and more than a hundred people were hurt.",
+      "kaynak": "Footage/cayce-train-collision-2.jpg"
+    },
+    {
+      "metin": "Signals on the line were suspended for work.",
+      "kaynak": "Footage/cayce-train-collision-3.jpg"
+    },
+    {
+      "metin": "A freight train had been moved onto a siding.",
+      "kaynak": "Footage/cayce-train-collision-4.jpg"
+    },
+    {
+      "metin": "The switch wasn't returned to the main line.",
+      "kaynak": "Footage/cayce-train-collision-5.jpg"
+    },
+    {
+      "metin": "The Amtrak train was diverted straight into it.",
+      "kaynak": "Footage/cayce-train-collision-6.jpg"
+    },
+    {
+      "metin": "The NTSB blamed poor risk assessment and a conductor's error.",
+      "kaynak": "Footage/cayce-train-collision-7.jpg"
+    },
+    {
+      "metin": "Work zone protection came under scrutiny.",
+      "kaynak": "Footage/cayce-train-collision-1.jpg"
+    }
+  ],
+  "aciklama": "Cayce sent an Amtrak train into a parked freight. The cause: a conductor's error during a signal suspension without other protection.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Cayce",
+    "2018",
+    "switch",
+    "engineering failure"
+  ],
+  "hook": "The signals were off",
+  "soru": "How should work zones be protected?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Cayce train collision",
+    "kisa": "Cayce",
+    "nesne": "Switch",
+    "yil": 2018,
+    "sonuc": "sent an Amtrak train into a parked freight",
+    "tetik": "a switch left lined toward a siding",
+    "mekanizma": "a conductor's error during a signal suspension without other protection",
+    "sayi": "TWO DIED",
+    "ders": "the NTSB faulted risk management during signal suspensions",
+    "zincir": [
+      "SIGNALS SUSPENDED",
+      "FREIGHT MOVED TO SIDING",
+      "SWITCH NOT RESET",
+      "AMTRAK DIVERTED",
+      "COLLISION"
+    ],
+    "zaman": [],
+    "yanilgi": "Signals would normally have warned the Amtrak crew. They were switched off for work.",
+    "tartisma": "One person's error had no backup. How should work zones be protected?",
+    "basliklar": [
+      "A Switch Left Set Toward a Parked Train During a Signal Outage",
+      "Why Amtrak Crashed Into a Parked Train at Cayce",
+      "The Switch Left Wrong During a Signal Outage"
+    ],
+    "kapak": [
+      "WRONG SWITCH",
+      "NO SIGNALS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2018 Cayce, South Carolina train collision",
+        "url": "https://en.wikipedia.org/wiki/2018_Cayce,_South_Carolina_train_collision"
+      },
+      {
+        "ad": "NTSB — RRD18MR003 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/Pages/RRD18MR003.aspx"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "2018_Cayce,_South_Carolina_train_collision",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "NTSB engineers examine 2018 Cayce train collision wreckage.jpg [Public domain]",
+      "North view of accident scene (edit) (48356213832).jpg [Public domain]",
+      "NS P75 8-28-18 - Flickr - Reginald T. McDowell Sr..jpg [CC BY 2.0]",
+      "CSX Q211 Cayce, SC 1-18-18 (39767604941).jpg [CC BY 2.0]",
+      "North End of CSXT Cayce Yard (38773362860).jpg [CC BY 2.0]",
+      "CSXT Cayce Yard 8-28-18 - Flickr - Reginald T. McDowell Sr..jpg [CC BY 2.0]",
+      "CSX AC44 leading the Silver Star, June 2019.jpg [CC BY 2.0]"
+    ]
+  }
+}

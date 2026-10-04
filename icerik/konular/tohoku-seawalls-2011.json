@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Tsunami That Rose Over Japan's Great Seawalls",
+  "kaynaklar": [
+    {
+      "ad": "tohoku-seawalls-1.jpg",
+      "wikimedia": "2011TsunamiFireVehicles.jpg"
+    },
+    {
+      "ad": "tohoku-seawalls-2.jpg",
+      "wikimedia": "Devastation after tsunami in Rikuzentakata.jpg"
+    },
+    {
+      "ad": "tohoku-seawalls-3.jpg",
+      "wikimedia": "Fallen power poles in Ishinomaki.jpg"
+    },
+    {
+      "ad": "tohoku-seawalls-4.jpg",
+      "wikimedia": "Ishinomaki in snow.jpg"
+    },
+    {
+      "ad": "tohoku-seawalls-5.jpg",
+      "wikimedia": "Midway bonin petrel 2011 tsunami.jpg"
+    },
+    {
+      "ad": "tohoku-seawalls-6.jpg",
+      "wikimedia": "SendaiAirportMarch16.jpg"
+    },
+    {
+      "ad": "tohoku-seawalls-7.jpg",
+      "wikimedia": "2011 Earthquake and Tsunami near Sendai, Japan.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "After a magnitude nine earthquake, a tsunami struck Japan's coast.",
+      "kaynak": "Footage/tohoku-seawalls-1.jpg"
+    },
+    {
+      "metin": "Waves swept over seawalls and destroyed whole towns.",
+      "kaynak": "Footage/tohoku-seawalls-2.jpg"
+    },
+    {
+      "metin": "Many walls had been built for past tsunamis.",
+      "kaynak": "Footage/tohoku-seawalls-3.jpg"
+    },
+    {
+      "metin": "This one was far taller.",
+      "kaynak": "Footage/tohoku-seawalls-4.jpg"
+    },
+    {
+      "metin": "Water poured over the top and scoured the foundations.",
+      "kaynak": "Footage/tohoku-seawalls-5.jpg"
+    },
+    {
+      "metin": "Some residents trusted the walls and stayed.",
+      "kaynak": "Footage/tohoku-seawalls-6.jpg"
+    },
+    {
+      "metin": "Evacuation, not walls alone, saved the most lives.",
+      "kaynak": "Footage/tohoku-seawalls-7.jpg"
+    },
+    {
+      "metin": "Japan now combines walls with evacuation planning and land-use changes.",
+      "kaynak": "Footage/tohoku-seawalls-1.jpg"
+    }
+  ],
+  "aciklama": "Tohoku seawalls overtopped seawalls along Japan's coast. The cause: overtopping and scour of seawalls designed for smaller historical tsunamis.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Tohoku seawalls",
+    "2011",
+    "seawalls",
+    "engineering failure"
+  ],
+  "hook": "The wave was taller",
+  "soru": "Can protection reduce caution?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Tōhoku seawalls",
+    "kisa": "Tohoku seawalls",
+    "nesne": "Seawalls",
+    "yil": 2011,
+    "sonuc": "overtopped seawalls along Japan's coast",
+    "tetik": "a tsunami far taller than the walls were built for",
+    "mekanizma": "overtopping and scour of seawalls designed for smaller historical tsunamis",
+    "sayi": "OVERTOPPED",
+    "ders": "Japan combined higher walls with evacuation planning and land-use changes",
+    "zincir": [
+      "WALLS SIZED FOR PAST TSUNAMIS",
+      "MAGNITUDE 9 EARTHQUAKE",
+      "WAVES TALLER THAN WALLS",
+      "WALLS OVERTOPPED AND SCOURED",
+      "TOWNS FLOODED"
+    ],
+    "zaman": [],
+    "yanilgi": "The walls didn't simply fail to exist. They were built for smaller tsunamis than this one.",
+    "tartisma": "Some residents trusted the walls and didn't evacuate. Can protection make people less safe?",
+    "basliklar": [
+      "The Tsunami That Rose Over Japan's Great Seawalls",
+      "Why the 2011 Tsunami Overtopped Japan's Seawalls",
+      "The Seawalls Built for a Smaller Wave"
+    ],
+    "kapak": [
+      "OVERTOPPED",
+      "TOO SMALL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2011 Tōhoku earthquake and tsunami",
+        "url": "https://en.wikipedia.org/wiki/2011_Tōhoku_earthquake_and_tsunami"
+      },
+      {
+        "ad": "USGS — poster (cited by Wikipedia)",
+        "url": "https://earthquake.usgs.gov/archive/product/poster/20110311/us/1481142094043/poster.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "2011_Tōhoku_earthquake_and_tsunami",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "2011TsunamiFireVehicles.jpg [Public domain]",
+      "Devastation after tsunami in Rikuzentakata.jpg [CC BY 2.0]",
+      "Fallen power poles in Ishinomaki.jpg [CC BY 2.0]",
+      "Ishinomaki in snow.jpg [CC BY 2.0]",
+      "Midway bonin petrel 2011 tsunami.jpg [Public domain]",
+      "SendaiAirportMarch16.jpg [Public domain]",
+      "2011 Earthquake and Tsunami near Sendai, Japan.jpg [Public domain]"
+    ]
+  }
+}

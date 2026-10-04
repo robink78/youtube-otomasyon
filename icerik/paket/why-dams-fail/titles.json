@@ -1,0 +1,275 @@
+{
+  "slug": "why-dams-fail",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.902Z",
+  "secilen": "The Hidden Tunnel That Destroys Dams From Inside",
+  "secilenPuan": 54.5,
+  "mevcutPuan": 46.9,
+  "sablonOnerisi": {
+    "baslik": "Dams Fail Without Warning. Engineers Call It Piping.",
+    "puan": 69.8,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 10,
+  "adaylar": [
+    {
+      "baslik": "Dams Fail Without Warning. Engineers Call It Piping.",
+      "kalip": "engineers-call-it",
+      "toplam": 69.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.05,
+        "closest": "Why Elevators Almost Never Fall"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "template:engineers-call-it"
+    },
+    {
+      "baslik": "The Physics of How Dams Fail Without Warning",
+      "kalip": "physics-of",
+      "toplam": 69.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "Piping: Why Dams Fail Without Warning",
+      "kalip": "label-colon",
+      "toplam": 63.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.08,
+        "closest": "Why a Tiny Gas Leak Levels a Building"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:mechanism-why"
+    },
+    {
+      "baslik": "What Breaks First When Dams Fail Without Warning",
+      "kalip": "what",
+      "toplam": 63.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "What Lightning Really Does to a Building"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:breaks-first"
+    },
+    {
+      "baslik": "What Actually Happens When Dams Fail Without Warning",
+      "kalip": "what-really",
+      "toplam": 58.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "What Actually Makes Planes Crash"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-happens"
+    },
+    {
+      "baslik": "The Hidden Tunnel That Destroys Dams From Inside",
+      "kalip": "the-x-that",
+      "toplam": 54.5,
+      "kriterler": {
+        "curiosity": 9,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 7.7
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Why Concrete Buildings Rot From the Inside"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why Dams Fail Without Warning",
+      "kalip": "why",
+      "toplam": 46.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.08,
+        "closest": "Why a Tiny Gas Leak Levels a Building"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Why Dams Can Fail With Almost No Warning",
+      "kalip": "why",
+      "toplam": 46.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "Why Elevators Almost Never Fall"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "How Water Quietly Eats a Dam",
+      "kalip": "how",
+      "toplam": 39.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 5,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Why Six Inches of Water Can Kill You"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Dams Explained",
+      "kalip": "explained",
+      "toplam": 15.4,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "Why Glass Explodes for No Reason"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

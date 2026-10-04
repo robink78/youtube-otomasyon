@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "defaultChannel": "failure-reconstructed",
+  "global": {
+    "maxConcurrentRenders": 1,
+    "maxConcurrentUploads": 1,
+    "queuePriority": [
+      "failure-reconstructed:short",
+      "impossible-brief:short",
+      "critical-thread:short",
+      "behind-the-ordinary:short",
+      "failure-reconstructed:long",
+      "impossible-brief:long",
+      "critical-thread:long",
+      "behind-the-ordinary:long"
+    ]
+  },
+  "channels": {
+    "failure-reconstructed": {
+      "name": "Failure Reconstructed",
+      "enabled": true,
+      "config": "channels/failure-reconstructed/config.json",
+      "brand": "channels/failure-reconstructed/brand.json"
+    },
+    "impossible-brief": {
+      "name": "ImpossibleBrief",
+      "enabled": true,
+      "config": "channels/impossible-brief/config.json",
+      "brand": "channels/impossible-brief/brand.json"
+    },
+    "critical-thread": {
+      "name": "CriticalThread",
+      "enabled": true,
+      "config": "channels/critical-thread/config.json",
+      "brand": "channels/critical-thread/brand.json"
+    },
+    "behind-the-ordinary": {
+      "name": "The Hidden Logic of Things",
+      "enabled": true,
+      "config": "channels/behind-the-ordinary/config.json",
+      "brand": "channels/behind-the-ordinary/brand.json"
+    }
+  }
+}

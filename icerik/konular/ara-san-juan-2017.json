@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Seawater in the Batteries, Then Silence",
+  "kaynaklar": [
+    {
+      "ad": "ara-san-juan-1.jpg",
+      "wikimedia": "171215-N-AX559-061 (27472179429).jpg"
+    },
+    {
+      "ad": "ara-san-juan-2.jpg",
+      "wikimedia": "A remotely operated underwater vehicle operated by the U.S. Navy’s Undersea Rescue Command. (38526121546).jpg"
+    },
+    {
+      "ad": "ara-san-juan-3.jpg",
+      "wikimedia": "ARGENTINA (3972543).jpg"
+    },
+    {
+      "ad": "ara-san-juan-4.jpg",
+      "wikimedia": "ARGENTINA (3972544).jpg"
+    },
+    {
+      "ad": "ara-san-juan-5.jpg",
+      "wikimedia": "ARGENTINE (3972548).jpg"
+    },
+    {
+      "ad": "ara-san-juan-6.jpg",
+      "wikimedia": "ARGENTINE (3972550).jpg"
+    },
+    {
+      "ad": "ara-san-juan-7.jpg",
+      "wikimedia": "Argentine rescue commanders discuss operations with officer of Undersea Rescue Command. (37847095524).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An Argentine submarine vanished during a routine patrol.",
+      "kaynak": "Footage/ara-san-juan-1.jpg"
+    },
+    {
+      "metin": "Within hours, sensors picked up a sound consistent with an implosion.",
+      "kaynak": "Footage/ara-san-juan-2.jpg"
+    },
+    {
+      "metin": "Its last report described a problem.",
+      "kaynak": "Footage/ara-san-juan-3.jpg"
+    },
+    {
+      "metin": "Seawater had leaked through the snorkel into the batteries.",
+      "kaynak": "Footage/ara-san-juan-4.jpg"
+    },
+    {
+      "metin": "It started a fire.",
+      "kaynak": "Footage/ara-san-juan-5.jpg"
+    },
+    {
+      "metin": "All forty four crew were lost.",
+      "kaynak": "Footage/ara-san-juan-6.jpg"
+    },
+    {
+      "metin": "The wreck was found a year later at great depth.",
+      "kaynak": "Footage/ara-san-juan-7.jpg"
+    },
+    {
+      "metin": "Argentina's naval readiness came under scrutiny.",
+      "kaynak": "Footage/ara-san-juan-1.jpg"
+    }
+  ],
+  "aciklama": "ARA San Juan vanished and imploded in the South Atlantic. The cause: a battery fire after seawater entry, followed by loss and implosion.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "ARA San Juan",
+    "2017",
+    "batteries",
+    "engineering failure"
+  ],
+  "hook": "Then the submarine went silent",
+  "soru": "How do you find it?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "ARA San Juan",
+    "kisa": "ARA San Juan",
+    "nesne": "Batteries",
+    "yil": 2017,
+    "sonuc": "vanished and imploded in the South Atlantic",
+    "tetik": "water leaking through the snorkel into the batteries",
+    "mekanizma": "a battery fire after seawater entry, followed by loss and implosion",
+    "sayi": "44 CREW",
+    "ders": "the wreck was found a year later and Argentina's naval readiness came under scrutiny",
+    "zincir": [
+      "SNORKEL LEAKS",
+      "WATER HITS BATTERIES",
+      "FIRE STARTS",
+      "LAST MESSAGE",
+      "IMPLOSION"
+    ],
+    "zaman": [],
+    "yanilgi": "The crew reported the problem. An implosion was detected within hours.",
+    "tartisma": "The search took a year. How do you find a submarine that goes silent?",
+    "basliklar": [
+      "Seawater in the Batteries, Then Silence",
+      "What Happened to ARA San Juan",
+      "The Submarine That Went Silent"
+    ],
+    "kapak": [
+      "44 CREW",
+      "SILENT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — ARA San Juan (S-42)",
+        "url": "https://en.wikipedia.org/wiki/ARA_San_Juan_(S-42)"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — argentina submarine missing (cited by Wikipedia)",
+        "url": "https://www.nytimes.com/2017/11/17/world/americas/argentina-submarine-missing.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-19",
+    "wiki": "ARA_San_Juan_(S-42)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "171215-N-AX559-061 (27472179429).jpg [Public domain]",
+      "A remotely operated underwater vehicle operated by the U.S. Navy’s Undersea Rescue Command. (38526121546).jpg [Public domain]",
+      "ARGENTINA (3972543).jpg [Public domain]",
+      "ARGENTINA (3972544).jpg [Public domain]",
+      "ARGENTINE (3972548).jpg [Public domain]",
+      "ARGENTINE (3972550).jpg [Public domain]",
+      "Argentine rescue commanders discuss operations with officer of Undersea Rescue Command. (37847095524).jpg [Public domain]"
+    ]
+  }
+}

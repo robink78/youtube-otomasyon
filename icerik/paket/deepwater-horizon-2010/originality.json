@@ -1,0 +1,63 @@
+{
+  "slug": "deepwater-horizon-2010",
+  "olusturuldu": "2026-09-27T12:31:03.330Z",
+  "originality": 80,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.11,
+      "kim": "bikini-baker"
+    },
+    "hook": {
+      "deger": 0.15,
+      "kim": "new-london-school-1937"
+    },
+    "structure": {
+      "deger": 0.88,
+      "kim": "munich-1958"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.72,
+      "kim": "san-francisco-1906"
+    },
+    "cta": {
+      "deger": 0.46,
+      "kim": "hudson-1549-2009"
+    },
+    "description": {
+      "deger": 0.05,
+      "kim": "apollo-1-1967"
+    },
+    "music": {
+      "deger": 0.75,
+      "kim": "why-mines-collapse"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.11,
+    "HOOK_SIMILARITY": 0.15,
+    "STRUCTURE_SIMILARITY": 0.88,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.72,
+    "CTA_SIMILARITY": 0.46,
+    "DESCRIPTION_SIMILARITY": 0.05,
+    "MUSIC_SIMILARITY": 0.75
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

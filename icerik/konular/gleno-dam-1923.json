@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Italian Dam That Failed Weeks After Filling",
+  "kaynaklar": [
+    {
+      "ad": "gleno-dam-1.jpg",
+      "wikimedia": "Diga gleno1.jpg"
+    },
+    {
+      "ad": "gleno-dam-2.jpg",
+      "wikimedia": "Centrale mazzunno.jpg"
+    },
+    {
+      "ad": "gleno-dam-3.jpg",
+      "wikimedia": "Centrale mazzunno1.jpg"
+    },
+    {
+      "ad": "gleno-dam-4.jpg",
+      "wikimedia": "Re darfo.jpg"
+    },
+    {
+      "ad": "gleno-dam-5.jpg",
+      "wikimedia": "Re darfo1.jpg"
+    },
+    {
+      "ad": "gleno-dam-6.jpg",
+      "wikimedia": "Diga gleno.jpg"
+    },
+    {
+      "ad": "gleno-dam-7.jpg",
+      "wikimedia": "Diga del Gleno.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A new dam in the Italian Alps collapsed weeks after its reservoir filled.",
+      "kaynak": "Footage/gleno-dam-1.jpg"
+    },
+    {
+      "metin": "A flood swept down the valley, killing hundreds.",
+      "kaynak": "Footage/gleno-dam-2.jpg"
+    },
+    {
+      "metin": "The dam's design had been changed during construction.",
+      "kaynak": "Footage/gleno-dam-3.jpg"
+    },
+    {
+      "metin": "Arches were built on a base meant for a different kind of dam.",
+      "kaynak": "Footage/gleno-dam-4.jpg"
+    },
+    {
+      "metin": "Materials used were of poor quality.",
+      "kaynak": "Footage/gleno-dam-5.jpg"
+    },
+    {
+      "metin": "When full, the arches gave way.",
+      "kaynak": "Footage/gleno-dam-6.jpg"
+    },
+    {
+      "metin": "The engineers were later convicted.",
+      "kaynak": "Footage/gleno-dam-7.jpg"
+    },
+    {
+      "metin": "Italy introduced stricter state control of dam building.",
+      "kaynak": "Footage/gleno-dam-1.jpg"
+    }
+  ],
+  "aciklama": "Gleno Dam collapsed weeks after its reservoir was filled. The cause: failure of a multiple-arch dam built with substandard materials on a base designed for a different dam type.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Gleno Dam",
+    "1923",
+    "dam",
+    "engineering failure"
+  ],
+  "hook": "It lasted weeks",
+  "soru": "Design first, or build first?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Gleno Dam",
+    "kisa": "Gleno Dam",
+    "nesne": "Dam",
+    "yil": 1923,
+    "sonuc": "collapsed weeks after its reservoir was filled",
+    "tetik": "poor-quality construction and a mid-build design change",
+    "mekanizma": "failure of a multiple-arch dam built with substandard materials on a base designed for a different dam type",
+    "sayi": "WEEKS",
+    "ders": "Italy introduced stricter state control of dam design and construction",
+    "zincir": [
+      "DESIGN CHANGED DURING CONSTRUCTION",
+      "POOR MATERIALS",
+      "RESERVOIR FILLED",
+      "ARCHES FAIL",
+      "FLOOD SWEEPS VALLEY"
+    ],
+    "zaman": [],
+    "yanilgi": "The dam wasn't old. It failed within weeks of its reservoir filling for the first time.",
+    "tartisma": "Construction started before the design was approved. What should come first?",
+    "basliklar": [
+      "The Italian Dam That Failed Weeks After Filling",
+      "Why the Gleno Dam Collapsed",
+      "The Dam Redesigned Halfway Through"
+    ],
+    "kapak": [
+      "REDESIGNED",
+      "WEEKS OLD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Gleno Dam",
+        "url": "https://en.wikipedia.org/wiki/Gleno_Dam"
+      },
+      {
+        "ad": "Government source — sh2006007379 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/sh2006007379"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "Gleno_Dam",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Diga gleno1.jpg [Public domain]",
+      "Centrale mazzunno.jpg [Public domain]",
+      "Centrale mazzunno1.jpg [Public domain]",
+      "Re darfo.jpg [Public domain]",
+      "Re darfo1.jpg [Public domain]",
+      "Diga gleno.jpg [Public domain]",
+      "Diga del Gleno.jpg [CC BY 3.0]"
+    ]
+  }
+}

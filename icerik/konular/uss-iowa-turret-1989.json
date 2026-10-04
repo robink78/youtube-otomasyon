@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Navy Blamed a Sailor. Scientists Found Another Cause",
+  "kaynaklar": [
+    {
+      "ad": "uss-iowa-turret-1.jpg",
+      "wikimedia": "DN-SC-89-07102 - Kendall Truitt.jpg"
+    },
+    {
+      "ad": "uss-iowa-turret-2.jpg",
+      "wikimedia": "IowaBlackenedTurret.jpg"
+    },
+    {
+      "ad": "uss-iowa-turret-3.jpg",
+      "wikimedia": "IowaTurretExplosion1.jpg"
+    },
+    {
+      "ad": "uss-iowa-turret-4.jpg",
+      "wikimedia": "Milligan and Edney.jpg"
+    },
+    {
+      "ad": "uss-iowa-turret-5.jpg",
+      "wikimedia": "Milligan with books.jpg"
+    },
+    {
+      "ad": "uss-iowa-turret-6.jpg",
+      "wikimedia": "Moosally and Bush.jpg"
+    },
+    {
+      "ad": "uss-iowa-turret-7.jpg",
+      "wikimedia": "USS Iowa BB61 Iowa Explosion 1989.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During a fleet exercise, a gun turret on the battleship Iowa exploded.",
+      "kaynak": "Footage/uss-iowa-turret-1.jpg"
+    },
+    {
+      "metin": "Fire tore through the gunroom, and forty seven sailors were killed.",
+      "kaynak": "Footage/uss-iowa-turret-2.jpg"
+    },
+    {
+      "metin": "The Navy's first investigation blamed a sailor who died.",
+      "kaynak": "Footage/uss-iowa-turret-3.jpg"
+    },
+    {
+      "metin": "It claimed he caused the blast on purpose.",
+      "kaynak": "Footage/uss-iowa-turret-4.jpg"
+    },
+    {
+      "metin": "Families and Congress pushed back.",
+      "kaynak": "Footage/uss-iowa-turret-5.jpg"
+    },
+    {
+      "metin": "Sandia scientists found powder bags had likely been rammed too far and too fast.",
+      "kaynak": "Footage/uss-iowa-turret-6.jpg"
+    },
+    {
+      "metin": "An accidental overram could ignite them.",
+      "kaynak": "Footage/uss-iowa-turret-7.jpg"
+    },
+    {
+      "metin": "The Navy expressed regret but didn't apologize.",
+      "kaynak": "Footage/uss-iowa-turret-1.jpg"
+    }
+  ],
+  "aciklama": "USS Iowa exploded inside a 16-inch gun turret. The cause: an overram compressing and igniting powder bags during loading.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "USS Iowa",
+    "1989",
+    "gun turret",
+    "engineering failure"
+  ],
+  "hook": "They blamed the wrong man",
+  "soru": "How to avoid a scapegoat?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the USS Iowa turret explosion",
+    "kisa": "USS Iowa",
+    "nesne": "Gun turret",
+    "yil": 1989,
+    "sonuc": "exploded inside a 16-inch gun turret",
+    "tetik": "powder bags likely rammed too far and too fast",
+    "mekanizma": "an overram compressing and igniting powder bags during loading",
+    "sayi": "47 DIED",
+    "ders": "the Navy expressed regret and the case became a lesson in investigation bias",
+    "zincir": [
+      "POWDER BAGS LOADED",
+      "RAMMED TOO FAR",
+      "POWDER IGNITES",
+      "TURRET EXPLODES",
+      "NAVY BLAMES A SAILOR"
+    ],
+    "zaman": [],
+    "yanilgi": "The first investigation blamed a crew member. Independent testing pointed to an accidental overram.",
+    "tartisma": "The Navy's conclusion was challenged by Sandia scientists. How do investigations avoid finding a scapegoat?",
+    "basliklar": [
+      "The Navy Blamed a Sailor. Scientists Found Another Cause",
+      "What Really Caused the USS Iowa Explosion",
+      "The Turret Explosion and the Wrong Suspect"
+    ],
+    "kapak": [
+      "WRONG SUSPECT",
+      "47 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Iowa turret explosion",
+        "url": "https://en.wikipedia.org/wiki/USS_Iowa_turret_explosion"
+      },
+      {
+        "ad": "Government source — 141438 (cited by Wikipedia)",
+        "url": "http://archive.gao.gov/d42t14/141438.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-16",
+    "wiki": "USS_Iowa_turret_explosion",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "DN-SC-89-07102 - Kendall Truitt.jpg [Public domain]",
+      "IowaBlackenedTurret.jpg [Public domain]",
+      "IowaTurretExplosion1.jpg [Public domain]",
+      "Milligan and Edney.jpg [Public domain]",
+      "Milligan with books.jpg [Public domain]",
+      "Moosally and Bush.jpg [Public domain]",
+      "USS Iowa BB61 Iowa Explosion 1989.jpg [Public domain]"
+    ]
+  }
+}

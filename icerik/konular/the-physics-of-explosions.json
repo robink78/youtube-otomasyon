@@ -1,0 +1,92 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "The Physics That Makes Explosions Deadly",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "Its not the fire that kills",
+  "soru": "Ever felt a blast?",
+  "arama_yedek": "explosion fire",
+  "aciklama": "An explosion kills in a way most people misunderstand. It is not the flames - it is a wall of pressure moving faster than sound.\n\n#shorts #physics #science #engineering #explosion",
+  "etiketler": [
+    "explosion",
+    "physics",
+    "science",
+    "blast",
+    "engineering"
+  ],
+  "sahneler": [
+    {
+      "metin": "An explosion does not kill mainly with fire.",
+      "arama": "demolition explosion"
+    },
+    {
+      "metin": "It kills with a wall of air moving faster than sound.",
+      "arama": "shockwave dust"
+    },
+    {
+      "metin": "In an instant, solid material becomes rapidly expanding gas.",
+      "arama": "fire blast"
+    },
+    {
+      "metin": "That gas slams outward as a shockwave, crushing what is near.",
+      "arama": "demolition explosion"
+    },
+    {
+      "metin": "The overpressure can burst lungs and eardrums before the heat arrives.",
+      "arama": "explosion smoke"
+    },
+    {
+      "metin": "Then air rushes back to fill the gap.",
+      "arama": "fire explosion"
+    },
+    {
+      "metin": "That reverse pull drags debris back toward the blast.",
+      "arama": "industrial explosion"
+    },
+    {
+      "metin": "Distance is everything, because the pressure drops fast as it spreads.",
+      "arama": "fireball explosion"
+    }
+  ],
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "mekanizma",
+    "ad": "Explosions",
+    "nesne": "Blast",
+    "sonuc": "kill",
+    "tetik": "solid material turning into gas",
+    "mekanizma": "blast overpressure",
+    "sayi": "FASTER THAN SOUND",
+    "ders": "blast engineers design with distance first",
+    "zincir": [
+      "SOLID TURNS TO GAS",
+      "SHOCK FRONT FORMS",
+      "OVERPRESSURE HITS",
+      "NEGATIVE PHASE PULLS BACK",
+      "DEBRIS FLIES"
+    ],
+    "yanilgi": "The fireball is the scary part on camera, but overpressure — the shockwave — does most of the damage.",
+    "tartisma": "Blast engineers say distance beats walls. Would you trust a blast wall, or distance?",
+    "basliklar": [
+      "It's Not the Fire That Kills in an Explosion",
+      "The Invisible Wall of Air That Kills",
+      "What a Shockwave Actually Does"
+    ],
+    "kapak": [
+      "NOT THE FIRE",
+      "THE SHOCKWAVE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Overpressure",
+        "url": "https://en.wikipedia.org/wiki/Overpressure"
+      },
+      {
+        "ad": "Wikipedia — Explosion",
+        "url": "https://en.wikipedia.org/wiki/Explosion"
+      }
+    ]
+  }
+}

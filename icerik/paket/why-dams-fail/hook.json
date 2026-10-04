@@ -1,0 +1,50 @@
+{
+  "slug": "why-dams-fail",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.904Z",
+  "ekranHook": "A wall holding a lake",
+  "mevcut": {
+    "puan": 75,
+    "pencereler": {
+      "0-5": "A dam is one wall holding back an entire lake. The water pushes on",
+      "5-12": "it every second, day and night. The quiet killer is water that seeps THROUGH the dam. It slowly carries",
+      "12-20": "away soil, carving a hidden tunnel inside. Engineers call this piping, and you cannot see it happening. If water ever pours over",
+      "20-30": "the top, it erodes the dam in minutes. Once a small breach opens, the pressure rips it wide open. A wall of water then races downstream faster than"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: missing an unexpected detail",
+      "12-20s: a central question/problem is raised",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A dam is one wall holding back an entire lake."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only water seeping through the dam."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is internal erosion (piping) — and it is why dams are monitored with sensors around the clock."
+      }
+    ],
+    "metin": "A dam is one wall holding back an entire lake. It took only water seeping through the dam. So what actually happens inside? The answer is internal erosion (piping) — and it is why dams are monitored with sensors around the clock.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

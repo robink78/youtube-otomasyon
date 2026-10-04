@@ -1,0 +1,50 @@
+{
+  "slug": "hindenburg",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.485Z",
+  "ekranHook": "Gone in 34 seconds",
+  "mevcut": {
+    "puan": 80,
+    "pencereler": {
+      "0-5": "This is the disaster that ended the age of the airship. May sixth, 1937.",
+      "5-12": "The German zeppelin Hindenburg arrives over New Jersey. It is longer than three jumbo jets, lifted by seven million",
+      "12-20": "cubic feet of hydrogen. As it moors to the tower, a spark finds the leaking gas. In just thirty four seconds, the",
+      "20-30": "entire ship is swallowed by fire. Thirty six people die, and a radio reporter breaks down live on air. Hydrogen was cheap to make. It was also violently"
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "The Hindenburg burned in 34 seconds."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a spark near leaking hydrogen."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could a spark near leaking hydrogen do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is hydrogen ignition, most likely from static discharge — and it is why no passenger airship was trusted with hydrogen again."
+      }
+    ],
+    "metin": "The Hindenburg burned in 34 seconds. It took only a spark near leaking hydrogen. So how could a spark near leaking hydrogen do this? The answer is hydrogen ignition, most likely from static discharge — and it is why no passenger airship was trusted with hydrogen again.",
+    "puan": 95
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

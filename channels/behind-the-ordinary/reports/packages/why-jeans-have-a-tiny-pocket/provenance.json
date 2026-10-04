@@ -1,0 +1,98 @@
+{
+  "channel": "behind-the-ordinary",
+  "slug": "why-jeans-have-a-tiny-pocket",
+  "allowedChannels": [
+    "behind-the-ordinary"
+  ],
+  "createdAt": "2026-10-04T12:28:49.542Z",
+  "assets": [
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Closeup of copper rivet on jeans.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Closeup_of_copper_rivet_on_jeans.jpg",
+      "licence": "CC BY 2.0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Closeup_of_copper_rivet_on_jeans.jpg",
+      "attribution": "Marcos André",
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Manifattura genovese, abito da festa in tela di genova (jeans), 1850-1900 ca..JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manifattura_genovese,_abito_da_festa_in_tela_di_genova_(jeans),_1850-1900_ca..JPG",
+      "licence": "CC BY 3.0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Manifattura_genovese,_abito_da_festa_in_tela_di_genova_(jeans),_1850-1900_ca..JPG",
+      "attribution": " Sailko ",
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Blue jeans fading.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_jeans_fading.png",
+      "licence": "CC BY 3.0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Blue_jeans_fading.png",
+      "attribution": " Achim Hering ",
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 6764158",
+      "sourceUrl": "https://www.pexels.com/video/feather-landing-on-a-pile-of-jeans-6764158/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/feather-landing-on-a-pile-of-jeans-6764158/",
+      "attribution": "cottonbro studio",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 6764160",
+      "sourceUrl": "https://www.pexels.com/video/falling-white-feather-beside-folded-jeans-6764160/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/falling-white-feather-beside-folded-jeans-6764160/",
+      "attribution": "cottonbro studio",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "audio",
+      "source": "Microsoft Edge neural TTS (claim-timed)",
+      "title": "narration",
+      "licence": "generated — synthetic voice, disclosed in the description",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "audio",
+      "source": "procedural synthesis (ffmpeg)",
+      "title": "music bed",
+      "licence": "original — generated per video",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "image",
+      "source": "generated graphics (captions, number cards, diagrams)",
+      "title": "on-screen graphics",
+      "licence": "original",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    }
+  ]
+}

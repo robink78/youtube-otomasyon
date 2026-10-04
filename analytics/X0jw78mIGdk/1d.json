@@ -1,0 +1,107 @@
+{
+  "videoId": "X0jw78mIGdk",
+  "baslik": "Why San Francisco Burned for Three Days",
+  "yayin": "2026-09-23",
+  "yasGun": 1,
+  "sureSn": 35,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 113,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 4,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    },
+    "averageViewDuration": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    },
+    "averageViewPercentage": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    },
+    "subscribersGained": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    },
+    "shares": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    },
+    "first30sRetention": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "needs subscribersGained"
+    },
+    "likeRate": {
+      "deger": 3.5,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": null,
+  "tutma": null,
+  "analitikDurumu": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)",
+  "toplandi": "2026-09-24T16:00:14.827Z",
+  "checkpoint": "1d",
+  "teshis": [
+    {
+      "kod": "INSUFFICIENT_DATA",
+      "guven": "high",
+      "aciklama": "113 views after 1 days — too early/small for rate-based conclusions.",
+      "oneri": "Do not change packaging yet unless something is objectively broken (missing sources, typo). Re-check at 7 days."
+    },
+    {
+      "kod": "WEAK_TOPIC_PACKAGING",
+      "guven": "low",
+      "aciklama": "Current title scores 47.4/100 in the title engine; best editorial option scores 57.",
+      "oneri": "Heuristic only — test the stronger title as a logged experiment rather than switching silently."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "The Hidden Logic of Things",
+  "handle": "@HiddenLogicOfThings",
+  "tagline": "The hidden reasons behind everyday design.",
+  "profileIdentity": "BTO",
+  "mission": "The Hidden Logic of Things explains the documented engineering, history and design decisions hiding inside familiar objects, one strong question at a time.",
+  "audience": "Global English-speaking general audience, teens through adults; not specifically made for children.",
+  "voice": ["smart curiosity", "plain-language explanation", "knowledgeable friend", "occasional dry humor", "factual", "evergreen"],
+  "theme": ["tactile macro photography", "ordinary objects", "precise highlighted detail", "warm neutral", "clean", "approachable", "high contrast"],
+  "colors": {
+    "background": "#15130f",
+    "charcoal": "#25221c",
+    "cream": "#f3ead8",
+    "amber": "#f2ad45",
+    "teal": "#4eb3a5",
+    "coral": "#e56b5d",
+    "text": "#fffaf0"
+  },
+  "visualRules": {
+    "priority": ["manufacturer and standards material", "government or museum archives", "licensed object photography", "macro detail photography", "labelled engineering diagrams", "labelled reconstruction"],
+    "illustrationLabel": "ILLUSTRATION",
+    "thumbnail": "one dominant ordinary object plus one highlighted unusual detail; zero to four words; no collage",
+    "profileMotif": "a familiar object silhouette with one amber detail marker on a warm charcoal field"
+  },
+  "editorialPillars": ["EVERYDAY MYSTERIES", "HIDDEN ENGINEERING", "STRANGE ORIGINS", "DESIGN DECISIONS", "ORDINARY SYSTEMS"],
+  "avoid": ["generic trivia compilations", "internet myths", "unrelated fact dumps", "cheap clickbait", "children's narration", "shouting", "academic jargon", "generic neon AI imagery", "infrastructure dependency stories", "failure reconstructions", "impossible scenarios"]
+}

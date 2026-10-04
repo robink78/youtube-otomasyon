@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Helium Airship Torn Apart by a Storm",
+  "kaynaklar": [
+    {
+      "ad": "uss-shenandoah-1.jpg",
+      "wikimedia": "USS Shenandoah Wreck.jpg"
+    },
+    {
+      "ad": "uss-shenandoah-2.jpg",
+      "wikimedia": "Shenandoah or ZRI LCCN2016840665.jpg"
+    },
+    {
+      "ad": "uss-shenandoah-3.jpg",
+      "wikimedia": "U.S.S. PATOKA & SHENANDOAH (blimp overhead) LCCN2014718317.jpg"
+    },
+    {
+      "ad": "uss-shenandoah-4.jpg",
+      "wikimedia": "Shenandoah Crash Site 1.jpg"
+    },
+    {
+      "ad": "uss-shenandoah-5.jpg",
+      "wikimedia": "Walter Johnson - DPLA - 1ceea4b669f3f9f6520afddbfc90c0d1.jpg"
+    },
+    {
+      "ad": "uss-shenandoah-6.jpg",
+      "wikimedia": "USS Shenandoah over USS Patoka 1924-25.jpg"
+    },
+    {
+      "ad": "uss-shenandoah-7.jpg",
+      "wikimedia": "USS Shenandoah, a U.S. Navy airship, in flight. \"ZR-1\" on side. (0e29d0b4-31bf-4bf6-8dcf-756d605f94ff).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The US Navy airship Shenandoah was caught in a storm over Ohio.",
+      "kaynak": "Footage/uss-shenandoah-1.jpg"
+    },
+    {
+      "metin": "It was torn into pieces, and fourteen men were killed.",
+      "kaynak": "Footage/uss-shenandoah-2.jpg"
+    },
+    {
+      "metin": "Being filled with helium, it didn't catch fire.",
+      "kaynak": "Footage/uss-shenandoah-3.jpg"
+    },
+    {
+      "metin": "A violent updraft carried it upward.",
+      "kaynak": "Footage/uss-shenandoah-4.jpg"
+    },
+    {
+      "metin": "As it climbed, its gas cells expanded.",
+      "kaynak": "Footage/uss-shenandoah-5.jpg"
+    },
+    {
+      "metin": "Some valves had been removed to save scarce helium.",
+      "kaynak": "Footage/uss-shenandoah-6.jpg"
+    },
+    {
+      "metin": "The frame was overstressed and broke apart.",
+      "kaynak": "Footage/uss-shenandoah-7.jpg"
+    },
+    {
+      "metin": "Later airships were built stronger and routed away from storms.",
+      "kaynak": "Footage/uss-shenandoah-1.jpg"
+    }
+  ],
+  "aciklama": "USS Shenandoah broke apart in a storm over Ohio. The cause: structural overload from storm-driven climb, with gas valves reduced to conserve helium.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "USS Shenandoah",
+    "1925",
+    "airship",
+    "engineering failure"
+  ],
+  "hook": "The storm tore it apart",
+  "soru": "Publicity or safety?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "USS Shenandoah",
+    "kisa": "USS Shenandoah",
+    "nesne": "Airship",
+    "yil": 1925,
+    "sonuc": "broke apart in a storm over Ohio",
+    "tetik": "a violent updraft in a squall line",
+    "mekanizma": "structural overload from storm-driven climb, with gas valves reduced to conserve helium",
+    "sayi": "14 DIED",
+    "ders": "later airships were designed for stronger structures and better weather avoidance",
+    "zincir": [
+      "SCHEDULED FLIGHT DESPITE WEATHER",
+      "UPDRAFT LIFTS SHIP",
+      "GAS CELLS EXPAND",
+      "FRAME OVERSTRESSED",
+      "SHIP TEARS APART"
+    ],
+    "zaman": [],
+    "yanilgi": "Helium didn't burn, so there was no fire. The ship was torn apart by the storm itself.",
+    "tartisma": "The flight was partly a publicity tour. Should public relations ever set a flight schedule?",
+    "basliklar": [
+      "The Helium Airship Torn Apart by a Storm",
+      "Why USS Shenandoah Broke Apart",
+      "The Airship Torn Apart Over Ohio"
+    ],
+    "kapak": [
+      "TORN APART",
+      "STORM"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Shenandoah (ZR-1)",
+        "url": "https://en.wikipedia.org/wiki/USS_Shenandoah_(ZR-1)"
+      },
+      {
+        "ad": "Government source — nrhp.focus.nps.gov (cited by Wikipedia)",
+        "url": "http://nrhp.focus.nps.gov/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "USS_Shenandoah_(ZR-1)",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "USS Shenandoah Wreck.jpg [Public domain]",
+      "Shenandoah or ZRI LCCN2016840665.jpg [Public domain]",
+      "U.S.S. PATOKA & SHENANDOAH (blimp overhead) LCCN2014718317.jpg [Public domain]",
+      "Shenandoah Crash Site 1.jpg [Public domain]",
+      "Walter Johnson - DPLA - 1ceea4b669f3f9f6520afddbfc90c0d1.jpg [Public domain]",
+      "USS Shenandoah over USS Patoka 1924-25.jpg [Public domain]",
+      "USS Shenandoah, a U.S. Navy airship, in flight. \"ZR-1\" on side. (0e29d0b4-31bf-4bf6-8dcf-756d605f94ff).jpg [Public domain]"
+    ]
+  }
+}

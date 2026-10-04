@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Wire Rubbing on a Screw Nearly Downed a Shuttle",
+  "kaynaklar": [
+    {
+      "ad": "sts-93-wiring-short-1.jpg",
+      "wikimedia": "STS-93 Landing (19891217201).jpg"
+    },
+    {
+      "ad": "sts-93-wiring-short-2.jpg",
+      "wikimedia": "STS-93 Shuttle Mission - Michel Tognini.jpg"
+    },
+    {
+      "ad": "sts-93-wiring-short-3.jpg",
+      "wikimedia": "STS093-312-010 - STS-093 - STS-93 MS Coleman conducts the PGIM-01 experiment on the flight deck - DPLA - 2e5b9fd48dead23213dfa3999162220b.jpg"
+    },
+    {
+      "ad": "sts-93-wiring-short-4.jpg",
+      "wikimedia": "STS093-319-010 - STS-093 - STS-93 MS Coleman works with a seedling from the PGIM-1 experiment - DPLA - acee6c8e9c20d8e3720b23597def2b6a.jpg"
+    },
+    {
+      "ad": "sts-93-wiring-short-5.jpg",
+      "wikimedia": "Chandra X-ray Observatory inside the Space Shuttle payload bay.jpg"
+    },
+    {
+      "ad": "sts-93-wiring-short-6.jpg",
+      "wikimedia": "Eileen Collins (S93-E-5033, 1999-07-24).jpg"
+    },
+    {
+      "ad": "sts-93-wiring-short-7.jpg",
+      "wikimedia": "STS-93 Deployment of Chandra (deploy1).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Columbia lifted off carrying the Chandra X-ray Observatory.",
+      "kaynak": "Footage/sts-93-wiring-short-1.jpg"
+    },
+    {
+      "metin": "Seconds later, an electrical short suddenly knocked out two engine controllers.",
+      "kaynak": "Footage/sts-93-wiring-short-2.jpg"
+    },
+    {
+      "metin": "Backup controllers kept the engines running.",
+      "kaynak": "Footage/sts-93-wiring-short-3.jpg"
+    },
+    {
+      "metin": "A wire had been rubbing on an exposed screw head.",
+      "kaynak": "Footage/sts-93-wiring-short-4.jpg"
+    },
+    {
+      "metin": "At the same time, a gold pin shot out inside an engine.",
+      "kaynak": "Footage/sts-93-wiring-short-5.jpg"
+    },
+    {
+      "metin": "It caused a hydrogen leak.",
+      "kaynak": "Footage/sts-93-wiring-short-6.jpg"
+    },
+    {
+      "metin": "The shuttle still reached orbit.",
+      "kaynak": "Footage/sts-93-wiring-short-7.jpg"
+    },
+    {
+      "metin": "Every orbiter's wiring was then inspected.",
+      "kaynak": "Footage/sts-93-wiring-short-1.jpg"
+    }
+  ],
+  "aciklama": "STS-93 lost engine controllers seconds after launch. The cause: an electrical short disabling two engine control units, plus a hydrogen leak from an ejected pin.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "STS-93",
+    "1999",
+    "wiring",
+    "engineering failure"
+  ],
+  "hook": "One wire almost ended it",
+  "soru": "How thin was the margin?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "STS-93",
+    "kisa": "STS-93",
+    "nesne": "Wiring",
+    "yil": 1999,
+    "sonuc": "lost engine controllers seconds after launch",
+    "tetik": "a wire chafed against an exposed screw head",
+    "mekanizma": "an electrical short disabling two engine control units, plus a hydrogen leak from an ejected pin",
+    "sayi": "5 SECONDS",
+    "ders": "every orbiter's wiring was inspected",
+    "zincir": [
+      "WIRE ROUTED BADLY",
+      "RUBS ON SCREW",
+      "SHORT AFTER LIFT-OFF",
+      "TWO CONTROLLERS LOST",
+      "LEAK IN ENGINE"
+    ],
+    "zaman": [],
+    "yanilgi": "Two hidden faults hit at once. The shuttle still reached orbit.",
+    "tartisma": "Redundancy saved the flight by a narrow margin. How thin was the margin?",
+    "basliklar": [
+      "A Wire Rubbing on a Screw Nearly Downed a Shuttle",
+      "The Near Miss on STS-93",
+      "The Wire That Almost Ended a Shuttle Flight"
+    ],
+    "kapak": [
+      "ONE WIRE",
+      "5 SECONDS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — STS-93",
+        "url": "https://en.wikipedia.org/wiki/STS-93"
+      },
+      {
+        "ad": "NASA — 383441main contingency aborts 21007 31007 (cited by Wikipedia)",
+        "url": "http://www.nasa.gov/centers/johnson/pdf/383441main_contingency_aborts_21007_31007.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "STS-93",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "STS-93 Landing (19891217201).jpg [Public domain]",
+      "STS-93 Shuttle Mission - Michel Tognini.jpg [Public domain]",
+      "STS093-312-010 - STS-093 - STS-93 MS Coleman conducts the PGIM-01 experiment on the flight deck - DPLA - 2e5b9fd48dead23213dfa3999162220b.jpg [Public domain]",
+      "STS093-319-010 - STS-093 - STS-93 MS Coleman works with a seedling from the PGIM-1 experiment - DPLA - acee6c8e9c20d8e3720b23597def2b6a.jpg [Public domain]",
+      "Chandra X-ray Observatory inside the Space Shuttle payload bay.jpg [Public domain]",
+      "Eileen Collins (S93-E-5033, 1999-07-24).jpg [Public domain]",
+      "STS-93 Deployment of Chandra (deploy1).jpg [Public domain]"
+    ]
+  }
+}

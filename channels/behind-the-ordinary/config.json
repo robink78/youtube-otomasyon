@@ -1,0 +1,69 @@
+{
+  "slug": "behind-the-ordinary",
+  "name": "The Hidden Logic of Things",
+  "handle": "@HiddenLogicOfThings",
+  "tagline": "The hidden reasons behind everyday design.",
+  "enabled": true,
+  "onboarding": true,
+  "youtubeChannelId": "",
+  "credentialsPrefix": "BTO",
+  "credentialEnv": {
+    "clientId": ["BTO_YT_CLIENT_ID"],
+    "clientSecret": ["BTO_YT_CLIENT_SECRET"],
+    "refreshToken": ["BTO_YT_REFRESH_TOKEN"],
+    "channelId": ["BTO_YT_CHANNEL_ID"]
+  },
+  "allowLegacyYouTubeEnv": false,
+  "pathMode": "isolated",
+  "timezone": "Europe/Istanbul",
+  "publishTime": "21:00",
+  "publishTimeZone": "Europe/Istanbul",
+  "publishTimeUtc": "18:00",
+  "publishingCadence": {
+    "shorts": { "everyDays": 1, "productionTime": "10:30", "targetDurationSeconds": [20, 45] },
+    "longForm": { "everyDays": 7, "targetDurationMinutes": [8, 15], "qualityOverCadence": true }
+  },
+  "voice": { "provider": "edge-tts", "voice": "en-US-AndrewMultilingualNeural", "rate": "+4%", "style": "smart, conversational curiosity with restrained dry humor" },
+  "brandStyle": "tactile everyday objects, warm neutral backgrounds, precise detail highlights, intelligent and approachable",
+  "contentNiche": "hidden reasons, histories and engineering behind ordinary objects and design choices",
+  "topicRules": {
+    "requiresOneCentralQuestion": true,
+    "requiresVerifiedEvidenceBeforeProduction": true,
+    "requiresSources": true,
+    "avoidDuplicates": true,
+    "noGenericTrivia": true,
+    "noUnrelatedFactDumps": true,
+    "noInfrastructureDependencyStories": true,
+    "noFailureReconstructionStories": true,
+    "noImpossibleScenarios": true
+  },
+  "qualityThresholds": {
+    "publish": 86,
+    "review": 72,
+    "sourceQualityMinimum": 78,
+    "hookMinimum": 75,
+    "noveltyMinimum": 66,
+    "visualPotentialMinimum": 72,
+    "channelFitMinimum": 85
+  },
+  "retentionRules": {
+    "memoryScope": "channel",
+    "learnAfterVideos": 5,
+    "doNotShareAcrossChannels": true,
+    "openingMaxSeconds": 3,
+    "secondBeatMaxSeconds": 8,
+    "hookVoiceMaxSeconds": 5.5,
+    "secondBeatVoiceMaxSeconds": 11,
+    "visualChangeTargetSeconds": [1.5, 3.5]
+  },
+  "ctaStrategy": "optional next-curiosity bridge after the specific payoff",
+  "thumbnailStyle": "one ordinary object, one highlighted unusual detail, warm dark neutral field, zero to four words",
+  "titleStyle": "one accurate why, hidden-purpose, origin or design question; instantly understandable; never generic trivia",
+  "analytics": {
+    "checkpointsDays": [1, 3, 7, 14, 28],
+    "minSample": 5,
+    "topGeography": true,
+    "metrics": ["views", "engagedViews", "watchTime", "averageViewDuration", "averagePercentageViewed", "subscriberGain", "subscriberLoss", "subscriberConversion", "trafficSources", "publicationVelocity", "returningViewers"]
+  },
+  "platforms": { "youtube": { "enabled": true }, "instagram": { "enabled": false }, "tiktok": { "enabled": false } }
+}

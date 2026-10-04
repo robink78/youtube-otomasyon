@@ -1,0 +1,96 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "How Rust Silently Destroys Bridges and Ships",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "The slow-motion disaster",
+  "soru": "Trust old steel?",
+  "arama_yedek": "rusty metal",
+  "aciklama": "Rust is a chemical fire in slow motion that has collapsed bridges and sunk ships. Here is how it wins.\n\n#shorts #engineering #science #corrosion #howitworks",
+  "etiketler": [
+    "rust",
+    "corrosion",
+    "metal",
+    "engineering",
+    "science"
+  ],
+  "sahneler": [
+    {
+      "metin": "Rust has collapsed bridges and sunk entire ships.",
+      "arama": "rusty bridge"
+    },
+    {
+      "metin": "One corroded link dropped a whole bridge into a river, killing 46 people.",
+      "arama": "old steel bridge"
+    },
+    {
+      "metin": "Corrosion is a chemical reaction, a fire burning in slow motion.",
+      "arama": "rusty metal closeup"
+    },
+    {
+      "metin": "Iron reacts with oxygen and water and slowly crumbles.",
+      "arama": "corroded metal"
+    },
+    {
+      "metin": "Each rust flake is bigger than the metal it replaced.",
+      "arama": "rusty surface"
+    },
+    {
+      "metin": "So it swells, cracks the structure, and exposes fresh metal.",
+      "arama": "rusty beam"
+    },
+    {
+      "metin": "Salt water speeds it up dramatically.",
+      "arama": "old ship hull"
+    },
+    {
+      "metin": "By the time you see it, the damage is already deep.",
+      "arama": "rusty chain"
+    }
+  ],
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "mekanizma",
+    "ad": "Rust",
+    "nesne": "Steel",
+    "sonuc": "destroys bridges and ships",
+    "tetik": "water, oxygen and salt",
+    "mekanizma": "electrochemical corrosion",
+    "sayi": "PAPER THIN",
+    "ders": "coatings, inspections and cathodic protection",
+    "zincir": [
+      "WATER + OXYGEN + SALT",
+      "IRON OXIDIZES",
+      "RUST EXPANDS",
+      "COATING CRACKS",
+      "SECTION THINS → FAILURE"
+    ],
+    "yanilgi": "Rust isn't just surface damage — the oxide takes up several times the volume of the steel it replaces, prying structures apart.",
+    "tartisma": "The Silver Bridge fell in 1967 after a corrosion crack in a single eyebar. Should old steel bridges be replaced rather than repaired?",
+    "basliklar": [
+      "The Slow Fire Eating Bridges and Ships",
+      "How Rust Turns Steel Paper Thin",
+      "Rust Never Sleeps — And It Topples Bridges"
+    ],
+    "kapak": [
+      "SLOW FIRE",
+      "PAPER THIN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Corrosion",
+        "url": "https://en.wikipedia.org/wiki/Corrosion"
+      },
+      {
+        "ad": "Wikipedia — Silver Bridge",
+        "url": "https://en.wikipedia.org/wiki/Silver_Bridge"
+      },
+      {
+        "ad": "Wikipedia — Stress corrosion cracking",
+        "url": "https://en.wikipedia.org/wiki/Stress_corrosion_cracking"
+      }
+    ]
+  }
+}

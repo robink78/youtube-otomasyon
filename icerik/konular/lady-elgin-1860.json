@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "A Schooner Without Lights Sank a Lake Michigan Steamer",
+  "kaynaklar": [
+    {
+      "ad": "lady-elgin-1.jpg",
+      "wikimedia": "LadyElginCollision1860.jpg"
+    },
+    {
+      "ad": "lady-elgin-2.jpg",
+      "wikimedia": "The Sinking Of The Lady Elgin, On Lake Michigan, On The Morning Of September 8, 1860, Half An Hour After She Had Been Run Into By The Schooner Augusta, Of Waukeegan - NYIN 1860.jpg"
+    },
+    {
+      "ad": "lady-elgin-3.png",
+      "wikimedia": "Lady Elgin 1.png"
+    },
+    {
+      "ad": "lady-elgin-4.jpg",
+      "wikimedia": "Lady Elgin 2.jpg"
+    },
+    {
+      "ad": "lady-elgin-5.png",
+      "wikimedia": "Lady Elgin 2.png"
+    },
+    {
+      "ad": "lady-elgin-6.jpg",
+      "wikimedia": "Lady Elgin paddle steamer.jpg"
+    },
+    {
+      "ad": "lady-elgin-7.jpg",
+      "wikimedia": "PS Lady Elgin.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On a stormy night, a schooner rammed the steamer Lady Elgin.",
+      "kaynak": "Footage/lady-elgin-1.jpg"
+    },
+    {
+      "metin": "Within half an hour, hundreds of people were dead.",
+      "kaynak": "Footage/lady-elgin-2.jpg"
+    },
+    {
+      "metin": "The schooner had struck it near the paddlewheel.",
+      "kaynak": "Footage/lady-elgin-3.png"
+    },
+    {
+      "metin": "Water rushed into the hull.",
+      "kaynak": "Footage/lady-elgin-4.jpg"
+    },
+    {
+      "metin": "It went down fast.",
+      "kaynak": "Footage/lady-elgin-5.png"
+    },
+    {
+      "metin": "Survivors clung to wreckage in the storm.",
+      "kaynak": "Footage/lady-elgin-6.jpg"
+    },
+    {
+      "metin": "Many were lost in the surf near shore.",
+      "kaynak": "Footage/lady-elgin-7.jpg"
+    },
+    {
+      "metin": "It pushed for stronger navigation-light rules on the Great Lakes.",
+      "kaynak": "Footage/lady-elgin-1.jpg"
+    }
+  ],
+  "aciklama": "Lady Elgin sank on Lake Michigan after a collision. The cause: collision punching a hole below the paddlewheel, with rapid flooding.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Lady Elgin",
+    "1860",
+    "steamboat",
+    "engineering failure"
+  ],
+  "hook": "The small ship survived",
+  "soru": "So close to shore?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Lady Elgin",
+    "kisa": "Lady Elgin",
+    "nesne": "Steamboat",
+    "yil": 1860,
+    "sonuc": "sank on Lake Michigan after a collision",
+    "tetik": "a schooner striking it at night in a storm",
+    "mekanizma": "collision punching a hole below the paddlewheel, with rapid flooding",
+    "sayi": "NIGHT COLLISION",
+    "ders": "the disaster pushed for navigation-light rules on the Great Lakes",
+    "zincir": [
+      "STORMY NIGHT",
+      "SCHOONER RUNNING WITHOUT PROPER LIGHTS",
+      "SIDE STRUCK AT THE PADDLEWHEEL",
+      "RAPID FLOODING",
+      "STEAMER BREAKS UP"
+    ],
+    "zaman": [],
+    "yanilgi": "The small schooner survived. The large steamer it hit broke apart and sank.",
+    "tartisma": "Most victims died in the surf near the shore. How close to safety is still too far?",
+    "basliklar": [
+      "A Schooner Without Lights Sank a Lake Michigan Steamer",
+      "Why the Lady Elgin Sank",
+      "The Night Collision on Lake Michigan"
+    ],
+    "kapak": [
+      "NO LIGHTS",
+      "LAKE MICHIGAN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — PS Lady Elgin",
+        "url": "https://en.wikipedia.org/wiki/PS_Lady_Elgin"
+      },
+      {
+        "ad": "Government source — NRHP (cited by Wikipedia)",
+        "url": "https://npgallery.nps.gov/NRHP"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-04",
+    "wiki": "PS_Lady_Elgin",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "LadyElginCollision1860.jpg [Public domain]",
+      "The Sinking Of The Lady Elgin, On Lake Michigan, On The Morning Of September 8, 1860, Half An Hour After She Had Been Run Into By The Schooner Augusta, Of Waukeegan - NYIN 1860.jpg [Public domain]",
+      "Lady Elgin 1.png [Public domain]",
+      "Lady Elgin 2.jpg [Public domain]",
+      "Lady Elgin 2.png [Public domain]",
+      "Lady Elgin paddle steamer.jpg [Public domain]",
+      "PS Lady Elgin.jpg [Public domain]"
+    ]
+  }
+}

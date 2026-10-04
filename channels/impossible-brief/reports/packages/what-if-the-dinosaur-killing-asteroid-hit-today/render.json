@@ -1,0 +1,301 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/impossible-brief/state/production/what-if-the-dinosaur-killing-asteroid-hit-today/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "rate": "+6%",
+    "claimDurations": [
+      3.2406464250734577,
+      3.1924583741429973,
+      3.9152791380999026,
+      3.55386875612145,
+      4.108031341821743,
+      3.4815866797257593,
+      3.1081292850146918
+    ],
+    "durationSeconds": 24.6,
+    "width": null,
+    "height": null,
+    "hasAudio": true,
+    "music": {
+      "mood": "spaceflight-disasters",
+      "profile": {
+        "kok": 49.4,
+        "oran": 2,
+        "trem": 0.248,
+        "renk": "white",
+        "yanki": [
+          518,
+          778
+        ],
+        "alcak": 1041,
+        "ton": "vast"
+      }
+    }
+  },
+  "video": {
+    "file": "channels/impossible-brief/state/production/what-if-the-dinosaur-killing-asteroid-hit-today/what-if-the-dinosaur-killing-asteroid-hit-today.mp4",
+    "captionsBurned": true,
+    "distinctVisuals": 7,
+    "realImageCount": 4,
+    "numberCardCount": 2,
+    "maxStaticSeconds": 3.492,
+    "visualChanges": 13,
+    "openingHookCovered": true,
+    "cardNumbersValid": true,
+    "openingSemantic": {
+      "measured": true,
+      "relevant": true,
+      "decision": "PUBLISH",
+      "assetType": "licensed-still",
+      "asset": "Yucatan chix crater.jpg This shaded relief image of Mexico's Yucatán Peninsula shows a subtle, but unmistakable, indication of the Chicxulub impact crater . Most scientists now agree that this impact was the cause of the Cretaceous-Tertiary Extinction , the event 65 million years ago that marked the sudden extinction of the dinosaurs as well as the majority of life then on Earth. wikipedia-article asteroid beside Mount Everest for scale",
+      "topicTerms": [
+        "impact",
+        "turns",
+        "asteroid",
+        "kinetic",
+        "energy",
+        "heat",
+        "shock",
+        "ejecta",
+        "fine",
+        "debris",
+        "soot",
+        "then",
+        "block",
+        "sunlight",
+        "chicxulub",
+        "size",
+        "strikes",
+        "today",
+        "one",
+        "kilometre",
+        "ended",
+        "age",
+        "dinosaurs",
+        "dinosaur",
+        "killing",
+        "hit"
+      ],
+      "matchedTerms": [
+        "impact",
+        "asteroid",
+        "then",
+        "chicxulub",
+        "dinosaurs"
+      ],
+      "strongTerms": [
+        "impact",
+        "asteroid",
+        "then",
+        "chicxulub"
+      ],
+      "genericTermsIgnored": [
+        "earth",
+        "image"
+      ],
+      "subjectMatch": true,
+      "mechanismMatch": true,
+      "designDetailMatch": false,
+      "claimMatch": true,
+      "rejectionReasons": [],
+      "reason": "opening asset matches distinctive evidence: impact, asteroid, then, chicxulub"
+    },
+    "opening": "number",
+    "visualQuality": {
+      "decision": "PUBLISH",
+      "score": 100,
+      "reasons": [],
+      "semanticEvidence": {
+        "measured": true,
+        "relevant": true,
+        "decision": "PUBLISH",
+        "assetType": "licensed-still",
+        "asset": "Yucatan chix crater.jpg This shaded relief image of Mexico's Yucatán Peninsula shows a subtle, but unmistakable, indication of the Chicxulub impact crater . Most scientists now agree that this impact was the cause of the Cretaceous-Tertiary Extinction , the event 65 million years ago that marked the sudden extinction of the dinosaurs as well as the majority of life then on Earth. wikipedia-article asteroid beside Mount Everest for scale",
+        "topicTerms": [
+          "impact",
+          "turns",
+          "asteroid",
+          "kinetic",
+          "energy",
+          "heat",
+          "shock",
+          "ejecta",
+          "fine",
+          "debris",
+          "soot",
+          "then",
+          "block",
+          "sunlight",
+          "chicxulub",
+          "size",
+          "strikes",
+          "today",
+          "one",
+          "kilometre",
+          "ended",
+          "age",
+          "dinosaurs",
+          "dinosaur",
+          "killing",
+          "hit"
+        ],
+        "matchedTerms": [
+          "impact",
+          "asteroid",
+          "then",
+          "chicxulub",
+          "dinosaurs"
+        ],
+        "strongTerms": [
+          "impact",
+          "asteroid",
+          "then",
+          "chicxulub"
+        ],
+        "genericTermsIgnored": [
+          "earth",
+          "image"
+        ],
+        "subjectMatch": true,
+        "mechanismMatch": true,
+        "designDetailMatch": false,
+        "claimMatch": true,
+        "rejectionReasons": [],
+        "reason": "opening asset matches distinctive evidence: impact, asteroid, then, chicxulub"
+      }
+    },
+    "segmentSeconds": [
+      1.319,
+      0.9009999999999998,
+      1.0206464250734575,
+      2.2593535749265428,
+      0.9331047992164541,
+      0.8508952007835457,
+      2.3869999999999996,
+      0.6773839373163568,
+      0.968616062683644,
+      3.2010000000000005,
+      3.492284035259548,
+      3.4815866797257584,
+      3.108129285014691
+    ],
+    "sources": [
+      {
+        "shot": 1,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Yucatan chix crater.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 2,
+        "claimIndex": 0,
+        "type": "stock-video",
+        "sourceId": "video:30251605",
+        "numbers": []
+      },
+      {
+        "shot": 3,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Chicxulub Free-Air Gravity anomaly.png",
+        "numbers": []
+      },
+      {
+        "shot": 4,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:Chicxulub impact - artist impression.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 5,
+        "claimIndex": 1,
+        "type": "procedural",
+        "sourceId": "procedural:1:101:eef9451e19e2",
+        "numbers": []
+      },
+      {
+        "shot": 6,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:Yucatan chix crater.jpg#2",
+        "numbers": [
+          "66 million"
+        ]
+      },
+      {
+        "shot": 7,
+        "claimIndex": 2,
+        "type": "number-card",
+        "sourceId": "card:2:4ce512037882",
+        "numbers": [
+          "66 million"
+        ]
+      },
+      {
+        "shot": 8,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:Chicxulub Free-Air Gravity anomaly.png#2",
+        "numbers": [
+          "66 million"
+        ]
+      },
+      {
+        "shot": 9,
+        "claimIndex": 3,
+        "type": "number-card",
+        "sourceId": "card:3:7ea681c8e802",
+        "numbers": [
+          "300 kilometres"
+        ]
+      },
+      {
+        "shot": 10,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:Chicxulub impact - artist impression.jpg#2",
+        "numbers": [
+          "300 kilometres"
+        ]
+      },
+      {
+        "shot": 11,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:Yucatan chix crater.jpg#3",
+        "numbers": []
+      },
+      {
+        "shot": 12,
+        "claimIndex": 5,
+        "type": "licensed-still",
+        "sourceId": "still:Chicxulub Free-Air Gravity anomaly.png#3",
+        "numbers": []
+      },
+      {
+        "shot": 13,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:Yucatan chix crater.jpg#loop",
+        "numbers": []
+      }
+    ],
+    "durationSeconds": 24.6,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/impossible-brief/state/production/what-if-the-dinosaur-killing-asteroid-hit-today/thumbnail.jpg",
+    "bytes": 74631,
+    "sourceType": "licensed-still",
+    "sourceId": "still:Yucatan chix crater.jpg",
+    "textWords": 3,
+    "usesLicensedStill": true
+  }
+}

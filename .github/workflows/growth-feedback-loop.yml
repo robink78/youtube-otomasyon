@@ -1,0 +1,95 @@
+name: Growth feedback loop
+
+# Dedicated measurement lane. Production jobs stop before the 21:00 TR public
+# slot, so early 1h/6h checkpoints must not depend on the production schedule.
+# Minute 17 avoids the exact hour and captures 21:00 TR publications near
+# 1h17m, 6h17m, 12h17m, 24h17m, etc.
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  # Serialize with production because both jobs persist channel state to main.
+  group: portfolio-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  feedback:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    env:
+      FR_YT_CLIENT_ID: ${{ secrets.FR_YT_CLIENT_ID }}
+      FR_YT_CLIENT_SECRET: ${{ secrets.FR_YT_CLIENT_SECRET }}
+      FR_YT_REFRESH_TOKEN: ${{ secrets.FR_YT_REFRESH_TOKEN }}
+      FR_YT_CHANNEL_ID: ${{ vars.FR_YT_CHANNEL_ID }}
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      YT_CHANNEL_ID: ${{ vars.FR_YT_CHANNEL_ID }}
+      IB_CLIENT_ID: ${{ secrets.IB_CLIENT_ID }}
+      IB_CLIENT_SECRET: ${{ secrets.IB_CLIENT_SECRET }}
+      IB_YT_REFRESH_TOKEN: ${{ secrets.IB_YT_REFRESH_TOKEN }}
+      IB_YT_CHANNEL_ID: ${{ vars.IB_YT_CHANNEL_ID }}
+      CT_CLIENT_ID: ${{ secrets.CT_CLIENT_ID }}
+      CT_CLIENT_SECRET: ${{ secrets.CT_CLIENT_SECRET }}
+      CT_YT_REFRESH_TOKEN: ${{ secrets.CT_YT_REFRESH_TOKEN }}
+      CT_YT_CHANNEL_ID: ${{ vars.CT_YT_CHANNEL_ID }}
+      BTO_YT_CLIENT_ID: ${{ secrets.BTO_YT_CLIENT_ID }}
+      BTO_YT_CLIENT_SECRET: ${{ secrets.BTO_YT_CLIENT_SECRET }}
+      BTO_YT_REFRESH_TOKEN: ${{ secrets.BTO_YT_REFRESH_TOKEN }}
+      BTO_YT_CHANNEL_ID: ${{ vars.BTO_YT_CHANNEL_ID }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Collect due checkpoints and update channel-isolated learning
+        run: |
+          FAILED=0
+          for CHANNEL in failure-reconstructed impossible-brief critical-thread behind-the-ordinary; do
+            echo "=== $CHANNEL ==="
+            if ! node post-publish-analyzer.js --channel "$CHANNEL" --due; then
+              echo "::warning::$CHANNEL growth checkpoint pass failed"
+              FAILED=1
+            fi
+            # Warehouse is daily/incremental internally and skips if synced <20h.
+            node analytics-sync.js --channel "$CHANNEL" || echo "::warning::$CHANNEL warehouse sync unavailable"
+          done
+          node scripts/feedback-loop-audit.js
+          # A single channel outage must not erase successful state from others;
+          # surface it after the audit/commit rather than failing before persist.
+          echo "FAILED=$FAILED" >> "$GITHUB_ENV"
+
+      - name: Persist measurements, diagnoses, learning and health report
+        run: |
+          git config user.name "growth-feedback-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add analytics channels/*/analytics channels/*/state/growth channels/*/memory channels/*/state/analytics reports/feedback-loop-health.json reports/feedback-loop-health.md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No feedback state changes."
+          else
+            git commit -m "chore: record growth feedback checkpoints"
+            for i in 1 2 3 4 5; do
+              git pull --rebase --autostash origin main && git push origin HEAD:main && break
+              if [ "$i" = "5" ]; then exit 1; fi
+              sleep $((i * 5))
+            done
+          fi
+
+      - name: Surface channel collection failures
+        if: always()
+        run: |
+          if [ "${FAILED:-0}" != "0" ]; then
+            echo "One or more channels failed their checkpoint pass; successful channel state was preserved."
+            exit 1
+          fi

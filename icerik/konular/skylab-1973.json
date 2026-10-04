@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 3.2,
+  "baslik": "How Skylab Lost Its Heat Shield 63 Seconds After Launch",
+  "kaynaklar": [
+    {
+      "ad": "skylab.webm",
+      "wikimedia": "Skylab - The First 40 Days.webm",
+      "kalite": "480p"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Sixty-three seconds after launch, Skylab's heat shield tore away.",
+      "kaynak": "Footage/skylab.webm",
+      "baslangic": 97
+    },
+    {
+      "metin": "It destroyed one solar wing and jammed the other.",
+      "kaynak": "Footage/skylab.webm",
+      "baslangic": 155
+    },
+    {
+      "metin": "Without it, the station baked at over 120 degrees inside.",
+      "kaynak": "Footage/skylab.webm",
+      "baslangic": 1031
+    },
+    {
+      "metin": "So how do you fix a space station nobody can reach?",
+      "kaynak": "Footage/skylab.webm",
+      "baslangic": 116
+    },
+    {
+      "metin": "Eleven days later, three astronauts flew up with a homemade sunshade.",
+      "kaynak": "Footage/skylab.webm",
+      "baslangic": 427
+    },
+    {
+      "metin": "They pushed it through a tiny airlock and opened it like an umbrella.",
+      "kaynak": "Footage/skylab.webm",
+      "baslangic": 818
+    },
+    {
+      "metin": "Then they cut the jammed wing free by hand.",
+      "kaynak": "Footage/skylab.webm",
+      "baslangic": 1168
+    },
+    {
+      "metin": "The station was saved, and hosted three crews.",
+      "kaynak": "Footage/skylab.webm",
+      "baslangic": 1323
+    }
+  ],
+  "aciklama": "On May 14, 1973, Skylab's micrometeoroid shield tore away 63 seconds after launch, taking a solar wing with it. Astronauts saved the station with a homemade sunshade.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Skylab",
+    "1973",
+    "NASA",
+    "micrometeoroid shield",
+    "space station",
+    "parasol sunshade",
+    "spaceflight"
+  ],
+  "hook": "Broken at launch",
+  "soru": "Would you fly up to fix it?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Skylab",
+    "kisa": "Skylab",
+    "nesne": "Space station",
+    "yil": 1973,
+    "sonuc": "lost its heat shield and a solar wing during launch",
+    "tetik": "air forced under the micrometeoroid shield",
+    "mekanizma": "aerodynamic loads tearing away a shield that wasn't designed to take them",
+    "sayi": "63 SECONDS",
+    "ders": "structures must be analysed for launch aerodynamics, not just for their job in orbit",
+    "zincir": [
+      "SHIELD NOT SNUG AGAINST HULL",
+      "AIR FORCED UNDERNEATH AT 63 s",
+      "SHIELD TEARS AWAY",
+      "SOLAR WING LOST, OTHER JAMMED",
+      "STATION OVERHEATS IN ORBIT"
+    ],
+    "zaman": [
+      {
+        "t": "May 14, 1973",
+        "olay": "Launch; shield tears away at 63 s"
+      },
+      {
+        "t": "May 25",
+        "olay": "First crew launches with a parasol sunshade"
+      },
+      {
+        "t": "Jun 7",
+        "olay": "Spacewalk frees the jammed solar wing"
+      }
+    ],
+    "yanilgi": "No meteoroid hit Skylab — its own micrometeoroid shield was ripped off by air during launch.",
+    "tartisma": "The shield was designed for orbit but failed in the atmosphere. How do you test a part for a phase it isn't 'for'?",
+    "basliklar": [
+      "How Skylab Lost Its Heat Shield 63 Seconds After Launch",
+      "The Space Station That Broke on the Way Up",
+      "The Homemade Umbrella That Saved Skylab",
+      "Why Skylab Overheated in Orbit"
+    ],
+    "kapak": [
+      "63 SECONDS",
+      "SUNSHADE",
+      "RESCUED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Skylab",
+        "url": "https://en.wikipedia.org/wiki/Skylab"
+      }
+    ]
+  }
+}

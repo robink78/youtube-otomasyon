@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "An Express in Fog Ran Past Its Signals",
+  "kaynaklar": [
+    {
+      "ad": "harrow-wealdstone-1.png",
+      "wikimedia": "H&W crash 2.png"
+    },
+    {
+      "ad": "harrow-wealdstone-2.png",
+      "wikimedia": "H&W crash 3.png"
+    },
+    {
+      "ad": "harrow-wealdstone-3.jpg",
+      "wikimedia": "Harrow and Wealdstone train crash.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An express train ran into a crowded commuter train at Harrow station.",
+      "kaynak": "Footage/harrow-wealdstone-1.png"
+    },
+    {
+      "metin": "A second express then crashed into the wreckage, and one hundred twelve people died.",
+      "kaynak": "Footage/harrow-wealdstone-2.png"
+    },
+    {
+      "metin": "There was thick fog that morning.",
+      "kaynak": "Footage/harrow-wealdstone-3.jpg"
+    },
+    {
+      "metin": "The express passed its warning and danger signals.",
+      "kaynak": "Footage/harrow-wealdstone-1.png"
+    },
+    {
+      "metin": "Nothing in the cab alerted the driver.",
+      "kaynak": "Footage/harrow-wealdstone-2.png"
+    },
+    {
+      "metin": "An automatic warning system was already being tested.",
+      "kaynak": "Footage/harrow-wealdstone-3.jpg"
+    },
+    {
+      "metin": "It was not yet fitted on that line.",
+      "kaynak": "Footage/harrow-wealdstone-1.png"
+    },
+    {
+      "metin": "Britain then accelerated fitting it across the network.",
+      "kaynak": "Footage/harrow-wealdstone-2.png"
+    }
+  ],
+  "aciklama": "Harrow and Wealdstone caused a triple collision in a station. The cause: signals passed at danger in poor visibility, with no automatic warning system.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Harrow and Wealdstone",
+    "1952",
+    "signals",
+    "engineering failure"
+  ],
+  "hook": "It ran past the signals",
+  "soru": "Why do fixes take so long?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Harrow and Wealdstone crash",
+    "kisa": "Harrow and Wealdstone",
+    "nesne": "Signals",
+    "yil": 1952,
+    "sonuc": "caused a triple collision in a station",
+    "tetik": "an express passing danger signals in fog",
+    "mekanizma": "signals passed at danger in poor visibility, with no automatic warning system",
+    "sayi": "112 KILLED",
+    "ders": "Britain accelerated fitting the Automatic Warning System",
+    "zincir": [
+      "THICK FOG",
+      "EXPRESS PASSES CAUTION AND DANGER SIGNALS",
+      "HITS LOCAL TRAIN IN STATION",
+      "SECOND EXPRESS PLOUGHS IN",
+      "WRECKAGE FILLS PLATFORMS"
+    ],
+    "zaman": [],
+    "yanilgi": "The signals were correctly set. In fog, with no in-cab warning, the driver passed them.",
+    "tartisma": "An automatic warning system was already being trialled. Why do proven fixes take so long to roll out?",
+    "basliklar": [
+      "An Express in Fog Ran Past Its Signals",
+      "Why the Harrow and Wealdstone Crash Happened",
+      "The Express That Missed Its Signals in Fog"
+    ],
+    "kapak": [
+      "FOG",
+      "112 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Harrow and Wealdstone rail crash",
+        "url": "https://en.wikipedia.org/wiki/Harrow_and_Wealdstone_rail_crash"
+      },
+      {
+        "ad": "Government source — 83171601 (cited by Wikipedia)",
+        "url": "https://lccn.loc.gov/83171601"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "Harrow_and_Wealdstone_rail_crash",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "H&W crash 2.png [Public domain]",
+      "H&W crash 3.png [Public domain]",
+      "Harrow and Wealdstone train crash.jpg [Public domain]"
+    ]
+  }
+}

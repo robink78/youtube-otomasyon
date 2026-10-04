@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Software Glitch Shut Off the Engines Too Early",
+  "kaynaklar": [
+    {
+      "ad": "mars-polar-lander-1.png",
+      "wikimedia": "Mars Polar Lander - artist depiction.png"
+    },
+    {
+      "ad": "mars-polar-lander-2.png",
+      "wikimedia": "Mars Polar Lander - launch photo.png"
+    },
+    {
+      "ad": "mars-polar-lander-3.jpg",
+      "wikimedia": "Mars Polar Lander close-up.jpg"
+    },
+    {
+      "ad": "mars-polar-lander-4.jpg",
+      "wikimedia": "Mars Polar Lander undergoes testing.jpg"
+    },
+    {
+      "ad": "mars-polar-lander-5.jpg",
+      "wikimedia": "98lander-bottom.jpg"
+    },
+    {
+      "ad": "mars-polar-lander-6.jpg",
+      "wikimedia": "98lander-top.jpg"
+    },
+    {
+      "ad": "mars-polar-lander-7.jpg",
+      "wikimedia": "98lander-top2.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A NASA lander went silent as it descended to Mars.",
+      "kaynak": "Footage/mars-polar-lander-1.png"
+    },
+    {
+      "metin": "It most likely crashed into the surface and was never heard from again.",
+      "kaynak": "Footage/mars-polar-lander-2.png"
+    },
+    {
+      "metin": "The likely cause was a false signal.",
+      "kaynak": "Footage/mars-polar-lander-3.jpg"
+    },
+    {
+      "metin": "When the legs unfolded, the jolt tripped the touchdown sensors.",
+      "kaynak": "Footage/mars-polar-lander-4.jpg"
+    },
+    {
+      "metin": "The software remembered that signal.",
+      "kaynak": "Footage/mars-polar-lander-5.jpg"
+    },
+    {
+      "metin": "High above the ground, it decided it had landed and cut the engines.",
+      "kaynak": "Footage/mars-polar-lander-6.jpg"
+    },
+    {
+      "metin": "The lander fell the rest of the way.",
+      "kaynak": "Footage/mars-polar-lander-7.jpg"
+    },
+    {
+      "metin": "Landing software is now tested end to end with real sensor behaviour.",
+      "kaynak": "Footage/mars-polar-lander-1.png"
+    }
+  ],
+  "aciklama": "Mars Polar Lander went silent during landing on Mars. The cause: software treating spurious touchdown-sensor signals from leg deployment as landing, cutting the engines.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Mars Polar Lander",
+    "1999",
+    "lander",
+    "engineering failure"
+  ],
+  "hook": "It thought it had landed",
+  "soru": "Would you rerun the test?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "Mars Polar Lander",
+    "kisa": "Mars Polar Lander",
+    "nesne": "Lander",
+    "yil": 1999,
+    "sonuc": "went silent during landing on Mars",
+    "tetik": "leg deployment jolts read as a touchdown signal",
+    "mekanizma": "software treating spurious touchdown-sensor signals from leg deployment as landing, cutting the engines",
+    "sayi": "40 METRES",
+    "ders": "landing software is now tested with full end-to-end sensor behaviour",
+    "zincir": [
+      "LEGS DEPLOY IN DESCENT",
+      "SENSORS GIVE A FALSE SIGNAL",
+      "SOFTWARE REMEMBERS IT",
+      "ENGINES CUT AT ALTITUDE",
+      "LANDER FALLS"
+    ],
+    "zaman": [],
+    "yanilgi": "The lander most likely didn't crash from a hard terrain landing. Software probably shut its engines while it was still high above the surface.",
+    "tartisma": "A test after a wiring fix was never rerun. How many retests are enough?",
+    "basliklar": [
+      "A Software Glitch Shut Off the Engines Too Early",
+      "Why Mars Polar Lander Went Silent",
+      "The False Touchdown That Killed a Mars Mission"
+    ],
+    "kapak": [
+      "FALSE TOUCHDOWN",
+      "ENGINES OFF"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mars Polar Lander",
+        "url": "https://en.wikipedia.org/wiki/Mars_Polar_Lander"
+      },
+      {
+        "ad": "NASA — 2000 mpl report 1 (cited by Wikipedia)",
+        "url": "ftp://ftp.hq.nasa.gov/pub/pao/reports/2000/2000_mpl_report_1.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Mars_Polar_Lander",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Mars Polar Lander - artist depiction.png [Public domain]",
+      "Mars Polar Lander - launch photo.png [Public domain]",
+      "Mars Polar Lander close-up.jpg [Public domain]",
+      "Mars Polar Lander undergoes testing.jpg [Public domain]",
+      "98lander-bottom.jpg [Public domain]",
+      "98lander-top.jpg [Public domain]",
+      "98lander-top2.jpg [Public domain]"
+    ]
+  }
+}

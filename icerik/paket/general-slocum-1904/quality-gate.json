@@ -1,0 +1,65 @@
+{
+  "slug": "general-slocum-1904",
+  "asama": "final",
+  "format": "short",
+  "karar": "PUBLISH",
+  "toplam": 92,
+  "esikler": {
+    "publish": 85,
+    "review": 70
+  },
+  "engelleyen": [],
+  "bilesenler": {
+    "title": {
+      "puan": 53,
+      "notlar": [
+        "\"General Slocum: The Inspection That Killed\" (engine 46.7)"
+      ]
+    },
+    "thumbnail": {
+      "puan": 100,
+      "notlar": []
+    },
+    "hook": {
+      "puan": 100,
+      "notlar": []
+    },
+    "script": {
+      "puan": 100,
+      "notlar": []
+    },
+    "originality": {
+      "puan": 83,
+      "notlar": []
+    },
+    "visual": {
+      "puan": 100,
+      "notlar": [],
+      "olcum": {
+        "w": 1080,
+        "h": 1920,
+        "sure": 24.066667,
+        "ses": true
+      },
+      "kritik": null
+    },
+    "engineering": {
+      "puan": 100,
+      "notlar": []
+    },
+    "source": {
+      "puan": 100,
+      "notlar": []
+    },
+    "audio": {
+      "puan": 100,
+      "notlar": [],
+      "olcum": {
+        "I": -15.38,
+        "TP": -1.38,
+        "sessiz": 0
+      }
+    }
+  },
+  "tarih": "2026-09-30T13:58:24.345Z"
+}

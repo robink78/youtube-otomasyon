@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Liberation Sans,64,&H00FFFFFF,&H000000FF,&H00101824,&H90000000,-1,0,0,0,100,100,0,0,1,6,0,2,120,120,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.98,Caption,,0,0,0,,That tiny jeans
+Dialogue: 0,0:00:00.98,0:00:01.88,Caption,,0,0,0,,pocket was not
+Dialogue: 0,0:00:01.88,0:00:03.60,Caption,,0,0,0,,designed\Nfor loose change.
+Dialogue: 0,0:00:03.60,0:00:03.89,Caption,,0,0,0,,It is a
+Dialogue: 0,0:00:03.89,0:00:04.83,Caption,,0,0,0,,surviving piece of
+Dialogue: 0,0:00:04.83,0:00:06.40,Caption,,0,0,0,,nineteenth-century\Nworkwear.
+Dialogue: 0,0:00:06.40,0:00:07.22,Caption,,0,0,0,,Levi Strauss
+Dialogue: 0,0:00:07.22,0:00:08.33,Caption,,0,0,0,,and Company calls
+Dialogue: 0,0:00:08.33,0:00:09.60,Caption,,0,0,0,,it the watch pocket.
+Dialogue: 0,0:00:09.60,0:00:11.26,Caption,,0,0,0,,Pocket\Nwatches were common,
+Dialogue: 0,0:00:11.26,0:00:11.96,Caption,,0,0,0,,so the small
+Dialogue: 0,0:00:11.96,0:00:12.79,Caption,,0,0,0,,pouch carried
+Dialogue: 0,0:00:12.79,0:00:13.90,Caption,,0,0,0,,and protected one.
+Dialogue: 0,0:00:13.90,0:00:14.69,Caption,,0,0,0,,It appeared on
+Dialogue: 0,0:00:14.69,0:00:16.13,Caption,,0,0,0,,the\Noriginal four-pocket
+Dialogue: 0,0:00:16.13,0:00:17.44,Caption,,0,0,0,,riveted\Nwaist overalls
+Dialogue: 0,0:00:17.44,0:00:17.90,Caption,,0,0,0,,in {\c&H45ADF2&}1873.{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.90,0:00:18.83,Caption,,0,0,0,,The second back
+Dialogue: 0,0:00:18.83,0:00:20.27,Caption,,0,0,0,,pocket\Narrived in {\c&H45ADF2&}1901,{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.27,0:00:21.21,Caption,,0,0,0,,making that the
+Dialogue: 0,0:00:21.21,0:00:22.50,Caption,,0,0,0,,actual fifth pocket.
+Dialogue: 0,0:00:22.50,0:00:23.32,Caption,,0,0,0,,So this tiny
+Dialogue: 0,0:00:23.32,0:00:24.06,Caption,,0,0,0,,pocket is a
+Dialogue: 0,0:00:24.06,0:00:25.21,Caption,,0,0,0,,working trace of
+Dialogue: 0,0:00:25.21,0:00:27.10,Caption,,0,0,0,,the original\Njeans design.

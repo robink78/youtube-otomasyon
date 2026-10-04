@@ -1,0 +1,123 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Crack Smaller Than a Coin Dropped a Whole Bridge",
+  "kaynaklar": [
+    {
+      "ad": "silver-bridge-1.jpg",
+      "wikimedia": "Silver Bridge Collapse Signage (5070040586).jpg"
+    },
+    {
+      "ad": "silver-bridge-2.jpg",
+      "wikimedia": "Old Quay Bridge.jpg"
+    },
+    {
+      "ad": "silver-bridge-3.jpg",
+      "wikimedia": "Day 10- The Silver Memorial Bridge.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At rush hour, an entire bridge fell into the Ohio River.",
+      "kaynak": "Footage/silver-bridge-1.jpg"
+    },
+    {
+      "metin": "It collapsed in under a minute, and forty six people died.",
+      "kaynak": "Footage/silver-bridge-2.jpg"
+    },
+    {
+      "metin": "The cause was a crack you could barely see.",
+      "kaynak": "Footage/silver-bridge-3.jpg"
+    },
+    {
+      "metin": "It hid inside one eyebar in the suspension chain.",
+      "kaynak": "Footage/silver-bridge-1.jpg"
+    },
+    {
+      "metin": "Corrosion and stress slowly grew it deeper.",
+      "kaynak": "Footage/silver-bridge-2.jpg"
+    },
+    {
+      "metin": "When that single link snapped, nothing else could hold the load.",
+      "kaynak": "Footage/silver-bridge-3.jpg"
+    },
+    {
+      "metin": "The bridge had no backup path.",
+      "kaynak": "Footage/silver-bridge-1.jpg"
+    },
+    {
+      "metin": "That's why American bridges now get mandatory inspections.",
+      "kaynak": "Footage/silver-bridge-2.jpg"
+    }
+  ],
+  "aciklama": "Silver Bridge fell into the Ohio River at rush hour. The cause: stress corrosion cracking in an eyebar of a non-redundant chain.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Silver Bridge",
+    "bridge collapse",
+    "Point Pleasant",
+    "eyebar",
+    "1967"
+  ],
+  "hook": "One link. No backup.",
+  "soru": "Could you have seen the crack?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Silver Bridge",
+    "kisa": "Silver Bridge",
+    "nesne": "Bridge",
+    "yil": 1967,
+    "sonuc": "fell into the Ohio River at rush hour",
+    "tetik": "a tiny crack in one eyebar",
+    "mekanizma": "stress corrosion cracking in an eyebar of a non-redundant chain",
+    "sayi": "46 DEAD",
+    "ders": "US bridges now get mandatory inspections under the National Bridge Inspection Standards",
+    "zincir": [
+      "DEFECT IN ONE EYEBAR",
+      "STRESS CORROSION GROWS THE CRACK",
+      "EYEBAR FRACTURES",
+      "CHAIN HAS NO BACKUP",
+      "WHOLE BRIDGE FALLS"
+    ],
+    "zaman": [
+      {
+        "t": "Dec 15, 1967",
+        "olay": "Rush-hour traffic on the bridge"
+      }
+    ],
+    "yanilgi": "It wasn't overloaded by one heavy truck. The bridge hung on eyebar chains with no redundancy, so one cracked link was enough.",
+    "tartisma": "The crack was hidden inside a joint no inspector could see. Should designs without redundancy be allowed at all?",
+    "basliklar": [
+      "A Crack Smaller Than a Coin Dropped a Whole Bridge",
+      "Why the Silver Bridge Collapsed",
+      "The Single Link That Killed 46 People"
+    ],
+    "kapak": [
+      "ONE LINK",
+      "NO BACKUP"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Silver Bridge",
+        "url": "https://en.wikipedia.org/wiki/Silver_Bridge"
+      },
+      {
+        "ad": "NTSB Highway Accident Report HAR-71-01 — Collapse of U.S. 35 Highway Bridge, Point Pleasant",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR7101.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Silver_Bridge",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Silver Bridge Collapse Signage (5070040586).jpg [CC BY 2.0]",
+      "Old Quay Bridge.jpg [Public domain]",
+      "Day 10- The Silver Memorial Bridge.jpg [CC BY 2.0]"
+    ]
+  }
+}

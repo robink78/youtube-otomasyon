@@ -1,0 +1,50 @@
+{
+  "slug": "deepwater-horizon-2010",
+  "format": "short",
+  "olusturuldu": "2026-09-27T12:31:03.310Z",
+  "ekranHook": "The test nobody believed",
+  "mevcut": {
+    "puan": 100,
+    "pencereler": {
+      "0-5": "Eleven workers died when this oil rig exploded. Then the well burst open, gushing",
+      "5-12": "oil for 87 days. It became the largest marine oil spill in history. But the disaster began with a",
+      "12-20": "test result nobody believed. A pressure test showed gas leaking past the cement seal. Why? The crew misread it as fine and",
+      "20-30": "kept going. When the blowout came, the preventer couldn't cut the bent drill pipe. One bad reading, and one valve that couldn't close."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: a central question/problem is raised",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "The Deepwater Horizon exploded and sank, spilling oil for 87 days."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a misread negative pressure test."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could a misread negative pressure test do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is well blowout after a failed cement barrier and a blowout preventer that could not seal — and it is why well-integrity tests and blowout preventers were overhauled under new US offshore safety rules."
+      }
+    ],
+    "metin": "The Deepwater Horizon exploded and sank, spilling oil for 87 days. It took only a misread negative pressure test. So how could a misread negative pressure test do this? The answer is well blowout after a failed cement barrier and a blowout preventer that could not seal — and it is why well-integrity tests and blowout preventers were overhauled under new US offshore safety rules.",
+    "puan": 95
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Why a Flagship Phone Was Banned From Planes",
+  "kaynaklar": [
+    {
+      "ad": "galaxy-note-7-batteries-1.jpg",
+      "wikimedia": "Samsung Galaxy Note 5, S6 edge+ and Note 7 20161010b.jpg"
+    },
+    {
+      "ad": "galaxy-note-7-batteries-2.jpg",
+      "wikimedia": "Cloudless Midday Downtown Raleigh Skyline (185876191).jpeg"
+    },
+    {
+      "ad": "galaxy-note-7-batteries-3.jpg",
+      "wikimedia": "Crawford pass Crawford Trailhead Dixie NF USDA FS (29642765246).jpg"
+    },
+    {
+      "ad": "galaxy-note-7-batteries-4.png",
+      "wikimedia": "Samsung Galaxy Note 4.png"
+    },
+    {
+      "ad": "galaxy-note-7-batteries-5.png",
+      "wikimedia": "Samsung Galaxy Note Edge.png"
+    },
+    {
+      "ad": "galaxy-note-7-batteries-6.jpg",
+      "wikimedia": "Samsung Galaxy Note 5 Keyboard Cover.jpg"
+    },
+    {
+      "ad": "galaxy-note-7-batteries-7.jpg",
+      "wikimedia": "Samsung Galaxy Note 5 in IFA 2015 (1).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A new flagship smartphone began catching fire.",
+      "kaynak": "Footage/galaxy-note-7-batteries-1.jpg"
+    },
+    {
+      "metin": "Within weeks, airlines banned it from flights.",
+      "kaynak": "Footage/galaxy-note-7-batteries-2.jpg"
+    },
+    {
+      "metin": "The problem was inside its battery.",
+      "kaynak": "Footage/galaxy-note-7-batteries-3.jpg"
+    },
+    {
+      "metin": "In one design, the electrodes could be bent and touch.",
+      "kaynak": "Footage/galaxy-note-7-batteries-4.png"
+    },
+    {
+      "metin": "That created a short circuit and runaway heating.",
+      "kaynak": "Footage/galaxy-note-7-batteries-5.png"
+    },
+    {
+      "metin": "Replacement phones used a different battery.",
+      "kaynak": "Footage/galaxy-note-7-batteries-6.jpg"
+    },
+    {
+      "metin": "They had their own defect and caught fire too.",
+      "kaynak": "Footage/galaxy-note-7-batteries-7.jpg"
+    },
+    {
+      "metin": "The phone was discontinued, and battery testing was overhauled.",
+      "kaynak": "Footage/galaxy-note-7-batteries-1.jpg"
+    }
+  ],
+  "aciklama": "Galaxy Note 7 had batteries overheat and catch fire. The cause: internal short circuits from battery design and manufacturing defects in two different suppliers' cells.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Galaxy Note 7",
+    "2016",
+    "battery",
+    "engineering failure"
+  ],
+  "hook": "Banned from planes",
+  "soru": "How fast is too fast?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "the Galaxy Note 7",
+    "kisa": "Galaxy Note 7",
+    "nesne": "Battery",
+    "yil": 2016,
+    "sonuc": "had batteries overheat and catch fire",
+    "tetik": "defects that let battery electrodes touch",
+    "mekanizma": "internal short circuits from battery design and manufacturing defects in two different suppliers' cells",
+    "sayi": "TWO RECALLS",
+    "ders": "Samsung introduced a multi-point battery safety check",
+    "zincir": [
+      "BATTERY SQUEEZED IN THIN CASE",
+      "ELECTRODES DEFORM OR WELD DEFECTS",
+      "SEPARATOR BREACHED",
+      "SHORT CIRCUIT",
+      "THERMAL RUNAWAY"
+    ],
+    "zaman": [],
+    "yanilgi": "The replacement phones weren't the fix. They had a different battery defect and also caught fire.",
+    "tartisma": "The first recall was rushed. How fast should a company be sure of a fix?",
+    "basliklar": [
+      "Why a Flagship Phone Was Banned From Planes",
+      "Why the Galaxy Note 7 Caught Fire",
+      "The Phone That Failed Its Recall"
+    ],
+    "kapak": [
+      "BANNED ON PLANES",
+      "TWO RECALLS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Samsung Galaxy Note 7",
+        "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_7"
+      },
+      {
+        "ad": "Government source — page 1295 (cited by Wikipedia)",
+        "url": "http://www.tc.gc.ca/eng/tdg/page-1295.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "Samsung_Galaxy_Note_7",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Samsung Galaxy Note 5, S6 edge+ and Note 7 20161010b.jpg [CC BY 2.5]",
+      "Cloudless Midday Downtown Raleigh Skyline (185876191).jpeg [CC BY 3.0]",
+      "Crawford pass Crawford Trailhead Dixie NF USDA FS (29642765246).jpg [Public domain]",
+      "Samsung Galaxy Note 4.png [CC BY 3.0]",
+      "Samsung Galaxy Note Edge.png [CC BY 3.0]",
+      "Samsung Galaxy Note 5 Keyboard Cover.jpg [CC BY 2.0]",
+      "Samsung Galaxy Note 5 in IFA 2015 (1).jpg [CC BY 2.0]"
+    ]
+  }
+}

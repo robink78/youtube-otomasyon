@@ -1,0 +1,49 @@
+{
+  "slug": "why-buildings-collapse",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.862Z",
+  "ekranHook": "The floor that becomes a trap",
+  "mevcut": {
+    "puan": 85,
+    "pencereler": {
+      "0-5": "An earthquake almost never kills you. The building does. When the ground shakes, it",
+      "5-12": "shakes side to side, not up and down. A tall building sways like a tree, and each floor pushes",
+      "12-20": "the one above it. If the columns are too weak, one floor pancakes onto the next. This is called soft story failure,",
+      "20-30": "and it flattens buildings in seconds. Older concrete without steel inside simply shatters under the stress. Modern towers are built to bend, with flexible joints and deep foundations."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "An earthquake almost never kills you."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only sideways ground shaking."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is soft-story failure — and it is why modern codes require ductile frames and base isolation."
+      }
+    ],
+    "metin": "An earthquake almost never kills you. It took only sideways ground shaking. So what actually happens inside? The answer is soft-story failure — and it is why modern codes require ductile frames and base isolation.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

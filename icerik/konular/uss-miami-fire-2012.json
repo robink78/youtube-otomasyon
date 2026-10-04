@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Worker Set a Submarine on Fire to Leave Work Early",
+  "kaynaklar": [
+    {
+      "ad": "uss-miami-fire-1.jpg",
+      "wikimedia": "120315-N-TT535-040 USS Miami.jpg"
+    },
+    {
+      "ad": "uss-miami-fire-2.jpg",
+      "wikimedia": "USS Miami (SSN-755).jpg"
+    },
+    {
+      "ad": "uss-miami-fire-3.jpg",
+      "wikimedia": "USS Miami (SSN-755) docked.jpg"
+    },
+    {
+      "ad": "uss-miami-fire-4.jpg",
+      "wikimedia": "USS Miami SSN-755.jpg"
+    },
+    {
+      "ad": "uss-miami-fire-5.jpg",
+      "wikimedia": "US Navy 040426-N-4518L-003 The Los Angeles class attack submarine USS Miami (SSN 755) prepares to moor at Port Everglades, Fla., for Fleet Week 2004.jpg"
+    },
+    {
+      "ad": "uss-miami-fire-6.jpg",
+      "wikimedia": "US Navy 040426-N-6268K-026 Sailors aboard the Los Angeles class attack submarine USS Miami (SSN 755), man the rails.jpg"
+    },
+    {
+      "ad": "uss-miami-fire-7.jpg",
+      "wikimedia": "US Navy 071111-N-7090S-016 The Los Angeles-class nuclear-powered fast-attack submarine USS Miami (SSN 755) surfaces in the North Arabian Sea during an anti-submarine warfare (ASW) exercise with the Enterprise Carrier Strike Gro.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Fire broke out inside the nuclear submarine Miami at a shipyard in Maine.",
+      "kaynak": "Footage/uss-miami-fire-1.jpg"
+    },
+    {
+      "metin": "It spread through crew, command and torpedo spaces, and burned for twelve hours.",
+      "kaynak": "Footage/uss-miami-fire-2.jpg"
+    },
+    {
+      "metin": "The submarine was in overhaul.",
+      "kaynak": "Footage/uss-miami-fire-3.jpg"
+    },
+    {
+      "metin": "The first report blamed a vacuum cleaner.",
+      "kaynak": "Footage/uss-miami-fire-4.jpg"
+    },
+    {
+      "metin": "Then a shipyard worker confessed.",
+      "kaynak": "Footage/uss-miami-fire-5.jpg"
+    },
+    {
+      "metin": "He lit rags on a bunk so he could leave work early.",
+      "kaynak": "Footage/uss-miami-fire-6.jpg"
+    },
+    {
+      "metin": "He was sentenced to more than seventeen years.",
+      "kaynak": "Footage/uss-miami-fire-7.jpg"
+    },
+    {
+      "metin": "The submarine was decommissioned instead of repaired.",
+      "kaynak": "Footage/uss-miami-fire-1.jpg"
+    }
+  ],
+  "aciklama": "USS Miami was destroyed by fire during an overhaul. The cause: arson in a submarine under overhaul, spreading through crew, command and torpedo spaces.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "USS Miami",
+    "2012",
+    "nuclear submarine",
+    "engineering failure"
+  ],
+  "hook": "He wanted to go home early",
+  "soru": "What's the price of one decision?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "USS Miami",
+    "kisa": "USS Miami",
+    "nesne": "Nuclear submarine",
+    "yil": 2012,
+    "sonuc": "was destroyed by fire during an overhaul",
+    "tetik": "a shipyard worker lighting rags in a berthing compartment",
+    "mekanizma": "arson in a submarine under overhaul, spreading through crew, command and torpedo spaces",
+    "sayi": "12 HOURS",
+    "ders": "the submarine was decommissioned instead of repaired",
+    "zincir": [
+      "SUB IN OVERHAUL",
+      "WORKER WANTS TO LEAVE",
+      "RAGS LIT ON A BUNK",
+      "FIRE SPREADS",
+      "SUB SCRAPPED"
+    ],
+    "zaman": [],
+    "yanilgi": "The first explanation blamed a vacuum cleaner. A worker later confessed to starting it.",
+    "tartisma": "Repairs would have cost hundreds of millions. What's the true price of one person's decision?",
+    "basliklar": [
+      "A Worker Set a Submarine on Fire to Leave Work Early",
+      "How a Worker Destroyed USS Miami",
+      "The Fire Set to Get Off Work Early"
+    ],
+    "kapak": [
+      "ARSON",
+      "12 HOURS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Miami (SSN-755)",
+        "url": "https://en.wikipedia.org/wiki/USS_Miami_(SSN-755)"
+      },
+      {
+        "ad": "Government source — 1990 (cited by Wikipedia)",
+        "url": "https://www.history.navy.mil/content/dam/nhhc/research/archives/command-operation-reports/ship-command-operation-reports/m/miami-ssn-755-iii/pdf/1990.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-22",
+    "wiki": "USS_Miami_(SSN-755)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "120315-N-TT535-040 USS Miami.jpg [Public domain]",
+      "USS Miami (SSN-755).jpg [Public domain]",
+      "USS Miami (SSN-755) docked.jpg [Public domain]",
+      "USS Miami SSN-755.jpg [Public domain]",
+      "US Navy 040426-N-4518L-003 The Los Angeles class attack submarine USS Miami (SSN 755) prepares to moor at Port Everglades, Fla., for Fleet Week 2004.jpg [Public domain]",
+      "US Navy 040426-N-6268K-026 Sailors aboard the Los Angeles class attack submarine USS Miami (SSN 755), man the rails.jpg [Public domain]",
+      "US Navy 071111-N-7090S-016 The Los Angeles-class nuclear-powered fast-attack submarine USS Miami (SSN 755) surfaces in the North Arabian Sea during an anti-submarine warfare (ASW) exercise with the Enterprise Carrier Strike Gro.jpg [Public domain]"
+    ]
+  }
+}

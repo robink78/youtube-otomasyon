@@ -1,0 +1,1261 @@
+{
+  "schema": "growth-channel-report/1",
+  "generatedAt": "2026-09-30T20:12:22.642Z",
+  "channel": "failure-reconstructed",
+  "channelName": "Failure Reconstructed",
+  "caveat": "Probable causes and patterns are correlations within this channel, not proof of recommendation-system causality.",
+  "snapshot": {
+    "totalViews": 6910,
+    "totalSubscribers": 19,
+    "grossSubscribersGained": null,
+    "netSubscribers": 10,
+    "subscriberConversion": null,
+    "netSubscriberConversion": 0.00116,
+    "medianShortViews": 1004.5,
+    "median24hViews": 945,
+    "median48hViews": 1005.5,
+    "medianEngagementRate": 0.035185,
+    "bestCluster": {
+      "cluster": "maritime-disasters",
+      "n": 1,
+      "medianViews": 517,
+      "median24hViews": null,
+      "median48hViews": null,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.02901,
+      "medianRetention": null,
+      "breakoutFrequency": 0,
+      "medianGrowthScore": 81.9
+    },
+    "weakestCluster": {
+      "cluster": "nuclear-accidents",
+      "n": 1,
+      "medianViews": 1351,
+      "median24hViews": 124,
+      "median48hViews": 1366,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.01184,
+      "medianRetention": 59.31999999999999,
+      "breakoutFrequency": 0,
+      "medianGrowthScore": 14
+    },
+    "trackedShorts": 10,
+    "durableInventory": {
+      "total": 500,
+      "qualified": 500,
+      "production_ready": 377,
+      "research_backlog": 123,
+      "used": 10
+    }
+  },
+  "rankings": {
+    "views": [
+      {
+        "videoId": "bqTpdauhlHo",
+        "slug": "challenger-1986",
+        "title": "Why Challenger Broke Apart 73 Seconds After Launch",
+        "cluster": "spaceflight-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-26T18:00:00.000Z",
+        "views": 1691,
+        "viewsPerHour": 23.49,
+        "recentViewVelocity": -0.54,
+        "averagePercentageViewed": 93.43,
+        "subscribersGained": null,
+        "netSubscribers": 3,
+        "subscriberConversion": null,
+        "engagementRate": 0.0479,
+        "growthScore": 65.4,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "DLYpmaQ-EVw",
+        "slug": "bikini-baker",
+        "title": "The Nuclear Test That Poisoned a Paradise Forever",
+        "cluster": "nuclear-accidents",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-24T03:42:01Z",
+        "views": 1351,
+        "viewsPerHour": 18.76,
+        "recentViewVelocity": -0.62,
+        "averagePercentageViewed": 59.31999999999999,
+        "subscribersGained": null,
+        "netSubscribers": 0,
+        "subscriberConversion": null,
+        "engagementRate": 0.01184,
+        "growthScore": 14,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "low engagement correlation"
+        ]
+      },
+      {
+        "videoId": "uqoAjXMbbls",
+        "slug": "apollo-13-1970",
+        "title": "28 Volts vs 65: Apollo 13's Hidden Flaw",
+        "cluster": "spaceflight-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-29T18:00:00.000Z",
+        "views": 1221,
+        "viewsPerHour": 50.88,
+        "recentViewVelocity": 0.83,
+        "averagePercentageViewed": null,
+        "subscribersGained": null,
+        "netSubscribers": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.03358,
+        "growthScore": 72.2,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "I86SnrokHMk",
+        "slug": "vesuvius-1944",
+        "title": "Vesuvius 1944: An Eruption in the Middle of a War",
+        "cluster": "natural-hazards",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-28T18:00:00.000Z",
+        "views": 1141,
+        "viewsPerHour": 25.54,
+        "recentViewVelocity": 3.54,
+        "averagePercentageViewed": null,
+        "subscribersGained": null,
+        "netSubscribers": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.03752,
+        "growthScore": 79.4,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "PGOKZhPYo7c",
+        "slug": "hindenburg",
+        "title": "The Disaster That Ended the Age of the Airship",
+        "cluster": "aviation-failures",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-22T20:26:44Z",
+        "views": 1033,
+        "viewsPerHour": 6.15,
+        "recentViewVelocity": 0.22,
+        "averagePercentageViewed": 75.19,
+        "subscribersGained": null,
+        "netSubscribers": 2,
+        "subscriberConversion": null,
+        "engagementRate": 0.03679,
+        "growthScore": 62.7,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      }
+    ],
+    "velocity": [
+      {
+        "videoId": "NnGoWJOdaW0",
+        "slug": "general-slocum-1904",
+        "title": "General Slocum: The Inspection That Killed",
+        "cluster": "maritime-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-30T18:00:00.000Z",
+        "views": 517,
+        "viewsPerHour": 517,
+        "recentViewVelocity": null,
+        "averagePercentageViewed": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.02901,
+        "growthScore": 81.9,
+        "classification": "STRONG",
+        "probableCauses": []
+      },
+      {
+        "videoId": "I86SnrokHMk",
+        "slug": "vesuvius-1944",
+        "title": "Vesuvius 1944: An Eruption in the Middle of a War",
+        "cluster": "natural-hazards",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-28T18:00:00.000Z",
+        "views": 1141,
+        "viewsPerHour": 25.54,
+        "recentViewVelocity": 3.54,
+        "averagePercentageViewed": null,
+        "subscribersGained": null,
+        "netSubscribers": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.03752,
+        "growthScore": 79.4,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "uqoAjXMbbls",
+        "slug": "apollo-13-1970",
+        "title": "28 Volts vs 65: Apollo 13's Hidden Flaw",
+        "cluster": "spaceflight-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-29T18:00:00.000Z",
+        "views": 1221,
+        "viewsPerHour": 50.88,
+        "recentViewVelocity": 0.83,
+        "averagePercentageViewed": null,
+        "subscribersGained": null,
+        "netSubscribers": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.03358,
+        "growthScore": 72.2,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "PGOKZhPYo7c",
+        "slug": "hindenburg",
+        "title": "The Disaster That Ended the Age of the Airship",
+        "cluster": "aviation-failures",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-22T20:26:44Z",
+        "views": 1033,
+        "viewsPerHour": 6.15,
+        "recentViewVelocity": 0.22,
+        "averagePercentageViewed": 75.19,
+        "subscribersGained": null,
+        "netSubscribers": 2,
+        "subscriberConversion": null,
+        "engagementRate": 0.03679,
+        "growthScore": 62.7,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "aScjSrwqeRk",
+        "slug": "deepwater-horizon-2010",
+        "title": "Deepwater Horizon: The Test Result Nobody Believed",
+        "cluster": "industrial-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-27T18:00:00.000Z",
+        "views": 423,
+        "viewsPerHour": 5.88,
+        "recentViewVelocity": 0.08,
+        "averagePercentageViewed": 67.77,
+        "subscribersGained": null,
+        "netSubscribers": 1,
+        "subscriberConversion": null,
+        "engagementRate": 0.01418,
+        "growthScore": 45.7,
+        "classification": "NORMAL",
+        "probableCauses": []
+      }
+    ],
+    "retention": [
+      {
+        "videoId": "bqTpdauhlHo",
+        "slug": "challenger-1986",
+        "title": "Why Challenger Broke Apart 73 Seconds After Launch",
+        "cluster": "spaceflight-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-26T18:00:00.000Z",
+        "views": 1691,
+        "viewsPerHour": 23.49,
+        "recentViewVelocity": -0.54,
+        "averagePercentageViewed": 93.43,
+        "subscribersGained": null,
+        "netSubscribers": 3,
+        "subscriberConversion": null,
+        "engagementRate": 0.0479,
+        "growthScore": 65.4,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "PGOKZhPYo7c",
+        "slug": "hindenburg",
+        "title": "The Disaster That Ended the Age of the Airship",
+        "cluster": "aviation-failures",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-22T20:26:44Z",
+        "views": 1033,
+        "viewsPerHour": 6.15,
+        "recentViewVelocity": 0.22,
+        "averagePercentageViewed": 75.19,
+        "subscribersGained": null,
+        "netSubscribers": 2,
+        "subscriberConversion": null,
+        "engagementRate": 0.03679,
+        "growthScore": 62.7,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "aScjSrwqeRk",
+        "slug": "deepwater-horizon-2010",
+        "title": "Deepwater Horizon: The Test Result Nobody Believed",
+        "cluster": "industrial-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-27T18:00:00.000Z",
+        "views": 423,
+        "viewsPerHour": 5.88,
+        "recentViewVelocity": 0.08,
+        "averagePercentageViewed": 67.77,
+        "subscribersGained": null,
+        "netSubscribers": 1,
+        "subscriberConversion": null,
+        "engagementRate": 0.01418,
+        "growthScore": 45.7,
+        "classification": "NORMAL",
+        "probableCauses": []
+      },
+      {
+        "videoId": "qkzRUqlEy5I",
+        "slug": "tacoma-narrows",
+        "title": "Why the Tacoma Narrows Bridge Tore Itself Apart",
+        "cluster": "bridge-failures",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-22T20:27:26Z",
+        "views": 186,
+        "viewsPerHour": 1.11,
+        "recentViewVelocity": 0.03,
+        "averagePercentageViewed": 65.29,
+        "subscribersGained": null,
+        "netSubscribers": 0,
+        "subscriberConversion": null,
+        "engagementRate": 0.03763,
+        "growthScore": 45.2,
+        "classification": "NORMAL",
+        "probableCauses": []
+      },
+      {
+        "videoId": "X0jw78mIGdk",
+        "slug": "san-francisco-1906",
+        "title": "Why San Francisco Burned for Three Days",
+        "cluster": "natural-hazards",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-23T13:40:09Z",
+        "views": 113,
+        "viewsPerHour": 0.67,
+        "recentViewVelocity": 0.01,
+        "averagePercentageViewed": 63.81,
+        "subscribersGained": null,
+        "netSubscribers": 2,
+        "subscriberConversion": null,
+        "engagementRate": 0.06195,
+        "growthScore": 38.6,
+        "classification": "WEAK",
+        "probableCauses": []
+      }
+    ],
+    "subscribersGained": [],
+    "subscriberConversion": [],
+    "engagement": [
+      {
+        "videoId": "X0jw78mIGdk",
+        "slug": "san-francisco-1906",
+        "title": "Why San Francisco Burned for Three Days",
+        "cluster": "natural-hazards",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-23T13:40:09Z",
+        "views": 113,
+        "viewsPerHour": 0.67,
+        "recentViewVelocity": 0.01,
+        "averagePercentageViewed": 63.81,
+        "subscribersGained": null,
+        "netSubscribers": 2,
+        "subscriberConversion": null,
+        "engagementRate": 0.06195,
+        "growthScore": 38.6,
+        "classification": "WEAK",
+        "probableCauses": []
+      },
+      {
+        "videoId": "bqTpdauhlHo",
+        "slug": "challenger-1986",
+        "title": "Why Challenger Broke Apart 73 Seconds After Launch",
+        "cluster": "spaceflight-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-26T18:00:00.000Z",
+        "views": 1691,
+        "viewsPerHour": 23.49,
+        "recentViewVelocity": -0.54,
+        "averagePercentageViewed": 93.43,
+        "subscribersGained": null,
+        "netSubscribers": 3,
+        "subscriberConversion": null,
+        "engagementRate": 0.0479,
+        "growthScore": 65.4,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "qkzRUqlEy5I",
+        "slug": "tacoma-narrows",
+        "title": "Why the Tacoma Narrows Bridge Tore Itself Apart",
+        "cluster": "bridge-failures",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-22T20:27:26Z",
+        "views": 186,
+        "viewsPerHour": 1.11,
+        "recentViewVelocity": 0.03,
+        "averagePercentageViewed": 65.29,
+        "subscribersGained": null,
+        "netSubscribers": 0,
+        "subscriberConversion": null,
+        "engagementRate": 0.03763,
+        "growthScore": 45.2,
+        "classification": "NORMAL",
+        "probableCauses": []
+      },
+      {
+        "videoId": "I86SnrokHMk",
+        "slug": "vesuvius-1944",
+        "title": "Vesuvius 1944: An Eruption in the Middle of a War",
+        "cluster": "natural-hazards",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-28T18:00:00.000Z",
+        "views": 1141,
+        "viewsPerHour": 25.54,
+        "recentViewVelocity": 3.54,
+        "averagePercentageViewed": null,
+        "subscribersGained": null,
+        "netSubscribers": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.03752,
+        "growthScore": 79.4,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "PGOKZhPYo7c",
+        "slug": "hindenburg",
+        "title": "The Disaster That Ended the Age of the Airship",
+        "cluster": "aviation-failures",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-22T20:26:44Z",
+        "views": 1033,
+        "viewsPerHour": 6.15,
+        "recentViewVelocity": 0.22,
+        "averagePercentageViewed": 75.19,
+        "subscribersGained": null,
+        "netSubscribers": 2,
+        "subscriberConversion": null,
+        "engagementRate": 0.03679,
+        "growthScore": 62.7,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      }
+    ],
+    "growthScore": [
+      {
+        "videoId": "NnGoWJOdaW0",
+        "slug": "general-slocum-1904",
+        "title": "General Slocum: The Inspection That Killed",
+        "cluster": "maritime-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-30T18:00:00.000Z",
+        "views": 517,
+        "viewsPerHour": 517,
+        "recentViewVelocity": null,
+        "averagePercentageViewed": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.02901,
+        "growthScore": 81.9,
+        "classification": "STRONG",
+        "probableCauses": []
+      },
+      {
+        "videoId": "I86SnrokHMk",
+        "slug": "vesuvius-1944",
+        "title": "Vesuvius 1944: An Eruption in the Middle of a War",
+        "cluster": "natural-hazards",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-28T18:00:00.000Z",
+        "views": 1141,
+        "viewsPerHour": 25.54,
+        "recentViewVelocity": 3.54,
+        "averagePercentageViewed": null,
+        "subscribersGained": null,
+        "netSubscribers": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.03752,
+        "growthScore": 79.4,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "uqoAjXMbbls",
+        "slug": "apollo-13-1970",
+        "title": "28 Volts vs 65: Apollo 13's Hidden Flaw",
+        "cluster": "spaceflight-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-29T18:00:00.000Z",
+        "views": 1221,
+        "viewsPerHour": 50.88,
+        "recentViewVelocity": 0.83,
+        "averagePercentageViewed": null,
+        "subscribersGained": null,
+        "netSubscribers": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.03358,
+        "growthScore": 72.2,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "bqTpdauhlHo",
+        "slug": "challenger-1986",
+        "title": "Why Challenger Broke Apart 73 Seconds After Launch",
+        "cluster": "spaceflight-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-26T18:00:00.000Z",
+        "views": 1691,
+        "viewsPerHour": 23.49,
+        "recentViewVelocity": -0.54,
+        "averagePercentageViewed": 93.43,
+        "subscribersGained": null,
+        "netSubscribers": 3,
+        "subscriberConversion": null,
+        "engagementRate": 0.0479,
+        "growthScore": 65.4,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      },
+      {
+        "videoId": "PGOKZhPYo7c",
+        "slug": "hindenburg",
+        "title": "The Disaster That Ended the Age of the Airship",
+        "cluster": "aviation-failures",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-22T20:26:44Z",
+        "views": 1033,
+        "viewsPerHour": 6.15,
+        "recentViewVelocity": 0.22,
+        "averagePercentageViewed": 75.19,
+        "subscribersGained": null,
+        "netSubscribers": 2,
+        "subscriberConversion": null,
+        "engagementRate": 0.03679,
+        "growthScore": 62.7,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ]
+      }
+    ]
+  },
+  "bottomVideos": [
+    {
+      "videoId": "DLYpmaQ-EVw",
+      "slug": "bikini-baker",
+      "title": "The Nuclear Test That Poisoned a Paradise Forever",
+      "cluster": "nuclear-accidents",
+      "hookType": null,
+      "selectedHook": null,
+      "titlePattern": null,
+      "durationBucket": null,
+      "storyStructure": null,
+      "openingVisual": null,
+      "publishAt": "2026-09-24T03:42:01Z",
+      "views": 1351,
+      "viewsPerHour": 18.76,
+      "recentViewVelocity": -0.62,
+      "averagePercentageViewed": 59.31999999999999,
+      "subscribersGained": null,
+      "netSubscribers": 0,
+      "subscriberConversion": null,
+      "engagementRate": 0.01184,
+      "growthScore": 14,
+      "classification": "FAILED_TEST",
+      "probableCauses": [
+        "low engagement correlation"
+      ]
+    },
+    {
+      "videoId": "ODZ7y6r1o6o",
+      "slug": "how-avalanches-start",
+      "title": "How a Single Step Triggers an Avalanche",
+      "cluster": "natural-hazards",
+      "hookType": null,
+      "selectedHook": null,
+      "titlePattern": null,
+      "durationBucket": null,
+      "storyStructure": null,
+      "openingVisual": null,
+      "publishAt": "2026-09-25T18:00:00.000Z",
+      "views": 976,
+      "viewsPerHour": 13.56,
+      "recentViewVelocity": 0,
+      "averagePercentageViewed": 63.1,
+      "subscribersGained": null,
+      "netSubscribers": 2,
+      "subscriberConversion": null,
+      "engagementRate": 0.0082,
+      "growthScore": 21.1,
+      "classification": "WEAK",
+      "probableCauses": []
+    },
+    {
+      "videoId": "X0jw78mIGdk",
+      "slug": "san-francisco-1906",
+      "title": "Why San Francisco Burned for Three Days",
+      "cluster": "natural-hazards",
+      "hookType": null,
+      "selectedHook": null,
+      "titlePattern": null,
+      "durationBucket": null,
+      "storyStructure": null,
+      "openingVisual": null,
+      "publishAt": "2026-09-23T13:40:09Z",
+      "views": 113,
+      "viewsPerHour": 0.67,
+      "recentViewVelocity": 0.01,
+      "averagePercentageViewed": 63.81,
+      "subscribersGained": null,
+      "netSubscribers": 2,
+      "subscriberConversion": null,
+      "engagementRate": 0.06195,
+      "growthScore": 38.6,
+      "classification": "WEAK",
+      "probableCauses": []
+    },
+    {
+      "videoId": "qkzRUqlEy5I",
+      "slug": "tacoma-narrows",
+      "title": "Why the Tacoma Narrows Bridge Tore Itself Apart",
+      "cluster": "bridge-failures",
+      "hookType": null,
+      "selectedHook": null,
+      "titlePattern": null,
+      "durationBucket": null,
+      "storyStructure": null,
+      "openingVisual": null,
+      "publishAt": "2026-09-22T20:27:26Z",
+      "views": 186,
+      "viewsPerHour": 1.11,
+      "recentViewVelocity": 0.03,
+      "averagePercentageViewed": 65.29,
+      "subscribersGained": null,
+      "netSubscribers": 0,
+      "subscriberConversion": null,
+      "engagementRate": 0.03763,
+      "growthScore": 45.2,
+      "classification": "NORMAL",
+      "probableCauses": []
+    },
+    {
+      "videoId": "aScjSrwqeRk",
+      "slug": "deepwater-horizon-2010",
+      "title": "Deepwater Horizon: The Test Result Nobody Believed",
+      "cluster": "industrial-disasters",
+      "hookType": null,
+      "selectedHook": null,
+      "titlePattern": null,
+      "durationBucket": null,
+      "storyStructure": null,
+      "openingVisual": null,
+      "publishAt": "2026-09-27T18:00:00.000Z",
+      "views": 423,
+      "viewsPerHour": 5.88,
+      "recentViewVelocity": 0.08,
+      "averagePercentageViewed": 67.77,
+      "subscribersGained": null,
+      "netSubscribers": 1,
+      "subscriberConversion": null,
+      "engagementRate": 0.01418,
+      "growthScore": 45.7,
+      "classification": "NORMAL",
+      "probableCauses": []
+    }
+  ],
+  "plateauAnalysis": {
+    "count": 5,
+    "videos": [
+      {
+        "videoId": "DLYpmaQ-EVw",
+        "slug": "bikini-baker",
+        "title": "The Nuclear Test That Poisoned a Paradise Forever",
+        "cluster": "nuclear-accidents",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-24T03:42:01Z",
+        "views": 1351,
+        "viewsPerHour": 18.76,
+        "recentViewVelocity": -0.62,
+        "averagePercentageViewed": 59.31999999999999,
+        "subscribersGained": null,
+        "netSubscribers": 0,
+        "subscriberConversion": null,
+        "engagementRate": 0.01184,
+        "growthScore": 14,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "low engagement correlation"
+        ],
+        "plateau": {
+          "detected": true,
+          "code": "EARLY_DISTRIBUTION_PLATEAU",
+          "earlyCheckpoint": "12h",
+          "latestCheckpoint": "72h",
+          "earlyViews": 1366,
+          "latestViews": 1351,
+          "earlyVelocity": 113.83,
+          "laterVelocity": -0.25,
+          "velocityRatio": -0.002,
+          "growthAfterEarly": -0.011
+        }
+      },
+      {
+        "videoId": "I86SnrokHMk",
+        "slug": "vesuvius-1944",
+        "title": "Vesuvius 1944: An Eruption in the Middle of a War",
+        "cluster": "natural-hazards",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-28T18:00:00.000Z",
+        "views": 1141,
+        "viewsPerHour": 25.54,
+        "recentViewVelocity": 3.54,
+        "averagePercentageViewed": null,
+        "subscribersGained": null,
+        "netSubscribers": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.03752,
+        "growthScore": 79.4,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ],
+        "plateau": {
+          "detected": true,
+          "code": "EARLY_DISTRIBUTION_PLATEAU",
+          "earlyCheckpoint": "12h",
+          "latestCheckpoint": "48h",
+          "earlyViews": 1217,
+          "latestViews": 1226,
+          "earlyVelocity": 101.42,
+          "laterVelocity": 0.25,
+          "velocityRatio": 0.002,
+          "growthAfterEarly": 0.007
+        }
+      },
+      {
+        "videoId": "PGOKZhPYo7c",
+        "slug": "hindenburg",
+        "title": "The Disaster That Ended the Age of the Airship",
+        "cluster": "aviation-failures",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-22T20:26:44Z",
+        "views": 1033,
+        "viewsPerHour": 6.15,
+        "recentViewVelocity": 0.22,
+        "averagePercentageViewed": 75.19,
+        "subscribersGained": null,
+        "netSubscribers": 2,
+        "subscriberConversion": null,
+        "engagementRate": 0.03679,
+        "growthScore": 62.7,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ],
+        "plateau": {
+          "detected": true,
+          "code": "EARLY_DISTRIBUTION_PLATEAU",
+          "earlyCheckpoint": "12h",
+          "latestCheckpoint": "7d",
+          "earlyViews": 1035,
+          "latestViews": 1033,
+          "earlyVelocity": 86.25,
+          "laterVelocity": -0.01,
+          "velocityRatio": 0,
+          "growthAfterEarly": -0.002
+        }
+      },
+      {
+        "videoId": "bqTpdauhlHo",
+        "slug": "challenger-1986",
+        "title": "Why Challenger Broke Apart 73 Seconds After Launch",
+        "cluster": "spaceflight-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-26T18:00:00.000Z",
+        "views": 1691,
+        "viewsPerHour": 23.49,
+        "recentViewVelocity": -0.54,
+        "averagePercentageViewed": 93.43,
+        "subscribersGained": null,
+        "netSubscribers": 3,
+        "subscriberConversion": null,
+        "engagementRate": 0.0479,
+        "growthScore": 65.4,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ],
+        "plateau": {
+          "detected": true,
+          "code": "EARLY_DISTRIBUTION_PLATEAU",
+          "earlyCheckpoint": "12h",
+          "latestCheckpoint": "72h",
+          "earlyViews": 1704,
+          "latestViews": 1691,
+          "earlyVelocity": 142,
+          "laterVelocity": -0.22,
+          "velocityRatio": -0.002,
+          "growthAfterEarly": -0.008
+        }
+      },
+      {
+        "videoId": "uqoAjXMbbls",
+        "slug": "apollo-13-1970",
+        "title": "28 Volts vs 65: Apollo 13's Hidden Flaw",
+        "cluster": "spaceflight-disasters",
+        "hookType": null,
+        "selectedHook": null,
+        "titlePattern": null,
+        "durationBucket": null,
+        "storyStructure": null,
+        "openingVisual": null,
+        "publishAt": "2026-09-29T18:00:00.000Z",
+        "views": 1221,
+        "viewsPerHour": 50.88,
+        "recentViewVelocity": 0.83,
+        "averagePercentageViewed": null,
+        "subscribersGained": null,
+        "netSubscribers": null,
+        "subscriberConversion": null,
+        "engagementRate": 0.03358,
+        "growthScore": 72.2,
+        "classification": "FAILED_TEST",
+        "probableCauses": [
+          "distribution slowed; available metrics do not isolate a reliable cause"
+        ],
+        "plateau": {
+          "detected": true,
+          "code": "EARLY_DISTRIBUTION_PLATEAU",
+          "earlyCheckpoint": "12h",
+          "latestCheckpoint": "24h",
+          "earlyViews": 1211,
+          "latestViews": 1221,
+          "earlyVelocity": 100.92,
+          "laterVelocity": 0.83,
+          "velocityRatio": 0.008,
+          "growthAfterEarly": 0.008
+        }
+      }
+    ],
+    "commonPatterns": {
+      "hookType": [],
+      "titlePattern": [],
+      "topicCluster": [
+        {
+          "value": "spaceflight-disasters",
+          "n": 2
+        },
+        {
+          "value": "nuclear-accidents",
+          "n": 1
+        },
+        {
+          "value": "natural-hazards",
+          "n": 1
+        },
+        {
+          "value": "aviation-failures",
+          "n": 1
+        }
+      ],
+      "durationBucket": [],
+      "storyStructure": [],
+      "openingVisual": []
+    },
+    "hypotheses": [
+      "low engagement correlation",
+      "distribution slowed; available metrics do not isolate a reliable cause"
+    ]
+  },
+  "breakoutAnalysis": {
+    "count": 0,
+    "winners": [],
+    "winningPatterns": {
+      "hookType": [],
+      "titlePattern": [],
+      "topicCluster": [],
+      "durationBucket": [],
+      "storyStructure": [],
+      "openingVisual": []
+    },
+    "adjacentFutureOpportunities": []
+  },
+  "clusterPerformance": {
+    "maritime-disasters": {
+      "n": 1,
+      "medianViews": 517,
+      "median24hViews": null,
+      "median48hViews": null,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.02901,
+      "medianRetention": null,
+      "breakoutFrequency": 0,
+      "medianGrowthScore": 81.9
+    },
+    "nuclear-accidents": {
+      "n": 1,
+      "medianViews": 1351,
+      "median24hViews": 124,
+      "median48hViews": 1366,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.01184,
+      "medianRetention": 59.31999999999999,
+      "breakoutFrequency": 0,
+      "medianGrowthScore": 14
+    },
+    "natural-hazards": {
+      "n": 3,
+      "medianViews": 976,
+      "median24hViews": 945,
+      "median48hViews": 976,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.03752,
+      "medianRetention": 63.455,
+      "breakoutFrequency": 0,
+      "medianGrowthScore": 38.6
+    },
+    "aviation-failures": {
+      "n": 1,
+      "medianViews": 1033,
+      "median24hViews": 978,
+      "median48hViews": 1035,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.03679,
+      "medianRetention": 75.19,
+      "breakoutFrequency": 0,
+      "medianGrowthScore": 62.7
+    },
+    "industrial-disasters": {
+      "n": 1,
+      "medianViews": 423,
+      "median24hViews": 255,
+      "median48hViews": 421,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.01418,
+      "medianRetention": 67.77,
+      "breakoutFrequency": 0,
+      "medianGrowthScore": 45.7
+    },
+    "spaceflight-disasters": {
+      "n": 2,
+      "medianViews": 1456,
+      "median24hViews": 1420,
+      "median48hViews": 1704,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.04074,
+      "medianRetention": 93.43,
+      "breakoutFrequency": 0,
+      "medianGrowthScore": 68.80000000000001
+    },
+    "bridge-failures": {
+      "n": 1,
+      "medianViews": 186,
+      "median24hViews": 176,
+      "median48hViews": 186,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.03763,
+      "medianRetention": 65.29,
+      "breakoutFrequency": 0,
+      "medianGrowthScore": 45.2
+    }
+  },
+  "learnedPatterns": {
+    "highPerformance": [],
+    "lowPerformance": [],
+    "hypotheses": [],
+    "sampleSize": 10,
+    "status": "observing"
+  },
+  "recommendations": [
+    "Treat 5 plateaued Short(s) as failed tests; prioritize their shared opening/cluster patterns for controlled alternatives, not duplicate reuploads.",
+    "Exploit maritime-disasters selectively: it has the strongest measured median growth score (81.9); retain the configured 25% exploration allocation.",
+    "Re-authorize/refresh analytics collection for gross subscribersGained/subscribersLost; historical files expose net change only, so gross subscriber conversion is intentionally unavailable."
+  ],
+  "metricAvailability": {
+    "views": {
+      "status": "SUPPORTED",
+      "source": "Data API statistics.viewCount / Analytics views"
+    },
+    "engaged_views": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API engagedViews (requested with the video-filtered report)"
+    },
+    "likes": {
+      "status": "SUPPORTED",
+      "source": "Data API statistics.likeCount"
+    },
+    "comments": {
+      "status": "SUPPORTED",
+      "source": "Data API statistics.commentCount"
+    },
+    "shares": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API shares (requires yt-analytics.readonly on the channel's token)"
+    },
+    "subscribers_gained": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API subscribersGained"
+    },
+    "subscribers_lost": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API subscribersLost"
+    },
+    "net_subscribers": {
+      "status": "DERIVED",
+      "source": "subscribersGained − subscribersLost"
+    },
+    "average_view_duration": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API averageViewDuration"
+    },
+    "average_percentage_viewed": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API averageViewPercentage"
+    },
+    "watch_time": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API estimatedMinutesWatched"
+    },
+    "traffic_source": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API insightTrafficSourceType dimension"
+    },
+    "retention_curve": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API audienceWatchRatio / relativeRetentionPerformance by elapsedVideoTimeRatio"
+    },
+    "impressions": {
+      "status": "UNAVAILABLE",
+      "source": "Studio only; manual studio-manual.json entry is labelled as manual"
+    },
+    "ctr": {
+      "status": "UNAVAILABLE",
+      "source": "Studio only (impressions click-through rate); manual entry only"
+    },
+    "returning_viewers": {
+      "status": "UNAVAILABLE",
+      "source": "not exposed per video by the public API; manual entry only"
+    },
+    "viewed_vs_swiped_away": {
+      "status": "UNAVAILABLE",
+      "source": "Shorts 'viewed vs swiped away' is Studio-only; no Analytics API metric"
+    },
+    "stayed_to_watch": {
+      "status": "UNAVAILABLE",
+      "source": "Studio-only Shorts metric"
+    },
+    "end_screen_clicks": {
+      "status": "UNAVAILABLE",
+      "source": "no end-screen element metric in Analytics API (card* and annotation* metrics only)"
+    },
+    "card_clicks": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API cardClicks / cardClickRate"
+    },
+    "playlist_metrics": {
+      "status": "ACCOUNT-DEPENDENT",
+      "source": "Analytics API playlistStarts, viewsPerPlaylistStart, averageTimeInPlaylist (playlist reports)"
+    },
+    "shorts_related_video_write": {
+      "status": "UNAVAILABLE",
+      "source": "no Related Video field in videos resource; Studio manual action"
+    },
+    "end_screen_write": {
+      "status": "UNAVAILABLE",
+      "source": "no end-screen write endpoint"
+    },
+    "thumbnail_update": {
+      "status": "SUPPORTED",
+      "source": "thumbnails.set (channel must be verified for custom thumbnails)"
+    },
+    "scheduled_publishing": {
+      "status": "SUPPORTED",
+      "source": "status.publishAt with privacyStatus=private"
+    },
+    "synthetic_media_disclosure": {
+      "status": "SUPPORTED",
+      "source": "status.containsSyntheticMedia"
+    },
+    "short_to_long_conversion": {
+      "status": "INFERRED",
+      "source": "no direct attribution; inferred from long-form traffic_source=SHORTS/RELATED_VIDEO around linked Short publish dates"
+    },
+    "long_to_long_session": {
+      "status": "INFERRED",
+      "source": "inferred from RELATED_VIDEO/END_SCREEN traffic-source share on the next episode; END_SCREEN traffic type is reported as a traffic source"
+    }
+  }
+}

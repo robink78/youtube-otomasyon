@@ -1,0 +1,158 @@
+{
+  "id": "CT-001",
+  "slug": "the-machine-the-entire-chip-industry-depends-on",
+  "channel": "critical-thread",
+  "status": "qualified",
+  "topic": "The Machine the Entire Chip Industry Depends On",
+  "canonicalTopic": "EUV lithography system",
+  "category": "SEMICONDUCTORS",
+  "cluster": "SEMICONDUCTORS",
+  "formatPotential": [
+    "short",
+    "long",
+    "long-to-short"
+  ],
+  "coreQuestion": "What does modern life quietly depend on in EUV lithography system, and what changes when it is unavailable?",
+  "dependency": "EUV lithography system supports advanced electronics manufacturing.",
+  "mechanism": "It occupies a specialized step in advanced electronics manufacturing, where interfaces, tolerances, capacity and operating knowledge are difficult to substitute quickly.",
+  "bottleneck": "Replacement depends on qualified equipment, trained operators, compatible standards, upstream materials and available capacity rather than the visible component alone.",
+  "failureConsequence": "Loss of capacity would first create delays and prioritization pressure, then propagate to systems that rely on advanced electronics manufacturing; the exact scale depends on inventories and redundancy.",
+  "resilience": "Resilience comes from maintenance, spares, geographic diversification, qualified alternatives, demand prioritization and practiced recovery plans.",
+  "openingLine": "Advanced chips depend on EUV lithography.",
+  "secondBeat": "Without it, leading-edge chipmaking loses a qualified step.",
+  "expectedConsequence": "capacity tightens first; downstream effects depend on inventory, substitution and recovery time",
+  "thumbnailText": "ONE MACHINE",
+  "claimFramework": [
+    {
+      "layer": "VERIFIED FACT",
+      "confidence": "VERIFIED FACT",
+      "rule": "Describe documented function, capacity or interface only from cited technical sources."
+    },
+    {
+      "layer": "INDUSTRY CLAIM",
+      "confidence": "INDUSTRY CLAIM",
+      "rule": "Attribute manufacturer and industry-association claims explicitly."
+    },
+    {
+      "layer": "ESTIMATE",
+      "confidence": "ESTIMATE",
+      "rule": "Label lead-time, capacity and market estimates with date and source."
+    },
+    {
+      "layer": "MODEL",
+      "confidence": "MODEL",
+      "rule": "Treat cascading consequences as a bounded dependency model, not a prediction."
+    },
+    {
+      "layer": "HYPOTHESIS",
+      "confidence": "HYPOTHESIS",
+      "rule": "Use only for clearly marked counterfactual extensions."
+    }
+  ],
+  "researchEvidence": [
+    {
+      "layer": "VERIFIED FACT",
+      "claim": "EUV lithography uses 13.5 nm light for intricate layers in advanced chips.",
+      "source": "ASML — EUV lithography systems"
+    },
+    {
+      "layer": "INDUSTRY CLAIM",
+      "claim": "ASML describes this EUV technology as unique to ASML; the attribution must remain visible.",
+      "source": "ASML — EUV lithography systems"
+    },
+    {
+      "layer": "VERIFIED FACT",
+      "claim": "NIST identifies photolithography as a production-limiting patterning step and documents the industry's move from 193 nm toward EUV near 13 nm.",
+      "source": "NIST — Metrology for extreme ultraviolet lithography"
+    },
+    {
+      "layer": "MODEL",
+      "claim": "Any downstream capacity effect depends on qualified alternatives, inventories and recovery time; it is not a deterministic prediction.",
+      "source": "CriticalThread bounded dependency model"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ASML — EUV lithography systems",
+      "url": "https://www.asml.com/en/products/euv-lithography-systems",
+      "type": "MANUFACTURER TECHNICAL"
+    },
+    {
+      "name": "NIST — Metrology for extreme ultraviolet lithography",
+      "url": "https://www.nist.gov/programs-projects/metrology-extreme-ultraviolet-lithography",
+      "type": "GOVERNMENT TECHNICAL"
+    }
+  ],
+  "sourceReady": true,
+  "sourceAvailability": {
+    "score": 92,
+    "preferredTypes": [
+      "government",
+      "regulator",
+      "standards",
+      "academic",
+      "industry association",
+      "manufacturer technical"
+    ]
+  },
+  "hookPotential": {
+    "score": 83
+  },
+  "visualPotential": {
+    "score": 81,
+    "scenes": [
+      "EUV lithography system close technical view",
+      "advanced electronics manufacturing system map",
+      "upstream qualification chain",
+      "downstream dependency map",
+      "failure and recovery timeline",
+      "redundancy and alternatives"
+    ]
+  },
+  "searchDemand": {
+    "score": 63,
+    "basis": "seed priority pending channel-specific Search/Analytics observations"
+  },
+  "competition": {
+    "score": 39,
+    "lowerIsBetter": true
+  },
+  "novelty": {
+    "score": 75
+  },
+  "criticality": {
+    "score": 79
+  },
+  "audienceFit": {
+    "score": 90
+  },
+  "productionComplexity": {
+    "score": 51,
+    "lowerIsEasier": true
+  },
+  "evergreenScore": 89,
+  "curiosityScore": 81,
+  "shortPotential": {
+    "score": 83,
+    "targetSeconds": [
+      20,
+      40
+    ]
+  },
+  "longFormPotential": {
+    "score": 81,
+    "targetMinutes": [
+      8,
+      18
+    ],
+    "standaloneShorts": 4
+  },
+  "quality": {
+    "channelFit": 96,
+    "sourceability": 92,
+    "distinctiveness": 83,
+    "nonDuplicate": true,
+    "qualified": true
+  },
+  "visualLabel": "TECHNICAL ILLUSTRATION — NOT OBSERVATION"
+}

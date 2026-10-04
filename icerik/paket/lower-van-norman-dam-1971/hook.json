@@ -1,0 +1,49 @@
+{
+  "slug": "lower-van-norman-dam-1971",
+  "format": "short",
+  "olusturuldu": "2026-10-02T12:19:49.025Z",
+  "ekranHook": "NEAR MISS",
+  "mevcut": {
+    "puan": 65,
+    "pencereler": {
+      "0-5": "The dam didn't fail. Within seconds, part of its crest slid into the reservoir.",
+      "5-12": "The dam was built with hydraulic fill. Shaking made the fill liquefy. Luckily, the reservoir was only about half",
+      "12-20": "full. Eighty thousand people were evacuated for three days. Engineers lowered the water as fast as possible. It transformed the seismic safety",
+      "20-30": "of earthen dams."
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 2 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "The Lower Van Norman Dam nearly failed in the San Fernando earthquake."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only earthquake shaking liquefying the dam's fill."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could earthquake shaking liquefying the dam's fill do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is liquefaction of hydraulic fill causing a landslide that took part of the crest — and it is why seismic safety of embankment dams was transformed."
+      }
+    ],
+    "metin": "The Lower Van Norman Dam nearly failed in the San Fernando earthquake. It took only earthquake shaking liquefying the dam's fill. So how could earthquake shaking liquefying the dam's fill do this? The answer is liquefaction of hydraulic fill causing a landslide that took part of the crest — and it is why seismic safety of embankment dams was transformed.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

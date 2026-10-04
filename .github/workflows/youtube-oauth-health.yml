@@ -1,0 +1,196 @@
+name: YouTube OAuth health
+
+on:
+  schedule:
+    # 05:30 UTC runs before the first 06:00 UTC production slot; the later runs
+    # catch revocations during the day. Issue comments are posted only on state
+    # transitions, so the higher frequency does not create notification spam.
+    - cron: '30 5,11,17,23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  failure-reconstructed:
+    runs-on: ubuntu-latest
+    env:
+      FR_YT_CLIENT_ID: ${{ secrets.FR_YT_CLIENT_ID }}
+      FR_YT_CLIENT_SECRET: ${{ secrets.FR_YT_CLIENT_SECRET }}
+      FR_YT_REFRESH_TOKEN: ${{ secrets.FR_YT_REFRESH_TOKEN }}
+      FR_YT_CHANNEL_ID: ${{ vars.FR_YT_CHANNEL_ID }}
+      # Complete-bundle migration fallback; no other channel receives these.
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - id: health
+        run: |
+          set +e
+          node oauth-health.js --channel failure-reconstructed > "$RUNNER_TEMP/failure-reconstructed.json"
+          HEALTH_EXIT_CODE=$?
+          set -e
+          echo "exit_code=$HEALTH_EXIT_CODE" >> "$GITHUB_OUTPUT"
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: oauth-health-failure-reconstructed
+          path: ${{ runner.temp }}/failure-reconstructed.json
+          if-no-files-found: error
+          retention-days: 30
+      - if: always() && steps.health.outputs.exit_code != '0'
+        run: |
+          HEALTH_EXIT_CODE="${{ steps.health.outputs.exit_code }}"
+          exit "${HEALTH_EXIT_CODE:-1}"
+
+  impossible-brief:
+    runs-on: ubuntu-latest
+    env:
+      IB_CLIENT_ID: ${{ secrets.IB_CLIENT_ID }}
+      IB_CLIENT_SECRET: ${{ secrets.IB_CLIENT_SECRET }}
+      IB_YT_REFRESH_TOKEN: ${{ secrets.IB_YT_REFRESH_TOKEN }}
+      IB_YT_CHANNEL_ID: ${{ vars.IB_YT_CHANNEL_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - id: health
+        run: |
+          set +e
+          node oauth-health.js --channel impossible-brief > "$RUNNER_TEMP/impossible-brief.json"
+          HEALTH_EXIT_CODE=$?
+          set -e
+          echo "exit_code=$HEALTH_EXIT_CODE" >> "$GITHUB_OUTPUT"
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: oauth-health-impossible-brief
+          path: ${{ runner.temp }}/impossible-brief.json
+          if-no-files-found: error
+          retention-days: 30
+      - if: always() && steps.health.outputs.exit_code != '0'
+        run: |
+          HEALTH_EXIT_CODE="${{ steps.health.outputs.exit_code }}"
+          exit "${HEALTH_EXIT_CODE:-1}"
+
+  critical-thread:
+    runs-on: ubuntu-latest
+    env:
+      CT_CLIENT_ID: ${{ secrets.CT_CLIENT_ID }}
+      CT_CLIENT_SECRET: ${{ secrets.CT_CLIENT_SECRET }}
+      CT_YT_REFRESH_TOKEN: ${{ secrets.CT_YT_REFRESH_TOKEN }}
+      CT_YT_CHANNEL_ID: ${{ vars.CT_YT_CHANNEL_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - id: health
+        run: |
+          set +e
+          node oauth-health.js --channel critical-thread > "$RUNNER_TEMP/critical-thread.json"
+          HEALTH_EXIT_CODE=$?
+          set -e
+          echo "exit_code=$HEALTH_EXIT_CODE" >> "$GITHUB_OUTPUT"
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: oauth-health-critical-thread
+          path: ${{ runner.temp }}/critical-thread.json
+          if-no-files-found: error
+          retention-days: 30
+      - if: always() && steps.health.outputs.exit_code != '0'
+        run: |
+          HEALTH_EXIT_CODE="${{ steps.health.outputs.exit_code }}"
+          exit "${HEALTH_EXIT_CODE:-1}"
+
+  behind-the-ordinary:
+    runs-on: ubuntu-latest
+    env:
+      BTO_YT_CLIENT_ID: ${{ secrets.BTO_YT_CLIENT_ID }}
+      BTO_YT_CLIENT_SECRET: ${{ secrets.BTO_YT_CLIENT_SECRET }}
+      BTO_YT_REFRESH_TOKEN: ${{ secrets.BTO_YT_REFRESH_TOKEN }}
+      BTO_YT_CHANNEL_ID: ${{ vars.BTO_YT_CHANNEL_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - id: health
+        run: |
+          set +e
+          node oauth-health.js --channel behind-the-ordinary > "$RUNNER_TEMP/behind-the-ordinary.json"
+          HEALTH_EXIT_CODE=$?
+          set -e
+          echo "exit_code=$HEALTH_EXIT_CODE" >> "$GITHUB_OUTPUT"
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: oauth-health-behind-the-ordinary
+          path: ${{ runner.temp }}/behind-the-ordinary.json
+          if-no-files-found: error
+          retention-days: 30
+      - if: always() && steps.health.outputs.exit_code != '0'
+        run: |
+          HEALTH_EXIT_CODE="${{ steps.health.outputs.exit_code }}"
+          exit "${HEALTH_EXIT_CODE:-1}"
+
+  report:
+    needs: [failure-reconstructed, impossible-brief, critical-thread, behind-the-ordinary]
+    if: always()
+    runs-on: ubuntu-latest
+    env:
+      PEXELS_KEY: ${{ secrets.PEXELS_KEY }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      YOUTUBE_HEALTH_ISSUE_NUMBER: ${{ vars.YOUTUBE_HEALTH_ISSUE_NUMBER }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          pattern: oauth-health-*
+          path: ${{ runner.temp }}/channel-health
+          merge-multiple: true
+      - id: aggregate
+        name: Build the complete four-channel report
+        if: always()
+        run: |
+          mkdir -p "$RUNNER_TEMP/channel-health"
+          set +e
+          node oauth-health.js --combine "$RUNNER_TEMP/channel-health" \
+            --json-output "$RUNNER_TEMP/youtube-oauth-health.json" \
+            --markdown-output "$RUNNER_TEMP/youtube-oauth-health.md"
+          HEALTH_EXIT_CODE=$?
+          set -e
+          echo "exit_code=$HEALTH_EXIT_CODE" >> "$GITHUB_OUTPUT"
+          cat "$RUNNER_TEMP/youtube-oauth-health.md" >> "$GITHUB_STEP_SUMMARY"
+      - name: Update the persistent issue; comment only on state transitions
+        if: always()
+        run: |
+          if [ ! -s "$RUNNER_TEMP/youtube-oauth-health.json" ]; then echo "Health report was not created; issue update skipped."; exit 0; fi
+          HEALTH_ARGS=(--report "$RUNNER_TEMP/youtube-oauth-health.json" --markdown "$RUNNER_TEMP/youtube-oauth-health.md")
+          if [ -n "$YOUTUBE_HEALTH_ISSUE_NUMBER" ]; then HEALTH_ARGS+=(--issue-number "$YOUTUBE_HEALTH_ISSUE_NUMBER"); fi
+          node scripts/update-oauth-health-issue.js "${HEALTH_ARGS[@]}"
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-oauth-health-report
+          path: |
+            ${{ runner.temp }}/youtube-oauth-health.json
+            ${{ runner.temp }}/youtube-oauth-health.md
+          if-no-files-found: error
+          retention-days: 30
+      - if: always() && steps.aggregate.outputs.exit_code != '0'
+        run: |
+          HEALTH_EXIT_CODE="${{ steps.aggregate.outputs.exit_code }}"
+          exit "${HEALTH_EXIT_CODE:-1}"

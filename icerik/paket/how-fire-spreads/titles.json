@@ -1,0 +1,301 @@
+{
+  "slug": "how-fire-spreads",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.568Z",
+  "secilen": "Why House Fires Turn Deadly in Minutes",
+  "secilenPuan": 43.2,
+  "mevcutPuan": 42.4,
+  "sablonOnerisi": {
+    "baslik": "The Physics of How House Fires Spread so Fast",
+    "puan": 59.7,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 11,
+  "adaylar": [
+    {
+      "baslik": "The Physics of How House Fires Spread so Fast",
+      "kalip": "physics-of",
+      "toplam": 59.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "House Fires Spread so Fast. Engineers Call It Flashover.",
+      "kalip": "engineers-call-it",
+      "toplam": 56.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "How a Hurricane Tears a House Apart"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.86,
+      "notes": [],
+      "kaynak": "template:engineers-call-it"
+    },
+    {
+      "baslik": "Flashover: Why House Fires Spread so Fast",
+      "kalip": "label-colon",
+      "toplam": 53.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Why the Ground Suddenly Swallows Houses"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:mechanism-why"
+    },
+    {
+      "baslik": "What Breaks First When House Fires Spread so Fast",
+      "kalip": "what",
+      "toplam": 53.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "How a Hurricane Tears a House Apart"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:breaks-first"
+    },
+    {
+      "baslik": "What Actually Happens When House Fires Spread so Fast",
+      "kalip": "what-really",
+      "toplam": 48.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "What Actually Makes Planes Crash"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-happens"
+    },
+    {
+      "baslik": "Why House Fires Turn Deadly in Minutes",
+      "kalip": "why",
+      "toplam": 43.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Why the Ground Suddenly Swallows Houses"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "How Fire Spreads Faster Than You Can Run",
+      "kalip": "how",
+      "toplam": 42.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 9,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.6
+      },
+      "similarity": {
+        "max": 0.12,
+        "closest": "Why Six Inches of Water Can Kill You"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Flashover: The Moment a Whole Room Ignites",
+      "kalip": "label-colon",
+      "toplam": 39.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "How One Wire Blacks Out a Whole Country"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why House Fires Spread so Fast",
+      "kalip": "why",
+      "toplam": 38.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Why the Ground Suddenly Swallows Houses"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "template:why-plural"
+    },
+    {
+      "baslik": "The Smoke Kills Before the Flames Do",
+      "kalip": "statement",
+      "toplam": 38.3,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "The Silent Gas That Kills You in Your Sleep"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"statement\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "House Fires Explained",
+      "kalip": "explained",
+      "toplam": 31.4,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "How a Hurricane Tears a House Apart"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

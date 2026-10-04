@@ -1,0 +1,329 @@
+[
+  {
+    "videoId": "I86SnrokHMk",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "HEALTHY",
+        "confidence": "low",
+        "evidence": "no problem pattern in available metrics",
+        "recommendation": "Keep; revisit at next checkpoint."
+      }
+    ],
+    "at": "2026-09-30T15:48:37.885Z"
+  },
+  {
+    "videoId": "X0jw78mIGdk",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "7d",
+    "diagnoses": [
+      {
+        "code": "INSUFFICIENT_DATA",
+        "confidence": "high",
+        "evidence": "113 views < 300",
+        "recommendation": "No intervention; wait for the next checkpoint."
+      }
+    ],
+    "at": "2026-09-30T15:48:37.885Z"
+  },
+  {
+    "videoId": "qkzRUqlEy5I",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "7d",
+    "diagnoses": [
+      {
+        "code": "INSUFFICIENT_DATA",
+        "confidence": "high",
+        "evidence": "186 views < 300",
+        "recommendation": "No intervention; wait for the next checkpoint."
+      }
+    ],
+    "at": "2026-09-30T15:48:37.885Z"
+  },
+  {
+    "videoId": "PGOKZhPYo7c",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "7d",
+    "diagnoses": [
+      {
+        "code": "HEALTHY",
+        "confidence": "low",
+        "evidence": "no problem pattern in available metrics",
+        "recommendation": "Keep; revisit at next checkpoint."
+      }
+    ],
+    "at": "2026-09-30T15:48:37.885Z"
+  },
+  {
+    "videoId": "aScjSrwqeRk",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "LOW_ENGAGEMENT",
+        "confidence": "low",
+        "evidence": "14.18 engagements / 1,000 views",
+        "recommendation": "Contextual comment prompt after the payoff."
+      },
+      {
+        "code": "TOPIC_FAILURE",
+        "confidence": "low",
+        "evidence": "Shorts feed share 31% and weak retention",
+        "recommendation": "Lower this cluster's topic weight until more evidence."
+      }
+    ],
+    "at": "2026-09-30T16:04:05.212Z"
+  },
+  {
+    "videoId": "bqTpdauhlHo",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "HEALTHY",
+        "confidence": "low",
+        "evidence": "no problem pattern in available metrics",
+        "recommendation": "Keep; revisit at next checkpoint."
+      }
+    ],
+    "at": "2026-09-30T16:04:05.212Z"
+  },
+  {
+    "videoId": "ODZ7y6r1o6o",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "LOW_ENGAGEMENT",
+        "confidence": "low",
+        "evidence": "8.2 engagements / 1,000 views",
+        "recommendation": "Contextual comment prompt after the payoff."
+      }
+    ],
+    "at": "2026-09-30T16:04:05.212Z"
+  },
+  {
+    "videoId": "DLYpmaQ-EVw",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "LOW_ENGAGEMENT",
+        "confidence": "low",
+        "evidence": "13.91 engagements / 1,000 views",
+        "recommendation": "Contextual comment prompt after the payoff."
+      }
+    ],
+    "at": "2026-09-30T16:04:05.212Z"
+  },
+  {
+    "videoId": "X0jw78mIGdk",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "INSUFFICIENT_DATA",
+        "confidence": "high",
+        "evidence": "113 views < 300",
+        "recommendation": "No intervention; wait for the next checkpoint."
+      }
+    ],
+    "at": "2026-09-30T16:16:27.818Z"
+  },
+  {
+    "videoId": "qkzRUqlEy5I",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "INSUFFICIENT_DATA",
+        "confidence": "high",
+        "evidence": "186 views < 300",
+        "recommendation": "No intervention; wait for the next checkpoint."
+      }
+    ],
+    "at": "2026-09-30T16:16:27.818Z"
+  },
+  {
+    "videoId": "PGOKZhPYo7c",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "HEALTHY",
+        "confidence": "low",
+        "evidence": "no problem pattern in available metrics",
+        "recommendation": "Keep; revisit at next checkpoint."
+      }
+    ],
+    "at": "2026-09-30T16:16:27.818Z"
+  },
+  {
+    "videoId": "uqoAjXMbbls",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "HEALTHY",
+        "confidence": "low",
+        "evidence": "no problem pattern in available metrics",
+        "recommendation": "Keep; revisit at next checkpoint."
+      }
+    ],
+    "at": "2026-09-30T18:07:34.616Z"
+  },
+  {
+    "videoId": "DLYpmaQ-EVw",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "7d",
+    "diagnoses": [
+      {
+        "code": "EARLY_DISTRIBUTION_PLATEAU",
+        "confidence": "medium",
+        "evidence": "1366 → 1369 views; later/early velocity 0",
+        "recommendation": "Treat listed causes as hypotheses; change one opening, duration or topic variable on a future upload."
+      },
+      {
+        "code": "LOW_ENGAGEMENT",
+        "confidence": "low",
+        "evidence": "13.88 engagements / 1,000 views",
+        "recommendation": "Contextual comment prompt after the payoff."
+      }
+    ],
+    "at": "2026-10-01T14:38:12.663Z"
+  },
+  {
+    "videoId": "NnGoWJOdaW0",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "LOW_ENGAGEMENT",
+        "confidence": "low",
+        "evidence": "18.24 engagements / 1,000 views",
+        "recommendation": "Contextual comment prompt after the payoff."
+      }
+    ],
+    "at": "2026-10-01T18:29:46.732Z"
+  },
+  {
+    "videoId": "rgSsk8q6eyM",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "EARLY_DISTRIBUTION_PLATEAU",
+        "confidence": "medium",
+        "evidence": "1032 → 1043 views; later/early velocity 0.011",
+        "recommendation": "Treat listed causes as hypotheses; change one opening, duration or topic variable on a future upload."
+      },
+      {
+        "code": "HEALTHY",
+        "confidence": "low",
+        "evidence": "no problem pattern in available metrics",
+        "recommendation": "Keep; revisit at next checkpoint."
+      }
+    ],
+    "at": "2026-10-02T18:30:35.457Z"
+  },
+  {
+    "videoId": "ODZ7y6r1o6o",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "7d",
+    "diagnoses": [
+      {
+        "code": "LOW_ENGAGEMENT",
+        "confidence": "low",
+        "evidence": "8.2 engagements / 1,000 views",
+        "recommendation": "Contextual comment prompt after the payoff."
+      }
+    ],
+    "at": "2026-10-02T18:30:35.457Z"
+  },
+  {
+    "videoId": "bqTpdauhlHo",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "7d",
+    "diagnoses": [
+      {
+        "code": "EARLY_DISTRIBUTION_PLATEAU",
+        "confidence": "medium",
+        "evidence": "1704 → 1731 views; later/early velocity 0.001",
+        "recommendation": "Treat listed causes as hypotheses; change one opening, duration or topic variable on a future upload.",
+        "specCode": "EARLY_DISTRIBUTION_PLATEAU"
+      },
+      {
+        "code": "HEALTHY",
+        "confidence": "low",
+        "evidence": "no problem pattern in available metrics",
+        "recommendation": "Keep; revisit at next checkpoint.",
+        "specCode": "HEALTHY"
+      }
+    ],
+    "at": "2026-10-03T18:00:31.281Z"
+  },
+  {
+    "videoId": "WlZ2z90pqx8",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "24h",
+    "diagnoses": [
+      {
+        "code": "EARLY_DISTRIBUTION_PLATEAU",
+        "confidence": "medium",
+        "evidence": "1018 → 1023 views; later/early velocity 0.005",
+        "recommendation": "Treat listed causes as hypotheses; change one opening, duration or topic variable on a future upload.",
+        "specCode": "EARLY_DISTRIBUTION_PLATEAU"
+      },
+      {
+        "code": "LOW_ENGAGEMENT",
+        "confidence": "low",
+        "evidence": "10.75 engagements / 1,000 views",
+        "recommendation": "Contextual comment prompt after the payoff.",
+        "specCode": "LOW_ENGAGEMENT"
+      }
+    ],
+    "at": "2026-10-03T18:44:27.550Z"
+  },
+  {
+    "videoId": "aScjSrwqeRk",
+    "channel": "failure-reconstructed",
+    "contentType": "short",
+    "checkpoint": "7d",
+    "diagnoses": [
+      {
+        "code": "TOPIC_FAILURE",
+        "confidence": "low",
+        "evidence": "Shorts feed share 20% and weak retention",
+        "recommendation": "Lower this cluster's topic weight until more evidence.",
+        "specCode": "TOPIC_REACH_LIMITED"
+      },
+      {
+        "code": "SEARCH_DEPENDENT",
+        "confidence": "medium",
+        "evidence": "76% of views from YouTube search",
+        "recommendation": "Evergreen search demand: keep the searchable subject in the title; consider a long-form companion.",
+        "specCode": "SEARCH_DEPENDENT"
+      }
+    ],
+    "at": "2026-10-04T18:12:24.913Z"
+  }
+]

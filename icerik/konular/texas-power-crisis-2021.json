@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Texas Grid Was Minutes From Total Collapse",
+  "kaynaklar": [
+    {
+      "ad": "texas-power-crisis-1.jpg",
+      "wikimedia": "Biden visits Texas after winter storm damage (1).jpg"
+    },
+    {
+      "ad": "texas-power-crisis-2.png",
+      "wikimedia": "Grid Failure in Houston Following Winter Storms (CIRA 2021-02-16 - 202012180820 n20-snpp viirs dnb 2021texasfreeze nolabels0).png"
+    },
+    {
+      "ad": "texas-power-crisis-3.png",
+      "wikimedia": "Grid Failure in Houston Following Winter Storms (CIRA 2021-02-16 - 202102160754 n20-snpp viirs dnb 2021texasfreeze nolabels0).png"
+    },
+    {
+      "ad": "texas-power-crisis-4.jpg",
+      "wikimedia": "ERCOT generation 2021 power crisis US Energy Information Administration.jpg"
+    },
+    {
+      "ad": "texas-power-crisis-5.jpg",
+      "wikimedia": "Houston bmhd 2021038 lrg Feb 7 2021.jpg"
+    },
+    {
+      "ad": "texas-power-crisis-6.jpg",
+      "wikimedia": "Houston bmhd 2021047 lrg Feb 16 2021.jpg"
+    },
+    {
+      "ad": "texas-power-crisis-7.jpg",
+      "wikimedia": "Antenna tower backed up power February 13–17, 2021 North American winter storm.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During a winter storm, the Texas power grid nearly collapsed.",
+      "kaynak": "Footage/texas-power-crisis-1.jpg"
+    },
+    {
+      "metin": "Suddenly, millions of homes lost power for days in freezing cold.",
+      "kaynak": "Footage/texas-power-crisis-2.png"
+    },
+    {
+      "metin": "Operators were minutes from an uncontrolled blackout.",
+      "kaynak": "Footage/texas-power-crisis-3.png"
+    },
+    {
+      "metin": "Many power plants were not built for extreme cold.",
+      "kaynak": "Footage/texas-power-crisis-4.jpg"
+    },
+    {
+      "metin": "Gas wells and pipelines froze, cutting fuel to generators.",
+      "kaynak": "Footage/texas-power-crisis-5.jpg"
+    },
+    {
+      "metin": "Every type of plant had cold-related outages.",
+      "kaynak": "Footage/texas-power-crisis-6.jpg"
+    },
+    {
+      "metin": "Controlled blackouts kept the grid from total failure.",
+      "kaynak": "Footage/texas-power-crisis-7.jpg"
+    },
+    {
+      "metin": "Texas then required power and gas facilities to prepare for cold.",
+      "kaynak": "Footage/texas-power-crisis-1.jpg"
+    }
+  ],
+  "aciklama": "Texas power crisis came within minutes of a total collapse. The cause: generation outages from unwinterized equipment and gas supply freeze-offs, forcing rolling blackouts.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Texas power crisis",
+    "2021",
+    "power grid",
+    "engineering failure"
+  ],
+  "hook": "Minutes from collapse",
+  "soru": "Is an isolated grid worth it?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Texas power grid",
+    "kisa": "Texas power crisis",
+    "nesne": "Power grid",
+    "yil": 2021,
+    "sonuc": "came within minutes of a total collapse",
+    "tetik": "a winter storm freezing power plants and gas supplies",
+    "mekanizma": "generation outages from unwinterized equipment and gas supply freeze-offs, forcing rolling blackouts",
+    "sayi": "MINUTES AWAY",
+    "ders": "Texas required generators and gas facilities to prepare for extreme cold",
+    "zincir": [
+      "EXTREME COLD",
+      "EQUIPMENT NOT WINTERIZED",
+      "GAS SUPPLY FREEZES",
+      "GRID FREQUENCY FALLS",
+      "MILLIONS LOSE POWER FOR DAYS"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't one type of power plant. Gas, coal, nuclear and wind all had cold-related outages.",
+    "tartisma": "Texas runs a largely isolated grid. Is independence worth less help in an emergency?",
+    "basliklar": [
+      "The Texas Grid Was Minutes From Total Collapse",
+      "Why the Texas Grid Nearly Collapsed",
+      "The Winter Storm That Froze the Power Supply"
+    ],
+    "kapak": [
+      "MINUTES AWAY",
+      "FROZEN GRID"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2021 Texas power crisis",
+        "url": "https://en.wikipedia.org/wiki/2021_Texas_power_crisis"
+      },
+      {
+        "ad": "Government source — 2021 Winter Storm Uri AAR Findings Report (cited by Wikipedia)",
+        "url": "https://www.austintexas.gov/sites/default/files/files/HSEM/2021-Winter-Storm-Uri-AAR-Findings-Report.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "2021_Texas_power_crisis",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Biden visits Texas after winter storm damage (1).jpg [Public domain]",
+      "Grid Failure in Houston Following Winter Storms (CIRA 2021-02-16 - 202012180820 n20-snpp viirs dnb 2021texasfreeze nolabels0).png [Public domain]",
+      "Grid Failure in Houston Following Winter Storms (CIRA 2021-02-16 - 202102160754 n20-snpp viirs dnb 2021texasfreeze nolabels0).png [Public domain]",
+      "ERCOT generation 2021 power crisis US Energy Information Administration.jpg [Public domain]",
+      "Houston bmhd 2021038 lrg Feb 7 2021.jpg [Public domain]",
+      "Houston bmhd 2021047 lrg Feb 16 2021.jpg [Public domain]",
+      "Antenna tower backed up power February 13–17, 2021 North American winter storm.jpg [CC0]"
+    ]
+  }
+}

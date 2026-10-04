@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Iron Bridge That Gave Way in a Blizzard",
+  "kaynaklar": [
+    {
+      "ad": "ashtabula-bridge-1.jpg",
+      "wikimedia": "Ashtabula Bridge ruins.jpg"
+    },
+    {
+      "ad": "ashtabula-bridge-2.jpg",
+      "wikimedia": "Ashtabula Bridge braces - MacDonald.jpg"
+    },
+    {
+      "ad": "ashtabula-bridge-3.jpg",
+      "wikimedia": "Ashtabula Ohio train wreck.jpg"
+    },
+    {
+      "ad": "ashtabula-bridge-4.jpg",
+      "wikimedia": "Ashtabula bridge.jpg"
+    },
+    {
+      "ad": "ashtabula-bridge-5.jpg",
+      "wikimedia": "Sketch of the Ashtabula Bridge wreckage.jpg"
+    },
+    {
+      "ad": "ashtabula-bridge-6.jpg",
+      "wikimedia": "Ashtabula Bridge struts - MacDonald.jpg"
+    },
+    {
+      "ad": "ashtabula-bridge-7.jpg",
+      "wikimedia": "Ashtabula Ohio Train wreck.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In a blizzard, an iron railway bridge in Ohio gave way.",
+      "kaynak": "Footage/ashtabula-bridge-1.jpg"
+    },
+    {
+      "metin": "The train plunged into the ravine, and its stoves set the wreck on fire.",
+      "kaynak": "Footage/ashtabula-bridge-2.jpg"
+    },
+    {
+      "metin": "The bridge used an experimental iron truss.",
+      "kaynak": "Footage/ashtabula-bridge-3.jpg"
+    },
+    {
+      "metin": "One cast-iron block in it carried a hidden flaw.",
+      "kaynak": "Footage/ashtabula-bridge-4.jpg"
+    },
+    {
+      "metin": "Every passing train made that crack a little longer.",
+      "kaynak": "Footage/ashtabula-bridge-5.jpg"
+    },
+    {
+      "metin": "That night, the weakened truss finally broke.",
+      "kaynak": "Footage/ashtabula-bridge-6.jpg"
+    },
+    {
+      "metin": "Engineers had doubted the design for years.",
+      "kaynak": "Footage/ashtabula-bridge-7.jpg"
+    },
+    {
+      "metin": "It pushed railways toward independent review of bridge designs.",
+      "kaynak": "Footage/ashtabula-bridge-1.jpg"
+    }
+  ],
+  "aciklama": "Ashtabula collapsed under a train in a snowstorm. The cause: fatigue fracture of a cast-iron angle block in an experimental iron truss.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Ashtabula",
+    "1876",
+    "bridge",
+    "engineering failure"
+  ],
+  "hook": "It fell in a blizzard",
+  "soru": "Who checks the boss's design?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Ashtabula River bridge",
+    "kisa": "Ashtabula",
+    "nesne": "Bridge",
+    "yil": 1876,
+    "sonuc": "collapsed under a train in a snowstorm",
+    "tetik": "a fatigue crack in a cast-iron lug of the truss",
+    "mekanizma": "fatigue fracture of a cast-iron angle block in an experimental iron truss",
+    "sayi": "IRON TRUSS",
+    "ders": "the disaster pushed railways toward independent bridge design review",
+    "zincir": [
+      "EXPERIMENTAL IRON TRUSS",
+      "CAST-IRON LUG WITH A FLAW",
+      "CRACK GROWS WITH EVERY TRAIN",
+      "TRUSS FAILS IN THE COLD",
+      "STOVES SET WRECK ON FIRE"
+    ],
+    "zaman": [],
+    "yanilgi": "The cold didn't break the bridge on its own. A flaw in one cast-iron block had been growing for years.",
+    "tartisma": "The design came from the railway's own president, and engineers had doubts. Who reviews the boss's design?",
+    "basliklar": [
+      "The Iron Bridge That Gave Way in a Blizzard",
+      "Why the Ashtabula Bridge Collapsed",
+      "The Flaw Growing Inside an Iron Bridge"
+    ],
+    "kapak": [
+      "IRON TRUSS",
+      "HIDDEN FLAW"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Ashtabula River railroad disaster",
+        "url": "https://en.wikipedia.org/wiki/Ashtabula_River_railroad_disaster"
+      },
+      {
+        "ad": "Engineering institution — ?p=7599 (cited by Wikipedia)",
+        "url": "http://www.structuremag.org/?p=7599"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Ashtabula_River_railroad_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Ashtabula Bridge ruins.jpg [Public domain]",
+      "Ashtabula Bridge braces - MacDonald.jpg [Public domain]",
+      "Ashtabula Ohio train wreck.jpg [Public domain]",
+      "Ashtabula bridge.jpg [Public domain]",
+      "Sketch of the Ashtabula Bridge wreckage.jpg [Public domain]",
+      "Ashtabula Bridge struts - MacDonald.jpg [Public domain]",
+      "Ashtabula Ohio Train wreck.jpg [Public domain]"
+    ]
+  }
+}

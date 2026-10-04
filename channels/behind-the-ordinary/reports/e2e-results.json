@@ -1,0 +1,59 @@
+{
+  "channel": "behind-the-ordinary",
+  "dryRun": true,
+  "uploadAttempted": false,
+  "rendered": false,
+  "generatedAt": "2026-10-03T17:30:33.599Z",
+  "topicId": "BTO-016",
+  "topic": "Why Jeans Have a Tiny Pocket",
+  "growthDecision": "PUBLISH",
+  "packageDecision": "PUBLISH",
+  "pass": true,
+  "failed": [],
+  "result": {
+    "topicId": "BTO-016",
+    "slug": "why-jeans-have-a-tiny-pocket",
+    "category": "EVERYDAY MYSTERIES",
+    "outputDirectory": "channels/behind-the-ordinary/reports/dry-runs/why-jeans-have-a-tiny-pocket",
+    "qualityGate": {
+      "decision": "PUBLISH",
+      "blockers": [],
+      "checked": [
+        "identity",
+        "central-question",
+        "evidence",
+        "hook",
+        "visuals",
+        "titles",
+        "thumbnail",
+        "sources",
+        "metadata"
+      ]
+    },
+    "render": {
+      "requested": false,
+      "completed": false,
+      "audio": null,
+      "video": null,
+      "thumbnail": null
+    },
+    "validations": {
+      "script": true,
+      "science": true,
+      "sources": true,
+      "hook": true,
+      "timing": true,
+      "audio": true,
+      "captions": true,
+      "visuals": true,
+      "video": true,
+      "titles": true,
+      "thumbnail": true,
+      "description": true,
+      "qualityGate": true,
+      "metadata": true,
+      "growthReadiness": true
+    },
+    "validationReasons": {}
+  }
+}

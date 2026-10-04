@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Units Mix-Up Crashed a Mars Spacecraft",
+  "kaynaklar": [
+    {
+      "ad": "mars-climate-orbiter-1.png",
+      "wikimedia": "Mars Climate Orbiter - aerobraking.png"
+    },
+    {
+      "ad": "mars-climate-orbiter-2.png",
+      "wikimedia": "Mars Climate Orbiter - interplanetary trajectory.png"
+    },
+    {
+      "ad": "mars-climate-orbiter-3.jpg",
+      "wikimedia": "Mars Climate Orbiter - mco marci.jpg"
+    },
+    {
+      "ad": "mars-climate-orbiter-4.jpg",
+      "wikimedia": "Mars Climate Orbiter 2.jpg"
+    },
+    {
+      "ad": "mars-climate-orbiter-5.jpg",
+      "wikimedia": "Mars Climate Orbiter - launch.jpg"
+    },
+    {
+      "ad": "mars-climate-orbiter-6.png",
+      "wikimedia": "Mars Climate Orbiter - launch configuration.png"
+    },
+    {
+      "ad": "mars-climate-orbiter-7.jpg",
+      "wikimedia": "Mars Climate Orbiter 1.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A spacecraft reached Mars and vanished.",
+      "kaynak": "Footage/mars-climate-orbiter-1.png"
+    },
+    {
+      "metin": "It dove too deep into the atmosphere and was destroyed.",
+      "kaynak": "Footage/mars-climate-orbiter-2.png"
+    },
+    {
+      "metin": "The cause was a units mismatch.",
+      "kaynak": "Footage/mars-climate-orbiter-3.jpg"
+    },
+    {
+      "metin": "One team's software reported thrust in pound-force seconds.",
+      "kaynak": "Footage/mars-climate-orbiter-4.jpg"
+    },
+    {
+      "metin": "The navigation software expected newton-seconds.",
+      "kaynak": "Footage/mars-climate-orbiter-5.jpg"
+    },
+    {
+      "metin": "Each small error pushed the spacecraft slightly off course.",
+      "kaynak": "Footage/mars-climate-orbiter-6.png"
+    },
+    {
+      "metin": "Over months, they added up to a fatal miss.",
+      "kaynak": "Footage/mars-climate-orbiter-7.jpg"
+    },
+    {
+      "metin": "Now interfaces must state their units and be checked end to end.",
+      "kaynak": "Footage/mars-climate-orbiter-1.png"
+    }
+  ],
+  "aciklama": "Mars Climate Orbiter was lost at Mars. The cause: imperial-to-metric units mismatch in trajectory software.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Mars Climate Orbiter",
+    "NASA",
+    "units error",
+    "software bug",
+    "1999"
+  ],
+  "hook": "Pounds vs newtons",
+  "soru": "Metric or imperial?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "Mars Climate Orbiter",
+    "kisa": "Mars Climate Orbiter",
+    "nesne": "Spacecraft",
+    "yil": 1999,
+    "sonuc": "was lost at Mars",
+    "tetik": "ground software reporting thrust in pound-force seconds instead of newton-seconds",
+    "mekanizma": "imperial-to-metric units mismatch in trajectory software",
+    "sayi": "4.45x ERROR",
+    "ders": "interface specifications now state units explicitly and are verified end to end",
+    "zincir": [
+      "SOFTWARE OUTPUTS POUND-FORCE SECONDS",
+      "NAVIGATION EXPECTS NEWTON-SECONDS",
+      "SMALL TRAJECTORY ERRORS ADD UP",
+      "ORBITER FLIES TOO LOW",
+      "LOST IN THE ATMOSPHERE"
+    ],
+    "zaman": [
+      {
+        "t": "Sep 23, 1999",
+        "olay": "Orbit insertion; contact lost"
+      }
+    ],
+    "yanilgi": "It wasn't one big miscalculation. Tiny unit errors in many small thruster firings added up over the months-long cruise.",
+    "tartisma": "Navigators noticed the trajectory drifting but the concern never escalated. How loud should a small anomaly be?",
+    "basliklar": [
+      "A Units Mix-Up Crashed a Mars Spacecraft",
+      "Why Mars Climate Orbiter Was Lost",
+      "Pounds vs. Newtons: The Error That Ended a Mission"
+    ],
+    "kapak": [
+      "POUNDS vs NEWTONS",
+      "WRONG UNITS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mars Climate Orbiter",
+        "url": "https://en.wikipedia.org/wiki/Mars_Climate_Orbiter"
+      },
+      {
+        "ad": "NASA — Mars Climate Orbiter Mishap Investigation Board Phase I Report",
+        "url": "https://llis.nasa.gov/llis_lib/pdf/1009464main1_0641-mr.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Mars_Climate_Orbiter",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Mars Climate Orbiter - aerobraking.png [Public domain]",
+      "Mars Climate Orbiter - interplanetary trajectory.png [Public domain]",
+      "Mars Climate Orbiter - mco marci.jpg [Public domain]",
+      "Mars Climate Orbiter 2.jpg [Public domain]",
+      "Mars Climate Orbiter - launch.jpg [Public domain]",
+      "Mars Climate Orbiter - launch configuration.png [Public domain]",
+      "Mars Climate Orbiter 1.jpg [Public domain]"
+    ]
+  }
+}

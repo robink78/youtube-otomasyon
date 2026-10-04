@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Leaking Torpedo Destroyed the Submarine Kursk",
+  "kaynaklar": [
+    {
+      "ad": "kursk-1.png",
+      "wikimedia": "NOSAR Kursk sesmic readings.png"
+    },
+    {
+      "ad": "kursk-2.jpg",
+      "wikimedia": "Vladimir Putin 22 August 2000-1.jpg"
+    },
+    {
+      "ad": "kursk-3.jpg",
+      "wikimedia": "Vladimir Putin 22 August 2000-2.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two explosions tore through the Russian submarine Kursk.",
+      "kaynak": "Footage/kursk-1.png"
+    },
+    {
+      "metin": "It sank in the Barents Sea, and all one hundred eighteen crew died.",
+      "kaynak": "Footage/kursk-2.jpg"
+    },
+    {
+      "metin": "The first blast came from a practice torpedo.",
+      "kaynak": "Footage/kursk-3.jpg"
+    },
+    {
+      "metin": "Its fuel was high-test peroxide, which reacts violently if it leaks.",
+      "kaynak": "Footage/kursk-1.png"
+    },
+    {
+      "metin": "It leaked, then exploded in the torpedo room.",
+      "kaynak": "Footage/kursk-2.jpg"
+    },
+    {
+      "metin": "The fire set off warheads in a second, far bigger explosion.",
+      "kaynak": "Footage/kursk-3.jpg"
+    },
+    {
+      "metin": "Survivors in the stern waited for rescue that came too late.",
+      "kaynak": "Footage/kursk-1.png"
+    },
+    {
+      "metin": "Russia later retired this type of torpedo fuel.",
+      "kaynak": "Footage/kursk-2.jpg"
+    }
+  ],
+  "aciklama": "Kursk sank after two explosions during an exercise. The cause: HTP propellant decomposition exploding in the torpedo room, setting off warheads.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Kursk",
+    "2000",
+    "torpedo",
+    "engineering failure"
+  ],
+  "hook": "Its own torpedo",
+  "soru": "Accept help, or wait?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Kursk",
+    "kisa": "Kursk",
+    "nesne": "Torpedo",
+    "yil": 2000,
+    "sonuc": "sank after two explosions during an exercise",
+    "tetik": "high-test peroxide leaking from a practice torpedo",
+    "mekanizma": "HTP propellant decomposition exploding in the torpedo room, setting off warheads",
+    "sayi": "118 CREW",
+    "ders": "Russia retired HTP-fuelled torpedoes",
+    "zincir": [
+      "FAULTY WELD ON TORPEDO",
+      "PEROXIDE LEAKS",
+      "FIRST EXPLOSION",
+      "FIRE HEATS WARHEADS",
+      "SECOND MASSIVE EXPLOSION"
+    ],
+    "zaman": [],
+    "yanilgi": "No collision sank the Kursk. The investigation traced it to a leak in one of its own practice torpedoes.",
+    "tartisma": "Some crew survived the blasts for hours in the stern. Should Russia have accepted foreign rescue help sooner?",
+    "basliklar": [
+      "A Leaking Torpedo Destroyed the Submarine Kursk",
+      "Why the Kursk Sank",
+      "The Practice Torpedo That Destroyed a Submarine"
+    ],
+    "kapak": [
+      "OWN TORPEDO",
+      "118 CREW"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Russian submarine Kursk (K-141)",
+        "url": "https://en.wikipedia.org/wiki/Russian_submarine_Kursk_(K-141)"
+      },
+      {
+        "ad": "Government source — nr2001014982 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/nr2001014982"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-04",
+    "wiki": "Russian_submarine_Kursk_(K-141)",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "NOSAR Kursk sesmic readings.png [Public domain]",
+      "Vladimir Putin 22 August 2000-1.jpg [CC BY 4.0]",
+      "Vladimir Putin 22 August 2000-2.jpg [CC BY 4.0]"
+    ]
+  }
+}

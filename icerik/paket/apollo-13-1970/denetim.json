@@ -1,0 +1,28 @@
+{
+  "tarih": "2026-09-29T14:12:00.425Z",
+  "damga": {
+    "bas": 15.87,
+    "son": 18.97
+  },
+  "katman": {
+    "bas": 12.15,
+    "son": 15.55
+  },
+  "yaziOlcegi": 1,
+  "yaziTasmasi": 0,
+  "tasmaOrnek": [],
+  "ton": "yok",
+  "captionBurned": true,
+  "captionEvents": 38,
+  "captionMaxWords": 3,
+  "captionMaxLines": 1,
+  "captionSafeZoneMeasured": true,
+  "videoSure": 30,
+  "sesSure": 30,
+  "sureFarki": 0,
+  "siyahKare": [],
+  "siyahToplam": 0,
+  "donukGoruntu": [],
+  "donukEnUzun": 0,
+  "onizleme": "Videos/onizleme.jpg"
+}

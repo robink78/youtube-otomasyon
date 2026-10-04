@@ -1,0 +1,142 @@
+{
+  "channel": "critical-thread",
+  "slug": "why-nuclear-reactor-coolant-pump-is-so-hard-to-replace",
+  "allowedChannels": [
+    "critical-thread"
+  ],
+  "createdAt": "2026-10-04T12:23:47.570Z",
+  "assets": [
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Harrisburg Int Airport with Pennsylvania ANG aircraft 1979.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harrisburg_Int_Airport_with_Pennsylvania_ANG_aircraft_1979.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Harrisburg_Int_Airport_with_Pennsylvania_ANG_aircraft_1979.jpg",
+      "attribution": "USAF",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "commons-search",
+      "title": "Three Mile Island nuclear power plant.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Three_Mile_Island_nuclear_power_plant.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Three_Mile_Island_nuclear_power_plant.jpg",
+      "attribution": "Unknown author Unknown author ",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "commons-search",
+      "title": "Three Mile Island (color).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Three_Mile_Island_(color).jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Three_Mile_Island_(color).jpg",
+      "attribution": "United States Department of Energy",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "commons-search",
+      "title": "Goldsboro PA 2022-11-05 (cropped).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goldsboro_PA_2022-11-05_(cropped).jpg",
+      "licence": "CC0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Goldsboro_PA_2022-11-05_(cropped).jpg",
+      "attribution": " Magog the Ogre ",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "commons-search",
+      "title": "Goldsboro PA 2022-11-05 2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goldsboro_PA_2022-11-05_2.jpg",
+      "licence": "CC0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Goldsboro_PA_2022-11-05_2.jpg",
+      "attribution": " Magog the Ogre ",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "commons-search",
+      "title": "Goldsboro PA 2022-11-05.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goldsboro_PA_2022-11-05.jpg",
+      "licence": "CC0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Goldsboro_PA_2022-11-05.jpg",
+      "attribution": " Magog the Ogre ",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "commons-search",
+      "title": "Goldsboro, PA and TMI.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goldsboro,_PA_and_TMI.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Goldsboro,_PA_and_TMI.jpg",
+      "attribution": "President's Commission on the Accident at Three Mile Island.",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 27412952",
+      "sourceUrl": "https://www.pexels.com/video/a-nuclear-power-plant-is-seen-from-a-road-27412952/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/a-nuclear-power-plant-is-seen-from-a-road-27412952/",
+      "attribution": "Harish R",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 33785468",
+      "sourceUrl": "https://www.pexels.com/video/aerial-drone-view-of-rooppur-nuclear-plant-33785468/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/aerial-drone-view-of-rooppur-nuclear-plant-33785468/",
+      "attribution": "Sarowar Hussain",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "audio",
+      "source": "Microsoft Edge neural TTS (claim-timed)",
+      "title": "narration",
+      "licence": "generated — synthetic voice, disclosed in the description",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "audio",
+      "source": "procedural synthesis (ffmpeg)",
+      "title": "music bed",
+      "licence": "original — generated per video",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "image",
+      "source": "generated graphics (captions, number cards, diagrams)",
+      "title": "on-screen graphics",
+      "licence": "original",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    }
+  ]
+}

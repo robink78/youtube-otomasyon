@@ -1,0 +1,93 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why Buildings Collapse in Earthquakes",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "The floor that becomes a trap",
+  "soru": "Is your city ready?",
+  "arama_yedek": "earthquake building",
+  "aciklama": "Earthquakes rarely kill people directly - buildings do. Here is the hidden physics of why some towers fall while others survive.\n\n#shorts #engineering #earthquake #science #howitworks",
+  "etiketler": [
+    "earthquake",
+    "building collapse",
+    "engineering",
+    "seismic",
+    "science",
+    "architecture"
+  ],
+  "sahneler": [
+    {
+      "metin": "An earthquake almost never kills you. The building does.",
+      "arama": "collapsed building"
+    },
+    {
+      "metin": "One weak floor collapses, and the floors above crush it.",
+      "arama": "building rubble"
+    },
+    {
+      "metin": "Engineers call this soft story failure, and it takes just seconds.",
+      "arama": "earthquake city"
+    },
+    {
+      "metin": "But why does one floor fail first?",
+      "arama": "ground shaking"
+    },
+    {
+      "metin": "The ground shakes side to side, not up and down.",
+      "arama": "skyscraper sway"
+    },
+    {
+      "metin": "Open ground floors, like parking levels, have too few walls.",
+      "arama": "cracked concrete"
+    },
+    {
+      "metin": "Modern towers are built to bend, some on giant rubber bearings.",
+      "arama": "modern skyscraper construction"
+    },
+    {
+      "metin": "The safest building in an earthquake is one designed to move.",
+      "arama": "earthquake safety"
+    }
+  ],
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "mekanizma",
+    "ad": "Buildings",
+    "nesne": "Building",
+    "sonuc": "collapse in earthquakes",
+    "tetik": "sideways ground shaking",
+    "mekanizma": "soft-story failure",
+    "sayi": "SECONDS",
+    "ders": "modern codes require ductile frames and base isolation",
+    "zincir": [
+      "GROUND SHAKES SIDEWAYS",
+      "WEAK GROUND FLOOR SWAYS",
+      "COLUMNS BUCKLE",
+      "SOFT STORY COLLAPSES",
+      "FLOORS PANCAKE"
+    ],
+    "yanilgi": "People fear the shaking, but most earthquake deaths come from collapsing buildings — especially ones with open, weak ground floors.",
+    "tartisma": "Should cities force owners to retrofit soft-story buildings, even when it's expensive?",
+    "basliklar": [
+      "Earthquakes Don't Kill. Buildings Do.",
+      "The Floor That Turns a Building Into a Trap",
+      "Why Some Buildings Pancake in Seconds"
+    ],
+    "kapak": [
+      "SOFT STORY",
+      "THE WEAK FLOOR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Soft story building",
+        "url": "https://en.wikipedia.org/wiki/Soft_story_building"
+      },
+      {
+        "ad": "Wikipedia — Seismic retrofit",
+        "url": "https://en.wikipedia.org/wiki/Seismic_retrofit"
+      }
+    ]
+  }
+}

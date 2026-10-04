@@ -1,0 +1,71 @@
+{
+  "channel": "behind-the-ordinary",
+  "attempts": {
+    "airplane-windows-what-explains-multiple-panes": {
+      "at": "2026-10-03T18:39:29.079Z",
+      "status": "NO_PRIMARY_SOURCE",
+      "reason": "fewer than 2 reachable primary-host references cited by Windows 8, Features new to Windows 8",
+      "slug": null
+    },
+    "qwerty-keyboards-what-explains-staggered-rows": {
+      "at": "2026-10-03T18:48:28.766Z",
+      "status": "NO_SOURCE",
+      "reason": "no Wikipedia article found",
+      "slug": null
+    },
+    "barcodes-what-explains-varying-stripe-widths": {
+      "at": "2026-10-03T18:49:34.102Z",
+      "status": "NO_SOURCE",
+      "reason": "no Wikipedia article found",
+      "slug": null
+    },
+    "airports-what-explains-moving-walkways": {
+      "at": "2026-10-03T18:50:47.380Z",
+      "status": "NOT_ANSWERABLE",
+      "reason": "The provided excerpts only state that moving walkways were added as facilities (e.g., \"Other facilities added included the UK's first moving walkways\" in S2) but do not explain the design rationale be",
+      "slug": null
+    },
+    "laundry-symbols-what-explains-crossed-circles": {
+      "at": "2026-10-03T18:59:46.829Z",
+      "status": "ERROR",
+      "reason": "REQUEST",
+      "slug": null
+    },
+    "the-ampersand-what-explains-its-name": {
+      "at": "2026-10-03T19:02:02.226Z",
+      "status": "FAILED_CHECKS",
+      "reason": "narration line 1 is not supported by its cited facts",
+      "slug": null
+    },
+    "postal-codes-what-explains-international-differences": {
+      "at": "2026-10-03T19:03:08.283Z",
+      "status": "NO_PRIMARY_SOURCE",
+      "reason": "fewer than 2 reachable primary-host references cited by Postal code, Postal codes in the Czech Republic",
+      "slug": null
+    },
+    "bicycle-helmets-what-explains-adjustment-cradles": {
+      "at": "2026-10-03T19:04:42.824Z",
+      "status": "FAILED_CHECKS",
+      "reason": "narration line 1 cites no fact; narration line 2 cites no fact; narration line 6 is not supported by its cited facts",
+      "slug": null
+    },
+    "laundry-symbols-what-explains-iron-dots": {
+      "at": "2026-10-04T10:45:40.811Z",
+      "status": "ERROR",
+      "reason": "REQUEST",
+      "slug": null
+    },
+    "check-marks-what-explains-red-pen-variants": {
+      "at": "2026-10-04T10:46:46.720Z",
+      "status": "NO_PRIMARY_SOURCE",
+      "reason": "fewer than 2 reachable primary-host references cited by Check mark",
+      "slug": null
+    },
+    "office-chairs-what-explains-waterfall-seat-edges": {
+      "at": "2026-10-04T10:47:54.176Z",
+      "status": "NOT_ANSWERABLE",
+      "reason": "The provided source excerpt does not contain any information about waterfall seat edges on office chairs.",
+      "slug": null
+    }
+  }
+}

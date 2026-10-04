@@ -1,0 +1,37 @@
+{
+  "channel": "failure-reconstructed",
+  "intents": [
+    {
+      "key": "0af1df148713162ab48c388435bbfec0c012d04670cdaf1d1d3da5d0c1838063",
+      "createdAt": "2026-10-03T11:30:32.696Z",
+      "state": "COMPLETED",
+      "slug": "rana-plaza-2013",
+      "title": "Why Rana Plaza Collapsed With Garment Workers Inside",
+      "publishAt": "2026-10-03T22:00:00.000Z",
+      "mediaSha256": "519a967004e8356146d2d181a187bf4de17dc6d12a01103cc36391ccdaa19e2a",
+      "bytes": 17828815,
+      "updatedAt": "2026-10-03T11:30:34.800Z",
+      "sessionOpenedAt": "2026-10-03T11:30:34.145Z",
+      "sessionOpen": true,
+      "videoId": "4Mo58FxCr4A",
+      "completedBy": "upload"
+    },
+    {
+      "key": "94a60bad02e680db4df6657d017d9c6b3c32ab275fe0f6e17db36e8c57576f55",
+      "createdAt": "2026-10-04T12:12:05.649Z",
+      "state": "COMPLETED",
+      "slug": "chernobyl-1986",
+      "title": "How Chernobyl Really Failed",
+      "publishAt": "2026-10-04T22:00:00.000Z",
+      "mediaSha256": "063e5d0540468839e6131195eb3b0edc95e9e875059363f39540004af6a60a17",
+      "bytes": 21271237,
+      "updatedAt": "2026-10-04T12:12:07.594Z",
+      "sessionOpenedAt": "2026-10-04T12:12:06.905Z",
+      "sessionOpen": true,
+      "videoId": "Nk7vmybWY98",
+      "completedBy": "upload"
+    }
+  ],
+  "lastAttempt": "2026-10-04T12:12:07.594Z",
+  "lastSuccess": "2026-10-04T12:12:07.594Z"
+}

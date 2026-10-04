@@ -1,0 +1,651 @@
+{
+  "slug": "chernobyl-1986",
+  "format": "short",
+  "olusturuldu": "2026-10-04T12:12:01.841Z",
+  "secilen": "How Pressing Shutdown Destroyed Reactor 4",
+  "secilenPuan": 45.6,
+  "mevcutPuan": 33.4,
+  "sablonOnerisi": {
+    "baslik": "The Real Reason Chernobyl Reactor 4 Exploded During a Safety Test",
+    "puan": 63.2,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 24,
+  "adaylar": [
+    {
+      "baslik": "The Real Reason Chernobyl Reactor 4 Exploded During a Safety Test",
+      "kalip": "real-reason",
+      "toplam": 63.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "The Munitions Pier That Exploded During Loading"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (65 chars)"
+      ],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "What Engineers Learned From Chernobyl Reactor 4",
+      "kalip": "what",
+      "toplam": 59.5,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "How Engineers Stopped the Leaning Tower From Falling"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:lesson"
+    },
+    {
+      "baslik": "What Really Destroyed Chernobyl Reactor 4",
+      "kalip": "what-really",
+      "toplam": 58,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.24,
+        "closest": "One Control Rod Pulled Too Far Destroyed a Reactor"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-really"
+    },
+    {
+      "baslik": "Chernobyl Reactor 4 Didn't Just Fail — It Exploded During a Safety Test",
+      "kalip": "two-beat",
+      "toplam": 57.4,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 6,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 7.6
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "The Munitions Pier That Exploded During Loading"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "long for Shorts feed (71 chars)",
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "template:didnt-just-fail"
+    },
+    {
+      "baslik": "How Chernobyl Reactor 4 Became Exploded During a Safety Test",
+      "kalip": "how",
+      "toplam": 53,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "The Munitions Pier That Exploded During Loading"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.86,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-became"
+    },
+    {
+      "baslik": "The First Failure Inside Chernobyl Reactor 4",
+      "kalip": "statement",
+      "toplam": 48.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.3,
+        "closest": "Inside Van Norman Dam: The Failure Chain"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:first-failure"
+    },
+    {
+      "baslik": "Chernobyl Reactor 4: What Failed First",
+      "kalip": "label-colon",
+      "toplam": 46.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.38,
+        "closest": "Eastern 212: What Failed First"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:failed-first"
+    },
+    {
+      "baslik": "How Pressing Shutdown Destroyed Reactor 4",
+      "kalip": "how",
+      "toplam": 45.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.22,
+        "closest": "One Control Rod Pulled Too Far Destroyed a Reactor"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Chernobyl Reactor 4: The Engineering Behind the Failure",
+      "kalip": "label-colon",
+      "toplam": 45.5,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.22,
+        "closest": "An Engine Failure the Crew Made Worse"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:engineering-behind"
+    },
+    {
+      "baslik": "Why Chernobyl Reactor 4 Failed",
+      "kalip": "why",
+      "toplam": 45.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 7,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Eastern 212: What Failed First"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"why\" already used by 7 other videos"
+      ],
+      "kaynak": "template:plain-why"
+    },
+    {
+      "baslik": "1986: Chernobyl Reactor 4 Exploded During a Safety Test",
+      "kalip": "label-colon",
+      "toplam": 43.4,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "The Munitions Pier That Exploded During Loading"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "The Trigger That Started Chernobyl Reactor 4",
+      "kalip": "the-x-that",
+      "toplam": 41.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "The Military Charter That Crashed Leaving Gander"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:trigger-started"
+    },
+    {
+      "baslik": "How Control Rods With Graphite Tips That First Increased Power Brought Down Chernobyl Reactor 4",
+      "kalip": "how",
+      "toplam": 38.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 2,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "One Control Rod Pulled Too Far Destroyed a Reactor"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.9,
+      "notes": [
+        "long for Shorts feed (95 chars)",
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-trigger"
+    },
+    {
+      "baslik": "The Reactor That Exploded During a Safety Test",
+      "kalip": "the-x-that",
+      "toplam": 37.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.35,
+        "closest": "The Munitions Pier That Exploded During Loading"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "Why Chernobyl's Off Switch Made It Worse",
+      "kalip": "why",
+      "toplam": 36.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.29,
+        "closest": "An Engine Failure the Crew Made Worse"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 7 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Chernobyl Reactor 4: Cause, Chain, Consequence",
+      "kalip": "label-colon",
+      "toplam": 36,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "One Control Rod Pulled Too Far Destroyed a Reactor"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.6,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:cause-chain-consequence"
+    },
+    {
+      "baslik": "The Safety Test That Blew Up a Reactor",
+      "kalip": "the-x-that",
+      "toplam": 34.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.25,
+        "closest": "Sugar Dust Blew Up a Refinery"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "How Chernobyl Really Failed",
+      "kalip": "how",
+      "toplam": 33.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Eastern 212: What Failed First"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "only 50% of title words are supported by the script",
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Inside Chernobyl Reactor 4: The Failure Chain",
+      "kalip": "label-colon",
+      "toplam": 30.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.4,
+        "closest": "Inside Van Norman Dam: The Failure Chain"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "only 50% of title words are supported by the script",
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:inside-chain"
+    },
+    {
+      "baslik": "Chernobyl Reactor 4: 5 Failures in Sequence",
+      "kalip": "label-colon",
+      "toplam": 26.6,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Inside Van Norman Dam: The Failure Chain"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "only 50% of title words are supported by the script",
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:failure-count"
+    },
+    {
+      "baslik": "SAFETY TEST: The Scale of Chernobyl Reactor 4",
+      "kalip": "label-colon",
+      "toplam": 26.6,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 7,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.2
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "The Ship That Capsized at the Dock — Because of a Safety Rule"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:number-scale"
+    },
+    {
+      "baslik": "Chernobyl Reactor 4: How Positive Void Coefficient Plus Graphite-tipped Control Rods Causing a Power Surge Took Over",
+      "kalip": "label-colon",
+      "toplam": 26,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 2,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 10,
+        "appeal": 5,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.4
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "One Control Rod Pulled Too Far Destroyed a Reactor"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.92,
+      "notes": [
+        "long for Shorts feed (116 chars)",
+        "jargon in title: graphite-tipped",
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:mechanism-took-over"
+    },
+    {
+      "baslik": "The Chain Reaction Behind Chernobyl Reactor 4",
+      "kalip": "statement",
+      "toplam": 22,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "The Reactor Fire Saved by a Filter Called a Folly"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "only 50% of title words are supported by the script",
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:chain-reaction"
+    },
+    {
+      "baslik": "Chernobyl Explained",
+      "kalip": "explained",
+      "toplam": 18.2,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "The Unexplained Turn That Sank a Destroyer"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "At least 20 structurally distinct editorial/template candidates; heuristic scoring 0-10 per criterion weighted to /100, minus similarity and clickbait penalties. Not a prediction of CTR."
+}

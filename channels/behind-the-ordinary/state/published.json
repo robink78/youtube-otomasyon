@@ -1,0 +1,48 @@
+[
+  {
+    "channel": "behind-the-ordinary",
+    "slug": "why-road-cats-eyes-clean-themselves",
+    "videoId": "I9Lcpi9kPYs",
+    "baslik": "How Road Studs Wipe Their Own Reflectors",
+    "tarih": "2026-10-03T19:39:11.275Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-03T22:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "upload",
+    "idempotencyKey": "24fe3133821e5f12d122cd66d351b6db086b846990da1dfbbda65a8a4632c7a0",
+    "mediaSha256": "d0a922edd89484de37a68b1d00953a3c0731841e5bac6752b58490e24b44305b"
+  },
+  {
+    "channel": "behind-the-ordinary",
+    "slug": "why-jeans-have-a-tiny-pocket",
+    "videoId": "ZTtPwqBSxpA",
+    "baslik": "Why Jeans Have a Tiny Pocket",
+    "tarih": "2026-10-04T12:28:52.009Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-04T22:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "upload",
+    "idempotencyKey": "7a5895beb8936bfa6c5f31429101370b16b5e7fb5f32ff8b9d1e4539bac561e3",
+    "mediaSha256": "d5ed138b2284a32438f0ca5517fbb7b499e4577a441cb4b849af519b67f10a59"
+  },
+  {
+    "channel": "behind-the-ordinary",
+    "slug": "why-the-bluetooth-logo-looks-like-that",
+    "videoId": "Q98e12I0NFA",
+    "baslik": "Why the Bluetooth Logo Looks Like That",
+    "tarih": "2026-10-04T18:00:31.434Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-05T18:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "duplicate-guard",
+    "idempotencyKey": "dcac28f5e647de07580767eb0401736889b63370b3d636ff28ec322e65db65c9",
+    "mediaSha256": "102f34e61b8b49bf121b4ddbb2b6ac95cb32d90c1be2d708b97b6fb891515ca5",
+    "replacementForVideoId": "I9Lcpi9kPYs",
+    "replacementReason": "Replaces the weak road-stud package whose opening visual was unrelated; a stronger topic passed the viral and rendered visual-quality gates.",
+    "replacementVersion": 1,
+    "originalVideoId": "I9Lcpi9kPYs"
+  }
+]

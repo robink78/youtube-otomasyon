@@ -1,0 +1,634 @@
+{
+  "videoId": "X0jw78mIGdk",
+  "baslik": "Why San Francisco Burned for Three Days",
+  "yayin": "2026-09-23",
+  "yasGun": 7,
+  "sureSn": 35,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 113,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 4,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 2,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": 13,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewDuration": {
+      "deger": 22,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewPercentage": {
+      "deger": 63.81,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "subscribersGained": {
+      "deger": 2,
+      "durum": "ok",
+      "kaynak": "Analytics API (net)"
+    },
+    "shares": {
+      "deger": 1,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "first30sRetention": {
+      "deger": 0.4242,
+      "durum": "ok",
+      "kaynak": "Analytics API (retention at 86% of video)"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": 17.7,
+      "durum": "ok",
+      "kaynak": "derived"
+    },
+    "likeRate": {
+      "deger": 3.5,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 1.77,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": [
+    {
+      "kaynak": "SHORTS",
+      "ad": "Shorts feed",
+      "views": 103,
+      "oran": 0.911504424778761
+    },
+    {
+      "kaynak": "YT_CHANNEL",
+      "ad": "Channel page",
+      "views": 5,
+      "oran": 0.04424778761061947
+    },
+    {
+      "kaynak": "YT_SEARCH",
+      "ad": "Search",
+      "views": 5,
+      "oran": 0.04424778761061947
+    },
+    {
+      "kaynak": "NO_LINK_OTHER",
+      "ad": "Direct/unknown",
+      "views": 0,
+      "oran": 0
+    }
+  ],
+  "tutma": [
+    {
+      "oran": 0.01,
+      "izleme": 1.3333000000000002,
+      "goreceli": 0.65605
+    },
+    {
+      "oran": 0.02,
+      "izleme": 1.3333000000000002,
+      "goreceli": 0.63715
+    },
+    {
+      "oran": 0.03,
+      "izleme": 1.3636000000000001,
+      "goreceli": 0.6189
+    },
+    {
+      "oran": 0.04,
+      "izleme": 1.3333000000000002,
+      "goreceli": 0.60265
+    },
+    {
+      "oran": 0.05,
+      "izleme": 1.3333000000000002,
+      "goreceli": 0.58925
+    },
+    {
+      "oran": 0.06,
+      "izleme": 1.2727,
+      "goreceli": 0.57885
+    },
+    {
+      "oran": 0.07,
+      "izleme": 1.2424,
+      "goreceli": 0.5710999999999999
+    },
+    {
+      "oran": 0.08,
+      "izleme": 1.1818,
+      "goreceli": 0.56525
+    },
+    {
+      "oran": 0.09,
+      "izleme": 1.1515,
+      "goreceli": 0.5607
+    },
+    {
+      "oran": 0.1,
+      "izleme": 1.1515,
+      "goreceli": 0.55685
+    },
+    {
+      "oran": 0.11,
+      "izleme": 1.1515,
+      "goreceli": 0.5534
+    },
+    {
+      "oran": 0.12,
+      "izleme": 1.1515,
+      "goreceli": 0.5502
+    },
+    {
+      "oran": 0.13,
+      "izleme": 1.1212,
+      "goreceli": 0.54715
+    },
+    {
+      "oran": 0.14,
+      "izleme": 1.1212,
+      "goreceli": 0.5444
+    },
+    {
+      "oran": 0.15,
+      "izleme": 1.0303,
+      "goreceli": 0.5418
+    },
+    {
+      "oran": 0.16,
+      "izleme": 1,
+      "goreceli": 0.53945
+    },
+    {
+      "oran": 0.17,
+      "izleme": 1,
+      "goreceli": 0.53725
+    },
+    {
+      "oran": 0.18,
+      "izleme": 0.9697,
+      "goreceli": 0.53515
+    },
+    {
+      "oran": 0.19,
+      "izleme": 0.9091,
+      "goreceli": 0.5332
+    },
+    {
+      "oran": 0.2,
+      "izleme": 0.8787999999999999,
+      "goreceli": 0.5313
+    },
+    {
+      "oran": 0.21,
+      "izleme": 0.8787999999999999,
+      "goreceli": 0.52945
+    },
+    {
+      "oran": 0.22,
+      "izleme": 0.8787999999999999,
+      "goreceli": 0.5276
+    },
+    {
+      "oran": 0.23,
+      "izleme": 0.8484999999999999,
+      "goreceli": 0.5258
+    },
+    {
+      "oran": 0.24,
+      "izleme": 0.8181999999999999,
+      "goreceli": 0.52405
+    },
+    {
+      "oran": 0.25,
+      "izleme": 0.8181999999999999,
+      "goreceli": 0.52235
+    },
+    {
+      "oran": 0.26,
+      "izleme": 0.8181999999999999,
+      "goreceli": 0.5207
+    },
+    {
+      "oran": 0.27,
+      "izleme": 0.7879,
+      "goreceli": 0.5191
+    },
+    {
+      "oran": 0.28,
+      "izleme": 0.7576,
+      "goreceli": 0.51755
+    },
+    {
+      "oran": 0.29,
+      "izleme": 0.7576,
+      "goreceli": 0.51605
+    },
+    {
+      "oran": 0.3,
+      "izleme": 0.7576,
+      "goreceli": 0.5146
+    },
+    {
+      "oran": 0.31,
+      "izleme": 0.7576,
+      "goreceli": 0.51315
+    },
+    {
+      "oran": 0.32,
+      "izleme": 0.7576,
+      "goreceli": 0.5117
+    },
+    {
+      "oran": 0.33,
+      "izleme": 0.7576,
+      "goreceli": 0.51015
+    },
+    {
+      "oran": 0.34,
+      "izleme": 0.7273000000000001,
+      "goreceli": 0.5086
+    },
+    {
+      "oran": 0.35,
+      "izleme": 0.6970000000000001,
+      "goreceli": 0.5069
+    },
+    {
+      "oran": 0.36,
+      "izleme": 0.6667000000000001,
+      "goreceli": 0.5051
+    },
+    {
+      "oran": 0.37,
+      "izleme": 0.6667000000000001,
+      "goreceli": 0.5031
+    },
+    {
+      "oran": 0.38,
+      "izleme": 0.6364,
+      "goreceli": 0.501
+    },
+    {
+      "oran": 0.39,
+      "izleme": 0.6364,
+      "goreceli": 0.49875
+    },
+    {
+      "oran": 0.4,
+      "izleme": 0.6364,
+      "goreceli": 0.49635
+    },
+    {
+      "oran": 0.41,
+      "izleme": 0.6061,
+      "goreceli": 0.4939
+    },
+    {
+      "oran": 0.42,
+      "izleme": 0.5758,
+      "goreceli": 0.4914
+    },
+    {
+      "oran": 0.43,
+      "izleme": 0.5758,
+      "goreceli": 0.48905
+    },
+    {
+      "oran": 0.44,
+      "izleme": 0.5758,
+      "goreceli": 0.4869
+    },
+    {
+      "oran": 0.45,
+      "izleme": 0.5758,
+      "goreceli": 0.48515
+    },
+    {
+      "oran": 0.46,
+      "izleme": 0.5455,
+      "goreceli": 0.48405
+    },
+    {
+      "oran": 0.47,
+      "izleme": 0.5455,
+      "goreceli": 0.48375
+    },
+    {
+      "oran": 0.48,
+      "izleme": 0.5455,
+      "goreceli": 0.4845
+    },
+    {
+      "oran": 0.49,
+      "izleme": 0.5455,
+      "goreceli": 0.4864
+    },
+    {
+      "oran": 0.5,
+      "izleme": 0.5455,
+      "goreceli": 0.4897
+    },
+    {
+      "oran": 0.51,
+      "izleme": 0.5455,
+      "goreceli": 0.4944
+    },
+    {
+      "oran": 0.52,
+      "izleme": 0.5152,
+      "goreceli": 0.50055
+    },
+    {
+      "oran": 0.53,
+      "izleme": 0.5152,
+      "goreceli": 0.50815
+    },
+    {
+      "oran": 0.54,
+      "izleme": 0.48479999999999995,
+      "goreceli": 0.51705
+    },
+    {
+      "oran": 0.55,
+      "izleme": 0.48479999999999995,
+      "goreceli": 0.5272
+    },
+    {
+      "oran": 0.56,
+      "izleme": 0.48479999999999995,
+      "goreceli": 0.53825
+    },
+    {
+      "oran": 0.57,
+      "izleme": 0.48479999999999995,
+      "goreceli": 0.5499
+    },
+    {
+      "oran": 0.58,
+      "izleme": 0.4545,
+      "goreceli": 0.5618
+    },
+    {
+      "oran": 0.59,
+      "izleme": 0.4545,
+      "goreceli": 0.57345
+    },
+    {
+      "oran": 0.6,
+      "izleme": 0.4545,
+      "goreceli": 0.58435
+    },
+    {
+      "oran": 0.61,
+      "izleme": 0.4545,
+      "goreceli": 0.59395
+    },
+    {
+      "oran": 0.62,
+      "izleme": 0.4545,
+      "goreceli": 0.6019
+    },
+    {
+      "oran": 0.63,
+      "izleme": 0.4545,
+      "goreceli": 0.6079
+    },
+    {
+      "oran": 0.64,
+      "izleme": 0.4242,
+      "goreceli": 0.6118
+    },
+    {
+      "oran": 0.65,
+      "izleme": 0.4242,
+      "goreceli": 0.6137
+    },
+    {
+      "oran": 0.66,
+      "izleme": 0.4242,
+      "goreceli": 0.61385
+    },
+    {
+      "oran": 0.67,
+      "izleme": 0.4242,
+      "goreceli": 0.61265
+    },
+    {
+      "oran": 0.68,
+      "izleme": 0.4242,
+      "goreceli": 0.61055
+    },
+    {
+      "oran": 0.69,
+      "izleme": 0.4242,
+      "goreceli": 0.608
+    },
+    {
+      "oran": 0.7,
+      "izleme": 0.4242,
+      "goreceli": 0.6053
+    },
+    {
+      "oran": 0.71,
+      "izleme": 0.4242,
+      "goreceli": 0.6027
+    },
+    {
+      "oran": 0.72,
+      "izleme": 0.4242,
+      "goreceli": 0.60025
+    },
+    {
+      "oran": 0.73,
+      "izleme": 0.4242,
+      "goreceli": 0.598
+    },
+    {
+      "oran": 0.74,
+      "izleme": 0.4242,
+      "goreceli": 0.5959
+    },
+    {
+      "oran": 0.75,
+      "izleme": 0.4242,
+      "goreceli": 0.59395
+    },
+    {
+      "oran": 0.76,
+      "izleme": 0.4242,
+      "goreceli": 0.59215
+    },
+    {
+      "oran": 0.77,
+      "izleme": 0.4242,
+      "goreceli": 0.5906
+    },
+    {
+      "oran": 0.78,
+      "izleme": 0.4242,
+      "goreceli": 0.5892999999999999
+    },
+    {
+      "oran": 0.79,
+      "izleme": 0.4242,
+      "goreceli": 0.58835
+    },
+    {
+      "oran": 0.8,
+      "izleme": 0.4242,
+      "goreceli": 0.5877
+    },
+    {
+      "oran": 0.81,
+      "izleme": 0.4242,
+      "goreceli": 0.58725
+    },
+    {
+      "oran": 0.82,
+      "izleme": 0.4242,
+      "goreceli": 0.5868
+    },
+    {
+      "oran": 0.83,
+      "izleme": 0.4242,
+      "goreceli": 0.58615
+    },
+    {
+      "oran": 0.84,
+      "izleme": 0.4242,
+      "goreceli": 0.5851500000000001
+    },
+    {
+      "oran": 0.85,
+      "izleme": 0.4242,
+      "goreceli": 0.58365
+    },
+    {
+      "oran": 0.86,
+      "izleme": 0.4242,
+      "goreceli": 0.5818
+    },
+    {
+      "oran": 0.87,
+      "izleme": 0.4242,
+      "goreceli": 0.5796
+    },
+    {
+      "oran": 0.88,
+      "izleme": 0.4242,
+      "goreceli": 0.5773
+    },
+    {
+      "oran": 0.89,
+      "izleme": 0.4242,
+      "goreceli": 0.5751
+    },
+    {
+      "oran": 0.9,
+      "izleme": 0.39390000000000003,
+      "goreceli": 0.5730500000000001
+    },
+    {
+      "oran": 0.91,
+      "izleme": 0.39390000000000003,
+      "goreceli": 0.5710999999999999
+    },
+    {
+      "oran": 0.92,
+      "izleme": 0.39390000000000003,
+      "goreceli": 0.5690500000000001
+    },
+    {
+      "oran": 0.93,
+      "izleme": 0.39390000000000003,
+      "goreceli": 0.5666
+    },
+    {
+      "oran": 0.94,
+      "izleme": 0.39390000000000003,
+      "goreceli": 0.5634
+    },
+    {
+      "oran": 0.95,
+      "izleme": 0.3636,
+      "goreceli": 0.5593
+    },
+    {
+      "oran": 0.96,
+      "izleme": 0.3636,
+      "goreceli": 0.55425
+    },
+    {
+      "oran": 0.97,
+      "izleme": 0.3636,
+      "goreceli": 0.54855
+    },
+    {
+      "oran": 0.98,
+      "izleme": 0.3636,
+      "goreceli": 0.54255
+    },
+    {
+      "oran": 0.99,
+      "izleme": 0.3636,
+      "goreceli": 0.5367999999999999
+    },
+    {
+      "oran": 1,
+      "izleme": 0.3636,
+      "goreceli": 0.5318
+    }
+  ],
+  "analitikDurumu": "ok",
+  "toplandi": "2026-09-30T14:01:57.967Z",
+  "checkpoint": "7d",
+  "teshis": [
+    {
+      "kod": "WEAK_TOPIC_PACKAGING",
+      "guven": "low",
+      "aciklama": "Current title scores 42.4/100 in the title engine; best editorial option scores 49.",
+      "oneri": "Heuristic only — test the stronger title as a logged experiment rather than switching silently."
+    }
+  ],
+  "retentionDrop": {
+    "second": 3,
+    "magnitude": 0.1515000000000002,
+    "sceneIndex": 0,
+    "sentence": "The earthquake lasted a minute. The fire burned for three days.",
+    "visualType": "REAL ARCHIVAL/LICENCED FOOTAGE"
+  }
+}

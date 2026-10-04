@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Britain's Giant Airship Crashed on Its First Big Voyage",
+  "kaynaklar": [
+    {
+      "ad": "r101-airship-1.jpg",
+      "wikimedia": "R101 wreckage.jpg"
+    },
+    {
+      "ad": "r101-airship-2.jpg",
+      "wikimedia": "Beauvais - catastrophe du Dirigeable anglais R. 101 - btv1b90481786.jpg"
+    },
+    {
+      "ad": "r101-airship-3.jpg",
+      "wikimedia": "Beauvais - catastrophe du Dirigeable anglais R. 101 - btv1b90481912.jpg"
+    },
+    {
+      "ad": "r101-airship-4.jpg",
+      "wikimedia": "R101.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Britain's giant airship R101 crashed on a hillside in France.",
+      "kaynak": "Footage/r101-airship-1.jpg"
+    },
+    {
+      "metin": "Its hydrogen caught fire, and forty eight people were killed.",
+      "kaynak": "Footage/r101-airship-2.jpg"
+    },
+    {
+      "metin": "It was on its first long voyage, bound for India.",
+      "kaynak": "Footage/r101-airship-3.jpg"
+    },
+    {
+      "metin": "Testing had been rushed to meet a political deadline.",
+      "kaynak": "Footage/r101-airship-4.jpg"
+    },
+    {
+      "metin": "Its gasbags rubbed and leaked, losing lift.",
+      "kaynak": "Footage/r101-airship-1.jpg"
+    },
+    {
+      "metin": "In a storm, the nose dropped and it hit the ground.",
+      "kaynak": "Footage/r101-airship-2.jpg"
+    },
+    {
+      "metin": "Hydrogen turned the wreck into a fireball.",
+      "kaynak": "Footage/r101-airship-3.jpg"
+    },
+    {
+      "metin": "Britain then abandoned its rigid airship programme.",
+      "kaynak": "Footage/r101-airship-4.jpg"
+    }
+  ],
+  "aciklama": "R101 crashed and burned in France. The cause: loss of lift from gasbag damage and a torn cover, causing a nose-down descent and hydrogen fire.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "R101",
+    "1930",
+    "airship",
+    "engineering failure"
+  ],
+  "hook": "Rushed into the sky",
+  "soru": "Deadline or testing?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the R101 airship",
+    "kisa": "R101",
+    "nesne": "Airship",
+    "yil": 1930,
+    "sonuc": "crashed and burned in France",
+    "tetik": "loss of gas from damaged gasbags in bad weather",
+    "mekanizma": "loss of lift from gasbag damage and a torn cover, causing a nose-down descent and hydrogen fire",
+    "sayi": "48 KILLED",
+    "ders": "Britain abandoned its rigid airship programme",
+    "zincir": [
+      "RUSHED TO MEET A DEADLINE",
+      "GASBAGS CHAFE AND LEAK",
+      "COVER TEARS IN STORM",
+      "NOSE-DOWN DIVE",
+      "HYDROGEN FIRE"
+    ],
+    "zaman": [],
+    "yanilgi": "The flight wasn't doomed by one mistake. Rushed testing, leaking gasbags and bad weather combined on the first long trip.",
+    "tartisma": "The voyage was timed to meet a political deadline. When should a schedule give way to testing?",
+    "basliklar": [
+      "Britain's Giant Airship Crashed on Its First Big Voyage",
+      "Why the R101 Airship Crashed",
+      "The Airship Rushed Into Service"
+    ],
+    "kapak": [
+      "RUSHED",
+      "48 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — R101",
+        "url": "https://en.wikipedia.org/wiki/R101"
+      },
+      {
+        "ad": "Government source — TheR101VictimsFuneralAndMemorial (cited by Wikipedia)",
+        "url": "http://www.bedfordshire.gov.uk/CommunityAndLiving/ArchivesAndRecordOffice/CommunityArchives/Shortstown/TheR101VictimsFuneralAndMemorial.aspx"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "R101",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "R101 wreckage.jpg [Public domain]",
+      "Beauvais - catastrophe du Dirigeable anglais R. 101 - btv1b90481786.jpg [Public domain]",
+      "Beauvais - catastrophe du Dirigeable anglais R. 101 - btv1b90481912.jpg [Public domain]",
+      "R101.jpg [Public domain]"
+    ]
+  }
+}

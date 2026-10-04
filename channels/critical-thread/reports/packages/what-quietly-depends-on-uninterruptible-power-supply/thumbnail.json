@@ -1,0 +1,41 @@
+{
+  "subject": "uninterruptible power supply",
+  "text": [
+    "15 MINUTES POWER"
+  ],
+  "maxWords": 3,
+  "palette": [
+    "#07090d",
+    "#c8ced8",
+    "#d6ae5f",
+    "#5aa9e6"
+  ],
+  "clutter": false,
+  "concepts": [
+    {
+      "id": "critical-object",
+      "composition": "uninterruptible power supply isolated against a dark technical field",
+      "consequence": "faint global network"
+    },
+    {
+      "id": "system-map",
+      "composition": "uninterruptible power supply centered inside a minimal dependency map",
+      "consequence": "downstream nodes dimmed"
+    },
+    {
+      "id": "scale",
+      "composition": "extreme close view of uninterruptible power supply",
+      "consequence": "small Earth silhouette"
+    },
+    {
+      "id": "failure",
+      "composition": "uninterruptible power supply with one precise break or warning marker",
+      "consequence": "restrained dark infrastructure"
+    },
+    {
+      "id": "replacement",
+      "composition": "uninterruptible power supply beside an empty replacement outline",
+      "consequence": "lead-time clock"
+    }
+  ]
+}

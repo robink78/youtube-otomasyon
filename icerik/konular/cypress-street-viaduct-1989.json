@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Double-Deck Freeway That Pancaked in an Earthquake",
+  "kaynaklar": [
+    {
+      "ad": "cypress-street-viaduct-1.jpg",
+      "wikimedia": "022srUSGSCyprusVia.jpg"
+    },
+    {
+      "ad": "cypress-street-viaduct-2.jpg",
+      "wikimedia": "Cypress structure.jpeg"
+    },
+    {
+      "ad": "cypress-street-viaduct-3.jpg",
+      "wikimedia": "FEMA - 261 - Photograph by FEMA News Photo taken on 10-01-1989 in California.jpg"
+    },
+    {
+      "ad": "cypress-street-viaduct-4.jpg",
+      "wikimedia": "LomaPrietaOaklandHighwayNakata7ct.jpg"
+    },
+    {
+      "ad": "cypress-street-viaduct-5.jpg",
+      "wikimedia": "Cypress structure2.jpg"
+    },
+    {
+      "ad": "cypress-street-viaduct-6.jpg",
+      "wikimedia": "George H. W. Bush (along with Mayor Wilson, Congressman Pete Stark to the right) touring the site of the collapsed I-880 Cypress Structure. Congressman George Miller is to George Bush's left (21632784174).jpg"
+    },
+    {
+      "ad": "cypress-street-viaduct-7.jpg",
+      "wikimedia": "Cypress Street Viaduct construction 1957 Robert Owen Winkler.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In an earthquake, Oakland's double-deck freeway collapsed onto itself.",
+      "kaynak": "Footage/cypress-street-viaduct-1.jpg"
+    },
+    {
+      "metin": "The top deck crushed cars below, and forty two people died.",
+      "kaynak": "Footage/cypress-street-viaduct-2.jpg"
+    },
+    {
+      "metin": "It stood on soft mud near the bay.",
+      "kaynak": "Footage/cypress-street-viaduct-3.jpg"
+    },
+    {
+      "metin": "That mud amplified the shaking.",
+      "kaynak": "Footage/cypress-street-viaduct-4.jpg"
+    },
+    {
+      "metin": "The concrete columns had too little steel to bend.",
+      "kaynak": "Footage/cypress-street-viaduct-5.jpg"
+    },
+    {
+      "metin": "They cracked and sheared instead.",
+      "kaynak": "Footage/cypress-street-viaduct-6.jpg"
+    },
+    {
+      "metin": "Section after section of upper deck came down.",
+      "kaynak": "Footage/cypress-street-viaduct-7.jpg"
+    },
+    {
+      "metin": "California then retrofitted its freeways to bend, not break.",
+      "kaynak": "Footage/cypress-street-viaduct-1.jpg"
+    }
+  ],
+  "aciklama": "Cypress Viaduct collapsed onto its lower deck in an earthquake. The cause: shear failure of non-ductile concrete columns connecting the two decks.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Cypress Viaduct",
+    "1989",
+    "viaduct",
+    "engineering failure"
+  ],
+  "hook": "The top deck fell",
+  "soru": "Would you drive the lower deck?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Cypress Street Viaduct",
+    "kisa": "Cypress Viaduct",
+    "nesne": "Viaduct",
+    "yil": 1989,
+    "sonuc": "collapsed onto its lower deck in an earthquake",
+    "tetik": "shaking amplified by soft soil under the viaduct",
+    "mekanizma": "shear failure of non-ductile concrete columns connecting the two decks",
+    "sayi": "42 DEAD",
+    "ders": "California retrofitted its freeway structures for ductility",
+    "zincir": [
+      "SOFT MUD UNDER THE STRUCTURE",
+      "SHAKING AMPLIFIED",
+      "COLUMN JOINTS LACK STEEL TIES",
+      "UPPER COLUMNS SHEAR",
+      "TOP DECK FALLS ON LOWER"
+    ],
+    "zaman": [],
+    "yanilgi": "Older freeways weren't all destroyed. This one stood on soft bay mud and had brittle column joints.",
+    "tartisma": "It met the codes of its time. When should old structures be forced up to new codes?",
+    "basliklar": [
+      "The Double-Deck Freeway That Pancaked in an Earthquake",
+      "Why the Cypress Viaduct Collapsed",
+      "The Freeway That Fell On Itself"
+    ],
+    "kapak": [
+      "PANCAKED",
+      "42 DEAD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Cypress Street Viaduct",
+        "url": "https://en.wikipedia.org/wiki/Cypress_Street_Viaduct"
+      },
+      {
+        "ad": "Government source — 8076160 (cited by Wikipedia)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8076160"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Cypress_Street_Viaduct",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "022srUSGSCyprusVia.jpg [Public domain]",
+      "Cypress structure.jpeg [Public domain]",
+      "FEMA - 261 - Photograph by FEMA News Photo taken on 10-01-1989 in California.jpg [Public domain]",
+      "LomaPrietaOaklandHighwayNakata7ct.jpg [Public domain]",
+      "Cypress structure2.jpg [Public domain]",
+      "George H. W. Bush (along with Mayor Wilson, Congressman Pete Stark to the right) touring the site of the collapsed I-880 Cypress Structure. Congressman George Miller is to George Bush's left (21632784174).jpg [Public domain]",
+      "Cypress Street Viaduct construction 1957 Robert Owen Winkler.jpg [Public domain]"
+    ]
+  }
+}

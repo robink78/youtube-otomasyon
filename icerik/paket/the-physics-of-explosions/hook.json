@@ -1,0 +1,49 @@
+{
+  "slug": "the-physics-of-explosions",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.781Z",
+  "ekranHook": "Its not the fire that kills",
+  "mevcut": {
+    "puan": 70,
+    "pencereler": {
+      "0-5": "An explosion does not kill mainly with fire. It kills with pressure - a",
+      "5-12": "wall of air moving faster than sound. In a fraction of a second, solid material turns into expanding gas.",
+      "12-20": "That gas slams outward as a shockwave, crushing everything near it. The wave can burst lungs and eardrums before the heat even",
+      "20-30": "arrives. Then comes the vacuum, as air rushes back to fill the gap. That reverse pull can suck windows and debris back toward the blast. Distance is everything"
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "An explosion does not kill mainly with fire."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only solid material turning into gas."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is blast overpressure — and it is why blast engineers design with distance first."
+      }
+    ],
+    "metin": "An explosion does not kill mainly with fire. It took only solid material turning into gas. So what actually happens inside? The answer is blast overpressure — and it is why blast engineers design with distance first.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

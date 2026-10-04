@@ -1,0 +1,90 @@
+{
+  "id": "IB-PHY-001",
+  "slug": "what-if-gravity-doubled-tomorrow",
+  "topic": "What If Gravity Doubled Tomorrow?",
+  "category": "PHYSICS",
+  "hook": "If gravity doubled tomorrow, walking would be the least of our problems.",
+  "openingLine": "Gravity doubles. Weight follows.",
+  "secondBeat": "Every load becomes twice as heavy.",
+  "scientificMechanism": "spacetime curvature and acceleration under general relativity",
+  "coreQuestion": "Under established mechanics, what happens if surface gravitational acceleration doubles everywhere tomorrow?",
+  "scenarioChange": "gravity became exactly twice its measured value",
+  "expectedConsequence": "orbits, structures and biology would respond to the same changed acceleration",
+  "shortPotential": {
+    "score": 85,
+    "durationSeconds": [
+      22,
+      32
+    ],
+    "angle": "first consequence → mechanism → payoff"
+  },
+  "longFormPotential": {
+    "score": 58,
+    "rationale": "Supports a timeline, secondary effects and real-world constraints when the score is 75 or higher."
+  },
+  "visualPotential": {
+    "score": 85,
+    "scenes": [
+      "gravity",
+      "mechanism diagram",
+      "scale comparison",
+      "consequence map"
+    ]
+  },
+  "evergreenScore": 82,
+  "curiosityScore": 84,
+  "competitionEstimate": "medium",
+  "sourceQuality": {
+    "score": 94,
+    "grade": "primary-authority",
+    "authorities": [
+      "NIST — SI Units: Mass and Weight",
+      "NASA Glenn — Weight Equation",
+      "NASA — Acceleration Physiology"
+    ]
+  },
+  "confidence": "SUPPORTED",
+  "claimFramework": [
+    {
+      "layer": "KNOWN SCIENCE",
+      "confidence": "VERIFIED",
+      "claim": "spacetime curvature and acceleration under general relativity"
+    },
+    {
+      "layer": "ESTIMATED CONSEQUENCE",
+      "confidence": "SUPPORTED",
+      "claim": "orbits, structures and biology would respond to the same changed acceleration"
+    },
+    {
+      "layer": "SPECULATIVE SCENARIO",
+      "confidence": "SPECULATIVE",
+      "claim": "gravity became exactly twice its measured value"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NIST — SI Units: Mass and Weight",
+      "url": "https://www.nist.gov/pml/owm/si-units-mass",
+      "type": "government measurement institute"
+    },
+    {
+      "name": "NASA Glenn — Weight Equation",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/weight-equation-2/",
+      "type": "government research center"
+    },
+    {
+      "name": "NASA — Acceleration Physiology",
+      "url": "https://ntrs.nasa.gov/api/citations/19930003532/downloads/19930003532.pdf",
+      "type": "government technical report"
+    }
+  ],
+  "quality": {
+    "channelFit": 100,
+    "scienceDepth": 92,
+    "distinctiveness": 82,
+    "sourceability": 96,
+    "nonDuplicate": true,
+    "qualified": true
+  },
+  "status": "qualified"
+}

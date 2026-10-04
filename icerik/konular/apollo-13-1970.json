@@ -1,0 +1,129 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7.5,
+  "baslik": "The Wrong Voltage That Nearly Killed Apollo 13",
+  "kaynaklar": [
+    {
+      "ad": "apollo13.ogv",
+      "wikimedia": "Apollo 13 Houston, We've Got a Problem.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two hundred thousand miles from Earth, an oxygen tank exploded.",
+      "kaynak": "Footage/apollo13.ogv",
+      "baslangic": 899
+    },
+    {
+      "metin": "In seconds, Apollo 13 lost most of its power and oxygen.",
+      "kaynak": "Footage/apollo13.ogv",
+      "baslangic": 850
+    },
+    {
+      "metin": "So how did a tank that passed every test just explode?",
+      "kaynak": "Footage/apollo13.ogv",
+      "baslangic": 1263
+    },
+    {
+      "metin": "Its heater switches were rated for 28 volts, not 65.",
+      "kaynak": "Footage/apollo13.ogv",
+      "baslangic": 73
+    },
+    {
+      "metin": "They welded shut, and wires inside cooked at a thousand degrees.",
+      "kaynak": "Footage/apollo13.ogv",
+      "baslangic": 1020
+    },
+    {
+      "metin": "Weeks later, in space, damaged wiring sparked inside pure oxygen.",
+      "kaynak": "Footage/apollo13.ogv",
+      "baslangic": 1166
+    },
+    {
+      "metin": "The crew survived using the lunar module as a lifeboat.",
+      "kaynak": "Footage/apollo13.ogv",
+      "baslangic": 1190
+    },
+    {
+      "metin": "One mismatched voltage nearly cost three lives.",
+      "kaynak": "Footage/apollo13.ogv",
+      "baslangic": 1360
+    }
+  ],
+  "aciklama": "On April 13, 1970, an oxygen tank exploded aboard Apollo 13, 200,000 miles from Earth. Its heater switches had been rated for 28 volts while ground equipment supplied 65.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Apollo 13",
+    "1970",
+    "oxygen tank",
+    "NASA",
+    "Houston we've had a problem",
+    "thermostat",
+    "spaceflight"
+  ],
+  "hook": "200,000 miles from home",
+  "soru": "Could you have fixed it?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Apollo 13",
+    "kisa": "Apollo 13",
+    "nesne": "Service module oxygen tank",
+    "yil": 1970,
+    "sonuc": "lost an oxygen tank 200,000 miles from Earth",
+    "tetik": "heater switches rated for 28 V run on 65 V",
+    "mekanizma": "thermostat switches welded shut by overvoltage, overheating the tank's wiring insulation",
+    "sayi": "28 V vs 65 V",
+    "ders": "every component rating is now checked against every power source it will ever see, including ground equipment",
+    "zincir": [
+      "SWITCHES RATED 28 V, GROUND SUPPLY 65 V",
+      "SWITCHES WELD SHUT DURING DETANKING",
+      "HEATER COOKS WIRE INSULATION",
+      "SPARK IN PURE OXYGEN IN FLIGHT",
+      "TANK RUPTURES — MISSION ABORTED"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 1970",
+        "olay": "Pad detanking: heaters run ~8 hours, switches weld shut"
+      },
+      {
+        "t": "Apr 11",
+        "olay": "Launch"
+      },
+      {
+        "t": "Apr 13, ~56 h in",
+        "olay": "Tank stir; oxygen tank 2 ruptures"
+      },
+      {
+        "t": "Apr 17",
+        "olay": "Crew splashes down safely"
+      }
+    ],
+    "yanilgi": "Nothing hit Apollo 13. The failure was built in on the ground weeks earlier, when a mismatch in voltage ratings silently damaged the tank.",
+    "tartisma": "The switches passed their own tests; the mismatch lived between two teams' specs. Who should own a failure that belongs to no single part?",
+    "basliklar": [
+      "The Wrong Voltage That Nearly Killed Apollo 13",
+      "Why Apollo 13's Oxygen Tank Exploded",
+      "The Ground Test That Doomed Apollo 13",
+      "28 Volts vs 65: Apollo 13's Hidden Flaw"
+    ],
+    "kapak": [
+      "28 V vs 65 V",
+      "HOUSTON",
+      "WELDED SHUT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Apollo 13",
+        "url": "https://en.wikipedia.org/wiki/Apollo_13"
+      },
+      {
+        "ad": "NASA — Report of the Apollo 13 Review Board",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_13_review_board.txt"
+      }
+    ]
+  }
+}

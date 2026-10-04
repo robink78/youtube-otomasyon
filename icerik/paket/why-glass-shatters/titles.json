@@ -1,0 +1,252 @@
+{
+  "slug": "why-glass-shatters",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.940Z",
+  "secilen": "Glass That Shatters Years After It Was Made",
+  "secilenPuan": 44,
+  "mevcutPuan": 41.6,
+  "sablonOnerisi": {
+    "baslik": "The Physics of How Tempered Glass Explodes on Its Own",
+    "puan": 66.3,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 9,
+  "adaylar": [
+    {
+      "baslik": "The Physics of How Tempered Glass Explodes on Its Own",
+      "kalip": "physics-of",
+      "toplam": 66.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.23,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "What Breaks First When Tempered Glass Explodes on Its Own",
+      "kalip": "what",
+      "toplam": 60.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:breaks-first"
+    },
+    {
+      "baslik": "What Actually Happens When Tempered Glass Explodes on Its Own",
+      "kalip": "what-really",
+      "toplam": 52.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.26,
+        "closest": "What Actually Makes a Volcano Explode"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (61 chars)",
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-happens"
+    },
+    {
+      "baslik": "Why Tempered Glass Explodes on Its Own",
+      "kalip": "why",
+      "toplam": 45.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "template:why-plural"
+    },
+    {
+      "baslik": "Glass That Shatters Years After It Was Made",
+      "kalip": "statement",
+      "toplam": 44,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "The Silent Gas That Kills You in Your Sleep"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"statement\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why Tempered Glass Can Explode on Its Own",
+      "kalip": "why",
+      "toplam": 42.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.22,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why Glass Explodes for No Reason",
+      "kalip": "why",
+      "toplam": 41.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Tempered Glass Explained",
+      "kalip": "explained",
+      "toplam": 37.1,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.07,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    },
+    {
+      "baslik": "The Bomb Hidden Inside a Window",
+      "kalip": "statement",
+      "toplam": 32.9,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Why Concrete Buildings Rot From the Inside"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"statement\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

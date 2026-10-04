@@ -1,0 +1,510 @@
+{
+  "count": 26,
+  "selected": "Inside High-lift Water Pump: The Hidden Dependency",
+  "candidates": [
+    "Inside High-lift Water Pump: The Hidden Dependency",
+    "Inside High-lift Water Pump: The Hidden Bottleneck",
+    "2022: Inside High-lift Water Pump",
+    "150,000: Inside High-lift Water Pump",
+    "Why High-lift Water Pump Is so Hard to Replace",
+    "What Fails When High-lift Water Pump Stops",
+    "What Stops If High-lift Water Pump Stops",
+    "The Critical System Behind High-lift Water Pump",
+    "How High-lift Water Pump Became Critical Infrastructure",
+    "Can We Replace High-lift Water Pump Fast Enough?",
+    "The World Quietly Depends on High-lift Water Pump",
+    "Why High-lift Water Pump Matters More Than It Looks",
+    "What Modern Life Needs From High-lift Water Pump",
+    "The Fragile Chain Behind High-lift Water Pump",
+    "How High-lift Water Pump Holds Modern Infrastructure Together",
+    "The Hidden Dependency Inside Water",
+    "High-lift Water Pump: The Replacement Problem",
+    "Why There Is No Quick Substitute for High-lift Water Pump",
+    "High-lift Water Pump: Failure, Recovery and Redundancy",
+    "The Capacity Constraint Hidden in High-lift Water Pump",
+    "The High-lift Water Pump Problem",
+    "How Jackson Lost Its Water",
+    "The Pumps That Left 150,000 People Without Water",
+    "Why Old Pumps Can Leave a City Dry",
+    "The System That Cannot Pause: High-lift Water Pump",
+    "The Fragile Chain Built Around High-lift Water Pump"
+  ],
+  "scoredCandidates": [
+    {
+      "title": "Inside High-lift Water Pump: The Hidden Dependency",
+      "pattern": "inside",
+      "total": 88,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 76,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 83,
+        "channelIdentity": 74,
+        "ctrPotential": 87,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "Inside High-lift Water Pump: The Hidden Bottleneck",
+      "pattern": "inside",
+      "total": 87,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 76,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 83,
+        "channelIdentity": 74,
+        "ctrPotential": 79,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "2022: Inside High-lift Water Pump",
+      "pattern": "number-led",
+      "total": 85,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 92,
+        "truthfulness": 100,
+        "searchIntent": 83,
+        "channelIdentity": 62,
+        "ctrPotential": 77,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "150,000: Inside High-lift Water Pump",
+      "pattern": "number-led",
+      "total": 85,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 92,
+        "truthfulness": 100,
+        "searchIntent": 83,
+        "channelIdentity": 62,
+        "ctrPotential": 77,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "Why High-lift Water Pump Is so Hard to Replace",
+      "pattern": "why",
+      "total": 84,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 95,
+        "channelIdentity": 74,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "What Fails When High-lift Water Pump Stops",
+      "pattern": "statement",
+      "total": 84,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 95,
+        "channelIdentity": 62,
+        "ctrPotential": 75,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "What Stops If High-lift Water Pump Stops",
+      "pattern": "statement",
+      "total": 84,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 95,
+        "channelIdentity": 62,
+        "ctrPotential": 75,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "The Critical System Behind High-lift Water Pump",
+      "pattern": "statement",
+      "total": 83,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 75,
+        "channelIdentity": 86,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "How High-lift Water Pump Became Critical Infrastructure",
+      "pattern": "how",
+      "total": 82,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 95,
+        "channelIdentity": 86,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "Can We Replace High-lift Water Pump Fast Enough?",
+      "pattern": "question",
+      "total": 81,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 66,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 83,
+        "channelIdentity": 74,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "The World Quietly Depends on High-lift Water Pump",
+      "pattern": "statement",
+      "total": 80,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 75,
+        "channelIdentity": 74,
+        "ctrPotential": 75,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "Why High-lift Water Pump Matters More Than It Looks",
+      "pattern": "why",
+      "total": 80,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 95,
+        "channelIdentity": 62,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "What Modern Life Needs From High-lift Water Pump",
+      "pattern": "statement",
+      "total": 79,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 87,
+        "channelIdentity": 62,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "The Fragile Chain Behind High-lift Water Pump",
+      "pattern": "statement",
+      "total": 78,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 75,
+        "channelIdentity": 62,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "How High-lift Water Pump Holds Modern Infrastructure Together",
+      "pattern": "how",
+      "total": 77,
+      "scores": {
+        "clarity": 99,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 70,
+        "searchIntent": 95,
+        "channelIdentity": 74,
+        "ctrPotential": 57,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "The Hidden Dependency Inside Water",
+      "pattern": "statement",
+      "total": 77,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 76,
+        "specificity": 41,
+        "truthfulness": 100,
+        "searchIntent": 30,
+        "channelIdentity": 74,
+        "ctrPotential": 77,
+        "novelty": 100,
+        "evergreenPotential": 75
+      },
+      "misleading": false
+    },
+    {
+      "title": "High-lift Water Pump: The Replacement Problem",
+      "pattern": "label-colon",
+      "total": 76,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 40,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 83,
+        "channelIdentity": 74,
+        "ctrPotential": 55,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "Why There Is No Quick Substitute for High-lift Water Pump",
+      "pattern": "why",
+      "total": 76,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 70,
+        "searchIntent": 87,
+        "channelIdentity": 62,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "High-lift Water Pump: Failure, Recovery and Redundancy",
+      "pattern": "label-colon",
+      "total": 76,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 40,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 83,
+        "channelIdentity": 62,
+        "ctrPotential": 63,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "The Capacity Constraint Hidden in High-lift Water Pump",
+      "pattern": "statement",
+      "total": 76,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 70,
+        "searchIntent": 75,
+        "channelIdentity": 74,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "The High-lift Water Pump Problem",
+      "pattern": "statement",
+      "total": 75,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 40,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 83,
+        "channelIdentity": 62,
+        "ctrPotential": 55,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "How Jackson Lost Its Water",
+      "pattern": "how",
+      "total": 73,
+      "scores": {
+        "clarity": 97,
+        "curiosity": 58,
+        "specificity": 47,
+        "truthfulness": 100,
+        "searchIntent": 42,
+        "channelIdentity": 72,
+        "ctrPotential": 57,
+        "novelty": 100,
+        "evergreenPotential": 75
+      },
+      "misleading": false
+    },
+    {
+      "title": "The Pumps That Left 150,000 People Without Water",
+      "pattern": "the-x-that",
+      "total": 72,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 40,
+        "specificity": 62,
+        "truthfulness": 100,
+        "searchIntent": 30,
+        "channelIdentity": 72,
+        "ctrPotential": 55,
+        "novelty": 100,
+        "evergreenPotential": 75
+      },
+      "misleading": false
+    },
+    {
+      "title": "Why Old Pumps Can Leave a City Dry",
+      "pattern": "why",
+      "total": 72,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 47,
+        "truthfulness": 100,
+        "searchIntent": 42,
+        "channelIdentity": 60,
+        "ctrPotential": 57,
+        "novelty": 100,
+        "evergreenPotential": 75
+      },
+      "misleading": false
+    },
+    {
+      "title": "The System That Cannot Pause: High-lift Water Pump",
+      "pattern": "the-x-that",
+      "total": 72,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 40,
+        "specificity": 77,
+        "truthfulness": 70,
+        "searchIntent": 75,
+        "channelIdentity": 74,
+        "ctrPotential": 55,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "The Fragile Chain Built Around High-lift Water Pump",
+      "pattern": "statement",
+      "total": 71,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 40,
+        "specificity": 77,
+        "truthfulness": 70,
+        "searchIntent": 75,
+        "channelIdentity": 62,
+        "ctrPotential": 55,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": false
+    },
+    {
+      "title": "The Bottleneck Nobody Sees: High-lift Water Pump",
+      "pattern": "label-colon",
+      "total": 71,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 40,
+        "searchIntent": 75,
+        "channelIdentity": 74,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": true
+    },
+    {
+      "title": "Where High-lift Water Pump Fits in the Global Supply Chain",
+      "pattern": "statement",
+      "total": 70,
+      "scores": {
+        "clarity": 100,
+        "curiosity": 40,
+        "specificity": 77,
+        "truthfulness": 55,
+        "searchIntent": 83,
+        "channelIdentity": 74,
+        "ctrPotential": 55,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "misleading": true
+    }
+  ]
+}

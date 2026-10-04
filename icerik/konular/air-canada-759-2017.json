@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Airliner That Nearly Landed on Four Other Jets",
+  "kaynaklar": [
+    {
+      "ad": "air-canada-759-1.jpg",
+      "wikimedia": "Figure 1 (36308889826).jpg"
+    },
+    {
+      "ad": "air-canada-759-2.jpg",
+      "wikimedia": "Figure 2 (36308889706).jpg"
+    },
+    {
+      "ad": "air-canada-759-3.jpg",
+      "wikimedia": "N29961 Boeing 787-9 United (33239793633).jpg"
+    },
+    {
+      "ad": "air-canada-759-4.jpg",
+      "wikimedia": "RP-C3441 NGO 2017.jpg"
+    },
+    {
+      "ad": "air-canada-759-5.jpg",
+      "wikimedia": "Airbus A320-211 Air Canada C-FKCK 18 November 2019.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At night, an Airbus lined up to land on a crowded taxiway in San Francisco.",
+      "kaynak": "Footage/air-canada-759-1.jpg"
+    },
+    {
+      "metin": "Suddenly the crew went around, passing just feet above waiting jets.",
+      "kaynak": "Footage/air-canada-759-2.jpg"
+    },
+    {
+      "metin": "Four airliners were on that taxiway.",
+      "kaynak": "Footage/air-canada-759-3.jpg"
+    },
+    {
+      "metin": "One runway was closed, and its lights were off.",
+      "kaynak": "Footage/air-canada-759-4.jpg"
+    },
+    {
+      "metin": "The lit taxiway looked like the runway.",
+      "kaynak": "Footage/air-canada-759-5.jpg"
+    },
+    {
+      "metin": "The crew asked the tower but didn't realize their mistake.",
+      "kaynak": "Footage/air-canada-759-1.jpg"
+    },
+    {
+      "metin": "It was one of the closest calls in aviation history.",
+      "kaynak": "Footage/air-canada-759-2.jpg"
+    },
+    {
+      "metin": "New alerts now warn when an aircraft lines up on a taxiway.",
+      "kaynak": "Footage/air-canada-759-3.jpg"
+    }
+  ],
+  "aciklama": "Air Canada 759 lined up to land on an occupied taxiway. The cause: visual misidentification at night with one runway's lights turned off.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Air Canada 759",
+    "2017",
+    "taxiway",
+    "engineering failure"
+  ],
+  "hook": "Four jets below",
+  "soru": "How many near misses go unseen?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Air Canada Flight 759",
+    "kisa": "Air Canada 759",
+    "nesne": "Taxiway",
+    "yil": 2017,
+    "sonuc": "lined up to land on an occupied taxiway",
+    "tetik": "a closed parallel runway making the taxiway look like a runway",
+    "mekanizma": "visual misidentification at night with one runway's lights turned off",
+    "sayi": "FEET AWAY",
+    "ders": "airports and aircraft added alerts for aircraft lined up on taxiways",
+    "zincir": [
+      "ONE RUNWAY CLOSED AND DARK",
+      "TAXIWAY LOOKS LIKE RUNWAY",
+      "FOUR JETS WAITING ON IT",
+      "CREW ASKS, DOESN'T REALIZE",
+      "GO-AROUND AT THE LAST MOMENT"
+    ],
+    "zaman": [],
+    "yanilgi": "No one crashed, but it was one of the closest calls in aviation history.",
+    "tartisma": "There was no system to warn a crew lined up with a taxiway. How many near misses reach the news?",
+    "basliklar": [
+      "The Airliner That Nearly Landed on Four Other Jets",
+      "How Air Canada 759 Nearly Landed on Four Jets",
+      "The Taxiway That Looked Like a Runway"
+    ],
+    "kapak": [
+      "WRONG TARGET",
+      "FEET AWAY"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Air Canada Flight 759",
+        "url": "https://en.wikipedia.org/wiki/Air_Canada_Flight_759"
+      },
+      {
+        "ad": "NTSB — AIR1801 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AIR1801.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "Air_Canada_Flight_759",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Figure 1 (36308889826).jpg [Public domain]",
+      "Figure 2 (36308889706).jpg [Public domain]",
+      "N29961 Boeing 787-9 United (33239793633).jpg [CC BY 2.0]",
+      "RP-C3441 NGO 2017.jpg [CC BY 2.0]",
+      "Airbus A320-211 Air Canada C-FKCK 18 November 2019.jpg [CC BY 2.0]"
+    ]
+  }
+}

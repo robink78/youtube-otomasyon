@@ -1,0 +1,72 @@
+[
+  {
+    "channel": "critical-thread",
+    "slug": "why-high-lift-water-pump-is-so-hard-to-replace",
+    "videoId": "7q3E09HMIGI",
+    "baslik": "Inside High-lift Water Pump: The Hidden Dependency",
+    "tarih": "2026-09-30T16:16:25.781Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-09-30T18:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "upload"
+  },
+  {
+    "channel": "critical-thread",
+    "slug": "inside-the-system-built-around-road-tunnel-ventilation-system",
+    "videoId": "fGE8kZOaQZ4",
+    "baslik": "The Tunnel Fire That Closed the Alps for 3 Years",
+    "tarih": "2026-10-02T12:32:01.748Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-02T18:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "upload"
+  },
+  {
+    "channel": "critical-thread",
+    "slug": "what-quietly-depends-on-uninterruptible-power-supply",
+    "videoId": "hsuWhB8lCvU",
+    "baslik": "Why Servers Survive a Blackout",
+    "tarih": "2026-10-03T11:41:15.692Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-03T22:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "upload",
+    "idempotencyKey": "ae929e2c3be2796b6ba3cfbc41e92f5b16b5c0ecb19dbc2cbd6ba89452019045",
+    "mediaSha256": "c25ee85ec2fc3323a0364f610fa3772a0dce8ff46715452327f1748a26b1ed69"
+  },
+  {
+    "channel": "critical-thread",
+    "slug": "what-quietly-depends-on-uninterruptible-power-supply",
+    "videoId": "wG9a6kQL8Kc",
+    "baslik": "What Happens to Data Centres When the Grid Fails?",
+    "tarih": "2026-10-03T11:41:15.692Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-03T22:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "duplicate-guard",
+    "idempotencyKey": "7b76cce56f7a16630d53e314e69b138f15115cd83e841bb51c571b5365a4d2b4",
+    "mediaSha256": "6d8e2f59eb84ae42dd46ed9525f90867d62c3c337682339226a023adbe6fc429",
+    "replacementForVideoId": "hsuWhB8lCvU",
+    "replacementReason": "Re-rendered with corrected spoken-English opening, stronger title competition, semantic visual matching and final rendered visual-quality evidence.",
+    "replacementVersion": 1,
+    "originalVideoId": "hsuWhB8lCvU"
+  },
+  {
+    "channel": "critical-thread",
+    "slug": "why-nuclear-reactor-coolant-pump-is-so-hard-to-replace",
+    "videoId": "rAZ4cE4A0DE",
+    "baslik": "The Stuck Valve Behind Three Mile Island",
+    "tarih": "2026-10-04T12:23:50.066Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-04T22:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "upload",
+    "idempotencyKey": "940f6f72a6306f599a1d283f760ead1a1c3577017930dc48d6fdcbb882c693e7",
+    "mediaSha256": "c9e1021ed1dcbc40c7f9864c9cdca10be4a261785689e5e82c413334224cd435"
+  }
+]

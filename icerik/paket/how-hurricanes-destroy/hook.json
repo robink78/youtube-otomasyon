@@ -1,0 +1,50 @@
+{
+  "slug": "how-hurricanes-destroy",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.652Z",
+  "ekranHook": "Wind that peels off roofs",
+  "mevcut": {
+    "puan": 60,
+    "pencereler": {
+      "0-5": "A hurricane does not just push a house - it pulls it apart. Fast",
+      "5-12": "wind over a roof creates low pressure above it. That suction literally lifts the roof upward, like an airplane",
+      "12-20": "wing. Once the roof peels off, the walls lose their support. Then the wind gets inside and pushes the walls out. Flying",
+      "20-30": "debris turns into missiles that punch through anything. And the storm surge floods everything the wind did not take. This is why one weak roof strap can doom"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A hurricane does not just push a house - it pulls it apart."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only fast wind over the roof."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is wind uplift on the roof — and it is why houses tied together from roof to foundation survive."
+      }
+    ],
+    "metin": "A hurricane does not just push a house - it pulls it apart. It took only fast wind over the roof. So what actually happens inside? The answer is wind uplift on the roof — and it is why houses tied together from roof to foundation survive.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

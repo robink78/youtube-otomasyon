@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Tornado That Knocked Down a Historic Viaduct",
+  "kaynaklar": [
+    {
+      "ad": "kinzua-bridge-1.jpg",
+      "wikimedia": "Kinzuabridge1.jpg"
+    },
+    {
+      "ad": "kinzua-bridge-2.jpg",
+      "wikimedia": "Aerial view of Trestle Bridge over Kinzua Creek Valley - 01.jpg"
+    },
+    {
+      "ad": "kinzua-bridge-3.jpg",
+      "wikimedia": "As she once stood proud - panoramio.jpg"
+    },
+    {
+      "ad": "kinzua-bridge-4.jpg",
+      "wikimedia": "Head Kinzua Bridge, between Bradford and Mt. Jewett (72325).jpg"
+    },
+    {
+      "ad": "kinzua-bridge-5.jpg",
+      "wikimedia": "Kinzuabridge2.jpg"
+    },
+    {
+      "ad": "kinzua-bridge-6.jpg",
+      "wikimedia": "Train parked on bridge - panoramio.jpg"
+    },
+    {
+      "ad": "kinzua-bridge-7.jpg",
+      "wikimedia": "The great Kinzua Bridge near Alton, Pa, by Detlor & Waddell.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A tornado swept across a historic railway viaduct in Pennsylvania.",
+      "kaynak": "Footage/kinzua-bridge-1.jpg"
+    },
+    {
+      "metin": "Within seconds, its towers were ripped from their bases and fell.",
+      "kaynak": "Footage/kinzua-bridge-2.jpg"
+    },
+    {
+      "metin": "The viaduct was already closed for repairs.",
+      "kaynak": "Footage/kinzua-bridge-3.jpg"
+    },
+    {
+      "metin": "Its anchor bolts had badly corroded.",
+      "kaynak": "Footage/kinzua-bridge-4.jpg"
+    },
+    {
+      "metin": "They could no longer hold the towers to their footings.",
+      "kaynak": "Footage/kinzua-bridge-5.jpg"
+    },
+    {
+      "metin": "The wind knocked them over.",
+      "kaynak": "Footage/kinzua-bridge-6.jpg"
+    },
+    {
+      "metin": "Nobody was on it.",
+      "kaynak": "Footage/kinzua-bridge-7.jpg"
+    },
+    {
+      "metin": "The remaining span became a skywalk above the wreckage.",
+      "kaynak": "Footage/kinzua-bridge-1.jpg"
+    }
+  ],
+  "aciklama": "Kinzua Bridge was knocked down by a tornado. The cause: failure of rusted anchor bolts letting towers topple under wind load.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Kinzua Bridge",
+    "2003",
+    "viaduct",
+    "engineering failure"
+  ],
+  "hook": "The bolts had rusted",
+  "soru": "How do you prioritize landmarks?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Kinzua Viaduct",
+    "kisa": "Kinzua Bridge",
+    "nesne": "Viaduct",
+    "yil": 2003,
+    "sonuc": "was knocked down by a tornado",
+    "tetik": "tornado winds on towers with corroded anchor bolts",
+    "mekanizma": "failure of rusted anchor bolts letting towers topple under wind load",
+    "sayi": "TORNADO",
+    "ders": "the ruins were kept as a skywalk and monument to the failure",
+    "zincir": [
+      "HISTORIC IRON VIADUCT",
+      "ANCHOR BOLTS CORRODE",
+      "REPAIRS UNDER WAY",
+      "TORNADO STRIKES",
+      "TOWERS TOPPLE"
+    ],
+    "zaman": [],
+    "yanilgi": "The tornado wasn't extremely strong. The towers' anchor bolts had rusted badly.",
+    "tartisma": "The bridge was already closed for repairs. How do you prioritize fixing ageing landmarks?",
+    "basliklar": [
+      "The Tornado That Knocked Down a Historic Viaduct",
+      "Why the Kinzua Bridge Collapsed",
+      "The Rusted Bolts Under a Historic Viaduct"
+    ],
+    "kapak": [
+      "RUSTED BOLTS",
+      "TORNADO"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Kinzua Bridge",
+        "url": "https://en.wikipedia.org/wiki/Kinzua_Bridge"
+      },
+      {
+        "ad": "Government source — Weekly List FR Tuesday Feb 6 1979 listingyear1966 1978 (cited by Wikipedia)",
+        "url": "http://www.nps.gov/nr/listings/Weekly_List_FR-Tuesday-Feb-6-1979-listingyear1966-1978.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15",
+    "wiki": "Kinzua_Bridge",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Kinzuabridge1.jpg [Public domain]",
+      "Aerial view of Trestle Bridge over Kinzua Creek Valley - 01.jpg [Public domain]",
+      "As she once stood proud - panoramio.jpg [CC BY 3.0]",
+      "Head Kinzua Bridge, between Bradford and Mt. Jewett (72325).jpg [Public domain]",
+      "Kinzuabridge2.jpg [Public domain]",
+      "Train parked on bridge - panoramio.jpg [CC BY 3.0]",
+      "The great Kinzua Bridge near Alton, Pa, by Detlor & Waddell.jpg [Public domain]"
+    ]
+  }
+}

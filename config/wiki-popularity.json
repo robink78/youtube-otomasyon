@@ -1,0 +1,2091 @@
+{
+  "_note": "Average monthly human pageviews of each topic's own English Wikipedia article. Refresh with: node scripts/wiki-popularity.js",
+  "generatedAt": "2026-10-02T19:22:27.218Z",
+  "range": {
+    "start": "20251001",
+    "end": "20260901"
+  },
+  "articles": {
+    "16 Psyche": {
+      "monthlyViews": 8097
+    },
+    "1883 eruption of Krakatoa": {
+      "monthlyViews": 42649
+    },
+    "1902 eruption of Mount Pelée": {
+      "monthlyViews": 7112
+    },
+    "1906 San Francisco earthquake": {
+      "monthlyViews": 33120
+    },
+    "1925 Tri-State tornado": {
+      "monthlyViews": 15968
+    },
+    "1928 Okeechobee hurricane": {
+      "monthlyViews": 6697
+    },
+    "1938 New England hurricane": {
+      "monthlyViews": 3440
+    },
+    "1956 Grand Canyon mid-air collision": {
+      "monthlyViews": 10255
+    },
+    "1958 Lituya Bay earthquake and megatsunami": {
+      "monthlyViews": 27364
+    },
+    "1960 Valdivia earthquake": {
+      "monthlyViews": 32818
+    },
+    "1961 Goldsboro B-52 crash": {
+      "monthlyViews": 17212
+    },
+    "1964 Alaska earthquake": {
+      "monthlyViews": 18687
+    },
+    "1967 USS Forrestal fire": {
+      "monthlyViews": 8725
+    },
+    "1968 Thule Air Base B-52 crash": {
+      "monthlyViews": 12466
+    },
+    "1969 USS Enterprise fire": {
+      "monthlyViews": 401
+    },
+    "1970 Ancash earthquake": {
+      "monthlyViews": 5474
+    },
+    "1980 eruption of Mount St. Helens": {
+      "monthlyViews": 51931
+    },
+    "1985 Mexico City earthquake": {
+      "monthlyViews": 10635
+    },
+    "1987 Maryland train collision": {
+      "monthlyViews": 2310
+    },
+    "1988 Armenian earthquake": {
+      "monthlyViews": 5202
+    },
+    "1989 Loma Prieta earthquake": {
+      "monthlyViews": 31495
+    },
+    "1991 eruption of Mount Pinatubo": {
+      "monthlyViews": 15429
+    },
+    "1993 Milwaukee Cryptosporidium outbreak": {
+      "monthlyViews": 1266,
+      "resolvedTitle": "1993 Milwaukee cryptosporidiosis outbreak"
+    },
+    "1994 Fairchild Air Force Base B-52 crash": {
+      "monthlyViews": 15999
+    },
+    "1999 İzmit earthquake": {
+      "monthlyViews": 3787
+    },
+    "2003 Italy blackout": {
+      "monthlyViews": 499
+    },
+    "2004 Indian Ocean earthquake and tsunami": {
+      "monthlyViews": 133927
+    },
+    "2005 Buncefield fire": {
+      "monthlyViews": 6594,
+      "resolvedTitle": "Buncefield fire"
+    },
+    "2005 levee failures in Greater New Orleans": {
+      "monthlyViews": 2850,
+      "resolvedTitle": "Reconstruction of New Orleans"
+    },
+    "2006 Hengchun earthquakes": {
+      "monthlyViews": 273
+    },
+    "2008 Andersen Air Force Base B-2 accident": {
+      "monthlyViews": 3607,
+      "resolvedTitle": "2008 Andersen Air Force Base B-2 crash"
+    },
+    "2008 Chinese heparin adulteration": {
+      "monthlyViews": 354
+    },
+    "2008 Chinese milk scandal": {
+      "monthlyViews": 10554
+    },
+    "2008 Georgia sugar refinery explosion": {
+      "monthlyViews": 1958,
+      "resolvedTitle": "2008 Georgia Imperial Sugar refinery explosion"
+    },
+    "2008 Sichuan earthquake": {
+      "monthlyViews": 11463
+    },
+    "2008 submarine cable disruption": {
+      "monthlyViews": 409
+    },
+    "2009 L'Aquila earthquake": {
+      "monthlyViews": 2812
+    },
+    "2010 Haiti earthquake": {
+      "monthlyViews": 27317
+    },
+    "2010 San Bruno pipeline explosion": {
+      "monthlyViews": 3090,
+      "resolvedTitle": "San Bruno pipeline explosion"
+    },
+    "2010 eruptions of Eyjafjallajökull": {
+      "monthlyViews": 6533
+    },
+    "2010 flash crash": {
+      "monthlyViews": 7659
+    },
+    "2011 Germany E. coli O104:H4 outbreak": {
+      "monthlyViews": 669
+    },
+    "2011 Joplin tornado": {
+      "monthlyViews": 60419,
+      "resolvedTitle": "Joplin tornado"
+    },
+    "2011 Southwest blackout": {
+      "monthlyViews": 1141
+    },
+    "2011 Thailand floods": {
+      "monthlyViews": 1559
+    },
+    "2011 Tōhoku earthquake and tsunami": {
+      "monthlyViews": 89898
+    },
+    "2013 Moore tornado": {
+      "monthlyViews": 17052
+    },
+    "2013 horse meat scandal": {
+      "monthlyViews": 9172
+    },
+    "2014 East Harlem gas explosion": {
+      "monthlyViews": 564
+    },
+    "2014 Kaohsiung gas explosions": {
+      "monthlyViews": 645
+    },
+    "2014 Oso mudslide": {
+      "monthlyViews": 3416,
+      "resolvedTitle": "2014 Oso landslide"
+    },
+    "2015 Philadelphia train derailment": {
+      "monthlyViews": 2780
+    },
+    "2015 Tianjin explosions": {
+      "monthlyViews": 17159
+    },
+    "2017 Ukraine ransomware attacks": {
+      "monthlyViews": 2804
+    },
+    "2017 Washington train derailment": {
+      "monthlyViews": 2937
+    },
+    "2018 Cayce, South Carolina train collision": {
+      "monthlyViews": 315,
+      "resolvedTitle": "Cayce, South Carolina, train collision"
+    },
+    "2018 Hawaii false missile alert": {
+      "monthlyViews": 16641
+    },
+    "2018 lower Puna eruption": {
+      "monthlyViews": 2299
+    },
+    "2020 Beirut explosion": {
+      "monthlyViews": 56988
+    },
+    "2020–2023 global chip shortage": {
+      "monthlyViews": 4143
+    },
+    "2021 Suez Canal obstruction": {
+      "monthlyViews": 17855
+    },
+    "2021 Texas power crisis": {
+      "monthlyViews": 12093
+    },
+    "2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami": {
+      "monthlyViews": 13691
+    },
+    "2022 Nord Stream pipeline sabotage": {
+      "monthlyViews": 13968,
+      "resolvedTitle": "Nord Stream pipelines sabotage"
+    },
+    "2022 Rogers Communications outage": {
+      "monthlyViews": 1108
+    },
+    "2022 United States infant formula shortage": {
+      "monthlyViews": 815
+    },
+    "2023 Derna dam collapse": {
+      "monthlyViews": 2965,
+      "resolvedTitle": "Derna dam collapses"
+    },
+    "2023 FAA system outage": {
+      "monthlyViews": 889
+    },
+    "2023 Hawaii wildfires": {
+      "monthlyViews": 20273
+    },
+    "2023 Interstate 95 highway collapse": {
+      "monthlyViews": 1327
+    },
+    "2023 Optus outage": {
+      "monthlyViews": 673
+    },
+    "2024 CrowdStrike-related IT outages": {
+      "monthlyViews": 13686
+    },
+    "2025 Iberian Peninsula blackout": {
+      "monthlyViews": 10094
+    },
+    "55 Cancri e": {
+      "monthlyViews": 3186,
+      "resolvedTitle": "55 Cancri Ae"
+    },
+    "9-1-1": {
+      "monthlyViews": 12901,
+      "resolvedTitle": "911 (emergency telephone number)"
+    },
+    "99942 Apophis": {
+      "monthlyViews": 26615
+    },
+    "ARA San Juan (S-42)": {
+      "monthlyViews": 3962
+    },
+    "Aberfan disaster": {
+      "monthlyViews": 68710
+    },
+    "Absolute zero": {
+      "monthlyViews": 20526
+    },
+    "Adam Air Flight 574": {
+      "monthlyViews": 6830
+    },
+    "African humid period": {
+      "monthlyViews": 11458
+    },
+    "Air Canada Flight 759": {
+      "monthlyViews": 6230
+    },
+    "Air Florida Flight 90": {
+      "monthlyViews": 21004
+    },
+    "Air France Flight 447": {
+      "monthlyViews": 52445
+    },
+    "Air travel disruption after the 2010 Eyjafjallajökull eruption": {
+      "monthlyViews": 2772
+    },
+    "Airbus A400M Atlas": {
+      "monthlyViews": 41715
+    },
+    "Airship Italia": {
+      "monthlyViews": 2171,
+      "resolvedTitle": "Italia (airship)"
+    },
+    "Ajka alumina plant accident": {
+      "monthlyViews": 2371
+    },
+    "Alaska Airlines Flight 261": {
+      "monthlyViews": 49927
+    },
+    "Alexander L. Kielland (platform)": {
+      "monthlyViews": 3968
+    },
+    "Almond": {
+      "monthlyViews": 26991
+    },
+    "Aloha Airlines Flight 243": {
+      "monthlyViews": 20989
+    },
+    "Alpheidae": {
+      "monthlyViews": 11684
+    },
+    "Aluminum can": {
+      "monthlyViews": 1728
+    },
+    "Amagasaki derailment": {
+      "monthlyViews": 5095
+    },
+    "Amazon rainforest": {
+      "monthlyViews": 54544
+    },
+    "American Airlines Flight 1420": {
+      "monthlyViews": 6312
+    },
+    "American Airlines Flight 191": {
+      "monthlyViews": 73208
+    },
+    "American Airlines Flight 587": {
+      "monthlyViews": 34946
+    },
+    "American Eagle Flight 4184": {
+      "monthlyViews": 7691
+    },
+    "Amoco Cadiz": {
+      "monthlyViews": 4232
+    },
+    "Anatoli Bugorski": {
+      "monthlyViews": 21206
+    },
+    "Angus Barbieri's fast": {
+      "monthlyViews": 29530
+    },
+    "Ant": {
+      "monthlyViews": 32365
+    },
+    "Antarctic ice sheet": {
+      "monthlyViews": 6615
+    },
+    "Apollo 1": {
+      "monthlyViews": 76578
+    },
+    "Apollo 12": {
+      "monthlyViews": 25141
+    },
+    "Apollo 13": {
+      "monthlyViews": 127982
+    },
+    "Apollo 6": {
+      "monthlyViews": 13083
+    },
+    "Aral Sea": {
+      "monthlyViews": 48008
+    },
+    "Ariane flight V88": {
+      "monthlyViews": 3022
+    },
+    "Armero tragedy": {
+      "monthlyViews": 13724
+    },
+    "Arrow Air Flight 1285R": {
+      "monthlyViews": 9995
+    },
+    "Artemis program": {
+      "monthlyViews": 135658
+    },
+    "Ashtabula River railroad disaster": {
+      "monthlyViews": 1851
+    },
+    "Asiana Airlines Flight 214": {
+      "monthlyViews": 24997
+    },
+    "Atacama Desert": {
+      "monthlyViews": 24554
+    },
+    "Atlantic meridional overturning circulation": {
+      "monthlyViews": 21040
+    },
+    "Atmosphere of Earth": {
+      "monthlyViews": 34146
+    },
+    "Atomic clock": {
+      "monthlyViews": 17385
+    },
+    "Aurora": {
+      "monthlyViews": 64449
+    },
+    "Automatic Dependent Surveillance–Broadcast": {
+      "monthlyViews": 8569
+    },
+    "Automatic identification system": {
+      "monthlyViews": 7775
+    },
+    "Avalanche": {
+      "monthlyViews": 14898
+    },
+    "Avianca Flight 052": {
+      "monthlyViews": 9476
+    },
+    "Axial tilt": {
+      "monthlyViews": 10268
+    },
+    "BOAC Flight 781": {
+      "monthlyViews": 4457
+    },
+    "Bab-el-Mandeb": {
+      "monthlyViews": 0,
+      "resolvedTitle": "Bab al-Mandab Strait"
+    },
+    "Bad Reichenhall Ice Rink roof collapse": {
+      "monthlyViews": 235,
+      "resolvedTitle": "Bad Reichenhall Ice Rink"
+    },
+    "Bailey Yard": {
+      "monthlyViews": 1594
+    },
+    "Bath County Pumped Storage Station": {
+      "monthlyViews": 1273
+    },
+    "Betelgeuse": {
+      "monthlyViews": 45832
+    },
+    "Big Bayou Canot rail accident": {
+      "monthlyViews": 4081
+    },
+    "Black start": {
+      "monthlyViews": 2356
+    },
+    "Blood bank": {
+      "monthlyViews": 1699
+    },
+    "Boeing 787 Dreamliner battery problems": {
+      "monthlyViews": 4021,
+      "resolvedTitle": "2013 Boeing 787 Dreamliner grounding"
+    },
+    "Boeing Orbital Flight Test": {
+      "monthlyViews": 349
+    },
+    "Border Gateway Protocol": {
+      "monthlyViews": 10685
+    },
+    "Bosporus": {
+      "monthlyViews": 24221
+    },
+    "Bourbon Dolphin": {
+      "monthlyViews": 211,
+      "resolvedTitle": "AHTS Bourbon Dolphin"
+    },
+    "Boötes void": {
+      "monthlyViews": 18857,
+      "resolvedTitle": "Boötes Void"
+    },
+    "Breakthrough Starshot": {
+      "monthlyViews": 9266
+    },
+    "British Airways Flight 38": {
+      "monthlyViews": 15332
+    },
+    "Browns Ferry Nuclear Plant": {
+      "monthlyViews": 2508
+    },
+    "Brumadinho dam disaster": {
+      "monthlyViews": 3541
+    },
+    "Bushveld Igneous Complex": {
+      "monthlyViews": 1548
+    },
+    "CLS Group": {
+      "monthlyViews": 1651
+    },
+    "CONTOUR": {
+      "monthlyViews": 466
+    },
+    "CTV Building": {
+      "monthlyViews": 1946
+    },
+    "Cable layer": {
+      "monthlyViews": 1392
+    },
+    "Caesium standard": {
+      "monthlyViews": 4331
+    },
+    "Caldecott Tunnel fire": {
+      "monthlyViews": 879
+    },
+    "Camp Fire (2018)": {
+      "monthlyViews": 85928
+    },
+    "Carbon monoxide poisoning": {
+      "monthlyViews": 16299
+    },
+    "Carrington Event": {
+      "monthlyViews": 53329
+    },
+    "Cascading failure": {
+      "monthlyViews": 2126
+    },
+    "Castle Bravo": {
+      "monthlyViews": 33757
+    },
+    "Cavalese cable-car disaster (1976)": {
+      "monthlyViews": 2031,
+      "resolvedTitle": "1976 Cavalese cable car crash"
+    },
+    "Cement kiln": {
+      "monthlyViews": 1367
+    },
+    "Centralia mine fire": {
+      "monthlyViews": 22192
+    },
+    "Ceres (dwarf planet)": {
+      "monthlyViews": 46784
+    },
+    "Cerro Grande Fire": {
+      "monthlyViews": 630
+    },
+    "Challenger Deep": {
+      "monthlyViews": 29044
+    },
+    "Charles Osborne (hiccups)": {
+      "monthlyViews": 1756,
+      "resolvedTitle": "Charles Osborne (farmer)"
+    },
+    "Chernobyl disaster": {
+      "monthlyViews": 348242
+    },
+    "Cherry Mine disaster": {
+      "monthlyViews": 854,
+      "resolvedTitle": "1909 Cherry Mine disaster"
+    },
+    "Chevrolet Corvair": {
+      "monthlyViews": 13237
+    },
+    "Chicxulub crater": {
+      "monthlyViews": 109590
+    },
+    "China Airlines Flight 140": {
+      "monthlyViews": 7420
+    },
+    "Chloralkali process": {
+      "monthlyViews": 3759
+    },
+    "Clapham Junction rail crash": {
+      "monthlyViews": 3864
+    },
+    "Coalbrook mining disaster": {
+      "monthlyViews": 827
+    },
+    "Cobalt": {
+      "monthlyViews": 28425
+    },
+    "Colgan Air Flight 3407": {
+      "monthlyViews": 17670
+    },
+    "Collapse of Silicon Valley Bank": {
+      "monthlyViews": 6136
+    },
+    "Collinwood school fire": {
+      "monthlyViews": 1548
+    },
+    "Colonial Pipeline ransomware attack": {
+      "monthlyViews": 6205
+    },
+    "Coltan": {
+      "monthlyViews": 8094
+    },
+    "Comair Flight 5191": {
+      "monthlyViews": 16547
+    },
+    "Comet Shoemaker–Levy 9": {
+      "monthlyViews": 10891
+    },
+    "Concrete degradation": {
+      "monthlyViews": 1152
+    },
+    "Congenital insensitivity to pain": {
+      "monthlyViews": 9513
+    },
+    "Container crane": {
+      "monthlyViews": 1248
+    },
+    "Continental Airlines Flight 1404": {
+      "monthlyViews": 3203
+    },
+    "Continental Airlines Flight 1713": {
+      "monthlyViews": 8058
+    },
+    "Controlled Impact Demonstration": {
+      "monthlyViews": 1346
+    },
+    "Controlled atmosphere": {
+      "monthlyViews": 301
+    },
+    "Coral reef": {
+      "monthlyViews": 18982
+    },
+    "Coriolis force": {
+      "monthlyViews": 18776
+    },
+    "Corrosion": {
+      "monthlyViews": 47194
+    },
+    "Cospas-Sarsat": {
+      "monthlyViews": 1535,
+      "resolvedTitle": "International Cospas-Sarsat Programme"
+    },
+    "Costa Concordia disaster": {
+      "monthlyViews": 112671
+    },
+    "Courrières mine disaster": {
+      "monthlyViews": 2286
+    },
+    "Crandall Canyon Mine": {
+      "monthlyViews": 1482
+    },
+    "Cultured meat": {
+      "monthlyViews": 9831
+    },
+    "Cuyahoga River Fire": {
+      "monthlyViews": 7157,
+      "resolvedTitle": "Cuyahoga River"
+    },
+    "Cygnus Orb-3": {
+      "monthlyViews": 529
+    },
+    "Cypress Street Viaduct": {
+      "monthlyViews": 2325
+    },
+    "Czochralski method": {
+      "monthlyViews": 4139
+    },
+    "DART (satellite)": {
+      "monthlyViews": 316
+    },
+    "DE-CIX": {
+      "monthlyViews": 939
+    },
+    "Death Valley": {
+      "monthlyViews": 32968
+    },
+    "Deepwater Horizon explosion": {
+      "monthlyViews": 22231
+    },
+    "Delhi Dam": {
+      "monthlyViews": 165
+    },
+    "Delta Air Lines Flight 1288": {
+      "monthlyViews": 2445
+    },
+    "Delta Air Lines Flight 191": {
+      "monthlyViews": 18901
+    },
+    "Delta Air Lines Flight 723": {
+      "monthlyViews": 2287
+    },
+    "Denver International Airport": {
+      "monthlyViews": 36281
+    },
+    "Depository Trust & Clearing Corporation": {
+      "monthlyViews": 5468
+    },
+    "Diamagnetism": {
+      "monthlyViews": 6039
+    },
+    "Diamond": {
+      "monthlyViews": 41413
+    },
+    "DigiNotar": {
+      "monthlyViews": 1449
+    },
+    "Direct air capture": {
+      "monthlyViews": 2652
+    },
+    "Double Asteroid Redirection Test": {
+      "monthlyViews": 7870
+    },
+    "Dust Bowl": {
+      "monthlyViews": 46133
+    },
+    "E-ZPass": {
+      "monthlyViews": 16489
+    },
+    "EUR-pallet": {
+      "monthlyViews": 4258
+    },
+    "Earth's inner core": {
+      "monthlyViews": 12845
+    },
+    "Earth's magnetic field": {
+      "monthlyViews": 16040
+    },
+    "Earth's rotation": {
+      "monthlyViews": 20397
+    },
+    "East Palestine train derailment": {
+      "monthlyViews": 10664,
+      "resolvedTitle": "East Palestine, Ohio, train derailment"
+    },
+    "East Palestine, Ohio, train derailment": {
+      "monthlyViews": 10664
+    },
+    "Eastern Air Lines Flight 212": {
+      "monthlyViews": 9756
+    },
+    "Edenville Dam": {
+      "monthlyViews": 952
+    },
+    "Effect of spaceflight on the human body": {
+      "monthlyViews": 5520
+    },
+    "Effects of high altitude on humans": {
+      "monthlyViews": 6708
+    },
+    "Ehime Maru and USS Greeneville collision": {
+      "monthlyViews": 5956
+    },
+    "Eiffel Tower": {
+      "monthlyViews": 115100
+    },
+    "Electronic waste": {
+      "monthlyViews": 5964
+    },
+    "Elevator": {
+      "monthlyViews": 12521
+    },
+    "Enceladus": {
+      "monthlyViews": 20156
+    },
+    "Eschede train disaster": {
+      "monthlyViews": 7208
+    },
+    "Escondida": {
+      "monthlyViews": 1841
+    },
+    "Ethylene": {
+      "monthlyViews": 11669
+    },
+    "Europa (moon)": {
+      "monthlyViews": 38271
+    },
+    "Extreme ultraviolet lithography": {
+      "monthlyViews": 1896,
+      "resolvedTitle": "EUV lithography"
+    },
+    "Exxon Valdez oil spill": {
+      "monthlyViews": 21974
+    },
+    "Fatberg": {
+      "monthlyViews": 7408
+    },
+    "Fatigue (material)": {
+      "monthlyViews": 5212
+    },
+    "Fern Hollow Bridge": {
+      "monthlyViews": 1414
+    },
+    "Firestone and Ford tire controversy": {
+      "monthlyViews": 3320
+    },
+    "Flash flood": {
+      "monthlyViews": 10814
+    },
+    "Flashover": {
+      "monthlyViews": 11265
+    },
+    "Flint water crisis": {
+      "monthlyViews": 19927
+    },
+    "Florida International University pedestrian bridge collapse": {
+      "monthlyViews": 3920
+    },
+    "Ford Pinto": {
+      "monthlyViews": 19646
+    },
+    "Francis Scott Key Bridge collapse": {
+      "monthlyViews": 26438
+    },
+    "Frank Slide": {
+      "monthlyViews": 5345
+    },
+    "Free surface effect": {
+      "monthlyViews": 1852
+    },
+    "Fresh Kills Landfill": {
+      "monthlyViews": 5253
+    },
+    "Fukushima nuclear accident": {
+      "monthlyViews": 91792
+    },
+    "Fungus": {
+      "monthlyViews": 40216
+    },
+    "GPS week number rollover": {
+      "monthlyViews": 2727
+    },
+    "GW170817": {
+      "monthlyViews": 3216
+    },
+    "Galileo (satellite navigation)": {
+      "monthlyViews": 3464,
+      "resolvedTitle": "Galileo (satellite navigation system)"
+    },
+    "Galileo (spacecraft)": {
+      "monthlyViews": 8979
+    },
+    "Gallium": {
+      "monthlyViews": 16892
+    },
+    "Gamma-ray burst": {
+      "monthlyViews": 12747
+    },
+    "Gas centrifuge": {
+      "monthlyViews": 2843
+    },
+    "Gas explosion": {
+      "monthlyViews": 1481
+    },
+    "Gemini 6A": {
+      "monthlyViews": 3435
+    },
+    "Gemini 8": {
+      "monthlyViews": 11764
+    },
+    "General average": {
+      "monthlyViews": 1116
+    },
+    "Genesis (spacecraft)": {
+      "monthlyViews": 1601
+    },
+    "Geostationary orbit": {
+      "monthlyViews": 10177
+    },
+    "Glass": {
+      "monthlyViews": 21949
+    },
+    "Gleno Dam": {
+      "monthlyViews": 1304
+    },
+    "Global Positioning System": {
+      "monthlyViews": 37960
+    },
+    "Gol Transportes Aéreos Flight 1907": {
+      "monthlyViews": 16520
+    },
+    "Gotthard Base Tunnel": {
+      "monthlyViews": 12062
+    },
+    "Gotthard Road Tunnel": {
+      "monthlyViews": 3712
+    },
+    "Grain elevator": {
+      "monthlyViews": 3854
+    },
+    "Graniteville train crash": {
+      "monthlyViews": 1427
+    },
+    "Gravity of Earth": {
+      "monthlyViews": 15067
+    },
+    "Gravity train": {
+      "monthlyViews": 1072
+    },
+    "Great Attractor": {
+      "monthlyViews": 28769
+    },
+    "Great Boston Fire of 1872": {
+      "monthlyViews": 1726
+    },
+    "Great Chicago Fire": {
+      "monthlyViews": 36522
+    },
+    "Great Dayton Flood": {
+      "monthlyViews": 929
+    },
+    "Great Fire of 1910": {
+      "monthlyViews": 4300
+    },
+    "Great Flood of 1993": {
+      "monthlyViews": 6840
+    },
+    "Great Hanshin earthquake": {
+      "monthlyViews": 5923,
+      "resolvedTitle": "1995 Hanshin earthquake"
+    },
+    "Great Mississippi Flood of 1927": {
+      "monthlyViews": 6151
+    },
+    "Great Molasses Flood": {
+      "monthlyViews": 53031
+    },
+    "Great Pacific Garbage Patch": {
+      "monthlyViews": 22546
+    },
+    "Great Red Spot": {
+      "monthlyViews": 19660
+    },
+    "Great Sheffield Flood": {
+      "monthlyViews": 1136
+    },
+    "Great Smog of London": {
+      "monthlyViews": 27166
+    },
+    "Grenfell Tower fire": {
+      "monthlyViews": 55659
+    },
+    "HMS Thetis (N25)": {
+      "monthlyViews": 2225
+    },
+    "Haber process": {
+      "monthlyViews": 25374
+    },
+    "Halifax Explosion": {
+      "monthlyViews": 57719
+    },
+    "Halley's Comet": {
+      "monthlyViews": 63833
+    },
+    "Hammersmith Bridge": {
+      "monthlyViews": 3261
+    },
+    "Harrow and Wealdstone rail crash": {
+      "monthlyViews": 5097
+    },
+    "High-altitude cooking": {
+      "monthlyViews": 1462
+    },
+    "High-voltage direct current": {
+      "monthlyViews": 7399
+    },
+    "Hindenburg disaster": {
+      "monthlyViews": 74380
+    },
+    "Hitomi (satellite)": {
+      "monthlyViews": 668
+    },
+    "Hoboken train crash": {
+      "monthlyViews": 1154,
+      "resolvedTitle": "2016 Hoboken train crash"
+    },
+    "Hope Slide": {
+      "monthlyViews": 1477
+    },
+    "Hubble Space Telescope": {
+      "monthlyViews": 42794
+    },
+    "Hughes Airwest Flight 706": {
+      "monthlyViews": 6020
+    },
+    "Human brain": {
+      "monthlyViews": 26472
+    },
+    "Human genome": {
+      "monthlyViews": 10612
+    },
+    "Human microbiome": {
+      "monthlyViews": 4209
+    },
+    "Human skeleton": {
+      "monthlyViews": 12651
+    },
+    "Hurricane Andrew": {
+      "monthlyViews": 18923
+    },
+    "Hurricane Maria": {
+      "monthlyViews": 17333
+    },
+    "Hurricane Sandy": {
+      "monthlyViews": 27998
+    },
+    "Hurricane tie": {
+      "monthlyViews": 340,
+      "resolvedTitle": "Tie (engineering)"
+    },
+    "Hyatt Regency walkway collapse": {
+      "monthlyViews": 29000
+    },
+    "Hyperloop": {
+      "monthlyViews": 12079
+    },
+    "Hyperthymesia": {
+      "monthlyViews": 25723
+    },
+    "I-10 Twin Span Bridge": {
+      "monthlyViews": 1247
+    },
+    "I-35W Mississippi River bridge": {
+      "monthlyViews": 8789
+    },
+    "I-5 Skagit River bridge collapse": {
+      "monthlyViews": 673
+    },
+    "IKAROS": {
+      "monthlyViews": 2577
+    },
+    "IPv4 address exhaustion": {
+      "monthlyViews": 6729
+    },
+    "ITER": {
+      "monthlyViews": 18435
+    },
+    "Ice": {
+      "monthlyViews": 18295
+    },
+    "Imperial Foods chicken plant fire": {
+      "monthlyViews": 1953,
+      "resolvedTitle": "Hamlet chicken processing plant fire"
+    },
+    "Industrial robot": {
+      "monthlyViews": 3221
+    },
+    "Instrument landing system": {
+      "monthlyViews": 8489
+    },
+    "Intermodal container": {
+      "monthlyViews": 10628
+    },
+    "Internal erosion": {
+      "monthlyViews": 194
+    },
+    "International Prototype of the Kilogram": {
+      "monthlyViews": 3672
+    },
+    "International Space Station": {
+      "monthlyViews": 116662
+    },
+    "Io (moon)": {
+      "monthlyViews": 33591
+    },
+    "Iroquois Theatre fire": {
+      "monthlyViews": 11330
+    },
+    "Ixtoc I oil spill": {
+      "monthlyViews": 3208
+    },
+    "Jackson, Mississippi water crisis": {
+      "monthlyViews": 291,
+      "resolvedTitle": "Jackson, Mississippi, water crisis"
+    },
+    "Japan Air Lines Flight 123": {
+      "monthlyViews": 60734
+    },
+    "Jeanne Calment": {
+      "monthlyViews": 78847
+    },
+    "John Hancock Tower": {
+      "monthlyViews": 6060
+    },
+    "Johnstown Flood": {
+      "monthlyViews": 22082
+    },
+    "June 2009 Washington Metro train collision": {
+      "monthlyViews": 2025
+    },
+    "Jupiter": {
+      "monthlyViews": 126781
+    },
+    "Kessler syndrome": {
+      "monthlyViews": 26001
+    },
+    "Kigali Amendment": {
+      "monthlyViews": 1413
+    },
+    "Kingdome": {
+      "monthlyViews": 11913
+    },
+    "Kingston Fossil Plant coal fly ash slurry spill": {
+      "monthlyViews": 2623
+    },
+    "Kinzua Bridge": {
+      "monthlyViews": 3107
+    },
+    "Knickerbocker Storm": {
+      "monthlyViews": 716,
+      "resolvedTitle": "Knickerbocker storm"
+    },
+    "Knight Capital Group": {
+      "monthlyViews": 6084
+    },
+    "Kola Superdeep Borehole": {
+      "monthlyViews": 55046
+    },
+    "LIGO": {
+      "monthlyViews": 15430
+    },
+    "LK-99": {
+      "monthlyViews": 3660
+    },
+    "Lac-Mégantic rail disaster": {
+      "monthlyViews": 17224
+    },
+    "Lake Baikal": {
+      "monthlyViews": 58838
+    },
+    "Lake Nyos disaster": {
+      "monthlyViews": 31875
+    },
+    "Laki": {
+      "monthlyViews": 5429
+    },
+    "Landfill gas": {
+      "monthlyViews": 1160
+    },
+    "Last Glacial Maximum": {
+      "monthlyViews": 14656
+    },
+    "Leaning Tower of Pisa": {
+      "monthlyViews": 45500
+    },
+    "Leap second": {
+      "monthlyViews": 10563
+    },
+    "Liberty ship": {
+      "monthlyViews": 16349
+    },
+    "Lightning": {
+      "monthlyViews": 29536
+    },
+    "Lion Air Flight 610": {
+      "monthlyViews": 19316
+    },
+    "Liquefied natural gas": {
+      "monthlyViews": 16335
+    },
+    "Liquid helium": {
+      "monthlyViews": 3845
+    },
+    "Lloyd's Register": {
+      "monthlyViews": 4093
+    },
+    "Loran-C": {
+      "monthlyViews": 2293
+    },
+    "Love Canal": {
+      "monthlyViews": 16879
+    },
+    "Lower Van Norman Dam": {
+      "monthlyViews": 406,
+      "resolvedTitle": "Van Norman Dams"
+    },
+    "M2-F2": {
+      "monthlyViews": 1740,
+      "resolvedTitle": "Northrop M2-F2"
+    },
+    "MGM Grand fire": {
+      "monthlyViews": 8343
+    },
+    "MS Estonia": {
+      "monthlyViews": 14091
+    },
+    "MV Golden Ray": {
+      "monthlyViews": 530,
+      "resolvedTitle": "Golden Ray"
+    },
+    "MV Rena": {
+      "monthlyViews": 551
+    },
+    "MacArthur Maze": {
+      "monthlyViews": 1529
+    },
+    "Magnetar": {
+      "monthlyViews": 11160
+    },
+    "Mandala Airlines Flight 091": {
+      "monthlyViews": 1558
+    },
+    "Mann Gulch fire": {
+      "monthlyViews": 2654
+    },
+    "Mariana dam disaster": {
+      "monthlyViews": 6882
+    },
+    "Mariner 1": {
+      "monthlyViews": 1355
+    },
+    "Mars": {
+      "monthlyViews": 99338
+    },
+    "Mars 96": {
+      "monthlyViews": 790
+    },
+    "Mars Climate Orbiter": {
+      "monthlyViews": 8563
+    },
+    "Mars Global Surveyor": {
+      "monthlyViews": 2539
+    },
+    "Mars Pathfinder": {
+      "monthlyViews": 8582
+    },
+    "Mars Polar Lander": {
+      "monthlyViews": 1779
+    },
+    "Mary Rose": {
+      "monthlyViews": 14363
+    },
+    "Memphis International Airport": {
+      "monthlyViews": 7771
+    },
+    "Mercury (planet)": {
+      "monthlyViews": 76971
+    },
+    "Mercury-Atlas 1": {
+      "monthlyViews": 1018
+    },
+    "Mercury-Redstone 1": {
+      "monthlyViews": 2420
+    },
+    "Merrimack Valley gas explosions": {
+      "monthlyViews": 2013
+    },
+    "Messinian salinity crisis": {
+      "monthlyViews": 10436
+    },
+    "Metcalf sniper attack": {
+      "monthlyViews": 2186,
+      "resolvedTitle": "2013 Metcalf sniper attack"
+    },
+    "Michel Siffre": {
+      "monthlyViews": 3855
+    },
+    "Midwest Express Airlines Flight 105": {
+      "monthlyViews": 3058
+    },
+    "Mill River Flood of 1874": {
+      "monthlyViews": 239,
+      "resolvedTitle": "Mill River (Northampton, Massachusetts)"
+    },
+    "Millennium Bridge, London": {
+      "monthlyViews": 6504
+    },
+    "Millennium Tower (San Francisco)": {
+      "monthlyViews": 6709
+    },
+    "Minamata disease": {
+      "monthlyViews": 16334
+    },
+    "Monongah mining disaster": {
+      "monthlyViews": 2226
+    },
+    "Mont Blanc Tunnel": {
+      "monthlyViews": 4285
+    },
+    "Montara oil spill": {
+      "monthlyViews": 496
+    },
+    "Montparnasse derailment": {
+      "monthlyViews": 6166
+    },
+    "Moon": {
+      "monthlyViews": 166103
+    },
+    "Mosquito": {
+      "monthlyViews": 37716
+    },
+    "Moss Landing Power Plant": {
+      "monthlyViews": 1940
+    },
+    "Mount Polley mine disaster": {
+      "monthlyViews": 644,
+      "resolvedTitle": "Mount Polley mine"
+    },
+    "Mount Vesuvius": {
+      "monthlyViews": 52288
+    },
+    "Munich air disaster": {
+      "monthlyViews": 30419
+    },
+    "N1 (rocket)": {
+      "monthlyViews": 18568
+    },
+    "NASA Deep Space Network": {
+      "monthlyViews": 10320
+    },
+    "NASA Helios": {
+      "monthlyViews": 1019,
+      "resolvedTitle": "AeroVironment Helios Prototype"
+    },
+    "NOAA-19": {
+      "monthlyViews": 1161
+    },
+    "Nanfang'ao Bridge": {
+      "monthlyViews": 347
+    },
+    "National Airlines Flight 102": {
+      "monthlyViews": 10504
+    },
+    "National Ignition Facility": {
+      "monthlyViews": 5081
+    },
+    "Neodymium magnet": {
+      "monthlyViews": 9755
+    },
+    "Neon": {
+      "monthlyViews": 18229
+    },
+    "Neptune": {
+      "monthlyViews": 78883
+    },
+    "Neuralink": {
+      "monthlyViews": 28823
+    },
+    "Neutrino": {
+      "monthlyViews": 26737
+    },
+    "Neutron star": {
+      "monthlyViews": 38030
+    },
+    "New London School explosion": {
+      "monthlyViews": 8237
+    },
+    "Nitrogen cycle": {
+      "monthlyViews": 7509
+    },
+    "Norman Borlaug": {
+      "monthlyViews": 16152
+    },
+    "North American XB-70 Valkyrie": {
+      "monthlyViews": 26180
+    },
+    "North Sea flood of 1953": {
+      "monthlyViews": 8062
+    },
+    "Northeast blackout of 2003": {
+      "monthlyViews": 20072
+    },
+    "Northridge earthquake": {
+      "monthlyViews": 22867,
+      "resolvedTitle": "1994 Northridge earthquake"
+    },
+    "Notre-Dame de Paris fire": {
+      "monthlyViews": 22717,
+      "resolvedTitle": "Notre-Dame fire"
+    },
+    "OCP Group": {
+      "monthlyViews": 2591
+    },
+    "ONE Apus": {
+      "monthlyViews": 365
+    },
+    "Oaks explosion": {
+      "monthlyViews": 1010
+    },
+    "Ocean Ranger": {
+      "monthlyViews": 7627
+    },
+    "Ogallala Aquifer": {
+      "monthlyViews": 11068
+    },
+    "Oh-My-God particle": {
+      "monthlyViews": 16181
+    },
+    "Ohio River flood of 1937": {
+      "monthlyViews": 2089
+    },
+    "Old River Control Structure": {
+      "monthlyViews": 3261
+    },
+    "Olive View–UCLA Medical Center": {
+      "monthlyViews": 621
+    },
+    "Olympus Mons": {
+      "monthlyViews": 57539
+    },
+    "Operation Crossroads": {
+      "monthlyViews": 18705
+    },
+    "Operation National Sword": {
+      "monthlyViews": 403
+    },
+    "Operation Stack": {
+      "monthlyViews": 460
+    },
+    "Oppau explosion": {
+      "monthlyViews": 4124
+    },
+    "Opportunity (rover)": {
+      "monthlyViews": 14817
+    },
+    "Orbiting Carbon Observatory": {
+      "monthlyViews": 267
+    },
+    "Oroville Dam crisis": {
+      "monthlyViews": 2087
+    },
+    "Overpressure": {
+      "monthlyViews": 1726
+    },
+    "Ozone depletion": {
+      "monthlyViews": 11344
+    },
+    "PS General Slocum": {
+      "monthlyViews": 8181
+    },
+    "PS Lady Elgin": {
+      "monthlyViews": 1221
+    },
+    "PSR J1748−2446ad": {
+      "monthlyViews": 4253
+    },
+    "Palm oil": {
+      "monthlyViews": 21755
+    },
+    "Pan Am Flight 214": {
+      "monthlyViews": 3127
+    },
+    "Panama Canal locks": {
+      "monthlyViews": 3327
+    },
+    "Pangaea Proxima": {
+      "monthlyViews": 8802
+    },
+    "Patriot missile": {
+      "monthlyViews": 64003,
+      "resolvedTitle": "MIM-104 Patriot"
+    },
+    "Permafrost": {
+      "monthlyViews": 11959
+    },
+    "Permian–Triassic extinction event": {
+      "monthlyViews": 43892
+    },
+    "Peshtigo fire": {
+      "monthlyViews": 15587
+    },
+    "Pfizer–BioNTech COVID-19 vaccine": {
+      "monthlyViews": 7282
+    },
+    "Phobos (moon)": {
+      "monthlyViews": 18581
+    },
+    "Phytoplankton": {
+      "monthlyViews": 8060
+    },
+    "Pike River Mine disaster": {
+      "monthlyViews": 7644
+    },
+    "Pinnacle Airlines Flight 3701": {
+      "monthlyViews": 7346
+    },
+    "Plasco Building": {
+      "monthlyViews": 1170
+    },
+    "Pluto": {
+      "monthlyViews": 92181
+    },
+    "Pollinator decline": {
+      "monthlyViews": 638
+    },
+    "Poly Implant Prothèse": {
+      "monthlyViews": 516
+    },
+    "Ponte Morandi": {
+      "monthlyViews": 3833
+    },
+    "Port Chicago disaster": {
+      "monthlyViews": 6894
+    },
+    "Port of Los Angeles": {
+      "monthlyViews": 4367
+    },
+    "Port of Rotterdam": {
+      "monthlyViews": 5139
+    },
+    "Port of Singapore": {
+      "monthlyViews": 3999
+    },
+    "Positive train control": {
+      "monthlyViews": 2807
+    },
+    "Potash": {
+      "monthlyViews": 23341
+    },
+    "Proton-M": {
+      "monthlyViews": 3812
+    },
+    "Proxima Centauri b": {
+      "monthlyViews": 22231
+    },
+    "Qantas Flight 32": {
+      "monthlyViews": 13431
+    },
+    "Qantas Flight 72": {
+      "monthlyViews": 10557
+    },
+    "Quantum supremacy": {
+      "monthlyViews": 3301
+    },
+    "Quebec Bridge": {
+      "monthlyViews": 3702
+    },
+    "Queen Isabella Causeway": {
+      "monthlyViews": 1019,
+      "resolvedTitle": "Queen Isabella Memorial Bridge"
+    },
+    "Quintinshill rail disaster": {
+      "monthlyViews": 5377
+    },
+    "R101": {
+      "monthlyViews": 6079
+    },
+    "R38-class airship": {
+      "monthlyViews": 835
+    },
+    "RAD750": {
+      "monthlyViews": 1462
+    },
+    "RMS Empress of Ireland": {
+      "monthlyViews": 12937
+    },
+    "RMS Tayleur": {
+      "monthlyViews": 7896
+    },
+    "Radium Girls": {
+      "monthlyViews": 32713
+    },
+    "Rana Plaza collapse": {
+      "monthlyViews": 13878
+    },
+    "Range safety": {
+      "monthlyViews": 2693
+    },
+    "Rare-earth element": {
+      "monthlyViews": 43488
+    },
+    "Reaction wheel": {
+      "monthlyViews": 3009
+    },
+    "Red Bull Stratos": {
+      "monthlyViews": 9171
+    },
+    "Red Sea crisis": {
+      "monthlyViews": 26400
+    },
+    "Reichsbrücke": {
+      "monthlyViews": 456
+    },
+    "Reverse osmosis": {
+      "monthlyViews": 14134
+    },
+    "Rinderpest": {
+      "monthlyViews": 8393
+    },
+    "Rings of Saturn": {
+      "monthlyViews": 20716
+    },
+    "Robert Wadlow": {
+      "monthlyViews": 100304
+    },
+    "Roma (airship)": {
+      "monthlyViews": 1078
+    },
+    "Room and pillar mining": {
+      "monthlyViews": 939
+    },
+    "Root name server": {
+      "monthlyViews": 3531
+    },
+    "Russian submarine Kursk (K-141)": {
+      "monthlyViews": 6855,
+      "resolvedTitle": "Russian submarine Kursk"
+    },
+    "S5-HVS1": {
+      "monthlyViews": 684
+    },
+    "SL-1": {
+      "monthlyViews": 33477
+    },
+    "SS Admiral Nakhimov": {
+      "monthlyViews": 3322
+    },
+    "SS Andrea Doria": {
+      "monthlyViews": 23864
+    },
+    "SS Arctic disaster": {
+      "monthlyViews": 724,
+      "resolvedTitle": "Sinking of the SS Arctic"
+    },
+    "SS Carl D. Bradley": {
+      "monthlyViews": 5983
+    },
+    "SS City of Rio de Janeiro": {
+      "monthlyViews": 445
+    },
+    "SS Daniel J. Morrell": {
+      "monthlyViews": 5939
+    },
+    "SS Eastland": {
+      "monthlyViews": 12009
+    },
+    "SS Edmund Fitzgerald": {
+      "monthlyViews": 158498
+    },
+    "SS El Faro": {
+      "monthlyViews": 9979
+    },
+    "SS Morro Castle (1930)": {
+      "monthlyViews": 4647
+    },
+    "SS Noronic": {
+      "monthlyViews": 920
+    },
+    "SS Princess Alice": {
+      "monthlyViews": 141
+    },
+    "SS Sirio": {
+      "monthlyViews": 243
+    },
+    "SS Valencia": {
+      "monthlyViews": 2636
+    },
+    "STS-27": {
+      "monthlyViews": 3435
+    },
+    "STS-51-F": {
+      "monthlyViews": 2950
+    },
+    "STS-93": {
+      "monthlyViews": 2029
+    },
+    "SWIFT": {
+      "monthlyViews": 13374
+    },
+    "Samsung Galaxy Note 7": {
+      "monthlyViews": 9031
+    },
+    "Santiago de Compostela derailment": {
+      "monthlyViews": 10649
+    },
+    "Sasago Tunnel": {
+      "monthlyViews": 222
+    },
+    "Saturn": {
+      "monthlyViews": 100802
+    },
+    "Saudia Flight 163": {
+      "monthlyViews": 18713
+    },
+    "Sayano-Shushenskaya power station accident": {
+      "monthlyViews": 1812
+    },
+    "Schiaparelli EDM": {
+      "monthlyViews": 770
+    },
+    "Schwarzschild radius": {
+      "monthlyViews": 10672
+    },
+    "Senghenydd colliery disaster": {
+      "monthlyViews": 2912
+    },
+    "Sidney Lanier Bridge": {
+      "monthlyViews": 1556
+    },
+    "Silver Bridge": {
+      "monthlyViews": 11107
+    },
+    "Sinkhole": {
+      "monthlyViews": 11774
+    },
+    "Sinking of MV Sewol": {
+      "monthlyViews": 33783
+    },
+    "Skylab": {
+      "monthlyViews": 24012
+    },
+    "Sleep": {
+      "monthlyViews": 23390
+    },
+    "Sleep deprivation": {
+      "monthlyViews": 13920
+    },
+    "Slow light": {
+      "monthlyViews": 1949
+    },
+    "Snowball Earth": {
+      "monthlyViews": 13159
+    },
+    "Sodium Reactor Experiment": {
+      "monthlyViews": 1467
+    },
+    "Soft story building": {
+      "monthlyViews": 695
+    },
+    "Soil liquefaction": {
+      "monthlyViews": 5473
+    },
+    "Solar eclipse": {
+      "monthlyViews": 46844
+    },
+    "Soma mine disaster": {
+      "monthlyViews": 879
+    },
+    "South Canyon Fire": {
+      "monthlyViews": 2328
+    },
+    "Southern Airways Flight 242": {
+      "monthlyViews": 7503
+    },
+    "Southwest Airlines Flight 1248": {
+      "monthlyViews": 7078
+    },
+    "Southwest Airlines Flight 1380": {
+      "monthlyViews": 18130
+    },
+    "Soyuz MS-10": {
+      "monthlyViews": 2341
+    },
+    "Space Shuttle Challenger disaster": {
+      "monthlyViews": 182704
+    },
+    "Space Shuttle Columbia disaster": {
+      "monthlyViews": 120111
+    },
+    "Space debris": {
+      "monthlyViews": 8668
+    },
+    "Space elevator": {
+      "monthlyViews": 11113
+    },
+    "Space exposure": {
+      "monthlyViews": 5520,
+      "resolvedTitle": "Effect of spaceflight on the human body"
+    },
+    "Space-based solar power": {
+      "monthlyViews": 5818
+    },
+    "SpaceX CRS-7": {
+      "monthlyViews": 730
+    },
+    "Spaghettification": {
+      "monthlyViews": 9172
+    },
+    "Speed of light": {
+      "monthlyViews": 66827
+    },
+    "Speed of sound": {
+      "monthlyViews": 34546
+    },
+    "St. Francis Dam": {
+      "monthlyViews": 13393
+    },
+    "Standard-gauge railway": {
+      "monthlyViews": 7255
+    },
+    "Starlink": {
+      "monthlyViews": 90164
+    },
+    "Starship flight test 1": {
+      "monthlyViews": 2498
+    },
+    "Strait of Dover": {
+      "monthlyViews": 7997
+    },
+    "Strait of Hormuz": {
+      "monthlyViews": 330417
+    },
+    "Strait of Malacca": {
+      "monthlyViews": 27887
+    },
+    "Strategic Petroleum Reserve (United States)": {
+      "monthlyViews": 19269
+    },
+    "Stratospheric aerosol injection": {
+      "monthlyViews": 5903
+    },
+    "Stuxnet": {
+      "monthlyViews": 35168
+    },
+    "Submarine communications cable": {
+      "monthlyViews": 16347
+    },
+    "Suez Canal": {
+      "monthlyViews": 69451
+    },
+    "Sulfuric acid": {
+      "monthlyViews": 31027
+    },
+    "Sun": {
+      "monthlyViews": 207634
+    },
+    "Sunshine Skyway Bridge": {
+      "monthlyViews": 14518
+    },
+    "Supercooling": {
+      "monthlyViews": 4085
+    },
+    "Superfluid helium-4": {
+      "monthlyViews": 2327
+    },
+    "Surfside condominium collapse": {
+      "monthlyViews": 32557
+    },
+    "Svalbard Global Seed Vault": {
+      "monthlyViews": 25584
+    },
+    "Swiss cheese model": {
+      "monthlyViews": 10247
+    },
+    "Swissair Flight 111": {
+      "monthlyViews": 31163
+    },
+    "Sydney Coordinated Adaptive Traffic System": {
+      "monthlyViews": 752
+    },
+    "TAM Airlines Flight 3054": {
+      "monthlyViews": 15164
+    },
+    "TARGET2": {
+      "monthlyViews": 919
+    },
+    "TEV Wahine": {
+      "monthlyViews": 2799
+    },
+    "TON 618": {
+      "monthlyViews": 48339
+    },
+    "TWA Flight 514": {
+      "monthlyViews": 8040
+    },
+    "TWA Flight 800": {
+      "monthlyViews": 54648
+    },
+    "Tacoma Narrows Bridge (1940)": {
+      "monthlyViews": 14960
+    },
+    "Tangiwai disaster": {
+      "monthlyViews": 6046
+    },
+    "Tasman Bridge disaster": {
+      "monthlyViews": 3678
+    },
+    "Taum Sauk Hydroelectric Power Station": {
+      "monthlyViews": 2698
+    },
+    "Tay Bridge disaster": {
+      "monthlyViews": 5200
+    },
+    "Technetium-99m": {
+      "monthlyViews": 4641
+    },
+    "Tempered glass": {
+      "monthlyViews": 5850
+    },
+    "Tenerife airport disaster": {
+      "monthlyViews": 72297
+    },
+    "Terraforming of Mars": {
+      "monthlyViews": 7623
+    },
+    "Tetra Pak": {
+      "monthlyViews": 9642
+    },
+    "Tetrachromacy": {
+      "monthlyViews": 10842
+    },
+    "Texas City Refinery explosion": {
+      "monthlyViews": 5343,
+      "resolvedTitle": "Texas City refinery explosion"
+    },
+    "Texas City disaster": {
+      "monthlyViews": 17520
+    },
+    "Thames Tideway Tunnel": {
+      "monthlyViews": 2183
+    },
+    "The Geysers": {
+      "monthlyViews": 2437
+    },
+    "The Station nightclub fire": {
+      "monthlyViews": 61423
+    },
+    "Therac-25": {
+      "monthlyViews": 18138
+    },
+    "Theranos": {
+      "monthlyViews": 43570
+    },
+    "Three Mile Island accident": {
+      "monthlyViews": 71979
+    },
+    "Tidal disruption event": {
+      "monthlyViews": 1598
+    },
+    "Tidal locking": {
+      "monthlyViews": 13585
+    },
+    "Time dilation": {
+      "monthlyViews": 28857
+    },
+    "Titan IV": {
+      "monthlyViews": 3281
+    },
+    "Titan submersible implosion": {
+      "monthlyViews": 75832
+    },
+    "Titanic": {
+      "monthlyViews": 201344
+    },
+    "Titanium dioxide": {
+      "monthlyViews": 12537
+    },
+    "Tiwai Point Aluminium Smelter": {
+      "monthlyViews": 1572
+    },
+    "Triangle Shirtwaist Factory fire": {
+      "monthlyViews": 32087
+    },
+    "Tsunami": {
+      "monthlyViews": 33675
+    },
+    "Tungsten": {
+      "monthlyViews": 46519
+    },
+    "Tunguska event": {
+      "monthlyViews": 54154
+    },
+    "Types of volcanic eruptions": {
+      "monthlyViews": 10047,
+      "resolvedTitle": "Volcanic eruption"
+    },
+    "UPS Airlines Flight 1354": {
+      "monthlyViews": 12745
+    },
+    "US Airways Flight 1549": {
+      "monthlyViews": 65179
+    },
+    "USAir Flight 1016": {
+      "monthlyViews": 5866
+    },
+    "USCGC Blackthorn": {
+      "monthlyViews": 1542
+    },
+    "USS Akron": {
+      "monthlyViews": 7294
+    },
+    "USS Belknap (CG-26)": {
+      "monthlyViews": 2675
+    },
+    "USS Bennington (CV-20)": {
+      "monthlyViews": 2390
+    },
+    "USS Bonhomme Richard (LHD-6)": {
+      "monthlyViews": 9486
+    },
+    "USS Fitzgerald and MV ACX Crystal collision": {
+      "monthlyViews": 2268
+    },
+    "USS Frank E. Evans": {
+      "monthlyViews": 1799
+    },
+    "USS Guardian (MCM-5)": {
+      "monthlyViews": 889
+    },
+    "USS Hobson": {
+      "monthlyViews": 669
+    },
+    "USS Iowa turret explosion": {
+      "monthlyViews": 7683
+    },
+    "USS John S. McCain and Alnic MC collision": {
+      "monthlyViews": 1897
+    },
+    "USS Miami (SSN-755)": {
+      "monthlyViews": 3210
+    },
+    "USS Oriskany fire": {
+      "monthlyViews": 225,
+      "resolvedTitle": "1966 USS Oriskany fire"
+    },
+    "USS Port Royal (CG-73)": {
+      "monthlyViews": 2020
+    },
+    "USS San Francisco (SSN-711)": {
+      "monthlyViews": 6703
+    },
+    "USS Shenandoah (ZR-1)": {
+      "monthlyViews": 3621
+    },
+    "USS Squalus": {
+      "monthlyViews": 3025,
+      "resolvedTitle": "USS Sailfish (SS-192)"
+    },
+    "USS Thresher (SSN-593)": {
+      "monthlyViews": 19483
+    },
+    "UY Scuti": {
+      "monthlyViews": 9216
+    },
+    "Ug99": {
+      "monthlyViews": 279
+    },
+    "Uninterruptible power supply": {
+      "monthlyViews": 12388
+    },
+    "United Airlines Flight 232": {
+      "monthlyViews": 71643
+    },
+    "Universal Product Code": {
+      "monthlyViews": 9501
+    },
+    "Upper Big Branch Mine disaster": {
+      "monthlyViews": 2764
+    },
+    "Uranus": {
+      "monthlyViews": 66499
+    },
+    "Usain Bolt": {
+      "monthlyViews": 102918
+    },
+    "VSS Enterprise crash": {
+      "monthlyViews": 4036
+    },
+    "Vajont Dam": {
+      "monthlyViews": 12885
+    },
+    "Valhalla train crash": {
+      "monthlyViews": 1889
+    },
+    "ValuJet Flight 592": {
+      "monthlyViews": 19005
+    },
+    "Vanguard TV-3": {
+      "monthlyViews": 1056
+    },
+    "Vasa (ship)": {
+      "monthlyViews": 30784
+    },
+    "Venus": {
+      "monthlyViews": 97301
+    },
+    "Visa Inc.": {
+      "monthlyViews": 26220
+    },
+    "Voyager 1": {
+      "monthlyViews": 77091
+    },
+    "Walkerton E. coli outbreak": {
+      "monthlyViews": 2449
+    },
+    "WannaCry ransomware attack": {
+      "monthlyViews": 34169
+    },
+    "Wassenaar Arrangement": {
+      "monthlyViews": 2200
+    },
+    "Water chlorination": {
+      "monthlyViews": 2861
+    },
+    "Waymo": {
+      "monthlyViews": 53741
+    },
+    "Wenzhou train collision": {
+      "monthlyViews": 2655
+    },
+    "West Fertilizer Company explosion": {
+      "monthlyViews": 5710
+    },
+    "Whale fall": {
+      "monthlyViews": 10015
+    },
+    "Wide Area Augmentation System": {
+      "monthlyViews": 2587
+    },
+    "Windscale fire": {
+      "monthlyViews": 14066
+    },
+    "Wärtsilä-Sulzer RTA96-C": {
+      "monthlyViews": 6650
+    },
+    "X-43A": {
+      "monthlyViews": 14498,
+      "resolvedTitle": "NASA X-43"
+    },
+    "Yarnell Hill Fire": {
+      "monthlyViews": 36097
+    },
+    "Year 2000 problem": {
+      "monthlyViews": 34588
+    },
+    "Year Without a Summer": {
+      "monthlyViews": 30291
+    },
+    "Yellowstone Caldera": {
+      "monthlyViews": 23845
+    },
+    "Zolitūde shopping centre roof collapse": {
+      "monthlyViews": 941
+    },
+    "ʻOumuamua": {
+      "monthlyViews": 21984,
+      "resolvedTitle": "1I/ʻOumuamua"
+    }
+  }
+}

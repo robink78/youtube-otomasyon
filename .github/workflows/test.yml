@@ -1,0 +1,158 @@
+name: Testler
+
+# Her push / PR'da: JS birim testleri + sozdizimi kontrolu + Python testleri.
+# Ag erisimi ve kimlik bilgisi GEREKTIRMEZ (YouTube cagrisi yapilmaz).
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Bagimliliklar
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core fonts-liberation
+          npm install --no-audit --no-fund
+      - name: JS testleri + sozdizimi
+        run: node --test tests/js/*.test.js
+      - name: GitHub Actions semantic validation
+        run: |
+          curl -fsSLO https://github.com/rhysd/actionlint/releases/download/v1.7.12/actionlint_1.7.12_linux_amd64.tar.gz
+          echo '8aca8db96f1b94770f1b0d72b6dddcb1ebb8123cb3712530b08cc387b349a3d8  actionlint_1.7.12_linux_amd64.tar.gz' | sha256sum -c -
+          tar -xzf actionlint_1.7.12_linux_amd64.tar.gz actionlint
+          ./actionlint .github/workflows/*.yml
+      - name: ImpossibleBrief dry-run packages (no upload)
+        run: node e2e-impossible-brief.js
+      - name: CriticalThread complete dry render (no upload)
+        run: node e2e-critical-thread.js --render
+      - name: The Hidden Logic of Things dry-run package (no upload)
+        run: node e2e-behind-the-ordinary.js
+      - name: Four-channel 30-day simulation
+        run: node simulate-portfolio.js
+      - name: Python testleri
+        run: python -m unittest discover -s tests
+
+  # PR'larda UCTAN UCA uretim testi (YOUTUBE'A YUKLEME YOK): GitHub'in Ubuntu + ffmpeg
+  # ortaminda gunluk is akisinin aynisi (shorts-sira: kalite kapilari -> goruntu indirme ->
+  # render -> denetim -> paket) kosulur. Final kapi PUBLISH derse e2e-kontrol.js
+  # 26 maddeyi dogrular; Pexels'in degisken arama sonucu final kapida BLOCK/REVIEW
+  # olursa guvenli ret de basarili bir koruma sonucu sayilir (video yuklenmez).
+  # Kapsam: sabit iki ornek (arsiv + stok) + bu PR'da eklenen/degisen TUM konular (paralel).
+  hazirla:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    outputs:
+      slugs: ${{ steps.s.outputs.slugs }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - id: s
+        run: |
+          DEGISEN=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD" -- 'icerik/konular/*.json' | sed -E 's#icerik/konular/(.*)\.json#\1#')
+          SLUGS=$(node -e '
+            const fs=require("fs");const bitti=new Set(JSON.parse(fs.readFileSync("icerik/uretilenler.json","utf8")));
+            const l=["vesuvius-1944","why-ships-sink",...process.argv[1].split(/\s+/).filter(Boolean)]
+              .filter((s,i,a)=>a.indexOf(s)===i && fs.existsSync("icerik/konular/"+s+".json") && (i<2 || !bitti.has(s)));
+            console.log(JSON.stringify(l.slice(0,24)));' "$DEGISEN")
+          echo "slugs=$SLUGS" >> "$GITHUB_OUTPUT"
+          echo "Uctan uca test edilecek: $SLUGS"
+
+  uctan-uca:
+    needs: hazirla
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        slug: ${{ fromJson(needs.hazirla.outputs.slugs) }}
+    env:
+      SHORTS_FONT: 'DejaVu Sans'
+      PEXELS_KEY: ${{ secrets.PEXELS_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: ffmpeg + font kur
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core fonts-liberation
+      - name: Bagimliliklar
+        run: npm install --no-audit --no-fund
+      - id: production
+        name: Gunluk is akisi (yuklemesiz) — ${{ matrix.slug }}
+        run: |
+          if [ -z "$PEXELS_KEY" ] && grep -q '"tur": "stok"' "icerik/konular/${{ matrix.slug }}.json"; then echo "PEXELS_KEY yok (fork PR) — stok konu atlandi"; exit 0; fi
+          set +e
+          node shorts-sira.js "${{ matrix.slug }}"
+          URETIM_KODU=$?
+          set -e
+          if [ "$URETIM_KODU" -eq 0 ]; then
+            echo "rejected=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          node -e '
+            const fs = require("fs");
+            const root = "icerik/paket/" + process.argv[1];
+            const gates = [];
+            const qualityPath = root + "/quality-gate.json";
+            const growthPath = root + "/growth-plan.json";
+            if (fs.existsSync(qualityPath)) {
+              const q = JSON.parse(fs.readFileSync(qualityPath, "utf8"));
+              gates.push({ gate: "quality", stage: q.asama, decision: q.karar, score: q.toplam });
+            }
+            if (fs.existsSync(growthPath)) {
+              const g = JSON.parse(fs.readFileSync(growthPath, "utf8"));
+              if (g.readiness) gates.push({ gate: "growth", stage: g.readiness.stage || "pre", decision: g.readiness.decision, score: g.readiness.ProductionReadinessScore });
+            }
+            const rejection = gates.find((gate) => ["BLOCK", "REVIEW"].includes(gate.decision));
+            if (!rejection) throw new Error("uretim hatasi kontrollu bir kalite/growth reddinden gelmedi: " + JSON.stringify(gates));
+            console.log("Guvenli kapı reddi dogrulandi: " + rejection.gate + "/" + rejection.stage + " " + rejection.decision + " " + rejection.score + "/100");
+          ' "${{ matrix.slug }}"
+          echo "rejected=true" >> "$GITHUB_OUTPUT"
+      - name: Uctan uca kontrol (26 madde)
+        if: steps.production.outputs.rejected != 'true'
+        run: |
+          if [ ! -f "uretim/${{ matrix.slug }}/Videos/${{ matrix.slug }}.mp4" ] && [ -z "$PEXELS_KEY" ]; then exit 0; fi
+          node e2e-kontrol.js "${{ matrix.slug }}"
+      - name: Bildirim metinleri (kuru — GitHub'a yazilmaz)
+        if: steps.production.outputs.rejected != 'true'
+        run: node bildirim.js --kuru
+      - name: Onizlemeyi artifact olarak sakla
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: e2e-${{ matrix.slug }}
+          path: |
+            uretim/${{ matrix.slug }}/Videos/*.mp4
+            uretim/${{ matrix.slug }}/Videos/onizleme.jpg
+            uretim/${{ matrix.slug }}/Videos/denetim.json
+            icerik/paket/${{ matrix.slug }}/description.txt
+          if-no-files-found: ignore
+          retention-days: 7
+
+  denetim-testi:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: ffmpeg kur
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - name: Denetim testi (gercek ffmpeg)
+        run: node --test tests/js/denetim.test.js

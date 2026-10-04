@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "One Thrust Lever Left in Climb on a Wet Runway",
+  "kaynaklar": [
+    {
+      "ad": "tam-3054-1.jpg",
+      "wikimedia": "Acidentetam0.jpg"
+    },
+    {
+      "ad": "tam-3054-2.jpg",
+      "wikimedia": "Acidentetam9.jpg"
+    },
+    {
+      "ad": "tam-3054-3.jpg",
+      "wikimedia": "Brasilia em Luto TAM.jpg"
+    },
+    {
+      "ad": "tam-3054-4.jpg",
+      "wikimedia": "TAM Linhas Aéreas Flight 3054.jpg"
+    },
+    {
+      "ad": "tam-3054-5.jpg",
+      "wikimedia": "TAM Linhas Aéreas Flight 3054 2.jpg"
+    },
+    {
+      "ad": "tam-3054-6.jpg",
+      "wikimedia": "Voo TAM 3054 crash 1.jpg"
+    },
+    {
+      "ad": "tam-3054-7.jpg",
+      "wikimedia": "Voo TAM 3054 crash 10.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In rain at São Paulo, an Airbus A320 raced off the end of the runway.",
+      "kaynak": "Footage/tam-3054-1.jpg"
+    },
+    {
+      "metin": "It crossed a road and exploded into a warehouse, killing one hundred ninety nine people.",
+      "kaynak": "Footage/tam-3054-2.jpg"
+    },
+    {
+      "metin": "One thrust reverser had been deactivated.",
+      "kaynak": "Footage/tam-3054-3.jpg"
+    },
+    {
+      "metin": "On touchdown, one thrust lever stayed in climb position.",
+      "kaynak": "Footage/tam-3054-4.jpg"
+    },
+    {
+      "metin": "That engine kept producing power.",
+      "kaynak": "Footage/tam-3054-5.jpg"
+    },
+    {
+      "metin": "The spoilers needed both levers at idle to deploy.",
+      "kaynak": "Footage/tam-3054-6.jpg"
+    },
+    {
+      "metin": "The jet couldn't slow down on the short runway.",
+      "kaynak": "Footage/tam-3054-7.jpg"
+    },
+    {
+      "metin": "Airbus had proposed a warning for this lever error.",
+      "kaynak": "Footage/tam-3054-1.jpg"
+    }
+  ],
+  "aciklama": "TAM 3054 overran the runway at Congonhas and hit a warehouse. The cause: one engine still producing power so the spoilers never deployed and the jet couldn't stop.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "TAM 3054",
+    "2007",
+    "thrust lever",
+    "engineering failure"
+  ],
+  "hook": "One lever was left in climb",
+  "soru": "Should automation override it?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "TAM Airlines Flight 3054",
+    "kisa": "TAM 3054",
+    "nesne": "Thrust lever",
+    "yil": 2007,
+    "sonuc": "overran the runway at Congonhas and hit a warehouse",
+    "tetik": "a thrust lever left in climb position on landing",
+    "mekanizma": "one engine still producing power so the spoilers never deployed and the jet couldn't stop",
+    "sayi": "199 DIED",
+    "ders": "Airbus had proposed a warning for this lever error, and the crash renewed attention to it",
+    "zincir": [
+      "ONE REVERSER DEACTIVATED",
+      "WET SHORT RUNWAY",
+      "ONE LEVER LEFT IN CLIMB",
+      "SPOILERS DON'T DEPLOY",
+      "JET OVERRUNS"
+    ],
+    "zaman": [],
+    "yanilgi": "The runway was slippery, but the key failure was one lever. With it above idle, the spoilers stayed down.",
+    "tartisma": "The system logic required both levers at idle. Should automation override an obvious landing?",
+    "basliklar": [
+      "One Thrust Lever Left in Climb on a Wet Runway",
+      "Why TAM Flight 3054 Couldn't Stop",
+      "The Thrust Lever Left in Climb"
+    ],
+    "kapak": [
+      "ONE LEVER",
+      "NO SPOILERS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — TAM Airlines Flight 3054",
+        "url": "https://en.wikipedia.org/wiki/TAM_Airlines_Flight_3054"
+      },
+      {
+        "ad": "BEA (French air accident bureau) — bfucp (cited by Wikipedia)",
+        "url": "http://www.bea.aero/fr/enquetes/saopaulo/bfucp.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-19",
+    "wiki": "TAM_Airlines_Flight_3054",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Acidentetam0.jpg [CC BY 3.0 br]",
+      "Acidentetam9.jpg [CC BY 3.0 br]",
+      "Brasilia em Luto TAM.jpg [CC BY 3.0 br]",
+      "TAM Linhas Aéreas Flight 3054.jpg [CC BY 3.0 br]",
+      "TAM Linhas Aéreas Flight 3054 2.jpg [CC BY 3.0 br]",
+      "Voo TAM 3054 crash 1.jpg [Public domain]",
+      "Voo TAM 3054 crash 10.jpg [Public domain]"
+    ]
+  }
+}

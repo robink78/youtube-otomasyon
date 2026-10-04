@@ -1,0 +1,45 @@
+{
+  "channel": "behind-the-ordinary",
+  "intents": [
+    {
+      "key": "24fe3133821e5f12d122cd66d351b6db086b846990da1dfbbda65a8a4632c7a0",
+      "createdAt": "2026-10-03T19:39:09.785Z",
+      "state": "COMPLETED",
+      "slug": "why-road-cats-eyes-clean-themselves",
+      "title": "How Road Studs Wipe Their Own Reflectors",
+      "publishAt": "2026-10-03T22:00:00.000Z",
+      "mediaSha256": "d0a922edd89484de37a68b1d00953a3c0731841e5bac6752b58490e24b44305b",
+      "bytes": 14398979,
+      "updatedAt": "2026-10-03T19:39:11.273Z",
+      "sessionOpenedAt": "2026-10-03T19:39:10.699Z",
+      "sessionOpen": true,
+      "videoId": "I9Lcpi9kPYs",
+      "completedBy": "upload"
+    },
+    {
+      "key": "7a5895beb8936bfa6c5f31429101370b16b5e7fb5f32ff8b9d1e4539bac561e3",
+      "createdAt": "2026-10-04T12:28:50.207Z",
+      "state": "COMPLETED",
+      "slug": "why-jeans-have-a-tiny-pocket",
+      "title": "Why Jeans Have a Tiny Pocket",
+      "publishAt": "2026-10-04T22:00:00.000Z",
+      "mediaSha256": "d5ed138b2284a32438f0ca5517fbb7b499e4577a441cb4b849af519b67f10a59",
+      "bytes": 9089237,
+      "updatedAt": "2026-10-04T12:28:52.007Z",
+      "sessionOpenedAt": "2026-10-04T12:28:51.318Z",
+      "sessionOpen": true,
+      "videoId": "ZTtPwqBSxpA",
+      "completedBy": "upload"
+    },
+    {
+      "key": "dcac28f5e647de07580767eb0401736889b63370b3d636ff28ec322e65db65c9",
+      "createdAt": "2026-10-04T18:00:31.434Z",
+      "state": "COMPLETED",
+      "videoId": "Q98e12I0NFA",
+      "completedBy": "duplicate-guard",
+      "updatedAt": "2026-10-04T18:00:31.434Z"
+    }
+  ],
+  "lastAttempt": "2026-10-04T18:00:31.434Z",
+  "lastSuccess": "2026-10-04T18:00:31.434Z"
+}

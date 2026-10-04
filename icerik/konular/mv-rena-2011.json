@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Shortcut Put a Container Ship on a Charted Reef",
+  "kaynaklar": [
+    {
+      "ad": "mv-rena-1.jpg",
+      "wikimedia": "NZ Defence Force assistance to OP Rena.jpg"
+    },
+    {
+      "ad": "mv-rena-2.jpg",
+      "wikimedia": "NZ Defence Force assistance to OP Rena - Flickr - NZ Defence Force (17).jpg"
+    },
+    {
+      "ad": "mv-rena-3.jpg",
+      "wikimedia": "Rena ship 07.jpg"
+    },
+    {
+      "ad": "mv-rena-4.jpg",
+      "wikimedia": "Rena ship 02.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A container ship ran aground on a reef off New Zealand.",
+      "kaynak": "Footage/mv-rena-1.jpg"
+    },
+    {
+      "metin": "Within days, oil and containers spilled into the sea as the hull cracked.",
+      "kaynak": "Footage/mv-rena-2.jpg"
+    },
+    {
+      "metin": "The ship was running late.",
+      "kaynak": "Footage/mv-rena-3.jpg"
+    },
+    {
+      "metin": "The crew shortened the route to reach port on time.",
+      "kaynak": "Footage/mv-rena-4.jpg"
+    },
+    {
+      "metin": "The new course crossed a reef marked on the chart.",
+      "kaynak": "Footage/mv-rena-1.jpg"
+    },
+    {
+      "metin": "It hit the reef at speed in the early morning.",
+      "kaynak": "Footage/mv-rena-2.jpg"
+    },
+    {
+      "metin": "Oil fouled beaches along the Bay of Plenty.",
+      "kaynak": "Footage/mv-rena-3.jpg"
+    },
+    {
+      "metin": "Pollution response and navigation oversight were strengthened.",
+      "kaynak": "Footage/mv-rena-4.jpg"
+    }
+  ],
+  "aciklama": "MV Rena ran aground on a reef off New Zealand. The cause: grounding on a charted reef after altering course without proper navigation checks.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "MV Rena",
+    "2011",
+    "container ship",
+    "engineering failure"
+  ],
+  "hook": "The reef was on the chart",
+  "soru": "Should errors be crimes?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the MV Rena",
+    "kisa": "MV Rena",
+    "nesne": "Container ship",
+    "yil": 2011,
+    "sonuc": "ran aground on a reef off New Zealand",
+    "tetik": "a course shortcut to reach port on time",
+    "mekanizma": "grounding on a charted reef after altering course without proper navigation checks",
+    "sayi": "CHARTED REEF",
+    "ders": "New Zealand strengthened maritime pollution response and navigation oversight",
+    "zincir": [
+      "RUNNING LATE",
+      "COURSE SHORTENED",
+      "REEF NOT CHECKED ON CHART",
+      "SHIP GROUNDS",
+      "OIL AND CONTAINERS SPILL"
+    ],
+    "zaman": [],
+    "yanilgi": "The reef was on the charts. The ship's new course ran straight across it.",
+    "tartisma": "The captain and officer were jailed. Should navigation errors be crimes?",
+    "basliklar": [
+      "A Shortcut Put a Container Ship on a Charted Reef",
+      "Why the MV Rena Ran Aground",
+      "The Shortcut Across a Charted Reef"
+    ],
+    "kapak": [
+      "ON THE CHART",
+      "SHORTCUT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — MV Rena",
+        "url": "https://en.wikipedia.org/wiki/MV_Rena"
+      },
+      {
+        "ad": "Government source — 20111005c (cited by Wikipedia)",
+        "url": "http://www.maritimenz.govt.nz/news/media-releases-2011/20111005c.asp"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15b",
+    "wiki": "MV_Rena",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "NZ Defence Force assistance to OP Rena.jpg [CC BY 2.0]",
+      "NZ Defence Force assistance to OP Rena - Flickr - NZ Defence Force (17).jpg [CC BY 2.0]",
+      "Rena ship 07.jpg [CC BY 2.0]",
+      "Rena ship 02.jpg [CC BY 2.0]"
+    ]
+  }
+}

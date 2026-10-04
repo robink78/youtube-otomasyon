@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Neil Armstrong's Spacecraft Spun Out of Control",
+  "kaynaklar": [
+    {
+      "ad": "gemini-8-1.jpg",
+      "wikimedia": "Armstrong and Scott with Hatches Open - GPN-2000-001413.jpg"
+    },
+    {
+      "ad": "gemini-8-2.jpg",
+      "wikimedia": "KSC-66C-1878 Gemini 8 Astronauts pose with the PARA-RESCUE team (104-KSC-66C-1878).jpg"
+    },
+    {
+      "ad": "gemini-8-3.jpg",
+      "wikimedia": "Gemini 8 Atlas-Agena launch.jpg"
+    },
+    {
+      "ad": "gemini-8-4.jpg",
+      "wikimedia": "Gemini 8 Flown Fliteline Sterling Silver Medallion.jpg"
+    },
+    {
+      "ad": "gemini-8-5.jpg",
+      "wikimedia": "Gemini 8 docking.jpg"
+    },
+    {
+      "ad": "gemini-8-6.jpg",
+      "wikimedia": "Gemini 8 launch.jpg"
+    },
+    {
+      "ad": "gemini-8-7.jpg",
+      "wikimedia": "Press conference - GT-VIII - prime and backup crew.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In orbit, Neil Armstrong's spacecraft began spinning out of control.",
+      "kaynak": "Footage/gemini-8-1.jpg"
+    },
+    {
+      "metin": "Suddenly, it rolled faster and faster, close to making the crew black out.",
+      "kaynak": "Footage/gemini-8-2.jpg"
+    },
+    {
+      "metin": "They had just docked with a target vehicle.",
+      "kaynak": "Footage/gemini-8-3.jpg"
+    },
+    {
+      "metin": "One of Gemini's own thrusters was stuck on.",
+      "kaynak": "Footage/gemini-8-4.jpg"
+    },
+    {
+      "metin": "Undocking only made the spin faster.",
+      "kaynak": "Footage/gemini-8-5.jpg"
+    },
+    {
+      "metin": "Armstrong used the re-entry thrusters to stop it.",
+      "kaynak": "Footage/gemini-8-6.jpg"
+    },
+    {
+      "metin": "The mission had to end early.",
+      "kaynak": "Footage/gemini-8-7.jpg"
+    },
+    {
+      "metin": "Thruster circuits were redesigned to isolate a single fault.",
+      "kaynak": "Footage/gemini-8-1.jpg"
+    }
+  ],
+  "aciklama": "Gemini 8 began spinning violently in orbit. The cause: a stuck-open orbital attitude thruster causing a rapidly increasing spin.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Gemini 8",
+    "1966",
+    "thruster",
+    "engineering failure"
+  ],
+  "hook": "It spun out of control",
+  "soru": "End the mission early?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Gemini 8",
+    "kisa": "Gemini 8",
+    "nesne": "Thruster",
+    "yil": 1966,
+    "sonuc": "began spinning violently in orbit",
+    "tetik": "a thruster stuck on after an electrical short",
+    "mekanizma": "a stuck-open orbital attitude thruster causing a rapidly increasing spin",
+    "sayi": "STUCK THRUSTER",
+    "ders": "thruster circuits were changed so a single fault could be isolated",
+    "zincir": [
+      "DOCKED WITH TARGET",
+      "THRUSTER STICKS ON",
+      "UNDOCKING MAKES IT WORSE",
+      "SPIN NEARS BLACKOUT LEVELS",
+      "RE-ENTRY THRUSTERS USED TO STOP IT"
+    ],
+    "zaman": [],
+    "yanilgi": "The spin wasn't caused by the target vehicle. It came from a thruster on Gemini itself.",
+    "tartisma": "Using the re-entry thrusters forced the mission to end early. Is ending a mission early a failure?",
+    "basliklar": [
+      "Neil Armstrong's Spacecraft Spun Out of Control",
+      "Why Gemini 8 Spun Out of Control",
+      "The Stuck Thruster Armstrong Had to Stop"
+    ],
+    "kapak": [
+      "SPINNING",
+      "STUCK THRUSTER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Gemini 8",
+        "url": "https://en.wikipedia.org/wiki/Gemini_8"
+      },
+      {
+        "ad": "NASA — 25015 (cited by Wikipedia)",
+        "url": "https://mira.hq.nasa.gov/history/ws/hdmshrc/all/main/DDD/25015.PDF"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Gemini_8",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Armstrong and Scott with Hatches Open - GPN-2000-001413.jpg [Public domain]",
+      "KSC-66C-1878 Gemini 8 Astronauts pose with the PARA-RESCUE team (104-KSC-66C-1878).jpg [Public domain]",
+      "Gemini 8 Atlas-Agena launch.jpg [Public domain]",
+      "Gemini 8 Flown Fliteline Sterling Silver Medallion.jpg [Public domain]",
+      "Gemini 8 docking.jpg [Public domain]",
+      "Gemini 8 launch.jpg [Public domain]",
+      "Press conference - GT-VIII - prime and backup crew.jpg [Public domain]"
+    ]
+  }
+}

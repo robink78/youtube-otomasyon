@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Soviet Moon Rocket That Failed Every Launch",
+  "kaynaklar": [
+    {
+      "ad": "n1-rocket-1.jpg",
+      "wikimedia": "Development of the Soviet N1 Rocket.jpg"
+    },
+    {
+      "ad": "n1-rocket-2.jpg",
+      "wikimedia": "KH-8 N1.jpg"
+    },
+    {
+      "ad": "n1-rocket-3.jpg",
+      "wikimedia": "N1 1M1 mockup on the launch pad at the Baikonur Cosmodrome in late 1967.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The Soviet Moon rocket N1 failed on every launch.",
+      "kaynak": "Footage/n1-rocket-1.jpg"
+    },
+    {
+      "metin": "One exploded just after lift-off and destroyed its own launch pad.",
+      "kaynak": "Footage/n1-rocket-2.jpg"
+    },
+    {
+      "metin": "Its first stage used thirty engines.",
+      "kaynak": "Footage/n1-rocket-3.jpg"
+    },
+    {
+      "metin": "They were never fired together on the ground before flight.",
+      "kaynak": "Footage/n1-rocket-1.jpg"
+    },
+    {
+      "metin": "When one failed, problems cascaded through the cluster.",
+      "kaynak": "Footage/n1-rocket-2.jpg"
+    },
+    {
+      "metin": "The control system shut down engines it shouldn't have.",
+      "kaynak": "Footage/n1-rocket-3.jpg"
+    },
+    {
+      "metin": "After four failures, the programme stopped.",
+      "kaynak": "Footage/n1-rocket-1.jpg"
+    },
+    {
+      "metin": "The Soviet crewed lunar landing was cancelled.",
+      "kaynak": "Footage/n1-rocket-2.jpg"
+    }
+  ],
+  "aciklama": "N1 rocket failed in all four launch attempts. The cause: complex clustered engines and control system without full ground testing of the first stage.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "N1 rocket",
+    "1969",
+    "rocket",
+    "engineering failure"
+  ],
+  "hook": "Four launches, four failures",
+  "soru": "Skip the ground test?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the N1 rocket",
+    "kisa": "N1 rocket",
+    "nesne": "Rocket",
+    "yil": 1969,
+    "sonuc": "failed in all four launch attempts",
+    "tetik": "thirty first-stage engines that were never tested together",
+    "mekanizma": "complex clustered engines and control system without full ground testing of the first stage",
+    "sayi": "4 OF 4 FAILED",
+    "ders": "the Soviet crewed lunar programme was cancelled",
+    "zincir": [
+      "30 ENGINES IN ONE STAGE",
+      "NO FULL GROUND TEST",
+      "ENGINE FAILURE CASCADES",
+      "CONTROL SYSTEM SHUTS ENGINES",
+      "ROCKET LOST"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't one bad launch. All four flights failed, one of them destroying its own launch pad.",
+    "tartisma": "Testing the whole first stage on the ground was skipped to save time and money. Is testing ever optional?",
+    "basliklar": [
+      "The Soviet Moon Rocket That Failed Every Launch",
+      "Why the N1 Moon Rocket Failed",
+      "Thirty Engines That Were Never Tested Together"
+    ],
+    "kapak": [
+      "30 ENGINES",
+      "4 OF 4 FAILED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — N1 (rocket)",
+        "url": "https://en.wikipedia.org/wiki/N1_(rocket)"
+      },
+      {
+        "ad": "NASA — 20010008244 2001006037 (cited by Wikipedia)",
+        "url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20010008244_2001006037.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "N1_(rocket)",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Development of the Soviet N1 Rocket.jpg [Public domain]",
+      "KH-8 N1.jpg [Public domain]",
+      "N1 1M1 mockup on the launch pad at the Baikonur Cosmodrome in late 1967.jpg [Public domain]"
+    ]
+  }
+}

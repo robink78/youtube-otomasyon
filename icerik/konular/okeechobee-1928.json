@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Hurricane That Pushed a Lake Over Its Dike",
+  "kaynaklar": [
+    {
+      "ad": "okeechobee-1.jpg",
+      "wikimedia": "1928 hurricane aftermath in Pointe-à-Pitre.jpg"
+    },
+    {
+      "ad": "okeechobee-2.jpg",
+      "wikimedia": "1928 hurricane damage at Faubourg Frébault in Pointe-à-Pitre.jpg"
+    },
+    {
+      "ad": "okeechobee-3.jpg",
+      "wikimedia": "1928 San Felipe hurricane damage 1.jpg"
+    },
+    {
+      "ad": "okeechobee-4.jpg",
+      "wikimedia": "1928 San Felipe hurricane damage 2.jpg"
+    },
+    {
+      "ad": "okeechobee-5.jpg",
+      "wikimedia": "Damaged church at Maunabo after San Felipe hurricane 1928.jpg"
+    },
+    {
+      "ad": "okeechobee-6.jpg",
+      "wikimedia": "Damaged homes after San Felipe Segundo hurricane 1928.jpg"
+    },
+    {
+      "ad": "okeechobee-7.jpg",
+      "wikimedia": "Damaged house in Puerto Rico after San Felipe hurricane 1928.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A hurricane drove Lake Okeechobee over its dike.",
+      "kaynak": "Footage/okeechobee-1.jpg"
+    },
+    {
+      "metin": "Within hours, floodwater swept through farm towns, and thousands were killed.",
+      "kaynak": "Footage/okeechobee-2.jpg"
+    },
+    {
+      "metin": "The water didn't come from the ocean.",
+      "kaynak": "Footage/okeechobee-3.jpg"
+    },
+    {
+      "metin": "Hurricane winds piled the shallow lake against its southern shore.",
+      "kaynak": "Footage/okeechobee-4.jpg"
+    },
+    {
+      "metin": "The dike there was low and made of earth.",
+      "kaynak": "Footage/okeechobee-5.jpg"
+    },
+    {
+      "metin": "It was overtopped and broke.",
+      "kaynak": "Footage/okeechobee-6.jpg"
+    },
+    {
+      "metin": "Most victims were migrant farm workers.",
+      "kaynak": "Footage/okeechobee-7.jpg"
+    },
+    {
+      "metin": "The massive Herbert Hoover Dike was built afterward.",
+      "kaynak": "Footage/okeechobee-1.jpg"
+    }
+  ],
+  "aciklama": "Okeechobee hurricane overflowed and drowned farm towns. The cause: wind-driven surge on a shallow lake overtopping and breaching a small earthen dike.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Okeechobee hurricane",
+    "1928",
+    "dike",
+    "engineering failure"
+  ],
+  "hook": "The lake became the surge",
+  "soru": "Who is protected first?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Lake Okeechobee dike",
+    "kisa": "Okeechobee hurricane",
+    "nesne": "Dike",
+    "yil": 1928,
+    "sonuc": "overflowed and drowned farm towns",
+    "tetik": "hurricane winds piling lake water against a low dike",
+    "mekanizma": "wind-driven surge on a shallow lake overtopping and breaching a small earthen dike",
+    "sayi": "LAKE SURGE",
+    "ders": "the Herbert Hoover Dike was built around the lake",
+    "zincir": [
+      "LOW MUCK DIKE",
+      "HURRICANE WINDS OVER THE LAKE",
+      "WATER PILED ON SOUTH SHORE",
+      "DIKE OVERTOPPED AND BREACHED",
+      "FLOOD SPREADS FOR MILES"
+    ],
+    "zaman": [],
+    "yanilgi": "The deadly water didn't come from the ocean. The hurricane pushed Lake Okeechobee itself over its banks.",
+    "tartisma": "Most victims were migrant farm workers. Who does infrastructure protect first?",
+    "basliklar": [
+      "The Hurricane That Pushed a Lake Over Its Dike",
+      "Why the 1928 Okeechobee Hurricane Was So Deadly",
+      "The Lake That Became a Storm Surge"
+    ],
+    "kapak": [
+      "LAKE SURGE",
+      "DIKE FAILED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1928 Okeechobee hurricane",
+        "url": "https://en.wikipedia.org/wiki/1928_Okeechobee_hurricane"
+      },
+      {
+        "ad": "NOAA — 1928 (cited by Wikipedia)",
+        "url": "http://www.aoml.noaa.gov/general/lib/lib1/nhclib/mwreviews/1928.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "1928_Okeechobee_hurricane",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "1928 hurricane aftermath in Pointe-à-Pitre.jpg [CC0]",
+      "1928 hurricane damage at Faubourg Frébault in Pointe-à-Pitre.jpg [CC0]",
+      "1928 San Felipe hurricane damage 1.jpg [Public domain]",
+      "1928 San Felipe hurricane damage 2.jpg [Public domain]",
+      "Damaged church at Maunabo after San Felipe hurricane 1928.jpg [Public domain]",
+      "Damaged homes after San Felipe Segundo hurricane 1928.jpg [Public domain]",
+      "Damaged house in Puerto Rico after San Felipe hurricane 1928.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Lightning Strike That Ignited a Fuel Tank",
+  "kaynaklar": [
+    {
+      "ad": "pan-am-214-1.jpg",
+      "wikimedia": "Pan am 214 crash scene 1.jpg"
+    },
+    {
+      "ad": "pan-am-214-2.jpg",
+      "wikimedia": "Pan Am Flight 214 recorder examination.jpg"
+    },
+    {
+      "ad": "pan-am-214-3.jpg",
+      "wikimedia": "PanAm214.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Holding near a thunderstorm, a Boeing 707 was struck by lightning.",
+      "kaynak": "Footage/pan-am-214-1.jpg"
+    },
+    {
+      "metin": "A wing exploded, and all eighty one aboard were killed.",
+      "kaynak": "Footage/pan-am-214-2.jpg"
+    },
+    {
+      "metin": "Planes are hit by lightning often and usually survive.",
+      "kaynak": "Footage/pan-am-214-3.jpg"
+    },
+    {
+      "metin": "This strike reached fuel vapour in a reserve tank.",
+      "kaynak": "Footage/pan-am-214-1.jpg"
+    },
+    {
+      "metin": "The vapour ignited and blew the tank apart.",
+      "kaynak": "Footage/pan-am-214-2.jpg"
+    },
+    {
+      "metin": "The damaged wing separated.",
+      "kaynak": "Footage/pan-am-214-3.jpg"
+    },
+    {
+      "metin": "Investigators studied how fuel vents and tanks handle lightning.",
+      "kaynak": "Footage/pan-am-214-1.jpg"
+    },
+    {
+      "metin": "Lightning protection rules for fuel systems were tightened.",
+      "kaynak": "Footage/pan-am-214-2.jpg"
+    }
+  ],
+  "aciklama": "Pan Am 214 exploded in flight near Elkton, Maryland. The cause: lightning igniting fuel vapour in a reserve wing tank.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Pan Am 214",
+    "1963",
+    "fuel tank",
+    "engineering failure"
+  ],
+  "hook": "Struck by lightning",
+  "soru": "Hold near a storm?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Pan Am Flight 214",
+    "kisa": "Pan Am 214",
+    "nesne": "Fuel tank",
+    "yil": 1963,
+    "sonuc": "exploded in flight near Elkton, Maryland",
+    "tetik": "lightning striking the wing",
+    "mekanizma": "lightning igniting fuel vapour in a reserve wing tank",
+    "sayi": "81 KILLED",
+    "ders": "lightning protection standards for aircraft fuel systems were tightened",
+    "zincir": [
+      "HOLDING IN A THUNDERSTORM",
+      "LIGHTNING STRIKES THE WING",
+      "SPARK REACHES FUEL VAPOUR",
+      "RESERVE TANK EXPLODES",
+      "WING SEPARATES"
+    ],
+    "zaman": [],
+    "yanilgi": "Aircraft are hit by lightning regularly. This one showed that fuel vents and tanks needed specific protection.",
+    "tartisma": "The jet was holding near a storm while it waited. Should planes hold near thunderstorms at all?",
+    "basliklar": [
+      "The Lightning Strike That Ignited a Fuel Tank",
+      "Why Pan Am Flight 214 Exploded",
+      "The Lightning Bolt That Changed Fuel Tank Design"
+    ],
+    "kapak": [
+      "LIGHTNING",
+      "FUEL VAPOUR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Pan Am Flight 214",
+        "url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_214"
+      },
+      {
+        "ad": "FAA — letter (cited by Wikipedia)",
+        "url": "https://lessonslearned.faa.gov/PanAm214/letter.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Pan_Am_Flight_214",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Pan am 214 crash scene 1.jpg [Public domain]",
+      "Pan Am Flight 214 recorder examination.jpg [Public domain]",
+      "PanAm214.jpg [Public domain]"
+    ]
+  }
+}

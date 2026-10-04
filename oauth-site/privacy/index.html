@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy — ImpossibleBrief</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <nav aria-label="Primary navigation"><a href="/">ImpossibleBrief</a><div><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></div></nav>
+  <main class="policy">
+    <div class="eyebrow">Effective 28 September 2026</div>
+    <h1>Privacy Policy</h1>
+    <p>This policy describes the owner-operated ImpossibleBrief video production application and website.</p>
+
+    <h2>Google and YouTube data used</h2>
+    <p>After the channel owner authorizes the application, it may use the YouTube Data API and YouTube Analytics API to identify the authenticated channel, upload videos, manage video metadata and playlists, read video/channel statistics, traffic-source data, audience-retention data, watch time, and subscriber gains or losses. The application requests only the YouTube scopes documented in its authorization flow.</p>
+
+    <h2>Storage and processing</h2>
+    <p>OAuth refresh tokens and client secrets are stored as encrypted GitHub Actions secrets for unattended production. They are injected only into authorized workflow jobs and are not committed to the source repository or intentionally written to logs or artifacts. Editorial metadata, upload identifiers, aggregate analytics, quality reports, and operational state may be stored in the private production repository. Generated videos and temporary access tokens may be processed transiently by GitHub-hosted runners and the relevant platform APIs.</p>
+
+    <h2>Sharing and sale</h2>
+    <p>ImpossibleBrief does not sell personal information or Google user data. Data is sent only to service providers required to operate the application, principally Google/YouTube and GitHub Actions, subject to their terms. The application is for the owner's channels and does not accept public user accounts.</p>
+
+    <h2>Retention, deletion, and revocation</h2>
+    <p>Operational records are retained while needed to prevent duplicate uploads, measure performance, and audit publications. The channel owner may revoke Google access at <a href="https://myaccount.google.com/connections">Google Account third-party connections</a>. Revocation stops future API access; the corresponding GitHub secrets should then be deleted. To request deletion of locally retained application records, contact <a href="mailto:erdmyzn@gmail.com">erdmyzn@gmail.com</a>.</p>
+
+    <h2>Security and contact</h2>
+    <p>The application checks the authenticated YouTube channel ID before every write and blocks mismatches. No internet system can guarantee absolute security. Questions, access requests, or deletion requests: <a href="mailto:erdmyzn@gmail.com">erdmyzn@gmail.com</a>.</p>
+    <footer><a href="/">Home</a> · <a href="/terms/">Terms of Service</a></footer>
+  </main>
+</body>
+</html>

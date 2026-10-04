@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Car Carrier Capsized Leaving Port Because of a Math Error",
+  "kaynaklar": [
+    {
+      "ad": "golden-ray-1.jpg",
+      "wikimedia": "Coast Guard rescue Golden Ray 1.jpg"
+    },
+    {
+      "ad": "golden-ray-2.jpg",
+      "wikimedia": "Golden Ray St. Simons Sound 2019.jpg"
+    },
+    {
+      "ad": "golden-ray-3.jpg",
+      "wikimedia": "Coast Guard and partners respond to a disabled cargo vessel in St. Simons Sound, Georgia.jpg"
+    },
+    {
+      "ad": "golden-ray-4.jpg",
+      "wikimedia": "Coast Guard and tugboat Golden Ray rescue.jpg"
+    },
+    {
+      "ad": "golden-ray-5.jpg",
+      "wikimedia": "Coast Guard rescue Golden Ray 12.jpg"
+    },
+    {
+      "ad": "golden-ray-6.jpg",
+      "wikimedia": "Golden Ray (51476273464).jpg"
+    },
+    {
+      "ad": "golden-ray-7.jpg",
+      "wikimedia": "VB 10000 specialized crane.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "As it left port in Georgia, a giant car carrier suddenly rolled onto its side.",
+      "kaynak": "Footage/golden-ray-1.jpg"
+    },
+    {
+      "metin": "Crew were trapped inside for more than a day before being rescued.",
+      "kaynak": "Footage/golden-ray-2.jpg"
+    },
+    {
+      "metin": "The ship carried thousands of cars.",
+      "kaynak": "Footage/golden-ray-3.jpg"
+    },
+    {
+      "metin": "Its stability calculation was wrong.",
+      "kaynak": "Footage/golden-ray-4.jpg"
+    },
+    {
+      "metin": "Ballast data had been entered incorrectly.",
+      "kaynak": "Footage/golden-ray-5.jpg"
+    },
+    {
+      "metin": "In a normal turn, the ship heeled too far to recover.",
+      "kaynak": "Footage/golden-ray-6.jpg"
+    },
+    {
+      "metin": "The wreck was cut into giant slices to remove it.",
+      "kaynak": "Footage/golden-ray-7.jpg"
+    },
+    {
+      "metin": "The operator changed how stability is checked before departure.",
+      "kaynak": "Footage/golden-ray-1.jpg"
+    }
+  ],
+  "aciklama": "Golden Ray capsized as it left port in Georgia. The cause: insufficient stability from an incorrect ballast calculation.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Golden Ray",
+    "2019",
+    "car carrier",
+    "engineering failure"
+  ],
+  "hook": "A math error rolled it",
+  "soru": "How should wrecks be removed?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Golden Ray",
+    "kisa": "Golden Ray",
+    "nesne": "Car carrier",
+    "yil": 2019,
+    "sonuc": "capsized as it left port in Georgia",
+    "tetik": "a turn on a ship with too little stability",
+    "mekanizma": "insufficient stability from an incorrect ballast calculation",
+    "sayi": "4 RESCUED",
+    "ders": "the operator changed how stability is calculated before departure",
+    "zincir": [
+      "BALLAST DATA ENTERED WRONG",
+      "STABILITY OVERESTIMATED",
+      "TURN IN THE CHANNEL",
+      "SHIP HEELS OVER",
+      "CAPSIZES ON ITS SIDE"
+    ],
+    "zaman": [],
+    "yanilgi": "No wave or collision tipped it. The ship left port without enough stability to turn.",
+    "tartisma": "The wreck had to be cut into huge pieces to remove it. How should failures at sea be cleaned up?",
+    "basliklar": [
+      "A Car Carrier Capsized Leaving Port Because of a Math Error",
+      "Why the Golden Ray Capsized",
+      "The Stability Error That Rolled a Car Carrier"
+    ],
+    "kapak": [
+      "ROLLED OVER",
+      "BAD MATH"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — MV Golden Ray",
+        "url": "https://en.wikipedia.org/wiki/MV_Golden_Ray"
+      },
+      {
+        "ad": "NTSB — MAR2103 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/MAR2103.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-12",
+    "wiki": "MV_Golden_Ray",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Coast Guard rescue Golden Ray 1.jpg [Public domain]",
+      "Golden Ray St. Simons Sound 2019.jpg [Public domain]",
+      "Coast Guard and partners respond to a disabled cargo vessel in St. Simons Sound, Georgia.jpg [Public domain]",
+      "Coast Guard and tugboat Golden Ray rescue.jpg [Public domain]",
+      "Coast Guard rescue Golden Ray 12.jpg [Public domain]",
+      "Golden Ray (51476273464).jpg [Public domain]",
+      "VB 10000 specialized crane.jpg [CC BY 2.0]"
+    ]
+  }
+}

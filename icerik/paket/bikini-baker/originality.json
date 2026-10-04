@@ -1,0 +1,63 @@
+{
+  "slug": "bikini-baker",
+  "olusturuldu": "2026-09-24T16:22:41.449Z",
+  "originality": 84,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.13,
+      "kim": "hindenburg"
+    },
+    "hook": {
+      "deger": 0.18,
+      "kim": "halifax-explosion"
+    },
+    "structure": {
+      "deger": 0.89,
+      "kim": "why-elevators-dont-fall"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.5,
+      "kim": "how-avalanches-start"
+    },
+    "cta": {
+      "deger": 0.07,
+      "kim": "san-francisco-1906"
+    },
+    "description": {
+      "deger": 0.09,
+      "kim": "halifax-explosion"
+    },
+    "music": {
+      "deger": 0.84,
+      "kim": "why-mines-collapse"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.13,
+    "HOOK_SIMILARITY": 0.18,
+    "STRUCTURE_SIMILARITY": 0.89,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.5,
+    "CTA_SIMILARITY": 0.07,
+    "DESCRIPTION_SIMILARITY": 0.09,
+    "MUSIC_SIMILARITY": 0.84
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

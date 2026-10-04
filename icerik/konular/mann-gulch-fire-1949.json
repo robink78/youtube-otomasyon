@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Foreman Who Lit a Fire to Escape a Fire",
+  "kaynaklar": [
+    {
+      "ad": "mann-gulch-fire-1.jpg",
+      "wikimedia": "Mann Gulch Fire, 1949. US Forest Service, retrieval of victim's bodies.jpg"
+    },
+    {
+      "ad": "mann-gulch-fire-2.jpg",
+      "wikimedia": "Mann Gulch Fire, 1949 US Forest Service Smokejumpers - Memorial photos, 13 victims.jpg"
+    },
+    {
+      "ad": "mann-gulch-fire-3.jpg",
+      "wikimedia": "David R. Navon (8902731183).jpg"
+    },
+    {
+      "ad": "mann-gulch-fire-4.jpg",
+      "wikimedia": "Eldon E. Diettert (8902749603).jpg"
+    },
+    {
+      "ad": "mann-gulch-fire-5.jpg",
+      "wikimedia": "Henry J. Thol, Jr. (8902755273).jpg"
+    },
+    {
+      "ad": "mann-gulch-fire-6.jpg",
+      "wikimedia": "James O. Harrison (8903363806).jpg"
+    },
+    {
+      "ad": "mann-gulch-fire-7.jpg",
+      "wikimedia": "Joseph B. Sylvia (8902745251).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A crew of smokejumpers parachuted onto a wildfire in Montana.",
+      "kaynak": "Footage/mann-gulch-fire-1.jpg"
+    },
+    {
+      "metin": "Within hours the fire raced up the slope, and thirteen men were fatally burned.",
+      "kaynak": "Footage/mann-gulch-fire-2.jpg"
+    },
+    {
+      "metin": "They were heading downhill toward the river.",
+      "kaynak": "Footage/mann-gulch-fire-3.jpg"
+    },
+    {
+      "metin": "They couldn't see the fire had jumped ahead of them.",
+      "kaynak": "Footage/mann-gulch-fire-4.jpg"
+    },
+    {
+      "metin": "Wind and dry grass drove it uphill faster than they could run.",
+      "kaynak": "Footage/mann-gulch-fire-5.jpg"
+    },
+    {
+      "metin": "Their foreman lit an escape fire and lay down in the ashes.",
+      "kaynak": "Footage/mann-gulch-fire-6.jpg"
+    },
+    {
+      "metin": "The others didn't follow. He survived.",
+      "kaynak": "Footage/mann-gulch-fire-7.jpg"
+    },
+    {
+      "metin": "The Forest Service redesigned its training.",
+      "kaynak": "Footage/mann-gulch-fire-1.jpg"
+    }
+  ],
+  "aciklama": "Mann Gulch overran a crew of smokejumpers in Montana. The cause: a fire on a steep grassy slope outrunning men who couldn't see it had spotted ahead.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Mann Gulch",
+    "1949",
+    "wildfire",
+    "engineering failure"
+  ],
+  "hook": "He lit a fire to survive",
+  "soru": "Would you have followed him?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Mann Gulch fire",
+    "kisa": "Mann Gulch",
+    "nesne": "Wildfire",
+    "yil": 1949,
+    "sonuc": "overran a crew of smokejumpers in Montana",
+    "tetik": "up-gulch winds pushing fire through dry grass",
+    "mekanizma": "a fire on a steep grassy slope outrunning men who couldn't see it had spotted ahead",
+    "sayi": "ESCAPE FIRE",
+    "ders": "the Forest Service redesigned training and safety measures",
+    "zincir": [
+      "SMOKEJUMPERS LAND",
+      "HEAD FOR THE RIVER",
+      "FIRE SPOTS AHEAD",
+      "WIND DRIVES IT UPHILL",
+      "CREW OVERRUN"
+    ],
+    "zaman": [],
+    "yanilgi": "The survivor didn't outrun it. He lit his own fire and lay down in the burned ground.",
+    "tartisma": "His crew didn't follow him into the burned patch. How do you trust an idea you've never seen?",
+    "basliklar": [
+      "The Foreman Who Lit a Fire to Escape a Fire",
+      "What Happened at Mann Gulch",
+      "The Escape Fire Nobody Followed"
+    ],
+    "kapak": [
+      "ESCAPE FIRE",
+      "OVERRUN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mann Gulch fire",
+        "url": "https://en.wikipedia.org/wiki/Mann_Gulch_fire"
+      },
+      {
+        "ad": "Government source — Race That Couldnt Be Won (cited by Wikipedia)",
+        "url": "http://www.fireleadership.gov/toolbox/staffride/downloads/lsr14/Race_That_Couldnt_Be_Won.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "Mann_Gulch_fire",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Mann Gulch Fire, 1949. US Forest Service, retrieval of victim's bodies.jpg [Public domain]",
+      "Mann Gulch Fire, 1949 US Forest Service Smokejumpers - Memorial photos, 13 victims.jpg [Public domain]",
+      "David R. Navon (8902731183).jpg [Public domain]",
+      "Eldon E. Diettert (8902749603).jpg [Public domain]",
+      "Henry J. Thol, Jr. (8902755273).jpg [Public domain]",
+      "James O. Harrison (8903363806).jpg [Public domain]",
+      "Joseph B. Sylvia (8902745251).jpg [Public domain]"
+    ]
+  }
+}

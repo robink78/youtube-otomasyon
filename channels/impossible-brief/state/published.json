@@ -1,0 +1,72 @@
+[
+  {
+    "channel": "impossible-brief",
+    "slug": "what-if-sunlight-could-push-a-spaceship",
+    "videoId": "NobEECFBrwo",
+    "baslik": "What Breaks First If Sunlight Could Push a Spaceship?",
+    "tarih": "2026-09-30T15:48:31.824Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-09-30T18:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "upload"
+  },
+  {
+    "channel": "impossible-brief",
+    "slug": "what-if-we-swam-in-europas-ocean",
+    "videoId": "5yPoQCElJuk",
+    "baslik": "The Hidden Ocean on Jupiter's Moon",
+    "tarih": "2026-10-02T12:25:50.699Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-02T18:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "upload"
+  },
+  {
+    "channel": "impossible-brief",
+    "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+    "videoId": "u0iftg8gF5w",
+    "baslik": "Why the Sky, Not the Crater, Killed the Dinosaurs",
+    "tarih": "2026-10-03T11:35:46.582Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-03T22:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "upload",
+    "idempotencyKey": "0061cab0c24ee02613e02d0545dec814a5df83b5c8797d05939f2f1ef5de2772",
+    "mediaSha256": "16f297f57ad75e773f459098b2b11f75a05d14dd6de865ea6568316fb5303cf3"
+  },
+  {
+    "channel": "impossible-brief",
+    "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+    "videoId": "fGCiri0k_s8",
+    "baslik": "What If the Dinosaur Asteroid Hit Earth Today",
+    "tarih": "2026-10-03T11:35:46.582Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-03T22:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "duplicate-guard",
+    "idempotencyKey": "b1d0c9437b7ca72d434b71a4a84636046148b65071d42801ff5b40eb5e5bc2d6",
+    "mediaSha256": "87cded154e985b6883c02f57fe86a8ebcda3487dc6181ac0d2751f5d16d79ecf",
+    "replacementForVideoId": "u0iftg8gF5w",
+    "replacementReason": "Re-rendered after semantic opening validation and rendered visual-quality gating were hardened; the prior public package had no rendered visual audit evidence.",
+    "replacementVersion": 1,
+    "originalVideoId": "u0iftg8gF5w"
+  },
+  {
+    "channel": "impossible-brief",
+    "slug": "what-if-you-put-saturn-in-a-bathtub",
+    "videoId": "Vuvx5nEqcaY",
+    "baslik": "Would Saturn Really Float in Water?",
+    "tarih": "2026-10-04T12:17:51.766Z",
+    "format": "short",
+    "gizlilik": "private",
+    "publishAt": "2026-10-04T22:00:00.000Z",
+    "kalite": "PUBLISH",
+    "kaynak": "upload",
+    "idempotencyKey": "da4027b73abf3917cccbeca0c1fc533356d46280c5d1a85aa93046c57b1ab3d5",
+    "mediaSha256": "ce1fab45c24151c1743be86674a7e22f8e40dc59133446cbbc8ea8cb1c483bb7"
+  }
+]

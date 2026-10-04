@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Stuck Gauge and a Silent Alarm Caused a Giant Explosion",
+  "kaynaklar": [
+    {
+      "ad": "buncefield-1.jpg",
+      "wikimedia": "BuncefieldFire.jpg"
+    },
+    {
+      "ad": "buncefield-2.jpg",
+      "wikimedia": "Clear skys apart from Hempstead.jpg"
+    },
+    {
+      "ad": "buncefield-3.jpg",
+      "wikimedia": "DSC 7106 - Flickr - John Pannell.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Early one Sunday, a fuel depot near London exploded.",
+      "kaynak": "Footage/buncefield-1.jpg"
+    },
+    {
+      "metin": "The blast destroyed nearby buildings, and fires burned for days.",
+      "kaynak": "Footage/buncefield-2.jpg"
+    },
+    {
+      "metin": "A storage tank was being filled with petrol.",
+      "kaynak": "Footage/buncefield-3.jpg"
+    },
+    {
+      "metin": "Its level gauge had stuck.",
+      "kaynak": "Footage/buncefield-1.jpg"
+    },
+    {
+      "metin": "A backup switch should have stopped the flow, but it wasn't working.",
+      "kaynak": "Footage/buncefield-2.jpg"
+    },
+    {
+      "metin": "Petrol spilled from the tank and formed a vapour cloud.",
+      "kaynak": "Footage/buncefield-3.jpg"
+    },
+    {
+      "metin": "When it ignited, the explosion was far stronger than expected.",
+      "kaynak": "Footage/buncefield-1.jpg"
+    },
+    {
+      "metin": "Depots then had to fit independent, tested overfill protection.",
+      "kaynak": "Footage/buncefield-2.jpg"
+    }
+  ],
+  "aciklama": "Buncefield exploded in a massive vapour cloud blast. The cause: overfill with a stuck level gauge and a disabled high-level switch, forming a vapour cloud.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Buncefield",
+    "2005",
+    "fuel tank",
+    "engineering failure"
+  ],
+  "hook": "The gauge stuck",
+  "soru": "Who tests the backup switch?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Buncefield oil depot",
+    "kisa": "Buncefield",
+    "nesne": "Fuel tank",
+    "yil": 2005,
+    "sonuc": "exploded in a massive vapour cloud blast",
+    "tetik": "a petrol tank overfilling while its gauge was stuck",
+    "mekanizma": "overfill with a stuck level gauge and a disabled high-level switch, forming a vapour cloud",
+    "sayi": "STUCK GAUGE",
+    "ders": "fuel depots were required to install independent, tested overfill protection",
+    "zincir": [
+      "LEVEL GAUGE STICKS",
+      "HIGH-LEVEL SWITCH INOPERABLE",
+      "PETROL SPILLS FROM THE ROOF",
+      "VAPOUR CLOUD FORMS",
+      "CLOUD IGNITES"
+    ],
+    "zaman": [],
+    "yanilgi": "The explosion was far more violent than anyone expected. Vapour cloud explosions at open sites were thought unlikely to be that powerful.",
+    "tartisma": "The safety switch needed a padlock that was never fitted. How do small omissions disable safety systems?",
+    "basliklar": [
+      "A Stuck Gauge and a Silent Alarm Caused a Giant Explosion",
+      "Why the Buncefield Depot Exploded",
+      "The Gauge That Stuck and the Switch That Didn't Work"
+    ],
+    "kapak": [
+      "STUCK GAUGE",
+      "NO ALARM"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2005 Buncefield fire",
+        "url": "https://en.wikipedia.org/wiki/2005_Buncefield_fire"
+      },
+      {
+        "ad": "UK Health and Safety Executive — buncefield report (cited by Wikipedia)",
+        "url": "http://www.hse.gov.uk/comah/buncefield/buncefield-report.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "2005_Buncefield_fire",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "BuncefieldFire.jpg [Public domain]",
+      "Clear skys apart from Hempstead.jpg [CC BY 2.0]",
+      "DSC 7106 - Flickr - John Pannell.jpg [CC BY 2.0]"
+    ]
+  }
+}

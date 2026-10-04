@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Small-Town Fertilizer Plant That Exploded",
+  "kaynaklar": [
+    {
+      "ad": "west-fertilizer-1.jpg",
+      "wikimedia": "P042513PS-1573 (8734794765).jpg"
+    },
+    {
+      "ad": "west-fertilizer-2.jpg",
+      "wikimedia": "P042513PS-1680 (11665281243).jpg"
+    },
+    {
+      "ad": "west-fertilizer-3.jpg",
+      "wikimedia": "West, Texas, May 4, 2013 -- Ryan Hutson works in the Federal Emergency Management Agency's Disaster Recovery Center to assist a local resident affected by the recent fertilizer plan - DPLA - 0139e18400834a2e718de390767bbe13.jpg"
+    },
+    {
+      "ad": "west-fertilizer-4.jpg",
+      "wikimedia": "West, Texas, May 8, 2013 -- Flags fly from many homes impacted by the April 17 fertilizer plant explosion. FEMA is assisting residents recover from the disaster. Norman Lenburg-FEMA - DPLA - b7f35d06d968f5e16b7bc3cfc96b8967.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A fertilizer plant in the small Texas town of West exploded.",
+      "kaynak": "Footage/west-fertilizer-1.jpg"
+    },
+    {
+      "metin": "Firefighters were killed as they fought the blaze, fifteen people in all.",
+      "kaynak": "Footage/west-fertilizer-2.jpg"
+    },
+    {
+      "metin": "The plant stored ammonium nitrate in wooden bins.",
+      "kaynak": "Footage/west-fertilizer-3.jpg"
+    },
+    {
+      "metin": "It had no sprinklers.",
+      "kaynak": "Footage/west-fertilizer-4.jpg"
+    },
+    {
+      "metin": "A fire broke out in the warehouse.",
+      "kaynak": "Footage/west-fertilizer-1.jpg"
+    },
+    {
+      "metin": "The heat set off the fertilizer.",
+      "kaynak": "Footage/west-fertilizer-2.jpg"
+    },
+    {
+      "metin": "Homes and schools nearby were heavily damaged.",
+      "kaynak": "Footage/west-fertilizer-3.jpg"
+    },
+    {
+      "metin": "Storage and firefighting guidance were revised afterward.",
+      "kaynak": "Footage/west-fertilizer-4.jpg"
+    }
+  ],
+  "aciklama": "West Fertilizer exploded while firefighters fought a blaze. The cause: fire in a combustible warehouse heating ammonium nitrate until it detonated.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "West Fertilizer",
+    "2013",
+    "fertilizer storage",
+    "engineering failure"
+  ],
+  "hook": "It detonated mid-firefight",
+  "soru": "Who decides where it sits?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the West Fertilizer plant",
+    "kisa": "West Fertilizer",
+    "nesne": "Fertilizer storage",
+    "yil": 2013,
+    "sonuc": "exploded while firefighters fought a blaze",
+    "tetik": "a fire reaching ammonium nitrate stored in a wooden building",
+    "mekanizma": "fire in a combustible warehouse heating ammonium nitrate until it detonated",
+    "sayi": "15 KILLED",
+    "ders": "ammonium nitrate storage and emergency responder guidance were revised",
+    "zincir": [
+      "AMMONIUM NITRATE IN WOODEN BINS",
+      "NO SPRINKLERS",
+      "FIRE STARTS",
+      "FIREFIGHTERS APPROACH",
+      "DETONATION LEVELS TOWN"
+    ],
+    "zaman": [],
+    "yanilgi": "Firefighters weren't careless. Guidance at the time didn't make clear how close was too close.",
+    "tartisma": "Homes and a school stood nearby. Who decides where hazardous plants can sit?",
+    "basliklar": [
+      "The Small-Town Fertilizer Plant That Exploded",
+      "Why the West Fertilizer Plant Exploded",
+      "The Fire Firefighters Didn't Know Could Detonate"
+    ],
+    "kapak": [
+      "WOODEN BINS",
+      "15 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — West Fertilizer Company explosion",
+        "url": "https://en.wikipedia.org/wiki/West_Fertilizer_Company_explosion"
+      },
+      {
+        "ad": "US Chemical Safety Board — #.UW BuQULKws.facebook (cited by Wikipedia)",
+        "url": "http://www.csb.gov/chemical-safety-board-deploying-to-west-fertilizer-plant-accident-/#.UW-BuQULKws.facebook"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "West_Fertilizer_Company_explosion",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "P042513PS-1573 (8734794765).jpg [Public domain]",
+      "P042513PS-1680 (11665281243).jpg [Public domain]",
+      "West, Texas, May 4, 2013 -- Ryan Hutson works in the Federal Emergency Management Agency's Disaster Recovery Center to assist a local resident affected by the recent fertilizer plan - DPLA - 0139e18400834a2e718de390767bbe13.jpg [Public domain]",
+      "West, Texas, May 8, 2013 -- Flags fly from many homes impacted by the April 17 fertilizer plant explosion. FEMA is assisting residents recover from the disaster. Norman Lenburg-FEMA - DPLA - b7f35d06d968f5e16b7bc3cfc96b8967.jpg [Public domain]"
+    ]
+  }
+}

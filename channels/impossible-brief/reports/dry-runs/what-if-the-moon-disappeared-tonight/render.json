@@ -1,0 +1,37 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/impossible-brief/reports/dry-runs/what-if-the-moon-disappeared-tonight/narration.m4a",
+    "provider": "macOS say dry-run voice (claim-timed)",
+    "syntheticVoice": true,
+    "claimDurations": [
+      1.329,
+      1.879,
+      5.879,
+      7.101,
+      3.515
+    ],
+    "durationSeconds": 19.784,
+    "width": null,
+    "height": null,
+    "hasAudio": true
+  },
+  "video": {
+    "file": "channels/impossible-brief/reports/dry-runs/what-if-the-moon-disappeared-tonight/what-if-the-moon-disappeared-tonight.mp4",
+    "captionsBurned": true,
+    "visualChanges": 8,
+    "illustrationLabel": true,
+    "scenarioSpecific": true,
+    "durationSeconds": 19.784,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/impossible-brief/reports/dry-runs/what-if-the-moon-disappeared-tonight/thumbnail.jpg",
+    "bytes": 60472,
+    "scenarioSpecific": true,
+    "textWords": 2
+  }
+}

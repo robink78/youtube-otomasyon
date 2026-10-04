@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Train That Crashed Through a Station Wall",
+  "kaynaklar": [
+    {
+      "ad": "montparnasse-derailment-1.jpg",
+      "wikimedia": "Train Stood On its Nose.jpg"
+    },
+    {
+      "ad": "montparnasse-derailment-2.jpg",
+      "wikimedia": "Mr. Big - Lean Into It.jpg"
+    },
+    {
+      "ad": "montparnasse-derailment-3.jpg",
+      "wikimedia": "Train wreck at Montparnasse 1895.jpg"
+    },
+    {
+      "ad": "montparnasse-derailment-4.jpg",
+      "wikimedia": "Accident de chemin de fer á la gare Montparnasse en 1895.jpg"
+    },
+    {
+      "ad": "montparnasse-derailment-5.jpg",
+      "wikimedia": "Accident de train de la gare Montparnasse du 22 octobre 1895, 14e-15e arrondissements, Paris, PH78193.jpg"
+    },
+    {
+      "ad": "montparnasse-derailment-6.jpg",
+      "wikimedia": "Accident du Granville-Paris à Montparnasse. 22 octobre 1895-colorized.jpg"
+    },
+    {
+      "ad": "montparnasse-derailment-7.jpg",
+      "wikimedia": "Accident Paris Montparnasse 1895-colorized.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An express train crashed through the wall of a Paris station.",
+      "kaynak": "Footage/montparnasse-derailment-1.jpg"
+    },
+    {
+      "metin": "The locomotive plunged onto the street below.",
+      "kaynak": "Footage/montparnasse-derailment-2.jpg"
+    },
+    {
+      "metin": "It was running late and entered the station too fast.",
+      "kaynak": "Footage/montparnasse-derailment-3.jpg"
+    },
+    {
+      "metin": "Its brakes couldn't stop it in time.",
+      "kaynak": "Footage/montparnasse-derailment-4.jpg"
+    },
+    {
+      "metin": "It overran the buffer stop and burst through the wall.",
+      "kaynak": "Footage/montparnasse-derailment-5.jpg"
+    },
+    {
+      "metin": "Almost everyone aboard survived.",
+      "kaynak": "Footage/montparnasse-derailment-6.jpg"
+    },
+    {
+      "metin": "A woman on the street below was killed.",
+      "kaynak": "Footage/montparnasse-derailment-7.jpg"
+    },
+    {
+      "metin": "The photograph became one of history's most famous rail images.",
+      "kaynak": "Footage/montparnasse-derailment-1.jpg"
+    }
+  ],
+  "aciklama": "Montparnasse burst through the station wall onto the street. The cause: overrun from excessive speed and ineffective braking at a terminus.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Montparnasse",
+    "1895",
+    "locomotive",
+    "engineering failure"
+  ],
+  "hook": "It went through the wall",
+  "soru": "How often does lateness cause danger?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Montparnasse express",
+    "kisa": "Montparnasse",
+    "nesne": "Locomotive",
+    "yil": 1895,
+    "sonuc": "burst through the station wall onto the street",
+    "tetik": "an express arriving too fast with brakes that failed to stop it",
+    "mekanizma": "overrun from excessive speed and ineffective braking at a terminus",
+    "sayi": "THROUGH THE WALL",
+    "ders": "the photo became one of the most famous images of a rail accident",
+    "zincir": [
+      "TRAIN RUNNING LATE",
+      "ENTERS STATION TOO FAST",
+      "BRAKES FAIL TO STOP IT",
+      "BUFFER STOP OVERRUN",
+      "LOCOMOTIVE FALLS TO THE STREET"
+    ],
+    "zaman": [],
+    "yanilgi": "Almost everyone aboard survived. The one person killed was a woman on the street below.",
+    "tartisma": "The driver was trying to make up lost time. How often does lateness lead to danger?",
+    "basliklar": [
+      "The Train That Crashed Through a Station Wall",
+      "Why a Train Crashed Through the Montparnasse Station Wall",
+      "The Famous Photo of a Train Hanging Over a Street"
+    ],
+    "kapak": [
+      "THROUGH THE WALL",
+      "1895"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Montparnasse derailment",
+        "url": "https://en.wikipedia.org/wiki/Montparnasse_derailment"
+      },
+      {
+        "ad": "Academic / engineering journal — memorial (cited by Wikipedia)",
+        "url": "https://people.csail.mit.edu/sparis/siggraph06_gallery/memorial/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "Montparnasse_derailment",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Train Stood On its Nose.jpg [Public domain]",
+      "Mr. Big - Lean Into It.jpg [Public domain]",
+      "Train wreck at Montparnasse 1895.jpg [Public domain]",
+      "Accident de chemin de fer á la gare Montparnasse en 1895.jpg [Public domain]",
+      "Accident de train de la gare Montparnasse du 22 octobre 1895, 14e-15e arrondissements, Paris, PH78193.jpg [CC0]",
+      "Accident du Granville-Paris à Montparnasse. 22 octobre 1895-colorized.jpg [Public domain]",
+      "Accident Paris Montparnasse 1895-colorized.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "videoId": "aScjSrwqeRk",
+  "baslik": "Deepwater Horizon: The Test Result Nobody Believed",
+  "yayin": "2026-09-27",
+  "yasGun": 3,
+  "sureSn": 27,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 423,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 5,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 1,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": 27,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewDuration": {
+      "deger": 18,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewPercentage": {
+      "deger": 67.77,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "subscribersGained": {
+      "deger": 1,
+      "durum": "ok",
+      "kaynak": "Analytics API (net)"
+    },
+    "shares": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "first30sRetention": {
+      "deger": 0.4321,
+      "durum": "ok",
+      "kaynak": "Analytics API (retention at 100% of video)"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": 2.4,
+      "durum": "ok",
+      "kaynak": "derived"
+    },
+    "likeRate": {
+      "deger": 1.2,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 0.24,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": [
+    {
+      "kaynak": "YT_SEARCH",
+      "ad": "Search",
+      "views": 136,
+      "oran": 0.6634146341463415
+    },
+    {
+      "kaynak": "SHORTS",
+      "ad": "Shorts feed",
+      "views": 64,
+      "oran": 0.3121951219512195
+    },
+    {
+      "kaynak": "YT_CHANNEL",
+      "ad": "Channel page",
+      "views": 3,
+      "oran": 0.014634146341463415
+    },
+    {
+      "kaynak": "SUBSCRIBER",
+      "ad": "Browse (subscribers)",
+      "views": 1,
+      "oran": 0.004878048780487805
+    },
+    {
+      "kaynak": "EXT_URL",
+      "ad": "External",
+      "views": 1,
+      "oran": 0.004878048780487805
+    },
+    {
+      "kaynak": "NO_LINK_OTHER",
+      "ad": "Direct/unknown",
+      "views": 0,
+      "oran": 0
+    }
+  ],
+  "tutma": [
+    {
+      "oran": 0.01,
+      "izleme": 1.3703999999999998,
+      "goreceli": 0.64255
+    },
+    {
+      "oran": 0.02,
+      "izleme": 1.3703999999999998,
+      "goreceli": 0.62815
+    },
+    {
+      "oran": 0.03,
+      "izleme": 1.3703999999999998,
+      "goreceli": 0.614
+    },
+    {
+      "oran": 0.04,
+      "izleme": 1.358,
+      "goreceli": 0.6006
+    },
+    {
+      "oran": 0.05,
+      "izleme": 1.3086000000000002,
+      "goreceli": 0.5884
+    },
+    {
+      "oran": 0.06,
+      "izleme": 1.2716,
+      "goreceli": 0.5776
+    },
+    {
+      "oran": 0.07,
+      "izleme": 1.2469,
+      "goreceli": 0.56845
+    },
+    {
+      "oran": 0.08,
+      "izleme": 1.1852,
+      "goreceli": 0.5609
+    },
+    {
+      "oran": 0.09,
+      "izleme": 1.1481000000000001,
+      "goreceli": 0.5548
+    },
+    {
+      "oran": 0.1,
+      "izleme": 1.1358,
+      "goreceli": 0.55
+    },
+    {
+      "oran": 0.11,
+      "izleme": 1.1358,
+      "goreceli": 0.54625
+    },
+    {
+      "oran": 0.12,
+      "izleme": 1.1111,
+      "goreceli": 0.54335
+    },
+    {
+      "oran": 0.13,
+      "izleme": 1.1111,
+      "goreceli": 0.54105
+    },
+    {
+      "oran": 0.14,
+      "izleme": 1.0988,
+      "goreceli": 0.5392
+    },
+    {
+      "oran": 0.15,
+      "izleme": 1.0988,
+      "goreceli": 0.53775
+    },
+    {
+      "oran": 0.16,
+      "izleme": 1.0617,
+      "goreceli": 0.5365
+    },
+    {
+      "oran": 0.17,
+      "izleme": 1.0247,
+      "goreceli": 0.53555
+    },
+    {
+      "oran": 0.18,
+      "izleme": 1.0247,
+      "goreceli": 0.5347500000000001
+    },
+    {
+      "oran": 0.19,
+      "izleme": 1,
+      "goreceli": 0.53415
+    },
+    {
+      "oran": 0.2,
+      "izleme": 0.9876999999999999,
+      "goreceli": 0.5338
+    },
+    {
+      "oran": 0.21,
+      "izleme": 0.9753000000000001,
+      "goreceli": 0.5336
+    },
+    {
+      "oran": 0.22,
+      "izleme": 0.963,
+      "goreceli": 0.53365
+    },
+    {
+      "oran": 0.23,
+      "izleme": 0.9259000000000001,
+      "goreceli": 0.5339
+    },
+    {
+      "oran": 0.24,
+      "izleme": 0.9136,
+      "goreceli": 0.53445
+    },
+    {
+      "oran": 0.25,
+      "izleme": 0.8889,
+      "goreceli": 0.5352
+    },
+    {
+      "oran": 0.26,
+      "izleme": 0.8765000000000001,
+      "goreceli": 0.5362
+    },
+    {
+      "oran": 0.27,
+      "izleme": 0.8148000000000001,
+      "goreceli": 0.5375
+    },
+    {
+      "oran": 0.28,
+      "izleme": 0.8025,
+      "goreceli": 0.53905
+    },
+    {
+      "oran": 0.29,
+      "izleme": 0.7901,
+      "goreceli": 0.54095
+    },
+    {
+      "oran": 0.3,
+      "izleme": 0.7778,
+      "goreceli": 0.54315
+    },
+    {
+      "oran": 0.31,
+      "izleme": 0.7531,
+      "goreceli": 0.5457
+    },
+    {
+      "oran": 0.32,
+      "izleme": 0.7531,
+      "goreceli": 0.5486
+    },
+    {
+      "oran": 0.33,
+      "izleme": 0.7406999999999999,
+      "goreceli": 0.5519000000000001
+    },
+    {
+      "oran": 0.34,
+      "izleme": 0.716,
+      "goreceli": 0.5557
+    },
+    {
+      "oran": 0.35,
+      "izleme": 0.716,
+      "goreceli": 0.5599
+    },
+    {
+      "oran": 0.36,
+      "izleme": 0.7037,
+      "goreceli": 0.5646
+    },
+    {
+      "oran": 0.37,
+      "izleme": 0.7037,
+      "goreceli": 0.5699
+    },
+    {
+      "oran": 0.38,
+      "izleme": 0.679,
+      "goreceli": 0.57575
+    },
+    {
+      "oran": 0.39,
+      "izleme": 0.6667000000000001,
+      "goreceli": 0.5822
+    },
+    {
+      "oran": 0.4,
+      "izleme": 0.6667000000000001,
+      "goreceli": 0.5892999999999999
+    },
+    {
+      "oran": 0.41,
+      "izleme": 0.6667000000000001,
+      "goreceli": 0.5971
+    },
+    {
+      "oran": 0.42,
+      "izleme": 0.6543000000000001,
+      "goreceli": 0.60565
+    },
+    {
+      "oran": 0.43,
+      "izleme": 0.642,
+      "goreceli": 0.61495
+    },
+    {
+      "oran": 0.44,
+      "izleme": 0.642,
+      "goreceli": 0.625
+    },
+    {
+      "oran": 0.45,
+      "izleme": 0.642,
+      "goreceli": 0.63585
+    },
+    {
+      "oran": 0.46,
+      "izleme": 0.642,
+      "goreceli": 0.64745
+    },
+    {
+      "oran": 0.47,
+      "izleme": 0.6667000000000001,
+      "goreceli": 0.6597999999999999
+    },
+    {
+      "oran": 0.48,
+      "izleme": 0.6667000000000001,
+      "goreceli": 0.67285
+    },
+    {
+      "oran": 0.49,
+      "izleme": 0.6667000000000001,
+      "goreceli": 0.68645
+    },
+    {
+      "oran": 0.5,
+      "izleme": 0.6543000000000001,
+      "goreceli": 0.70045
+    },
+    {
+      "oran": 0.51,
+      "izleme": 0.642,
+      "goreceli": 0.7148
+    },
+    {
+      "oran": 0.52,
+      "izleme": 0.6296,
+      "goreceli": 0.7293000000000001
+    },
+    {
+      "oran": 0.53,
+      "izleme": 0.6296,
+      "goreceli": 0.7436499999999999
+    },
+    {
+      "oran": 0.54,
+      "izleme": 0.6173,
+      "goreceli": 0.7577499999999999
+    },
+    {
+      "oran": 0.55,
+      "izleme": 0.6173,
+      "goreceli": 0.7714000000000001
+    },
+    {
+      "oran": 0.56,
+      "izleme": 0.6173,
+      "goreceli": 0.7843
+    },
+    {
+      "oran": 0.57,
+      "izleme": 0.6049,
+      "goreceli": 0.79635
+    },
+    {
+      "oran": 0.58,
+      "izleme": 0.6173,
+      "goreceli": 0.80745
+    },
+    {
+      "oran": 0.59,
+      "izleme": 0.6049,
+      "goreceli": 0.81745
+    },
+    {
+      "oran": 0.6,
+      "izleme": 0.5802,
+      "goreceli": 0.8263499999999999
+    },
+    {
+      "oran": 0.61,
+      "izleme": 0.5679,
+      "goreceli": 0.8341
+    },
+    {
+      "oran": 0.62,
+      "izleme": 0.5556,
+      "goreceli": 0.8408
+    },
+    {
+      "oran": 0.63,
+      "izleme": 0.5556,
+      "goreceli": 0.84645
+    },
+    {
+      "oran": 0.64,
+      "izleme": 0.5556,
+      "goreceli": 0.8512
+    },
+    {
+      "oran": 0.65,
+      "izleme": 0.5556,
+      "goreceli": 0.8551
+    },
+    {
+      "oran": 0.66,
+      "izleme": 0.5556,
+      "goreceli": 0.85825
+    },
+    {
+      "oran": 0.67,
+      "izleme": 0.5556,
+      "goreceli": 0.86085
+    },
+    {
+      "oran": 0.68,
+      "izleme": 0.5432,
+      "goreceli": 0.8629
+    },
+    {
+      "oran": 0.69,
+      "izleme": 0.5309,
+      "goreceli": 0.8646
+    },
+    {
+      "oran": 0.7,
+      "izleme": 0.4938,
+      "goreceli": 0.86595
+    },
+    {
+      "oran": 0.71,
+      "izleme": 0.4938,
+      "goreceli": 0.8671
+    },
+    {
+      "oran": 0.72,
+      "izleme": 0.4938,
+      "goreceli": 0.8681000000000001
+    },
+    {
+      "oran": 0.73,
+      "izleme": 0.4938,
+      "goreceli": 0.869
+    },
+    {
+      "oran": 0.74,
+      "izleme": 0.4938,
+      "goreceli": 0.8697999999999999
+    },
+    {
+      "oran": 0.75,
+      "izleme": 0.4815,
+      "goreceli": 0.8706
+    },
+    {
+      "oran": 0.76,
+      "izleme": 0.4815,
+      "goreceli": 0.8714500000000001
+    },
+    {
+      "oran": 0.77,
+      "izleme": 0.46909999999999996,
+      "goreceli": 0.8723
+    },
+    {
+      "oran": 0.78,
+      "izleme": 0.46909999999999996,
+      "goreceli": 0.8732500000000001
+    },
+    {
+      "oran": 0.79,
+      "izleme": 0.46909999999999996,
+      "goreceli": 0.8743000000000001
+    },
+    {
+      "oran": 0.8,
+      "izleme": 0.46909999999999996,
+      "goreceli": 0.8754
+    },
+    {
+      "oran": 0.81,
+      "izleme": 0.46909999999999996,
+      "goreceli": 0.8767
+    },
+    {
+      "oran": 0.82,
+      "izleme": 0.46909999999999996,
+      "goreceli": 0.8781000000000001
+    },
+    {
+      "oran": 0.83,
+      "izleme": 0.46909999999999996,
+      "goreceli": 0.8796999999999999
+    },
+    {
+      "oran": 0.84,
+      "izleme": 0.4568,
+      "goreceli": 0.8814
+    },
+    {
+      "oran": 0.85,
+      "izleme": 0.4568,
+      "goreceli": 0.8833500000000001
+    },
+    {
+      "oran": 0.86,
+      "izleme": 0.4568,
+      "goreceli": 0.8854500000000001
+    },
+    {
+      "oran": 0.87,
+      "izleme": 0.44439999999999996,
+      "goreceli": 0.8877
+    },
+    {
+      "oran": 0.88,
+      "izleme": 0.44439999999999996,
+      "goreceli": 0.89015
+    },
+    {
+      "oran": 0.89,
+      "izleme": 0.44439999999999996,
+      "goreceli": 0.8927499999999999
+    },
+    {
+      "oran": 0.9,
+      "izleme": 0.4321,
+      "goreceli": 0.8955
+    },
+    {
+      "oran": 0.91,
+      "izleme": 0.4321,
+      "goreceli": 0.8983
+    },
+    {
+      "oran": 0.92,
+      "izleme": 0.4321,
+      "goreceli": 0.9012
+    },
+    {
+      "oran": 0.93,
+      "izleme": 0.4321,
+      "goreceli": 0.90415
+    },
+    {
+      "oran": 0.94,
+      "izleme": 0.4321,
+      "goreceli": 0.9070499999999999
+    },
+    {
+      "oran": 0.95,
+      "izleme": 0.4321,
+      "goreceli": 0.9099
+    },
+    {
+      "oran": 0.96,
+      "izleme": 0.4321,
+      "goreceli": 0.91265
+    },
+    {
+      "oran": 0.97,
+      "izleme": 0.4321,
+      "goreceli": 0.91525
+    },
+    {
+      "oran": 0.98,
+      "izleme": 0.4321,
+      "goreceli": 0.9176
+    },
+    {
+      "oran": 0.99,
+      "izleme": 0.4321,
+      "goreceli": 0.9197500000000001
+    },
+    {
+      "oran": 1,
+      "izleme": 0.4321,
+      "goreceli": 0.92165
+    }
+  ],
+  "analitikDurumu": "ok",
+  "toplandi": "2026-09-30T18:07:34.596Z",
+  "checkpoint": "3d",
+  "teshis": [
+    {
+      "kod": "SEARCH_DEPENDENT",
+      "guven": "medium",
+      "aciklama": "66% of views from Search.",
+      "oneri": "Strengthen the Suggested network: cluster playlist, end screens, related links in description."
+    },
+    {
+      "kod": "SHORTS_FEED_NOT_PICKED_UP",
+      "guven": "low",
+      "aciklama": "Most views are not from the Shorts feed.",
+      "oneri": "Opening frame and first sentence decide feed pickup — review the hook."
+    }
+  ],
+  "retentionDrop": {
+    "second": 2,
+    "magnitude": 0.12349999999999994,
+    "sceneIndex": 0,
+    "sentence": "Eleven workers died when this oil rig exploded.",
+    "visualType": "REAL ARCHIVAL/LICENCED FOOTAGE"
+  }
+}

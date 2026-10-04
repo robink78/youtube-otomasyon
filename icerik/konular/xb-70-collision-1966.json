@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Photo Shoot That Destroyed a Supersonic Bomber",
+  "kaynaklar": [
+    {
+      "ad": "xb-70-collision-1.jpg",
+      "wikimedia": "North American XB-70A Valkyrie just after collision 061122-F-1234P-037.jpg"
+    },
+    {
+      "ad": "xb-70-collision-2.jpg",
+      "wikimedia": "North American XB-70A Valkyrie in formation 061122-F-1234P-035.jpg"
+    },
+    {
+      "ad": "xb-70-collision-3.jpg",
+      "wikimedia": "North American XB-70 cockpit 2 USAF.JPG"
+    },
+    {
+      "ad": "xb-70-collision-4.jpg",
+      "wikimedia": "North American XB-70 cockpit 3 USAF.JPG"
+    },
+    {
+      "ad": "xb-70-collision-5.jpg",
+      "wikimedia": "North American XB-70 Cockpit ED97-44244-1.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In a photo formation, an F-104 fighter collided with the giant XB-70 bomber.",
+      "kaynak": "Footage/xb-70-collision-1.jpg"
+    },
+    {
+      "metin": "Both aircraft crashed, and two pilots were killed.",
+      "kaynak": "Footage/xb-70-collision-2.jpg"
+    },
+    {
+      "metin": "Five jets were flying in close formation.",
+      "kaynak": "Footage/xb-70-collision-3.jpg"
+    },
+    {
+      "metin": "They were being photographed for their engine maker.",
+      "kaynak": "Footage/xb-70-collision-4.jpg"
+    },
+    {
+      "metin": "The F-104 drifted into the bomber's wing.",
+      "kaynak": "Footage/xb-70-collision-5.jpg"
+    },
+    {
+      "metin": "It rolled over the XB-70 and exploded.",
+      "kaynak": "Footage/xb-70-collision-1.jpg"
+    },
+    {
+      "metin": "The Valkyrie lost its tail and crashed.",
+      "kaynak": "Footage/xb-70-collision-2.jpg"
+    },
+    {
+      "metin": "Only one XB-70 remains, in a museum.",
+      "kaynak": "Footage/xb-70-collision-3.jpg"
+    }
+  ],
+  "aciklama": "XB-70 was hit by an F-104 during a photo formation. The cause: a chase fighter drifting into the bomber in tight formation.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "XB-70",
+    "1966",
+    "formation flight",
+    "engineering failure"
+  ],
+  "hook": "It was a photo shoot",
+  "soru": "Who approves risk for publicity?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the XB-70 Valkyrie",
+    "kisa": "XB-70",
+    "nesne": "Formation flight",
+    "yil": 1966,
+    "sonuc": "was hit by an F-104 during a photo formation",
+    "tetik": "flying in close formation for publicity photos",
+    "mekanizma": "a chase fighter drifting into the bomber in tight formation",
+    "sayi": "PHOTO SHOOT",
+    "ders": "the crash raised questions about publicity flights with test aircraft",
+    "zincir": [
+      "ENGINE MAKER WANTS PHOTOS",
+      "FIVE JETS IN FORMATION",
+      "F-104 DRIFTS CLOSE",
+      "CONTACT",
+      "BOTH AIRCRAFT LOST"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't a test mission. It was a photo shoot for an engine maker.",
+    "tartisma": "Two pilots died for a picture. Who approves risk for publicity?",
+    "basliklar": [
+      "A Photo Shoot That Destroyed a Supersonic Bomber",
+      "Why the XB-70 Crashed During a Photo Shoot",
+      "The Formation Flight That Went Wrong"
+    ],
+    "kapak": [
+      "PHOTO SHOOT",
+      "MIDAIR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — North American XB-70 Valkyrie",
+        "url": "https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
+      },
+      {
+        "ad": "NASA — 19950002358 1995102358 (cited by Wikipedia)",
+        "url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19950002358_1995102358.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "North_American_XB-70_Valkyrie",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "North American XB-70A Valkyrie just after collision 061122-F-1234P-037.jpg [Public domain]",
+      "North American XB-70A Valkyrie in formation 061122-F-1234P-035.jpg [Public domain]",
+      "North American XB-70 cockpit 2 USAF.JPG [Public domain]",
+      "North American XB-70 cockpit 3 USAF.JPG [Public domain]",
+      "North American XB-70 Cockpit ED97-44244-1.jpg [Public domain]"
+    ]
+  }
+}

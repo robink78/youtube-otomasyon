@@ -1,0 +1,46 @@
+{
+  "channel": "impossible-brief",
+  "lastAttempt": "2026-10-04T17:49:42.900Z",
+  "lastSuccess": "2026-10-04T17:49:42.900Z",
+  "inFlight": [],
+  "intents": [
+    {
+      "key": "0061cab0c24ee02613e02d0545dec814a5df83b5c8797d05939f2f1ef5de2772",
+      "createdAt": "2026-10-03T11:35:44.566Z",
+      "state": "COMPLETED",
+      "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+      "title": "Why the Sky, Not the Crater, Killed the Dinosaurs",
+      "publishAt": "2026-10-03T22:00:00.000Z",
+      "mediaSha256": "16f297f57ad75e773f459098b2b11f75a05d14dd6de865ea6568316fb5303cf3",
+      "bytes": 7259607,
+      "updatedAt": "2026-10-03T11:35:46.580Z",
+      "sessionOpenedAt": "2026-10-03T11:35:46.001Z",
+      "sessionOpen": true,
+      "videoId": "u0iftg8gF5w",
+      "completedBy": "upload"
+    },
+    {
+      "key": "da4027b73abf3917cccbeca0c1fc533356d46280c5d1a85aa93046c57b1ab3d5",
+      "createdAt": "2026-10-04T12:17:50.110Z",
+      "state": "COMPLETED",
+      "slug": "what-if-you-put-saturn-in-a-bathtub",
+      "title": "Would Saturn Really Float in Water?",
+      "publishAt": "2026-10-04T22:00:00.000Z",
+      "mediaSha256": "ce1fab45c24151c1743be86674a7e22f8e40dc59133446cbbc8ea8cb1c483bb7",
+      "bytes": 8657297,
+      "updatedAt": "2026-10-04T12:17:51.764Z",
+      "sessionOpenedAt": "2026-10-04T12:17:50.991Z",
+      "sessionOpen": true,
+      "videoId": "Vuvx5nEqcaY",
+      "completedBy": "upload"
+    },
+    {
+      "key": "b1d0c9437b7ca72d434b71a4a84636046148b65071d42801ff5b40eb5e5bc2d6",
+      "createdAt": "2026-10-04T17:49:42.900Z",
+      "state": "COMPLETED",
+      "videoId": "fGCiri0k_s8",
+      "completedBy": "duplicate-guard",
+      "updatedAt": "2026-10-04T17:49:42.900Z"
+    }
+  ]
+}

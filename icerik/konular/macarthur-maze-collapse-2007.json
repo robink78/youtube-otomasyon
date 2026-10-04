@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Tanker Fire Melted a Freeway Ramp",
+  "kaynaklar": [
+    {
+      "ad": "macarthur-maze-collapse-1.jpg",
+      "wikimedia": "I-580 Connector in bad condition (477838778).jpg"
+    },
+    {
+      "ad": "macarthur-maze-collapse-2.jpg",
+      "wikimedia": "Macarthur Maze, early 1970s (21292861241).jpg"
+    },
+    {
+      "ad": "macarthur-maze-collapse-3.jpg",
+      "wikimedia": "Macarthur maze flyovers (3448155924).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Before dawn in Oakland, a tanker truck overturned on a freeway ramp.",
+      "kaynak": "Footage/macarthur-maze-collapse-1.jpg"
+    },
+    {
+      "metin": "It burst into flames, and the ramp above collapsed within minutes.",
+      "kaynak": "Footage/macarthur-maze-collapse-2.jpg"
+    },
+    {
+      "metin": "It was carrying eight thousand six hundred gallons of gasoline.",
+      "kaynak": "Footage/macarthur-maze-collapse-3.jpg"
+    },
+    {
+      "metin": "Fuel spilled and burned below the ramp.",
+      "kaynak": "Footage/macarthur-maze-collapse-1.jpg"
+    },
+    {
+      "metin": "The heat weakened the steel structure.",
+      "kaynak": "Footage/macarthur-maze-collapse-2.jpg"
+    },
+    {
+      "metin": "The steel above lost its strength.",
+      "kaynak": "Footage/macarthur-maze-collapse-3.jpg"
+    },
+    {
+      "metin": "A long section of the upper ramp fell.",
+      "kaynak": "Footage/macarthur-maze-collapse-1.jpg"
+    },
+    {
+      "metin": "It showed how quickly fire can defeat steel.",
+      "kaynak": "Footage/macarthur-maze-collapse-2.jpg"
+    }
+  ],
+  "aciklama": "MacArthur Maze had a ramp collapse after a tanker fire. The cause: intense fuel fire weakening the steel structure above.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "MacArthur Maze",
+    "2007",
+    "steel ramp",
+    "engineering failure"
+  ],
+  "hook": "Fire melted the freeway",
+  "soru": "Should ramps be fireproofed?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the MacArthur Maze",
+    "kisa": "MacArthur Maze",
+    "nesne": "Steel ramp",
+    "yil": 2007,
+    "sonuc": "had a ramp collapse after a tanker fire",
+    "tetik": "a gasoline tanker overturning below the ramp",
+    "mekanizma": "intense fuel fire weakening the steel structure above",
+    "sayi": "8,600 GALLONS",
+    "ders": "the collapse showed how vulnerable steel roadways are to fuel fires",
+    "zincir": [
+      "TANKER OVERTURNS",
+      "GASOLINE SPILLS",
+      "FIRE BELOW RAMP",
+      "STEEL WEAKENS",
+      "RAMP COLLAPSES"
+    ],
+    "zaman": [],
+    "yanilgi": "No earthquake was needed. Heat alone weakened the steel.",
+    "tartisma": "Steel is strong but weakens fast in fire. Should key ramps be fireproofed?",
+    "basliklar": [
+      "A Tanker Fire Melted a Freeway Ramp",
+      "Why the MacArthur Maze Collapsed",
+      "The Fire That Melted a Freeway"
+    ],
+    "kapak": [
+      "TANKER FIRE",
+      "MELTED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — MacArthur Maze",
+        "url": "https://en.wikipedia.org/wiki/MacArthur_Maze"
+      },
+      {
+        "ad": "Government source — 4k810 pac3compliant scannedsigpages (cited by Wikipedia)",
+        "url": "https://dot.ca.gov/-/media/dot-media/district-4/documents/d4-environmental-docs/80-macarthur-maze-vertical-clearance-project/4k810_pac3compliant-scannedsigpages.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "MacArthur_Maze",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "I-580 Connector in bad condition (477838778).jpg [CC BY 2.0]",
+      "Macarthur Maze, early 1970s (21292861241).jpg [CC BY 2.0]",
+      "Macarthur maze flyovers (3448155924).jpg [CC BY 2.0]"
+    ]
+  }
+}

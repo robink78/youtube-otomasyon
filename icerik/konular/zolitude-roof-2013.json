@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Supermarket Roof That Collapsed Under a Garden",
+  "kaynaklar": [
+    {
+      "ad": "zolitude-roof-1.jpg",
+      "wikimedia": "First hours after Maxima roof collapse.jpg"
+    },
+    {
+      "ad": "zolitude-roof-2.jpg",
+      "wikimedia": "Zolitude - panoramio (37).jpg"
+    },
+    {
+      "ad": "zolitude-roof-3.jpg",
+      "wikimedia": "Zolitude skyline - panoramio (5).jpg"
+    },
+    {
+      "ad": "zolitude-roof-4.jpg",
+      "wikimedia": "Zolitude skyline - panoramio (3).jpg"
+    },
+    {
+      "ad": "zolitude-roof-5.jpg",
+      "wikimedia": "Zolitude - panoramio (40).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The roof of a Riga supermarket collapsed on a busy evening.",
+      "kaynak": "Footage/zolitude-roof-1.jpg"
+    },
+    {
+      "metin": "Shoppers and rescuers were crushed, and fifty four people died.",
+      "kaynak": "Footage/zolitude-roof-2.jpg"
+    },
+    {
+      "metin": "A rooftop garden was being built above the store.",
+      "kaynak": "Footage/zolitude-roof-3.jpg"
+    },
+    {
+      "metin": "Heavy soil had been placed on the roof.",
+      "kaynak": "Footage/zolitude-roof-4.jpg"
+    },
+    {
+      "metin": "The roof's steel trusses had design and construction flaws.",
+      "kaynak": "Footage/zolitude-roof-5.jpg"
+    },
+    {
+      "metin": "A fire alarm sounded, but shoppers weren't evacuated.",
+      "kaynak": "Footage/zolitude-roof-1.jpg"
+    },
+    {
+      "metin": "More of the roof fell as rescuers worked.",
+      "kaynak": "Footage/zolitude-roof-2.jpg"
+    },
+    {
+      "metin": "Latvia overhauled building inspection afterward.",
+      "kaynak": "Footage/zolitude-roof-3.jpg"
+    }
+  ],
+  "aciklama": "Zolitude had its roof collapse onto shoppers. The cause: design and construction errors in roof trusses overloaded by a rooftop garden.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Zolitude",
+    "2013",
+    "roof",
+    "engineering failure"
+  ],
+  "hook": "The alarm was ignored",
+  "soru": "How do you trust alarms?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the Zolitūde supermarket",
+    "kisa": "Zolitude",
+    "nesne": "Roof",
+    "yil": 2013,
+    "sonuc": "had its roof collapse onto shoppers",
+    "tetik": "a rooftop garden and heavy soil being added",
+    "mekanizma": "design and construction errors in roof trusses overloaded by a rooftop garden",
+    "sayi": "54 DIED",
+    "ders": "Latvia overhauled building inspection and construction oversight",
+    "zincir": [
+      "ROOF DESIGN FLAWED",
+      "ROOFTOP GARDEN ADDED",
+      "HEAVY SOIL ON ROOF",
+      "ALARM IGNORED",
+      "ROOF COLLAPSES"
+    ],
+    "zaman": [],
+    "yanilgi": "A fire alarm sounded before the collapse. Shoppers weren't evacuated.",
+    "tartisma": "The alarm was treated as a false alarm. How do you keep alarms from being ignored?",
+    "basliklar": [
+      "The Supermarket Roof That Collapsed Under a Garden",
+      "Why the Zolitūde Supermarket Roof Collapsed",
+      "The Rooftop Garden That Brought Down a Roof"
+    ],
+    "kapak": [
+      "ROOF GARDEN",
+      "54 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Zolitūde shopping centre roof collapse",
+        "url": "https://en.wikipedia.org/wiki/Zolitūde_shopping_centre_roof_collapse"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — SB10001424052702303653004579213200159484692 (cited by Wikipedia)",
+        "url": "https://online.wsj.com/news/articles/SB10001424052702303653004579213200159484692"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15",
+    "wiki": "Zolitūde_shopping_centre_roof_collapse",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "First hours after Maxima roof collapse.jpg [CC BY 4.0]",
+      "Zolitude - panoramio (37).jpg [CC BY 3.0]",
+      "Zolitude skyline - panoramio (5).jpg [CC BY 3.0]",
+      "Zolitude skyline - panoramio (3).jpg [CC BY 3.0]",
+      "Zolitude - panoramio (40).jpg [CC BY 3.0]"
+    ]
+  }
+}

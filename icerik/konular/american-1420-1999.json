@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Spoilers That Weren't Armed for a Stormy Landing",
+  "kaynaklar": [
+    {
+      "ad": "american-1420-1.jpg",
+      "wikimedia": "Aftermath of N215AAA.jpg"
+    },
+    {
+      "ad": "american-1420-2.jpg",
+      "wikimedia": "American Airlines Flight 1420 wreckage.jpg"
+    },
+    {
+      "ad": "american-1420-3.jpg",
+      "wikimedia": "American Airlines Flight 1420 wreckage2.jpg"
+    },
+    {
+      "ad": "american-1420-4.jpg",
+      "wikimedia": "N215AA Wreckage.jpg"
+    },
+    {
+      "ad": "american-1420-5.jpg",
+      "wikimedia": "American Airlines Flight 1420.jpg"
+    },
+    {
+      "ad": "american-1420-6.jpg",
+      "wikimedia": "AmericanAirlines1420SeatInjuryMap.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Landing in a thunderstorm, an MD-82 ran off the runway at Little Rock.",
+      "kaynak": "Footage/american-1420-1.jpg"
+    },
+    {
+      "metin": "It struck approach lights and broke apart, and eleven people died.",
+      "kaynak": "Footage/american-1420-2.jpg"
+    },
+    {
+      "metin": "The crew had been rushing to land before the storm got worse.",
+      "kaynak": "Footage/american-1420-3.jpg"
+    },
+    {
+      "metin": "They didn't arm the spoilers.",
+      "kaynak": "Footage/american-1420-4.jpg"
+    },
+    {
+      "metin": "Spoilers dump lift and press the wheels onto the runway.",
+      "kaynak": "Footage/american-1420-5.jpg"
+    },
+    {
+      "metin": "Without them, braking on the wet surface was poor.",
+      "kaynak": "Footage/american-1420-6.jpg"
+    },
+    {
+      "metin": "The crew was also tired after a long day.",
+      "kaynak": "Footage/american-1420-1.jpg"
+    },
+    {
+      "metin": "Airlines stressed thunderstorm limits and checklist completion.",
+      "kaynak": "Footage/american-1420-2.jpg"
+    }
+  ],
+  "aciklama": "American 1420 overran the runway at Little Rock in a storm. The cause: overrun on a wet runway without spoilers deploying, reducing braking.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "American 1420",
+    "1999",
+    "spoilers",
+    "engineering failure"
+  ],
+  "hook": "The spoilers weren't armed",
+  "soru": "Land now, or divert?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "American Airlines Flight 1420",
+    "kisa": "American 1420",
+    "nesne": "Spoilers",
+    "yil": 1999,
+    "sonuc": "overran the runway at Little Rock in a storm",
+    "tetik": "landing in a thunderstorm with spoilers not armed",
+    "mekanizma": "overrun on a wet runway without spoilers deploying, reducing braking",
+    "sayi": "11 DIED",
+    "ders": "airlines stressed limits on landing in thunderstorms and checklist completion",
+    "zincir": [
+      "TIRED CREW, LONG DAY",
+      "STORM AT THE AIRPORT",
+      "SPOILERS NOT ARMED",
+      "POOR BRAKING",
+      "OVERRUN AND STRUCTURE HIT"
+    ],
+    "zaman": [],
+    "yanilgi": "The storm alone didn't cause the overrun. Without spoilers, the wheels had far less grip.",
+    "tartisma": "The crew pushed to land before the weather worsened. How does time pressure change decisions?",
+    "basliklar": [
+      "The Spoilers That Weren't Armed for a Stormy Landing",
+      "Why American Airlines Flight 1420 Overran the Runway",
+      "The Spoilers That Never Deployed"
+    ],
+    "kapak": [
+      "NO SPOILERS",
+      "STORM LANDING"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — American Airlines Flight 1420",
+        "url": "https://en.wikipedia.org/wiki/American_Airlines_Flight_1420"
+      },
+      {
+        "ad": "NTSB — AAR0102 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0102.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-14",
+    "wiki": "American_Airlines_Flight_1420",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Aftermath of N215AAA.jpg [Public domain]",
+      "American Airlines Flight 1420 wreckage.jpg [Public domain]",
+      "American Airlines Flight 1420 wreckage2.jpg [Public domain]",
+      "N215AA Wreckage.jpg [Public domain]",
+      "American Airlines Flight 1420.jpg [Public domain]",
+      "AmericanAirlines1420SeatInjuryMap.JPG [Public domain]"
+    ]
+  }
+}

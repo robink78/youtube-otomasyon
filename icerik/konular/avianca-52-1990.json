@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Jet That Ran Out of Fuel Without Saying Emergency",
+  "kaynaklar": [
+    {
+      "ad": "avianca-52-1.jpg",
+      "wikimedia": "Avianca-Flight-52-Wreckage-1.jpg"
+    },
+    {
+      "ad": "avianca-52-2.jpg",
+      "wikimedia": "Avianca52-seat-wreckage.jpg"
+    },
+    {
+      "ad": "avianca-52-3.jpg",
+      "wikimedia": "Avianca52-wreckage2.jpg"
+    },
+    {
+      "ad": "avianca-52-4.jpg",
+      "wikimedia": "Avianca52-wreckage5.jpg"
+    },
+    {
+      "ad": "avianca-52-5.jpg",
+      "wikimedia": "CrashAVA052 (cropped).jpg"
+    },
+    {
+      "ad": "avianca-52-6.jpg",
+      "wikimedia": "CrashAVA052.jpg"
+    },
+    {
+      "ad": "avianca-52-7.jpg",
+      "wikimedia": "HK-2016 Boeing 707-321B Avianca Colombia.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A Boeing 707 ran out of fuel and crashed on a Long Island hillside.",
+      "kaynak": "Footage/avianca-52-1.jpg"
+    },
+    {
+      "metin": "It broke apart, and seventy three people were killed.",
+      "kaynak": "Footage/avianca-52-2.jpg"
+    },
+    {
+      "metin": "The flight was held in three holding patterns.",
+      "kaynak": "Footage/avianca-52-3.jpg"
+    },
+    {
+      "metin": "Fuel ran low.",
+      "kaynak": "Footage/avianca-52-4.jpg"
+    },
+    {
+      "metin": "The crew asked for priority, but never said emergency.",
+      "kaynak": "Footage/avianca-52-5.jpg"
+    },
+    {
+      "metin": "After a missed approach, the engines flamed out.",
+      "kaynak": "Footage/avianca-52-6.jpg"
+    },
+    {
+      "metin": "Controllers didn't grasp how little fuel was left.",
+      "kaynak": "Footage/avianca-52-7.jpg"
+    },
+    {
+      "metin": "Fuel emergency terms were standardized.",
+      "kaynak": "Footage/avianca-52-1.jpg"
+    }
+  ],
+  "aciklama": "Avianca 52 ran out of fuel and crashed on Long Island. The cause: holding delays and a missed approach while controllers didn't understand the fuel state.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Avianca 52",
+    "1990",
+    "fuel",
+    "engineering failure"
+  ],
+  "hook": "They never said emergency",
+  "soru": "Should safety depend on one word?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Avianca Flight 052",
+    "kisa": "Avianca 52",
+    "nesne": "Fuel",
+    "yil": 1990,
+    "sonuc": "ran out of fuel and crashed on Long Island",
+    "tetik": "a crew that never declared a fuel emergency",
+    "mekanizma": "holding delays and a missed approach while controllers didn't understand the fuel state",
+    "sayi": "73 DIED",
+    "ders": "fuel emergency terminology was standardized",
+    "zincir": [
+      "THREE HOLDS",
+      "FUEL RUNS LOW",
+      "CREW ASKS FOR PRIORITY",
+      "NO WORD EMERGENCY",
+      "ENGINES FLAME OUT"
+    ],
+    "zaman": [],
+    "yanilgi": "The crew asked for priority. Controllers didn't treat it as an emergency.",
+    "tartisma": "One word could have changed the outcome. Should safety depend on the right word?",
+    "basliklar": [
+      "The Jet That Ran Out of Fuel Without Saying Emergency",
+      "Why Avianca Flight 52 Ran Out of Fuel",
+      "The Word the Crew Never Said"
+    ],
+    "kapak": [
+      "NO FUEL",
+      "ONE WORD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Avianca Flight 052",
+        "url": "https://en.wikipedia.org/wiki/Avianca_Flight_052"
+      },
+      {
+        "ad": "NTSB — AAR9104 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR9104.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-19",
+    "wiki": "Avianca_Flight_052",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Avianca-Flight-52-Wreckage-1.jpg [Public domain]",
+      "Avianca52-seat-wreckage.jpg [Public domain]",
+      "Avianca52-wreckage2.jpg [Public domain]",
+      "Avianca52-wreckage5.jpg [Public domain]",
+      "CrashAVA052 (cropped).jpg [Public domain]",
+      "CrashAVA052.jpg [Public domain]",
+      "HK-2016 Boeing 707-321B Avianca Colombia.jpg [CC BY 2.0]"
+    ]
+  }
+}

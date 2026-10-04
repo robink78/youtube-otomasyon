@@ -1,0 +1,2570 @@
+{
+  "schema": "growth-short-plan/1",
+  "channel": "critical-thread",
+  "channelName": "CriticalThread",
+  "contentType": "short",
+  "createdAt": "2026-10-04T17:55:03.235Z",
+  "topic": {
+    "id": "CT-470",
+    "slug": "what-quietly-depends-on-uninterruptible-power-supply",
+    "title": "The Batteries Buying Data Centres 15 Minutes",
+    "cluster": "DATA CENTERS",
+    "subject": "uninterruptible power supply"
+  },
+  "topicScore": {
+    "channel": "critical-thread",
+    "topicId": "CT-470",
+    "slug": "what-quietly-depends-on-uninterruptible-power-supply",
+    "title": "The Batteries Buying Data Centres 15 Minutes",
+    "cluster": "DATA CENTERS",
+    "VideoPotentialScore": 85,
+    "ViralPotentialScore": 75,
+    "SelectionScore": 79,
+    "bucket": "A",
+    "reasons": [
+      "VideoPotential 85 ≥ 80",
+      "hook 80",
+      "sources 95"
+    ],
+    "enrichable": false,
+    "factors": {
+      "TopicDemandScore": {
+        "value": 62,
+        "basis": "measured",
+        "note": "Wikipedia monthly pageviews: Uninterruptible power supply (12388)"
+      },
+      "CuriosityScore": {
+        "value": 91,
+        "basis": "inventory-signal"
+      },
+      "HookPotentialScore": {
+        "value": 80,
+        "basis": "derived",
+        "note": "13 candidates / 9 families"
+      },
+      "VisualImpactScore": {
+        "value": 91,
+        "basis": "inventory-signal"
+      },
+      "EmotionalImpactScore": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "StoryCompressionScore": {
+        "value": 84,
+        "basis": "derived"
+      },
+      "RewatchPotentialScore": {
+        "value": 69,
+        "basis": "derived"
+      },
+      "SharePotentialScore": {
+        "value": 77,
+        "basis": "derived"
+      },
+      "CommentPotentialScore": {
+        "value": 53,
+        "basis": "derived"
+      },
+      "SubscriberConversionPotential": {
+        "value": 88,
+        "basis": "derived+learned",
+        "note": "series depth: 18 topics in DATA CENTERS"
+      },
+      "NoveltyScore": {
+        "value": 84,
+        "basis": "inventory-signal"
+      },
+      "AudienceFitScore": {
+        "value": 90,
+        "basis": "inventory-signal"
+      },
+      "SourceQualityScore": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "ChannelFitScore": {
+        "value": 100,
+        "basis": "derived"
+      }
+    },
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 91,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 62,
+        "basis": "measured"
+      },
+      "surprise": {
+        "value": 60,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 91,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 93,
+        "basis": "derived",
+        "note": "5 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 50,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 77,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 27,
+        "basis": "learned",
+        "note": "1 same-cluster upload(s), breakout rate 0"
+      },
+      "subscriber_conversion_potential": {
+        "value": 88,
+        "basis": "derived",
+        "note": "series-depth proxy; no measured conversion yet"
+      },
+      "audience_breadth": {
+        "value": 90,
+        "basis": "inventory-signal"
+      },
+      "hook_potential": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "visual_availability": {
+        "value": 67,
+        "basis": "inventory-signal"
+      },
+      "research_confidence": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": -17,
+        "basis": "penalty",
+        "note": "1 published / 18 inventory in cluster"
+      },
+      "recent_fatigue_risk": {
+        "value": -22,
+        "basis": "penalty",
+        "note": "1 same-family upload(s) in the last 30 days"
+      },
+      "source_confidence_risk": {
+        "value": -5,
+        "basis": "penalty",
+        "note": "95/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -33,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "viralWeights": {
+      "curiosity_gap": 1.1,
+      "immediate_stakes": 1.1,
+      "human_consequence": 0.9,
+      "recognizability": 0.9,
+      "surprise": 0.9,
+      "visual_potential": 1,
+      "archival_footage_potential": 0.8,
+      "first_frame_potential": 1,
+      "title_potential": 0.8,
+      "emotional_tension": 0.9,
+      "contradiction": 0.7,
+      "unexpected_cause": 0.9,
+      "numerical_anomaly": 0.6,
+      "didnt_know_factor": 0.8,
+      "shareability": 0.9,
+      "channel_fit": 1,
+      "historical_similarity": 1,
+      "subscriber_conversion_potential": 1.1,
+      "audience_breadth": 0.9,
+      "hook_potential": 1,
+      "visual_availability": 0.9,
+      "research_confidence": 1,
+      "duplicate_risk": 1.2,
+      "saturation_risk": 0.6,
+      "recent_fatigue_risk": 0.9,
+      "source_confidence_risk": 1.2,
+      "weak_footage_risk": 0.8
+    },
+    "viralCalculation": {
+      "positive": 78.1,
+      "penalty": 3.3,
+      "penaltyScale": 0.25
+    },
+    "weights": {
+      "TopicDemandScore": 1,
+      "CuriosityScore": 1.1,
+      "HookPotentialScore": 1.2,
+      "VisualImpactScore": 0.9,
+      "EmotionalImpactScore": 1.2,
+      "StoryCompressionScore": 1.2,
+      "RewatchPotentialScore": 0.6,
+      "SharePotentialScore": 0.9,
+      "CommentPotentialScore": 0.7,
+      "SubscriberConversionPotential": 0.9,
+      "NoveltyScore": 0.9,
+      "AudienceFitScore": 1,
+      "SourceQualityScore": 1.3,
+      "ChannelFitScore": 1.3
+    },
+    "boilerplate": {
+      "ratio": 0,
+      "templatedFields": [],
+      "checkedFields": 8
+    },
+    "specificEvidence": 7,
+    "sourceQuality": {
+      "score": 95,
+      "tiers": [
+        {
+          "name": "International Telecommunication Union",
+          "url": "https://www.itu.int/",
+          "tier": "GOVERNMENT_AGENCY",
+          "score": 95
+        },
+        {
+          "name": "U.S. Federal Communications Commission",
+          "url": "https://www.fcc.gov/",
+          "tier": "GOVERNMENT_AGENCY",
+          "score": 95
+        }
+      ],
+      "primaryCount": 2,
+      "notes": []
+    },
+    "selectedHook": {
+      "family": "visual_first_reveal",
+      "spoken": "The grid fails. The batteries have 15 minutes.",
+      "score": 80
+    }
+  },
+  "viralPotentialGate": {
+    "score": 75,
+    "minimum": 68,
+    "decision": "PRODUCE",
+    "components": {
+      "curiosity_gap": {
+        "value": 91,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 62,
+        "basis": "measured"
+      },
+      "surprise": {
+        "value": 60,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 91,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 93,
+        "basis": "derived",
+        "note": "5 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 50,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 77,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 27,
+        "basis": "learned",
+        "note": "1 same-cluster upload(s), breakout rate 0"
+      },
+      "subscriber_conversion_potential": {
+        "value": 88,
+        "basis": "derived",
+        "note": "series-depth proxy; no measured conversion yet"
+      },
+      "audience_breadth": {
+        "value": 90,
+        "basis": "inventory-signal"
+      },
+      "hook_potential": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "visual_availability": {
+        "value": 67,
+        "basis": "inventory-signal"
+      },
+      "research_confidence": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": -17,
+        "basis": "penalty",
+        "note": "1 published / 18 inventory in cluster"
+      },
+      "recent_fatigue_risk": {
+        "value": -22,
+        "basis": "penalty",
+        "note": "1 same-family upload(s) in the last 30 days"
+      },
+      "source_confidence_risk": {
+        "value": -5,
+        "basis": "penalty",
+        "note": "95/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -33,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    }
+  },
+  "topicDecision": null,
+  "hooks": {
+    "selected": {
+      "family": "visual_first_reveal",
+      "spoken": "The grid fails. The batteries have 15 minutes.",
+      "onScreen": "15 MINUTES",
+      "fields": [
+        "openingLine"
+      ],
+      "editorial": true,
+      "words": 8,
+      "estimatedSeconds": 2.5,
+      "scores": {
+        "SwipeStoppingPower": 85,
+        "CuriosityGap": 35,
+        "Clarity": 100,
+        "Specificity": 63,
+        "EmotionalIntensity": 48,
+        "Credibility": 100,
+        "VisualCompatibility": 96,
+        "ChannelFit": 60,
+        "ImmediateComprehension": 88,
+        "RetentionExpectation": 58,
+        "VoiceoverNaturalness": 100,
+        "FirstFrameCompatibility": 96,
+        "FactualDefensibility": 100,
+        "ShortFormSuitability": 97
+      },
+      "total": 80,
+      "blocked": false,
+      "blockers": [],
+      "generic": false,
+      "adjustedTotal": 80,
+      "fitsOpening": true
+    },
+    "selectedScore": 80,
+    "passes": true,
+    "candidateCount": 13,
+    "familyCount": 9,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "family": "visual_first_reveal",
+        "spoken": "The grid fails. The batteries have 15 minutes.",
+        "onScreen": "15 MINUTES",
+        "fields": [
+          "openingLine"
+        ],
+        "editorial": true,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 85,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 63,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 96,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 58,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 96,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 80,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 80,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_question",
+        "spoken": "What Happens to Data Centres When the Grid Fails?",
+        "onScreen": "15 MINUTES POWER",
+        "fields": [
+          "editorialTitles"
+        ],
+        "editorial": true,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 70,
+          "CuriosityGap": 73,
+          "Clarity": 100,
+          "Specificity": 38,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 72,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 78,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 78,
+        "fitsOpening": true
+      },
+      {
+        "family": "countdown",
+        "spoken": "The batteries have 15 minutes.",
+        "onScreen": "15 MINUTES",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 5,
+        "estimatedSeconds": 1.6,
+        "scores": {
+          "SwipeStoppingPower": 80,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 84,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 55,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 84,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 76,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 76,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "It's enough to start generators or shut down safely.",
+        "onScreen": "15 MINUTES POWER",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 70,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 56,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 74,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 74,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "If the generator doesn't start in time, everything drops.",
+        "onScreen": "15 MINUTES POWER",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 59,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 62,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 74,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 74,
+        "fitsOpening": true
+      },
+      {
+        "family": "shocking_consequence",
+        "spoken": "If the UPS or the handover fails, servers drop instantly.",
+        "onScreen": "15 MINUTES POWER",
+        "fields": [
+          "consequence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 63,
+          "CuriosityGap": 35,
+          "Clarity": 95,
+          "Specificity": 30,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 89,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 85,
+          "RetentionExpectation": 48,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 89,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 73,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 73,
+        "fitsOpening": false
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "Telecom sites often run on 48-volt battery plants.",
+        "onScreen": "15 MINUTES POWER",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 49,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 73,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 73,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "Some standby units take up to 25 milliseconds to switch over.",
+        "onScreen": "15 MINUTES POWER",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 35,
+          "Clarity": 90,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 45,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 70,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 70,
+        "fitsOpening": false
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "Many ferroresonant UPSs are 82–88% efficient (AC/DC-AC) and offer excellent isolation.",
+        "onScreen": "88%",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 35,
+          "Clarity": 80,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 66,
+          "RetentionExpectation": 45,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 69,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 69,
+        "fitsOpening": false
+      },
+      {
+        "family": "question_gap",
+        "spoken": "What stops if uninterruptible power supply stops?",
+        "onScreen": "15 MINUTES POWER",
+        "fields": [
+          "subject"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 95,
+          "CuriosityGap": 63,
+          "Clarity": 100,
+          "Specificity": 51,
+          "EmotionalIntensity": 66,
+          "Credibility": 100,
+          "VisualCompatibility": 59,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 77,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 59,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": true
+      },
+      {
+        "family": "unexpected_chain_reaction",
+        "spoken": "That's typical battery runtime for an uninterruptible power supply.",
+        "onScreen": "15 MINUTES POWER",
+        "fields": [
+          "secondBeat"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 71,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 96,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 80,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 40,
+        "blocked": true,
+        "blockers": [
+          "context-dependent opening"
+        ],
+        "generic": false,
+        "adjustedTotal": 40,
+        "fitsOpening": true
+      },
+      {
+        "family": "scarcity_bottleneck",
+        "spoken": "Replacing uninterruptible power supply is not a simple purchase.",
+        "onScreen": "15 MINUTES POWER",
+        "fields": [
+          "bottleneck"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 49,
+          "Clarity": 100,
+          "Specificity": 71,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 70,
+          "ChannelFit": 80,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 56,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 70,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 40,
+        "blocked": true,
+        "blockers": [
+          "generic synthetic opening"
+        ],
+        "generic": false,
+        "adjustedTotal": 40,
+        "fitsOpening": true
+      },
+      {
+        "family": "countdown",
+        "spoken": "That's why the internet's uptime rests on a few minutes of batteries.",
+        "onScreen": "15 MINUTES POWER",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 12,
+        "estimatedSeconds": 3.8,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 49,
+          "Clarity": 85,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 84,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 70,
+          "RetentionExpectation": 53,
+          "VoiceoverNaturalness": 90,
+          "FirstFrameCompatibility": 84,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 82
+        },
+        "total": 40,
+        "blocked": true,
+        "blockers": [
+          "context-dependent opening"
+        ],
+        "generic": false,
+        "adjustedTotal": 40,
+        "fitsOpening": false
+      }
+    ]
+  },
+  "first3Seconds": {
+    "First3SecondPlan": {
+      "narration": "The grid fails. The batteries have 15 minutes.",
+      "firstFrame": {
+        "description": "uninterruptible power supply isolated, dependency lines to what fails without it",
+        "source": "procedural render",
+        "startAtSeconds": 0,
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "communicates": "dependency",
+        "rule": "labelled illustration; no logo, no establishing shot"
+      },
+      "visual": "uninterruptible power supply isolated, dependency lines to what fails without it",
+      "onScreenText": "15 MINUTES",
+      "motion": "dependency lines draw outward in 0.6 s, then hard cut",
+      "cutTiming": [
+        0,
+        1.3,
+        2.5
+      ],
+      "soundCue": "single mechanical click on the first cut",
+      "communicates": "dependency"
+    },
+    "score": 89,
+    "passes": true,
+    "blockers": [],
+    "notes": []
+  },
+  "script": {
+    "format": "short",
+    "generator": "editorial (researched record)",
+    "targetSeconds": 23.6,
+    "spoken": "The grid fails. The batteries have 15 minutes. That's typical battery runtime for an uninterruptible power supply. It's enough to start generators or shut down safely. Some standby units take up to 25 milliseconds to switch over. If the generator doesn't start in time, everything drops. Telecom sites often run on 48-volt battery plants. That's why the internet's uptime rests on a few minutes of batteries.",
+    "claims": [
+      {
+        "start": 0,
+        "end": 2.9,
+        "role": "HIDDEN_SYSTEM",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "The grid fails. The batteries have 15 minutes."
+      },
+      {
+        "start": 2.9,
+        "end": 6.1,
+        "role": "WHY_IT_MATTERS",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "That's typical battery runtime for an uninterruptible power supply."
+      },
+      {
+        "start": 6.1,
+        "end": 9.3,
+        "role": "WHAT_DEPENDS_ON_IT",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "It's enough to start generators or shut down safely."
+      },
+      {
+        "start": 9.3,
+        "end": 13.2,
+        "role": "BOTTLENECK",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Some standby units take up to 25 milliseconds to switch over."
+      },
+      {
+        "start": 13.2,
+        "end": 16.4,
+        "role": "FAILURE",
+        "layer": "MODEL",
+        "confidence": "MODEL",
+        "text": "If the generator doesn't start in time, everything drops."
+      },
+      {
+        "start": 16.4,
+        "end": 19.3,
+        "role": "WHAT_DEPENDS_ON_IT",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Telecom sites often run on 48-volt battery plants."
+      },
+      {
+        "start": 19.3,
+        "end": 23.6,
+        "role": "PAYOFF",
+        "layer": "MODEL",
+        "confidence": "MODEL",
+        "text": "That's why the internet's uptime rests on a few minutes of batteries."
+      }
+    ],
+    "lines": [
+      "The grid fails. The batteries have 15 minutes.",
+      "That's typical battery runtime for an uninterruptible power supply.",
+      "It's enough to start generators or shut down safely.",
+      "Some standby units take up to 25 milliseconds to switch over.",
+      "If the generator doesn't start in time, everything drops.",
+      "Telecom sites often run on 48-volt battery plants.",
+      "That's why the internet's uptime rests on a few minutes of batteries."
+    ],
+    "structure": [
+      "HIDDEN_SYSTEM",
+      "WHY_IT_MATTERS",
+      "WHAT_DEPENDS_ON_IT",
+      "BOTTLENECK",
+      "FAILURE",
+      "WHAT_DEPENDS_ON_IT",
+      "PAYOFF"
+    ],
+    "forbiddenOpening": false,
+    "sourceIds": [
+      "International Telecommunication Union",
+      "U.S. Federal Communications Commission"
+    ],
+    "retention": {
+      "score": 95,
+      "words": 66,
+      "estimatedSeconds": 23.6,
+      "components": {
+        "hookDelay": 95,
+        "setupDelay": 85,
+        "sentenceLength": 100,
+        "informationDensity": 99,
+        "repetition": 100,
+        "deadSections": 100,
+        "escalation": 45,
+        "unansweredQuestions": 60,
+        "earlyPayoff": 90,
+        "visualOpportunities": 87,
+        "clarity": 100,
+        "duration": 95,
+        "endingStrength": 95
+      },
+      "duplicatePairs": [],
+      "findings": [
+        "no curiosity bridge after the opening"
+      ],
+      "blockers": [],
+      "roles": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "rejectionReason": null,
+      "rewriteSuggested": false,
+      "passes": true
+    },
+    "openingRewrite": {
+      "lines": [
+        "The grid fails. The batteries have 15 minutes.",
+        "That's typical battery runtime for an uninterruptible power supply.",
+        "It's enough to start generators or shut down safely.",
+        "Some standby units take up to 25 milliseconds to switch over.",
+        "If the generator doesn't start in time, everything drops.",
+        "Telecom sites often run on 48-volt battery plants.",
+        "That's why the internet's uptime rests on a few minutes of batteries."
+      ],
+      "changed": false,
+      "original": "The grid fails. The batteries have 15 minutes.",
+      "selected": "The grid fails. The batteries have 15 minutes."
+    },
+    "estimatedSeconds": 23.6
+  },
+  "titles": {
+    "selected": {
+      "title": "What Happens to Data Centres When the Grid Fails?",
+      "source": "editorial",
+      "pattern": "question",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 84,
+        "specificity": 47,
+        "truthfulness": 100,
+        "searchIntent": 42,
+        "channelIdentity": 72,
+        "ctrPotential": 77,
+        "novelty": 100,
+        "evergreenPotential": 75,
+        "consequence": 80,
+        "compactness": 100,
+        "recognizability": 38,
+        "nonRedundancy": 100,
+        "factualIntegrity": 100,
+        "historicalPerformanceSimilarity": 50,
+        "patternFreshness": 100
+      },
+      "total": 80,
+      "patternPenalty": 0,
+      "templateNaturalnessPenalty": 0,
+      "adjustedTotal": 80,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 80,
+    "count": 37,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "title": "What Happens to Data Centres When the Grid Fails?",
+        "source": "editorial",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 72,
+          "ctrPotential": 77,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 80,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Depends on Uninterruptible Power Supply?",
+        "source": "what-depends",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 87,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 90,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Inside Uninterruptible Power Supply: The Hidden Dependency",
+        "source": "inside",
+        "pattern": "inside",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 87,
+          "novelty": 73,
+          "evergreenPotential": 85,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 73,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 85,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 75,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Inside Uninterruptible Power Supply: The Hidden Bottleneck",
+        "source": "legacy-generator",
+        "pattern": "inside",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 79,
+          "novelty": 84,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 84,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 83,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Can We Replace Uninterruptible Power Supply Fast Enough?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 66,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 83,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "5: Inside Uninterruptible Power Supply",
+        "source": "number-led",
+        "pattern": "number-led",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 77,
+          "novelty": 91,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 91,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 83,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "25: Inside Uninterruptible Power Supply",
+        "source": "number-led",
+        "pattern": "number-led",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 92,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 77,
+          "novelty": 92,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 92,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 83,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Uninterruptible Power Supply: The System Behind the System",
+        "source": "system-behind-system",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 92,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 92,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 82,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 72,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Uninterruptible Power Supply Is so Hard to Replace",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 83,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 69,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Fails When Uninterruptible Power Supply Stops",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 86,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 69,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How Uninterruptible Power Supply Became Critical Infrastructure",
+        "source": "legacy-generator",
+        "pattern": "how",
+        "scores": {
+          "clarity": 96,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 94,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 79,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 69,
+        "unsupportedWords": [
+          "became"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "What Stops If Uninterruptible Power Supply Stops",
+        "source": "what-stops",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 86,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 69,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Uninterruptible Power Supply: Failure, Recovery and Redundancy",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 97,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 53,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 80,
+          "compactness": 96,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 78,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 68,
+        "unsupportedWords": [
+          "recovery"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Uninterruptible Power Supply: One Bottleneck, Global Consequences",
+        "source": "global-consequences",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 93,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 80,
+          "compactness": 90,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 78,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 68,
+        "unsupportedWords": [
+          "global"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Batteries Buying Data Centres 15 Minutes",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 62,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 60,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 72,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 65,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Uninterruptible Power Supply: The Replacement Problem",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 77,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 67,
+        "unsupportedWords": [
+          "problem"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Dependency Inside Data Centers",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 77,
+          "novelty": 70,
+          "evergreenPotential": 75,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 70,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 74,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Batteries Behind Every Data Centre",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 60,
+          "ctrPotential": 57,
+          "novelty": 92,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 92,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 71,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 64,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How Uninterruptible Power Supply Holds the Chain Together",
+        "source": "holds-chain",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 66,
+        "unsupportedWords": [
+          "holds",
+          "together"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The World Quietly Depends on Uninterruptible Power Supply",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 82,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 65,
+        "unsupportedWords": [
+          "quietly"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why Uninterruptible Power Supply Matters More Than It Looks",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 79,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 65,
+        "unsupportedWords": [
+          "looks"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Critical System Behind Uninterruptible Power Supply",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 93,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 93,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 81,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 64,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How Uninterruptible Power Supply Holds Modern Infrastructure Together",
+        "source": "legacy-generator",
+        "pattern": "how",
+        "scores": {
+          "clarity": 87,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 82,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 74,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 64,
+        "unsupportedWords": [
+          "holds",
+          "together"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why Uninterruptible Power Supply Became Irreplaceable",
+        "source": "became-irreplaceable",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 77,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 63,
+        "unsupportedWords": [
+          "became",
+          "irreplaceable"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "What Modern Life Needs From Uninterruptible Power Supply",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 87,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 79,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 62,
+        "unsupportedWords": [
+          "needs"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Chain Reaction If Uninterruptible Power Supply Fails",
+        "source": "failure-chain",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 63,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 79,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 62,
+        "unsupportedWords": [
+          "reaction"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why Servers Survive a Blackout",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 60,
+          "ctrPotential": 57,
+          "novelty": 20,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 20,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 63,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 59,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why There Is No Quick Substitute for Uninterruptible Power Supply",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 93,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 87,
+          "channelIdentity": 74,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 90,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 74,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 60,
+        "unsupportedWords": [
+          "quick",
+          "substitute"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Fragile Chain Behind Uninterruptible Power Supply",
+        "source": "fragile-chain",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 93,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 93,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 77,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 60,
+        "unsupportedWords": [
+          "fragile"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The System That Cannot Pause: Uninterruptible Power Supply",
+        "source": "legacy-generator",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 73,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 59,
+        "unsupportedWords": [
+          "cannot",
+          "pause"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Uninterruptible Power Supply Problem",
+        "source": "the-x-problem",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 76,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 59,
+        "unsupportedWords": [
+          "problem"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Where the Uninterruptible Power Supply Dependency Starts",
+        "source": "dependency-start",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 63,
+          "novelty": 93,
+          "evergreenPotential": 85,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 93,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 76,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 59,
+        "unsupportedWords": [
+          "where",
+          "starts"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Capacity Constraint Hidden in Uninterruptible Power Supply",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 97,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 57,
+          "novelty": 93,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 96,
+          "recognizability": 80,
+          "nonRedundancy": 93,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 74,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 57,
+        "unsupportedWords": [
+          "capacity",
+          "constraint"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Uninterruptible Power Supply: The Risk Hidden in Plain Sight",
+        "source": "hidden-risk",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 93,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 93,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 72,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 62,
+        "unsupportedWords": [
+          "risk",
+          "plain",
+          "sight"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "The Bottleneck Nobody Sees: Uninterruptible Power Supply",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 40,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 40,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 70,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 60,
+        "unsupportedWords": [
+          "nobody",
+          "sees"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "The Fragile Chain Built Around Uninterruptible Power Supply",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 70,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 53,
+        "unsupportedWords": [
+          "fragile",
+          "built",
+          "around"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "Where Uninterruptible Power Supply Fits in the Global Supply Chain",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 91,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 88,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 68,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 10,
+        "adjustedTotal": 51,
+        "unsupportedWords": [
+          "where",
+          "fits",
+          "global"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "cta": {
+    "type": "NONE",
+    "reason": "deterministic roll 0.53 ≥ ctaProbability 0.35"
+  },
+  "loop": {
+    "LoopPotentialScore": 66,
+    "apply": false,
+    "plan": {
+      "reason": "loop would not improve story satisfaction; ending stays a clean payoff"
+    }
+  },
+  "integrity": {
+    "score": 75,
+    "scenes": [
+      {
+        "scene": 1,
+        "text": "battery strings in a UPS room",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 2,
+        "text": "power cut timeline with handover",
+        "sourceClass": "PROCESS_DIAGRAM",
+        "label": "n/a"
+      },
+      {
+        "scene": 3,
+        "text": "diesel generator starting",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 4,
+        "text": "server racks blinking",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 5,
+        "text": "switch-over milliseconds graphic",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 6,
+        "text": "48 V telecom power plant",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      }
+    ],
+    "classes": [
+      "TECHNICAL_ILLUSTRATION",
+      "PROCESS_DIAGRAM"
+    ],
+    "hardFails": [],
+    "notes": []
+  },
+  "factual": {
+    "score": 100,
+    "hardFails": [],
+    "notes": [],
+    "claimClasses": {
+      "CONFIRMED_FACT": 4
+    },
+    "unsupportedNumbers": []
+  },
+  "pacing": {
+    "plannedSegments": [
+      1.319,
+      0.901,
+      1.348,
+      1.932,
+      1.784,
+      2.387,
+      1.646,
+      3.201,
+      3.225,
+      2.641,
+      3.216
+    ],
+    "segments": 11,
+    "cutsInFirst3Seconds": 3,
+    "averageSeconds": 2.15,
+    "longestSeconds": 3.225,
+    "mechanical": false
+  },
+  "captions": {
+    "events": 23,
+    "maxWords": 4,
+    "maxLines": 2,
+    "tooFast": 0,
+    "safeZoneMarginV": 560,
+    "passes": true
+  },
+  "relatedLong": null,
+  "experiment": null,
+  "readiness": {
+    "ProductionReadinessScore": 90,
+    "decision": "PUBLISH",
+    "stage": "final",
+    "dimensions": {
+      "topicPotential": 85,
+      "viralPotential": 75,
+      "hook": 80,
+      "title": 80,
+      "script": 95,
+      "firstSeconds": 89,
+      "factual": 100,
+      "visualRelevance": 75,
+      "sources": 95,
+      "metadata": 100,
+      "visualQuality": 100,
+      "audio": 85,
+      "captions": 90,
+      "duration": 100,
+      "pacing": 92,
+      "render": 100
+    },
+    "renderedVisualQuality": {
+      "source": "render.video.visualQuality",
+      "score": 100,
+      "decision": "PUBLISH",
+      "reasons": [],
+      "metrics": {
+        "measured": true,
+        "relevant": true,
+        "decision": "PUBLISH",
+        "assetType": "stock-video",
+        "asset": "Pexels video 28709421 pexels battery strings in a UPS room",
+        "topicTerms": [
+          "uninterruptible",
+          "supply",
+          "ups",
+          "battery",
+          "backup",
+          "batteries",
+          "instantly",
+          "while",
+          "generators",
+          "start",
+          "equipment",
+          "shuts",
+          "down",
+          "safely",
+          "grid",
+          "fails",
+          "have",
+          "minutes"
+        ],
+        "matchedTerms": [
+          "ups",
+          "battery"
+        ],
+        "strongTerms": [
+          "ups",
+          "battery"
+        ],
+        "genericTermsIgnored": [],
+        "subjectMatch": true,
+        "mechanismMatch": false,
+        "designDetailMatch": false,
+        "claimMatch": false,
+        "rejectionReasons": [],
+        "reason": "opening asset matches distinctive evidence: ups, battery"
+      }
+    },
+    "unmeasured": [],
+    "hardFails": [],
+    "notes": [],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "growthMeta": {
+    "hookType": "visual_first_reveal",
+    "hookScore": 80,
+    "selectedHook": "The grid fails. The batteries have 15 minutes.",
+    "firstLine": "The grid fails. The batteries have 15 minutes.",
+    "firstSecondsScore": 89,
+    "topicCluster": "DATA CENTERS",
+    "bucket": "A",
+    "viralScore": 75,
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 91,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 62,
+        "basis": "measured"
+      },
+      "surprise": {
+        "value": 60,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 91,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 93,
+        "basis": "derived",
+        "note": "5 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 50,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 77,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 27,
+        "basis": "learned",
+        "note": "1 same-cluster upload(s), breakout rate 0"
+      },
+      "subscriber_conversion_potential": {
+        "value": 88,
+        "basis": "derived",
+        "note": "series-depth proxy; no measured conversion yet"
+      },
+      "audience_breadth": {
+        "value": 90,
+        "basis": "inventory-signal"
+      },
+      "hook_potential": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "visual_availability": {
+        "value": 67,
+        "basis": "inventory-signal"
+      },
+      "research_confidence": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": -17,
+        "basis": "penalty",
+        "note": "1 published / 18 inventory in cluster"
+      },
+      "recent_fatigue_risk": {
+        "value": -22,
+        "basis": "penalty",
+        "note": "1 same-family upload(s) in the last 30 days"
+      },
+      "source_confidence_risk": {
+        "value": -5,
+        "basis": "penalty",
+        "note": "95/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -33,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "storyStructure": "HIDDEN_SYSTEM>WHY_IT_MATTERS>WHAT_DEPENDS_ON_IT>BOTTLENECK>FAILURE_CONSEQUENCE>RESILIENCE",
+    "titlePattern": "question",
+    "selectedTitle": "What Happens to Data Centres When the Grid Fails?",
+    "titleScore": 80,
+    "titleCandidates": 37,
+    "hookCandidates": 13,
+    "topicScore": 85,
+    "popularityScore": 62,
+    "ctaStyle": "NONE",
+    "durationBucket": "18-25s",
+    "openingVisual": "TECHNICAL_ILLUSTRATION",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 62,
+      "CuriosityScore": 91,
+      "HookPotentialScore": 80,
+      "VisualImpactScore": 91,
+      "EmotionalImpactScore": 97,
+      "StoryCompressionScore": 84,
+      "RewatchPotentialScore": 69,
+      "SharePotentialScore": 77,
+      "CommentPotentialScore": 53,
+      "SubscriberConversionPotential": 88,
+      "NoveltyScore": 84,
+      "AudienceFitScore": 90,
+      "SourceQualityScore": 95,
+      "ChannelFitScore": 100
+    },
+    "selectionMode": null
+  },
+  "summary": {
+    "Channel": "CriticalThread",
+    "Content Type": "SHORT",
+    "Topic": "The Batteries Buying Data Centres 15 Minutes",
+    "Topic Score": 85,
+    "Topic Bucket": "A",
+    "Selected Hook": "The grid fails. The batteries have 15 minutes.",
+    "Hook Type": "visual_first_reveal",
+    "Hook Score": 80,
+    "First-3-sec Score": 89,
+    "Duration": "~23.6s (estimated)",
+    "Scenes": 11,
+    "Production Score": "90 (final) → PUBLISH",
+    "Experiment": "none",
+    "Related Long Video": "none yet"
+  }
+}

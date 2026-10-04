@@ -1,0 +1,63 @@
+{
+  "slug": "the-physics-of-explosions",
+  "olusturuldu": "2026-09-24T16:22:41.792Z",
+  "originality": 91,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.14,
+      "kim": "how-carbon-monoxide-kills"
+    },
+    "hook": {
+      "deger": 0.16,
+      "kim": "why-buildings-collapse"
+    },
+    "structure": {
+      "deger": 0.67,
+      "kim": "how-volcanoes-erupt"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.5,
+      "kim": "halifax-explosion"
+    },
+    "cta": {
+      "deger": 0.17,
+      "kim": "how-lightning-destroys"
+    },
+    "description": {
+      "deger": 0.1,
+      "kim": "how-carbon-monoxide-kills"
+    },
+    "music": {
+      "deger": 0.84,
+      "kim": "how-gas-explosions-happen"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.14,
+    "HOOK_SIMILARITY": 0.16,
+    "STRUCTURE_SIMILARITY": 0.67,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.5,
+    "CTA_SIMILARITY": 0.17,
+    "DESCRIPTION_SIMILARITY": 0.1,
+    "MUSIC_SIMILARITY": 0.84
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

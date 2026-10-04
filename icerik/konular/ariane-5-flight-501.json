@@ -1,0 +1,123 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "One Line of Reused Code Blew Up Ariane 5",
+  "kaynaklar": [
+    {
+      "ad": "ariane-5-flight-501-1.jpg",
+      "wikimedia": "Ariane 501 Fragment.jpg"
+    },
+    {
+      "ad": "ariane-5-flight-501-2.jpg",
+      "wikimedia": "Ariane 5 payload fairing jettison test.JPG"
+    },
+    {
+      "ad": "ariane-5-flight-501-3.jpg",
+      "wikimedia": "Ariane 5 payload fairing jettison test from above.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A brand new rocket destroyed itself about thirty seven seconds after launch.",
+      "kaynak": "Footage/ariane-5-flight-501-1.jpg"
+    },
+    {
+      "metin": "It veered sideways, began breaking up and then exploded.",
+      "kaynak": "Footage/ariane-5-flight-501-2.jpg"
+    },
+    {
+      "metin": "The cause was one number.",
+      "kaynak": "Footage/ariane-5-flight-501-3.jpg"
+    },
+    {
+      "metin": "Guidance code copied from Ariane 4 squeezed a value into sixteen bits.",
+      "kaynak": "Footage/ariane-5-flight-501-1.jpg"
+    },
+    {
+      "metin": "Ariane 5 flew faster, so the value got too big to fit.",
+      "kaynak": "Footage/ariane-5-flight-501-2.jpg"
+    },
+    {
+      "metin": "The conversion overflowed, and both guidance computers shut down.",
+      "kaynak": "Footage/ariane-5-flight-501-3.jpg"
+    },
+    {
+      "metin": "The backup failed because it ran the same code.",
+      "kaynak": "Footage/ariane-5-flight-501-1.jpg"
+    },
+    {
+      "metin": "Reused software is now retested against the new rocket's real flight.",
+      "kaynak": "Footage/ariane-5-flight-501-2.jpg"
+    }
+  ],
+  "aciklama": "Ariane 5 self-destructed about 37 seconds after launch. The cause: unprotected floating-point to integer conversion overflow in reused Ariane 4 software.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Ariane 5",
+    "software bug",
+    "integer overflow",
+    "rocket failure",
+    "1996"
+  ],
+  "hook": "A number too big",
+  "soru": "Would you reuse proven code?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "Ariane 5 Flight 501",
+    "kisa": "Ariane 5",
+    "nesne": "Rocket",
+    "yil": 1996,
+    "sonuc": "self-destructed about 37 seconds after launch",
+    "tetik": "a 64-bit number squeezed into a 16-bit integer",
+    "mekanizma": "unprotected floating-point to integer conversion overflow in reused Ariane 4 software",
+    "sayi": "37 SECONDS",
+    "ders": "reused software is now re-verified against the new vehicle's real flight profile",
+    "zincir": [
+      "ARIANE 4 CODE REUSED",
+      "FASTER ROCKET, BIGGER VALUE",
+      "CONVERSION OVERFLOWS",
+      "BOTH GUIDANCE COMPUTERS FAIL",
+      "ROCKET VEERS AND SELF-DESTRUCTS"
+    ],
+    "zaman": [
+      {
+        "t": "Jun 4, 1996",
+        "olay": "Maiden flight; overflow and self-destruct"
+      }
+    ],
+    "yanilgi": "The backup computer didn't save it because it ran the same code and failed the same way, just milliseconds earlier.",
+    "tartisma": "The code had worked perfectly on Ariane 4. When is proven code not proven?",
+    "basliklar": [
+      "One Line of Reused Code Blew Up Ariane 5",
+      "Why Ariane 5 Destroyed Itself",
+      "The Number Too Big for 16 Bits"
+    ],
+    "kapak": [
+      "16 BITS",
+      "37 SECONDS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Ariane flight V88",
+        "url": "https://en.wikipedia.org/wiki/Ariane_flight_V88"
+      },
+      {
+        "ad": "ESA — Ariane 501 Inquiry Board report (press release)",
+        "url": "https://www.esa.int/Newsroom/Press_Releases/Ariane_501_-_Presentation_of_Inquiry_Board_report"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Ariane_flight_V88",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Ariane 501 Fragment.jpg [Public domain]",
+      "Ariane 5 payload fairing jettison test.JPG [Public domain]",
+      "Ariane 5 payload fairing jettison test from above.JPG [Public domain]"
+    ]
+  }
+}

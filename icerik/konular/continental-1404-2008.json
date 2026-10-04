@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "A Crosswind Gust Pushed a Jet Off the Runway",
+  "kaynaklar": [
+    {
+      "ad": "continental-1404-1.jpg",
+      "wikimedia": "Continental Airlines Flight 1404 wreckage.jpg"
+    },
+    {
+      "ad": "continental-1404-2.jpg",
+      "wikimedia": "Continental Airlines Flight 1404 wreckage2 (cropped).jpg"
+    },
+    {
+      "ad": "continental-1404-3.jpg",
+      "wikimedia": "N18611 B737-524.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During take-off at Denver, a Boeing 737 veered off the runway.",
+      "kaynak": "Footage/continental-1404-1.jpg"
+    },
+    {
+      "metin": "It crossed a ravine and caught fire, but everyone survived.",
+      "kaynak": "Footage/continental-1404-2.jpg"
+    },
+    {
+      "metin": "Strong, gusty winds were blowing across the runway.",
+      "kaynak": "Footage/continental-1404-3.jpg"
+    },
+    {
+      "metin": "The wind reported to the crew was lower than the gusts.",
+      "kaynak": "Footage/continental-1404-1.jpg"
+    },
+    {
+      "metin": "A gust pushed the jet sideways during the take-off roll.",
+      "kaynak": "Footage/continental-1404-2.jpg"
+    },
+    {
+      "metin": "The captain couldn't keep it on the centreline.",
+      "kaynak": "Footage/continental-1404-3.jpg"
+    },
+    {
+      "metin": "Passengers evacuated before the fire spread.",
+      "kaynak": "Footage/continental-1404-1.jpg"
+    },
+    {
+      "metin": "Crosswind training and wind reporting were improved.",
+      "kaynak": "Footage/continental-1404-2.jpg"
+    }
+  ],
+  "aciklama": "Continental 1404 veered off the runway and caught fire at Denver. The cause: loss of directional control in a gusting crosswind beyond what the crew expected.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Continental 1404",
+    "2008",
+    "runway",
+    "engineering failure"
+  ],
+  "hook": "A gust pushed it sideways",
+  "soru": "Credit the cabin crew?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Continental Airlines Flight 1404",
+    "kisa": "Continental 1404",
+    "nesne": "Runway",
+    "yil": 2008,
+    "sonuc": "veered off the runway and caught fire at Denver",
+    "tetik": "a strong crosswind gust during take-off",
+    "mekanizma": "loss of directional control in a gusting crosswind beyond what the crew expected",
+    "sayi": "CROSSWIND",
+    "ders": "crosswind training and wind information at Denver were improved",
+    "zincir": [
+      "STRONG GUSTY WINDS",
+      "WIND REPORTS AVERAGED",
+      "GUST DURING TAKE-OFF ROLL",
+      "JET VEERS OFF",
+      "FIRE AFTER STOP"
+    ],
+    "zaman": [],
+    "yanilgi": "The wind reported to the crew was lower than the gusts on the runway.",
+    "tartisma": "Everyone survived because the evacuation worked. How much credit goes to cabin crew?",
+    "basliklar": [
+      "A Crosswind Gust Pushed a Jet Off the Runway",
+      "Why Continental Flight 1404 Left the Runway",
+      "The Gust That Pushed a Jet Sideways"
+    ],
+    "kapak": [
+      "CROSSWIND",
+      "OFF THE RUNWAY"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Continental Airlines Flight 1404",
+        "url": "https://en.wikipedia.org/wiki/Continental_Airlines_Flight_1404"
+      },
+      {
+        "ad": "NTSB — AAR1004 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1004.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15",
+    "wiki": "Continental_Airlines_Flight_1404",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Continental Airlines Flight 1404 wreckage.jpg [Public domain]",
+      "Continental Airlines Flight 1404 wreckage2 (cropped).jpg [Public domain]",
+      "N18611 B737-524.jpg [CC BY 2.0]"
+    ]
+  }
+}

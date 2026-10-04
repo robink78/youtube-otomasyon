@@ -1,0 +1,92 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "What Actually Makes Planes Crash",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "The chain that ends in disaster",
+  "soru": "Do you fear flying?",
+  "arama_yedek": "airplane sky",
+  "aciklama": "Plane crashes almost never have a single cause - they are a chain of small failures. Here is how that chain forms, and why flying is still the safest way to travel.\n\n#shorts #aviation #engineering #science #safety",
+  "etiketler": [
+    "plane crash",
+    "aviation",
+    "engineering",
+    "flight safety",
+    "science"
+  ],
+  "sahneler": [
+    {
+      "metin": "A plane crash is almost never one thing going wrong.",
+      "arama": "airplane flying"
+    },
+    {
+      "metin": "It is a chain of small failures that suddenly line up.",
+      "arama": "storm clouds plane"
+    },
+    {
+      "metin": "So how do tiny faults bring down a jet?",
+      "arama": "airplane cockpit"
+    },
+    {
+      "metin": "A sensor freezes, and the computer shows the wrong airspeed.",
+      "arama": "airplane instruments"
+    },
+    {
+      "metin": "Tired pilots trust the wrong reading.",
+      "arama": "pilot cockpit"
+    },
+    {
+      "metin": "Add bad weather and a rushed decision, and the chain is complete.",
+      "arama": "airplane wing clouds"
+    },
+    {
+      "metin": "Break any single link, and the crash never happens.",
+      "arama": "airport runway"
+    },
+    {
+      "metin": "That is why every crash is studied down to the last second.",
+      "arama": "airplane investigation"
+    }
+  ],
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "mekanizma",
+    "ad": "Planes",
+    "nesne": "Plane",
+    "sonuc": "crash",
+    "tetik": "a frozen airspeed sensor",
+    "mekanizma": "a chain of aligned failures (the Swiss cheese model)",
+    "sayi": "1 FROZEN SENSOR",
+    "ders": "every crash investigation feeds changes into the next flight",
+    "zincir": [
+      "SENSOR ICES OVER",
+      "WRONG AIRSPEED SHOWN",
+      "CREW MISREADS SITUATION",
+      "RUSHED DECISION",
+      "LINKS ALIGN → CRASH"
+    ],
+    "yanilgi": "Crashes are rarely caused by one broken part — investigators almost always find a chain of smaller failures that lined up.",
+    "tartisma": "Which link is hardest to break: the machine, the pilots, or the system around them?",
+    "basliklar": [
+      "Planes Don't Crash for One Reason",
+      "The Chain of Small Failures Behind Every Crash",
+      "Why One Frozen Sensor Can Doom a Jet"
+    ],
+    "kapak": [
+      "WRONG AIRSPEED",
+      "THE CHAIN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Swiss cheese model",
+        "url": "https://en.wikipedia.org/wiki/Swiss_cheese_model"
+      },
+      {
+        "ad": "Wikipedia — Air France Flight 447",
+        "url": "https://en.wikipedia.org/wiki/Air_France_Flight_447"
+      }
+    ]
+  }
+}

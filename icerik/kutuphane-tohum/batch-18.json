@@ -1,0 +1,493 @@
+[
+  {
+    "slug": "crowdstrike-outage-2024",
+    "wiki": "2024_CrowdStrike-related_IT_outages",
+    "commons": [
+      "2024 CrowdStrike incident"
+    ],
+    "baslik": "One Faulty Update Crashed Millions of Computers at Once",
+    "ad": "the CrowdStrike outage",
+    "kisa": "CrowdStrike",
+    "nesne": "Software update",
+    "yil": 2024,
+    "kume": "software-and-control-failures",
+    "oncelik": 10,
+    "sonuc": "crashed millions of Windows computers worldwide",
+    "tetik": "a faulty configuration file pushed to every machine at once",
+    "mekanizma": "an out-of-bounds memory read in kernel-level security software causing crashes on boot",
+    "sayi": "8.5 MILLION",
+    "ders": "the outage pushed staged rollouts and better testing of security updates",
+    "zincir": [
+      "CONFIG FILE UPDATED",
+      "PUSHED TO ALL AT ONCE",
+      "KERNEL DRIVER READS OUT OF BOUNDS",
+      "MACHINES CRASH ON BOOT",
+      "MANUAL FIXES NEEDED"
+    ],
+    "yanilgi": "The fix came within hours. Many machines had to be repaired by hand, so outages lingered for days.",
+    "tartisma": "Security software runs deep inside the system. Should it be allowed that much power?",
+    "basliklar": [
+      "How One CrowdStrike Update Crashed the World",
+      "The File That Broke 8.5 Million Computers"
+    ],
+    "kapak": [
+      "ONE FILE",
+      "8.5 MILLION"
+    ],
+    "hook": "One file crashed millions",
+    "soru": "How much power should security software have?",
+    "sahneler": [
+      "One morning, millions of Windows computers crashed at the same time.",
+      "Suddenly airlines, banks and hospitals around the world went dark.",
+      "A security company had pushed out a small configuration file.",
+      "Its software ran deep inside the operating system.",
+      "The file caused an out-of-bounds memory read.",
+      "About eight and a half million machines crashed and couldn't restart properly.",
+      "A fix came within hours, but many needed manual repair.",
+      "It pushed calls for staged rollouts and better testing."
+    ]
+  },
+  {
+    "slug": "mars-global-surveyor-2006",
+    "wiki": "Mars_Global_Surveyor",
+    "commons": [
+      "Mars Global Surveyor"
+    ],
+    "baslik": "A Software Update Killed a Mars Orbiter",
+    "ad": "Mars Global Surveyor",
+    "kisa": "Mars Global Surveyor",
+    "nesne": "Software update",
+    "yil": 2006,
+    "kume": "software-and-control-failures",
+    "oncelik": 8,
+    "sonuc": "went silent after nearly a decade at Mars",
+    "tetik": "a corrective software update containing a memory fault",
+    "mekanizma": "operators uploading differing parameters, then a correction that wrote to the wrong memory",
+    "sayi": "SILENT",
+    "ders": "NASA tightened configuration control for spacecraft software uploads",
+    "zincir": [
+      "TWO OPERATORS",
+      "DIFFERENT PARAMETERS",
+      "CORRECTIVE UPDATE",
+      "HIDDEN MEMORY FAULT",
+      "SPACECRAFT LOST"
+    ],
+    "yanilgi": "The spacecraft didn't wear out. A software update caused its loss.",
+    "tartisma": "The fix for one error created the fatal one. How do you test a patch to a machine millions of miles away?",
+    "basliklar": [
+      "Why NASA Lost Mars Global Surveyor",
+      "The Update That Ended a Mars Mission"
+    ],
+    "kapak": [
+      "BAD UPDATE",
+      "SILENT"
+    ],
+    "hook": "The update killed it",
+    "soru": "How do you test a remote patch?",
+    "sahneler": [
+      "After years mapping Mars, NASA's Global Surveyor stopped answering.",
+      "Suddenly it went silent, and every attempt to reach it failed.",
+      "The orbiter had been working well.",
+      "Two operators had updated separate copies of its software with different values.",
+      "A corrective update was sent later.",
+      "It included a memory fault nobody caught.",
+      "That fault caused the loss of the spacecraft.",
+      "NASA tightened control of software uploads."
+    ]
+  },
+  {
+    "slug": "mariner-1-1962",
+    "wiki": "Mariner_1",
+    "commons": [
+      "Mariner 1"
+    ],
+    "baslik": "The Most Expensive Missing Symbol in History",
+    "ad": "Mariner 1",
+    "kisa": "Mariner 1",
+    "nesne": "Guidance equation",
+    "yil": 1962,
+    "kume": "software-and-control-failures",
+    "oncelik": 9,
+    "sonuc": "veered off course and was destroyed after launch",
+    "tetik": "a missing overbar in a hand-written guidance equation",
+    "mekanizma": "unsmoothed velocity data driving erratic steering commands",
+    "sayi": "MISSING SYMBOL",
+    "ders": "it underscored thorough software checking before launch",
+    "zincir": [
+      "EQUATION WRITTEN BY HAND",
+      "OVERBAR MISSING",
+      "CODED INTO SOFTWARE",
+      "GUIDANCE ERRATIC",
+      "RANGE SAFETY DESTROYS ROCKET"
+    ],
+    "yanilgi": "It's often called a missing hyphen. It was actually a missing overbar meaning smoothed data.",
+    "tartisma": "A tiny notation error became a lost mission. How do you check the math behind code?",
+    "basliklar": [
+      "Why Mariner 1 Was Destroyed",
+      "The Missing Symbol That Destroyed a Rocket"
+    ],
+    "kapak": [
+      "ONE SYMBOL",
+      "DESTROYED"
+    ],
+    "hook": "One symbol was missing",
+    "soru": "Who checks the math?",
+    "sahneler": [
+      "NASA's first probe to Venus lifted off from Cape Canaveral.",
+      "Within minutes it veered off course and was destroyed by range safety.",
+      "Its guidance had begun steering erratically.",
+      "The problem was in a hand-written equation.",
+      "A small bar over one symbol was missing.",
+      "That bar meant the data should be smoothed.",
+      "Without it, the software reacted to noise.",
+      "It became a lesson in checking software before launch."
+    ],
+    "excludeStills": [
+      "Woomera",
+      "Mariner 10"
+    ]
+  },
+  {
+    "slug": "reichsbrucke-1976",
+    "wiki": "Reichsbrücke",
+    "commons": [
+      "Reichsbrücke"
+    ],
+    "baslik": "The Vienna Bridge That Fell Into the Danube at Dawn",
+    "ad": "the Reichsbrücke",
+    "kisa": "Reichsbrücke",
+    "nesne": "Bearings",
+    "yil": 1976,
+    "kume": "bridge-failures",
+    "oncelik": 8,
+    "sonuc": "collapsed into the Danube early one morning",
+    "tetik": "a hidden structural failure in the bearings",
+    "mekanizma": "bearing failure hidden by a massive granite mantle and missed in inspections",
+    "sayi": "AT DAWN",
+    "ders": "Vienna rebuilt the bridge and changed how hidden elements are inspected",
+    "zincir": [
+      "BEARINGS ENCASED IN GRANITE",
+      "DAMAGE HIDDEN",
+      "INSPECTIONS MISS IT",
+      "BEARINGS FAIL",
+      "BRIDGE FALLS INTO RIVER"
+    ],
+    "yanilgi": "Inspectors checked the bridge. The flaw was hidden inside the stone that covered it.",
+    "tartisma": "Decoration concealed the structure. Should important parts always be visible?",
+    "basliklar": [
+      "Why the Reichsbrücke Collapsed",
+      "The Flaw Hidden Inside a Bridge Pier"
+    ],
+    "kapak": [
+      "HIDDEN FLAW",
+      "INTO THE DANUBE"
+    ],
+    "hook": "The flaw was hidden in stone",
+    "soru": "Should structure be visible?",
+    "sahneler": [
+      "Before dawn, Vienna's Reichsbrücke collapsed into the Danube.",
+      "It fell in seconds, and one person was killed.",
+      "Traffic was light at that hour.",
+      "Its bearings had failed.",
+      "The weakness was hidden inside its granite casing.",
+      "Inspectors couldn't see it.",
+      "An empty city bus fell with it, but the driver survived.",
+      "The bridge was rebuilt."
+    ],
+    "excludeStills": [
+      "Overstromingen",
+      "Laagwater"
+    ]
+  },
+  {
+    "slug": "skagit-river-bridge-2013",
+    "wiki": "I-5_Skagit_River_bridge_collapse",
+    "commons": [
+      "I-5 Skagit River Bridge collapse"
+    ],
+    "baslik": "A Truck Clipped One Beam and a Span Fell",
+    "ad": "the I-5 Skagit River Bridge",
+    "kisa": "Skagit River Bridge",
+    "nesne": "Truss bridge",
+    "yil": 2013,
+    "kume": "bridge-failures",
+    "oncelik": 8,
+    "sonuc": "lost a span after an oversize load struck it",
+    "tetik": "an oversize truck load hitting overhead beams",
+    "mekanizma": "a fracture-critical through-truss with no redundancy once overhead members were hit",
+    "sayi": "ONE SPAN",
+    "ders": "oversize load permits and fracture-critical bridges came under review",
+    "zincir": [
+      "OVERSIZE LOAD",
+      "ROUTE NOT CHECKED",
+      "HITS OVERHEAD BEAMS",
+      "TRUSS LOSES SUPPORT",
+      "SPAN FALLS"
+    ],
+    "yanilgi": "The bridge wasn't structurally deficient. Its design had no backup if key members were hit.",
+    "tartisma": "It had been struck by a truck before. Should fracture-critical bridges stay in service?",
+    "basliklar": [
+      "Why the Skagit River Bridge Collapsed",
+      "The Truck That Took Down a Span"
+    ],
+    "kapak": [
+      "ONE HIT",
+      "SPAN DOWN"
+    ],
+    "hook": "One truck hit it",
+    "soru": "Keep fracture-critical bridges?",
+    "sahneler": [
+      "A span of the I-5 bridge over the Skagit River collapsed into the water.",
+      "Suddenly two vehicles plunged into the river, but everyone was rescued.",
+      "An oversize load had struck the overhead beams.",
+      "The truss had no backup if those were damaged.",
+      "The span fell immediately.",
+      "The bridge had been hit by a truck before.",
+      "It wasn't rated structurally deficient.",
+      "Oversize load permits and bridge redundancy came under review."
+    ]
+  },
+  {
+    "slug": "delta-1288-1996",
+    "wiki": "Delta_Air_Lines_Flight_1288",
+    "commons": [
+      "Delta Air Lines Flight 1288"
+    ],
+    "baslik": "A Hidden Flaw in an Engine Hub Exploded on Take-off",
+    "ad": "Delta Air Lines Flight 1288",
+    "kisa": "Delta 1288",
+    "nesne": "Fan hub",
+    "yil": 1996,
+    "kume": "materials-failures",
+    "oncelik": 8,
+    "sonuc": "had its engine burst during take-off",
+    "tetik": "a manufacturing flaw in the engine's fan hub",
+    "mekanizma": "an uncontained engine failure sending hub debris into the cabin",
+    "sayi": "UNCONTAINED",
+    "ders": "engine manufacturing and inspection methods were tightened",
+    "zincir": [
+      "FLAW MADE IN MANUFACTURE",
+      "CRACK GROWS",
+      "MISSED IN INSPECTION",
+      "HUB FRACTURES",
+      "DEBRIS ENTERS CABIN"
+    ],
+    "yanilgi": "The engine wasn't worn out. The flaw was created when the part was made.",
+    "tartisma": "The airline's inspection missed the crack. How do you find flaws inside metal?",
+    "basliklar": [
+      "Why Delta Flight 1288's Engine Exploded",
+      "The Flaw Inside an Engine Hub"
+    ],
+    "kapak": [
+      "HIDDEN FLAW",
+      "UNCONTAINED"
+    ],
+    "hook": "The engine exploded on the runway",
+    "soru": "How do you find flaws inside metal?",
+    "sahneler": [
+      "During take-off in Pensacola, an MD-88's left engine burst apart.",
+      "Suddenly debris tore into the cabin and killed two passengers.",
+      "The pilot aborted the take-off.",
+      "Part of the fan hub had fractured.",
+      "The flaw had been created during manufacture.",
+      "A crack grew from it over time.",
+      "The airline's inspection didn't spot it.",
+      "Engine inspection methods were tightened."
+    ]
+  },
+  {
+    "slug": "ss-arctic-1854",
+    "wiki": "SS_Arctic_disaster",
+    "commons": [
+      "SS Arctic"
+    ],
+    "baslik": "The Liner Where the Crew Took the Lifeboats",
+    "ad": "the SS Arctic",
+    "kisa": "SS Arctic",
+    "nesne": "Lifeboats",
+    "yil": 1854,
+    "kume": "maritime-disasters",
+    "oncelik": 9,
+    "sonuc": "sank after a collision in fog off Newfoundland",
+    "tetik": "a collision in intermittent fog at full speed",
+    "mekanizma": "hull damage below the waterline and lifeboats for fewer than half aboard",
+    "sayi": "88 SURVIVED",
+    "ders": "public outrage fed demands for lifeboats and discipline at sea",
+    "zincir": [
+      "FULL SPEED IN FOG",
+      "COLLISION WITH VESTA",
+      "HULL HOLED",
+      "RUN FOR LAND FAILS",
+      "CREW TAKES THE BOATS"
+    ],
+    "yanilgi": "The lifeboats weren't used fairly. Most places went to crew and able-bodied men.",
+    "tartisma": "No women or children survived. What should discipline mean in a sinking?",
+    "basliklar": [
+      "Why the SS Arctic Disaster Was So Deadly",
+      "The Sinking Where No Woman Survived"
+    ],
+    "kapak": [
+      "NO WOMEN SAVED",
+      "88 SURVIVED"
+    ],
+    "hook": "The crew took the boats",
+    "soru": "What should discipline mean?",
+    "sahneler": [
+      "In fog off Newfoundland, the liner Arctic collided with a smaller steamer.",
+      "It sank hours later, and only eighty eight people survived.",
+      "The captain first tried to help the other ship.",
+      "Then he found his own hull holed below the waterline.",
+      "He ran for land, but the engines stopped.",
+      "There were lifeboats for fewer than half aboard.",
+      "Order broke down, and crew took many of the places.",
+      "All the women and children aboard died."
+    ]
+  },
+  {
+    "slug": "notre-dame-fire-2019",
+    "wiki": "Notre-Dame_de_Paris_fire",
+    "commons": [
+      "Notre-Dame de Paris fire"
+    ],
+    "baslik": "The Guard Sent to the Wrong Attic",
+    "ad": "the Notre-Dame fire",
+    "kisa": "Notre-Dame",
+    "nesne": "Fire alarm",
+    "yil": 2019,
+    "kume": "fire-and-explosions",
+    "oncelik": 10,
+    "sonuc": "destroyed the cathedral's spire and roof",
+    "tetik": "a fire in the roof attic",
+    "mekanizma": "an alarm response sent to the wrong location, delaying the fire brigade",
+    "sayi": "WRONG ATTIC",
+    "ders": "fire detection and response in heritage buildings was re-examined",
+    "zincir": [
+      "ALARM SOUNDS",
+      "GUARD SENT TO WRONG ATTIC",
+      "NO FIRE FOUND",
+      "ERROR FOUND MINUTES LATER",
+      "ROOF ENGULFED"
+    ],
+    "yanilgi": "The alarm worked. The guard was sent to the wrong attic.",
+    "tartisma": "The alarm didn't call the fire brigade automatically. Should heritage buildings rely on people to confirm?",
+    "basliklar": [
+      "Why Notre-Dame Burned So Badly",
+      "The Alarm That Sent a Guard to the Wrong Place"
+    ],
+    "kapak": [
+      "WRONG ATTIC",
+      "SPIRE FELL"
+    ],
+    "hook": "They checked the wrong attic",
+    "soru": "Should alarms call firefighters directly?",
+    "sahneler": [
+      "Fire broke out in the roof of Notre-Dame de Paris.",
+      "Within hours, the wooden spire collapsed through the burning roof.",
+      "The fire alarm sounded quickly.",
+      "A guard was sent to check, but to the wrong attic.",
+      "He found no fire.",
+      "The error was discovered about fifteen minutes later.",
+      "By then the fire was well advanced.",
+      "The alarm system hadn't called the fire brigade automatically."
+    ]
+  },
+  {
+    "slug": "amtrak-cascades-501-2017",
+    "wiki": "2017_Washington_train_derailment",
+    "commons": [
+      "2017 Washington train derailment"
+    ],
+    "baslik": "The Inaugural Run That Took a Curve at 78 mph",
+    "ad": "Amtrak Cascades train 501",
+    "kisa": "Amtrak 501",
+    "nesne": "Curve",
+    "yil": 2017,
+    "kume": "rail-disasters",
+    "oncelik": 9,
+    "sonuc": "derailed onto Interstate 5 near DuPont",
+    "tetik": "entering a 30 mph curve at 78 mph",
+    "mekanizma": "overspeed on a curve without active positive train control and with an inadequately trained engineer",
+    "sayi": "78 MPH",
+    "ders": "service on the route waited for positive train control",
+    "zincir": [
+      "FIRST RUN ON NEW ROUTE",
+      "ENGINEER UNFAMILIAR",
+      "NO ACTIVE PTC",
+      "CURVE AT 78 MPH",
+      "CARS FALL ONTO I-5"
+    ],
+    "yanilgi": "The route was brand new, but the safety system that would have slowed the train wasn't active.",
+    "tartisma": "The NTSB blamed the transit authority's curve risk and training. Who owns a new route's risks?",
+    "basliklar": [
+      "Why Amtrak 501 Derailed on Its First Run",
+      "The Curve Taken at 78 mph"
+    ],
+    "kapak": [
+      "78 MPH",
+      "FIRST RUN"
+    ],
+    "hook": "It was the first run",
+    "soru": "Who owns a new route's risk?",
+    "sahneler": [
+      "On its first run over a new route, an Amtrak train derailed near DuPont, Washington.",
+      "Cars fell onto Interstate 5, and three people on board were killed.",
+      "The train entered a curve at seventy eight miles per hour.",
+      "The limit there was far lower.",
+      "Positive train control wasn't active on the track.",
+      "The engineer hadn't been adequately trained on the route.",
+      "The NTSB faulted the transit authority for the curve's risk.",
+      "Service waited for positive train control."
+    ],
+    "excludeStills": [
+      "Graettinger"
+    ]
+  },
+  {
+    "slug": "derna-dams-2023",
+    "wiki": "2023_Derna_dam_collapse",
+    "commons": [
+      "2023 Derna dam collapse"
+    ],
+    "baslik": "Two Neglected Dams and a City Swept to the Sea",
+    "ad": "the Derna dams",
+    "kisa": "Derna",
+    "nesne": "Dams",
+    "yil": 2023,
+    "kume": "infrastructure-failures",
+    "oncelik": 10,
+    "sonuc": "collapsed and flooded the city of Derna",
+    "tetik": "Storm Daniel's rainfall on unmaintained dams",
+    "mekanizma": "cascading failure of two embankment dams not maintained for decades",
+    "sayi": "TWO DAMS",
+    "ders": "the disaster exposed the cost of neglected dam maintenance",
+    "zincir": [
+      "CRACKS REPORTED",
+      "NO MAINTENANCE",
+      "STORM DANIEL",
+      "UPPER DAM FAILS",
+      "LOWER DAM FAILS"
+    ],
+    "yanilgi": "The storm wasn't the only cause. Cracks were reported years earlier, and warnings were ignored.",
+    "tartisma": "A researcher warned the dams needed urgent attention in 2022. Why are warnings ignored?",
+    "basliklar": [
+      "Why the Derna Dams Collapsed",
+      "The Warning Nobody Acted On"
+    ],
+    "kapak": [
+      "NEGLECTED",
+      "TWO DAMS"
+    ],
+    "hook": "The warnings were ignored",
+    "soru": "Why are warnings ignored?",
+    "sahneler": [
+      "At night, two dams above Derna, Libya, collapsed one after another.",
+      "Suddenly a wall of water swept through the city, killing thousands.",
+      "Storm Daniel had dropped enormous rainfall.",
+      "The dams hadn't been maintained for years.",
+      "Cracks had been reported long before.",
+      "A researcher warned they needed urgent attention.",
+      "Tens of millions of cubic metres of water rushed downstream.",
+      "It became one of the deadliest dam failures in history."
+    ]
+  }
+]

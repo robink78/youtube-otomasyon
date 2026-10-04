@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Failed Steel Strut Broke Up a Falcon 9",
+  "kaynaklar": [
+    {
+      "ad": "spacex-crs-7-1.jpg",
+      "wikimedia": "SpaceX CRS-7 launch failure.jpg"
+    },
+    {
+      "ad": "spacex-crs-7-2.jpg",
+      "wikimedia": "Falcon 9 carrying CRS-7 Dragon on SLC-40 pad (19045370790).jpg"
+    },
+    {
+      "ad": "spacex-crs-7-3.png",
+      "wikimedia": "SpaceX ASDS moving into position for CRS-7 launch (18610429514).png"
+    },
+    {
+      "ad": "spacex-crs-7-4.jpg",
+      "wikimedia": "SpaceX CRS-7 launch failure cropped.jpg"
+    },
+    {
+      "ad": "spacex-crs-7-5.jpg",
+      "wikimedia": "SpaceX CRS-7 - 13 (19060900158).jpg"
+    },
+    {
+      "ad": "spacex-crs-7-6.jpg",
+      "wikimedia": "SpaceX CRS-7 - 10 (19248484305).jpg"
+    },
+    {
+      "ad": "spacex-crs-7-7.jpg",
+      "wikimedia": "Flight 19 of the Falcon 9 rocket which will launch the SpaceX CRS-7 spacecraft on 28 June 2015.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two minutes after launch, a Falcon 9 rocket broke apart.",
+      "kaynak": "Footage/spacex-crs-7-1.jpg"
+    },
+    {
+      "metin": "The cargo bound for the space station was destroyed.",
+      "kaynak": "Footage/spacex-crs-7-2.jpg"
+    },
+    {
+      "metin": "The cause was hidden inside the second stage.",
+      "kaynak": "Footage/spacex-crs-7-3.png"
+    },
+    {
+      "metin": "A steel strut held a helium tank in place.",
+      "kaynak": "Footage/spacex-crs-7-4.jpg"
+    },
+    {
+      "metin": "It failed below its rated strength.",
+      "kaynak": "Footage/spacex-crs-7-5.jpg"
+    },
+    {
+      "metin": "The tank broke free and helium flooded out.",
+      "kaynak": "Footage/spacex-crs-7-6.jpg"
+    },
+    {
+      "metin": "The pressure burst the stage.",
+      "kaynak": "Footage/spacex-crs-7-7.jpg"
+    },
+    {
+      "metin": "SpaceX switched to struts tested one by one.",
+      "kaynak": "Footage/spacex-crs-7-1.jpg"
+    }
+  ],
+  "aciklama": "CRS-7 broke apart two minutes after launch. The cause: failure of a strut securing a helium bottle in the second-stage oxygen tank.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "CRS-7",
+    "2015",
+    "strut",
+    "engineering failure"
+  ],
+  "hook": "One small strut",
+  "soru": "Test every part?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "SpaceX CRS-7",
+    "kisa": "CRS-7",
+    "nesne": "Strut",
+    "yil": 2015,
+    "sonuc": "broke apart two minutes after launch",
+    "tetik": "a steel strut holding a helium tank",
+    "mekanizma": "failure of a strut securing a helium bottle in the second-stage oxygen tank",
+    "sayi": "ONE STRUT",
+    "ders": "SpaceX switched to struts with individual testing",
+    "zincir": [
+      "STRUT BELOW ITS RATED STRENGTH",
+      "HELIUM BOTTLE BREAKS FREE",
+      "TANK OVERPRESSURIZES",
+      "SECOND STAGE BURSTS",
+      "VEHICLE BREAKS UP"
+    ],
+    "zaman": [],
+    "yanilgi": "No engine failed. A small part holding a tank inside the second stage gave way.",
+    "tartisma": "The strut was a supplier part. How much should a company test parts it buys?",
+    "basliklar": [
+      "A Failed Steel Strut Broke Up a Falcon 9",
+      "Why SpaceX CRS-7 Broke Apart",
+      "The Strut That Failed Inside a Falcon 9"
+    ],
+    "kapak": [
+      "ONE STRUT",
+      "BROKE APART"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SpaceX CRS-7",
+        "url": "https://en.wikipedia.org/wiki/SpaceX_CRS-7"
+      },
+      {
+        "ad": "NASA — 672214main 1 Hartman July12 NAC Final 508 (cited by Wikipedia)",
+        "url": "http://www.nasa.gov/pdf/672214main_1-Hartman_July12_NAC_Final_508.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "SpaceX_CRS-7",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "SpaceX CRS-7 launch failure.jpg [Public domain]",
+      "Falcon 9 carrying CRS-7 Dragon on SLC-40 pad (19045370790).jpg [CC0]",
+      "SpaceX ASDS moving into position for CRS-7 launch (18610429514).png [CC0]",
+      "SpaceX CRS-7 launch failure cropped.jpg [Public domain]",
+      "SpaceX CRS-7 - 13 (19060900158).jpg [CC BY 2.0]",
+      "SpaceX CRS-7 - 10 (19248484305).jpg [CC BY 2.0]",
+      "Flight 19 of the Falcon 9 rocket which will launch the SpaceX CRS-7 spacecraft on 28 June 2015.jpg [CC BY 2.0]"
+    ]
+  }
+}

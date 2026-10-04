@@ -1,0 +1,74 @@
+[
+  {
+    "sahne": 0,
+    "bas": 0,
+    "son": 3.7666666666666666,
+    "rol": "hook",
+    "tempo": "fast",
+    "cekim": 2,
+    "hareket": "punch"
+  },
+  {
+    "sahne": 1,
+    "bas": 3.7666666666666666,
+    "son": 7.866666666666666,
+    "rol": "countdown",
+    "tempo": "fast",
+    "cekim": 2,
+    "hareket": "punch"
+  },
+  {
+    "sahne": 2,
+    "bas": 7.866666666666666,
+    "son": 12,
+    "rol": "event",
+    "tempo": "fast",
+    "cekim": 2,
+    "hareket": "punch"
+  },
+  {
+    "sahne": 3,
+    "bas": 12,
+    "son": 15.766666666666667,
+    "rol": "technical",
+    "tempo": "slow",
+    "cekim": 1,
+    "hareket": "drift"
+  },
+  {
+    "sahne": 4,
+    "bas": 15.766666666666667,
+    "son": 19.866666666666667,
+    "rol": "context",
+    "tempo": "medium",
+    "cekim": 2,
+    "hareket": "push"
+  },
+  {
+    "sahne": 5,
+    "bas": 19.866666666666667,
+    "son": 23.633333333333333,
+    "rol": "context",
+    "tempo": "medium",
+    "cekim": 2,
+    "hareket": "push"
+  },
+  {
+    "sahne": 6,
+    "bas": 23.633333333333333,
+    "son": 27.366666666666667,
+    "rol": "emergency",
+    "tempo": "fast",
+    "cekim": 2,
+    "hareket": "punch"
+  },
+  {
+    "sahne": 7,
+    "bas": 27.366666666666667,
+    "son": 30,
+    "rol": "lesson",
+    "tempo": "slow",
+    "cekim": 1,
+    "hareket": "drift"
+  }
+]

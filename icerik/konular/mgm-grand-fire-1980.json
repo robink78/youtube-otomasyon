@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Hotel Fire Where Smoke Killed People Floors Away",
+  "kaynaklar": [
+    {
+      "ad": "mgm-grand-fire-1.jpg",
+      "wikimedia": "A flight engineer straps a survivor onto a forest penetrator of a hovering CH-3E Jolly Green Giant helicopter. The airman is a 302nd Special Operations Squadron member rescuing gues - DPLA - a2ce970b516db01a71500e772152f116.jpeg"
+    },
+    {
+      "ad": "mgm-grand-fire-2.jpg",
+      "wikimedia": "A UH-1N Iroquois helicopter approaches the MGM Grand Hotel as firefighters attempt to control a fire in the hotel - DPLA - f2ac51e0c837f3f0e277a039d8f487bd.jpeg"
+    },
+    {
+      "ad": "mgm-grand-fire-3.jpg",
+      "wikimedia": "A UH-1N Iroquois helicopter comes in for a landing on the roof of the MGM Grand Hotel during a fire rescue operation - DPLA - 351ed68ad6bcc9fd7a206137de097522.jpeg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Fire broke out in a Las Vegas hotel and casino.",
+      "kaynak": "Footage/mgm-grand-fire-1.jpg"
+    },
+    {
+      "metin": "Smoke spread through the tower, and eighty five people died.",
+      "kaynak": "Footage/mgm-grand-fire-2.jpg"
+    },
+    {
+      "metin": "It began with an electrical fault in a restaurant.",
+      "kaynak": "Footage/mgm-grand-fire-3.jpg"
+    },
+    {
+      "metin": "That area had no sprinklers.",
+      "kaynak": "Footage/mgm-grand-fire-1.jpg"
+    },
+    {
+      "metin": "Smoke rose through shafts and stairwells.",
+      "kaynak": "Footage/mgm-grand-fire-2.jpg"
+    },
+    {
+      "metin": "Most victims were floors above the flames.",
+      "kaynak": "Footage/mgm-grand-fire-3.jpg"
+    },
+    {
+      "metin": "They were overcome by smoke, not fire.",
+      "kaynak": "Footage/mgm-grand-fire-1.jpg"
+    },
+    {
+      "metin": "Nevada then required sprinklers in hotels and casinos.",
+      "kaynak": "Footage/mgm-grand-fire-2.jpg"
+    }
+  ],
+  "aciklama": "MGM Grand fire burned, sending smoke through the tower. The cause: fire in unsprinklered areas, with smoke spread through shafts, stairwells and ventilation.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "MGM Grand fire",
+    "1980",
+    "hotel",
+    "engineering failure"
+  ],
+  "hook": "The smoke went up",
+  "soru": "How much is a sprinkler worth?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the MGM Grand hotel",
+    "kisa": "MGM Grand fire",
+    "nesne": "Hotel",
+    "yil": 1980,
+    "sonuc": "burned, sending smoke through the tower",
+    "tetik": "an electrical fault in a restaurant",
+    "mekanizma": "fire in unsprinklered areas, with smoke spread through shafts, stairwells and ventilation",
+    "sayi": "85 DIED",
+    "ders": "Nevada required sprinklers in hotels and casinos",
+    "zincir": [
+      "ELECTRICAL FAULT",
+      "FIRE IN RESTAURANT",
+      "NO SPRINKLERS THERE",
+      "SMOKE ENTERS SHAFTS",
+      "GUESTS UPSTAIRS OVERCOME"
+    ],
+    "zaman": [],
+    "yanilgi": "Most victims were nowhere near the flames. They died from smoke on upper floors.",
+    "tartisma": "Sprinklers were left out of some areas to save money. How much is a sprinkler worth?",
+    "basliklar": [
+      "The Hotel Fire Where Smoke Killed People Floors Away",
+      "Why the MGM Grand Fire Was So Deadly",
+      "The Smoke That Climbed a Hotel Tower"
+    ],
+    "kapak": [
+      "SMOKE",
+      "NO SPRINKLERS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — MGM Grand fire",
+        "url": "https://en.wikipedia.org/wiki/MGM_Grand_fire"
+      },
+      {
+        "ad": "Government source — 42 years ago the mgm fire of 1980 and the air force response (cited by Wikipedia)",
+        "url": "https://www.nellis.af.mil/News/Article-Display/Article/3225337/42-years-ago-the-mgm-fire-of-1980-and-the-air-force-response/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "MGM_Grand_fire",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "A flight engineer straps a survivor onto a forest penetrator of a hovering CH-3E Jolly Green Giant helicopter. The airman is a 302nd Special Operations Squadron member rescuing gues - DPLA - a2ce970b516db01a71500e772152f116.jpeg [Public domain]",
+      "A UH-1N Iroquois helicopter approaches the MGM Grand Hotel as firefighters attempt to control a fire in the hotel - DPLA - f2ac51e0c837f3f0e277a039d8f487bd.jpeg [Public domain]",
+      "A UH-1N Iroquois helicopter comes in for a landing on the roof of the MGM Grand Hotel during a fire rescue operation - DPLA - 351ed68ad6bcc9fd7a206137de097522.jpeg [Public domain]"
+    ]
+  }
+}

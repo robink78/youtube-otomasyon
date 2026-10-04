@@ -1,0 +1,140 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": 7,
+  "baslik": "The Molasses Tank That Killed 21 People",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "kaynaklar": [
+    {
+      "ad": "f1.jpg",
+      "wikimedia": "BostonMolassesDisaster.jpg"
+    },
+    {
+      "ad": "f2.jpg",
+      "wikimedia": "Boston Elevated Railway after the Molasses Flood, January 1919, from the City of Boston Archives - 9800-018-054.jpg"
+    },
+    {
+      "ad": "f3.jpg",
+      "wikimedia": "Boston Elevated Railway after the Molasses Flood, January 1919, from the City of Boston Archives - 9800-018-031.jpg"
+    },
+    {
+      "ad": "f4.jpg",
+      "wikimedia": "Boston Elevated Railway after the Molasses Flood, January 1919, from the City of Boston Archives - 9800-018-052.jpg"
+    },
+    {
+      "ad": "f5.jpg",
+      "wikimedia": "Boston Elevated Railway after the Molasses Flood, January 1919, from the City of Boston Archives - 9800-018-023.jpg"
+    },
+    {
+      "ad": "f6.jpg",
+      "wikimedia": "Boston Elevated Railway after the Molasses Flood, January 1919, from the City of Boston Archives - 9800-018-035.jpg"
+    },
+    {
+      "ad": "f7.jpg",
+      "wikimedia": "Boston Elevated Railway after the Molasses Flood, January 1919, from the City of Boston Archives - 9800-018-051.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A wave of molasses tore through Boston at thirty five miles an hour.",
+      "kaynak": "Footage/f1.jpg"
+    },
+    {
+      "metin": "It crushed buildings and killed twenty one people.",
+      "kaynak": "Footage/f2.jpg"
+    },
+    {
+      "metin": "So how did a storage tank do that?",
+      "kaynak": "Footage/f3.jpg"
+    },
+    {
+      "metin": "It was built in a rush, with no engineer checking it.",
+      "kaynak": "Footage/f4.jpg"
+    },
+    {
+      "metin": "The steel was too thin and too brittle for cold.",
+      "kaynak": "Footage/f5.jpg"
+    },
+    {
+      "metin": "It leaked from day one, so the company painted it brown.",
+      "kaynak": "Footage/f6.jpg"
+    },
+    {
+      "metin": "A warm spell raised the pressure until the rivets tore open.",
+      "kaynak": "Footage/f7.jpg"
+    },
+    {
+      "metin": "Massachusetts then made engineer sign-off the law.",
+      "kaynak": "Footage/f1.jpg"
+    }
+  ],
+  "aciklama": "On January 15, 1919, a molasses storage tank in Boston burst, releasing a wave that killed 21 people. The tank had never been inspected by an engineer.\n\n#shorts #engineering #history",
+  "etiketler": [
+    "Boston molasses flood",
+    "1919",
+    "tank failure",
+    "brittle fracture",
+    "engineering",
+    "structural failure"
+  ],
+  "hook": "A wave of molasses",
+  "soru": "Would you have signed it off?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the Boston molasses flood",
+    "kisa": "Boston 1919",
+    "nesne": "Storage tank",
+    "yil": 1919,
+    "sonuc": "burst and killed 21 people",
+    "tetik": "a warm spell raising internal pressure",
+    "mekanizma": "brittle fracture of under-designed riveted steel",
+    "sayi": "21 DEAD",
+    "ders": "Massachusetts began requiring a licensed engineer to sign off on structural plans",
+    "zincir": [
+      "TANK BUILT WITHOUT ENGINEERING REVIEW",
+      "STEEL TOO THIN AND BRITTLE",
+      "LEAKS IGNORED, PAINTED BROWN",
+      "WARM SPELL RAISES PRESSURE",
+      "RIVETS TEAR — TANK BURSTS"
+    ],
+    "zaman": [
+      {
+        "t": "1915",
+        "olay": "Tank built and filled without proper testing"
+      },
+      {
+        "t": "1915-1919",
+        "olay": "It leaks continuously; the company paints it brown to hide it"
+      },
+      {
+        "t": "Jan 15, 1919 12:30",
+        "olay": "Tank bursts; wave reaches 35 mph"
+      },
+      {
+        "t": "After",
+        "olay": "Six-year lawsuit; Massachusetts requires engineer sign-off"
+      }
+    ],
+    "yanilgi": "Molasses is not slow when 2.3 million gallons are released at once: the wave moved faster than a person can run.",
+    "tartisma": "The tank leaked for four years and the company painted it brown instead of fixing it. How many warnings does a structure get before someone must act?",
+    "basliklar": [
+      "The Molasses Tank That Killed 21 People",
+      "Why a Molasses Wave Moved at 35 MPH",
+      "The Leaking Tank Nobody Inspected",
+      "Boston 1919: The Flood That Changed Engineering Law"
+    ],
+    "kapak": [
+      "21 DEAD",
+      "35 MPH",
+      "NO ENGINEER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Great Molasses Flood",
+        "url": "https://en.wikipedia.org/wiki/Great_Molasses_Flood"
+      }
+    ]
+  }
+}

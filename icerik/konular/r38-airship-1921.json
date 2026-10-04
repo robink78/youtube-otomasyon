@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Airship That Broke in Half During a Turn",
+  "kaynaklar": [
+    {
+      "ad": "r38-airship-1.jpg",
+      "wikimedia": "Le dirigeable R 38 après sa chute - btv1b9054251x.jpg"
+    },
+    {
+      "ad": "r38-airship-2.jpg",
+      "wikimedia": "Le dirigeable R 38 après sa chute - btv1b9054252b.jpg"
+    },
+    {
+      "ad": "r38-airship-3.jpg",
+      "wikimedia": "Le dirigeable R 38 sortant du hangar - btv1b9054237n.jpg"
+    },
+    {
+      "ad": "r38-airship-4.jpg",
+      "wikimedia": "Le R. 38 - le plus grand dirigeable du monde, qui doit prochainement être livré aux U.S.A. s'appellera désormais le Z.R 2 - btv1b9039136w.jpg"
+    },
+    {
+      "ad": "r38-airship-5.jpg",
+      "wikimedia": "Les aviateurs américains tués dans la catastrophe du R38 sont emportés à Devonport et transférés à bord du Dauntless - btv1b53068308j.jpg"
+    },
+    {
+      "ad": "r38-airship-6.jpg",
+      "wikimedia": "Luchtschepen, SFA022812283.jpg"
+    },
+    {
+      "ad": "r38-airship-7.jpg",
+      "wikimedia": "Luchtschepen, SFA022812284.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A giant airship broke in half over the English city of Hull.",
+      "kaynak": "Footage/r38-airship-1.jpg"
+    },
+    {
+      "metin": "The wreck fell into the river and burst into flames, and forty four men died.",
+      "kaynak": "Footage/r38-airship-2.jpg"
+    },
+    {
+      "metin": "It was undergoing speed trials.",
+      "kaynak": "Footage/r38-airship-3.jpg"
+    },
+    {
+      "metin": "The crew made a series of sharp turns.",
+      "kaynak": "Footage/r38-airship-4.jpg"
+    },
+    {
+      "metin": "The hull had been built very light to fly high.",
+      "kaynak": "Footage/r38-airship-5.jpg"
+    },
+    {
+      "metin": "Its girders buckled under the turning loads.",
+      "kaynak": "Footage/r38-airship-6.jpg"
+    },
+    {
+      "metin": "The frame snapped, and hydrogen ignited.",
+      "kaynak": "Footage/r38-airship-7.jpg"
+    },
+    {
+      "metin": "Airship design then began calculating aerodynamic loads properly.",
+      "kaynak": "Footage/r38-airship-1.jpg"
+    }
+  ],
+  "aciklama": "R38 airship broke in two over the city of Hull. The cause: structural failure of a lightweight hull under aerodynamic loads from sharp manoeuvres.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "R38 airship",
+    "1921",
+    "airship hull",
+    "engineering failure"
+  ],
+  "hook": "It snapped in a turn",
+  "soru": "Strength or performance?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the R38 airship",
+    "kisa": "R38 airship",
+    "nesne": "Airship hull",
+    "yil": 1921,
+    "sonuc": "broke in two over the city of Hull",
+    "tetik": "hard turns during speed trials",
+    "mekanizma": "structural failure of a lightweight hull under aerodynamic loads from sharp manoeuvres",
+    "sayi": "44 DIED",
+    "ders": "airship design moved toward calculating aerodynamic loads",
+    "zincir": [
+      "HULL BUILT VERY LIGHT",
+      "SPEED TRIALS",
+      "SHARP TURNS AT SPEED",
+      "GIRDERS BUCKLE",
+      "SHIP BREAKS IN TWO"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't a storm or fire at first. The frame itself buckled under loads from turning hard.",
+    "tartisma": "The design saved weight to climb higher. How much strength can you trade for performance?",
+    "basliklar": [
+      "The Airship That Broke in Half During a Turn",
+      "Why the R38 Airship Broke in Half",
+      "The Airship Too Light for Its Own Turns"
+    ],
+    "kapak": [
+      "BROKE IN TWO",
+      "44 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — R38-class airship",
+        "url": "https://en.wikipedia.org/wiki/R38-class_airship"
+      },
+      {
+        "ad": "Government source — seq 2 (cited by Wikipedia)",
+        "url": "https://chroniclingamerica.loc.gov/lccn/sn83030193/1921-08-25/ed-1/seq-2/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "R38-class_airship",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Le dirigeable R 38 après sa chute - btv1b9054251x.jpg [Public domain]",
+      "Le dirigeable R 38 après sa chute - btv1b9054252b.jpg [Public domain]",
+      "Le dirigeable R 38 sortant du hangar - btv1b9054237n.jpg [Public domain]",
+      "Le R. 38 - le plus grand dirigeable du monde, qui doit prochainement être livré aux U.S.A. s'appellera désormais le Z.R 2 - btv1b9039136w.jpg [Public domain]",
+      "Les aviateurs américains tués dans la catastrophe du R38 sont emportés à Devonport et transférés à bord du Dauntless - btv1b53068308j.jpg [Public domain]",
+      "Luchtschepen, SFA022812283.jpg [Public domain]",
+      "Luchtschepen, SFA022812284.jpg [Public domain]"
+    ]
+  }
+}

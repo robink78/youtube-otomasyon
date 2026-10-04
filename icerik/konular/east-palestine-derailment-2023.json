@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "An Overheating Bearing and the Toxic Burn That Followed",
+  "kaynaklar": [
+    {
+      "ad": "east-palestine-derailmen-1.jpg",
+      "wikimedia": "Ohio Derailment contractors cleanup 2023.jpg"
+    },
+    {
+      "ad": "east-palestine-derailmen-2.jpg",
+      "wikimedia": "NTSB Investigative Hearing on the February 3rd Norfolk Southern Railway Train Derailment in East Palestine, Ohio on June 22, 2023 01.jpg"
+    },
+    {
+      "ad": "east-palestine-derailmen-3.jpg",
+      "wikimedia": "NTSB Investigative Hearing on the February 3rd Norfolk Southern Railway Train Derailment in East Palestine, Ohio on June 22, 2023 02.jpg"
+    },
+    {
+      "ad": "east-palestine-derailmen-4.jpg",
+      "wikimedia": "Ohio National Guard’s 52nd Civil Support Team prepares to enter an incident area to assess and monitor public facilities for any potential remaining hazards in East Palestine, Ohio, Feb. 7, 2023 - 6.jpg"
+    },
+    {
+      "ad": "east-palestine-derailmen-5.jpg",
+      "wikimedia": "Ohio National Guard’s 52nd Civil Support Team prepares to enter an incident area to assess and monitor public facilities for any potential remaining hazards in East Palestine, Ohio, Feb. 7, 2023 - 7.jpg"
+    },
+    {
+      "ad": "east-palestine-derailmen-6.jpg",
+      "wikimedia": "2023 Ohio train derailment.jpg"
+    },
+    {
+      "ad": "east-palestine-derailmen-7.jpg",
+      "wikimedia": "Aerial view Norfolk Southern freight train derailment Feb 2023.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A freight train carrying hazardous materials derailed in East Palestine, Ohio.",
+      "kaynak": "Footage/east-palestine-derailmen-1.jpg"
+    },
+    {
+      "metin": "Suddenly thirty eight cars left the track, and several burned for days.",
+      "kaynak": "Footage/east-palestine-derailmen-2.jpg"
+    },
+    {
+      "metin": "A wheel bearing had been overheating.",
+      "kaynak": "Footage/east-palestine-derailmen-3.jpg"
+    },
+    {
+      "metin": "The train passed three trackside heat sensors.",
+      "kaynak": "Footage/east-palestine-derailmen-4.jpg"
+    },
+    {
+      "metin": "The final alarm came shortly before the derailment.",
+      "kaynak": "Footage/east-palestine-derailmen-5.jpg"
+    },
+    {
+      "metin": "Crews then burned chemicals from several cars on purpose.",
+      "kaynak": "Footage/east-palestine-derailmen-6.jpg"
+    },
+    {
+      "metin": "Residents nearby were evacuated.",
+      "kaynak": "Footage/east-palestine-derailmen-7.jpg"
+    },
+    {
+      "metin": "Railroads added more hot-box detectors.",
+      "kaynak": "Footage/east-palestine-derailmen-1.jpg"
+    }
+  ],
+  "aciklama": "East Palestine derailed a train of hazardous materials in Ohio. The cause: a bearing failure detected too late by wayside hot-box sensors.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "East Palestine",
+    "2023",
+    "wheel bearing",
+    "engineering failure"
+  ],
+  "hook": "The alarm came too late",
+  "soru": "Was the burn the right call?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the East Palestine derailment",
+    "kisa": "East Palestine",
+    "nesne": "Wheel bearing",
+    "yil": 2023,
+    "sonuc": "derailed a train of hazardous materials in Ohio",
+    "tetik": "an overheated wheel bearing",
+    "mekanizma": "a bearing failure detected too late by wayside hot-box sensors",
+    "sayi": "38 CARS",
+    "ders": "railroads added more hot-box detectors and reviewed detector data handling",
+    "zincir": [
+      "BEARING OVERHEATS",
+      "PASSES SENSORS",
+      "ALARM TOO LATE",
+      "38 CARS DERAIL",
+      "VENT AND BURN"
+    ],
+    "zaman": [],
+    "yanilgi": "Sensors saw the problem. The alarm came only shortly before the derailment.",
+    "tartisma": "Officials chose to burn chemicals to prevent an explosion. Was the controlled burn the right call?",
+    "basliklar": [
+      "An Overheating Bearing and the Toxic Burn That Followed",
+      "Why the East Palestine Train Derailed",
+      "The Bearing the Sensors Caught Too Late"
+    ],
+    "kapak": [
+      "HOT BEARING",
+      "38 CARS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — East Palestine train derailment",
+        "url": "https://en.wikipedia.org/wiki/East_Palestine_train_derailment"
+      },
+      {
+        "ad": "NTSB — SPC2406 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/SPC2406.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-17",
+    "wiki": "East_Palestine_train_derailment",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Ohio Derailment contractors cleanup 2023.jpg [Public domain]",
+      "NTSB Investigative Hearing on the February 3rd Norfolk Southern Railway Train Derailment in East Palestine, Ohio on June 22, 2023 01.jpg [Public domain]",
+      "NTSB Investigative Hearing on the February 3rd Norfolk Southern Railway Train Derailment in East Palestine, Ohio on June 22, 2023 02.jpg [Public domain]",
+      "Ohio National Guard’s 52nd Civil Support Team prepares to enter an incident area to assess and monitor public facilities for any potential remaining hazards in East Palestine, Ohio, Feb. 7, 2023 - 6.jpg [CC BY 2.0]",
+      "Ohio National Guard’s 52nd Civil Support Team prepares to enter an incident area to assess and monitor public facilities for any potential remaining hazards in East Palestine, Ohio, Feb. 7, 2023 - 7.jpg [CC BY 2.0]",
+      "2023 Ohio train derailment.jpg [Public domain]",
+      "Aerial view Norfolk Southern freight train derailment Feb 2023.jpg [Public domain]"
+    ]
+  }
+}

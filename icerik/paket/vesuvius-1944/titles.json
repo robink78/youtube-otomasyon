@@ -1,0 +1,247 @@
+{
+  "slug": "vesuvius-1944",
+  "format": "short",
+  "olusturuldu": "2026-09-28T15:20:21.130Z",
+  "secilen": "Vesuvius 1944: An Eruption in the Middle of a War",
+  "secilenPuan": 54,
+  "mevcutPuan": 31.3,
+  "sablonOnerisi": null,
+  "adaySayisi": 9,
+  "adaylar": [
+    {
+      "baslik": "The Real Reason Mount Vesuvius Wrecked a Wartime Bomber Base",
+      "kalip": "real-reason",
+      "toplam": 63.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "How Water Destroyed a $1.4 Billion Stealth Bomber"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "1944: Mount Vesuvius Wrecked a Wartime Bomber Base",
+      "kalip": "label-colon",
+      "toplam": 63.2,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.12,
+        "closest": "How Water Destroyed a $1.4 Billion Stealth Bomber"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "Vesuvius 1944: An Eruption in the Middle of a War",
+      "kalip": "label-colon",
+      "toplam": 54,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "The Ship That Capsized at the Dock — Because of a Safety Rule"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "1944. That's All It Took",
+      "kalip": "label-colon",
+      "toplam": 49.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "208 Seconds: How Geese Took Out Both Engines of Flight 1549"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:number-all-it-took"
+    },
+    {
+      "baslik": "Vesuvius 1944 Explained",
+      "kalip": "explained",
+      "toplam": 40.7,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.06,
+        "closest": "Why Glass Explodes for No Reason"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    },
+    {
+      "baslik": "The Volcano That Wrecked a WWII Bomber Base",
+      "kalip": "the-x-that",
+      "toplam": 40.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "What Actually Makes a Volcano Explode"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The Volcano That Wrecked a Wartime Bomber Base",
+      "kalip": "the-x-that",
+      "toplam": 40.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Castle Bravo: The Bomb That Came Out 2.5 Times Too Big"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "The Volcano That Erupted During World War II",
+      "kalip": "the-x-that",
+      "toplam": 31.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "The Wrong Voltage That Nearly Killed Apollo 13"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Why Volcanic Ash Destroyed Dozens of Bombers",
+      "kalip": "why",
+      "toplam": 28.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "How Water Destroyed a $1.4 Billion Stealth Bomber"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "editorial"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

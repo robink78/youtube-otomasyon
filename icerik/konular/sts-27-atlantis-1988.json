@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Shuttle That Survived Heat-Shield Damage — Years Before Columbia",
+  "kaynaklar": [
+    {
+      "ad": "sts-27-atlantis-1.jpg",
+      "wikimedia": "STS-27metalmelt.jpg"
+    },
+    {
+      "ad": "sts-27-atlantis-2.jpg",
+      "wikimedia": "Sts-27 Landing.jpg"
+    },
+    {
+      "ad": "sts-27-atlantis-3.jpg",
+      "wikimedia": "STS-27-damageplot.jpg"
+    },
+    {
+      "ad": "sts-27-atlantis-4.jpg",
+      "wikimedia": "Atlantis taking off on STS-27.jpg"
+    },
+    {
+      "ad": "sts-27-atlantis-5.jpg",
+      "wikimedia": "Crew STS-27.jpg"
+    },
+    {
+      "ad": "sts-27-atlantis-6.jpg",
+      "wikimedia": "ReefBase highres STS027 STS027-32-34.jpg"
+    },
+    {
+      "ad": "sts-27-atlantis-7.jpg",
+      "wikimedia": "STS-27 Rollout - GPN-2000-000659.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Space Shuttle Atlantis returned from a secret mission badly damaged.",
+      "kaynak": "Footage/sts-27-atlantis-1.jpg"
+    },
+    {
+      "metin": "Hundreds of heat-shield tiles had been hit, and one was gone, destroyed at launch.",
+      "kaynak": "Footage/sts-27-atlantis-2.jpg"
+    },
+    {
+      "metin": "Debris from a booster struck the orbiter during launch.",
+      "kaynak": "Footage/sts-27-atlantis-3.jpg"
+    },
+    {
+      "metin": "In orbit, the crew saw the damage on camera.",
+      "kaynak": "Footage/sts-27-atlantis-4.jpg"
+    },
+    {
+      "metin": "Mission managers judged it not serious.",
+      "kaynak": "Footage/sts-27-atlantis-5.jpg"
+    },
+    {
+      "metin": "The missing tile sat over a thick metal antenna plate.",
+      "kaynak": "Footage/sts-27-atlantis-6.jpg"
+    },
+    {
+      "metin": "That plate protected the structure during re-entry.",
+      "kaynak": "Footage/sts-27-atlantis-7.jpg"
+    },
+    {
+      "metin": "Years later, Columbia was lost to similar damage.",
+      "kaynak": "Footage/sts-27-atlantis-1.jpg"
+    }
+  ],
+  "aciklama": "STS-27 returned with severe heat-shield damage. The cause: launch debris removing and damaging thermal protection tiles.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "STS-27",
+    "1988",
+    "heat shield",
+    "engineering failure"
+  ],
+  "hook": "It was a warning",
+  "soru": "What lesson was forgotten?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Space Shuttle Atlantis on STS-27",
+    "kisa": "STS-27",
+    "nesne": "Heat shield",
+    "yil": 1988,
+    "sonuc": "returned with severe heat-shield damage",
+    "tetik": "debris from a booster striking the orbiter at launch",
+    "mekanizma": "launch debris removing and damaging thermal protection tiles",
+    "sayi": "ONE TILE MISSING",
+    "ders": "the near-miss was later cited as a warning before Columbia",
+    "zincir": [
+      "DEBRIS STRIKES AT LAUNCH",
+      "HUNDREDS OF TILES DAMAGED",
+      "ONE TILE LOST",
+      "METAL PLATE BENEATH PROTECTS",
+      "ORBITER SURVIVES RE-ENTRY"
+    ],
+    "zaman": [],
+    "yanilgi": "Luck mattered. The missing tile happened to sit over a thick metal antenna plate.",
+    "tartisma": "The crew reported damage that mission managers downplayed. What did this mission teach that was forgotten?",
+    "basliklar": [
+      "The Shuttle That Survived Heat-Shield Damage — Years Before Columbia",
+      "How STS-27 Nearly Became Columbia",
+      "The Heat-Shield Damage Atlantis Survived"
+    ],
+    "kapak": [
+      "TILE MISSING",
+      "LUCKY"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — STS-27",
+        "url": "https://en.wikipedia.org/wiki/STS-27"
+      },
+      {
+        "ad": "NASA — wakeup calls (cited by Wikipedia)",
+        "url": "https://history.nasa.gov/wakeup%20calls.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-14",
+    "wiki": "STS-27",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "STS-27metalmelt.jpg [Public domain]",
+      "Sts-27 Landing.jpg [Public domain]",
+      "STS-27-damageplot.jpg [Public domain]",
+      "Atlantis taking off on STS-27.jpg [Public domain]",
+      "Crew STS-27.jpg [Public domain]",
+      "ReefBase highres STS027 STS027-32-34.jpg [Public domain]",
+      "STS-27 Rollout - GPN-2000-000659.jpg [Public domain]"
+    ]
+  }
+}

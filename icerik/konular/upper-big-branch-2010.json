@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Spark, Methane and Coal Dust: The Upper Big Branch Explosion",
+  "kaynaklar": [
+    {
+      "ad": "upper-big-branch-1.jpg",
+      "wikimedia": "P042510PS-0483 (4609216378).jpg"
+    },
+    {
+      "ad": "upper-big-branch-2.jpg",
+      "wikimedia": "Phil Schiliro, Kevin Stricklin, Joe Main, Greg Wagner, Barack Obama, and Hilda L. Solis, 2010.jpg"
+    },
+    {
+      "ad": "upper-big-branch-3.jpg",
+      "wikimedia": "Whitesville-Upper-Big-Branch-Mine-disaster-sign-wv.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An explosion ripped through a West Virginia coal mine.",
+      "kaynak": "Footage/upper-big-branch-1.jpg"
+    },
+    {
+      "metin": "It swept through miles of tunnels, and twenty nine miners were killed.",
+      "kaynak": "Footage/upper-big-branch-2.jpg"
+    },
+    {
+      "metin": "A cutting machine sparked in pocket of methane.",
+      "kaynak": "Footage/upper-big-branch-3.jpg"
+    },
+    {
+      "metin": "The methane ignited.",
+      "kaynak": "Footage/upper-big-branch-1.jpg"
+    },
+    {
+      "metin": "Coal dust along the tunnels should have been covered with rock dust.",
+      "kaynak": "Footage/upper-big-branch-2.jpg"
+    },
+    {
+      "metin": "It wasn't, so the dust exploded too.",
+      "kaynak": "Footage/upper-big-branch-3.jpg"
+    },
+    {
+      "metin": "The mine had a long list of safety violations.",
+      "kaynak": "Footage/upper-big-branch-1.jpg"
+    },
+    {
+      "metin": "Mine safety enforcement was tightened afterward.",
+      "kaynak": "Footage/upper-big-branch-2.jpg"
+    }
+  ],
+  "aciklama": "Upper Big Branch was ripped through by an explosion. The cause: methane ignition that set off accumulated coal dust, with poor ventilation and worn cutter bits.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Upper Big Branch",
+    "2010",
+    "coal mine",
+    "engineering failure"
+  ],
+  "hook": "The dust turned it deadly",
+  "soru": "When should a mine be closed?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Upper Big Branch mine",
+    "kisa": "Upper Big Branch",
+    "nesne": "Coal mine",
+    "yil": 2010,
+    "sonuc": "was ripped through by an explosion",
+    "tetik": "a cutting machine sparking in methane",
+    "mekanizma": "methane ignition that set off accumulated coal dust, with poor ventilation and worn cutter bits",
+    "sayi": "29 KILLED",
+    "ders": "US mine safety enforcement and rock dusting rules were tightened",
+    "zincir": [
+      "WORN CUTTER BITS SPARK",
+      "METHANE IGNITES",
+      "COAL DUST NOT ROCK-DUSTED",
+      "DUST EXPLOSION SPREADS",
+      "MILES OF TUNNEL DEVASTATED"
+    ],
+    "zaman": [],
+    "yanilgi": "The methane flare alone might not have been deadly. Coal dust that should have been neutralized turned it into a massive explosion.",
+    "tartisma": "The mine had many prior safety violations. When should a regulator close a mine?",
+    "basliklar": [
+      "A Spark, Methane and Coal Dust: The Upper Big Branch Explosion",
+      "Why the Upper Big Branch Mine Exploded",
+      "The Coal Dust That Turned a Flare Into a Disaster"
+    ],
+    "kapak": [
+      "COAL DUST",
+      "29 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Upper Big Branch Mine disaster",
+        "url": "https://en.wikipedia.org/wiki/Upper_Big_Branch_Mine_disaster"
+      },
+      {
+        "ad": "US Mine Safety and Health Administration — Fatality and Injury Summary (cited by Wikipedia)",
+        "url": "http://www.msha.gov/PerformanceCoal/Fatality_and_Injury_Summary.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "Upper_Big_Branch_Mine_disaster",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "P042510PS-0483 (4609216378).jpg [Public domain]",
+      "Phil Schiliro, Kevin Stricklin, Joe Main, Greg Wagner, Barack Obama, and Hilda L. Solis, 2010.jpg [Public domain]",
+      "Whitesville-Upper-Big-Branch-Mine-disaster-sign-wv.jpg [CC BY 4.0]"
+    ]
+  }
+}

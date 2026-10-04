@@ -1,0 +1,45 @@
+{
+  "channel": "behind-the-ordinary",
+  "updatedAt": "2026-10-04T18:12:34.608Z",
+  "caveat": "Associations within this channel only. Topic, timing and packaging confound each other; adopted learning nudges heuristics, it never proves causation.",
+  "shorts": {
+    "sampleSize": 1,
+    "status": "heuristics-only",
+    "baselines": {
+      "views": 4,
+      "averagePercentageViewed": null,
+      "subscribersPer1000Views": null,
+      "watchHoursPer1000Views": null,
+      "engagementPer1000Views": 250
+    },
+    "observations": [],
+    "hypotheses": [],
+    "adopted": [],
+    "suppressed": [],
+    "adoptedWeights": {},
+    "adoptedHookFamilyBonus": {},
+    "adoptedTitlePatternBonus": {},
+    "adoptedClusterBonus": {},
+    "adoptedDurationBucketBonus": {}
+  },
+  "longform": {
+    "sampleSize": 0,
+    "status": "heuristics-only",
+    "baselines": {
+      "views": null,
+      "averagePercentageViewed": null,
+      "subscribersPer1000Views": null,
+      "watchHoursPer1000Views": null,
+      "engagementPer1000Views": null
+    },
+    "observations": [],
+    "hypotheses": [],
+    "adopted": [],
+    "suppressed": [],
+    "adoptedWeights": {},
+    "adoptedHookFamilyBonus": {},
+    "adoptedTitlePatternBonus": {},
+    "adoptedClusterBonus": {},
+    "adoptedDurationBucketBonus": {}
+  }
+}

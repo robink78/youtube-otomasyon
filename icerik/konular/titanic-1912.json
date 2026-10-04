@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "Titanic Could Survive Four Flooded Compartments — Not More",
+  "kaynaklar": [
+    {
+      "ad": "titanic-1.png",
+      "wikimedia": "19120415 New Liner Titanic Hits an Iceberg - The New York Times.png"
+    },
+    {
+      "ad": "titanic-2.png",
+      "wikimedia": "19120420 J. Bruce Ismay Testifying at the Senate Inquiry - The New York Times.png"
+    },
+    {
+      "ad": "titanic-3.jpg",
+      "wikimedia": "Stöwer Titanic.jpg"
+    },
+    {
+      "ad": "titanic-4.png",
+      "wikimedia": "Thayer-Sketch-of-Titanic.png"
+    },
+    {
+      "ad": "titanic-5.jpg",
+      "wikimedia": "Titanic iceberg.jpg"
+    },
+    {
+      "ad": "titanic-6.jpg",
+      "wikimedia": "DENT RAY, F. TITANIC; STEWARD LCCN2016863713.jpg"
+    },
+    {
+      "ad": "titanic-7.jpg",
+      "wikimedia": "Rescued Titanic Crew, New York Times, 1912.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Titanic sank on her maiden voyage.",
+      "kaynak": "Footage/titanic-1.png"
+    },
+    {
+      "metin": "It went down in two hours and forty minutes, and more than fifteen hundred people died.",
+      "kaynak": "Footage/titanic-2.png"
+    },
+    {
+      "metin": "It was built to stay afloat with four compartments flooded.",
+      "kaynak": "Footage/titanic-3.jpg"
+    },
+    {
+      "metin": "The iceberg opened more than that along the side.",
+      "kaynak": "Footage/titanic-4.png"
+    },
+    {
+      "metin": "As the bow sank lower, water spilled over the watertight walls.",
+      "kaynak": "Footage/titanic-5.jpg"
+    },
+    {
+      "metin": "They weren't high enough to stop it.",
+      "kaynak": "Footage/titanic-6.jpg"
+    },
+    {
+      "metin": "There weren't enough lifeboats for everyone.",
+      "kaynak": "Footage/titanic-7.jpg"
+    },
+    {
+      "metin": "Now international rules require lifeboats for everyone aboard.",
+      "kaynak": "Footage/titanic-1.png"
+    }
+  ],
+  "aciklama": "Titanic sank on her maiden voyage. The cause: hull breaches across more watertight compartments than the design could survive.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Titanic",
+    "iceberg",
+    "watertight compartments",
+    "SOLAS",
+    "1912"
+  ],
+  "hook": "Built to float with four",
+  "soru": "Would four have been enough?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Titanic",
+    "kisa": "Titanic",
+    "nesne": "Ship",
+    "yil": 1912,
+    "sonuc": "sank on her maiden voyage",
+    "tetik": "an iceberg scraping along the starboard side",
+    "mekanizma": "hull breaches across more watertight compartments than the design could survive",
+    "sayi": "4 COMPARTMENTS",
+    "ders": "SOLAS rules made lifeboats for everyone aboard mandatory",
+    "zincir": [
+      "ICEBERG SEEN TOO LATE",
+      "HULL BREACHED ALONG STARBOARD SIDE",
+      "TOO MANY COMPARTMENTS FLOOD",
+      "WATER SPILLS OVER BULKHEADS",
+      "SHIP SINKS"
+    ],
+    "zaman": [
+      {
+        "t": "Apr 15, 1912",
+        "olay": "Collision late on April 14; sinks early April 15"
+      }
+    ],
+    "yanilgi": "Titanic's bulkheads were not open-topped by accident, but they didn't reach high enough. As the bow sank, water spilled over them one by one.",
+    "tartisma": "Titanic carried more lifeboats than the law required. How can a ship meet the rules and still fail?",
+    "basliklar": [
+      "Titanic Could Survive Four Flooded Compartments — Not More",
+      "Why the Titanic Sank So Fast",
+      "The Watertight Walls That Weren't High Enough"
+    ],
+    "kapak": [
+      "4 COMPARTMENTS",
+      "NOT ENOUGH"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Titanic",
+        "url": "https://en.wikipedia.org/wiki/Titanic"
+      },
+      {
+        "ad": "IMO — International Convention for the Safety of Life at Sea (SOLAS), 1974",
+        "url": "https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Safety-of-Life-at-Sea-(SOLAS),-1974.aspx"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Titanic",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "19120415 New Liner Titanic Hits an Iceberg - The New York Times.png [Public domain]",
+      "19120420 J. Bruce Ismay Testifying at the Senate Inquiry - The New York Times.png [Public domain]",
+      "Stöwer Titanic.jpg [Public domain]",
+      "Thayer-Sketch-of-Titanic.png [Public domain]",
+      "Titanic iceberg.jpg [Public domain]",
+      "DENT RAY, F. TITANIC; STEWARD LCCN2016863713.jpg [Public domain]",
+      "Rescued Titanic Crew, New York Times, 1912.JPG [Public domain]"
+    ]
+  }
+}

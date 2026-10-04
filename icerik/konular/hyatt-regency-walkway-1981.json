@@ -1,0 +1,123 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "One Design Change Doubled the Load — and 114 Died",
+  "kaynaklar": [
+    {
+      "ad": "hyatt-regency-walkway-1.jpg",
+      "wikimedia": "Figure 5.30 a - NARA - 70172364.jpg"
+    },
+    {
+      "ad": "hyatt-regency-walkway-2.jpg",
+      "wikimedia": "Figure 5.4 - NARA - 70172329.jpg"
+    },
+    {
+      "ad": "hyatt-regency-walkway-3.jpg",
+      "wikimedia": "Figure 5.6 - NARA - 70172359.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two walkways fell onto a crowded hotel lobby in Kansas City.",
+      "kaynak": "Footage/hyatt-regency-walkway-1.jpg"
+    },
+    {
+      "metin": "In seconds, one hundred fourteen people were dead.",
+      "kaynak": "Footage/hyatt-regency-walkway-2.jpg"
+    },
+    {
+      "metin": "So how does a walkway just drop?",
+      "kaynak": "Footage/hyatt-regency-walkway-3.jpg"
+    },
+    {
+      "metin": "The design used one long rod through both walkways.",
+      "kaynak": "Footage/hyatt-regency-walkway-1.jpg"
+    },
+    {
+      "metin": "During construction, it was swapped for two shorter rods.",
+      "kaynak": "Footage/hyatt-regency-walkway-2.jpg"
+    },
+    {
+      "metin": "That quietly doubled the load on one set of nuts.",
+      "kaynak": "Footage/hyatt-regency-walkway-3.jpg"
+    },
+    {
+      "metin": "Under the crowd, the nuts pulled straight through the beam.",
+      "kaynak": "Footage/hyatt-regency-walkway-1.jpg"
+    },
+    {
+      "metin": "Now every connection change needs the engineer's approval.",
+      "kaynak": "Footage/hyatt-regency-walkway-2.jpg"
+    }
+  ],
+  "aciklama": "Hyatt Regency collapsed onto a crowded hotel lobby. The cause: box-beam connection pull-through from a doubled hanger-rod load.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Hyatt Regency",
+    "walkway collapse",
+    "Kansas City",
+    "structural engineering",
+    "1981"
+  ],
+  "hook": "One rod became two",
+  "soru": "Would you have spotted it?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the Hyatt Regency walkways",
+    "kisa": "Hyatt Regency",
+    "nesne": "Walkway",
+    "yil": 1981,
+    "sonuc": "collapsed onto a crowded hotel lobby",
+    "tetik": "a rod change that doubled the load on one connection",
+    "mekanizma": "box-beam connection pull-through from a doubled hanger-rod load",
+    "sayi": "114 DEAD",
+    "ders": "connection changes during fabrication now need the engineer of record's approval",
+    "zincir": [
+      "ONE ROD BECOMES TWO",
+      "LOAD ON UPPER BOX BEAM DOUBLES",
+      "NUT PULLS THROUGH BOX BEAM",
+      "UPPER WALKWAY FALLS ONTO LOWER",
+      "BOTH HIT THE CROWDED LOBBY"
+    ],
+    "zaman": [
+      {
+        "t": "Jul 17, 1981",
+        "olay": "Tea dance in the atrium; walkways crowded"
+      }
+    ],
+    "yanilgi": "The original design was already weak. The fabrication change made it far worse: one hanger connection had to carry two walkways.",
+    "tartisma": "The change was approved without a new calculation. Who owns a connection — the designer or the fabricator?",
+    "basliklar": [
+      "One Design Change Doubled the Load — and 114 Died",
+      "Why the Hyatt Regency Walkways Fell",
+      "The Rod Change That Collapsed a Hotel"
+    ],
+    "kapak": [
+      "ONE ROD",
+      "LOAD DOUBLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hyatt Regency walkway collapse",
+        "url": "https://en.wikipedia.org/wiki/Hyatt_Regency_walkway_collapse"
+      },
+      {
+        "ad": "NBS Building Science Series 143 — Investigation of the Kansas City Hyatt Regency Walkways Collapse",
+        "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience143.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Hyatt_Regency_walkway_collapse",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Figure 5.30 a - NARA - 70172364.jpg [Public domain]",
+      "Figure 5.4 - NARA - 70172329.jpg [Public domain]",
+      "Figure 5.6 - NARA - 70172359.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "how-lightning-destroys",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.674Z",
+  "ekranHook": "30,000 degrees in an instant",
+  "mevcut": {
+    "puan": 80,
+    "pencereler": {
+      "0-5": "A single lightning bolt is five times hotter than the sun. It carries a",
+      "5-12": "billion volts in a fraction of a second. When it hits a building, it looks for the fastest path",
+      "12-20": "down. If that path runs through water or wiring, it boils them instantly. Trapped moisture turns to steam and blows brick and",
+      "20-30": "concrete apart. That is why a struck tree can explode from the inside. Lightning rods give it a safe metal path straight to the ground. Without one, the"
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A single lightning bolt is five times hotter than the sun."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a single bolt."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is resistive heating and steam expansion — and it is why lightning rods give the current a safe path to ground."
+      }
+    ],
+    "metin": "A single lightning bolt is five times hotter than the sun. It took only a single bolt. So what actually happens inside? The answer is resistive heating and steam expansion — and it is why lightning rods give the current a safe path to ground.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

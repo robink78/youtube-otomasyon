@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Business Jet's Collision Warning Was Switched Off",
+  "kaynaklar": [
+    {
+      "ad": "gol-1907-1.jpg",
+      "wikimedia": "Caixa-Preta GOL.jpg"
+    },
+    {
+      "ad": "gol-1907-2.jpg",
+      "wikimedia": "Gol1907pres.jpg"
+    },
+    {
+      "ad": "gol-1907-3.jpg",
+      "wikimedia": "GravadoVoz.jpg"
+    },
+    {
+      "ad": "gol-1907-4.jpg",
+      "wikimedia": "Legacy1 fab.jpg"
+    },
+    {
+      "ad": "gol-1907-5.jpg",
+      "wikimedia": "Legacy2 fab.jpg"
+    },
+    {
+      "ad": "gol-1907-6.jpg",
+      "wikimedia": "Wreckage of flight GLO 1907.jpg"
+    },
+    {
+      "ad": "gol-1907-7.jpg",
+      "wikimedia": "Crash site of flight GLO 1907.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Over the Amazon, a Boeing 737 and a business jet collided head-on.",
+      "kaynak": "Footage/gol-1907-1.jpg"
+    },
+    {
+      "metin": "The airliner broke up, and all one hundred fifty four aboard were killed.",
+      "kaynak": "Footage/gol-1907-2.jpg"
+    },
+    {
+      "metin": "Both jets were at the same altitude.",
+      "kaynak": "Footage/gol-1907-3.jpg"
+    },
+    {
+      "metin": "Controllers failed to catch it.",
+      "kaynak": "Footage/gol-1907-4.jpg"
+    },
+    {
+      "metin": "The business jet's collision-avoidance system wasn't active.",
+      "kaynak": "Footage/gol-1907-5.jpg"
+    },
+    {
+      "metin": "Its winglet sliced off half of the 737's left wing.",
+      "kaynak": "Footage/gol-1907-6.jpg"
+    },
+    {
+      "metin": "The damaged business jet landed safely.",
+      "kaynak": "Footage/gol-1907-7.jpg"
+    },
+    {
+      "metin": "Investigators disagreed over where blame lay.",
+      "kaynak": "Footage/gol-1907-1.jpg"
+    }
+  ],
+  "aciklama": "Gol 1907 collided mid-air with a business jet over the Amazon. The cause: controller errors plus a collision-avoidance system that wasn't active on the business jet.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Gol 1907",
+    "2006",
+    "tcas",
+    "engineering failure"
+  ],
+  "hook": "The warning system was off",
+  "soru": "Who gets the blame?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Gol Flight 1907",
+    "kisa": "Gol 1907",
+    "nesne": "TCAS",
+    "yil": 2006,
+    "sonuc": "collided mid-air with a business jet over the Amazon",
+    "tetik": "two jets at the same altitude on opposite headings",
+    "mekanizma": "controller errors plus a collision-avoidance system that wasn't active on the business jet",
+    "sayi": "154 DIED",
+    "ders": "Brazil faced scrutiny over its air traffic control system",
+    "zincir": [
+      "WRONG ALTITUDE",
+      "RADIO CONTACT LOST",
+      "TCAS INACTIVE",
+      "SAME ALTITUDE HEAD-ON",
+      "WINGLET SLICES WING"
+    ],
+    "zaman": [],
+    "yanilgi": "The business jet survived. Its winglet sliced the airliner's wing off.",
+    "tartisma": "Brazil's and America's investigators blamed different parties. Who gets the blame when layers fail?",
+    "basliklar": [
+      "A Business Jet's Collision Warning Was Switched Off",
+      "Why Gol Flight 1907 Collided Over the Amazon",
+      "The Collision Warning That Was Off"
+    ],
+    "kapak": [
+      "TCAS OFF",
+      "154 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Gol Transportes Aéreos Flight 1907",
+        "url": "https://en.wikipedia.org/wiki/Gol_Transportes_Aéreos_Flight_1907"
+      },
+      {
+        "ad": "NTSB — Midair Collision Final Report 1907 English version (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/Aviation/Brazil-CENIPA/Midair_Collision_Final_Report_1907_English_version.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-19",
+    "wiki": "Gol_Transportes_Aéreos_Flight_1907",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Caixa-Preta GOL.jpg [CC BY 3.0 br]",
+      "Gol1907pres.jpg [CC BY 3.0 br]",
+      "GravadoVoz.jpg [CC BY 3.0 br]",
+      "Legacy1 fab.jpg [CC BY 3.0 br]",
+      "Legacy2 fab.jpg [CC BY 3.0 br]",
+      "Wreckage of flight GLO 1907.jpg [CC BY 3.0 br]",
+      "Crash site of flight GLO 1907.jpg [CC BY 3.0 br]"
+    ]
+  }
+}

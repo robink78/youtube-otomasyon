@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Cargo Ship That Sailed Into a Hurricane",
+  "kaynaklar": [
+    {
+      "ad": "el-faro-1.jpg",
+      "wikimedia": "NTSB investigative team en route to investigate the Loss of Container Ship El Faro (21982356646).jpg"
+    },
+    {
+      "ad": "el-faro-2.png",
+      "wikimedia": "Joaquin 2015-10-01 1145z.png"
+    },
+    {
+      "ad": "el-faro-3.jpg",
+      "wikimedia": "NTSB investigators on El Yunque (sister ship of El Faro) while it's docked at Jacksonville (22344578431).jpg"
+    },
+    {
+      "ad": "el-faro-4.jpg",
+      "wikimedia": "NTSB investigators about to board El Yunque (sister ship of El Faro) in Jacksonville (22146216768).jpg"
+    },
+    {
+      "ad": "el-faro-5.jpg",
+      "wikimedia": "NTSB investigators on El Yunque (sister ship of El Faro) while it's docked at Jacksonville (22145929180).jpg"
+    },
+    {
+      "ad": "el-faro-6.jpg",
+      "wikimedia": "Model of the wreck of the El Faro (38972122842).jpg"
+    },
+    {
+      "ad": "el-faro-7.jpg",
+      "wikimedia": "EL FARO VDR Photo (26569406162).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A US cargo ship sailed into a Category 3 hurricane.",
+      "kaynak": "Footage/el-faro-1.jpg"
+    },
+    {
+      "metin": "The ship sank, and all thirty three crew were killed.",
+      "kaynak": "Footage/el-faro-2.png"
+    },
+    {
+      "metin": "Its route kept it close to the hurricane's path.",
+      "kaynak": "Footage/el-faro-3.jpg"
+    },
+    {
+      "metin": "Some weather updates it relied on were hours old.",
+      "kaynak": "Footage/el-faro-4.jpg"
+    },
+    {
+      "metin": "Water came in through an open hatch, and the ship listed.",
+      "kaynak": "Footage/el-faro-5.jpg"
+    },
+    {
+      "metin": "Then the engine lost oil pressure and stopped.",
+      "kaynak": "Footage/el-faro-6.jpg"
+    },
+    {
+      "metin": "Without power, the waves took over.",
+      "kaynak": "Footage/el-faro-7.jpg"
+    },
+    {
+      "metin": "Rules on weather routing and old ships were tightened.",
+      "kaynak": "Footage/el-faro-1.jpg"
+    }
+  ],
+  "aciklama": "El Faro sank in Hurricane Joaquin. The cause: flooding through an open scuttle, loss of propulsion, and progressive flooding in heavy seas.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "El Faro",
+    "2015",
+    "cargo ship",
+    "engineering failure"
+  ],
+  "hook": "Straight into the storm",
+  "soru": "Would you change course?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "El Faro",
+    "kisa": "El Faro",
+    "nesne": "Cargo ship",
+    "yil": 2015,
+    "sonuc": "sank in Hurricane Joaquin",
+    "tetik": "a route that took the ship into the storm's path",
+    "mekanizma": "flooding through an open scuttle, loss of propulsion, and progressive flooding in heavy seas",
+    "sayi": "33 CREW",
+    "ders": "weather routing and older-ship safety rules were tightened",
+    "zincir": [
+      "ROUTE KEPT NEAR THE STORM",
+      "OUTDATED WEATHER DATA",
+      "SHIP LISTS, WATER ENTERS",
+      "PROPULSION LOST",
+      "SHIP SINKS"
+    ],
+    "zaman": [],
+    "yanilgi": "The captain was not ignoring every forecast. He was relying partly on weather data that was hours out of date.",
+    "tartisma": "The voyage data recorder captured every doubt the crew raised. How should a crew challenge a captain?",
+    "basliklar": [
+      "The Cargo Ship That Sailed Into a Hurricane",
+      "Why El Faro Sank",
+      "The Ship That Sailed Into Hurricane Joaquin"
+    ],
+    "kapak": [
+      "INTO THE STORM",
+      "33 CREW"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SS El Faro",
+        "url": "https://en.wikipedia.org/wiki/SS_El_Faro"
+      },
+      {
+        "ad": "NTSB — DCA16MM01 preliminary report (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/DCA16MM01_preliminary_report.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-04",
+    "wiki": "SS_El_Faro",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "NTSB investigative team en route to investigate the Loss of Container Ship El Faro (21982356646).jpg [Public domain]",
+      "Joaquin 2015-10-01 1145z.png [Public domain]",
+      "NTSB investigators on El Yunque (sister ship of El Faro) while it's docked at Jacksonville (22344578431).jpg [Public domain]",
+      "NTSB investigators about to board El Yunque (sister ship of El Faro) in Jacksonville (22146216768).jpg [Public domain]",
+      "NTSB investigators on El Yunque (sister ship of El Faro) while it's docked at Jacksonville (22145929180).jpg [Public domain]",
+      "Model of the wreck of the El Faro (38972122842).jpg [Public domain]",
+      "EL FARO VDR Photo (26569406162).jpg [Public domain]"
+    ]
+  }
+}

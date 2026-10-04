@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Turbine That Blew Out of Its Housing",
+  "kaynaklar": [
+    {
+      "ad": "sayano-shushenskaya-1.jpg",
+      "wikimedia": "2009 incident on Sayan power station 01.jpg"
+    },
+    {
+      "ad": "sayano-shushenskaya-2.jpg",
+      "wikimedia": "Damage to the Sayano-Shushinskaya power station.jpg"
+    },
+    {
+      "ad": "sayano-shushenskaya-3.jpg",
+      "wikimedia": "Рис. 3.6.jpg"
+    },
+    {
+      "ad": "sayano-shushenskaya-4.jpg",
+      "wikimedia": "Sayano-Shushenskaya HPS - plan.jpg"
+    },
+    {
+      "ad": "sayano-shushenskaya-5.jpg",
+      "wikimedia": "2009 incident on Sayan power station 06.jpg"
+    },
+    {
+      "ad": "sayano-shushenskaya-6.jpg",
+      "wikimedia": "Рис 3.1.jpg"
+    },
+    {
+      "ad": "sayano-shushenskaya-7.png",
+      "wikimedia": "Изменения показаний датчика радиальных вибраций подшипника турбины гидроагрегата № 2.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At Russia's largest hydro plant, a turbine burst out of its housing.",
+      "kaynak": "Footage/sayano-shushenskaya-1.jpg"
+    },
+    {
+      "metin": "Water flooded the turbine hall, and seventy five people were killed.",
+      "kaynak": "Footage/sayano-shushenskaya-2.jpg"
+    },
+    {
+      "metin": "The dam itself held.",
+      "kaynak": "Footage/sayano-shushenskaya-3.jpg"
+    },
+    {
+      "metin": "The turbine had vibrated heavily for years.",
+      "kaynak": "Footage/sayano-shushenskaya-4.jpg"
+    },
+    {
+      "metin": "The bolts holding its cover down were fatigued.",
+      "kaynak": "Footage/sayano-shushenskaya-5.jpg"
+    },
+    {
+      "metin": "When they failed, water pressure pushed the turbine up and out.",
+      "kaynak": "Footage/sayano-shushenskaya-6.jpg"
+    },
+    {
+      "metin": "Water poured into the hall.",
+      "kaynak": "Footage/sayano-shushenskaya-7.png"
+    },
+    {
+      "metin": "Hydro plants reviewed vibration limits and bolt inspections.",
+      "kaynak": "Footage/sayano-shushenskaya-1.jpg"
+    }
+  ],
+  "aciklama": "Sayano-Shushenskaya flooded when a turbine was forced out of its housing. The cause: fatigue failure of turbine cover studs under long-term vibration, letting water pressure eject the rotor.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Sayano-Shushenskaya",
+    "2009",
+    "turbine",
+    "engineering failure"
+  ],
+  "hook": "The turbine flew out",
+  "soru": "How much vibration is too much?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Sayano-Shushenskaya hydro plant",
+    "kisa": "Sayano-Shushenskaya",
+    "nesne": "Turbine",
+    "yil": 2009,
+    "sonuc": "flooded when a turbine was forced out of its housing",
+    "tetik": "fatigued bolts on a vibrating turbine cover",
+    "mekanizma": "fatigue failure of turbine cover studs under long-term vibration, letting water pressure eject the rotor",
+    "sayi": "75 KILLED",
+    "ders": "Russian hydro plants reviewed turbine vibration limits and bolt inspections",
+    "zincir": [
+      "TURBINE VIBRATES FOR YEARS",
+      "COVER BOLTS FATIGUE",
+      "BOLTS FAIL",
+      "WATER EJECTS THE TURBINE",
+      "TURBINE HALL FLOODS"
+    ],
+    "zaman": [],
+    "yanilgi": "The dam didn't fail. The water was released inside the power station when a turbine was pushed out of its seat.",
+    "tartisma": "The turbine was kept running despite heavy vibration. How much vibration is too much?",
+    "basliklar": [
+      "The Turbine That Blew Out of Its Housing",
+      "Why the Sayano-Shushenskaya Turbine Failed",
+      "The Vibration That Broke the Bolts"
+    ],
+    "kapak": [
+      "BOLTS FAILED",
+      "75 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Sayano-Shushenskaya power station accident",
+        "url": "https://en.wikipedia.org/wiki/Sayano-Shushenskaya_power_station_accident"
+      },
+      {
+        "ad": "Academic / engineering journal — 10.3390/app8030451 (cited by Wikipedia)",
+        "url": "https://doi.org/10.3390%2Fapp8030451"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "Sayano-Shushenskaya_power_station_accident",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "2009 incident on Sayan power station 01.jpg [CC BY 4.0]",
+      "Damage to the Sayano-Shushinskaya power station.jpg [Public domain]",
+      "Рис. 3.6.jpg [Public domain]",
+      "Sayano-Shushenskaya HPS - plan.jpg [Public domain]",
+      "2009 incident on Sayan power station 06.jpg [CC BY 4.0]",
+      "Рис 3.1.jpg [Public domain]",
+      "Изменения показаний датчика радиальных вибраций подшипника турбины гидроагрегата № 2.png [Public domain]"
+    ]
+  }
+}

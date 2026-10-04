@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Sensors Installed Upside Down Crashed a Proton Rocket",
+  "kaynaklar": [
+    {
+      "ad": "proton-m-1.jpg",
+      "wikimedia": "BTCC Round 5 @ Oulton Park 2013 (9049340803).jpg"
+    },
+    {
+      "ad": "proton-m-2.jpg",
+      "wikimedia": "BTCC Round 5 @ Oulton Park 2013 (9051432302).jpg"
+    },
+    {
+      "ad": "proton-m-3.jpg",
+      "wikimedia": "BTCC Oulton Park (9005952310).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Seconds after lift-off, a Russian Proton rocket began to zigzag.",
+      "kaynak": "Footage/proton-m-1.jpg"
+    },
+    {
+      "metin": "It turned over and exploded in a fireball near the pad.",
+      "kaynak": "Footage/proton-m-2.jpg"
+    },
+    {
+      "metin": "Its angular velocity sensors had been installed upside down.",
+      "kaynak": "Footage/proton-m-3.jpg"
+    },
+    {
+      "metin": "They were marked with arrows showing the right way.",
+      "kaynak": "Footage/proton-m-1.jpg"
+    },
+    {
+      "metin": "They had been forced into place the wrong way.",
+      "kaynak": "Footage/proton-m-2.jpg"
+    },
+    {
+      "metin": "The guidance system received reversed data and steered wrong.",
+      "kaynak": "Footage/proton-m-3.jpg"
+    },
+    {
+      "metin": "No check caught the error before launch.",
+      "kaynak": "Footage/proton-m-1.jpg"
+    },
+    {
+      "metin": "Russia overhauled quality control at its rocket factories.",
+      "kaynak": "Footage/proton-m-2.jpg"
+    }
+  ],
+  "aciklama": "Proton-M 2013 veered and crashed seconds after launch. The cause: inverted rate sensors feeding reversed data to the guidance system.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Proton-M 2013",
+    "2013",
+    "angular velocity sensors",
+    "engineering failure"
+  ],
+  "hook": "Installed upside down",
+  "soru": "Who catches it?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the Proton-M rocket",
+    "kisa": "Proton-M 2013",
+    "nesne": "Angular velocity sensors",
+    "yil": 2013,
+    "sonuc": "veered and crashed seconds after launch",
+    "tetik": "angular velocity sensors mounted upside down",
+    "mekanizma": "inverted rate sensors feeding reversed data to the guidance system",
+    "sayi": "UPSIDE DOWN",
+    "ders": "Russia overhauled quality control at its rocket factories",
+    "zincir": [
+      "SENSORS FORCED IN UPSIDE DOWN",
+      "LAUNCH",
+      "GUIDANCE GETS REVERSED DATA",
+      "ROCKET ZIGZAGS",
+      "CRASHES NEAR PAD"
+    ],
+    "zaman": [],
+    "yanilgi": "The sensors had arrows showing the right orientation. They were forced in the wrong way anyway.",
+    "tartisma": "The installer was a young technician; the checks didn't catch it. Who should catch a mistake like that?",
+    "basliklar": [
+      "Sensors Installed Upside Down Crashed a Proton Rocket",
+      "Why the Proton-M Crashed in 2013",
+      "The Sensors Hammered In Upside Down"
+    ],
+    "kapak": [
+      "UPSIDE DOWN",
+      "SECONDS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Proton-M",
+        "url": "https://en.wikipedia.org/wiki/Proton-M"
+      },
+      {
+        "ad": "Government source — 686613 (cited by Wikipedia)",
+        "url": "https://www.gao.gov/assets/690/686613.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "Proton-M",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "BTCC Round 5 @ Oulton Park 2013 (9049340803).jpg [CC BY 2.0]",
+      "BTCC Round 5 @ Oulton Park 2013 (9051432302).jpg [CC BY 2.0]",
+      "BTCC Oulton Park (9005952310).jpg [CC BY 2.0]"
+    ]
+  }
+}

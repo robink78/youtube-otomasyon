@@ -1,0 +1,89 @@
+{
+  "slug": "how-hurricanes-destroy",
+  "format": "short",
+  "baslik": "How a Hurricane Tears a House Apart",
+  "olusturuldu": "2026-09-24T16:22:41.651Z",
+  "puan": 100,
+  "birincil": "event-frame",
+  "konseptler": [
+    {
+      "id": "event-frame",
+      "duzen": "subject-right-text-left",
+      "anaGorsel": "the most dramatic real frame of the failure (from the hook/event scene)",
+      "kirpma": "9:16 full frame; subject in upper-middle third, clear of captions",
+      "odak": "the house at the moment of failure",
+      "hiyerarsi": [
+        "failure moment",
+        "2-4 word text",
+        "brand accent bar"
+      ],
+      "metin": "ROOF LIFT",
+      "duyguTetigi": "shock / awe — the viewer sees the failure happening",
+      "kontrast": "darken & desaturate background 20%, warm accent on text, subject kept at natural colour",
+      "kaynakSahne": "hook",
+      "mobil": {
+        "gecti": true,
+        "sorunlar": [],
+        "not": "Shorts feed mostly shows a frame from the video — the opening frame matters more than a custom cover."
+      },
+      "baslikTekrari": 0,
+      "uyarilar": [],
+      "aiIstem": {
+        "istem": "Documentary thumbnail, the most dramatic real frame of the failure (from the hook/event scene), the house at the moment of failure, darken & desaturate background 20%, warm accent on text, subject kept at natural colour, photographic, no text, no logos",
+        "not": "use only when no real frame exists; label RECONSTRUCTION on use (config/growth.json disclosure)"
+      }
+    },
+    {
+      "id": "mechanism-overlay",
+      "duzen": "diagram-overlay",
+      "anaGorsel": "real frame with an engineering mark-up: red circle/arrow on the component that failed",
+      "kirpma": "tight crop on the failing component",
+      "odak": "where wind uplift on the roof acts",
+      "hiyerarsi": [
+        "red mark-up on component",
+        "text",
+        "blueprint grid tint"
+      ],
+      "metin": "ONE WEAK STRAP",
+      "duyguTetigi": "intrigue — 'what broke here?'",
+      "kontrast": "cool blueprint tint on image, warm red mark-up, white text",
+      "kaynakSahne": "technical",
+      "mobil": {
+        "gecti": true,
+        "sorunlar": [],
+        "not": "Shorts feed mostly shows a frame from the video — the opening frame matters more than a custom cover."
+      },
+      "baslikTekrari": 0,
+      "uyarilar": [],
+      "aiIstem": {
+        "istem": "Documentary thumbnail, real frame with an engineering mark-up: red circle/arrow on the component that failed, where wind uplift on the roof acts, cool blueprint tint on image, warm red mark-up, white text, photographic, no text, no logos",
+        "not": "use only when no real frame exists; label RECONSTRUCTION on use (config/growth.json disclosure)"
+      }
+    },
+    {
+      "id": "no-text-frame",
+      "duzen": "full-bleed",
+      "anaGorsel": "the most dramatic real frame of the failure (from the hook/event scene)",
+      "kirpma": "9:16 full frame; subject in upper-middle third, clear of captions",
+      "odak": "the house at the moment of failure",
+      "hiyerarsi": [
+        "failure moment only"
+      ],
+      "metin": "",
+      "duyguTetigi": "pure visual curiosity — the frame carries the story",
+      "kontrast": "natural colour, slight vignette",
+      "kaynakSahne": "hook",
+      "mobil": {
+        "gecti": true,
+        "sorunlar": [],
+        "not": "Shorts feed mostly shows a frame from the video — the opening frame matters more than a custom cover."
+      },
+      "baslikTekrari": 0,
+      "uyarilar": [],
+      "aiIstem": {
+        "istem": "Documentary thumbnail, the most dramatic real frame of the failure (from the hook/event scene), the house at the moment of failure, natural colour, slight vignette, photographic, no text, no logos",
+        "not": "use only when no real frame exists; label RECONSTRUCTION on use (config/growth.json disclosure)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why Mines Collapse Deep Underground",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "A ceiling of solid rock",
+  "soru": "Would you go down?",
+  "arama_yedek": "mine underground tunnel",
+  "aciklama": "A mine is a hole holding up a mountain - and the rock is always trying to close it. Here is why mines fail.\n\n#shorts #engineering #science #mining #howitworks",
+  "etiketler": [
+    "mine",
+    "underground",
+    "tunnel",
+    "engineering",
+    "science"
+  ],
+  "sahneler": [
+    {
+      "metin": "A mine is a hole holding up millions of tons of rock.",
+      "arama": "mine tunnel"
+    },
+    {
+      "metin": "When it fails, the roof can crush everything in seconds.",
+      "arama": "dark tunnel"
+    },
+    {
+      "metin": "But what actually holds it up?",
+      "arama": "underground mine"
+    },
+    {
+      "metin": "Miners leave pillars of rock to hold up the roof.",
+      "arama": "mine shaft"
+    },
+    {
+      "metin": "Take out too much, and those pillars slowly crush.",
+      "arama": "cave tunnel"
+    },
+    {
+      "metin": "One failing pillar can start a chain collapse.",
+      "arama": "coal mine"
+    },
+    {
+      "metin": "Water seeping in weakens the rock and rusts the supports.",
+      "arama": "mine water"
+    },
+    {
+      "metin": "Modern mines listen for the rock groaning before it gives way.",
+      "arama": "mining equipment"
+    }
+  ],
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "mekanizma",
+    "ad": "Mines",
+    "nesne": "Mine",
+    "sonuc": "collapse",
+    "tetik": "removing too much rock",
+    "mekanizma": "pillar failure",
+    "sayi": "MILLIONS OF TONS",
+    "ders": "sensors listen for the rock before it fails",
+    "zincir": [
+      "ROCK REMOVED",
+      "LOAD SHIFTS TO PILLARS",
+      "PILLARS CRUSH",
+      "CHAIN COLLAPSE",
+      "GAS OR DUST IGNITION RISK"
+    ],
+    "yanilgi": "Mine roofs rarely fail without warning — rock often cracks and pops as the load shifts.",
+    "tartisma": "Should mines leave more rock behind as pillars, even if it cuts output?",
+    "basliklar": [
+      "A Hole Holding Up a Mountain",
+      "Why Mine Pillars Suddenly Crush",
+      "The Chain Collapse Miners Fear Most"
+    ],
+    "kapak": [
+      "MILLIONS OF TONS",
+      "PILLAR CRUSH"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Room and pillar mining",
+        "url": "https://en.wikipedia.org/wiki/Room_and_pillar_mining"
+      }
+    ]
+  }
+}

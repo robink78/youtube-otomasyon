@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Fan Blade Broke and a Window Blew Out",
+  "kaynaklar": [
+    {
+      "ad": "southwest-1380-1.png",
+      "wikimedia": "NTSB B Roll PHL Southwest Flight 1380 N772SW Apr 17 2018 - Screengrab 12.png"
+    },
+    {
+      "ad": "southwest-1380-2.jpg",
+      "wikimedia": "NTSB update May 3 2018 - Southwest Airlines Flight 1380 - N772SW - Figure 1 - Damage to cowl - inboard.jpg"
+    },
+    {
+      "ad": "southwest-1380-3.jpg",
+      "wikimedia": "NTSB update May 3 2018 - Southwest Airlines Flight 1380 - N772SW - Figure 2 - Fracture surface with fatigue indications.jpg"
+    },
+    {
+      "ad": "southwest-1380-4.jpg",
+      "wikimedia": "Southwest Airlines Flight 1380 piece of the engine cowling 1 PHL KPHL.jpg"
+    },
+    {
+      "ad": "southwest-1380-5.jpg",
+      "wikimedia": "Inlet cowl1 Original (41149408684).jpg"
+    },
+    {
+      "ad": "southwest-1380-6.png",
+      "wikimedia": "NTSB B Roll PHL Southwest Flight 1380 N772SW Apr 17 2018 - Screengrab 1.png"
+    },
+    {
+      "ad": "southwest-1380-7.jpg",
+      "wikimedia": "NTSB WN 1380 (27695484288).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At cruising altitude, a jet's engine suddenly blew apart.",
+      "kaynak": "Footage/southwest-1380-1.png"
+    },
+    {
+      "metin": "Debris shattered a window, and one passenger was killed.",
+      "kaynak": "Footage/southwest-1380-2.jpg"
+    },
+    {
+      "metin": "The cause was a single fan blade.",
+      "kaynak": "Footage/southwest-1380-3.jpg"
+    },
+    {
+      "metin": "A fatigue crack had grown inside it.",
+      "kaynak": "Footage/southwest-1380-4.jpg"
+    },
+    {
+      "metin": "When it snapped, the engine's inlet broke up.",
+      "kaynak": "Footage/southwest-1380-5.jpg"
+    },
+    {
+      "metin": "Fragments struck the fuselage and the window gave way.",
+      "kaynak": "Footage/southwest-1380-6.png"
+    },
+    {
+      "metin": "The captain still landed the jet safely in Philadelphia.",
+      "kaynak": "Footage/southwest-1380-7.jpg"
+    },
+    {
+      "metin": "Fan blades were then checked more often with ultrasound.",
+      "kaynak": "Footage/southwest-1380-1.png"
+    }
+  ],
+  "aciklama": "Southwest 1380 had an engine fail and a window break in flight. The cause: fan blade fatigue fracture causing an uncontained engine failure and inlet debris strike.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Southwest 1380",
+    "2018",
+    "fan blade",
+    "engineering failure"
+  ],
+  "hook": "One blade snapped",
+  "soru": "Inspect after the first, or the second?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "Southwest Airlines Flight 1380",
+    "kisa": "Southwest 1380",
+    "nesne": "Fan blade",
+    "yil": 2018,
+    "sonuc": "had an engine fail and a window break in flight",
+    "tetik": "a fatigue crack in one fan blade",
+    "mekanizma": "fan blade fatigue fracture causing an uncontained engine failure and inlet debris strike",
+    "sayi": "ONE BLADE",
+    "ders": "fan blade inspections were accelerated with ultrasound checks",
+    "zincir": [
+      "FATIGUE CRACK IN FAN BLADE",
+      "BLADE BREAKS OFF",
+      "INLET COWL SHATTERS",
+      "DEBRIS BREAKS A WINDOW",
+      "CABIN DEPRESSURIZES"
+    ],
+    "zaman": [],
+    "yanilgi": "The engine didn't explode from fire. One fan blade snapped from fatigue, and the debris hit the fuselage.",
+    "tartisma": "A similar blade failure happened two years earlier. Should inspections tighten after the first one?",
+    "basliklar": [
+      "A Fan Blade Broke and a Window Blew Out",
+      "Why Southwest Flight 1380's Engine Failed",
+      "The Fatigue Crack in One Fan Blade"
+    ],
+    "kapak": [
+      "ONE BLADE",
+      "WINDOW GONE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Southwest Airlines Flight 1380",
+        "url": "https://en.wikipedia.org/wiki/Southwest_Airlines_Flight_1380"
+      },
+      {
+        "ad": "NTSB — AAR1903 (cited by Wikipedia)",
+        "url": "https://ntsb.gov/investigations/AccidentReports/Reports/AAR1903.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-03",
+    "wiki": "Southwest_Airlines_Flight_1380",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "NTSB B Roll PHL Southwest Flight 1380 N772SW Apr 17 2018 - Screengrab 12.png [Public domain]",
+      "NTSB update May 3 2018 - Southwest Airlines Flight 1380 - N772SW - Figure 1 - Damage to cowl - inboard.jpg [Public domain]",
+      "NTSB update May 3 2018 - Southwest Airlines Flight 1380 - N772SW - Figure 2 - Fracture surface with fatigue indications.jpg [Public domain]",
+      "Southwest Airlines Flight 1380 piece of the engine cowling 1 PHL KPHL.jpg [Public domain]",
+      "Inlet cowl1 Original (41149408684).jpg [Public domain]",
+      "NTSB B Roll PHL Southwest Flight 1380 N772SW Apr 17 2018 - Screengrab 1.png [Public domain]",
+      "NTSB WN 1380 (27695484288).jpg [Public domain]"
+    ]
+  }
+}

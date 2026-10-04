@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Warship Ran Onto a Reef Its Chart Put 8 Miles Away",
+  "kaynaklar": [
+    {
+      "ad": "uss-guardian-grounding-1.jpg",
+      "wikimedia": "USS Guardian being struck by a wave while aground.jpg"
+    },
+    {
+      "ad": "uss-guardian-grounding-2.jpg",
+      "wikimedia": "Guardian is salvaged from the Tubbataha Reef -a.jpg"
+    },
+    {
+      "ad": "uss-guardian-grounding-3.jpg",
+      "wikimedia": "Didassembly of ex-Guardian is complete. (8621840185).jpg"
+    },
+    {
+      "ad": "uss-guardian-grounding-4.jpg",
+      "wikimedia": "Guardian is salvaged. (8559256161).jpg"
+    },
+    {
+      "ad": "uss-guardian-grounding-5.jpg",
+      "wikimedia": "130306-N-PD773-125 (8538460443).jpg"
+    },
+    {
+      "ad": "uss-guardian-grounding-6.jpg",
+      "wikimedia": "USS Guardian arrives at White Beach Naval Facility (8368102858).jpg"
+    },
+    {
+      "ad": "uss-guardian-grounding-7.jpg",
+      "wikimedia": "USS Guardian is decommissioned..jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A US Navy minesweeper ran aground on Tubbataha Reef in the Philippines.",
+      "kaynak": "Footage/uss-guardian-grounding-1.jpg"
+    },
+    {
+      "metin": "Within days it was declared lost, and it was later cut apart on the reef.",
+      "kaynak": "Footage/uss-guardian-grounding-2.jpg"
+    },
+    {
+      "metin": "The crew used a digital chart.",
+      "kaynak": "Footage/uss-guardian-grounding-3.jpg"
+    },
+    {
+      "metin": "It placed the reef miles from its real position.",
+      "kaynak": "Footage/uss-guardian-grounding-4.jpg"
+    },
+    {
+      "metin": "Other charts showed it correctly.",
+      "kaynak": "Footage/uss-guardian-grounding-5.jpg"
+    },
+    {
+      "metin": "The crew didn't cross-check them.",
+      "kaynak": "Footage/uss-guardian-grounding-6.jpg"
+    },
+    {
+      "metin": "Investigators called the grounding preventable.",
+      "kaynak": "Footage/uss-guardian-grounding-7.jpg"
+    },
+    {
+      "metin": "The ship was dismantled on the reef.",
+      "kaynak": "Footage/uss-guardian-grounding-1.jpg"
+    }
+  ],
+  "aciklama": "USS Guardian ran aground on Tubbataha Reef. The cause: a chart error by the mapping agency plus crew failure to cross-check other charts.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "USS Guardian",
+    "2013",
+    "digital chart",
+    "engineering failure"
+  ],
+  "hook": "The chart moved the reef",
+  "soru": "Who pays for a damaged reef?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "USS Guardian",
+    "kisa": "USS Guardian",
+    "nesne": "Digital chart",
+    "yil": 2013,
+    "sonuc": "ran aground on Tubbataha Reef",
+    "tetik": "a digital chart misplacing the reef",
+    "mekanizma": "a chart error by the mapping agency plus crew failure to cross-check other charts",
+    "sayi": "WRONG CHART",
+    "ders": "the ship was cut apart and removed from the protected reef",
+    "zincir": [
+      "CHART MISPLACES REEF",
+      "CREW RELIES ON IT",
+      "NO CROSS-CHECK",
+      "SHIP GROUNDS",
+      "SHIP DISMANTLED ON REEF"
+    ],
+    "zaman": [],
+    "yanilgi": "The chart was wrong, but other charts were right. The crew didn't compare them.",
+    "tartisma": "The reef is a protected World Heritage site. Who pays for damage to a natural treasure?",
+    "basliklar": [
+      "A Warship Ran Onto a Reef Its Chart Put 8 Miles Away",
+      "Why USS Guardian Ran Aground",
+      "The Chart That Moved a Reef"
+    ],
+    "kapak": [
+      "WRONG CHART",
+      "ON THE REEF"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Guardian (MCM-5)",
+        "url": "https://en.wikipedia.org/wiki/USS_Guardian_(MCM-5)"
+      },
+      {
+        "ad": "Government source — uss guardian grounding (cited by Wikipedia)",
+        "url": "http://www.cpf.navy.mil/foia/reading-room/2013/06/uss-guardian-grounding.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "USS_Guardian_(MCM-5)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "USS Guardian being struck by a wave while aground.jpg [Public domain]",
+      "Guardian is salvaged from the Tubbataha Reef -a.jpg [Public domain]",
+      "Didassembly of ex-Guardian is complete. (8621840185).jpg [Public domain]",
+      "Guardian is salvaged. (8559256161).jpg [Public domain]",
+      "130306-N-PD773-125 (8538460443).jpg [Public domain]",
+      "USS Guardian arrives at White Beach Naval Facility (8368102858).jpg [Public domain]",
+      "USS Guardian is decommissioned..jpg [CC BY 2.0]"
+    ]
+  }
+}

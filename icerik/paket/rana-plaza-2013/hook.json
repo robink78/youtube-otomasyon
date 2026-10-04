@@ -1,0 +1,49 @@
+{
+  "slug": "rana-plaza-2013",
+  "format": "short",
+  "olusturuldu": "2026-10-03T11:30:29.214Z",
+  "ekranHook": "IGNORED CRACKS",
+  "mevcut": {
+    "puan": 70,
+    "pencereler": {
+      "0-5": "Rana Plaza collapsed with garment workers inside. It crushed thousands of garment workers, and",
+      "5-12": "one thousand one hundred thirty four died. Cracks had appeared the day before. Shops on the ground floor closed.",
+      "12-20": "But garment workers were ordered back in. The building had extra floors added illegally and stood on weak ground. Heavy generators shook",
+      "20-30": "the structure when the power cut out. Independent factory inspections followed across Bangladesh."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 2 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Rana Plaza collapsed with garment workers inside."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only cracks ignored the day before."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could cracks ignored the day before do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is overloaded structure with illegal floors, heavy machinery and generators on weak ground — and it is why factory safety agreements brought independent building inspections to Bangladesh."
+      }
+    ],
+    "metin": "Rana Plaza collapsed with garment workers inside. It took only cracks ignored the day before. So how could cracks ignored the day before do this? The answer is overloaded structure with illegal floors, heavy machinery and generators on weak ground — and it is why factory safety agreements brought independent building inspections to Bangladesh.",
+    "puan": 95
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

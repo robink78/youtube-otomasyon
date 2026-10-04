@@ -1,0 +1,19 @@
+name = "youtube-production-watchdog"
+main = "src/index.mjs"
+compatibility_date = "2026-09-27"
+workers_dev = true
+
+[vars]
+GITHUB_REPOSITORY = "eyazan/youtube-otomasyon"
+PRODUCTION_DEADLINE_UTC = "16:30"
+WATCHDOG_CRON = "35 16 * * *"
+WATCHDOG_VERSION = "development"
+WATCHDOG_COMMIT = "unknown"
+
+[observability]
+enabled = true
+head_sampling_rate = 1
+
+[triggers]
+# Independent of GitHub's scheduler. Five minutes after the 16:30 UTC SLA.
+crons = ["35 16 * * *"]

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Why Mid-Rise Buildings Fell in Mexico City",
+  "kaynaklar": [
+    {
+      "ad": "mexico-city-earthquake-1.jpg",
+      "wikimedia": "1985 Mexico Earthquake - Collapsed General Hospital.jpg"
+    },
+    {
+      "ad": "mexico-city-earthquake-2.jpg",
+      "wikimedia": "1985 Mexico Earthquake - Ministry of Telecommunications and Transportation building.jpg"
+    },
+    {
+      "ad": "mexico-city-earthquake-3.jpg",
+      "wikimedia": "1985 Mexico Earthquake - Nuevo Leon building 2.jpg"
+    },
+    {
+      "ad": "mexico-city-earthquake-4.jpg",
+      "wikimedia": "1985 Mexico Earthquake - Pina Suarez Apartment Complex.jpg"
+    },
+    {
+      "ad": "mexico-city-earthquake-5.jpg",
+      "wikimedia": "MexCity85quake.jpg"
+    },
+    {
+      "ad": "mexico-city-earthquake-6.jpg",
+      "wikimedia": "Paloma Cordero Nancy Reagan Mexico City 1985 earthquake.jpg"
+    },
+    {
+      "ad": "mexico-city-earthquake-7.jpg",
+      "wikimedia": "DoctoresConjuntoCUD.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An earthquake off Mexico's Pacific coast shook Mexico City.",
+      "kaynak": "Footage/mexico-city-earthquake-1.jpg"
+    },
+    {
+      "metin": "Hundreds of buildings collapsed, and thousands of people were killed.",
+      "kaynak": "Footage/mexico-city-earthquake-2.jpg"
+    },
+    {
+      "metin": "The epicentre was far from the city.",
+      "kaynak": "Footage/mexico-city-earthquake-3.jpg"
+    },
+    {
+      "metin": "But Mexico City stands on the soft clay of an old lake.",
+      "kaynak": "Footage/mexico-city-earthquake-4.jpg"
+    },
+    {
+      "metin": "That clay amplified the shaking.",
+      "kaynak": "Footage/mexico-city-earthquake-5.jpg"
+    },
+    {
+      "metin": "Its rhythm matched mid-rise buildings, and they resonated.",
+      "kaynak": "Footage/mexico-city-earthquake-6.jpg"
+    },
+    {
+      "metin": "Many short and very tall buildings survived.",
+      "kaynak": "Footage/mexico-city-earthquake-7.jpg"
+    },
+    {
+      "metin": "Mexico City rewrote its building code for lakebed soils.",
+      "kaynak": "Footage/mexico-city-earthquake-1.jpg"
+    }
+  ],
+  "aciklama": "Mexico City 1985 collapsed hundreds of buildings far from the epicentre. The cause: site amplification and resonance between lakebed soil and mid-rise buildings.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Mexico City 1985",
+    "1985",
+    "buildings",
+    "engineering failure"
+  ],
+  "hook": "The ground amplified it",
+  "soru": "Should codes depend on the soil?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the 1985 Mexico City earthquake",
+    "kisa": "Mexico City 1985",
+    "nesne": "Buildings",
+    "yil": 1985,
+    "sonuc": "collapsed hundreds of buildings far from the epicentre",
+    "tetik": "shaking amplified by the soft clay of an old lakebed",
+    "mekanizma": "site amplification and resonance between lakebed soil and mid-rise buildings",
+    "sayi": "LAKEBED CLAY",
+    "ders": "Mexico City rewrote its building code for lakebed soils",
+    "zincir": [
+      "EPICENTRE FAR AWAY",
+      "WAVES REACH SOFT LAKEBED",
+      "SHAKING AMPLIFIED",
+      "MID-RISE BUILDINGS RESONATE",
+      "FLOORS POUND AND COLLAPSE"
+    ],
+    "zaman": [],
+    "yanilgi": "The epicentre was far away on the coast. The city's soft ground magnified the shaking.",
+    "tartisma": "Short and very tall buildings often survived while mid-rise ones failed. Should codes depend on the ground beneath?",
+    "basliklar": [
+      "Why Mid-Rise Buildings Fell in Mexico City",
+      "Why Mexico City's Buildings Collapsed in 1985",
+      "The Lakebed That Amplified an Earthquake"
+    ],
+    "kapak": [
+      "SOFT GROUND",
+      "RESONANCE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1985 Mexico City earthquake",
+        "url": "https://en.wikipedia.org/wiki/1985_Mexico_City_earthquake"
+      },
+      {
+        "ad": "US Congress / GovInfo — GOVPUB C13 ed7dd52e322aecad79dd8173ae5ec3a8 (cited by Wikipedia)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-C13-ed7dd52e322aecad79dd8173ae5ec3a8/pdf/GOVPUB-C13-ed7dd52e322aecad79dd8173ae5ec3a8.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-10",
+    "wiki": "1985_Mexico_City_earthquake",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "1985 Mexico Earthquake - Collapsed General Hospital.jpg [Public domain]",
+      "1985 Mexico Earthquake - Ministry of Telecommunications and Transportation building.jpg [Public domain]",
+      "1985 Mexico Earthquake - Nuevo Leon building 2.jpg [Public domain]",
+      "1985 Mexico Earthquake - Pina Suarez Apartment Complex.jpg [Public domain]",
+      "MexCity85quake.jpg [Public domain]",
+      "Paloma Cordero Nancy Reagan Mexico City 1985 earthquake.jpg [Public domain]",
+      "DoctoresConjuntoCUD.JPG [Public domain]"
+    ]
+  }
+}

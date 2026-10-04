@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Invisible Downdraft That Slammed a Jet Into the Ground",
+  "kaynaklar": [
+    {
+      "ad": "delta-191-1.jpg",
+      "wikimedia": "N726DA.jpg"
+    },
+    {
+      "ad": "delta-191-2.jpg",
+      "wikimedia": "Delta 191 tail section wreckage.jpg"
+    },
+    {
+      "ad": "delta-191-3.jpg",
+      "wikimedia": "Aircraft Accident Report- Delta Air Lines, Inc , Lockheed L-1011-385-1, N726DA, Dallas-Fort Worth International Airport, Texas, August 2, 1985 (32911999913).jpg"
+    },
+    {
+      "ad": "delta-191-4.jpg",
+      "wikimedia": "Delta191InjuryDeathMap.JPG"
+    },
+    {
+      "ad": "delta-191-5.png",
+      "wikimedia": "Delta191-PathToImpact.png"
+    },
+    {
+      "ad": "delta-191-6.png",
+      "wikimedia": "NTSB Aircraft Accident Report - Delta Air Lines Flight 191 - Appendix 1.png"
+    },
+    {
+      "ad": "delta-191-7.png",
+      "wikimedia": "NTSB Aircraft Accident Report - Delta Air Lines Flight 191 - Aft Section.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On approach to Dallas, a Lockheed TriStar slammed into the ground.",
+      "kaynak": "Footage/delta-191-1.jpg"
+    },
+    {
+      "metin": "It hit cars and a water tank, and more than one hundred thirty people were killed.",
+      "kaynak": "Footage/delta-191-2.jpg"
+    },
+    {
+      "metin": "It had flown beneath a thunderstorm.",
+      "kaynak": "Footage/delta-191-3.jpg"
+    },
+    {
+      "metin": "A microburst was blasting down from the cloud.",
+      "kaynak": "Footage/delta-191-4.jpg"
+    },
+    {
+      "metin": "First a headwind, then a downdraft, then a sudden tailwind.",
+      "kaynak": "Footage/delta-191-5.png"
+    },
+    {
+      "metin": "The jet lost airspeed too close to the ground to recover.",
+      "kaynak": "Footage/delta-191-6.png"
+    },
+    {
+      "metin": "Microbursts were barely understood then.",
+      "kaynak": "Footage/delta-191-7.png"
+    },
+    {
+      "metin": "Airports and jets now carry wind-shear detection.",
+      "kaynak": "Footage/delta-191-1.jpg"
+    }
+  ],
+  "aciklama": "Delta 191 crashed short of the runway at Dallas/Fort Worth. The cause: microburst wind shear causing a sudden loss of airspeed and lift near the ground.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Delta 191",
+    "1985",
+    "airliner",
+    "engineering failure"
+  ],
+  "hook": "The wind turned on them",
+  "soru": "What can't we see yet?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Delta Air Lines Flight 191",
+    "kisa": "Delta 191",
+    "nesne": "Airliner",
+    "yil": 1985,
+    "sonuc": "crashed short of the runway at Dallas/Fort Worth",
+    "tetik": "a microburst beneath a thunderstorm on final approach",
+    "mekanizma": "microburst wind shear causing a sudden loss of airspeed and lift near the ground",
+    "sayi": "MICROBURST",
+    "ders": "airports got Doppler wind-shear radar and jets got predictive wind-shear alerts",
+    "zincir": [
+      "THUNDERSTORM NEAR APPROACH",
+      "HEADWIND BOOSTS SPEED",
+      "DOWNDRAFT PUSHES DOWN",
+      "TAILWIND STEALS LIFT",
+      "JET HITS THE GROUND"
+    ],
+    "zaman": [],
+    "yanilgi": "The storm didn't look dangerous enough to avoid. Microbursts were poorly understood and hard to see.",
+    "tartisma": "Detection technology followed the crash. How many hazards do we understand only after a disaster?",
+    "basliklar": [
+      "The Invisible Downdraft That Slammed a Jet Into the Ground",
+      "Why Delta Flight 191 Crashed",
+      "The Microburst Pilots Couldn't See"
+    ],
+    "kapak": [
+      "MICROBURST",
+      "WIND SHEAR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Delta Air Lines Flight 191",
+        "url": "https://en.wikipedia.org/wiki/Delta_Air_Lines_Flight_191"
+      },
+      {
+        "ad": "NTSB — AAR8605 (cited by Wikipedia)",
+        "url": "https://ntsb.gov/investigations/AccidentReports/Reports/AAR8605.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-14",
+    "wiki": "Delta_Air_Lines_Flight_191",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "N726DA.jpg [Public domain]",
+      "Delta 191 tail section wreckage.jpg [Public domain]",
+      "Aircraft Accident Report- Delta Air Lines, Inc , Lockheed L-1011-385-1, N726DA, Dallas-Fort Worth International Airport, Texas, August 2, 1985 (32911999913).jpg [Public domain]",
+      "Delta191InjuryDeathMap.JPG [Public domain]",
+      "Delta191-PathToImpact.png [Public domain]",
+      "NTSB Aircraft Accident Report - Delta Air Lines Flight 191 - Appendix 1.png [Public domain]",
+      "NTSB Aircraft Accident Report - Delta Air Lines Flight 191 - Aft Section.png [Public domain]"
+    ]
+  }
+}
