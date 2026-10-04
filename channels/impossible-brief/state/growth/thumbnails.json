@@ -1,0 +1,34 @@
+{
+  "variants": [
+    {
+      "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+      "file": "channels/impossible-brief/state/production/what-if-the-dinosaur-killing-asteroid-hit-today/thumbnail.jpg",
+      "sha256": "fdbf3bb97c6e0f69e3b63215cb1a57bf291196419e9359f49e3ad35f3718eb2c",
+      "concept": "licensed-still",
+      "layoutType": "full-bleed-still-text",
+      "text": "DINOSAUR KILLER, TODAY",
+      "textLength": 22,
+      "templateVersion": "ib-ct-thumbnail-v1",
+      "human": false,
+      "experimentId": null,
+      "createdAt": "2026-10-03T11:35:44.035Z",
+      "selected": true,
+      "videoId": null
+    },
+    {
+      "slug": "what-if-you-put-saturn-in-a-bathtub",
+      "file": "channels/impossible-brief/state/production/what-if-you-put-saturn-in-a-bathtub/thumbnail.jpg",
+      "sha256": "055aa477e68de91cf3cd9902be32ecd60bb9dea2e1a645819845ac30ec13c96e",
+      "concept": "licensed-still",
+      "layoutType": "full-bleed-still-text",
+      "text": "SATURN FLOATS",
+      "textLength": 13,
+      "templateVersion": "ib-ct-thumbnail-v1",
+      "human": false,
+      "experimentId": null,
+      "createdAt": "2026-10-04T12:17:49.498Z",
+      "selected": true,
+      "videoId": null
+    }
+  ]
+}

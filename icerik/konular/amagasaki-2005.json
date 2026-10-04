@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Driver Trying to Make Up 90 Seconds Took a Curve Too Fast",
+  "kaynaklar": [
+    {
+      "ad": "amagasaki-1.jpg",
+      "wikimedia": "Amagasaki derailment damage to the first car.jpg"
+    },
+    {
+      "ad": "amagasaki-2.jpg",
+      "wikimedia": "Amagasaki derailment aerial view of the accident site.jpg"
+    },
+    {
+      "ad": "amagasaki-3.jpg",
+      "wikimedia": "Amagasaki-fukuchiyama line.JPG"
+    },
+    {
+      "ad": "amagasaki-4.jpg",
+      "wikimedia": "Amagasaki st01s3000.jpg"
+    },
+    {
+      "ad": "amagasaki-5.jpg",
+      "wikimedia": "Amagasaki st03s3000.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A packed commuter train derailed on a curve near Osaka.",
+      "kaynak": "Footage/amagasaki-1.jpg"
+    },
+    {
+      "metin": "It slammed into an apartment building, and one hundred seven people died.",
+      "kaynak": "Footage/amagasaki-2.jpg"
+    },
+    {
+      "metin": "The driver was running slightly late.",
+      "kaynak": "Footage/amagasaki-3.jpg"
+    },
+    {
+      "metin": "Drivers faced harsh punishment for even small delays.",
+      "kaynak": "Footage/amagasaki-4.jpg"
+    },
+    {
+      "metin": "He entered the curve far above the speed limit.",
+      "kaynak": "Footage/amagasaki-5.jpg"
+    },
+    {
+      "metin": "No automatic system forced the train to slow down.",
+      "kaynak": "Footage/amagasaki-1.jpg"
+    },
+    {
+      "metin": "The front carriages left the track.",
+      "kaynak": "Footage/amagasaki-2.jpg"
+    },
+    {
+      "metin": "JR West then installed modern speed enforcement on curves.",
+      "kaynak": "Footage/amagasaki-3.jpg"
+    }
+  ],
+  "aciklama": "Amagasaki derailed into an apartment building. The cause: overspeed on a curve without automatic speed enforcement.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Amagasaki",
+    "2005",
+    "commuter train",
+    "engineering failure"
+  ],
+  "hook": "He was running late",
+  "soru": "Can culture cause a crash?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Amagasaki commuter train",
+    "kisa": "Amagasaki",
+    "nesne": "Commuter train",
+    "yil": 2005,
+    "sonuc": "derailed into an apartment building",
+    "tetik": "a driver speeding to recover a small delay",
+    "mekanizma": "overspeed on a curve without automatic speed enforcement",
+    "sayi": "107 DIED",
+    "ders": "JR West installed modern automatic train stop systems on curves",
+    "zincir": [
+      "DRIVER RUNNING LATE",
+      "FEAR OF PUNISHMENT",
+      "SPEEDS INTO CURVE",
+      "NO SPEED ENFORCEMENT",
+      "TRAIN HITS APARTMENT BLOCK"
+    ],
+    "zaman": [],
+    "yanilgi": "The delay was tiny. Harsh punishment for lateness pushed drivers to take risks to recover seconds.",
+    "tartisma": "Drivers faced humiliating retraining for small delays. Can company culture cause a derailment?",
+    "basliklar": [
+      "A Driver Trying to Make Up 90 Seconds Took a Curve Too Fast",
+      "Why the Amagasaki Train Derailed",
+      "The Culture That Punished Delays"
+    ],
+    "kapak": [
+      "TOO FAST",
+      "107 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Amagasaki derailment",
+        "url": "https://en.wikipedia.org/wiki/Amagasaki_derailment"
+      },
+      {
+        "ad": "Japan Transport Safety Board / MLIT — RA2007 3 1en (cited by Wikipedia)",
+        "url": "http://www.mlit.go.jp/jtsb/eng-rail_report/RA2007-3-1en.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "Amagasaki_derailment",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Amagasaki derailment damage to the first car.jpg [CC BY 4.0]",
+      "Amagasaki derailment aerial view of the accident site.jpg [CC BY 4.0]",
+      "Amagasaki-fukuchiyama line.JPG [CC BY 3.0]",
+      "Amagasaki st01s3000.jpg [CC BY 2.5]",
+      "Amagasaki st03s3000.jpg [CC BY 2.5]"
+    ]
+  }
+}

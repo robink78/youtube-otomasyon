@@ -1,0 +1,50 @@
+{
+  "slug": "how-gas-explosions-happen",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.610Z",
+  "ekranHook": "Invisible until its too late",
+  "mevcut": {
+    "puan": 75,
+    "pencereler": {
+      "0-5": "A leak you can barely smell can level a whole building. Natural gas is",
+      "5-12": "invisible, so a smell is added to warn you. A slow leak fills a room with an explosive mix",
+      "12-20": "of gas and air. At the right concentration, it just needs one tiny spark. A doorbell, a fridge, or a light switch",
+      "20-30": "is more than enough. The whole room ignites at once in a pressure blast. The shockwave blows out walls before the flames even spread. That is why you"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: missing an unexpected detail",
+      "12-20s: a central question/problem is raised",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A leak you can barely smell can level a whole building."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only one tiny spark."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is ignition of a gas-air mixture — and it is why never flip a switch if you smell gas."
+      }
+    ],
+    "metin": "A leak you can barely smell can level a whole building. It took only one tiny spark. So what actually happens inside? The answer is ignition of a gas-air mixture — and it is why never flip a switch if you smell gas.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

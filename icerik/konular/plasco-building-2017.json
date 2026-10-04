@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Tehran Tower That Collapsed During a Fire",
+  "kaynaklar": [
+    {
+      "ad": "plasco-building-1.jpg",
+      "wikimedia": "Plasco collapsed Tasnim.jpg"
+    },
+    {
+      "ad": "plasco-building-2.jpg",
+      "wikimedia": "Plasco fire by Tasnimnews 10.jpg"
+    },
+    {
+      "ad": "plasco-building-3.jpg",
+      "wikimedia": "Plasco fire by Tasnimnews 14.jpg"
+    },
+    {
+      "ad": "plasco-building-4.jpg",
+      "wikimedia": "Plasco victims funeral in Tehran 19.jpg"
+    },
+    {
+      "ad": "plasco-building-5.jpg",
+      "wikimedia": "Plasco disaster report in Islamic parlement Iran-15.jpg"
+    },
+    {
+      "ad": "plasco-building-6.jpg",
+      "wikimedia": "Plasco disaster report in Islamic parlement Iran-17.jpg"
+    },
+    {
+      "ad": "plasco-building-7.jpg",
+      "wikimedia": "Plasco rescue operations and debris removal 01.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A high-rise landmark in Tehran caught fire.",
+      "kaynak": "Footage/plasco-building-1.jpg"
+    },
+    {
+      "metin": "Hours later, it collapsed, and firefighters inside were killed.",
+      "kaynak": "Footage/plasco-building-2.jpg"
+    },
+    {
+      "metin": "The building was old and packed with goods.",
+      "kaynak": "Footage/plasco-building-3.jpg"
+    },
+    {
+      "metin": "Its steel frame had little fire protection.",
+      "kaynak": "Footage/plasco-building-4.jpg"
+    },
+    {
+      "metin": "As the fire burned, the steel heated and weakened.",
+      "kaynak": "Footage/plasco-building-5.jpg"
+    },
+    {
+      "metin": "Floors gave way, and the tower came down.",
+      "kaynak": "Footage/plasco-building-6.jpg"
+    },
+    {
+      "metin": "The building had received safety warnings before.",
+      "kaynak": "Footage/plasco-building-7.jpg"
+    },
+    {
+      "metin": "Tehran began reviewing the fire safety of older towers.",
+      "kaynak": "Footage/plasco-building-1.jpg"
+    }
+  ],
+  "aciklama": "Plasco Building collapsed while firefighters fought a fire inside. The cause: fire weakening steel members lacking adequate fire protection.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Plasco Building",
+    "2017",
+    "high-rise",
+    "engineering failure"
+  ],
+  "hook": "It fell with firefighters inside",
+  "soru": "Why were warnings ignored?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Plasco Building",
+    "kisa": "Plasco Building",
+    "nesne": "High-rise",
+    "yil": 2017,
+    "sonuc": "collapsed while firefighters fought a fire inside",
+    "tetik": "a long fire heating unprotected steel",
+    "mekanizma": "fire weakening steel members lacking adequate fire protection",
+    "sayi": "FIREFIGHTERS",
+    "ders": "Tehran began reviewing the fire safety of older high-rises",
+    "zincir": [
+      "OLD HIGH-RISE, FULL OF GOODS",
+      "FIRE BREAKS OUT",
+      "STEEL HEATS FOR HOURS",
+      "FLOORS FAIL",
+      "TOWER COLLAPSES"
+    ],
+    "zaman": [],
+    "yanilgi": "The building didn't collapse instantly. It burned for hours before the weakened steel gave way.",
+    "tartisma": "The building had received repeated safety warnings. Why do warnings about old buildings go unheeded?",
+    "basliklar": [
+      "The Tehran Tower That Collapsed During a Fire",
+      "Why the Plasco Building Collapsed",
+      "The Fire That Brought Down a Tehran Landmark"
+    ],
+    "kapak": [
+      "BURNING STEEL",
+      "COLLAPSE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Plasco Building",
+        "url": "https://en.wikipedia.org/wiki/Plasco_Building"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — la fg iran high rise 20170119 story (cited by Wikipedia)",
+        "url": "http://www.latimes.com/world/la-fg-iran-high-rise-20170119-story.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Plasco_Building",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Plasco collapsed Tasnim.jpg [CC BY 4.0]",
+      "Plasco fire by Tasnimnews 10.jpg [CC BY 4.0]",
+      "Plasco fire by Tasnimnews 14.jpg [CC BY 4.0]",
+      "Plasco victims funeral in Tehran 19.jpg [CC BY 4.0]",
+      "Plasco disaster report in Islamic parlement Iran-15.jpg [CC BY 4.0]",
+      "Plasco disaster report in Islamic parlement Iran-17.jpg [CC BY 4.0]",
+      "Plasco rescue operations and debris removal 01.jpg [CC BY 4.0]"
+    ]
+  }
+}

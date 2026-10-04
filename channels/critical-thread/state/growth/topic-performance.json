@@ -1,0 +1,62 @@
+{
+  "channel": "critical-thread",
+  "updatedAt": "2026-10-04T17:38:45.526Z",
+  "families": [
+    {
+      "contentType": "short",
+      "cluster": "ROADS AND BRIDGES",
+      "publications": 1,
+      "measured": 1,
+      "predictedTopicScore": 77,
+      "actualGrowthScore": 72.9,
+      "medianViews": 938,
+      "medianAveragePercentageViewed": null,
+      "medianSubscribersPer1000Views": null,
+      "confidence": "insufficient",
+      "mode": "explore",
+      "fatigue": false
+    },
+    {
+      "contentType": "short",
+      "cluster": "DATA CENTERS",
+      "publications": 1,
+      "measured": 1,
+      "predictedTopicScore": 84,
+      "actualGrowthScore": 27.1,
+      "medianViews": 14,
+      "medianAveragePercentageViewed": null,
+      "medianSubscribersPer1000Views": null,
+      "confidence": "insufficient",
+      "mode": "explore",
+      "fatigue": false
+    },
+    {
+      "contentType": "short",
+      "cluster": "WATER",
+      "publications": 1,
+      "measured": 0,
+      "predictedTopicScore": null,
+      "actualGrowthScore": null,
+      "medianViews": null,
+      "medianAveragePercentageViewed": null,
+      "medianSubscribersPer1000Views": null,
+      "confidence": "insufficient",
+      "mode": "explore",
+      "fatigue": false
+    },
+    {
+      "contentType": "short",
+      "cluster": "ENERGY",
+      "publications": 1,
+      "measured": 0,
+      "predictedTopicScore": 83,
+      "actualGrowthScore": null,
+      "medianViews": null,
+      "medianAveragePercentageViewed": null,
+      "medianSubscribersPer1000Views": null,
+      "confidence": "insufficient",
+      "mode": "explore",
+      "fatigue": false
+    }
+  ]
+}

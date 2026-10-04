@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Mars Lander That Thought It Was Underground",
+  "kaynaklar": [
+    {
+      "ad": "schiaparelli-1.jpg",
+      "wikimedia": "PIA21131 Closer Look at Schiaparelli Impact Site on Mars.jpg"
+    },
+    {
+      "ad": "schiaparelli-2.jpg",
+      "wikimedia": "PIA21130 Signs of Schiaparelli Test Lander Seen From Orbit, Figure 1.jpg"
+    },
+    {
+      "ad": "schiaparelli-3.jpg",
+      "wikimedia": "PIA21130 Signs of Schiaparelli Test Lander Seen From Orbit, Figure 2.jpg"
+    },
+    {
+      "ad": "schiaparelli-4.jpg",
+      "wikimedia": "PIA21131 Closer Look at Schiaparelli Impact Site on Mars, Figure 1.jpg"
+    },
+    {
+      "ad": "schiaparelli-5.jpg",
+      "wikimedia": "Schiaparelli site.jpg"
+    },
+    {
+      "ad": "schiaparelli-6.jpg",
+      "wikimedia": "PIA21135 Schiaparelli Impact Site on Mars, Stereo.jpg"
+    },
+    {
+      "ad": "schiaparelli-7.jpg",
+      "wikimedia": "Mars landing sites 2014.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Europe's Schiaparelli lander crashed on Mars.",
+      "kaynak": "Footage/schiaparelli-1.jpg"
+    },
+    {
+      "metin": "It fell from high above the surface and was destroyed.",
+      "kaynak": "Footage/schiaparelli-2.jpg"
+    },
+    {
+      "metin": "As its parachute opened, the lander spun hard.",
+      "kaynak": "Footage/schiaparelli-3.jpg"
+    },
+    {
+      "metin": "A rotation sensor maxed out for about a second.",
+      "kaynak": "Footage/schiaparelli-4.jpg"
+    },
+    {
+      "metin": "The software combined that bad value with other data.",
+      "kaynak": "Footage/schiaparelli-5.jpg"
+    },
+    {
+      "metin": "It calculated an altitude below the ground.",
+      "kaynak": "Footage/schiaparelli-6.jpg"
+    },
+    {
+      "metin": "So it released the parachute and fired its thrusters only briefly.",
+      "kaynak": "Footage/schiaparelli-7.jpg"
+    },
+    {
+      "metin": "ESA improved how later landers handle saturated sensors.",
+      "kaynak": "Footage/schiaparelli-1.jpg"
+    }
+  ],
+  "aciklama": "Schiaparelli crashed on Mars. The cause: saturated inertial measurement unit leading software to compute a negative altitude.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Schiaparelli",
+    "2016",
+    "lander",
+    "engineering failure"
+  ],
+  "hook": "It thought it was underground",
+  "soru": "Trust a maxed-out sensor?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "the Schiaparelli lander",
+    "kisa": "Schiaparelli",
+    "nesne": "Lander",
+    "yil": 2016,
+    "sonuc": "crashed on Mars",
+    "tetik": "a saturated rotation sensor for about one second",
+    "mekanizma": "saturated inertial measurement unit leading software to compute a negative altitude",
+    "sayi": "NEGATIVE ALTITUDE",
+    "ders": "ESA improved sensor-saturation handling and simulations for later landers",
+    "zincir": [
+      "PARACHUTE OPENS WITH A JOLT",
+      "ROTATION SENSOR SATURATES",
+      "SOFTWARE COMPUTES BELOW GROUND",
+      "PARACHUTE RELEASED EARLY",
+      "LANDER FREE-FALLS"
+    ],
+    "zaman": [],
+    "yanilgi": "The parachute and thrusters worked. The software believed the lander was already below the surface.",
+    "tartisma": "The saturation lasted around one second. How long should software trust a sensor stuck at its maximum?",
+    "basliklar": [
+      "The Mars Lander That Thought It Was Underground",
+      "Why Schiaparelli Crashed on Mars",
+      "The Lander That Calculated It Was Underground"
+    ],
+    "kapak": [
+      "BELOW GROUND",
+      "FREE FALL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Schiaparelli EDM",
+        "url": "https://en.wikipedia.org/wiki/Schiaparelli_EDM"
+      },
+      {
+        "ad": "ESA — 1567260317467 ESA ExoMars 2016 Schiaparelli Anomaly Inquiry (cited by Wikipedia)",
+        "url": "https://sci.esa.int/documents/33431/35950/1567260317467-ESA_ExoMars_2016_Schiaparelli_Anomaly_Inquiry.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Schiaparelli_EDM",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "PIA21131 Closer Look at Schiaparelli Impact Site on Mars.jpg [Public domain]",
+      "PIA21130 Signs of Schiaparelli Test Lander Seen From Orbit, Figure 1.jpg [Public domain]",
+      "PIA21130 Signs of Schiaparelli Test Lander Seen From Orbit, Figure 2.jpg [Public domain]",
+      "PIA21131 Closer Look at Schiaparelli Impact Site on Mars, Figure 1.jpg [Public domain]",
+      "Schiaparelli site.jpg [Public domain]",
+      "PIA21135 Schiaparelli Impact Site on Mars, Stereo.jpg [Public domain]",
+      "Mars landing sites 2014.jpg [Public domain]"
+    ]
+  }
+}

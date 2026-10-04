@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "One Row of Rivets Instead of Two — 520 Died",
+  "kaynaklar": [
+    {
+      "ad": "japan-airlines-123-1.png",
+      "wikimedia": "Japan Airlines 123 124 The accident aircraft flying over Okutama.png"
+    },
+    {
+      "ad": "japan-airlines-123-2.png",
+      "wikimedia": "Japan Airlines 123 fig01 Estimated flight path of JA8119 ja.png"
+    },
+    {
+      "ad": "japan-airlines-123-3.jpg",
+      "wikimedia": "Japan Airlines - Boeing 747SR - JA8119 - Sapporo Chitose.jpg"
+    },
+    {
+      "ad": "japan-airlines-123-4.png",
+      "wikimedia": "Japan Airlines 123 05 Debris of aft fuselage (2).png"
+    },
+    {
+      "ad": "japan-airlines-123-5.png",
+      "wikimedia": "Japan Airlines 123 21 Reconstruction of aft fuselage (left side).png"
+    },
+    {
+      "ad": "japan-airlines-123-6.png",
+      "wikimedia": "Japan Airlines 123 fig27 Damage to vertical stabilizer (left side) ja.png"
+    },
+    {
+      "ad": "japan-airlines-123-7.png",
+      "wikimedia": "Japan Airlines 123 16 Part of vertical fin recovered from sea.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A jumbo jet's tail fin blew off in flight.",
+      "kaynak": "Footage/japan-airlines-123-1.png"
+    },
+    {
+      "metin": "Thirty two minutes later, it crashed into a mountain, and five hundred twenty people died.",
+      "kaynak": "Footage/japan-airlines-123-2.png"
+    },
+    {
+      "metin": "The failure started seven years earlier.",
+      "kaynak": "Footage/japan-airlines-123-3.jpg"
+    },
+    {
+      "metin": "After a tail strike, a pressure bulkhead was repaired.",
+      "kaynak": "Footage/japan-airlines-123-4.png"
+    },
+    {
+      "metin": "The repair used one row of rivets where two were needed.",
+      "kaynak": "Footage/japan-airlines-123-5.png"
+    },
+    {
+      "metin": "Fatigue cracks grew until the bulkhead burst.",
+      "kaynak": "Footage/japan-airlines-123-6.png"
+    },
+    {
+      "metin": "Escaping air tore off the fin and cut the hydraulics.",
+      "kaynak": "Footage/japan-airlines-123-7.png"
+    },
+    {
+      "metin": "Repairs are now checked against their approved design.",
+      "kaynak": "Footage/japan-airlines-123-1.png"
+    }
+  ],
+  "aciklama": "JAL 123 crashed into a mountain after losing its tail fin. The cause: fatigue failure of an improperly repaired aft pressure bulkhead.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "JAL 123",
+    "Boeing 747",
+    "pressure bulkhead",
+    "metal fatigue",
+    "1985"
+  ],
+  "hook": "One row, not two",
+  "soru": "Who checks the repair?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Japan Air Lines Flight 123",
+    "kisa": "JAL 123",
+    "nesne": "Pressure bulkhead",
+    "yil": 1985,
+    "sonuc": "crashed into a mountain after losing its tail fin",
+    "tetik": "a faulty repair with one row of rivets where two were needed",
+    "mekanizma": "fatigue failure of an improperly repaired aft pressure bulkhead",
+    "sayi": "520 DEAD",
+    "ders": "structural repairs are now inspected against the approved repair design",
+    "zincir": [
+      "TAIL STRIKE DAMAGES BULKHEAD",
+      "REPAIR USES ONE ROW OF RIVETS",
+      "FATIGUE CRACKS GROW FOR YEARS",
+      "BULKHEAD BURSTS IN FLIGHT",
+      "FIN AND HYDRAULICS LOST"
+    ],
+    "zaman": [
+      {
+        "t": "Aug 12, 1985",
+        "olay": "Bulkhead failure; crash on Mount Takamagahara"
+      }
+    ],
+    "yanilgi": "The accident began seven years earlier, with a repair after a tail strike on landing.",
+    "tartisma": "The repair looked fine from outside. How do you inspect what a repair crew got wrong inside?",
+    "basliklar": [
+      "One Row of Rivets Instead of Two — 520 Died",
+      "Why Japan Air Lines Flight 123 Lost Its Tail",
+      "The Repair That Failed Seven Years Later"
+    ],
+    "kapak": [
+      "ONE ROW",
+      "520 DEAD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Japan Air Lines Flight 123",
+        "url": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123"
+      },
+      {
+        "ad": "FAA Lessons Learned — Japan Airlines Flight 123, Boeing 747-SR100, JA8119",
+        "url": "https://www.faa.gov/lessons_learned/transport_airplane/accidents/JA8119"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Japan_Air_Lines_Flight_123",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Japan Airlines 123 124 The accident aircraft flying over Okutama.png [CC BY 4.0]",
+      "Japan Airlines 123 fig01 Estimated flight path of JA8119 ja.png [CC BY 4.0]",
+      "Japan Airlines - Boeing 747SR - JA8119 - Sapporo Chitose.jpg [CC BY 2.0]",
+      "Japan Airlines 123 05 Debris of aft fuselage (2).png [CC BY 4.0]",
+      "Japan Airlines 123 21 Reconstruction of aft fuselage (left side).png [CC BY 4.0]",
+      "Japan Airlines 123 fig27 Damage to vertical stabilizer (left side) ja.png [CC BY 4.0]",
+      "Japan Airlines 123 16 Part of vertical fin recovered from sea.png [CC BY 4.0]"
+    ]
+  }
+}

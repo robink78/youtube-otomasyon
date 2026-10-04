@@ -1,0 +1,82 @@
+[
+  {
+    "channel": "failure-reconstructed",
+    "code": "PRODUCTION_READINESS_REVIEW",
+    "message": "how-avalanches-start",
+    "details": {
+      "score": 77,
+      "dimensions": {
+        "topicPotential": 73,
+        "hook": 70,
+        "script": 77,
+        "firstSeconds": 85,
+        "factual": 100,
+        "visualRelevance": 60,
+        "sources": 41,
+        "metadata": 100,
+        "visualQuality": null,
+        "audio": null,
+        "captions": null,
+        "duration": null,
+        "pacing": 92,
+        "render": null
+      }
+    },
+    "date": "2026-09-30",
+    "at": "2026-09-30T16:04:03.966Z"
+  },
+  {
+    "channel": "failure-reconstructed",
+    "code": "PRODUCTION_READINESS_REVIEW",
+    "message": "how-avalanches-start",
+    "details": {
+      "score": 80,
+      "dimensions": {
+        "topicPotential": 74,
+        "hook": 82,
+        "title": 86,
+        "script": 85,
+        "firstSeconds": 89,
+        "factual": 100,
+        "visualRelevance": 60,
+        "sources": 41,
+        "metadata": 100,
+        "visualQuality": null,
+        "audio": null,
+        "captions": null,
+        "duration": null,
+        "pacing": 92,
+        "render": null
+      }
+    },
+    "date": "2026-10-01",
+    "at": "2026-10-01T14:38:10.364Z"
+  },
+  {
+    "channel": "failure-reconstructed",
+    "code": "PRODUCTION_READINESS_REVIEW",
+    "message": "how-avalanches-start",
+    "details": {
+      "score": 80,
+      "dimensions": {
+        "topicPotential": 74,
+        "hook": 82,
+        "title": 84,
+        "script": 85,
+        "firstSeconds": 89,
+        "factual": 100,
+        "visualRelevance": 60,
+        "sources": 41,
+        "metadata": 100,
+        "visualQuality": null,
+        "audio": null,
+        "captions": null,
+        "duration": null,
+        "pacing": 92,
+        "render": null
+      }
+    },
+    "date": "2026-10-02",
+    "at": "2026-10-02T12:32:29.606Z"
+  }
+]

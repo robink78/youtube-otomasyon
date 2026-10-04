@@ -1,0 +1,1355 @@
+{
+  "channel": "impossible-brief",
+  "records": [
+    {
+      "slug": "what-if-you-put-saturn-in-a-bathtub",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Put Saturn in a Bathtub?",
+      "hook": "Why a planet 95 times Earth's mass could float.",
+      "openingLine": "Why a planet 95 times Earth's mass could float.",
+      "secondBeat": "Saturn is about 30% less dense than water.",
+      "scientificMechanism": "an object floats if its average density is lower than the fluid's",
+      "scenarioChange": "Saturn were placed in an enormous bathtub",
+      "expectedConsequence": "on average density alone it would float, though a gas giant has no surface to hold together",
+      "coreQuestion": "If you put Saturn in a bathtub, would it really float?",
+      "misconception": "Saturn isn't a solid ball; its average density is lower than water's.",
+      "number": "0.69 g/cm³",
+      "thumbnailText": "SATURN FLOATS",
+      "visualScenes": [
+        "Saturn hovering over a giant bathtub",
+        "density comparison bars",
+        "Saturn and Earth size comparison",
+        "interior layers of Saturn",
+        "mass comparison with Jupiter",
+        "water density line"
+      ],
+      "editorialTitles": [
+        "Would Saturn Really Float in Water?",
+        "The Giant Planet Lighter Than Water"
+      ],
+      "facts": [
+        {
+          "claim": "Saturn is the only planet of the Solar System that is less dense than water—about 30% less.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Saturn",
+          "url": "https://en.wikipedia.org/wiki/Saturn"
+        },
+        {
+          "claim": "The average specific density of the planet is 0.69 g/cm3 due to its atmosphere.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Saturn",
+          "url": "https://en.wikipedia.org/wiki/Saturn"
+        },
+        {
+          "claim": "It has an eighth of the average density of Earth, but is over 95 times more massive.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Saturn",
+          "url": "https://en.wikipedia.org/wiki/Saturn"
+        },
+        {
+          "claim": "It is a gas giant, with an average radius of about 9 times that of Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Saturn",
+          "url": "https://en.wikipedia.org/wiki/Saturn"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a planet 95 times Earth's mass could float.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Saturn is about 30% less dense than water.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Its average density is just 0.69 grams per cubic centimetre.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It spreads its mass across a radius about 9 times Earth's.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "On average, it's an eighth as dense as Earth.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In a big enough bathtub, it would, in principle, float.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "In reality, a ball of gas would fall apart first.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the ringed giant is mostly light gas, stretched thin.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-visited-io-the-volcano-moon",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Visited Io, the Volcano Moon?",
+      "hook": "Why one moon has over 400 active volcanoes.",
+      "openingLine": "Why one moon has over 400 active volcanoes.",
+      "secondBeat": "Io, orbiting Jupiter, is the most volcanic place known.",
+      "scientificMechanism": "Jupiter's tides flex Io's interior, generating heat that drives constant volcanism",
+      "scenarioChange": "a visitor landed on Io",
+      "expectedConsequence": "a surface constantly repaved by lava and sulfur plumes",
+      "coreQuestion": "If you visited Io, what would the most volcanic world look like?",
+      "misconception": "A small moon far from the Sun can still be hot inside; tides, not sunlight, heat Io.",
+      "number": "400+ volcanoes",
+      "thumbnailText": "400 VOLCANOES",
+      "visualScenes": [
+        "Io's mottled yellow surface",
+        "sulfur plume rising 500 km",
+        "tidal flexing diagram",
+        "lava flow map",
+        "Voyager 1979 image",
+        "Jupiter looming over Io"
+      ],
+      "editorialTitles": [
+        "The Most Volcanic World We Know",
+        "Why Io Never Stops Erupting"
+      ],
+      "facts": [
+        {
+          "claim": "With over 400 active volcanoes, Io is the most geologically active object in the Solar System.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Io (moon)",
+          "url": "https://en.wikipedia.org/wiki/Io_(moon)"
+        },
+        {
+          "claim": "Several volcanoes produce plumes of sulfur and sulfur dioxide as high as 500 km (300 mi) above the surface.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Io (moon)",
+          "url": "https://en.wikipedia.org/wiki/Io_(moon)"
+        },
+        {
+          "claim": "Numerous extensive lava flows, several more than 500 km (300 mi) in length, also mark the surface.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Io (moon)",
+          "url": "https://en.wikipedia.org/wiki/Io_(moon)"
+        },
+        {
+          "claim": "In 1979, the two Voyager spacecraft revealed Io to be a geologically active world, with numerous volcanic features, large mountains, and a young surface with no obvious impact craters.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Io (moon)",
+          "url": "https://en.wikipedia.org/wiki/Io_(moon)"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one moon has over 400 active volcanoes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Io, orbiting Jupiter, is the most volcanic place known.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Some plumes rise 500 kilometres above its surface.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Some lava flows run more than 500 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Jupiter's tides flex Io, heating its interior.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Voyager revealed the activity in 1979.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Its surface is constantly repaved, leaving no obvious craters.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a moon can be hotter inside than its distance suggests.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-waited-for-halleys-comet",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Waited for Halley's Comet?",
+      "hook": "Halley's Comet returns roughly every 74 to 79 years.",
+      "openingLine": "Halley's Comet returns roughly every 74 to 79 years.",
+      "secondBeat": "It last appeared in 1986 and returns in 2061.",
+      "scientificMechanism": "a comet on a long elliptical orbit returns periodically, nudged by planetary gravity",
+      "scenarioChange": "someone waited for Halley's next return",
+      "expectedConsequence": "a wait of decades, with each return shifted by the planets' pull",
+      "coreQuestion": "If you waited for Halley's Comet, how long would it take, and why does it vary?",
+      "misconception": "Halley's period isn't fixed at 76 years; planets shift it between 72 and 80.",
+      "number": "2061",
+      "thumbnailText": "RETURNING IN 2061",
+      "visualScenes": [
+        "Halley's Comet over a night sky",
+        "elliptical orbit diagram",
+        "1986 probe flyby",
+        "planetary tug diagram",
+        "historical sighting timeline",
+        "calendar pointing to 2061"
+      ],
+      "editorialTitles": [
+        "When Halley's Comet Comes Back",
+        "Why Halley's Comet Is a Once-in-a-Lifetime Sight"
+      ],
+      "facts": [
+        {
+          "claim": "Halley's Comet is the only known short-period comet that is consistently visible to the naked eye from Earth, appearing roughly every 74–79 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Halley's Comet",
+          "url": "https://en.wikipedia.org/wiki/Halley's_Comet"
+        },
+        {
+          "claim": "It last appeared in the inner parts of the Solar System in 1986 and will next appear in mid-2061.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Halley's Comet",
+          "url": "https://en.wikipedia.org/wiki/Halley's_Comet"
+        },
+        {
+          "claim": "Halley concluded that all three comets were the same object returning about every 76 years, a period that has since been found to vary between 72 and 80 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Halley's Comet",
+          "url": "https://en.wikipedia.org/wiki/Halley's_Comet"
+        },
+        {
+          "claim": "Probes went as close as 8,890 km (5,520 mi), and 8,030 km (4,990 mi), providing data on Halley's dimensions, shape, temperature, and surface properties.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Halley's Comet",
+          "url": "https://en.wikipedia.org/wiki/Halley's_Comet"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Halley's Comet returns roughly every 74 to 79 years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It last appeared in 1986 and returns in 2061.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It's the only short-period comet reliably seen by eye.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Edmond Halley linked three sightings as one returning comet.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its period varies between 72 and 80 years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Planets' gravity tugs it, shifting each return.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "In 1986, probes flew within 8,030 kilometres of it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So for most people, it's a once-in-a-lifetime sight.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-volcano-blew-out-sideways",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If a Volcano Blew Out Sideways?",
+      "hook": "Why 1 landslide uncorked Mount St. Helens sideways.",
+      "openingLine": "Why 1 landslide uncorked Mount St. Helens sideways.",
+      "secondBeat": "Its whole north face slid away on May 18, 1980.",
+      "scientificMechanism": "a landslide suddenly unloads pressurised magma, releasing a lateral blast instead of a vertical eruption",
+      "scenarioChange": "a volcano's flank collapsed and the eruption burst sideways",
+      "expectedConsequence": "a devastating sideways blast and landslide, followed by a towering ash column",
+      "coreQuestion": "If a volcano blew out sideways, how far would the damage reach?",
+      "misconception": "Eruptions don't always go straight up; a flank collapse can aim the blast sideways.",
+      "number": "24 km ash column",
+      "thumbnailText": "SIDEWAYS ERUPTION",
+      "visualScenes": [
+        "Mount St. Helens before and after",
+        "north face sliding away",
+        "lateral blast diagram",
+        "ash column 24 km high",
+        "ash fall map across states",
+        "flattened forest"
+      ],
+      "editorialTitles": [
+        "The Eruption That Blew Out Sideways",
+        "Why Mount St. Helens Surprised Everyone"
+      ],
+      "facts": [
+        {
+          "claim": "An earthquake at 8:32:11 am PDT on May 18, 1980, caused the entire weakened north face to slide away, a sector collapse which was the largest subaerial landslide in recorded history.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1980 eruption of Mount St. Helens",
+          "url": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens"
+        },
+        {
+          "claim": "An eruption column rose 80,000 feet (24 km; 15 mi) into the atmosphere and deposited ash in 11 U.S. states.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1980 eruption of Mount St. Helens",
+          "url": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens"
+        },
+        {
+          "claim": "About 57 people were killed.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1980 eruption of Mount St. Helens",
+          "url": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens"
+        },
+        {
+          "claim": "A 16,000-foot-long (4.9 km) eastward-trending fracture system had also developed across the summit area.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1980 eruption of Mount St. Helens",
+          "url": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 1 landslide uncorked Mount St. Helens sideways.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Its whole north face slid away on May 18, 1980.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "An earthquake set off the largest landslide in recorded history.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The collapse uncorked the volcano sideways, not upward.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The ash column rose 24 kilometres high.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Ash fell across 11 U.S. states.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "About 57 people were killed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the most dangerous eruptions don't always go straight up.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-cleaned-up-the-great-pacific-garbage-patch",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If We Cleaned Up the Great Pacific Garbage Patch?",
+      "hook": "Why cleanup removed only 0.5% of the garbage patch.",
+      "openingLine": "Why cleanup removed only 0.5% of the garbage patch.",
+      "secondBeat": "The patch covers 1.6 million square kilometres.",
+      "scientificMechanism": "ocean gyres collect floating debris into a diffuse zone where plastic breaks down slowly",
+      "scenarioChange": "a large-scale effort tried to clear the patch",
+      "expectedConsequence": "cleanup removes a small share; stopping new plastic matters more",
+      "coreQuestion": "If we cleaned up the Great Pacific Garbage Patch, how much could we actually remove?",
+      "misconception": "The garbage patch isn't a floating island; it's a diffuse soup, mostly of larger objects by mass.",
+      "number": "1.6 million km²",
+      "thumbnailText": "3× FRANCE",
+      "visualScenes": [
+        "plastic debris floating in open ocean",
+        "North Pacific gyre currents",
+        "size comparison with France",
+        "cleanup system collecting plastic",
+        "mass versus count breakdown",
+        "old plastic items"
+      ],
+      "editorialTitles": [
+        "Can We Clean Up the Pacific Garbage Patch?",
+        "Why the Garbage Patch Isn't an Island"
+      ],
+      "facts": [
+        {
+          "claim": "The estimated size of the garbage patch is 1,600,000 square kilometres (about twice the size of Texas or three times the size of France).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Pacific Garbage Patch",
+          "url": "https://en.wikipedia.org/wiki/Great_Pacific_Garbage_Patch"
+        },
+        {
+          "claim": "Researchers claimed that the patch covers 1.6 million square kilometres consisting of 45,000–129,000 metric tons of plastic as of 2018.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Pacific Garbage Patch",
+          "url": "https://en.wikipedia.org/wiki/Great_Pacific_Garbage_Patch"
+        },
+        {
+          "claim": "While microplastics dominate the area by count, 92% of the mass of the patch consists of larger objects.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Pacific Garbage Patch",
+          "url": "https://en.wikipedia.org/wiki/Great_Pacific_Garbage_Patch"
+        },
+        {
+          "claim": "Some of the plastic is over 50 years old.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Pacific Garbage Patch",
+          "url": "https://en.wikipedia.org/wiki/Great_Pacific_Garbage_Patch"
+        },
+        {
+          "claim": "By the end of 2024, the Ocean Cleanup had removed more than one million pounds of trash from the Great Pacific Garbage Patch, or 0.5% of the total accumulated trash.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Pacific Garbage Patch",
+          "url": "https://en.wikipedia.org/wiki/Great_Pacific_Garbage_Patch"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why cleanup removed only 0.5% of the garbage patch.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The patch covers 1.6 million square kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "That's about three times the size of France.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It holds 45,000 to 129,000 tonnes of plastic.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "By mass, 92% is larger objects, not microplastics.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Some of the plastic is over 50 years old.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Stopping new plastic matters more than scooping old plastic.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the patch isn't an island. It's a slow, spreading soup.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-light-moved-at-highway-speed",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If Light Moved at Highway Speed?",
+      "hook": "Light was once slowed to 17 metres per second.",
+      "openingLine": "Light was once slowed to 17 metres per second.",
+      "secondBeat": "That's slower than traffic on a highway.",
+      "scientificMechanism": "light's group velocity can be slowed dramatically when it interacts strongly with a prepared medium",
+      "scenarioChange": "light travelled at everyday speeds",
+      "expectedConsequence": "in the lab it already can, inside ultracold atoms; in vacuum its speed never changes",
+      "coreQuestion": "If light moved at highway speed, what would it take to slow it down?",
+      "misconception": "Light's speed in vacuum is fixed, but inside matter it can be slowed to a crawl.",
+      "number": "17 m/s",
+      "thumbnailText": "17 M/S LIGHT",
+      "visualScenes": [
+        "laser entering an ultracold atom cloud",
+        "speed comparison: light versus traffic",
+        "Lene Hau's lab setup",
+        "semiconductor slow-light chip",
+        "group velocity diagram",
+        "optical memory concept"
+      ],
+      "editorialTitles": [
+        "The Experiment That Slowed Light to 17 m/s",
+        "Why Light Isn't Always Fast"
+      ],
+      "facts": [
+        {
+          "claim": "In 1998, Danish physicist Lene Vestergaard Hau led a team from Harvard University and the Rowland Institute for Science which realized much lower group velocities of light.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Slow light",
+          "url": "https://en.wikipedia.org/wiki/Slow_light"
+        },
+        {
+          "claim": "They succeeded in slowing a beam of light to about 17 meters per second.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Slow light",
+          "url": "https://en.wikipedia.org/wiki/Slow_light"
+        },
+        {
+          "claim": "In 2004, researchers at UC Berkeley first demonstrated slow light in a semiconductor, with a group velocity 9.6 kilometers per second.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Slow light",
+          "url": "https://en.wikipedia.org/wiki/Slow_light"
+        },
+        {
+          "claim": "The faster the relative velocity, the greater the time dilation, with time slowing to a stop as one clock approaches the speed of light (299,792,458 m/s).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Time dilation",
+          "url": "https://en.wikipedia.org/wiki/Time_dilation"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Light was once slowed to 17 metres per second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's slower than traffic on a highway.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Lene Hau's team did it in 1998 using ultracold atoms.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In a vacuum, light moves at 299,792,458 metres per second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 2004, a semiconductor slowed light to 9.6 kilometres per second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The light isn't tired. It's delayed by how it interacts with matter.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Slow light could one day help store signals in optical chips.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So light's famous speed limit is only its top speed.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-sound-could-travel-through-space",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If Sound Could Travel Through Space?",
+      "hook": "Why explosions in space make no sound.",
+      "openingLine": "Why explosions in space make no sound.",
+      "secondBeat": "Sound needs matter, and space has almost none.",
+      "scientificMechanism": "sound is a pressure wave that needs a medium; its speed rises with the medium's stiffness",
+      "scenarioChange": "space carried sound like air",
+      "expectedConsequence": "it can't: without matter, explosions in space are silent",
+      "coreQuestion": "If sound could travel through space, what would we hear?",
+      "misconception": "Space battles aren't loud; sound can't cross a vacuum.",
+      "number": "331 m/s",
+      "thumbnailText": "SILENT SPACE",
+      "visualScenes": [
+        "silent explosion in space",
+        "sound wave compressing air molecules",
+        "speed comparison: air, water, steel, diamond",
+        "vacuum bell jar experiment",
+        "astronaut in silence",
+        "stiffness versus speed chart"
+      ],
+      "editorialTitles": [
+        "Why Space Is Silent",
+        "How Fast Sound Travels Through Everything"
+      ],
+      "facts": [
+        {
+          "claim": "At 0 °C (32 °F), the speed of sound in dry air (sea level 14.7 psi) is about 331 m/s (1,086 ft/s; 1,192 km/h; 740 mph; 643 kn).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Speed of sound",
+          "url": "https://en.wikipedia.org/wiki/Speed_of_sound"
+        },
+        {
+          "claim": "In 1826, Colladon and Sturm found a value of 1437.8 m/s in water at 8 C.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Speed of sound",
+          "url": "https://en.wikipedia.org/wiki/Speed_of_sound"
+        },
+        {
+          "claim": "For a typical steel alloy, K = 170 GPa, G = 80 GPa and p = 7700 kg/m3, yielding a compressional speed of 6,000 m/s.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Speed of sound",
+          "url": "https://en.wikipedia.org/wiki/Speed_of_sound"
+        },
+        {
+          "claim": "In an exceptionally stiff material such as diamond, sound travels at 12,000 m/s (39,000 ft/s), about 35 times its speed in air.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Speed of sound",
+          "url": "https://en.wikipedia.org/wiki/Speed_of_sound"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why explosions in space make no sound.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Sound needs matter, and space has almost none.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "In air at 0 °C, sound moves about 331 metres per second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In water, it's about 1,438 metres per second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In steel, around 6,000.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In diamond, up to 12,000 metres per second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Stiffer materials carry sound faster.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So space isn't loud. It's the quietest place there is.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-kept-all-your-baby-bones",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Kept All Your Baby Bones?",
+      "hook": "You were born with about 270 bones.",
+      "openingLine": "You were born with about 270 bones.",
+      "secondBeat": "Adults have around 206.",
+      "scientificMechanism": "many separate infant bones fuse during growth into fewer, stronger adult bones",
+      "scenarioChange": "a person's bones never fused",
+      "expectedConsequence": "extra joints where the body needs rigid support and protection",
+      "coreQuestion": "If you kept all your baby bones, what would your skeleton be missing?",
+      "misconception": "You don't gain bones as you grow; you lose count as they fuse.",
+      "number": "270 → 206",
+      "thumbnailText": "270→206 BONES",
+      "visualScenes": [
+        "infant skeleton versus adult skeleton",
+        "skull plates fusing",
+        "bone count comparison",
+        "bone composition pie",
+        "growth plate X-ray",
+        "fused versus loose bone diagram"
+      ],
+      "editorialTitles": [
+        "Why Babies Have More Bones Than Adults",
+        "What Happens to Your Extra Bones"
+      ],
+      "facts": [
+        {
+          "claim": "It is composed of around 270 bones at birth – this total decreases to around 206 bones by adulthood after some bones fuse together.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human skeleton",
+          "url": "https://en.wikipedia.org/wiki/Human_skeleton"
+        },
+        {
+          "claim": "The bone mass in the skeleton makes up about 14% of the total body weight.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human skeleton",
+          "url": "https://en.wikipedia.org/wiki/Human_skeleton"
+        },
+        {
+          "claim": "Bones are a mixture of chondroitin sulfate and hydroxyapatite, the latter making up 70% of a bone.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human skeleton",
+          "url": "https://en.wikipedia.org/wiki/Human_skeleton"
+        },
+        {
+          "claim": "Hydroxyapatite is in turn composed of 39.8% of calcium, 41.4% of oxygen, 18.5% of phosphorus, and 0.2% of hydrogen by mass.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human skeleton",
+          "url": "https://en.wikipedia.org/wiki/Human_skeleton"
+        }
+      ],
+      "narration": [
+        {
+          "text": "You were born with about 270 bones.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Adults have around 206.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Many bones fuse together as you grow.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Bone makes up about 14% of body weight.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "About 70% of bone is a mineral called hydroxyapatite.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Keeping every baby bone would leave joints where you need solid support.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "A fused skull protects the brain better than loose plates.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So growing up means having fewer bones, not more.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-room-temperature-superconductors-were-real",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If Room-Temperature Superconductors Were Real?",
+      "hook": "LK-99 went viral as a room-temperature superconductor.",
+      "openingLine": "LK-99 went viral as a room-temperature superconductor.",
+      "secondBeat": "By mid-August 2023, the consensus was clear: it isn't.",
+      "scientificMechanism": "a superconductor carries current with zero resistance, but known ones need extreme cooling",
+      "scenarioChange": "a true room-temperature superconductor were found",
+      "expectedConsequence": "near-lossless power lines and cheaper powerful magnets; LK-99 turned out not to be one",
+      "coreQuestion": "If room-temperature superconductors were real, what would change, and what happened with LK-99?",
+      "misconception": "LK-99 wasn't a room-temperature superconductor; in pure form it's an insulator.",
+      "number": "725 °C",
+      "thumbnailText": "THE LK-99 HYPE",
+      "visualScenes": [
+        "levitating sample video clip",
+        "resistance dropping to zero chart",
+        "labs attempting replication",
+        "copper-doped lead apatite crystal",
+        "power line losses graphic",
+        "MRI magnet cooling"
+      ],
+      "editorialTitles": [
+        "What LK-99 Taught Us About Superconductors",
+        "Why Room-Temperature Superconductors Would Change Everything"
+      ],
+      "facts": [
+        {
+          "claim": "LK-99, also called PCPOSOS, is a gray–black, polycrystalline compound, identified as a copper-doped lead‒oxyapatite.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — LK-99",
+          "url": "https://en.wikipedia.org/wiki/LK-99"
+        },
+        {
+          "claim": "By mid-August 2023, the consensus was that LK-99 is not a superconductor at room temperature, and is an insulator in pure form.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — LK-99",
+          "url": "https://en.wikipedia.org/wiki/LK-99"
+        },
+        {
+          "claim": "Lanarkite is produced from a 1:1 molar mixing of lead(II) oxide and lead(II) sulfate powders, heated at 725 °C (1,000 K; 1,340 °F) for 24 hours.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — LK-99",
+          "url": "https://en.wikipedia.org/wiki/LK-99"
+        },
+        {
+          "claim": "The authors provide a method for chemical synthesis of LK-99 in three steps.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — LK-99",
+          "url": "https://en.wikipedia.org/wiki/LK-99"
+        }
+      ],
+      "narration": [
+        {
+          "text": "LK-99 went viral as a room-temperature superconductor.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "By mid-August 2023, the consensus was clear: it isn't.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "In pure form, it's actually an insulator.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It's a copper-doped lead apatite, made in three steps.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "One step heats powders to 725 °C for 24 hours.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "A real one would let power lines and magnets waste almost nothing.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "That's why the claim spread so fast.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So extraordinary materials need replication, not just hype.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-meat-were-grown-without-animals",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If Meat Were Grown Without Animals?",
+      "hook": "Why the first lab burger cost $325,000.",
+      "openingLine": "Why the first lab burger cost $325,000.",
+      "secondBeat": "Mark Post unveiled it in 2013.",
+      "scientificMechanism": "animal cells are grown in bioreactors and assembled into muscle tissue",
+      "scenarioChange": "cultured meat reached everyday scale",
+      "expectedConsequence": "the barrier is cost and scale-up, not whether cells can be grown",
+      "coreQuestion": "If meat were grown without animals, what would stop it reaching your plate?",
+      "misconception": "Growing meat cells isn't the hard part; growing them cheaply at scale is.",
+      "number": "$325,000 burger",
+      "thumbnailText": "$325,000 BURGER",
+      "visualScenes": [
+        "first lab-grown burger being cooked",
+        "muscle cell strands",
+        "bioreactor tanks",
+        "investment chart 2021 to 2023",
+        "price per kilogram comparison",
+        "supermarket shelf concept"
+      ],
+      "editorialTitles": [
+        "The $325,000 Burger and What Came Next",
+        "Why Lab-Grown Meat Is a Factory Problem"
+      ],
+      "facts": [
+        {
+          "claim": "In 2013, Mark Post created a hamburger patty made from tissue grown outside of an animal.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Cultured meat",
+          "url": "https://en.wikipedia.org/wiki/Cultured_meat"
+        },
+        {
+          "claim": "It was made from over 20,000 thin strands of muscle tissue, cost over $325,000 and needed 2 years to produce.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Cultured meat",
+          "url": "https://en.wikipedia.org/wiki/Cultured_meat"
+        },
+        {
+          "claim": "In 2021 through 2023, cultured meat and seafood companies attracted over $2.5 billion in investment worldwide.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Cultured meat",
+          "url": "https://en.wikipedia.org/wiki/Cultured_meat"
+        },
+        {
+          "claim": "In May 2008, PETA offered a $1 million prize to the first company to bring cultured chicken meat to consumers by 2012.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Cultured meat",
+          "url": "https://en.wikipedia.org/wiki/Cultured_meat"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the first lab burger cost $325,000.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Mark Post unveiled it in 2013.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It took 20,000 thin strands of muscle tissue.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It needed 2 years to produce.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "From 2021 to 2023, companies raised over $2.5 billion.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Scaling up means growing cells cheaply in giant tanks.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Price, not taste, decides whether it reaches your plate.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the hardest part of lab meat is the factory.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-hyperloop-actually-worked",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If Hyperloop Actually Worked?",
+      "hook": "Why hyperloop's first riders only hit 172 km/h.",
+      "openingLine": "Why hyperloop's first riders only hit 172 km/h.",
+      "secondBeat": "Elon Musk published the idea in 2013.",
+      "scientificMechanism": "pods travel through low-pressure tubes to cut air resistance",
+      "scenarioChange": "hyperloop lines were built between cities",
+      "expectedConsequence": "the physics works, but airtight tubes over long distances make engineering and cost the barrier",
+      "coreQuestion": "If hyperloop actually worked, what would it take to build?",
+      "misconception": "Hyperloop's challenge isn't the pod; it's keeping long tubes airtight and affordable.",
+      "number": "463 km/h",
+      "thumbnailText": "HYPERLOOP REALITY",
+      "visualScenes": [
+        "pod inside a low-pressure tube",
+        "air resistance comparison",
+        "test track in the desert",
+        "student pod competition",
+        "tube construction cost graphic",
+        "route map between cities"
+      ],
+      "editorialTitles": [
+        "What It Would Take for Hyperloop to Work",
+        "Why Hyperloop Stalled"
+      ],
+      "facts": [
+        {
+          "claim": "In 2013, the concept was published by businessman Elon Musk in a white paper, where the hyperloop was described as a transportation system using capsules within a low-pressure tube.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Hyperloop",
+          "url": "https://en.wikipedia.org/wiki/Hyperloop"
+        },
+        {
+          "claim": "A Technical University of Munich hyperloop set a speed record of 463 km/h (288 mph) in July 2019.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Hyperloop",
+          "url": "https://en.wikipedia.org/wiki/Hyperloop"
+        },
+        {
+          "claim": "Virgin Hyperloop conducted the first human trial in November 2020 at its test site in Las Vegas, reaching a top speed of 172 km/h (107 mph).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Hyperloop",
+          "url": "https://en.wikipedia.org/wiki/Hyperloop"
+        },
+        {
+          "claim": "In 2023, a new European effort to standardize hyperloop systems released a draft standard.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Hyperloop",
+          "url": "https://en.wikipedia.org/wiki/Hyperloop"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why hyperloop's first riders only hit 172 km/h.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Elon Musk published the idea in 2013.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Pods were meant to race through near-vacuum tubes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "A student pod hit 463 kilometres per hour in 2019.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The first human ride came in 2020, at a Las Vegas test track.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Keeping hundreds of kilometres of tube airtight is the hard part.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Europe released a draft hyperloop standard in 2023.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the physics is simple. The engineering is not.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-earth-spun-like-the-fastest-pulsar",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If Earth Spun Like the Fastest Pulsar?",
+      "hook": "One dead star spins 716 times a second.",
+      "openingLine": "One dead star spins 716 times a second.",
+      "secondBeat": "Its equator moves at about 24% of light speed.",
+      "scientificMechanism": "a collapsed star keeps its angular momentum in a tiny radius, spinning hundreds of times a second",
+      "scenarioChange": "Earth spun as fast as the fastest known pulsar",
+      "expectedConsequence": "Earth would fly apart; only a neutron star's gravity can hold such a spin",
+      "coreQuestion": "If Earth spun like the fastest pulsar, what would hold it together?",
+      "misconception": "Spin that fast isn't possible for ordinary planets; only neutron stars survive it.",
+      "number": "716 spins/second",
+      "thumbnailText": "716 SPINS/SECOND",
+      "visualScenes": [
+        "pulsar beams sweeping space",
+        "spin rate counter",
+        "equator speed as fraction of light speed",
+        "Terzan 5 globular cluster",
+        "Earth breaking apart concept",
+        "neutron star size over a city"
+      ],
+      "editorialTitles": [
+        "The Star That Spins 716 Times a Second",
+        "Why Only Neutron Stars Can Spin That Fast"
+      ],
+      "facts": [
+        {
+          "claim": "PSR J1748−2446ad is the fastest-spinning pulsar known, at 716.35 Hz (times per second), or 42,981 revolutions per minute.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — PSR J1748−2446ad",
+          "url": "https://en.wikipedia.org/wiki/PSR_J1748−2446ad"
+        },
+        {
+          "claim": "At its equator it is spinning at approximately 24% of the speed of light, or over 70,000 km per second.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — PSR J1748−2446ad",
+          "url": "https://en.wikipedia.org/wiki/PSR_J1748−2446ad"
+        },
+        {
+          "claim": "If the neutron star is assumed to contain less than two times the mass of the Sun, its radius is constrained to be less than 16 km.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — PSR J1748−2446ad",
+          "url": "https://en.wikipedia.org/wiki/PSR_J1748−2446ad"
+        },
+        {
+          "claim": "The pulsar is located in a globular cluster of stars called Terzan 5, located approximately 18,000 light-years from Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — PSR J1748−2446ad",
+          "url": "https://en.wikipedia.org/wiki/PSR_J1748−2446ad"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One dead star spins 716 times a second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Its equator moves at about 24% of light speed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "That's over 70,000 kilometres per second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It's a neutron star under 16 kilometres in radius.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It sits about 18,000 light-years away, in Terzan 5.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Earth spinning that fast would fly apart instantly.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Only a neutron star's gravity can hold such spin together.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the fastest spinners in the universe are also the densest.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-year-lasted-18-hours",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If a Year Lasted 18 Hours?",
+      "hook": "One planet completes a year in under 18 hours.",
+      "openingLine": "One planet completes a year in under 18 hours.",
+      "secondBeat": "It's 55 Cancri e, a super-Earth hugging its star.",
+      "scientificMechanism": "a planet orbiting very close to its star completes its year quickly and receives intense heat",
+      "scenarioChange": "a planet orbited as close as 55 Cancri e",
+      "expectedConsequence": "a scorching day side over 3,000 kelvin, hostile to life as we know it",
+      "coreQuestion": "If a year lasted 18 hours, what would that planet be like?",
+      "misconception": "A short year doesn't mean a small orbit is pleasant; it means extreme heat.",
+      "number": "under 18 hours",
+      "thumbnailText": "18-HOUR YEAR",
+      "visualScenes": [
+        "planet skimming its star",
+        "orbit comparison with Mercury",
+        "day-side temperature map",
+        "discovery timeline 2004",
+        "super-Earth size comparison",
+        "molten surface concept"
+      ],
+      "editorialTitles": [
+        "The Planet With an 18-Hour Year",
+        "Why Close-In Planets Are So Hellish"
+      ],
+      "facts": [
+        {
+          "claim": "It is the innermost planet in its planetary system, taking less than 18 hours to complete an orbit.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 55 Cancri e",
+          "url": "https://en.wikipedia.org/wiki/55_Cancri_e"
+        },
+        {
+          "claim": "Due to its proximity to its star, 55 Cancri Ae is extremely hot, with temperatures on the day side exceeding 3,000 Kelvin.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 55 Cancri e",
+          "url": "https://en.wikipedia.org/wiki/55_Cancri_e"
+        },
+        {
+          "claim": "55 Cancri Ae was announced in 2004, making it the first super-Earth discovered around a main sequence star.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 55 Cancri e",
+          "url": "https://en.wikipedia.org/wiki/55_Cancri_e"
+        },
+        {
+          "claim": "Until the 2010 observations and recalculations, this planet had been thought to take about 2.8 days to orbit the star.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 55 Cancri e",
+          "url": "https://en.wikipedia.org/wiki/55_Cancri_e"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One planet completes a year in under 18 hours.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It's 55 Cancri e, a super-Earth hugging its star.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Its day side tops 3,000 kelvin.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Announced in 2004, it was the first super-Earth around a main-sequence star.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Until 2010, astronomers thought its year lasted 2.8 days.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "At that distance, rock itself may melt.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Life as we know it couldn't survive there.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a planet's year length can tell you how hellish it is.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-earths-nitrogen-cycle-stopped",
+      "replaces": "what-if-earth-s-nitrogen-cycle-reversed-between-hemispheres",
+      "category": "OTHER",
+      "topic": "What If Earth's Nitrogen Cycle Stopped?",
+      "hook": "Air is 78% nitrogen, but plants can't use it.",
+      "openingLine": "Air is 78% nitrogen, but plants can't use it.",
+      "secondBeat": "Bacteria must fix it into usable forms first.",
+      "scientificMechanism": "microbes and lightning convert inert atmospheric nitrogen into forms living things can use",
+      "scenarioChange": "nitrogen fixation stopped",
+      "expectedConsequence": "soils and oceans would slowly run short of usable nitrogen, starving plants and plankton",
+      "coreQuestion": "If Earth's nitrogen cycle stopped, what would run out first?",
+      "misconception": "Plants can't use the nitrogen in air directly; microbes have to convert it first.",
+      "number": "78% nitrogen",
+      "thumbnailText": "USELESS AIR",
+      "visualScenes": [
+        "air composition pie with 78% nitrogen",
+        "bacteria in root nodules",
+        "lightning fixing nitrogen",
+        "cyanobacteria in ocean water",
+        "combustion adding nitrogen oxides",
+        "starving crop field"
+      ],
+      "editorialTitles": [
+        "What If Nitrogen Stopped Cycling",
+        "Why Air's Most Common Gas Is Useless to Plants"
+      ],
+      "facts": [
+        {
+          "claim": "The majority of Earth's atmosphere (78%) is atmospheric nitrogen, making it the largest source of nitrogen.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Nitrogen cycle",
+          "url": "https://en.wikipedia.org/wiki/Nitrogen_cycle"
+        },
+        {
+          "claim": "Between 5 and 10 billion kg per year are fixed by lightning strikes, but most fixation is done by free-living or symbiotic bacteria known as diazotrophs.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Nitrogen cycle",
+          "url": "https://en.wikipedia.org/wiki/Nitrogen_cycle"
+        },
+        {
+          "claim": "Nitrogen cannot be utilized by phytoplankton as N2 so it must undergo nitrogen fixation which is performed predominately by cyanobacteria.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Nitrogen cycle",
+          "url": "https://en.wikipedia.org/wiki/Nitrogen_cycle"
+        },
+        {
+          "claim": "High-temperature combustion has contributed to a 6- or 7-fold increase in the flux of NOx to the atmosphere.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Nitrogen cycle",
+          "url": "https://en.wikipedia.org/wiki/Nitrogen_cycle"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Air is 78% nitrogen, but plants can't use it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Bacteria must fix it into usable forms first.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Lightning fixes 5 to 10 billion kilograms a year.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "But most fixation is done by bacteria.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Ocean phytoplankton rely on cyanobacteria to fix it for them.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Combustion has raised nitrogen oxide flux 6 to 7 times.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "If fixation stopped, soils and seas would slowly starve.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the air's most common gas is useless until microbes change it.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    }
+  ]
+}

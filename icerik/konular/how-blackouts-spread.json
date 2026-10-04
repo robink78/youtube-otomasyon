@@ -1,0 +1,92 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "How One Wire Blacks Out a Whole Country",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "The domino nobody sees",
+  "soru": "Ready for a blackout?",
+  "arama_yedek": "power lines electricity",
+  "aciklama": "A single overloaded power line can plunge millions into darkness in minutes. Here is how a blackout cascades.\n\n#shorts #engineering #science #electricity #howitworks",
+  "etiketler": [
+    "blackout",
+    "power grid",
+    "electricity",
+    "engineering",
+    "science"
+  ],
+  "sahneler": [
+    {
+      "metin": "One failing wire can plunge millions of people into darkness.",
+      "arama": "power lines"
+    },
+    {
+      "metin": "In seconds, the failure cascades across the whole grid.",
+      "arama": "electrical substation"
+    },
+    {
+      "metin": "So how does one wire take down a nation?",
+      "arama": "power line closeup"
+    },
+    {
+      "metin": "Every power line carries only so much before it overheats.",
+      "arama": "electricity pylons"
+    },
+    {
+      "metin": "When one line trips, its load jumps onto its neighbours.",
+      "arama": "electrical substation"
+    },
+    {
+      "metin": "Now they overload and trip in turn.",
+      "arama": "power plant"
+    },
+    {
+      "metin": "Whole cities go dark before anyone can react.",
+      "arama": "city skyline evening"
+    },
+    {
+      "metin": "The whole system is only as strong as its weakest wire.",
+      "arama": "electricity tower"
+    }
+  ],
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "mekanizma",
+    "ad": "Blackouts",
+    "nesne": "Grid",
+    "sonuc": "spread",
+    "tetik": "one line tripping",
+    "mekanizma": "cascading failure",
+    "sayi": "SECONDS",
+    "ders": "grid operators now model cascades and shed load early",
+    "zincir": [
+      "ONE LINE TRIPS",
+      "LOAD SHIFTS TO NEIGHBORS",
+      "NEIGHBORS OVERLOAD",
+      "PROTECTIVE RELAYS TRIP",
+      "GRID COLLAPSES"
+    ],
+    "yanilgi": "Big blackouts rarely start big — the 2003 Northeast blackout began with lines sagging into trees and an alarm system that failed silently.",
+    "tartisma": "Should grids be split into smaller islands, even if it costs efficiency?",
+    "basliklar": [
+      "The Domino Effect That Blacks Out Countries",
+      "How a Blackout Spreads in Seconds",
+      "Why One Failure Can Shut Down a Power Grid"
+    ],
+    "kapak": [
+      "DOMINO EFFECT",
+      "ONE WIRE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Cascading failure",
+        "url": "https://en.wikipedia.org/wiki/Cascading_failure"
+      },
+      {
+        "ad": "Wikipedia — Northeast blackout of 2003",
+        "url": "https://en.wikipedia.org/wiki/Northeast_blackout_of_2003"
+      }
+    ]
+  }
+}

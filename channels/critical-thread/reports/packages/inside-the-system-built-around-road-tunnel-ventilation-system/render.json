@@ -1,0 +1,277 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/critical-thread/state/production/inside-the-system-built-around-road-tunnel-ventilation-system/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "rate": "-6%",
+    "claimDurations": [
+      4.31596870685688,
+      4.364012885411873,
+      2.8506212609295902,
+      4.1478140819144045,
+      5.204786010124252,
+      5.036631385181776,
+      4.580211688909342,
+      4.299953980671883
+    ],
+    "durationSeconds": 34.8,
+    "width": null,
+    "height": null,
+    "hasAudio": true,
+    "music": {
+      "mood": "infrastructure-failures",
+      "profile": {
+        "kok": 61.4,
+        "oran": 1.335,
+        "trem": 0.111,
+        "renk": "pink",
+        "yanki": [
+          611,
+          1016
+        ],
+        "alcak": 764,
+        "ton": "tense"
+      }
+    }
+  },
+  "video": {
+    "file": "channels/critical-thread/state/production/inside-the-system-built-around-road-tunnel-ventilation-system/inside-the-system-built-around-road-tunnel-ventilation-system.mp4",
+    "captionsBurned": true,
+    "distinctVisuals": 12,
+    "realImageCount": 9,
+    "numberCardCount": 3,
+    "maxStaticSeconds": 2.987,
+    "visualChanges": 21,
+    "openingHookCovered": true,
+    "cardNumbersValid": true,
+    "opening": "number",
+    "visualQuality": {
+      "decision": "PUBLISH",
+      "reasons": []
+    },
+    "segmentSeconds": [
+      1.319,
+      0.9009999999999998,
+      1.3479999999999999,
+      0.7479687068568808,
+      1.1840312931431196,
+      1.7839999999999998,
+      1.395981592268753,
+      0.9910184077312465,
+      1.8596028531983428,
+      2.9873971468016585,
+      1.160416935112746,
+      2.0645830648872554,
+      2.6409999999999982,
+      0.4992029452369984,
+      2.978797054763003,
+      2.057834330418771,
+      0.7711656695812295,
+      2.9480000000000004,
+      0.8610460193281142,
+      2.560953980671883,
+      1.7389999999999972
+    ],
+    "sources": [
+      {
+        "shot": 1,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Gotthard Road Tunnel - Ventilation Center Bäzberg (15607257755).jpg",
+        "numbers": [
+          "2002"
+        ]
+      },
+      {
+        "shot": 2,
+        "claimIndex": 0,
+        "type": "stock-video",
+        "sourceId": "video:35803550",
+        "numbers": [
+          "2002"
+        ]
+      },
+      {
+        "shot": 3,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Gotthard Road Tunnel - Ventilation Center Bäzberg (15608103582).jpg",
+        "numbers": [
+          "2002"
+        ]
+      },
+      {
+        "shot": 4,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Ventilation System (9627691007).jpg",
+        "numbers": [
+          "2002"
+        ]
+      },
+      {
+        "shot": 5,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:Entrance of Mont-Blanc tunnel from le Brevent.jpg",
+        "numbers": [
+          "1999"
+        ]
+      },
+      {
+        "shot": 6,
+        "claimIndex": 1,
+        "type": "stock-video",
+        "sourceId": "video:28346937",
+        "numbers": [
+          "1999"
+        ]
+      },
+      {
+        "shot": 7,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:Mont Blanc tunnel ticket 1973.jpg",
+        "numbers": [
+          "1999"
+        ]
+      },
+      {
+        "shot": 8,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:Tunel mont blanc.jpg",
+        "numbers": [
+          "39"
+        ]
+      },
+      {
+        "shot": 9,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:Gotthard Road Tunnel - Ventilation Center Bäzberg (15607257755).jpg#2",
+        "numbers": [
+          "39"
+        ]
+      },
+      {
+        "shot": 10,
+        "claimIndex": 3,
+        "type": "stock-video",
+        "sourceId": "video:28560962",
+        "numbers": [
+          "2002"
+        ]
+      },
+      {
+        "shot": 11,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:Gotthard Road Tunnel - Ventilation Center Bäzberg (15608103582).jpg#2",
+        "numbers": [
+          "2002"
+        ]
+      },
+      {
+        "shot": 12,
+        "claimIndex": 4,
+        "type": "number-card",
+        "sourceId": "card:4:ca785055ce10",
+        "numbers": [
+          "11.611 kilometres"
+        ]
+      },
+      {
+        "shot": 13,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:Ventilation System (9627691007).jpg#2",
+        "numbers": [
+          "11.611 kilometres"
+        ]
+      },
+      {
+        "shot": 14,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:Entrance of Mont-Blanc tunnel from le Brevent.jpg#2",
+        "numbers": [
+          "11.611 kilometres"
+        ]
+      },
+      {
+        "shot": 15,
+        "claimIndex": 5,
+        "type": "number-card",
+        "sourceId": "card:5:bb4b98b06eb4",
+        "numbers": [
+          "100 kilometres"
+        ]
+      },
+      {
+        "shot": 16,
+        "claimIndex": 5,
+        "type": "licensed-still",
+        "sourceId": "still:Mont Blanc tunnel ticket 1973.jpg#2",
+        "numbers": [
+          "100 kilometres"
+        ]
+      },
+      {
+        "shot": 17,
+        "claimIndex": 6,
+        "type": "number-card",
+        "sourceId": "card:6:a5e73488c372",
+        "numbers": [
+          "150 metres"
+        ]
+      },
+      {
+        "shot": 18,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:Tunel mont blanc.jpg#2",
+        "numbers": [
+          "150 metres"
+        ]
+      },
+      {
+        "shot": 19,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:Gotthard Road Tunnel - Ventilation Center Bäzberg (15607257755).jpg#3",
+        "numbers": [
+          "150 metres"
+        ]
+      },
+      {
+        "shot": 20,
+        "claimIndex": 7,
+        "type": "licensed-still",
+        "sourceId": "still:Gotthard Road Tunnel - Ventilation Center Bäzberg (15608103582).jpg#3",
+        "numbers": []
+      },
+      {
+        "shot": 21,
+        "claimIndex": 7,
+        "type": "licensed-still",
+        "sourceId": "still:Ventilation System (9627691007).jpg#3",
+        "numbers": []
+      }
+    ],
+    "durationSeconds": 34.8,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/critical-thread/state/production/inside-the-system-built-around-road-tunnel-ventilation-system/thumbnail.jpg",
+    "bytes": 75745,
+    "sourceType": "licensed-still",
+    "sourceId": "still:Gotthard Road Tunnel - Ventilation Center Bäzberg (15607257755).jpg",
+    "textWords": 2,
+    "usesLicensedStill": true
+  }
+}

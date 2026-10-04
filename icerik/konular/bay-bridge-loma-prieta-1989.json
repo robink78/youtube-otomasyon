@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Bay Bridge Deck That Fell in the 1989 Earthquake",
+  "kaynaklar": [
+    {
+      "ad": "bay-bridge-loma-prieta-1.jpg",
+      "wikimedia": "BayBridgeLomaPrietraMeyerB.jpg"
+    },
+    {
+      "ad": "bay-bridge-loma-prieta-2.jpg",
+      "wikimedia": "LomaPrieta-BayBridge-collapsed-section2.jpg"
+    },
+    {
+      "ad": "bay-bridge-loma-prieta-3.jpg",
+      "wikimedia": "LomaPrieta-PacificGardenMall.jpeg"
+    },
+    {
+      "ad": "bay-bridge-loma-prieta-4.jpg",
+      "wikimedia": "LomaPrieta-SOMA.jpeg"
+    },
+    {
+      "ad": "bay-bridge-loma-prieta-5.jpg",
+      "wikimedia": "St.Joseph'sSeminary Los Altos USGS.jpg"
+    },
+    {
+      "ad": "bay-bridge-loma-prieta-6.jpg",
+      "wikimedia": "USGS - 1989 Loma Prieta earthquake - Landslide Debris on Highway.jpg"
+    },
+    {
+      "ad": "bay-bridge-loma-prieta-7.jpg",
+      "wikimedia": "LomaPrieta-Hwy1.jpeg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During the Loma Prieta earthquake, a section of the Bay Bridge fell.",
+      "kaynak": "Footage/bay-bridge-loma-prieta-1.jpg"
+    },
+    {
+      "metin": "A car drove into the gap, and the driver was killed.",
+      "kaynak": "Footage/bay-bridge-loma-prieta-2.jpg"
+    },
+    {
+      "metin": "The upper deck dropped onto the lower deck.",
+      "kaynak": "Footage/bay-bridge-loma-prieta-3.jpg"
+    },
+    {
+      "metin": "Shaking shifted a support tower.",
+      "kaynak": "Footage/bay-bridge-loma-prieta-4.jpg"
+    },
+    {
+      "metin": "Bolts holding the span sheared off.",
+      "kaynak": "Footage/bay-bridge-loma-prieta-5.jpg"
+    },
+    {
+      "metin": "The section slid off its support.",
+      "kaynak": "Footage/bay-bridge-loma-prieta-6.jpg"
+    },
+    {
+      "metin": "The bridge was closed for a month.",
+      "kaynak": "Footage/bay-bridge-loma-prieta-7.jpg"
+    },
+    {
+      "metin": "The eastern span was later replaced by a new seismic design.",
+      "kaynak": "Footage/bay-bridge-loma-prieta-1.jpg"
+    }
+  ],
+  "aciklama": "Loma Prieta Bay Bridge dropped a section onto the deck below. The cause: failure of connections at a pier where the span slid off its support.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Loma Prieta Bay Bridge",
+    "1989",
+    "bridge deck",
+    "engineering failure"
+  ],
+  "hook": "One section fell",
+  "soru": "How fast should upgrades happen?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Bay Bridge upper deck",
+    "kisa": "Loma Prieta Bay Bridge",
+    "nesne": "Bridge deck",
+    "yil": 1989,
+    "sonuc": "dropped a section onto the deck below",
+    "tetik": "earthquake motion shearing the bolts holding a span",
+    "mekanizma": "failure of connections at a pier where the span slid off its support",
+    "sayi": "ONE SPAN",
+    "ders": "the eastern span was replaced by a new seismically designed bridge",
+    "zincir": [
+      "EARTHQUAKE STRIKES",
+      "TOWER SHIFTS",
+      "BOLTS SHEAR",
+      "UPPER SPAN FALLS ONTO LOWER",
+      "BRIDGE CLOSED FOR A MONTH"
+    ],
+    "zaman": [],
+    "yanilgi": "The bridge didn't collapse. One section of the upper deck fell onto the lower deck.",
+    "tartisma": "The new eastern span took decades and billions to build. How fast should seismic upgrades happen?",
+    "basliklar": [
+      "The Bay Bridge Deck That Fell in the 1989 Earthquake",
+      "What Happened to the Bay Bridge in 1989",
+      "The Span That Slipped in an Earthquake"
+    ],
+    "kapak": [
+      "SPAN FELL",
+      "ONE SECTION"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1989 Loma Prieta earthquake",
+        "url": "https://en.wikipedia.org/wiki/1989_Loma_Prieta_earthquake"
+      },
+      {
+        "ad": "US Army Corps of Engineers — EP 870 1 44 (cited by Wikipedia)",
+        "url": "https://www.publications.usace.army.mil/Portals/76/Publications/EngineerPamphlets/EP_870-1-44.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "1989_Loma_Prieta_earthquake",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "BayBridgeLomaPrietraMeyerB.jpg [Public domain]",
+      "LomaPrieta-BayBridge-collapsed-section2.jpg [Public domain]",
+      "LomaPrieta-PacificGardenMall.jpeg [Public domain]",
+      "LomaPrieta-SOMA.jpeg [Public domain]",
+      "St.Joseph'sSeminary Los Altos USGS.jpg [Public domain]",
+      "USGS - 1989 Loma Prieta earthquake - Landslide Debris on Highway.jpg [Public domain]",
+      "LomaPrieta-Hwy1.jpeg [Public domain]"
+    ]
+  }
+}

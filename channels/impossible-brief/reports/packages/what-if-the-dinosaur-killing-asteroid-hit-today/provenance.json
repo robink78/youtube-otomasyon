@@ -1,0 +1,87 @@
+{
+  "channel": "impossible-brief",
+  "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+  "allowedChannels": [
+    "impossible-brief"
+  ],
+  "createdAt": "2026-10-04T17:49:30.868Z",
+  "assets": [
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Yucatan chix crater.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yucatan_chix_crater.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Yucatan_chix_crater.jpg",
+      "attribution": "NASA/JPL-Caltech, modified b",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Chicxulub Free-Air Gravity anomaly.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicxulub_Free-Air_Gravity_anomaly.png",
+      "licence": "CC BY 3.0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Chicxulub_Free-Air_Gravity_anomaly.png",
+      "attribution": "J. Klokočník, J. Kostelecký, I. Pešek, P. Novák, C. A. Wagner, and J. Sebera",
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Chicxulub impact - artist impression.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicxulub_impact_-_artist_impression.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Chicxulub_impact_-_artist_impression.jpg",
+      "attribution": "Donald E. Davis",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 30251605",
+      "sourceUrl": "https://www.pexels.com/video/intricate-dinosaur-miniature-sculpture-carving-30251605/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/intricate-dinosaur-miniature-sculpture-carving-30251605/",
+      "attribution": "Vũ Vũ",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "audio",
+      "source": "Microsoft Edge neural TTS (claim-timed)",
+      "title": "narration",
+      "licence": "generated — synthetic voice, disclosed in the description",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "audio",
+      "source": "procedural synthesis (ffmpeg)",
+      "title": "music bed",
+      "licence": "original — generated per video",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "image",
+      "source": "generated graphics (captions, number cards, diagrams)",
+      "title": "on-screen graphics",
+      "licence": "original",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    }
+  ]
+}

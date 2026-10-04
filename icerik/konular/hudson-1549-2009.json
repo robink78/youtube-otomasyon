@@ -1,0 +1,125 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": 7,
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "baslik": "208 Seconds: How Geese Took Out Both Engines of Flight 1549",
+  "kaynaklar": [
+    {
+      "ad": "hudson.ogv",
+      "wikimedia": "Flight1549CrashAndRescue.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Both engines died at under three thousand feet over New York.",
+      "kaynak": "Footage/hudson.ogv",
+      "baslangic": 172
+    },
+    {
+      "metin": "Just 208 seconds later, the jet was floating in the Hudson River.",
+      "kaynak": "Footage/hudson.ogv",
+      "baslangic": 51
+    },
+    {
+      "metin": "All 155 people aboard survived.",
+      "kaynak": "Footage/hudson.ogv",
+      "baslangic": 300
+    },
+    {
+      "metin": "The cause was a flock of Canada geese.",
+      "kaynak": "Footage/hudson.ogv",
+      "baslangic": 70
+    },
+    {
+      "metin": "The engines were tested against birds of about four pounds.",
+      "kaynak": "Footage/hudson.ogv",
+      "baslangic": 85
+    },
+    {
+      "metin": "Canada geese weigh about eight.",
+      "kaynak": "Footage/hudson.ogv",
+      "baslangic": 223
+    },
+    {
+      "metin": "Two engines, both beyond their design limit, at the same moment.",
+      "kaynak": "Footage/hudson.ogv",
+      "baslangic": 243
+    },
+    {
+      "metin": "The pilots' calm turned an engineering failure into a survival story.",
+      "kaynak": "Footage/hudson.ogv",
+      "baslangic": 330
+    }
+  ],
+  "aciklama": "On January 15, 2009, US Airways Flight 1549 lost both engines to Canada geese minutes after takeoff. 208 seconds later it ditched in the Hudson; all 155 survived.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "US Airways Flight 1549",
+    "Miracle on the Hudson",
+    "bird strike",
+    "Airbus A320",
+    "2009",
+    "engine certification",
+    "aviation"
+  ],
+  "hook": "208 seconds",
+  "soru": "Would you have tried the river?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "US Airways Flight 1549",
+    "kisa": "Flight 1549",
+    "nesne": "Airbus A320",
+    "yil": 2009,
+    "sonuc": "lost both engines and ditched in the Hudson",
+    "tetik": "a flock of Canada geese",
+    "mekanizma": "dual-engine bird ingestion beyond the certification bird weight",
+    "sayi": "208 SECONDS",
+    "ders": "bird-ingestion standards and airport wildlife control were reviewed after the ditching",
+    "zincir": [
+      "TAKEOFF FROM LAGUARDIA",
+      "GEESE STRIKE AT ~2,800 FT",
+      "BOTH ENGINES LOSE THRUST",
+      "NO RUNWAY WITHIN REACH",
+      "DITCHING: ALL 155 SURVIVE"
+    ],
+    "zaman": [
+      {
+        "t": "Jan 15, 2009 15:25",
+        "olay": "Takeoff from LaGuardia"
+      },
+      {
+        "t": "15:27",
+        "olay": "Bird strike; both engines lose thrust"
+      },
+      {
+        "t": "15:31",
+        "olay": "Ditching in the Hudson River — 208 s after the strike"
+      }
+    ],
+    "yanilgi": "The engines weren't defective: several geese, each about twice the certification test bird's weight, hit both engines at once.",
+    "tartisma": "Engines are tested against 4-pound birds, while Canada geese weigh around 8. Should certification assume the worst bird, or the likely one?",
+    "basliklar": [
+      "208 Seconds: How Geese Took Out Both Engines of Flight 1549",
+      "The Birds That Were Too Heavy for the Engines",
+      "Why Both Engines Failed Over New York",
+      "Engines Built for 4-Pound Birds Met 8-Pound Geese"
+    ],
+    "kapak": [
+      "208 SECONDS",
+      "BOTH ENGINES",
+      "GEESE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — US Airways Flight 1549",
+        "url": "https://en.wikipedia.org/wiki/US_Airways_Flight_1549"
+      },
+      {
+        "ad": "NTSB Accident Report AAR-10/03",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1003.pdf"
+      }
+    ]
+  }
+}

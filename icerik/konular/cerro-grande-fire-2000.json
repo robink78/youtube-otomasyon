@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Controlled Burn That Burned a Town",
+  "kaynaklar": [
+    {
+      "ad": "cerro-grande-fire-1.jpg",
+      "wikimedia": "FEMA - 13603 - Photograph by Andrea Booher taken on 05-04-2000 in New Mexico.jpg"
+    },
+    {
+      "ad": "cerro-grande-fire-2.jpg",
+      "wikimedia": "FEMA - 13604 - Photograph by Andrea Booher taken on 05-04-2000 in New Mexico.jpg"
+    },
+    {
+      "ad": "cerro-grande-fire-3.jpg",
+      "wikimedia": "Cerro Grande Watershed Treatments.jpeg"
+    },
+    {
+      "ad": "cerro-grande-fire-4.jpg",
+      "wikimedia": "New growth.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A controlled burn in New Mexico escaped and raced toward Los Alamos.",
+      "kaynak": "Footage/cerro-grande-fire-1.jpg"
+    },
+    {
+      "metin": "Within days, the fire destroyed homes and labs, leaving hundreds of families homeless.",
+      "kaynak": "Footage/cerro-grande-fire-2.jpg"
+    },
+    {
+      "metin": "The burn was meant to reduce fire danger.",
+      "kaynak": "Footage/cerro-grande-fire-3.jpg"
+    },
+    {
+      "metin": "It was part of a hazard reduction plan.",
+      "kaynak": "Footage/cerro-grande-fire-4.jpg"
+    },
+    {
+      "metin": "Drought had dried the forest.",
+      "kaynak": "Footage/cerro-grande-fire-1.jpg"
+    },
+    {
+      "metin": "High winds pushed it out of control.",
+      "kaynak": "Footage/cerro-grande-fire-2.jpg"
+    },
+    {
+      "metin": "Over four hundred families lost their homes.",
+      "kaynak": "Footage/cerro-grande-fire-3.jpg"
+    },
+    {
+      "metin": "Prescribed burn planning was changed.",
+      "kaynak": "Footage/cerro-grande-fire-4.jpg"
+    }
+  ],
+  "aciklama": "Cerro Grande escaped and burned homes in Los Alamos. The cause: a planned burn to reduce fire risk escaping in drought and wind.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Cerro Grande",
+    "2000",
+    "prescribed burn",
+    "engineering failure"
+  ],
+  "hook": "It was set on purpose",
+  "soru": "How much risk should prevention carry?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Cerro Grande Fire",
+    "kisa": "Cerro Grande",
+    "nesne": "Prescribed burn",
+    "yil": 2000,
+    "sonuc": "escaped and burned homes in Los Alamos",
+    "tetik": "high winds during a prescribed burn",
+    "mekanizma": "a planned burn to reduce fire risk escaping in drought and wind",
+    "sayi": "400+ FAMILIES",
+    "ders": "the National Park Service changed how it plans prescribed burns",
+    "zincir": [
+      "BURN PLANNED TO CUT RISK",
+      "IGNITED IN DROUGHT",
+      "WINDS RISE",
+      "FIRE ESCAPES",
+      "TOWN BURNS"
+    ],
+    "zaman": [],
+    "yanilgi": "It started as a safety measure. The burn was meant to reduce fire danger.",
+    "tartisma": "Prescribed fire prevents bigger fires. How much risk should a prevention measure carry?",
+    "basliklar": [
+      "A Controlled Burn That Burned a Town",
+      "How a Controlled Burn Destroyed Homes in Los Alamos",
+      "The Fire Set to Prevent Fire"
+    ],
+    "kapak": [
+      "CONTROLLED BURN",
+      "ESCAPED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Cerro Grande Fire",
+        "url": "https://en.wikipedia.org/wiki/Cerro_Grande_Fire"
+      },
+      {
+        "ad": "Government source — sr cg cerro grande investigation report may 2000 (cited by Wikipedia)",
+        "url": "https://www.nwcg.gov/sites/default/files/wfldp/docs/sr-cg-cerro-grande-investigation-report-may-2000.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "Cerro_Grande_Fire",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "FEMA - 13603 - Photograph by Andrea Booher taken on 05-04-2000 in New Mexico.jpg [Public domain]",
+      "FEMA - 13604 - Photograph by Andrea Booher taken on 05-04-2000 in New Mexico.jpg [Public domain]",
+      "Cerro Grande Watershed Treatments.jpeg [Public domain]",
+      "New growth.jpg [CC BY 2.0]"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Lava Opened Fissures Inside a Housing Subdivision",
+  "kaynaklar": [
+    {
+      "ad": "leilani-eruption-1.jpg",
+      "wikimedia": "20180519 USGS Leilani Estates Hawaii Volcanic EruptionDSC 0411 medium.jpg"
+    },
+    {
+      "ad": "leilani-eruption-2.jpg",
+      "wikimedia": "USGS Kīlauea image-405.jpg"
+    },
+    {
+      "ad": "leilani-eruption-3.jpg",
+      "wikimedia": "USGS Kīlauea image-409.jpg"
+    },
+    {
+      "ad": "leilani-eruption-4.jpg",
+      "wikimedia": "USGS Kīlauea multimediaFile-1938.jpg"
+    },
+    {
+      "ad": "leilani-eruption-5.jpg",
+      "wikimedia": "USGS Lava on Makamae Street.jpg"
+    },
+    {
+      "ad": "leilani-eruption-6.jpg",
+      "wikimedia": "Kilauea Fissure 8 cone erupting on 6-28-2018.jpg"
+    },
+    {
+      "ad": "leilani-eruption-7.jpg",
+      "wikimedia": "USGS Kīlauea multimediaFile-1955.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Cracks split the roads of a Hawaii subdivision, then lava burst out.",
+      "kaynak": "Footage/leilani-eruption-1.jpg"
+    },
+    {
+      "metin": "Suddenly lava fountains rose inside Leilani Estates.",
+      "kaynak": "Footage/leilani-eruption-2.jpg"
+    },
+    {
+      "metin": "Earthquakes and ground deformation came first.",
+      "kaynak": "Footage/leilani-eruption-3.jpg"
+    },
+    {
+      "metin": "Twenty four fissures opened in and near the neighbourhood.",
+      "kaynak": "Footage/leilani-eruption-4.jpg"
+    },
+    {
+      "metin": "Lava rivers buried part of a highway.",
+      "kaynak": "Footage/leilani-eruption-5.jpg"
+    },
+    {
+      "metin": "Another flow destroyed Vacationland Hawaii.",
+      "kaynak": "Footage/leilani-eruption-6.jpg"
+    },
+    {
+      "metin": "The homes sat on an active rift zone.",
+      "kaynak": "Footage/leilani-eruption-7.jpg"
+    },
+    {
+      "metin": "It raised questions about building in lava zones.",
+      "kaynak": "Footage/leilani-eruption-1.jpg"
+    }
+  ],
+  "aciklama": "Kilauea 2018 destroyed neighbourhoods on Hawaii's Big Island. The cause: rift-zone eruption through a residential area built on the volcano's flank.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Kilauea 2018",
+    "2018",
+    "subdivision",
+    "engineering failure"
+  ],
+  "hook": "Lava erupted in the street",
+  "soru": "Should people build there?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the lower Puna eruption",
+    "kisa": "Kilauea 2018",
+    "nesne": "Subdivision",
+    "yil": 2018,
+    "sonuc": "destroyed neighbourhoods on Hawaii's Big Island",
+    "tetik": "fissures opening in the Leilani Estates subdivision",
+    "mekanizma": "rift-zone eruption through a residential area built on the volcano's flank",
+    "sayi": "24 FISSURES",
+    "ders": "the eruption raised questions about building in lava hazard zones",
+    "zincir": [
+      "HOMES ON RIFT ZONE",
+      "EARTHQUAKES AND CRACKS",
+      "FISSURES OPEN",
+      "LAVA RIVERS",
+      "SUBDIVISIONS BURIED"
+    ],
+    "zaman": [],
+    "yanilgi": "The lava didn't come from a summit far away. It erupted inside the neighbourhood.",
+    "tartisma": "Homes were built on an active rift zone. Should building there be allowed?",
+    "basliklar": [
+      "Lava Opened Fissures Inside a Housing Subdivision",
+      "How Kilauea Destroyed Leilani Estates",
+      "The Eruption Inside a Neighbourhood"
+    ],
+    "kapak": [
+      "24 FISSURES",
+      "LAVA"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2018 lower Puna eruption",
+        "url": "https://en.wikipedia.org/wiki/2018_lower_Puna_eruption"
+      },
+      {
+        "ad": "NASA — ash from kilauea eruption viewed by nasas misr (cited by Wikipedia)",
+        "url": "https://www.nasa.gov/image-feature/jpl/ash-from-kilauea-eruption-viewed-by-nasas-misr"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-22",
+    "wiki": "2018_lower_Puna_eruption",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "20180519 USGS Leilani Estates Hawaii Volcanic EruptionDSC 0411 medium.jpg [Public domain]",
+      "USGS Kīlauea image-405.jpg [Public domain]",
+      "USGS Kīlauea image-409.jpg [Public domain]",
+      "USGS Kīlauea multimediaFile-1938.jpg [Public domain]",
+      "USGS Lava on Makamae Street.jpg [Public domain]",
+      "Kilauea Fissure 8 cone erupting on 6-28-2018.jpg [Public domain]",
+      "USGS Kīlauea multimediaFile-1955.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "how-ground-turns-to-liquid",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.632Z",
+  "ekranHook": "When the earth becomes quicksand",
+  "mevcut": {
+    "puan": 95,
+    "pencereler": {
+      "0-5": "In some earthquakes, solid ground turns to liquid. It sounds impossible, but it swallows",
+      "5-12": "entire buildings. The secret is wet, sandy soil full of water. Normally the sand grains press together and hold",
+      "12-20": "firm. But violent shaking makes them float apart in the water. Suddenly the ground acts like a thick liquid, not a solid.",
+      "20-30": "Heavy buildings sink; buried pipes float to the surface. This is called liquefaction, and it needs no fault line nearby. The ground you trust is only solid until"
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: a central question/problem is raised",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "In some earthquakes, solid ground turns to liquid."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only violent shaking."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is soil liquefaction — and it is why engineers compact or drain soil before building."
+      }
+    ],
+    "metin": "In some earthquakes, solid ground turns to liquid. It took only violent shaking. So what actually happens inside? The answer is soil liquefaction — and it is why engineers compact or drain soil before building.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

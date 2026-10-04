@@ -1,0 +1,50 @@
+{
+  "slug": "why-metal-rusts-away",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.962Z",
+  "ekranHook": "The slow-motion disaster",
+  "mevcut": {
+    "puan": 80,
+    "pencereler": {
+      "0-5": "Rust has collapsed bridges and sunk entire ships. It is a chemical reaction -",
+      "5-12": "a fire burning in slow motion. Iron reacts with oxygen and water and slowly crumbles. Each rust flake is",
+      "12-20": "bigger than the metal it replaced. So it swells, cracks the structure, and exposes fresh metal. Salt water speeds it up dramatically,",
+      "20-30": "which is why ships suffer. A rusted support can look solid but be paper thin inside. By the time you see it, the damage is already deep. Rust"
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 3 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Rust has collapsed bridges and sunk entire ships."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only water, oxygen and salt."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is electrochemical corrosion — and it is why coatings, inspections and cathodic protection."
+      }
+    ],
+    "metin": "Rust has collapsed bridges and sunk entire ships. It took only water, oxygen and salt. So what actually happens inside? The answer is electrochemical corrosion — and it is why coatings, inspections and cathodic protection.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

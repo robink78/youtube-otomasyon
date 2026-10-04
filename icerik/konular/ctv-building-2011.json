@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "One Building Caused Most of an Earthquake's Deaths",
+  "kaynaklar": [
+    {
+      "ad": "ctv-building-1.jpg",
+      "wikimedia": "Japanese urban search and rescue team at the CTV building, Christchurch, 24 February 2011.jpg"
+    },
+    {
+      "ad": "ctv-building-2.jpg",
+      "wikimedia": "Ruins of the Canterbury Television (CTV) building, 24 February 2011.jpg"
+    },
+    {
+      "ad": "ctv-building-3.jpg",
+      "wikimedia": "CTV parking space in back of CTV Building 20100426.jpg"
+    },
+    {
+      "ad": "ctv-building-4.jpg",
+      "wikimedia": "CTV HQ is moved to CTV 2nd Building 20100426.jpg"
+    },
+    {
+      "ad": "ctv-building-5.jpg",
+      "wikimedia": "The left side wall and underground parking space entrance of CTV Building 20100531.jpg"
+    },
+    {
+      "ad": "ctv-building-6.jpg",
+      "wikimedia": "The left side wall and underground parking lot entrance, CTV Building 20100531.jpg"
+    },
+    {
+      "ad": "ctv-building-7.jpg",
+      "wikimedia": "The left side of CTV Building (3).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "When Christchurch was hit by an earthquake, the CTV Building collapsed.",
+      "kaynak": "Footage/ctv-building-1.jpg"
+    },
+    {
+      "metin": "It killed one hundred fifteen people inside, most of the quake's deaths.",
+      "kaynak": "Footage/ctv-building-2.jpg"
+    },
+    {
+      "metin": "It had been designed in the 1980s.",
+      "kaynak": "Footage/ctv-building-3.jpg"
+    },
+    {
+      "metin": "Its concrete frame used an obsolete non-ductile design.",
+      "kaynak": "Footage/ctv-building-4.jpg"
+    },
+    {
+      "metin": "Engineers inspected it after earlier quakes.",
+      "kaynak": "Footage/ctv-building-5.jpg"
+    },
+    {
+      "metin": "It was allowed to stay open.",
+      "kaynak": "Footage/ctv-building-6.jpg"
+    },
+    {
+      "metin": "Its consulting firm's head said it didn't meet his own standards.",
+      "kaynak": "Footage/ctv-building-7.jpg"
+    },
+    {
+      "metin": "A Royal Commission examined how it was approved.",
+      "kaynak": "Footage/ctv-building-1.jpg"
+    }
+  ],
+  "aciklama": "CTV Building collapsed in the Christchurch earthquake. The cause: an obsolete non-ductile concrete design failing under strong shaking.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "CTV Building",
+    "2011",
+    "concrete frame",
+    "engineering failure"
+  ],
+  "hook": "One building. Most of the deaths",
+  "soru": "Who checks the engineers?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the CTV Building",
+    "kisa": "CTV Building",
+    "nesne": "Concrete frame",
+    "yil": 2011,
+    "sonuc": "collapsed in the Christchurch earthquake",
+    "tetik": "the February 2011 earthquake",
+    "mekanizma": "an obsolete non-ductile concrete design failing under strong shaking",
+    "sayi": "115 DIED",
+    "ders": "a Royal Commission examined its design and approval",
+    "zincir": [
+      "NON-DUCTILE DESIGN",
+      "APPROVED ANYWAY",
+      "EARLIER QUAKES",
+      "INSPECTED AND CLEARED",
+      "COLLAPSE"
+    ],
+    "zaman": [],
+    "yanilgi": "The building was inspected after earlier quakes and allowed to stay open.",
+    "tartisma": "Its designer admitted it didn't meet his own standards. Who checks the engineers?",
+    "basliklar": [
+      "One Building Caused Most of an Earthquake's Deaths",
+      "Why the CTV Building Collapsed",
+      "The Building That Held Most of an Earthquake's Deaths"
+    ],
+    "kapak": [
+      "115 DIED",
+      "ONE BUILDING"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — CTV Building",
+        "url": "https://en.wikipedia.org/wiki/CTV_Building"
+      },
+      {
+        "ad": "Government source — Final Report Part Three (cited by Wikipedia)",
+        "url": "http://canterbury.royalcommission.govt.nz/Final-Report---Part-Three"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "CTV_Building",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Japanese urban search and rescue team at the CTV building, Christchurch, 24 February 2011.jpg [CC BY 2.0]",
+      "Ruins of the Canterbury Television (CTV) building, 24 February 2011.jpg [CC BY 2.0]",
+      "CTV parking space in back of CTV Building 20100426.jpg [CC BY 3.0]",
+      "CTV HQ is moved to CTV 2nd Building 20100426.jpg [CC BY 3.0]",
+      "The left side wall and underground parking space entrance of CTV Building 20100531.jpg [CC BY 3.0]",
+      "The left side wall and underground parking lot entrance, CTV Building 20100531.jpg [CC BY 3.0]",
+      "The left side of CTV Building (3).jpg [CC BY 3.0]"
+    ]
+  }
+}

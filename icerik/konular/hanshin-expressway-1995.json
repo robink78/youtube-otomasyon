@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Elevated Expressway That Toppled Onto Its Side",
+  "kaynaklar": [
+    {
+      "ad": "hanshin-expressway-1.jpg",
+      "wikimedia": "Hanshin Expressway Nada b059.jpg"
+    },
+    {
+      "ad": "hanshin-expressway-2.jpg",
+      "wikimedia": "Images from The Great Hanshin-Awaji Earthquake＝c082.jpg"
+    },
+    {
+      "ad": "hanshin-expressway-3.jpg",
+      "wikimedia": "Hukae Honmachi a070.jpg"
+    },
+    {
+      "ad": "hanshin-expressway-4.png",
+      "wikimedia": "兵庫県南部地震 震度7の地域.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The Kobe earthquake struck before dawn.",
+      "kaynak": "Footage/hanshin-expressway-1.jpg"
+    },
+    {
+      "metin": "A long section of elevated expressway toppled onto its side, and thousands died across the region.",
+      "kaynak": "Footage/hanshin-expressway-2.jpg"
+    },
+    {
+      "metin": "The expressway stood on single concrete columns.",
+      "kaynak": "Footage/hanshin-expressway-3.jpg"
+    },
+    {
+      "metin": "They had too little steel wrapping to hold the concrete together.",
+      "kaynak": "Footage/hanshin-expressway-4.png"
+    },
+    {
+      "metin": "Under strong shaking, the columns cracked and failed.",
+      "kaynak": "Footage/hanshin-expressway-1.jpg"
+    },
+    {
+      "metin": "The deck tipped over as one piece.",
+      "kaynak": "Footage/hanshin-expressway-2.jpg"
+    },
+    {
+      "metin": "The standards were decades old.",
+      "kaynak": "Footage/hanshin-expressway-3.jpg"
+    },
+    {
+      "metin": "Japan then retrofitted piers and revised its seismic design rules.",
+      "kaynak": "Footage/hanshin-expressway-4.png"
+    }
+  ],
+  "aciklama": "Hanshin Expressway toppled over during the Kobe earthquake. The cause: shear and flexural failure of single reinforced concrete piers with inadequate confinement.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Hanshin Expressway",
+    "1995",
+    "elevated expressway",
+    "engineering failure"
+  ],
+  "hook": "It fell on its side",
+  "soru": "How old is your code?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Hanshin Expressway",
+    "kisa": "Hanshin Expressway",
+    "nesne": "Elevated expressway",
+    "yil": 1995,
+    "sonuc": "toppled over during the Kobe earthquake",
+    "tetik": "strong shaking on single-column piers",
+    "mekanizma": "shear and flexural failure of single reinforced concrete piers with inadequate confinement",
+    "sayi": "TOPPLED",
+    "ders": "Japan retrofitted bridge piers and revised seismic design standards",
+    "zincir": [
+      "SINGLE-COLUMN PIERS",
+      "TOO LITTLE CONFINING STEEL",
+      "STRONG SHAKING",
+      "PIERS FAIL",
+      "EXPRESSWAY TOPPLES"
+    ],
+    "zaman": [],
+    "yanilgi": "The expressway didn't sink. Its piers failed, and a long section tipped over sideways.",
+    "tartisma": "Japan had some of the world's strictest codes. What does an earthquake reveal about old standards?",
+    "basliklar": [
+      "The Elevated Expressway That Toppled Onto Its Side",
+      "Why the Hanshin Expressway Toppled",
+      "The Piers That Failed in the Kobe Earthquake"
+    ],
+    "kapak": [
+      "TOPPLED",
+      "SINGLE COLUMNS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Great Hanshin earthquake",
+        "url": "https://en.wikipedia.org/wiki/Great_Hanshin_earthquake"
+      },
+      {
+        "ad": "Japan Transport Safety Board / MLIT — topics hanshin2 (cited by Wikipedia)",
+        "url": "http://www.kkr.mlit.go.jp/en/topics_hanshin2.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-10",
+    "wiki": "Great_Hanshin_earthquake",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Hanshin Expressway Nada b059.jpg [CC BY 2.1 jp]",
+      "Images from The Great Hanshin-Awaji Earthquake＝c082.jpg [CC BY 2.1 jp]",
+      "Hukae Honmachi a070.jpg [CC BY 2.1 jp]",
+      "兵庫県南部地震 震度7の地域.png [CC BY 4.0]"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": -5,
+  "baslik": "How a Hurricane Tears a House Apart",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "Wind that peels off roofs",
+  "soru": "Been in one?",
+  "arama_yedek": "hurricane storm",
+  "aciklama": "A hurricane does not just push on a house - it lifts it apart. Here is the physics of the destruction.\n\n#shorts #science #hurricane #nature #weather",
+  "etiketler": [
+    "hurricane",
+    "storm",
+    "wind",
+    "nature",
+    "weather"
+  ],
+  "sahneler": [
+    {
+      "metin": "Hurricanes destroy houses by pulling them apart, not pushing.",
+      "arama": "hurricane damage house"
+    },
+    {
+      "metin": "Roofs rip off in seconds, and whole homes come apart.",
+      "arama": "storm damage"
+    },
+    {
+      "metin": "But why does the roof go first?",
+      "arama": "stormy sky wind"
+    },
+    {
+      "metin": "Fast wind over a roof creates low pressure above it.",
+      "arama": "house storm"
+    },
+    {
+      "metin": "That suction lifts the roof like an airplane wing.",
+      "arama": "hurricane wind"
+    },
+    {
+      "metin": "Once the wind gets inside, it pushes the walls out.",
+      "arama": "storm debris wind"
+    },
+    {
+      "metin": "Flying debris becomes missiles, then the storm surge floods the rest.",
+      "arama": "storm surge flood"
+    },
+    {
+      "metin": "One weak roof strap can doom a whole home.",
+      "arama": "roof construction"
+    }
+  ],
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "mekanizma",
+    "ad": "Hurricanes",
+    "nesne": "House",
+    "sonuc": "tear houses apart",
+    "tetik": "fast wind over the roof",
+    "mekanizma": "wind uplift on the roof",
+    "sayi": "ONE WEAK STRAP",
+    "ders": "houses tied together from roof to foundation survive",
+    "zincir": [
+      "FAST WIND OVER ROOF",
+      "LOW PRESSURE ABOVE",
+      "ROOF UPLIFT",
+      "ROOF TEARS OFF",
+      "WALLS LOSE BRACING"
+    ],
+    "yanilgi": "Houses in hurricanes don't mainly get 'blown over' — they get lifted apart, starting with the roof.",
+    "tartisma": "Should hurricane ties be required on every new roof in storm zones?",
+    "basliklar": [
+      "How Wind Lifts a Roof Like a Wing",
+      "Why Hurricanes Pull Houses Apart",
+      "The Metal Strap That Saves a House"
+    ],
+    "kapak": [
+      "ROOF LIFT",
+      "ONE WEAK STRAP"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hurricane tie",
+        "url": "https://en.wikipedia.org/wiki/Hurricane_tie"
+      }
+    ]
+  }
+}

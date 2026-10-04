@@ -1,0 +1,20 @@
+{
+  "name": "ImpossibleBrief",
+  "tagline": "Impossible questions. Scientific answers.",
+  "profileIdentity": "IB",
+  "theme": ["cinematic science", "space", "physics", "future", "dark cosmic", "clean", "modern", "premium", "high contrast"],
+  "colors": {
+    "background": "#030712",
+    "navy": "#081629",
+    "primary": "#25d9ff",
+    "secondary": "#b9eaff",
+    "text": "#ffffff",
+    "warmHighlight": "#ffb45a"
+  },
+  "visualRules": {
+    "priority": ["official scientific media", "scientific diagrams", "public-domain astronomy", "procedural simulations", "labelled AI illustration", "relevant stock"],
+    "aiIllustrationLabel": "ILLUSTRATION",
+    "thumbnail": "one impossible visual, one clear subject, high contrast, minimal text"
+  },
+  "avoid": ["childish science graphics", "generic AI neon overload", "cheap sci-fi look", "unlabelled illustrative evidence", "clutter"]
+}

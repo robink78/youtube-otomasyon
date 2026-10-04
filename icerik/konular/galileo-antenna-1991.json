@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Jupiter Probe Whose Main Antenna Never Opened",
+  "kaynaklar": [
+    {
+      "ad": "galileo-antenna-1.jpg",
+      "wikimedia": "Galileo during IUS burn.jpg"
+    },
+    {
+      "ad": "galileo-antenna-2.jpg",
+      "wikimedia": "Galileo Heavy Ion Counter.jpg"
+    },
+    {
+      "ad": "galileo-antenna-3.jpg",
+      "wikimedia": "Maat Mons on Venus.jpg"
+    },
+    {
+      "ad": "galileo-antenna-4.jpg",
+      "wikimedia": "Artwork Galileo-Io-Jupiter.JPG"
+    },
+    {
+      "ad": "galileo-antenna-5.jpg",
+      "wikimedia": "Descent Module.jpeg"
+    },
+    {
+      "ad": "galileo-antenna-6.jpg",
+      "wikimedia": "Galileo Preparations - GPN-2000-000672.jpg"
+    },
+    {
+      "ad": "galileo-antenna-7.jpg",
+      "wikimedia": "Galileo propulsion module.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On its way to Jupiter, the Galileo probe tried to open its main antenna.",
+      "kaynak": "Footage/galileo-antenna-1.jpg"
+    },
+    {
+      "metin": "Suddenly it stuck partway open, crippling the data link.",
+      "kaynak": "Footage/galileo-antenna-2.jpg"
+    },
+    {
+      "metin": "The launch had been delayed for years.",
+      "kaynak": "Footage/galileo-antenna-3.jpg"
+    },
+    {
+      "metin": "The antenna was stored and shipped across the country.",
+      "kaynak": "Footage/galileo-antenna-4.jpg"
+    },
+    {
+      "metin": "Lubricant on some rib pins was lost.",
+      "kaynak": "Footage/galileo-antenna-5.jpg"
+    },
+    {
+      "metin": "When commanded to unfurl, those ribs stuck.",
+      "kaynak": "Footage/galileo-antenna-6.jpg"
+    },
+    {
+      "metin": "Engineers rewrote software to send compressed data through a tiny antenna.",
+      "kaynak": "Footage/galileo-antenna-7.jpg"
+    },
+    {
+      "metin": "The mission still returned groundbreaking science.",
+      "kaynak": "Footage/galileo-antenna-1.jpg"
+    }
+  ],
+  "aciklama": "Galileo antenna could not open its main antenna. The cause: loss of lubricant on antenna rib pins, leaving several ribs stuck when it tried to unfurl.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Galileo antenna",
+    "1991",
+    "high-gain antenna",
+    "engineering failure"
+  ],
+  "hook": "It never opened",
+  "soru": "Do delays create risk?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the Galileo probe",
+    "kisa": "Galileo antenna",
+    "nesne": "High-gain antenna",
+    "yil": 1991,
+    "sonuc": "could not open its main antenna",
+    "tetik": "ribs stuck after years of storage and transport",
+    "mekanizma": "loss of lubricant on antenna rib pins, leaving several ribs stuck when it tried to unfurl",
+    "sayi": "STUCK RIBS",
+    "ders": "the mission was saved by data compression through the small antenna",
+    "zincir": [
+      "LAUNCH DELAYED FOR YEARS",
+      "ANTENNA TRUCKED ACROSS COUNTRY",
+      "LUBRICANT LOST ON PINS",
+      "RIBS STICK",
+      "ANTENNA HALF-OPEN"
+    ],
+    "zaman": [],
+    "yanilgi": "The mission wasn't lost. Engineers rewrote software to squeeze science through a tiny backup antenna.",
+    "tartisma": "The delay after Challenger changed how the probe was handled. How do delays create new risks?",
+    "basliklar": [
+      "The Jupiter Probe Whose Main Antenna Never Opened",
+      "Why Galileo's Antenna Never Opened",
+      "How Engineers Saved a Mission With a Tiny Antenna"
+    ],
+    "kapak": [
+      "STUCK",
+      "SAVED BY SOFTWARE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Galileo (spacecraft)",
+        "url": "https://en.wikipedia.org/wiki/Galileo_(spacecraft)"
+      },
+      {
+        "ad": "NASA — 109T (cited by Wikipedia)",
+        "url": "http://ipnpr.jpl.nasa.gov/progress_report/42-109/109T.PDF"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "Galileo_(spacecraft)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Galileo during IUS burn.jpg [Public domain]",
+      "Galileo Heavy Ion Counter.jpg [Public domain]",
+      "Maat Mons on Venus.jpg [Public domain]",
+      "Artwork Galileo-Io-Jupiter.JPG [Public domain]",
+      "Descent Module.jpeg [Public domain]",
+      "Galileo Preparations - GPN-2000-000672.jpg [Public domain]",
+      "Galileo propulsion module.jpg [Public domain]"
+    ]
+  }
+}

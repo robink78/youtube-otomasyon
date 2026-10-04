@@ -1,0 +1,25 @@
+{
+  "channel": "behind-the-ordinary",
+  "topicId": "BTO-016",
+  "slug": "why-jeans-have-a-tiny-pocket",
+  "passed": true,
+  "failed": [],
+  "checks": {
+    "script": true,
+    "science": true,
+    "sources": true,
+    "hook": true,
+    "timing": true,
+    "audio": true,
+    "captions": true,
+    "visuals": true,
+    "video": true,
+    "titles": true,
+    "thumbnail": true,
+    "description": true,
+    "qualityGate": true,
+    "metadata": true,
+    "growthReadiness": true
+  },
+  "reasons": {}
+}

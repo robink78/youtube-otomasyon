@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Earthquake That Exposed Soviet Construction",
+  "kaynaklar": [
+    {
+      "ad": "spitak-earthquake-1.jpg",
+      "wikimedia": "The Soviet Union 1988 CPA 6030-6032-label block of 4 (Armenian Earthquake Relief. Armenian History) 1200dpi.jpg"
+    },
+    {
+      "ad": "spitak-earthquake-2.png",
+      "wikimedia": "The Soviet Union 1988 CPA 6030-6032-label block of 4 (Armenian Earthquake Relief. Armenian History) 1200dpi.png"
+    },
+    {
+      "ad": "spitak-earthquake-3.jpg",
+      "wikimedia": "Gyumri church aerial 1988.jpg"
+    },
+    {
+      "ad": "spitak-earthquake-4.jpg",
+      "wikimedia": "Gyumri ruins 1988.jpg"
+    },
+    {
+      "ad": "spitak-earthquake-5.jpg",
+      "wikimedia": "20.000 Pelze für Armenien, 1988 (1).jpg"
+    },
+    {
+      "ad": "spitak-earthquake-6.jpg",
+      "wikimedia": "20.000 Pelze für Armenien, 1988 (2).jpg"
+    },
+    {
+      "ad": "spitak-earthquake-7.jpg",
+      "wikimedia": "Gyumri church 1988.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A strong earthquake struck northern Armenia near Spitak.",
+      "kaynak": "Footage/spitak-earthquake-1.jpg"
+    },
+    {
+      "metin": "Within seconds, apartment blocks collapsed, killing at least twenty five thousand people.",
+      "kaynak": "Footage/spitak-earthquake-2.png"
+    },
+    {
+      "metin": "Spitak, Leninakan and Kirovakan were devastated.",
+      "kaynak": "Footage/spitak-earthquake-3.jpg"
+    },
+    {
+      "metin": "Many buildings pancaked without survival space.",
+      "kaynak": "Footage/spitak-earthquake-4.jpg"
+    },
+    {
+      "metin": "Well-built buildings survived.",
+      "kaynak": "Footage/spitak-earthquake-5.jpg"
+    },
+    {
+      "metin": "Hospitals collapsed and many doctors died.",
+      "kaynak": "Footage/spitak-earthquake-6.jpg"
+    },
+    {
+      "metin": "Soviet media began discussing substandard construction.",
+      "kaynak": "Footage/spitak-earthquake-7.jpg"
+    },
+    {
+      "metin": "It exposed how buildings had been built.",
+      "kaynak": "Footage/spitak-earthquake-1.jpg"
+    }
+  ],
+  "aciklama": "Spitak destroyed cities across northern Armenia. The cause: poorly built apartment blocks collapsing without survival space.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Spitak",
+    "1988",
+    "apartment blocks",
+    "engineering failure"
+  ],
+  "hook": "The buildings fell flat",
+  "soru": "What if rescuers are victims?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the Armenian earthquake",
+    "kisa": "Spitak",
+    "nesne": "Apartment blocks",
+    "yil": 1988,
+    "sonuc": "destroyed cities across northern Armenia",
+    "tetik": "a strong earthquake near Spitak",
+    "mekanizma": "poorly built apartment blocks collapsing without survival space",
+    "sayi": "25,000+ DEAD",
+    "ders": "the disaster exposed substandard Soviet building practices",
+    "zincir": [
+      "POOR CONSTRUCTION",
+      "EARTHQUAKE",
+      "BLOCKS COLLAPSE",
+      "HOSPITALS DESTROYED",
+      "RESCUE OVERWHELMED"
+    ],
+    "zaman": [],
+    "yanilgi": "Well-built buildings survived. Poorly built ones collapsed completely.",
+    "tartisma": "Hospitals collapsed and doctors died. How do you plan for the rescuers being victims?",
+    "basliklar": [
+      "The Earthquake That Exposed Soviet Construction",
+      "Why the 1988 Armenian Earthquake Was So Deadly",
+      "The Buildings That Collapsed in Spitak"
+    ],
+    "kapak": [
+      "COLLAPSED",
+      "SPITAK"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1988 Armenian earthquake",
+        "url": "https://en.wikipedia.org/wiki/1988_Armenian_earthquake"
+      },
+      {
+        "ad": "Government source — 9279613 (cited by Wikipedia)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9279613"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-22",
+    "wiki": "1988_Armenian_earthquake",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "The Soviet Union 1988 CPA 6030-6032-label block of 4 (Armenian Earthquake Relief. Armenian History) 1200dpi.jpg [Public domain]",
+      "The Soviet Union 1988 CPA 6030-6032-label block of 4 (Armenian Earthquake Relief. Armenian History) 1200dpi.png [Public domain]",
+      "Gyumri church aerial 1988.jpg [Public domain]",
+      "Gyumri ruins 1988.jpg [Public domain]",
+      "20.000 Pelze für Armenien, 1988 (1).jpg [CC BY 3.0]",
+      "20.000 Pelze für Armenien, 1988 (2).jpg [CC BY 3.0]",
+      "Gyumri church 1988.jpg [Public domain]"
+    ]
+  }
+}

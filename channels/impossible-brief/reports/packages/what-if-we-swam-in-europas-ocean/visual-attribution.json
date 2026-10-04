@@ -1,0 +1,96 @@
+{
+  "count": 4,
+  "stills": [
+    {
+      "file": "Photo composite of suspected water plumes on Europa.jpg",
+      "cachedFile": "bd024eeedda6.jpg",
+      "width": 1280,
+      "height": 1280,
+      "licence": "CC BY 4.0",
+      "author": "NASA, ESA, W. Sparks (STScI), and the USGS Astrogeology Science Center",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photo_composite_of_suspected_water_plumes_on_Europa.jpg",
+      "description": "This composite image shows suspected plumes of water vapor erupting at the 7 o'clock position off the limb of Jupiter's moon Europa. The plumes, photographed by Hubble’s Imaging Spectrograph, were seen in silhouette as the moon passed in front of Jupiter. Hubble's ultraviolet sensitivity allowed for the features, rising over 160 kilometres above Europa's icy surface, to be discerned. The water is believed to come from a subsurface ocean on Europa. The Hubble data were taken on January 26, 2014. The image of Europa, superimposed on the Hubble data, is assembled from data from the Galileo and Vo",
+      "origin": "wikipedia-article",
+      "score": 17
+    },
+    {
+      "file": "Plate Tectonics on Europa.jpg",
+      "cachedFile": "ff4265672990.jpg",
+      "width": 4519,
+      "height": 2810,
+      "licence": "Public domain",
+      "author": "NASA/Noah Kroese, I.NK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plate_Tectonics_on_Europa.jpg",
+      "description": "Scientists have found evidence of plate tectonics on Jupiter's moon Europa. This conceptual illustration of the subduction process (where one plate is forced under another) shows how a cold, brittle, outer portion of Europa's 20-30 kilometer-thick (roughly 10-20 mile) ice shell moved into the warmer shell interior and was ultimately subsumed. A low-relief subsumption band was created at the surface in the overriding plate, alongside which cryolavas may have erupted.",
+      "origin": "wikipedia-article",
+      "score": 15
+    },
+    {
+      "file": "Europa, Earth & Moon size comparison.jpg",
+      "cachedFile": "71cc6c152905.jpg",
+      "width": 3000,
+      "height": 2026,
+      "licence": "Public domain",
+      "author": " Apollo 17 Picture of the Whole Earth: NASA Telescopic Image of the Full Moon: Gregory H. Revera Image of Europa: NASA/JPL",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Europa,_Earth_%26_Moon_size_comparison.jpg",
+      "description": "Diameter comparison of Europa, Moon, and Earth. Scale: Approximately 29km per pixel.",
+      "origin": "wikipedia-article",
+      "score": 15
+    },
+    {
+      "file": "Europa PIA2387x - Chaos Transition, Crisscrossing Bands & Chaos Near Agenor Linea.jpg",
+      "cachedFile": "58bc6112fb18.jpg",
+      "width": 2612,
+      "height": 2612,
+      "licence": "Public domain",
+      "author": "NASA / JPL-Caltech / SETI Institute (Mario Valenti)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Europa_PIA2387x_-_Chaos_Transition,_Crisscrossing_Bands_%26_Chaos_Near_Agenor_Linea.jpg",
+      "description": " Uploader's notes: The NASA-published closeup images have been converted from TIFF to JPEG format, the globe/location key has been cropped and enlarged, and the images combined by the uploader. Synopsis of original captions released with images: The surface of Jupiter's moon Europa features a widely varied landscape, including ridges, bands , small rounded domes and disrupted spaces that geologists called \" chaos terrain .\" These newly reprocessed images were taken by NASA's Galileo spacecraft on Sept. 26, 1998, and reveal details of diverse surface features on Europa. All three images were ca",
+      "origin": "wikipedia-article",
+      "score": 13
+    }
+  ],
+  "clips": [
+    {
+      "id": "nasa-2022-H1_V_EuropaClipper-4",
+      "file": "NASA 2022-H1_V_EuropaClipper-4 - 2022-H1_V_EuropaClipper-4",
+      "cachedFile": "nasa-video-2022-H1-V-EuropaClipper-4.mp4",
+      "duration": 199.381,
+      "width": 1280,
+      "height": 720,
+      "landscape": true,
+      "licence": "Public domain (NASA media usage guidelines)",
+      "author": "Gary Banziger",
+      "sourceUrl": "https://images.nasa.gov/details/2022-H1_V_EuropaClipper-4",
+      "origin": "nasa-video",
+      "score": 2
+    },
+    {
+      "id": 27697870,
+      "file": "Pexels video 27697870",
+      "cachedFile": "pexels-27697870.mp4",
+      "duration": 32,
+      "width": 1080,
+      "height": 1920,
+      "licence": "Pexels License",
+      "author": "Çağrı KANMAZ",
+      "sourceUrl": "https://www.pexels.com/video/ocean-waves-and-currents-27697870/",
+      "origin": "pexels",
+      "score": 3
+    },
+    {
+      "id": 29208640,
+      "file": "Pexels video 29208640",
+      "cachedFile": "pexels-29208640.mp4",
+      "duration": 27,
+      "width": 1080,
+      "height": 1920,
+      "licence": "Pexels License",
+      "author": "Karen Bosch Yachts",
+      "sourceUrl": "https://www.pexels.com/video/dolphins-leaping-in-open-ocean-at-sunset-29208640/",
+      "origin": "pexels",
+      "score": 3
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,652 @@
+{
+  "videoId": "PGOKZhPYo7c",
+  "baslik": "The Disaster That Ended the Age of the Airship",
+  "yayin": "2026-09-22",
+  "yasGun": 7,
+  "sureSn": 38,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 1033,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 33,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 4,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": 203,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewDuration": {
+      "deger": 28,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewPercentage": {
+      "deger": 75.19,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "subscribersGained": {
+      "deger": 2,
+      "durum": "ok",
+      "kaynak": "Analytics API (net)"
+    },
+    "shares": {
+      "deger": 1,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "first30sRetention": {
+      "deger": 0.6175,
+      "durum": "ok",
+      "kaynak": "Analytics API (retention at 79% of video)"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": 1.9,
+      "durum": "ok",
+      "kaynak": "derived"
+    },
+    "likeRate": {
+      "deger": 3.2,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 0.39,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": [
+    {
+      "kaynak": "SHORTS",
+      "ad": "Shorts feed",
+      "views": 905,
+      "oran": 0.8829268292682927
+    },
+    {
+      "kaynak": "YT_SEARCH",
+      "ad": "Search",
+      "views": 97,
+      "oran": 0.09463414634146342
+    },
+    {
+      "kaynak": "YT_OTHER_PAGE",
+      "ad": "Browse/other YouTube",
+      "views": 12,
+      "oran": 0.011707317073170732
+    },
+    {
+      "kaynak": "YT_CHANNEL",
+      "ad": "Channel page",
+      "views": 8,
+      "oran": 0.007804878048780488
+    },
+    {
+      "kaynak": "EXT_URL",
+      "ad": "External",
+      "views": 2,
+      "oran": 0.001951219512195122
+    },
+    {
+      "kaynak": "SUBSCRIBER",
+      "ad": "Browse (subscribers)",
+      "views": 1,
+      "oran": 0.000975609756097561
+    },
+    {
+      "kaynak": "NO_LINK_OTHER",
+      "ad": "Direct/unknown",
+      "views": 0,
+      "oran": 0
+    }
+  ],
+  "tutma": [
+    {
+      "oran": 0.01,
+      "izleme": 1.3725,
+      "goreceli": 0.6612
+    },
+    {
+      "oran": 0.02,
+      "izleme": 1.3475,
+      "goreceli": 0.64385
+    },
+    {
+      "oran": 0.03,
+      "izleme": 1.315,
+      "goreceli": 0.62725
+    },
+    {
+      "oran": 0.04,
+      "izleme": 1.285,
+      "goreceli": 0.6127
+    },
+    {
+      "oran": 0.05,
+      "izleme": 1.25,
+      "goreceli": 0.6011
+    },
+    {
+      "oran": 0.06,
+      "izleme": 1.2425,
+      "goreceli": 0.59265
+    },
+    {
+      "oran": 0.07,
+      "izleme": 1.23,
+      "goreceli": 0.587
+    },
+    {
+      "oran": 0.08,
+      "izleme": 1.2225,
+      "goreceli": 0.58365
+    },
+    {
+      "oran": 0.09,
+      "izleme": 1.2125,
+      "goreceli": 0.58185
+    },
+    {
+      "oran": 0.1,
+      "izleme": 1.21,
+      "goreceli": 0.5810500000000001
+    },
+    {
+      "oran": 0.11,
+      "izleme": 1.2125,
+      "goreceli": 0.58085
+    },
+    {
+      "oran": 0.12,
+      "izleme": 1.1825,
+      "goreceli": 0.581
+    },
+    {
+      "oran": 0.13,
+      "izleme": 1.135,
+      "goreceli": 0.58135
+    },
+    {
+      "oran": 0.14,
+      "izleme": 1.0675,
+      "goreceli": 0.58185
+    },
+    {
+      "oran": 0.15,
+      "izleme": 1.01,
+      "goreceli": 0.58245
+    },
+    {
+      "oran": 0.16,
+      "izleme": 0.9775,
+      "goreceli": 0.5831999999999999
+    },
+    {
+      "oran": 0.17,
+      "izleme": 0.9475,
+      "goreceli": 0.584
+    },
+    {
+      "oran": 0.18,
+      "izleme": 0.915,
+      "goreceli": 0.58495
+    },
+    {
+      "oran": 0.19,
+      "izleme": 0.895,
+      "goreceli": 0.58595
+    },
+    {
+      "oran": 0.2,
+      "izleme": 0.8725,
+      "goreceli": 0.5871
+    },
+    {
+      "oran": 0.21,
+      "izleme": 0.8525,
+      "goreceli": 0.58835
+    },
+    {
+      "oran": 0.22,
+      "izleme": 0.8375,
+      "goreceli": 0.5897
+    },
+    {
+      "oran": 0.23,
+      "izleme": 0.8225,
+      "goreceli": 0.5912
+    },
+    {
+      "oran": 0.24,
+      "izleme": 0.815,
+      "goreceli": 0.59285
+    },
+    {
+      "oran": 0.25,
+      "izleme": 0.7975,
+      "goreceli": 0.5947
+    },
+    {
+      "oran": 0.26,
+      "izleme": 0.7825,
+      "goreceli": 0.5967
+    },
+    {
+      "oran": 0.27,
+      "izleme": 0.78,
+      "goreceli": 0.5989
+    },
+    {
+      "oran": 0.28,
+      "izleme": 0.78,
+      "goreceli": 0.6013
+    },
+    {
+      "oran": 0.29,
+      "izleme": 0.775,
+      "goreceli": 0.60395
+    },
+    {
+      "oran": 0.3,
+      "izleme": 0.7725,
+      "goreceli": 0.6068
+    },
+    {
+      "oran": 0.31,
+      "izleme": 0.7675,
+      "goreceli": 0.6099
+    },
+    {
+      "oran": 0.32,
+      "izleme": 0.7625,
+      "goreceli": 0.6132
+    },
+    {
+      "oran": 0.33,
+      "izleme": 0.7575,
+      "goreceli": 0.61675
+    },
+    {
+      "oran": 0.34,
+      "izleme": 0.7525,
+      "goreceli": 0.6205
+    },
+    {
+      "oran": 0.35,
+      "izleme": 0.75,
+      "goreceli": 0.6245
+    },
+    {
+      "oran": 0.36,
+      "izleme": 0.7475,
+      "goreceli": 0.6287
+    },
+    {
+      "oran": 0.37,
+      "izleme": 0.745,
+      "goreceli": 0.6332
+    },
+    {
+      "oran": 0.38,
+      "izleme": 0.7425,
+      "goreceli": 0.63795
+    },
+    {
+      "oran": 0.39,
+      "izleme": 0.74,
+      "goreceli": 0.64295
+    },
+    {
+      "oran": 0.4,
+      "izleme": 0.735,
+      "goreceli": 0.6483
+    },
+    {
+      "oran": 0.41,
+      "izleme": 0.73,
+      "goreceli": 0.65395
+    },
+    {
+      "oran": 0.42,
+      "izleme": 0.73,
+      "goreceli": 0.65995
+    },
+    {
+      "oran": 0.43,
+      "izleme": 0.725,
+      "goreceli": 0.66635
+    },
+    {
+      "oran": 0.44,
+      "izleme": 0.725,
+      "goreceli": 0.67315
+    },
+    {
+      "oran": 0.45,
+      "izleme": 0.72,
+      "goreceli": 0.6804
+    },
+    {
+      "oran": 0.46,
+      "izleme": 0.72,
+      "goreceli": 0.6880999999999999
+    },
+    {
+      "oran": 0.47,
+      "izleme": 0.7225,
+      "goreceli": 0.69635
+    },
+    {
+      "oran": 0.48,
+      "izleme": 0.72,
+      "goreceli": 0.7051000000000001
+    },
+    {
+      "oran": 0.49,
+      "izleme": 0.72,
+      "goreceli": 0.71445
+    },
+    {
+      "oran": 0.5,
+      "izleme": 0.715,
+      "goreceli": 0.7244
+    },
+    {
+      "oran": 0.51,
+      "izleme": 0.7075,
+      "goreceli": 0.7349
+    },
+    {
+      "oran": 0.52,
+      "izleme": 0.705,
+      "goreceli": 0.74595
+    },
+    {
+      "oran": 0.53,
+      "izleme": 0.6925,
+      "goreceli": 0.7575000000000001
+    },
+    {
+      "oran": 0.54,
+      "izleme": 0.6925,
+      "goreceli": 0.76955
+    },
+    {
+      "oran": 0.55,
+      "izleme": 0.685,
+      "goreceli": 0.7819
+    },
+    {
+      "oran": 0.56,
+      "izleme": 0.6775,
+      "goreceli": 0.79445
+    },
+    {
+      "oran": 0.57,
+      "izleme": 0.6725,
+      "goreceli": 0.80705
+    },
+    {
+      "oran": 0.58,
+      "izleme": 0.6725,
+      "goreceli": 0.81955
+    },
+    {
+      "oran": 0.59,
+      "izleme": 0.6725,
+      "goreceli": 0.8317
+    },
+    {
+      "oran": 0.6,
+      "izleme": 0.67,
+      "goreceli": 0.8432
+    },
+    {
+      "oran": 0.61,
+      "izleme": 0.6675,
+      "goreceli": 0.85395
+    },
+    {
+      "oran": 0.62,
+      "izleme": 0.665,
+      "goreceli": 0.86365
+    },
+    {
+      "oran": 0.63,
+      "izleme": 0.665,
+      "goreceli": 0.87215
+    },
+    {
+      "oran": 0.64,
+      "izleme": 0.6625,
+      "goreceli": 0.8795
+    },
+    {
+      "oran": 0.65,
+      "izleme": 0.6625,
+      "goreceli": 0.8855999999999999
+    },
+    {
+      "oran": 0.66,
+      "izleme": 0.66,
+      "goreceli": 0.89055
+    },
+    {
+      "oran": 0.67,
+      "izleme": 0.655,
+      "goreceli": 0.89445
+    },
+    {
+      "oran": 0.68,
+      "izleme": 0.655,
+      "goreceli": 0.89745
+    },
+    {
+      "oran": 0.69,
+      "izleme": 0.6525,
+      "goreceli": 0.8996999999999999
+    },
+    {
+      "oran": 0.7,
+      "izleme": 0.6425,
+      "goreceli": 0.90135
+    },
+    {
+      "oran": 0.71,
+      "izleme": 0.64,
+      "goreceli": 0.90255
+    },
+    {
+      "oran": 0.72,
+      "izleme": 0.6375,
+      "goreceli": 0.90335
+    },
+    {
+      "oran": 0.73,
+      "izleme": 0.635,
+      "goreceli": 0.9038999999999999
+    },
+    {
+      "oran": 0.74,
+      "izleme": 0.6325,
+      "goreceli": 0.9042
+    },
+    {
+      "oran": 0.75,
+      "izleme": 0.6325,
+      "goreceli": 0.90435
+    },
+    {
+      "oran": 0.76,
+      "izleme": 0.625,
+      "goreceli": 0.90435
+    },
+    {
+      "oran": 0.77,
+      "izleme": 0.6225,
+      "goreceli": 0.9042
+    },
+    {
+      "oran": 0.78,
+      "izleme": 0.62,
+      "goreceli": 0.90395
+    },
+    {
+      "oran": 0.79,
+      "izleme": 0.6175,
+      "goreceli": 0.9036
+    },
+    {
+      "oran": 0.8,
+      "izleme": 0.615,
+      "goreceli": 0.9031499999999999
+    },
+    {
+      "oran": 0.81,
+      "izleme": 0.615,
+      "goreceli": 0.9026
+    },
+    {
+      "oran": 0.82,
+      "izleme": 0.6125,
+      "goreceli": 0.902
+    },
+    {
+      "oran": 0.83,
+      "izleme": 0.6125,
+      "goreceli": 0.90135
+    },
+    {
+      "oran": 0.84,
+      "izleme": 0.605,
+      "goreceli": 0.9006000000000001
+    },
+    {
+      "oran": 0.85,
+      "izleme": 0.6025,
+      "goreceli": 0.89985
+    },
+    {
+      "oran": 0.86,
+      "izleme": 0.5975,
+      "goreceli": 0.899
+    },
+    {
+      "oran": 0.87,
+      "izleme": 0.595,
+      "goreceli": 0.89815
+    },
+    {
+      "oran": 0.88,
+      "izleme": 0.595,
+      "goreceli": 0.89725
+    },
+    {
+      "oran": 0.89,
+      "izleme": 0.5925,
+      "goreceli": 0.8963000000000001
+    },
+    {
+      "oran": 0.9,
+      "izleme": 0.59,
+      "goreceli": 0.8953
+    },
+    {
+      "oran": 0.91,
+      "izleme": 0.5825,
+      "goreceli": 0.89425
+    },
+    {
+      "oran": 0.92,
+      "izleme": 0.5775,
+      "goreceli": 0.89315
+    },
+    {
+      "oran": 0.93,
+      "izleme": 0.5725,
+      "goreceli": 0.89205
+    },
+    {
+      "oran": 0.94,
+      "izleme": 0.5625,
+      "goreceli": 0.8909
+    },
+    {
+      "oran": 0.95,
+      "izleme": 0.55,
+      "goreceli": 0.8896999999999999
+    },
+    {
+      "oran": 0.96,
+      "izleme": 0.5325,
+      "goreceli": 0.88855
+    },
+    {
+      "oran": 0.97,
+      "izleme": 0.49,
+      "goreceli": 0.88745
+    },
+    {
+      "oran": 0.98,
+      "izleme": 0.4575,
+      "goreceli": 0.8864000000000001
+    },
+    {
+      "oran": 0.99,
+      "izleme": 0.4425,
+      "goreceli": 0.8855
+    },
+    {
+      "oran": 1,
+      "izleme": 0.4425,
+      "goreceli": 0.8847
+    }
+  ],
+  "analitikDurumu": "ok",
+  "toplandi": "2026-09-29T20:58:58.239Z",
+  "checkpoint": "7d",
+  "teshis": [
+    {
+      "kod": "WEAK_TOPIC_PACKAGING",
+      "guven": "low",
+      "aciklama": "Current title scores 42.8/100 in the title engine; best editorial option scores 54.8.",
+      "oneri": "Heuristic only — test the stronger title as a logged experiment rather than switching silently."
+    }
+  ],
+  "retentionDrop": {
+    "second": 6,
+    "magnitude": 0.1725000000000001,
+    "sceneIndex": 1,
+    "sentence": "May sixth, 1937. The German zeppelin Hindenburg arrives over New Jersey.",
+    "visualType": "REAL ARCHIVAL/LICENCED FOOTAGE"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "A Decades-Old Engine Exploded Seconds After Launch",
+  "kaynaklar": [
+    {
+      "ad": "antares-orb-3-1.jpg",
+      "wikimedia": "Antares Orb-3 launch failure (201410280009HQ).jpg"
+    },
+    {
+      "ad": "antares-orb-3-2.jpg",
+      "wikimedia": "Antares Orb-3 launch failure (201410280011HQ).jpg"
+    },
+    {
+      "ad": "antares-orb-3-3.jpg",
+      "wikimedia": "Orbital ATK Antares Launch (201410280025HQ).jpg"
+    },
+    {
+      "ad": "antares-orb-3-4.jpg",
+      "wikimedia": "Orbital ATK Antares Launch (201410280026HQ).jpg"
+    },
+    {
+      "ad": "antares-orb-3-5.jpg",
+      "wikimedia": "Orbital Sciences Antares Launch (201410280010HQ).jpg"
+    },
+    {
+      "ad": "antares-orb-3-6.jpg",
+      "wikimedia": "Aftermath of Antares Orb-3 explosion at Pad 0A (20141029a).jpg"
+    },
+    {
+      "ad": "antares-orb-3-7.jpg",
+      "wikimedia": "Aftermath of Antares Orb-3 explosion at Pad 0A (20141029b).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Seconds after lift-off, a cargo rocket exploded over Virginia.",
+      "kaynak": "Footage/antares-orb-3-1.jpg"
+    },
+    {
+      "metin": "It fell back onto the launch pad in a fireball.",
+      "kaynak": "Footage/antares-orb-3-2.jpg"
+    },
+    {
+      "metin": "Nobody was aboard; it carried supplies for the space station.",
+      "kaynak": "Footage/antares-orb-3-3.jpg"
+    },
+    {
+      "metin": "Its engines were refurbished engines built decades earlier.",
+      "kaynak": "Footage/antares-orb-3-4.jpg"
+    },
+    {
+      "metin": "A turbopump in one of them failed.",
+      "kaynak": "Footage/antares-orb-3-5.jpg"
+    },
+    {
+      "metin": "With thrust lost, the rocket was destroyed.",
+      "kaynak": "Footage/antares-orb-3-6.jpg"
+    },
+    {
+      "metin": "The pad needed major repairs.",
+      "kaynak": "Footage/antares-orb-3-7.jpg"
+    },
+    {
+      "metin": "Antares was later rebuilt with new engines.",
+      "kaynak": "Footage/antares-orb-3-1.jpg"
+    }
+  ],
+  "aciklama": "Orb-3 exploded seconds after lift-off. The cause: failure in the liquid oxygen turbopump of a refurbished AJ26 engine.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Orb-3",
+    "2014",
+    "rocket engine",
+    "engineering failure"
+  ],
+  "hook": "The engine was decades old",
+  "soru": "How old is too old?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the Antares Orb-3 launch",
+    "kisa": "Orb-3",
+    "nesne": "Rocket engine",
+    "yil": 2014,
+    "sonuc": "exploded seconds after lift-off",
+    "tetik": "a turbopump failure in a refurbished engine",
+    "mekanizma": "failure in the liquid oxygen turbopump of a refurbished AJ26 engine",
+    "sayi": "SECONDS",
+    "ders": "Antares was re-engined with new RD-181 engines",
+    "zincir": [
+      "DECADES-OLD ENGINES REFURBISHED",
+      "TURBOPUMP FAILS",
+      "ENGINE THRUST LOST",
+      "ROCKET FALLS BACK",
+      "RANGE SAFETY DESTRUCT"
+    ],
+    "zaman": [],
+    "yanilgi": "The engines were not new designs. They were refurbished engines originally built for the Soviet Moon rocket.",
+    "tartisma": "Using old engines saved money. How old is too old for rocket hardware?",
+    "basliklar": [
+      "A Decades-Old Engine Exploded Seconds After Launch",
+      "Why the Antares Orb-3 Rocket Exploded",
+      "The Old Engine That Failed on Launch"
+    ],
+    "kapak": [
+      "OLD ENGINE",
+      "SECONDS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Cygnus Orb-3",
+        "url": "https://en.wikipedia.org/wiki/Cygnus_Orb-3"
+      },
+      {
+        "ad": "NASA — Orbital CRS3 mission overview (cited by Wikipedia)",
+        "url": "http://www.nasa.gov/sites/default/files/files/Orbital_CRS3_mission_overview.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Cygnus_Orb-3",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Antares Orb-3 launch failure (201410280009HQ).jpg [Public domain]",
+      "Antares Orb-3 launch failure (201410280011HQ).jpg [Public domain]",
+      "Orbital ATK Antares Launch (201410280025HQ).jpg [Public domain]",
+      "Orbital ATK Antares Launch (201410280026HQ).jpg [Public domain]",
+      "Orbital Sciences Antares Launch (201410280010HQ).jpg [Public domain]",
+      "Aftermath of Antares Orb-3 explosion at Pad 0A (20141029a).jpg [Public domain]",
+      "Aftermath of Antares Orb-3 explosion at Pad 0A (20141029b).jpg [Public domain]"
+    ]
+  }
+}

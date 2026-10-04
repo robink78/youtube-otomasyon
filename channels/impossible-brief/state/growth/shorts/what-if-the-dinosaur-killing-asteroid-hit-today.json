@@ -1,0 +1,2814 @@
+{
+  "schema": "growth-short-plan/1",
+  "channel": "impossible-brief",
+  "channelName": "ImpossibleBrief",
+  "contentType": "short",
+  "createdAt": "2026-10-04T17:49:30.968Z",
+  "topic": {
+    "id": "IB-SPA-098",
+    "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+    "title": "What If the Dinosaur-Killing Asteroid Hit Today?",
+    "cluster": "SPACE",
+    "subject": "a Chicxulub-size asteroid strikes Earth today"
+  },
+  "topicScore": {
+    "channel": "impossible-brief",
+    "topicId": "IB-SPA-098",
+    "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+    "title": "What If the Dinosaur-Killing Asteroid Hit Today?",
+    "cluster": "SPACE",
+    "VideoPotentialScore": 89,
+    "ViralPotentialScore": 78,
+    "SelectionScore": 82,
+    "bucket": "A",
+    "reasons": [
+      "VideoPotential 89 ≥ 80",
+      "hook 84",
+      "sources 98"
+    ],
+    "enrichable": false,
+    "factors": {
+      "TopicDemandScore": {
+        "value": 81,
+        "basis": "measured",
+        "note": "Wikipedia monthly pageviews: Chicxulub crater (109590)"
+      },
+      "CuriosityScore": {
+        "value": 96,
+        "basis": "inventory-signal"
+      },
+      "HookPotentialScore": {
+        "value": 84,
+        "basis": "derived",
+        "note": "17 candidates / 9 families"
+      },
+      "VisualImpactScore": {
+        "value": 97,
+        "basis": "inventory-signal"
+      },
+      "EmotionalImpactScore": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "StoryCompressionScore": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "RewatchPotentialScore": {
+        "value": 69,
+        "basis": "derived"
+      },
+      "SharePotentialScore": {
+        "value": 87,
+        "basis": "derived"
+      },
+      "CommentPotentialScore": {
+        "value": 71,
+        "basis": "derived"
+      },
+      "SubscriberConversionPotential": {
+        "value": 88,
+        "basis": "derived+learned",
+        "note": "series depth: 125 topics in SPACE"
+      },
+      "NoveltyScore": {
+        "value": 82,
+        "basis": "inventory-signal"
+      },
+      "AudienceFitScore": {
+        "value": 100,
+        "basis": "inventory-signal"
+      },
+      "SourceQualityScore": {
+        "value": 98,
+        "basis": "derived"
+      },
+      "ChannelFitScore": {
+        "value": 100,
+        "basis": "derived"
+      }
+    },
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 96,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 81,
+        "basis": "measured"
+      },
+      "surprise": {
+        "value": 60,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 97,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 84,
+        "basis": "derived",
+        "note": "3 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 82,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 89,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 87,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "learned",
+        "note": "3 same-cluster upload(s), breakout rate 0"
+      },
+      "subscriber_conversion_potential": {
+        "value": 88,
+        "basis": "derived",
+        "note": "series-depth proxy; no measured conversion yet"
+      },
+      "audience_breadth": {
+        "value": 100,
+        "basis": "inventory-signal"
+      },
+      "hook_potential": {
+        "value": 84,
+        "basis": "derived"
+      },
+      "visual_availability": {
+        "value": 67,
+        "basis": "inventory-signal"
+      },
+      "research_confidence": {
+        "value": 98,
+        "basis": "derived"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": -7,
+        "basis": "penalty",
+        "note": "3 published / 125 inventory in cluster"
+      },
+      "recent_fatigue_risk": {
+        "value": -66,
+        "basis": "penalty",
+        "note": "3 same-family upload(s) in the last 30 days"
+      },
+      "source_confidence_risk": {
+        "value": -2,
+        "basis": "penalty",
+        "note": "98/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -33,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "viralWeights": {
+      "curiosity_gap": 1.1,
+      "immediate_stakes": 1.1,
+      "human_consequence": 0.9,
+      "recognizability": 0.9,
+      "surprise": 0.9,
+      "visual_potential": 1,
+      "archival_footage_potential": 0.8,
+      "first_frame_potential": 1,
+      "title_potential": 0.8,
+      "emotional_tension": 0.9,
+      "contradiction": 0.7,
+      "unexpected_cause": 0.9,
+      "numerical_anomaly": 0.6,
+      "didnt_know_factor": 0.8,
+      "shareability": 0.9,
+      "channel_fit": 1,
+      "historical_similarity": 1,
+      "subscriber_conversion_potential": 1.1,
+      "audience_breadth": 0.9,
+      "hook_potential": 1,
+      "visual_availability": 0.9,
+      "research_confidence": 1,
+      "duplicate_risk": 1.2,
+      "saturation_risk": 0.6,
+      "recent_fatigue_risk": 0.9,
+      "source_confidence_risk": 1.2,
+      "weak_footage_risk": 0.8
+    },
+    "viralCalculation": {
+      "positive": 83.1,
+      "penalty": 4.9,
+      "penaltyScale": 0.25
+    },
+    "weights": {
+      "TopicDemandScore": 0.9,
+      "CuriosityScore": 1.5,
+      "HookPotentialScore": 1.3,
+      "VisualImpactScore": 1.2,
+      "EmotionalImpactScore": 0.9,
+      "StoryCompressionScore": 1.1,
+      "RewatchPotentialScore": 0.8,
+      "SharePotentialScore": 1,
+      "CommentPotentialScore": 0.8,
+      "SubscriberConversionPotential": 0.8,
+      "NoveltyScore": 1,
+      "AudienceFitScore": 0.9,
+      "SourceQualityScore": 1.1,
+      "ChannelFitScore": 0.9
+    },
+    "boilerplate": {
+      "ratio": 0,
+      "templatedFields": [],
+      "checkedFields": 6
+    },
+    "specificEvidence": 12,
+    "sourceQuality": {
+      "score": 98,
+      "tiers": [
+        {
+          "name": "NASA Science",
+          "url": "https://science.nasa.gov/",
+          "tier": "GOVERNMENT_AGENCY",
+          "score": 95
+        },
+        {
+          "name": "NASA Jet Propulsion Laboratory",
+          "url": "https://www.jpl.nasa.gov/",
+          "tier": "GOVERNMENT_AGENCY",
+          "score": 95
+        },
+        {
+          "name": "European Space Agency",
+          "url": "https://www.esa.int/Science_Exploration",
+          "tier": "GOVERNMENT_AGENCY",
+          "score": 95
+        }
+      ],
+      "primaryCount": 3,
+      "notes": []
+    },
+    "selectedHook": {
+      "family": "impossible_question",
+      "spoken": "What If the Dinosaur-Killing Asteroid Hit Today?",
+      "score": 84
+    }
+  },
+  "viralPotentialGate": {
+    "score": 78,
+    "minimum": 68,
+    "decision": "PRODUCE",
+    "components": {
+      "curiosity_gap": {
+        "value": 96,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 81,
+        "basis": "measured"
+      },
+      "surprise": {
+        "value": 60,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 97,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 84,
+        "basis": "derived",
+        "note": "3 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 82,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 89,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 87,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "learned",
+        "note": "3 same-cluster upload(s), breakout rate 0"
+      },
+      "subscriber_conversion_potential": {
+        "value": 88,
+        "basis": "derived",
+        "note": "series-depth proxy; no measured conversion yet"
+      },
+      "audience_breadth": {
+        "value": 100,
+        "basis": "inventory-signal"
+      },
+      "hook_potential": {
+        "value": 84,
+        "basis": "derived"
+      },
+      "visual_availability": {
+        "value": 67,
+        "basis": "inventory-signal"
+      },
+      "research_confidence": {
+        "value": 98,
+        "basis": "derived"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": -7,
+        "basis": "penalty",
+        "note": "3 published / 125 inventory in cluster"
+      },
+      "recent_fatigue_risk": {
+        "value": -66,
+        "basis": "penalty",
+        "note": "3 same-family upload(s) in the last 30 days"
+      },
+      "source_confidence_risk": {
+        "value": -2,
+        "basis": "penalty",
+        "note": "98/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -33,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    }
+  },
+  "topicDecision": null,
+  "hooks": {
+    "selected": {
+      "family": "impossible_question",
+      "spoken": "What If the Dinosaur-Killing Asteroid Hit Today?",
+      "onScreen": "DINOSAUR KILLER, TODAY",
+      "fields": [
+        "question"
+      ],
+      "editorial": false,
+      "words": 7,
+      "estimatedSeconds": 2.2,
+      "scores": {
+        "SwipeStoppingPower": 95,
+        "CuriosityGap": 73,
+        "Clarity": 100,
+        "Specificity": 55,
+        "EmotionalIntensity": 48,
+        "Credibility": 100,
+        "VisualCompatibility": 74,
+        "ChannelFit": 60,
+        "ImmediateComprehension": 100,
+        "RetentionExpectation": 83,
+        "VoiceoverNaturalness": 100,
+        "FirstFrameCompatibility": 74,
+        "FactualDefensibility": 100,
+        "ShortFormSuitability": 97
+      },
+      "total": 84,
+      "blocked": false,
+      "blockers": [],
+      "generic": false,
+      "adjustedTotal": 84,
+      "fitsOpening": true
+    },
+    "selectedScore": 84,
+    "passes": true,
+    "candidateCount": 17,
+    "familyCount": 9,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "family": "impossible_question",
+        "spoken": "What If the Dinosaur-Killing Asteroid Hit Today?",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "question"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 95,
+          "CuriosityGap": 73,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 83,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 84,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 84,
+        "fitsOpening": true
+      },
+      {
+        "family": "visual_first_reveal",
+        "spoken": "One 10-kilometre asteroid ended the age of dinosaurs.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "openingLine"
+        ],
+        "editorial": true,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 90,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 80,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 96,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 60,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 96,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 81,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 81,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The real killer wasn't the crater.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 6,
+        "estimatedSeconds": 1.9,
+        "scores": {
+          "SwipeStoppingPower": 85,
+          "CuriosityGap": 73,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 78,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 78,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 78,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Then soot and dust would dim sunlight for years.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 46,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 74,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 74,
+        "fitsOpening": true
+      },
+      {
+        "family": "before_after_consequence",
+        "spoken": "A Chicxulub-size asteroid strikes Earth today.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 6,
+        "estimatedSeconds": 1.9,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 35,
+          "Clarity": 90,
+          "Specificity": 63,
+          "EmotionalIntensity": 40,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 96,
+          "RetentionExpectation": 44,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 80,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 74,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 74,
+        "fitsOpening": true
+      },
+      {
+        "family": "shocking_consequence",
+        "spoken": "Global heating from falling debris.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "consequence"
+        ],
+        "editorial": false,
+        "words": 5,
+        "estimatedSeconds": 1.6,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 89,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 49,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 89,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 73,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 73,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The crater didn't kill most species; the darkened, cooled sky afterwards did.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "misconception"
+        ],
+        "editorial": false,
+        "words": 12,
+        "estimatedSeconds": 3.8,
+        "scores": {
+          "SwipeStoppingPower": 78,
+          "CuriosityGap": 59,
+          "Clarity": 85,
+          "Specificity": 30,
+          "EmotionalIntensity": 66,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 70,
+          "RetentionExpectation": 68,
+          "VoiceoverNaturalness": 80,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 82
+        },
+        "total": 73,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 73,
+        "fitsOpening": false
+      },
+      {
+        "family": "unexpected_chain_reaction",
+        "spoken": "Stood on end, it would tower over Everest.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "secondBeat"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 80,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 73,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 73,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "It struck slightly over 66 million years ago.",
+        "onScreen": "66 MILLION",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 63,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 44,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 73,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 73,
+        "fitsOpening": true
+      },
+      {
+        "family": "misconception_reversal",
+        "spoken": "It would not all happen at once.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "consequence"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 59,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 66,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 57,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 66,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "before_after_consequence",
+        "spoken": "Today, the first danger would be heat and debris raining worldwide.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 49,
+          "Clarity": 90,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 49,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 80,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "An impact turns the asteroid's kinetic energy into heat.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 38,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 50,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 71,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 71,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "The impactor was around 10 kilometers (6 mi) in diameter.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 35,
+          "Clarity": 95,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 85,
+          "RetentionExpectation": 41,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 70,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 70,
+        "fitsOpening": false
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "The crater it left is up to 300 kilometres wide.",
+        "onScreen": "300",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 35,
+          "Clarity": 95,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 85,
+          "RetentionExpectation": 41,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 70,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 70,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "It was the sky.",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 4,
+        "estimatedSeconds": 1.3,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 50,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 70,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 70,
+        "fitsOpening": true
+      },
+      {
+        "family": "question_gap",
+        "spoken": "What changes first?",
+        "onScreen": "DINOSAUR KILLER, TODAY",
+        "fields": [
+          "question"
+        ],
+        "editorial": false,
+        "words": 3,
+        "estimatedSeconds": 0.9,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 63,
+          "Clarity": 100,
+          "Specificity": 10,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 59,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 64,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 59,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 60
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "More recent evidence suggests the crater is 300 km (190 mi) wide.",
+        "onScreen": "300 KM",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 12,
+        "estimatedSeconds": 3.8,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 35,
+          "Clarity": 85,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 70,
+          "RetentionExpectation": 45,
+          "VoiceoverNaturalness": 90,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 82
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": false
+      }
+    ]
+  },
+  "first3Seconds": {
+    "First3SecondPlan": {
+      "narration": "What If the Dinosaur-Killing Asteroid Hit Today?",
+      "firstFrame": {
+        "description": "asteroid beside Mount Everest for scale at the moment the impossible change begins",
+        "source": "procedural render",
+        "startAtSeconds": 0,
+        "sourceClass": "ILLUSTRATION",
+        "communicates": "mystery",
+        "rule": "labelled illustration; no logo, no establishing shot"
+      },
+      "visual": "asteroid beside Mount Everest for scale at the moment the impossible change begins",
+      "onScreenText": "DINOSAUR KILLER, TODAY",
+      "motion": "scale shift: object shrinks/grows in 0.8 s, then hard cut",
+      "cutTiming": [
+        0,
+        1.1,
+        2.2
+      ],
+      "soundCue": "sub-bass swell resolving on the first cut",
+      "communicates": "mystery"
+    },
+    "score": 93,
+    "passes": true,
+    "blockers": [],
+    "notes": []
+  },
+  "script": {
+    "format": "short",
+    "generator": "editorial (researched record)",
+    "targetSeconds": 22.5,
+    "spoken": "What If the Dinosaur-Killing Asteroid Hit Today? Stood on end, it would tower over Everest. It struck slightly over 66 million years ago. The crater it left is up to 300 kilometres wide. Today, the first danger would be heat and debris raining worldwide. Then soot and dust would dim sunlight for years. The real killer wasn't the crater. It was the sky.",
+    "claims": [
+      {
+        "start": 0,
+        "end": 2.5,
+        "role": "HOOK",
+        "layer": "KNOWN SCIENCE",
+        "confidence": "KNOWN SCIENCE",
+        "text": "What If the Dinosaur-Killing Asteroid Hit Today?"
+      },
+      {
+        "start": 2.5,
+        "end": 5.4,
+        "role": "FIRST_EFFECT",
+        "layer": "KNOWN SCIENCE",
+        "confidence": "KNOWN SCIENCE",
+        "text": "Stood on end, it would tower over Everest."
+      },
+      {
+        "start": 5.4,
+        "end": 8.2,
+        "role": "SCIENCE_EXPLANATION",
+        "layer": "KNOWN SCIENCE",
+        "confidence": "KNOWN SCIENCE",
+        "text": "It struck slightly over 66 million years ago."
+      },
+      {
+        "start": 8.2,
+        "end": 11.8,
+        "role": "SCIENCE_EXPLANATION",
+        "layer": "KNOWN SCIENCE",
+        "confidence": "KNOWN SCIENCE",
+        "text": "The crater it left is up to 300 kilometres wide."
+      },
+      {
+        "start": 11.8,
+        "end": 15.7,
+        "role": "FIRST_EFFECT",
+        "layer": "ESTIMATED CONSEQUENCE",
+        "confidence": "ESTIMATED CONSEQUENCE",
+        "text": "Today, the first danger would be heat and debris raining worldwide."
+      },
+      {
+        "start": 15.7,
+        "end": 18.9,
+        "role": "SECOND_ORDER_EFFECT",
+        "layer": "ESTIMATED CONSEQUENCE",
+        "confidence": "ESTIMATED CONSEQUENCE",
+        "text": "Then soot and dust would dim sunlight for years."
+      },
+      {
+        "start": 18.9,
+        "end": 22.5,
+        "role": "SCIENTIFIC_PAYOFF",
+        "layer": "ESTIMATED CONSEQUENCE",
+        "confidence": "ESTIMATED CONSEQUENCE",
+        "text": "The real killer wasn't the crater. It was the sky."
+      }
+    ],
+    "lines": [
+      "What If the Dinosaur-Killing Asteroid Hit Today?",
+      "Stood on end, it would tower over Everest.",
+      "It struck slightly over 66 million years ago.",
+      "The crater it left is up to 300 kilometres wide.",
+      "Today, the first danger would be heat and debris raining worldwide.",
+      "Then soot and dust would dim sunlight for years.",
+      "The real killer wasn't the crater. It was the sky."
+    ],
+    "structure": [
+      "HOOK",
+      "FIRST_EFFECT",
+      "SCIENCE_EXPLANATION",
+      "SCIENCE_EXPLANATION",
+      "FIRST_EFFECT",
+      "SECOND_ORDER_EFFECT",
+      "SCIENTIFIC_PAYOFF"
+    ],
+    "forbiddenOpening": false,
+    "sourceIds": [
+      "NASA Science",
+      "NASA Jet Propulsion Laboratory",
+      "European Space Agency"
+    ],
+    "retention": {
+      "score": 90,
+      "words": 63,
+      "estimatedSeconds": 22.5,
+      "components": {
+        "hookDelay": 95,
+        "setupDelay": 85,
+        "sentenceLength": 100,
+        "informationDensity": 83,
+        "repetition": 100,
+        "deadSections": 100,
+        "escalation": 90,
+        "unansweredQuestions": 85,
+        "earlyPayoff": 90,
+        "visualOpportunities": 87,
+        "clarity": 100,
+        "duration": 95,
+        "endingStrength": 45
+      },
+      "duplicatePairs": [],
+      "findings": [
+        "final line has no payoff / consequence / lesson"
+      ],
+      "blockers": [],
+      "roles": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "rejectionReason": null,
+      "rewriteSuggested": false,
+      "passes": true
+    },
+    "openingRewrite": {
+      "lines": [
+        "What If the Dinosaur-Killing Asteroid Hit Today?",
+        "Stood on end, it would tower over Everest.",
+        "It struck slightly over 66 million years ago.",
+        "The crater it left is up to 300 kilometres wide.",
+        "Today, the first danger would be heat and debris raining worldwide.",
+        "Then soot and dust would dim sunlight for years.",
+        "The real killer wasn't the crater. It was the sky."
+      ],
+      "changed": true,
+      "original": "One 10-kilometre asteroid ended the age of dinosaurs.",
+      "selected": "What If the Dinosaur-Killing Asteroid Hit Today?",
+      "source": "fact-checked hook candidate"
+    },
+    "estimatedSeconds": 22.5
+  },
+  "titles": {
+    "selected": {
+      "title": "What If a Chicxulub-size Asteroid Strikes Earth Today?",
+      "source": "what-if",
+      "pattern": "what-if-question",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 84,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 95,
+        "channelIdentity": 62,
+        "ctrPotential": 79,
+        "novelty": 100,
+        "evergreenPotential": 40,
+        "consequence": 42,
+        "compactness": 100,
+        "recognizability": 80,
+        "nonRedundancy": 100,
+        "factualIntegrity": 100,
+        "historicalPerformanceSimilarity": 50,
+        "patternFreshness": 100
+      },
+      "total": 85,
+      "patternPenalty": 0,
+      "templateNaturalnessPenalty": 0,
+      "adjustedTotal": 85,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 85,
+    "count": 41,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "title": "What If a Chicxulub-size Asteroid Strikes Earth Today?",
+        "source": "what-if",
+        "pattern": "what-if-question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 40,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 85,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 85,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What If the Dinosaur-Killing Asteroid Hit Today?",
+        "source": "current",
+        "pattern": "what-if-question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 78,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 78,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How a Chicxulub-size Asteroid Strikes Earth Today Would Unfold",
+        "source": "how-unfolds",
+        "pattern": "how",
+        "scores": {
+          "clarity": 97,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 40,
+          "consequence": 42,
+          "compactness": 96,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 77,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "unfold"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "A Chicxulub-size Asteroid Strikes Earth Today: What Happens Next?",
+        "source": "happens-next",
+        "pattern": "question",
+        "scores": {
+          "clarity": 93,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 40,
+          "consequence": 42,
+          "compactness": 90,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 82,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 75,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "A Chicxulub-size Asteroid Strikes Earth Today: What Changes First?",
+        "source": "changes-first",
+        "pattern": "question",
+        "scores": {
+          "clarity": 91,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 69,
+          "novelty": 93,
+          "evergreenPotential": 40,
+          "consequence": 42,
+          "compactness": 88,
+          "recognizability": 80,
+          "nonRedundancy": 93,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 81,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 74,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What We Know About a Chicxulub-size Asteroid Strikes Earth Today",
+        "source": "what-we-know",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 94,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 87,
+          "channelIdentity": 62,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 40,
+          "consequence": 42,
+          "compactness": 92,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 77,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [
+          "know"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "What If the Dinosaur Asteroid Hit Earth Today",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 74,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Real Physics Behind the Dinosaur-Killing Asteroid Hit Today",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 96,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 59,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 94,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 76,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 72,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "A Chicxulub-size Asteroid Strikes Earth Today: The Mechanism Explained",
+        "source": "mechanism-explained",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 85,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 40,
+          "consequence": 42,
+          "compactness": 80,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 72,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 72,
+        "unsupportedWords": [
+          "mechanism"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Dinosaur-Killing Asteroid Hit Today: A Scientific Timeline",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 97,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 35,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 96,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 70,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Science Actually Predicts If the Dinosaur-Killing Asteroid Hit Today",
+        "source": "science-predicts",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 81,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 62,
+          "ctrPotential": 59,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 74,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 74,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If the Dinosaur-Killing Asteroid Hit Today: Cause to Consequence",
+        "source": "cause-to-consequence",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 94,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 35,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 92,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 70,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Dinosaur-Killing Asteroid Hit Today — What Breaks First?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 77,
+          "novelty": 82,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 82,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 76,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 69,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Dinosaur-Killing Asteroid Hit Today: Known Science Vs. Speculation",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 85,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 35,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 80,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 69,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 69,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Dinosaur-Killing Asteroid Hit Today: From First Effect to Final Outcome",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 78,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 47,
+          "novelty": 93,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 63,
+          "recognizability": 38,
+          "nonRedundancy": 93,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 69,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 69,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If the Dinosaur-Killing Asteroid Hit Today: Known Science Vs. Speculation",
+        "source": "known-vs-speculation",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 81,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 35,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 74,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 69,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 69,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Breaks Second If the Dinosaur-Killing Asteroid Hit Today",
+        "source": "breaks-second",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 99,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 55,
+          "novelty": 92,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 98,
+          "recognizability": 38,
+          "nonRedundancy": 92,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 73,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 69,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Science of the Dinosaur-Killing Asteroid Hit Today",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 72,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If the Dinosaur-Killing Asteroid Hit Today, This Happens First",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 97,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 47,
+          "novelty": 92,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 96,
+          "recognizability": 38,
+          "nonRedundancy": 92,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 72,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "One Second After the Dinosaur-Killing Asteroid Hit Today",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 72,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Actually Happens When the Dinosaur-Killing Asteroid Hit Today?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 90,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 59,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 86,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 75,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If the Dinosaur-Killing Asteroid Hit Today, What Happens First?",
+        "source": "what-happens-first",
+        "pattern": "question",
+        "scores": {
+          "clarity": 96,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 59,
+          "novelty": 92,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 94,
+          "recognizability": 38,
+          "nonRedundancy": 92,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 75,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Breaks First If the Dinosaur-Killing Asteroid Hit Today?",
+        "source": "breaks-first",
+        "pattern": "question",
+        "scores": {
+          "clarity": 99,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 67,
+          "novelty": 82,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 98,
+          "recognizability": 38,
+          "nonRedundancy": 82,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 75,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How Fast Would We Notice If the Dinosaur-Killing Asteroid Hit Today?",
+        "source": "how-fast",
+        "pattern": "question",
+        "scores": {
+          "clarity": 88,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 59,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 77,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 75,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Could Earth Survive If the Dinosaur-Killing Asteroid Hit Today?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 96,
+          "curiosity": 66,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 47,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 94,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 74,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Consequence of the Dinosaur-Killing Asteroid Hit Today",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 93,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 47,
+          "novelty": 91,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 90,
+          "recognizability": 38,
+          "nonRedundancy": 91,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 71,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Dinosaur-Killing Asteroid Hit Today: The Answer Is Not What Changes First",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 70,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 59,
+          "novelty": 93,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 52,
+          "recognizability": 38,
+          "nonRedundancy": 93,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 67,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [
+          "answer"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Dinosaur-Killing Asteroid Hit Today — The Scientific Answer",
+        "source": "legacy-generator",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 96,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 35,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 94,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 67,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [
+          "answer"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Consequence If the Dinosaur-Killing Asteroid Hit Today",
+        "source": "hidden-consequence",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 93,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 47,
+          "novelty": 91,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 90,
+          "recognizability": 38,
+          "nonRedundancy": 91,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 71,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why the Dinosaur-Killing Asteroid Hit Today Changes Everything",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 97,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 47,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 96,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 70,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 66,
+        "unsupportedWords": [
+          "everything"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Could Earth Handle It If the Dinosaur-Killing Asteroid Hit Today?",
+        "source": "could-earth",
+        "pattern": "question",
+        "scores": {
+          "clarity": 93,
+          "curiosity": 66,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 47,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 90,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 73,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 66,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why the Sky, Not the Crater, Killed the Dinosaurs",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 60,
+          "ctrPotential": 65,
+          "novelty": 20,
+          "evergreenPotential": 75,
+          "consequence": 80,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 20,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 67,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The First Thing to Change If the Dinosaur-Killing Asteroid Hit Today",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 88,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 47,
+          "novelty": 93,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 77,
+          "recognizability": 38,
+          "nonRedundancy": 93,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 67,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 63,
+        "unsupportedWords": [
+          "thing"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "How Fast Would the Dinosaur-Killing Asteroid Hit Today Affect Us?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 93,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 59,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 90,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 70,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 63,
+        "unsupportedWords": [
+          "affect",
+          "us"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Immediate Effect If the Dinosaur-Killing Asteroid Hit Today",
+        "source": "immediate-effect",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 96,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 35,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 94,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 67,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 63,
+        "unsupportedWords": [
+          "immediate"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "If the Dinosaur-Killing Asteroid Hit Today, Global Heating From Falling Debris",
+        "source": "consequence-led",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 73,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 35,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 95,
+          "compactness": 57,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 67,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Most Likely Outcome If the Dinosaur-Killing Asteroid Hit Today",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 91,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 35,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 88,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 66,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 62,
+        "unsupportedWords": [
+          "likely"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "What Would Stay the Same If the Dinosaur-Killing Asteroid Hit Today?",
+        "source": "what-stays",
+        "pattern": "question",
+        "scores": {
+          "clarity": 88,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 59,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 77,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 69,
+        "patternPenalty": 7,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 62,
+        "unsupportedWords": [
+          "stay",
+          "same"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "What If the Dinosaur-Killing Asteroid Hit Today: The First 60 Seconds",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 87,
+          "curiosity": 76,
+          "specificity": 62,
+          "truthfulness": 45,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 69,
+          "novelty": 93,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 75,
+          "recognizability": 38,
+          "nonRedundancy": 93,
+          "factualIntegrity": 45,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 64,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 64,
+        "unsupportedWords": [
+          "60"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "If the Dinosaur-Killing Asteroid Hit Today: The First 60 Seconds",
+        "source": "first-minute",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 94,
+          "curiosity": 58,
+          "specificity": 62,
+          "truthfulness": 45,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 57,
+          "novelty": 93,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 92,
+          "recognizability": 38,
+          "nonRedundancy": 93,
+          "factualIntegrity": 45,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 62,
+        "patternPenalty": 0,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 62,
+        "unsupportedWords": [
+          "60"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "The Dinosaur-Killing Asteroid Hit Today, Explained in 30 Seconds",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 94,
+          "curiosity": 40,
+          "specificity": 62,
+          "truthfulness": 45,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 30,
+          "consequence": 80,
+          "compactness": 92,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 45,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 60,
+        "patternPenalty": 4,
+        "templateNaturalnessPenalty": 0,
+        "adjustedTotal": 56,
+        "unsupportedWords": [
+          "30"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "cta": {
+    "type": "COMMENT_PROMPT",
+    "text": "Which impossible question should we test next?",
+    "delivery": "on-screen",
+    "placement": "after payoff"
+  },
+  "loop": {
+    "LoopPotentialScore": 50,
+    "apply": false,
+    "plan": {
+      "reason": "loop would not improve story satisfaction; ending stays a clean payoff"
+    }
+  },
+  "integrity": {
+    "score": 75,
+    "scenes": [
+      {
+        "scene": 1,
+        "text": "asteroid beside Mount Everest for scale",
+        "sourceClass": "ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 2,
+        "text": "Chicxulub crater map on the Yucatán coast",
+        "sourceClass": "DIAGRAM",
+        "label": "n/a"
+      },
+      {
+        "scene": 3,
+        "text": "impact ejecta arcing around the globe",
+        "sourceClass": "ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 4,
+        "text": "soot layer dimming sunlight",
+        "sourceClass": "ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 5,
+        "text": "timeline of the end-Cretaceous extinction",
+        "sourceClass": "ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 6,
+        "text": "modern city skyline under darkened sky",
+        "sourceClass": "ILLUSTRATION",
+        "label": "labelled"
+      }
+    ],
+    "classes": [
+      "ILLUSTRATION",
+      "DIAGRAM"
+    ],
+    "hardFails": [],
+    "notes": []
+  },
+  "factual": {
+    "score": 100,
+    "hardFails": [],
+    "notes": [],
+    "claimClasses": {
+      "CONFIRMED_FACT": 5,
+      "ESTIMATE": 2,
+      "SPECULATION": 1
+    },
+    "unsupportedNumbers": []
+  },
+  "pacing": {
+    "plannedSegments": [
+      1.319,
+      0.901,
+      1.348,
+      1.932,
+      1.784,
+      2.387,
+      1.646,
+      3.201,
+      3.225,
+      2.641,
+      2.116
+    ],
+    "segments": 11,
+    "cutsInFirst3Seconds": 3,
+    "averageSeconds": 2.05,
+    "longestSeconds": 3.225,
+    "mechanical": false
+  },
+  "captions": {
+    "events": 21,
+    "maxWords": 4,
+    "maxLines": 2,
+    "tooFast": 0,
+    "safeZoneMarginV": 560,
+    "passes": true
+  },
+  "relatedLong": null,
+  "experiment": null,
+  "readiness": {
+    "ProductionReadinessScore": 91,
+    "decision": "PUBLISH",
+    "stage": "final",
+    "dimensions": {
+      "topicPotential": 89,
+      "viralPotential": 78,
+      "hook": 84,
+      "title": 85,
+      "script": 90,
+      "firstSeconds": 93,
+      "factual": 100,
+      "visualRelevance": 75,
+      "sources": 98,
+      "metadata": 100,
+      "visualQuality": 100,
+      "audio": 85,
+      "captions": 90,
+      "duration": 100,
+      "pacing": 92,
+      "render": 100
+    },
+    "renderedVisualQuality": {
+      "source": "render.video.visualQuality",
+      "score": 100,
+      "decision": "PUBLISH",
+      "reasons": [],
+      "metrics": {
+        "measured": true,
+        "relevant": true,
+        "decision": "PUBLISH",
+        "assetType": "licensed-still",
+        "asset": "Yucatan chix crater.jpg This shaded relief image of Mexico's Yucatán Peninsula shows a subtle, but unmistakable, indication of the Chicxulub impact crater . Most scientists now agree that this impact was the cause of the Cretaceous-Tertiary Extinction , the event 65 million years ago that marked the sudden extinction of the dinosaurs as well as the majority of life then on Earth. wikipedia-article asteroid beside Mount Everest for scale",
+        "topicTerms": [
+          "impact",
+          "turns",
+          "asteroid",
+          "kinetic",
+          "energy",
+          "heat",
+          "shock",
+          "ejecta",
+          "fine",
+          "debris",
+          "soot",
+          "then",
+          "block",
+          "sunlight",
+          "chicxulub",
+          "size",
+          "strikes",
+          "today",
+          "one",
+          "kilometre",
+          "ended",
+          "age",
+          "dinosaurs",
+          "dinosaur",
+          "killing",
+          "hit"
+        ],
+        "matchedTerms": [
+          "impact",
+          "asteroid",
+          "then",
+          "chicxulub",
+          "dinosaurs"
+        ],
+        "strongTerms": [
+          "impact",
+          "asteroid",
+          "then",
+          "chicxulub"
+        ],
+        "genericTermsIgnored": [
+          "earth",
+          "image"
+        ],
+        "subjectMatch": true,
+        "mechanismMatch": true,
+        "designDetailMatch": false,
+        "claimMatch": true,
+        "rejectionReasons": [],
+        "reason": "opening asset matches distinctive evidence: impact, asteroid, then, chicxulub"
+      }
+    },
+    "unmeasured": [],
+    "hardFails": [],
+    "notes": [],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "growthMeta": {
+    "hookType": "impossible_question",
+    "hookScore": 84,
+    "selectedHook": "What If the Dinosaur-Killing Asteroid Hit Today?",
+    "firstLine": "What If the Dinosaur-Killing Asteroid Hit Today?",
+    "firstSecondsScore": 93,
+    "topicCluster": "SPACE",
+    "bucket": "A",
+    "viralScore": 78,
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 96,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 81,
+        "basis": "measured"
+      },
+      "surprise": {
+        "value": 60,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 97,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 84,
+        "basis": "derived",
+        "note": "3 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 82,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 89,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 87,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "learned",
+        "note": "3 same-cluster upload(s), breakout rate 0"
+      },
+      "subscriber_conversion_potential": {
+        "value": 88,
+        "basis": "derived",
+        "note": "series-depth proxy; no measured conversion yet"
+      },
+      "audience_breadth": {
+        "value": 100,
+        "basis": "inventory-signal"
+      },
+      "hook_potential": {
+        "value": 84,
+        "basis": "derived"
+      },
+      "visual_availability": {
+        "value": 67,
+        "basis": "inventory-signal"
+      },
+      "research_confidence": {
+        "value": 98,
+        "basis": "derived"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": -7,
+        "basis": "penalty",
+        "note": "3 published / 125 inventory in cluster"
+      },
+      "recent_fatigue_risk": {
+        "value": -66,
+        "basis": "penalty",
+        "note": "3 same-family upload(s) in the last 30 days"
+      },
+      "source_confidence_risk": {
+        "value": -2,
+        "basis": "penalty",
+        "note": "98/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -33,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "storyStructure": "IMPOSSIBLE_QUESTION>ASSUMPTION>FIRST_EFFECT>SECOND_ORDER_EFFECT>SCIENTIFIC_PAYOFF",
+    "titlePattern": "what-if-question",
+    "selectedTitle": "What If a Chicxulub-size Asteroid Strikes Earth Today?",
+    "titleScore": 85,
+    "titleCandidates": 41,
+    "hookCandidates": 17,
+    "topicScore": 89,
+    "popularityScore": 81,
+    "ctaStyle": "COMMENT_PROMPT",
+    "durationBucket": "18-25s",
+    "openingVisual": "ILLUSTRATION",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 81,
+      "CuriosityScore": 96,
+      "HookPotentialScore": 84,
+      "VisualImpactScore": 97,
+      "EmotionalImpactScore": 97,
+      "StoryCompressionScore": 88,
+      "RewatchPotentialScore": 69,
+      "SharePotentialScore": 87,
+      "CommentPotentialScore": 71,
+      "SubscriberConversionPotential": 88,
+      "NoveltyScore": 82,
+      "AudienceFitScore": 100,
+      "SourceQualityScore": 98,
+      "ChannelFitScore": 100
+    },
+    "selectionMode": null
+  },
+  "summary": {
+    "Channel": "ImpossibleBrief",
+    "Content Type": "SHORT",
+    "Topic": "What If the Dinosaur-Killing Asteroid Hit Today?",
+    "Topic Score": 89,
+    "Topic Bucket": "A",
+    "Selected Hook": "What If the Dinosaur-Killing Asteroid Hit Today?",
+    "Hook Type": "impossible_question",
+    "Hook Score": 84,
+    "First-3-sec Score": 93,
+    "Duration": "~22.5s (estimated)",
+    "Scenes": 11,
+    "Production Score": "91 (final) → PUBLISH",
+    "Experiment": "none",
+    "Related Long Video": "none yet"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "apollo-13-1970",
+  "format": "short",
+  "olusturuldu": "2026-09-29T14:12:06.121Z",
+  "ekranHook": "200,000 miles from home",
+  "mevcut": {
+    "puan": 100,
+    "pencereler": {
+      "0-5": "Two hundred thousand miles from Earth, an oxygen tank exploded. In seconds, Apollo 13",
+      "5-12": "lost most of its power and oxygen. So how did a tank that passed every test just explode? Its",
+      "12-20": "heater switches were rated for 28 volts, not 65. They welded shut, and wires inside cooked at a thousand degrees. Weeks later,",
+      "20-30": "in space, damaged wiring sparked inside pure oxygen. The crew survived using the lunar module as a lifeboat. One mismatched voltage nearly cost three lives."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: a central question/problem is raised",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Apollo 13 lost an oxygen tank 200,000 miles from Earth."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only heater switches rated for 28 V run on 65 V."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could heater switches rated for 28 V run on 65 V do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is thermostat switches welded shut by overvoltage, overheating the tank's wiring insulation — and it is why every component rating is now checked against every power source it will ever see, including ground equipment."
+      }
+    ],
+    "metin": "Apollo 13 lost an oxygen tank 200,000 miles from Earth. It took only heater switches rated for 28 V run on 65 V. So how could heater switches rated for 28 V run on 65 V do this? The answer is thermostat switches welded shut by overvoltage, overheating the tank's wiring insulation — and it is why every component rating is now checked against every power source it will ever see, including ground equipment.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

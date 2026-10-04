@@ -1,0 +1,40 @@
+{
+  "channel": "failure-reconstructed",
+  "channelName": "Failure Reconstructed",
+  "tarih": "2026-10-04T17:38:37.755Z",
+  "aggregateManaged": true,
+  "yuklemeUygun": true,
+  "bulgular": [
+    {
+      "ad": "youtube-yetki",
+      "durum": "ok",
+      "mesaj": "refresh token çalışıyor"
+    },
+    {
+      "ad": "youtube-kapsam",
+      "durum": "ok",
+      "mesaj": "gerekli kapsamlar tamam"
+    },
+    {
+      "ad": "youtube-kanal",
+      "durum": "ok",
+      "mesaj": "doğru kanal doğrulandı (UC2ruKNeR_C9JEpjWJGWbFYg)"
+    },
+    {
+      "ad": "oauth-reauth-deadline",
+      "durum": "uyari",
+      "mesaj": "Testing-mode re-authorization is recommended within 5.0 days",
+      "cozum": "Run `node youtube-yetki.js --channel failure-reconstructed --oauth-mode=production --github` after confirming Google Auth Platform → Audience is In production."
+    },
+    {
+      "ad": "pexels",
+      "durum": "ok",
+      "mesaj": "Pexels anahtarı çalışıyor"
+    },
+    {
+      "ad": "kutuphane",
+      "durum": "ok",
+      "mesaj": "362 günlük üretilmemiş konu var"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Unlocking a Tail System Too Early Broke Up SpaceShipTwo",
+  "kaynaklar": [
+    {
+      "ad": "spaceshiptwo-1.jpg",
+      "wikimedia": "Acting Chairman Hart w Virgin Galactic pilot Todd Ericson & investigators at SpaceShipTwo accident site (15705681362).jpg"
+    },
+    {
+      "ad": "spaceshiptwo-2.jpg",
+      "wikimedia": "NTSB Go-Team inspects a tail section of VSS Enterprise.jpg"
+    },
+    {
+      "ad": "spaceshiptwo-3.jpg",
+      "wikimedia": "Acting Chairman Hart at the Space ShipTwo briefing in Mojave, CA (15063697354).jpg"
+    },
+    {
+      "ad": "spaceshiptwo-4.jpg",
+      "wikimedia": "Acting Chairman Hart at the Space ShipTwo briefing in Mojave, CA (15659921346).jpg"
+    },
+    {
+      "ad": "spaceshiptwo-5.jpg",
+      "wikimedia": "Acting Chairman Hart from the third media briefing of the SpaceShipTwo investigation (15702586621).jpg"
+    },
+    {
+      "ad": "spaceshiptwo-6.jpg",
+      "wikimedia": "Acting Chairman Hart speaks to the media about the SpaceShipTwo accident (15520869919).jpg"
+    },
+    {
+      "ad": "spaceshiptwo-7.jpg",
+      "wikimedia": "Investigator Joe Sedor, Acting Chairman Hart and Special Assistant Vishal Amin at SpaceShipTwo accident site (15680374796).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During a test flight, Virgin Galactic's SpaceShipTwo broke apart.",
+      "kaynak": "Footage/spaceshiptwo-1.jpg"
+    },
+    {
+      "metin": "Within seconds, it disintegrated, killing the co-pilot.",
+      "kaynak": "Footage/spaceshiptwo-2.jpg"
+    },
+    {
+      "metin": "The pilot survived after being thrown clear.",
+      "kaynak": "Footage/spaceshiptwo-3.jpg"
+    },
+    {
+      "metin": "Its tail feathered to slow it for re-entry.",
+      "kaynak": "Footage/spaceshiptwo-4.jpg"
+    },
+    {
+      "metin": "The co-pilot unlocked that system too early, near the speed of sound.",
+      "kaynak": "Footage/spaceshiptwo-5.jpg"
+    },
+    {
+      "metin": "Air loads forced the tail up on their own.",
+      "kaynak": "Footage/spaceshiptwo-6.jpg"
+    },
+    {
+      "metin": "Nothing in the design prevented that single error.",
+      "kaynak": "Footage/spaceshiptwo-7.jpg"
+    },
+    {
+      "metin": "An automatic lock was added to stop early unlocking.",
+      "kaynak": "Footage/spaceshiptwo-1.jpg"
+    }
+  ],
+  "aciklama": "SpaceShipTwo broke apart during a powered test flight. The cause: aerodynamic loads deploying the tail feather after an early unlock, with no inhibit to prevent it.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "SpaceShipTwo",
+    "2014",
+    "feather system",
+    "engineering failure"
+  ],
+  "hook": "One lever, too early",
+  "soru": "Should one mistake be fatal?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "VSS Enterprise",
+    "kisa": "SpaceShipTwo",
+    "nesne": "Feather system",
+    "yil": 2014,
+    "sonuc": "broke apart during a powered test flight",
+    "tetik": "the feather system unlocked early at high speed",
+    "mekanizma": "aerodynamic loads deploying the tail feather after an early unlock, with no inhibit to prevent it",
+    "sayi": "TOO EARLY",
+    "ders": "an automatic inhibit was added to prevent early feather unlocking",
+    "zincir": [
+      "ROCKET MOTOR IGNITES",
+      "CO-PILOT UNLOCKS FEATHER EARLY",
+      "AIR LOADS DEPLOY IT",
+      "VEHICLE PITCHES UP",
+      "BREAKS APART"
+    ],
+    "zaman": [],
+    "yanilgi": "The rocket motor didn't explode. A single early action let the tail fold up at high speed.",
+    "tartisma": "The design had no guard against one human error. Should a single mistake ever be fatal?",
+    "basliklar": [
+      "Unlocking a Tail System Too Early Broke Up SpaceShipTwo",
+      "Why SpaceShipTwo Broke Apart",
+      "The Lever Pulled Too Early"
+    ],
+    "kapak": [
+      "TOO EARLY",
+      "ONE LEVER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — VSS Enterprise crash",
+        "url": "https://en.wikipedia.org/wiki/VSS_Enterprise_crash"
+      },
+      {
+        "ad": "NTSB — AAR1502 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1502.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "VSS_Enterprise_crash",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Acting Chairman Hart w Virgin Galactic pilot Todd Ericson & investigators at SpaceShipTwo accident site (15705681362).jpg [Public domain]",
+      "NTSB Go-Team inspects a tail section of VSS Enterprise.jpg [Public domain]",
+      "Acting Chairman Hart at the Space ShipTwo briefing in Mojave, CA (15063697354).jpg [Public domain]",
+      "Acting Chairman Hart at the Space ShipTwo briefing in Mojave, CA (15659921346).jpg [Public domain]",
+      "Acting Chairman Hart from the third media briefing of the SpaceShipTwo investigation (15702586621).jpg [Public domain]",
+      "Acting Chairman Hart speaks to the media about the SpaceShipTwo accident (15520869919).jpg [Public domain]",
+      "Investigator Joe Sedor, Acting Chairman Hart and Special Assistant Vishal Amin at SpaceShipTwo accident site (15680374796).jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Inaugural Run That Took a Curve at 78 mph",
+  "kaynaklar": [
+    {
+      "ad": "amtrak-cascades-501-1.jpg",
+      "wikimedia": "NTSB engineers examine Cascades locomotive recorder, December 2017.jpg"
+    },
+    {
+      "ad": "amtrak-cascades-501-2.jpg",
+      "wikimedia": "WDTX 1402 (1) postderailment position.jpg"
+    },
+    {
+      "ad": "amtrak-cascades-501-3.jpg",
+      "wikimedia": "2017 Cascades derailment aerial view from NTSB preliminary report.jpg"
+    },
+    {
+      "ad": "amtrak-cascades-501-4.jpg",
+      "wikimedia": "Damage to WDTX 1402 (1).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On its first run over a new route, an Amtrak train derailed near DuPont, Washington.",
+      "kaynak": "Footage/amtrak-cascades-501-1.jpg"
+    },
+    {
+      "metin": "Cars fell onto Interstate 5, and three people on board were killed.",
+      "kaynak": "Footage/amtrak-cascades-501-2.jpg"
+    },
+    {
+      "metin": "The train entered a curve at seventy eight miles per hour.",
+      "kaynak": "Footage/amtrak-cascades-501-3.jpg"
+    },
+    {
+      "metin": "The limit there was far lower.",
+      "kaynak": "Footage/amtrak-cascades-501-4.jpg"
+    },
+    {
+      "metin": "Positive train control wasn't active on the track.",
+      "kaynak": "Footage/amtrak-cascades-501-1.jpg"
+    },
+    {
+      "metin": "The engineer hadn't been adequately trained on the route.",
+      "kaynak": "Footage/amtrak-cascades-501-2.jpg"
+    },
+    {
+      "metin": "The NTSB faulted the transit authority for the curve's risk.",
+      "kaynak": "Footage/amtrak-cascades-501-3.jpg"
+    },
+    {
+      "metin": "Service waited for positive train control.",
+      "kaynak": "Footage/amtrak-cascades-501-4.jpg"
+    }
+  ],
+  "aciklama": "Amtrak 501 derailed onto Interstate 5 near DuPont. The cause: overspeed on a curve without active positive train control and with an inadequately trained engineer.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Amtrak 501",
+    "2017",
+    "curve",
+    "engineering failure"
+  ],
+  "hook": "It was the first run",
+  "soru": "Who owns a new route's risk?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "Amtrak Cascades train 501",
+    "kisa": "Amtrak 501",
+    "nesne": "Curve",
+    "yil": 2017,
+    "sonuc": "derailed onto Interstate 5 near DuPont",
+    "tetik": "entering a 30 mph curve at 78 mph",
+    "mekanizma": "overspeed on a curve without active positive train control and with an inadequately trained engineer",
+    "sayi": "78 MPH",
+    "ders": "service on the route waited for positive train control",
+    "zincir": [
+      "FIRST RUN ON NEW ROUTE",
+      "ENGINEER UNFAMILIAR",
+      "NO ACTIVE PTC",
+      "CURVE AT 78 MPH",
+      "CARS FALL ONTO I-5"
+    ],
+    "zaman": [],
+    "yanilgi": "The route was brand new, but the safety system that would have slowed the train wasn't active.",
+    "tartisma": "The NTSB blamed the transit authority's curve risk and training. Who owns a new route's risks?",
+    "basliklar": [
+      "The Inaugural Run That Took a Curve at 78 mph",
+      "Why Amtrak 501 Derailed on Its First Run",
+      "The Curve Taken at 78 mph"
+    ],
+    "kapak": [
+      "78 MPH",
+      "FIRST RUN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2017 Washington train derailment",
+        "url": "https://en.wikipedia.org/wiki/2017_Washington_train_derailment"
+      },
+      {
+        "ad": "NTSB — RAR1901 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/RAR1901.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "2017_Washington_train_derailment",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "NTSB engineers examine Cascades locomotive recorder, December 2017.jpg [Public domain]",
+      "WDTX 1402 (1) postderailment position.jpg [Public domain]",
+      "2017 Cascades derailment aerial view from NTSB preliminary report.jpg [Public domain]",
+      "Damage to WDTX 1402 (1).jpg [Public domain]"
+    ]
+  }
+}

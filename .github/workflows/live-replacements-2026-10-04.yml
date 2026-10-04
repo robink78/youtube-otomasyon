@@ -1,0 +1,83 @@
+name: Live validated replacements 2026-10-04
+
+on:
+  push:
+    branches: ['main']
+    paths:
+      - '.github/workflows/live-replacements-2026-10-04.yml'
+  pull_request:
+    branches: ['main']
+    paths:
+      - '.github/replacement-trigger'
+  workflow_dispatch:
+
+concurrency:
+  group: live-replacements-2026-10-04
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  replace:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    env:
+      IB_CLIENT_ID: ${{ secrets.IB_CLIENT_ID }}
+      IB_CLIENT_SECRET: ${{ secrets.IB_CLIENT_SECRET }}
+      IB_YT_REFRESH_TOKEN: ${{ secrets.IB_YT_REFRESH_TOKEN }}
+      IB_YT_CHANNEL_ID: ${{ vars.IB_YT_CHANNEL_ID }}
+      CT_CLIENT_ID: ${{ secrets.CT_CLIENT_ID }}
+      CT_CLIENT_SECRET: ${{ secrets.CT_CLIENT_SECRET }}
+      CT_YT_REFRESH_TOKEN: ${{ secrets.CT_YT_REFRESH_TOKEN }}
+      CT_YT_CHANNEL_ID: ${{ vars.CT_YT_CHANNEL_ID }}
+      BTO_YT_CLIENT_ID: ${{ secrets.BTO_YT_CLIENT_ID }}
+      BTO_YT_CLIENT_SECRET: ${{ secrets.BTO_YT_CLIENT_SECRET }}
+      BTO_YT_REFRESH_TOKEN: ${{ secrets.BTO_YT_REFRESH_TOKEN }}
+      BTO_YT_CHANNEL_ID: ${{ vars.BTO_YT_CHANNEL_ID }}
+      PEXELS_KEY: ${{ secrets.PEXELS_KEY }}
+      SHORTS_FONT: DejaVu Sans
+      PUBLISH_MODE: live
+      PROVENANCE_REQUIRED: '0'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Runtime dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends ffmpeg fonts-dejavu-core fonts-liberation
+          npm install --no-audit --no-fund
+      - name: Replace only after real render + identity + final gates
+        run: node scripts/live-replace-validated-shorts.js
+      - name: Preserve report and generated state
+        if: always()
+        run: |
+          git config user.name "replacement-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add channels/*/state reports/live-replacements-2026-10-04.json channels/*/reports/packages 2>/dev/null || true
+          if git diff --cached --quiet; then echo "No state changes to commit."; exit 0; fi
+          git commit -m "chore: record validated replacement publications"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
+      - name: Replacement evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: live-replacement-evidence
+          path: |
+            reports/live-replacements-2026-10-04.json
+            channels/*/state/published.json
+            channels/*/reports/packages/*/quality-gate.json
+            channels/*/reports/packages/*/render.json
+            channels/*/state/production/*/Videos/*.mp4
+          if-no-files-found: warn
+          retention-days: 14

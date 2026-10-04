@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Ambiguous Clearance That Put a Jet Into a Mountain",
+  "kaynaklar": [
+    {
+      "ad": "twa-514-1.jpg",
+      "wikimedia": "TWA flight 514 crash site looking east 2017.jpg"
+    },
+    {
+      "ad": "twa-514-2.jpg",
+      "wikimedia": "TWA flight 514 crash site looking west 2017.jpg"
+    },
+    {
+      "ad": "twa-514-3.jpg",
+      "wikimedia": "TWA Flight 514 Flight Path.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On approach to Washington Dulles, a Boeing 727 flew into a mountain.",
+      "kaynak": "Footage/twa-514-1.jpg"
+    },
+    {
+      "metin": "Everyone aboard was killed, ninety two people.",
+      "kaynak": "Footage/twa-514-2.jpg"
+    },
+    {
+      "metin": "The crew believed they were cleared to descend.",
+      "kaynak": "Footage/twa-514-3.jpg"
+    },
+    {
+      "metin": "The clearance didn't make the safe altitude clear.",
+      "kaynak": "Footage/twa-514-1.jpg"
+    },
+    {
+      "metin": "Cloud hid the terrain ahead.",
+      "kaynak": "Footage/twa-514-2.jpg"
+    },
+    {
+      "metin": "The jet had no terrain warning system.",
+      "kaynak": "Footage/twa-514-3.jpg"
+    },
+    {
+      "metin": "Weeks earlier, another crew had nearly done the same.",
+      "kaynak": "Footage/twa-514-1.jpg"
+    },
+    {
+      "metin": "Ground proximity warnings then became mandatory.",
+      "kaynak": "Footage/twa-514-2.jpg"
+    }
+  ],
+  "aciklama": "TWA 514 hit a mountain on approach to Washington Dulles. The cause: premature descent in cloud due to ambiguous approach clearance and charts.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "TWA 514",
+    "1974",
+    "approach clearance",
+    "engineering failure"
+  ],
+  "hook": "They thought it was allowed",
+  "soru": "Why wasn't the warning shared?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "TWA Flight 514",
+    "kisa": "TWA 514",
+    "nesne": "Approach clearance",
+    "yil": 1974,
+    "sonuc": "hit a mountain on approach to Washington Dulles",
+    "tetik": "a clearance the crew read as permission to descend",
+    "mekanizma": "premature descent in cloud due to ambiguous approach clearance and charts",
+    "sayi": "92 KILLED",
+    "ders": "ground proximity warning systems became mandatory on US airliners",
+    "zincir": [
+      "CLEARED FOR APPROACH",
+      "CREW DESCENDS EARLY",
+      "CLOUD HIDES TERRAIN",
+      "NO TERRAIN WARNING",
+      "HITS MOUNT WEATHER"
+    ],
+    "zaman": [],
+    "yanilgi": "The pilots believed they were following the clearance. The wording didn't make the minimum altitude clear.",
+    "tartisma": "Another airline had nearly done the same weeks earlier and reported it internally. Why wasn't it shared?",
+    "basliklar": [
+      "The Ambiguous Clearance That Put a Jet Into a Mountain",
+      "Why TWA Flight 514 Hit a Mountain",
+      "The Clearance That Sounded Like Permission"
+    ],
+    "kapak": [
+      "TOO LOW",
+      "92 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — TWA Flight 514",
+        "url": "https://en.wikipedia.org/wiki/TWA_Flight_514"
+      },
+      {
+        "ad": "FAA — mtweather accident report (cited by Wikipedia)",
+        "url": "https://www.faa.gov/sites/faa.gov/files/2022-10/mtweather_accident_report.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-14",
+    "wiki": "TWA_Flight_514",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "TWA flight 514 crash site looking east 2017.jpg [CC0]",
+      "TWA flight 514 crash site looking west 2017.jpg [CC0]",
+      "TWA Flight 514 Flight Path.jpg [Public domain]"
+    ]
+  }
+}

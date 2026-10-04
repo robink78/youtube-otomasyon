@@ -1,0 +1,974 @@
+[
+  {
+    "slug": "gemini-6a-pad-shutdown-1965",
+    "wiki": "Gemini_6A",
+    "commons": [
+      "Gemini 6A"
+    ],
+    "baslik": "The Rocket Shut Down on the Pad and the Pilot Didn't Eject",
+    "ad": "Gemini 6A",
+    "kisa": "Gemini 6A",
+    "nesne": "Titan II booster",
+    "yil": 1965,
+    "kume": "spaceflight-disasters",
+    "oncelik": 9,
+    "sonuc": "had its engines shut down on the pad",
+    "tetik": "a plug that fell out early and a dust cover left inside the engine",
+    "mekanizma": "a forgotten plastic dust cover blocking oxidizer flow in the gas generator",
+    "sayi": "1.5 SECONDS",
+    "ders": "launch plugs were replaced and assembly checks tightened",
+    "zincir": [
+      "DUST COVER LEFT IN ENGINE",
+      "IGNITION",
+      "THRUST DECAYS",
+      "PLUG DROPS OUT",
+      "ENGINES SHUT DOWN"
+    ],
+    "yanilgi": "The shutdown wasn't just a loose plug. A dust cover had been left inside the engine months earlier.",
+    "tartisma": "The commander trusted his senses over the clock and didn't eject. Was it courage or luck?",
+    "basliklar": [
+      "Why Gemini 6A Shut Down on the Pad",
+      "The Dust Cover Left Inside a Rocket"
+    ],
+    "kapak": [
+      "DON'T EJECT",
+      "1.5 SECONDS"
+    ],
+    "hook": "The engines stopped. He stayed",
+    "soru": "Courage or luck?",
+    "sahneler": [
+      "Gemini 6A's engines ignited, then suddenly shut down on the pad.",
+      "The mission clock started, signalling lift-off, but the rocket hadn't moved.",
+      "Rules said the crew should eject.",
+      "Wally Schirra felt no movement and decided not to.",
+      "An electrical plug had dropped out early.",
+      "But thrust had already been decaying.",
+      "A plastic dust cover had been left inside the engine.",
+      "It had blocked the flow of oxidizer."
+    ]
+  },
+  {
+    "slug": "sts-93-wiring-short-1999",
+    "wiki": "STS-93",
+    "commons": [
+      "STS-93"
+    ],
+    "baslik": "A Wire Rubbing on a Screw Nearly Downed a Shuttle",
+    "ad": "STS-93",
+    "kisa": "STS-93",
+    "nesne": "Wiring",
+    "yil": 1999,
+    "kume": "spaceflight-disasters",
+    "oncelik": 8,
+    "sonuc": "lost engine controllers seconds after launch",
+    "tetik": "a wire chafed against an exposed screw head",
+    "mekanizma": "an electrical short disabling two engine control units, plus a hydrogen leak from an ejected pin",
+    "sayi": "5 SECONDS",
+    "ders": "every orbiter's wiring was inspected",
+    "zincir": [
+      "WIRE ROUTED BADLY",
+      "RUBS ON SCREW",
+      "SHORT AFTER LIFT-OFF",
+      "TWO CONTROLLERS LOST",
+      "LEAK IN ENGINE"
+    ],
+    "yanilgi": "Two hidden faults hit at once. The shuttle still reached orbit.",
+    "tartisma": "Redundancy saved the flight by a narrow margin. How thin was the margin?",
+    "basliklar": [
+      "The Near Miss on STS-93",
+      "The Wire That Almost Ended a Shuttle Flight"
+    ],
+    "kapak": [
+      "ONE WIRE",
+      "5 SECONDS"
+    ],
+    "hook": "One wire almost ended it",
+    "soru": "How thin was the margin?",
+    "sahneler": [
+      "Columbia lifted off carrying the Chandra X-ray Observatory.",
+      "Seconds later, an electrical short suddenly knocked out two engine controllers.",
+      "Backup controllers kept the engines running.",
+      "A wire had been rubbing on an exposed screw head.",
+      "At the same time, a gold pin shot out inside an engine.",
+      "It caused a hydrogen leak.",
+      "The shuttle still reached orbit.",
+      "Every orbiter's wiring was then inspected."
+    ]
+  },
+  {
+    "slug": "mars-pathfinder-resets-1997",
+    "wiki": "Mars_Pathfinder",
+    "commons": [
+      "Mars Pathfinder"
+    ],
+    "baslik": "The Mars Lander That Kept Rebooting Itself",
+    "ad": "Mars Pathfinder",
+    "kisa": "Mars Pathfinder",
+    "nesne": "Flight software",
+    "yil": 1997,
+    "kume": "software-and-control-failures",
+    "oncelik": 9,
+    "sonuc": "kept resetting its computer on Mars",
+    "tetik": "priority inversion under heavy load",
+    "mekanizma": "a low-priority task holding a resource needed by a high-priority task, triggering resets",
+    "sayi": "FOUR RESETS",
+    "ders": "engineers patched the software from Earth to enable priority inheritance",
+    "zincir": [
+      "BUG SEEN IN TESTING",
+      "MARKED LOW PRIORITY",
+      "HEAVY LOAD ON MARS",
+      "PRIORITY INVERSION",
+      "COMPUTER RESETS"
+    ],
+    "yanilgi": "The bug wasn't unknown. It had shown up in testing and was judged a minor glitch.",
+    "tartisma": "It was fixed from millions of kilometres away. What makes a remote fix possible?",
+    "basliklar": [
+      "Why Mars Pathfinder Kept Rebooting",
+      "The Priority Inversion on Mars"
+    ],
+    "kapak": [
+      "REBOOTING",
+      "ON MARS"
+    ],
+    "hook": "It kept rebooting on Mars",
+    "soru": "What makes a remote fix possible?",
+    "sahneler": [
+      "Days after landing on Mars, NASA's Pathfinder lander started rebooting.",
+      "Suddenly its computer reset, halting operations until the next day.",
+      "The bug had appeared in testing before launch.",
+      "It was judged a rare glitch and given low priority.",
+      "A low-priority task was blocking a high-priority one.",
+      "It's called priority inversion.",
+      "Engineers reproduced it on a duplicate on Earth.",
+      "They patched the software on Mars."
+    ]
+  },
+  {
+    "slug": "nasa-helios-breakup-2003",
+    "wiki": "NASA_Helios",
+    "commons": [
+      "NASA Helios"
+    ],
+    "baslik": "The Solar Wing That Bent Itself to Pieces",
+    "ad": "the Helios Prototype",
+    "kisa": "Helios",
+    "nesne": "Flying wing",
+    "yil": 2003,
+    "kume": "materials-failures",
+    "oncelik": 7,
+    "sonuc": "broke up and fell into the Pacific",
+    "tetik": "turbulence bending the wing into a high dihedral shape",
+    "mekanizma": "a flexible wing morphing into a persistent high dihedral, leading to unstable oscillations",
+    "sayi": "BENT UP",
+    "ders": "the mishap report pushed better modelling of flexible aircraft",
+    "zincir": [
+      "DELAYED TAKE-OFF",
+      "SLOW CLIMB IN TURBULENCE",
+      "WING BENDS UPWARD",
+      "PITCH OSCILLATIONS",
+      "STRUCTURE FAILS"
+    ],
+    "yanilgi": "The turbulence wasn't extreme. The very flexible wing responded in a way nobody had modelled.",
+    "tartisma": "Lightweight design made long flights possible. How flexible is too flexible?",
+    "basliklar": [
+      "Why the NASA Helios Broke Up",
+      "The Wing That Bent Too Far"
+    ],
+    "kapak": [
+      "BENT UP",
+      "TOO FLEXIBLE"
+    ],
+    "hook": "The wing bent too far",
+    "soru": "How flexible is too flexible?",
+    "sahneler": [
+      "NASA's solar-powered Helios broke apart over the Pacific.",
+      "Within minutes of hitting turbulence, it fell into the ocean.",
+      "It was a huge, light flying wing.",
+      "A delayed take-off kept it climbing slowly through rough air.",
+      "Turbulence bent the wing sharply upward.",
+      "It stayed bent.",
+      "Its pitch swings grew with every cycle until it broke.",
+      "The report called for better modelling of flexible aircraft."
+    ]
+  },
+  {
+    "slug": "sts-51-f-abort-to-orbit-1985",
+    "wiki": "STS-51-F",
+    "commons": [
+      "STS-51-F"
+    ],
+    "baslik": "Faulty Sensors Shut Down a Shuttle Engine in Flight",
+    "ad": "STS-51-F",
+    "kisa": "STS-51-F",
+    "nesne": "Temperature sensors",
+    "yil": 1985,
+    "kume": "spaceflight-disasters",
+    "oncelik": 8,
+    "sonuc": "lost an engine during launch",
+    "tetik": "two temperature sensors failing in turn",
+    "mekanizma": "faulty sensor readings triggering an automatic engine shutdown",
+    "sayi": "ABORT TO ORBIT",
+    "ders": "sensor logic was reviewed and the mission still completed its work",
+    "zincir": [
+      "SENSOR ONE FAILS",
+      "SENSOR TWO FAILS",
+      "ENGINE SHUTS DOWN",
+      "ABORT TO ORBIT",
+      "LOWER ORBIT"
+    ],
+    "yanilgi": "The engine was healthy. Bad sensors told the computer it wasn't.",
+    "tartisma": "A controller stopped a second engine shutdown just in time. When should people override automation?",
+    "basliklar": [
+      "Why STS-51-F Lost an Engine",
+      "The Only Shuttle Abort After Launch"
+    ],
+    "kapak": [
+      "ENGINE OUT",
+      "BAD SENSORS"
+    ],
+    "hook": "The sensors lied",
+    "soru": "When should people override?",
+    "sahneler": [
+      "During Challenger's climb to orbit, one of its main engines shut down.",
+      "Suddenly the crew had to perform an abort to orbit.",
+      "A temperature sensor on the engine failed.",
+      "Two minutes later, a second one failed.",
+      "The computer shut the engine down.",
+      "The engine itself was fine.",
+      "A flight controller had further automatic shutdowns blocked.",
+      "It remains the only shuttle abort after launch."
+    ]
+  },
+  {
+    "slug": "dart-collision-2005",
+    "wiki": "DART_(satellite)",
+    "commons": [
+      "DART (satellite)"
+    ],
+    "baslik": "The Autonomous Spacecraft That Bumped Into Its Target",
+    "ad": "NASA's DART spacecraft",
+    "kisa": "DART 2005",
+    "nesne": "Navigation software",
+    "yil": 2005,
+    "kume": "software-and-control-failures",
+    "oncelik": 8,
+    "sonuc": "collided with the satellite it was meant to approach",
+    "tetik": "a navigation failure at close range",
+    "mekanizma": "inaccurate position data feeding a collision-avoidance system that then failed",
+    "sayi": "1.5 M/S",
+    "ders": "NASA's review fed lessons into later autonomous rendezvous work",
+    "zincir": [
+      "NAVIGATION ERROR",
+      "RANGING SENSOR NOT FULLY ON",
+      "APPROACH WITH BAD DATA",
+      "AVOIDANCE FAILS",
+      "COLLISION"
+    ],
+    "yanilgi": "Nobody was flying it. The spacecraft trusted its own bad numbers.",
+    "tartisma": "The full report was withheld at first. Should failure reports be public?",
+    "basliklar": [
+      "Why NASA's DART Crashed Into Its Target",
+      "The Robot That Misjudged the Distance"
+    ],
+    "kapak": [
+      "BUMPED",
+      "BAD DATA"
+    ],
+    "hook": "It trusted bad numbers",
+    "soru": "Should failure reports be public?",
+    "sahneler": [
+      "A NASA spacecraft built to approach another satellite on its own collided with it.",
+      "Suddenly the mission ended, far short of its goals.",
+      "Its navigation had failed at close range.",
+      "A precision sensor never fully switched on.",
+      "The craft kept approaching with inaccurate data.",
+      "Its collision-avoidance system relied on the same bad data.",
+      "It burned through propellant faster than expected.",
+      "The review shaped later autonomous rendezvous work."
+    ]
+  },
+  {
+    "slug": "x-43a-first-flight-2001",
+    "wiki": "X-43A",
+    "commons": [
+      "X-43A"
+    ],
+    "baslik": "The Hypersonic Test That Failed in 13 Seconds",
+    "ad": "the first X-43A flight",
+    "kisa": "X-43A",
+    "nesne": "Pegasus booster",
+    "yil": 2001,
+    "kume": "spaceflight-disasters",
+    "oncelik": 7,
+    "sonuc": "was destroyed after its booster lost control",
+    "tetik": "a control oscillation in the booster at transonic speed",
+    "mekanizma": "inaccurate modelling producing an inadequate control system that let an elevon fail",
+    "sayi": "13 SECONDS",
+    "ders": "better modelling led to record-setting later flights",
+    "zincir": [
+      "MODEL ERRORS",
+      "CONTROL SYSTEM TUNED WRONG",
+      "OSCILLATION AT TRANSONIC",
+      "ELEVON FAILS",
+      "DESTROYED"
+    ],
+    "yanilgi": "No single part was to blame. Many small modelling errors added up.",
+    "tartisma": "The next flights set speed records. Is failure the fastest teacher?",
+    "basliklar": [
+      "Why the First X-43A Flight Failed",
+      "The Booster That Lost Control"
+    ],
+    "kapak": [
+      "13 SECONDS",
+      "LOST CONTROL"
+    ],
+    "hook": "It failed in 13 seconds",
+    "soru": "Is failure the fastest teacher?",
+    "sahneler": [
+      "A B-52 released the X-43A and its booster rocket.",
+      "Within seconds, the booster began to oscillate and lost control.",
+      "About thirteen seconds after release, it deviated from its course.",
+      "An elevon on the rocket failed.",
+      "It was destroyed for safety.",
+      "Investigators found many small modelling errors.",
+      "Together they produced an inadequate control system.",
+      "Later flights set speed records."
+    ]
+  },
+  {
+    "slug": "xb-70-collision-1966",
+    "wiki": "North_American_XB-70_Valkyrie",
+    "commons": [
+      "XB-70 collision 1966"
+    ],
+    "baslik": "A Photo Shoot That Destroyed a Supersonic Bomber",
+    "ad": "the XB-70 Valkyrie",
+    "kisa": "XB-70",
+    "nesne": "Formation flight",
+    "yil": 1966,
+    "kume": "aviation-failures",
+    "oncelik": 8,
+    "sonuc": "was hit by an F-104 during a photo formation",
+    "tetik": "flying in close formation for publicity photos",
+    "mekanizma": "a chase fighter drifting into the bomber in tight formation",
+    "sayi": "PHOTO SHOOT",
+    "ders": "the crash raised questions about publicity flights with test aircraft",
+    "zincir": [
+      "ENGINE MAKER WANTS PHOTOS",
+      "FIVE JETS IN FORMATION",
+      "F-104 DRIFTS CLOSE",
+      "CONTACT",
+      "BOTH AIRCRAFT LOST"
+    ],
+    "yanilgi": "It wasn't a test mission. It was a photo shoot for an engine maker.",
+    "tartisma": "Two pilots died for a picture. Who approves risk for publicity?",
+    "basliklar": [
+      "Why the XB-70 Crashed During a Photo Shoot",
+      "The Formation Flight That Went Wrong"
+    ],
+    "kapak": [
+      "PHOTO SHOOT",
+      "MIDAIR"
+    ],
+    "hook": "It was a photo shoot",
+    "soru": "Who approves risk for publicity?",
+    "sahneler": [
+      "In a photo formation, an F-104 fighter collided with the giant XB-70 bomber.",
+      "Both aircraft crashed, and two pilots were killed.",
+      "Five jets were flying in close formation.",
+      "They were being photographed for their engine maker.",
+      "The F-104 drifted into the bomber's wing.",
+      "It rolled over the XB-70 and exploded.",
+      "The Valkyrie lost its tail and crashed.",
+      "Only one XB-70 remains, in a museum."
+    ]
+  },
+  {
+    "slug": "uss-oriskany-fire-1966",
+    "wiki": "USS_Oriskany_fire",
+    "commons": [
+      "USS Oriskany fire"
+    ],
+    "baslik": "A Lit Flare Thrown Into a Locker Full of Flares",
+    "ad": "the USS Oriskany fire",
+    "kisa": "USS Oriskany",
+    "nesne": "Flare locker",
+    "yil": 1966,
+    "kume": "fire-and-explosions",
+    "oncelik": 9,
+    "sonuc": "caught fire off Vietnam",
+    "tetik": "a lit flare locked inside a flare locker",
+    "mekanizma": "an accidentally ignited flare setting off hundreds of flares in a sealed locker",
+    "sayi": "44 DIED",
+    "ders": "the fire became a lesson in ordnance handling on carriers",
+    "zincir": [
+      "FLARE ACCIDENTALLY LIT",
+      "THROWN INTO LOCKER",
+      "DOOR SEALED",
+      "LOCKER IGNITES",
+      "FIRE SPREADS"
+    ],
+    "yanilgi": "The sailor tried to contain it. Sealing it in with other flares made it far worse.",
+    "tartisma": "Pressure made the locker impossible to open. How do you fight a fire you can't reach?",
+    "basliklar": [
+      "Why the USS Oriskany Fire Was So Deadly",
+      "The Flare Locked Inside a Locker"
+    ],
+    "kapak": [
+      "FLARE LOCKER",
+      "44 DIED"
+    ],
+    "hook": "He locked the flare away",
+    "soru": "How do you fight what you can't reach?",
+    "sahneler": [
+      "Fire broke out on the carrier Oriskany off Vietnam.",
+      "It spread through the ship, and forty four people were killed.",
+      "A flare had been accidentally ignited.",
+      "The sailor holding it threw it into a flare locker.",
+      "He sealed the door.",
+      "The other flares were about to ignite.",
+      "Pressure made the locker door impossible to open.",
+      "Within five minutes, the locker exploded."
+    ]
+  },
+  {
+    "slug": "uss-fitzgerald-collision-2017",
+    "wiki": "USS_Fitzgerald_and_MV_ACX_Crystal_collision",
+    "commons": [
+      "USS Fitzgerald collision"
+    ],
+    "baslik": "A Destroyer Full of Radar Didn't See a Container Ship",
+    "ad": "USS Fitzgerald",
+    "kisa": "USS Fitzgerald",
+    "nesne": "Bridge team",
+    "yil": 2017,
+    "kume": "maritime-disasters",
+    "oncelik": 9,
+    "sonuc": "collided with a container ship off Japan",
+    "tetik": "a bridge team that lost situational awareness",
+    "mekanizma": "late recognition of a crossing ship and orders that were not carried out",
+    "sayi": "SEVEN DIED",
+    "ders": "the Navy overhauled training and readiness in its Pacific fleet",
+    "zincir": [
+      "NIGHT, BUSY WATERS",
+      "CONTACT NOT TRACKED",
+      "LATE ORDER",
+      "ORDER NOT CARRIED OUT",
+      "COLLISION"
+    ],
+    "yanilgi": "The destroyer had advanced radar. The failure was on the bridge, not in the sensors.",
+    "tartisma": "A second destroyer collided two months later. Was it the crew, or the system?",
+    "basliklar": [
+      "Why USS Fitzgerald Collided With a Cargo Ship",
+      "The Warship That Didn't See It Coming"
+    ],
+    "kapak": [
+      "DIDN'T SEE IT",
+      "SEVEN DIED"
+    ],
+    "hook": "Radar everywhere. Nobody saw it",
+    "soru": "Crew, or system?",
+    "sahneler": [
+      "At night off Japan, a container ship slammed into the destroyer Fitzgerald.",
+      "Seawater flooded crew berthing, and seven sailors were killed.",
+      "The destroyer carried advanced radar.",
+      "The bridge team lost track of the ships around them.",
+      "An order to turn and speed up came late.",
+      "It wasn't carried out in time.",
+      "Officers faced court proceedings.",
+      "The Navy overhauled training in its Pacific fleet."
+    ]
+  },
+  {
+    "slug": "uss-john-s-mccain-collision-2017",
+    "wiki": "USS_John_S._McCain_and_Alnic_MC_collision",
+    "commons": [
+      "USS John S. McCain collision"
+    ],
+    "baslik": "The Touchscreen Steering That Confused a Warship's Crew",
+    "ad": "USS John S. McCain",
+    "kisa": "USS John S. McCain",
+    "nesne": "Touchscreen controls",
+    "yil": 2017,
+    "kume": "software-and-control-failures",
+    "oncelik": 9,
+    "sonuc": "collided with a tanker near Singapore",
+    "tetik": "confusion over steering control on touchscreens",
+    "mekanizma": "overly complex touchscreen controls and a fatigued crew mishandling a steering transfer",
+    "sayi": "TEN DIED",
+    "ders": "the Navy moved back toward physical throttle and helm controls",
+    "zincir": [
+      "BUSY STRAIT",
+      "STEERING TRANSFERRED",
+      "CREW CONFUSED BY SCREENS",
+      "SHIP TURNS INTO TRAFFIC",
+      "COLLISION"
+    ],
+    "yanilgi": "The steering didn't break. The crew thought they'd lost it because the controls were confusing.",
+    "tartisma": "The Navy later returned to physical controls. Are touchscreens safe for critical systems?",
+    "basliklar": [
+      "Why USS John S. McCain Collided",
+      "The Touchscreen That Steered a Ship Into a Tanker"
+    ],
+    "kapak": [
+      "TOUCHSCREEN",
+      "TEN DIED"
+    ],
+    "hook": "The touchscreen confused them",
+    "soru": "Touchscreens for critical systems?",
+    "sahneler": [
+      "Near Singapore, the destroyer John S. McCain collided with an oil tanker.",
+      "Flooding hit crew berthing, and ten sailors died.",
+      "The crew believed they'd lost steering.",
+      "Control had been shifted between stations.",
+      "The touchscreen controls were overly complex.",
+      "Sailors weren't sure where key indicators were.",
+      "Reports also cited fatigue and poor communication.",
+      "The Navy moved back toward physical controls."
+    ]
+  },
+  {
+    "slug": "uss-guardian-grounding-2013",
+    "wiki": "USS_Guardian_(MCM-5)",
+    "commons": [
+      "USS Guardian grounding"
+    ],
+    "baslik": "A Warship Ran Onto a Reef Its Chart Put 8 Miles Away",
+    "ad": "USS Guardian",
+    "kisa": "USS Guardian",
+    "nesne": "Digital chart",
+    "yil": 2013,
+    "kume": "maritime-disasters",
+    "oncelik": 8,
+    "sonuc": "ran aground on Tubbataha Reef",
+    "tetik": "a digital chart misplacing the reef",
+    "mekanizma": "a chart error by the mapping agency plus crew failure to cross-check other charts",
+    "sayi": "WRONG CHART",
+    "ders": "the ship was cut apart and removed from the protected reef",
+    "zincir": [
+      "CHART MISPLACES REEF",
+      "CREW RELIES ON IT",
+      "NO CROSS-CHECK",
+      "SHIP GROUNDS",
+      "SHIP DISMANTLED ON REEF"
+    ],
+    "yanilgi": "The chart was wrong, but other charts were right. The crew didn't compare them.",
+    "tartisma": "The reef is a protected World Heritage site. Who pays for damage to a natural treasure?",
+    "basliklar": [
+      "Why USS Guardian Ran Aground",
+      "The Chart That Moved a Reef"
+    ],
+    "kapak": [
+      "WRONG CHART",
+      "ON THE REEF"
+    ],
+    "hook": "The chart moved the reef",
+    "soru": "Who pays for a damaged reef?",
+    "sahneler": [
+      "A US Navy minesweeper ran aground on Tubbataha Reef in the Philippines.",
+      "Within days it was declared lost, and it was later cut apart on the reef.",
+      "The crew used a digital chart.",
+      "It placed the reef miles from its real position.",
+      "Other charts showed it correctly.",
+      "The crew didn't cross-check them.",
+      "Investigators called the grounding preventable.",
+      "The ship was dismantled on the reef."
+    ]
+  },
+  {
+    "slug": "uss-san-francisco-seamount-2005",
+    "wiki": "USS_San_Francisco_(SSN-711)",
+    "commons": [
+      "USS San Francisco seamount"
+    ],
+    "baslik": "A Submarine Hit an Undersea Mountain at Full Speed",
+    "ad": "USS San Francisco",
+    "kisa": "USS San Francisco",
+    "nesne": "Nautical chart",
+    "yil": 2005,
+    "kume": "maritime-disasters",
+    "oncelik": 9,
+    "sonuc": "struck an undersea mountain near Guam",
+    "tetik": "a seamount missing from the chart in use",
+    "mekanizma": "flank speed at depth in poorly charted waters, with warnings left off the working chart",
+    "sayi": "FLANK SPEED",
+    "ders": "the Navy reviewed how chart hazard information is transferred",
+    "zincir": [
+      "UNCHARTED SEAMOUNT",
+      "WARNING ON OTHER CHARTS",
+      "NOT TRANSFERRED",
+      "FLANK SPEED AT DEPTH",
+      "HEAD-ON IMPACT"
+    ],
+    "yanilgi": "The mountain wasn't completely unknown. Other charts hinted at it.",
+    "tartisma": "The crew saved the sub despite ruptured tanks. Can good recovery excuse bad planning?",
+    "basliklar": [
+      "How USS San Francisco Hit an Undersea Mountain",
+      "The Seamount Missing From the Chart"
+    ],
+    "kapak": [
+      "SEAMOUNT",
+      "FLANK SPEED"
+    ],
+    "hook": "It hit a mountain underwater",
+    "soru": "Does recovery excuse planning?",
+    "sahneler": [
+      "Deep underwater near Guam, a nuclear submarine hit a mountain.",
+      "Suddenly the crew was thrown forward, and one sailor later died.",
+      "It was running at flank speed.",
+      "The seamount wasn't on the chart in use.",
+      "Other charts showed signs of it.",
+      "That warning hadn't been transferred.",
+      "The crew fought to surface with ruptured ballast tanks.",
+      "The Navy reviewed how chart hazards are shared."
+    ]
+  },
+  {
+    "slug": "bonhomme-richard-fire-2020",
+    "wiki": "USS_Bonhomme_Richard_(LHD-6)",
+    "commons": [
+      "USS Bonhomme Richard fire"
+    ],
+    "baslik": "A Warship Burned for Four Days in Port",
+    "ad": "USS Bonhomme Richard",
+    "kisa": "Bonhomme Richard",
+    "nesne": "Warship",
+    "yil": 2020,
+    "kume": "fire-and-explosions",
+    "oncelik": 9,
+    "sonuc": "burned for four days in San Diego",
+    "tetik": "a fire on a lower vehicle deck during maintenance",
+    "mekanizma": "a fire in a ship under maintenance spreading while defenses were degraded",
+    "sayi": "4 DAYS",
+    "ders": "the Navy scrapped the ship and reviewed fire readiness in port",
+    "zincir": [
+      "SHIP IN MAINTENANCE",
+      "FIRE ON VEHICLE DECK",
+      "SPREADS",
+      "FOUR DAYS TO PUT OUT",
+      "SHIP SCRAPPED"
+    ],
+    "yanilgi": "The ship wasn't at sea or in combat. It was in port for maintenance.",
+    "tartisma": "A sailor was charged with arson but acquitted. What happens when no one is found responsible?",
+    "basliklar": [
+      "Why the Bonhomme Richard Burned",
+      "The Warship Lost in Port"
+    ],
+    "kapak": [
+      "4 DAYS",
+      "SCRAPPED"
+    ],
+    "hook": "It burned for four days",
+    "soru": "What if no one is responsible?",
+    "sahneler": [
+      "A fire started on a US Navy assault ship docked in San Diego.",
+      "It spread for days, and dozens of sailors and civilians were injured.",
+      "The ship was undergoing maintenance.",
+      "The fire began on a lower vehicle deck.",
+      "It took four days to put out.",
+      "Repairs would have cost billions.",
+      "The ship was scrapped instead.",
+      "A sailor charged with arson was acquitted."
+    ],
+    "excludeStills": [
+      "Duc de Duras",
+      "NARA - 512966",
+      "SERAPIS"
+    ],
+    "strictStills": true
+  },
+  {
+    "slug": "uss-bennington-explosion-1954",
+    "wiki": "USS_Bennington_(CV-20)",
+    "commons": [
+      "USS Bennington 1954 explosion"
+    ],
+    "baslik": "The Catapult That Exploded Inside an Aircraft Carrier",
+    "ad": "USS Bennington",
+    "kisa": "USS Bennington",
+    "nesne": "Catapult",
+    "yil": 1954,
+    "kume": "fire-and-explosions",
+    "oncelik": 8,
+    "sonuc": "was torn by explosions off Rhode Island",
+    "tetik": "a burst catapult accumulator releasing oil vapour",
+    "mekanizma": "vaporized lubricating oil from a hydraulic catapult igniting below decks",
+    "sayi": "103 DEAD",
+    "ders": "the Navy abandoned hydraulic catapults for steam",
+    "zincir": [
+      "HYDRAULIC CATAPULT",
+      "ACCUMULATOR BURSTS",
+      "OIL VAPORIZES",
+      "VAPOUR IGNITES",
+      "EXPLOSIONS BELOW DECK"
+    ],
+    "yanilgi": "The hazard was known. It just hadn't caused serious harm yet.",
+    "tartisma": "Known risks were tolerated until they killed. Why do we wait?",
+    "basliklar": [
+      "Why USS Bennington Exploded",
+      "The Catapult That Blew Up a Carrier"
+    ],
+    "kapak": [
+      "CATAPULT",
+      "103 DEAD"
+    ],
+    "hook": "The danger was already known",
+    "soru": "Why do we wait?",
+    "sahneler": [
+      "Explosions ripped through the carrier Bennington off Rhode Island.",
+      "Within seconds, fire swept below decks, and one hundred three men were killed.",
+      "The ship used hydraulic catapults to launch aircraft.",
+      "A catapult accumulator burst.",
+      "It released vaporized lubricating oil.",
+      "The vapour ignited.",
+      "An inquiry found the hazard had been known.",
+      "The Navy switched to steam catapults."
+    ],
+    "excludeStills": [
+      "Peacetime Heroes"
+    ]
+  },
+  {
+    "slug": "uss-belknap-collision-1975",
+    "wiki": "USS_Belknap_(CG-26)",
+    "commons": [
+      "USS Belknap collision"
+    ],
+    "baslik": "The Cruiser Whose Aluminum Superstructure Collapsed in Fire",
+    "ad": "USS Belknap",
+    "kisa": "USS Belknap",
+    "nesne": "Aluminum superstructure",
+    "yil": 1975,
+    "kume": "materials-failures",
+    "oncelik": 8,
+    "sonuc": "collided with a carrier and burned",
+    "tetik": "a night collision with USS John F. Kennedy",
+    "mekanizma": "fuel fire weakening an aluminum superstructure until it collapsed",
+    "sayi": "COLLAPSED",
+    "ders": "the Navy moved back toward steel superstructures",
+    "zincir": [
+      "NIGHT MANOEUVRES",
+      "COLLISION WITH CARRIER",
+      "FUEL FIRE",
+      "ALUMINUM WEAKENS",
+      "SUPERSTRUCTURE COLLAPSES"
+    ],
+    "yanilgi": "Aluminum saved weight but lost strength in fire.",
+    "tartisma": "Lighter ships are faster and cheaper. How do you price fire risk into design?",
+    "basliklar": [
+      "Why USS Belknap's Superstructure Collapsed",
+      "The Aluminum Warship That Melted"
+    ],
+    "kapak": [
+      "ALUMINUM",
+      "COLLAPSED"
+    ],
+    "hook": "The superstructure collapsed",
+    "soru": "How do you price fire risk?",
+    "sahneler": [
+      "Off Sicily at night, the cruiser Belknap collided with the carrier John F. Kennedy.",
+      "Fire engulfed the cruiser, and eight sailors were killed.",
+      "Seven died on Belknap and one on the carrier.",
+      "The cruiser's superstructure was aluminum.",
+      "It saved weight.",
+      "But heat weakened it quickly.",
+      "The superstructure collapsed in the fire.",
+      "The Navy moved back toward steel."
+    ]
+  },
+  {
+    "slug": "ehime-maru-greeneville-2001",
+    "wiki": "Ehime_Maru_and_USS_Greeneville_collision",
+    "commons": [
+      "Ehime Maru"
+    ],
+    "baslik": "A Submarine Surfaced Under a Training Ship for Visitors",
+    "ad": "the Ehime Maru collision",
+    "kisa": "Ehime Maru",
+    "nesne": "Emergency surfacing",
+    "yil": 2001,
+    "kume": "maritime-disasters",
+    "oncelik": 9,
+    "sonuc": "sank a Japanese training ship off Oahu",
+    "tetik": "an emergency surfacing demonstration for civilian visitors",
+    "mekanizma": "an emergency ballast blow surfacing performed without spotting the ship above",
+    "sayi": "NINE DIED",
+    "ders": "the Navy visitor program came under intense scrutiny",
+    "zincir": [
+      "VIP VISITORS ABOARD",
+      "DEMONSTRATION PLANNED",
+      "SHIP ABOVE NOT DETECTED",
+      "EMERGENCY BLOW",
+      "SUB HITS SHIP"
+    ],
+    "yanilgi": "It wasn't a military exercise. It was a demonstration for civilian guests.",
+    "tartisma": "Civilians were in the control room. When does a show become a hazard?",
+    "basliklar": [
+      "Why USS Greeneville Sank the Ehime Maru",
+      "The Demonstration That Sank a Ship"
+    ],
+    "kapak": [
+      "DEMONSTRATION",
+      "NINE DIED"
+    ],
+    "hook": "It was a demonstration",
+    "soru": "When does a show become a hazard?",
+    "sahneler": [
+      "Off Oahu, a US submarine shot to the surface under a Japanese training ship.",
+      "The ship sank within ten minutes, and nine people were killed.",
+      "Sixteen civilian guests were aboard the submarine.",
+      "It performed an emergency surfacing manoeuvre for them.",
+      "The ship above hadn't been detected.",
+      "Four of the dead were high school students.",
+      "Japan was angered by the civilians in the control room.",
+      "The visitor program came under intense scrutiny."
+    ]
+  },
+  {
+    "slug": "uss-enterprise-fire-1969",
+    "wiki": "1969_USS_Enterprise_fire",
+    "commons": [
+      "1969 USS Enterprise fire"
+    ],
+    "baslik": "Hot Exhaust Cooked a Rocket on a Carrier Deck",
+    "ad": "the USS Enterprise fire",
+    "kisa": "USS Enterprise",
+    "nesne": "Zuni rocket",
+    "yil": 1969,
+    "kume": "fire-and-explosions",
+    "oncelik": 9,
+    "sonuc": "exploded and burned off Hawaii",
+    "tetik": "a starter unit's exhaust heating a rocket warhead",
+    "mekanizma": "a Zuni rocket cooking off, igniting fuel and setting off further munitions",
+    "sayi": "28 DIED",
+    "ders": "training introduced after the Forrestal fire helped limit the damage",
+    "zincir": [
+      "STARTER UNIT PARKED BEHIND JET",
+      "EXHAUST HEATS ROCKET",
+      "WARHEAD EXPLODES",
+      "FUEL IGNITES",
+      "MORE MUNITIONS BLOW"
+    ],
+    "yanilgi": "Nothing was fired. Exhaust from ground equipment heated the rocket until it exploded.",
+    "tartisma": "The captain kept turning to blow smoke away. What decisions matter in the first minute?",
+    "basliklar": [
+      "Why the USS Enterprise Caught Fire in 1969",
+      "The Rocket Cooked by Exhaust"
+    ],
+    "kapak": [
+      "COOKED OFF",
+      "28 DIED"
+    ],
+    "hook": "Exhaust set off a rocket",
+    "soru": "What matters in the first minute?",
+    "sahneler": [
+      "On the carrier Enterprise off Hawaii, a rocket exploded under a jet's wing.",
+      "Fire and explosions ripped across the deck, and twenty eight sailors died.",
+      "A tractor unit used to start aircraft was parked nearby.",
+      "Its exhaust heated a Zuni rocket.",
+      "The warhead exploded, igniting jet fuel.",
+      "More rockets exploded, blowing holes in the deck.",
+      "Burning fuel poured into the levels below.",
+      "Training after an earlier carrier fire helped limit the damage."
+    ]
+  },
+  {
+    "slug": "goldsboro-b52-1961",
+    "wiki": "1961_Goldsboro_B-52_crash",
+    "commons": [
+      "1961 Goldsboro B-52 crash"
+    ],
+    "baslik": "The Nuclear Bomb One Switch Away From Detonating",
+    "ad": "the Goldsboro B-52 crash",
+    "kisa": "Goldsboro",
+    "nesne": "Nuclear bombs",
+    "yil": 1961,
+    "kume": "nuclear-accidents",
+    "oncelik": 10,
+    "sonuc": "dropped two nuclear bombs over North Carolina",
+    "tetik": "a fuel leak that broke up the bomber",
+    "mekanizma": "structural breakup releasing weapons whose safety devices partially activated",
+    "sayi": "ONE SWITCH",
+    "ders": "the accident drove improvements in nuclear weapon safety design",
+    "zincir": [
+      "FUEL LEAK IN WING",
+      "BOMBER BREAKS UP",
+      "BOMBS FALL",
+      "SAFETY STEPS ACTIVATE",
+      "ONE SWITCH HOLDS"
+    ],
+    "yanilgi": "The bombs weren't fully safe. One was judged a single switch away from detonation.",
+    "tartisma": "Planes carried nuclear weapons on constant alert. Was the risk worth it?",
+    "basliklar": [
+      "The Day a Nuclear Bomb Almost Went Off in North Carolina",
+      "The Goldsboro B-52 Crash"
+    ],
+    "kapak": [
+      "ONE SWITCH",
+      "NUCLEAR"
+    ],
+    "hook": "One switch stopped it",
+    "soru": "Was the risk worth it?",
+    "sahneler": [
+      "A B-52 carrying two nuclear bombs broke apart over North Carolina.",
+      "Suddenly both bombs fell toward the ground.",
+      "A tanker crew had spotted a fuel leak in its wing.",
+      "The bomber lost structural integrity.",
+      "Three crew members died.",
+      "Some safety devices on one bomb activated during the fall.",
+      "Engineers later judged it one switch away from detonation.",
+      "It pushed improvements in weapon safety design."
+    ]
+  },
+  {
+    "slug": "fairchild-b52-1994",
+    "wiki": "1994_Fairchild_Air_Force_Base_B-52_crash",
+    "commons": [
+      "1994 Fairchild Air Force Base B-52 crash"
+    ],
+    "baslik": "Everyone Knew This Pilot Took Risks",
+    "ad": "the Fairchild B-52 crash",
+    "kisa": "Fairchild B-52",
+    "nesne": "Pilot behavior",
+    "yil": 1994,
+    "kume": "aviation-failures",
+    "oncelik": 9,
+    "sonuc": "stalled and crashed at Fairchild Air Force Base",
+    "tetik": "a steep turn beyond the bomber's limits",
+    "mekanizma": "a low, steep turn causing a stall, after years of unchecked risky flying",
+    "sayi": "CAUGHT ON VIDEO",
+    "ders": "the case became a lesson in leadership failing to act on warnings",
+    "zincir": [
+      "RISKY FLYING FOR YEARS",
+      "WARNINGS IGNORED",
+      "PRACTICE FOR AIRSHOW",
+      "STEEP LOW TURN",
+      "STALL AND CRASH"
+    ],
+    "yanilgi": "It wasn't a sudden lapse. The pilot's behavior had worried others for years.",
+    "tartisma": "Leaders failed to act on earlier incidents. Who is responsible for stopping a risky expert?",
+    "basliklar": [
+      "Why the Fairchild B-52 Crashed",
+      "The Warnings About One Pilot"
+    ],
+    "kapak": [
+      "WARNINGS IGNORED",
+      "STALL"
+    ],
+    "hook": "Everyone knew. Nobody stopped him",
+    "soru": "Who stops a risky expert?",
+    "sahneler": [
+      "A B-52 bomber rolled into a steep turn over Fairchild Air Force Base.",
+      "It stalled, hit the ground, and exploded, killing all four aboard.",
+      "The crash was caught on video.",
+      "The pilot pushed the bomber beyond its limits.",
+      "He had flown dangerously before.",
+      "Leaders didn't act on earlier incidents.",
+      "Investigators blamed his behavior and the lack of response.",
+      "It became a classic lesson in leadership failure."
+    ],
+    "excludeStills": [
+      "Immigrant in St. Louis"
+    ]
+  }
+]

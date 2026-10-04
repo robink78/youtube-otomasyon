@@ -1,0 +1,50 @@
+{
+  "slug": "why-rockets-explode",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:42.020Z",
+  "ekranHook": "Sitting on a bomb",
+  "mevcut": {
+    "puan": 75,
+    "pencereler": {
+      "0-5": "A rocket is basically a controlled explosion aimed at space. Inside are hundreds of",
+      "5-12": "tons of fuel and oxidizer. They must burn together in perfect, precise balance. A tiny crack or a stuck",
+      "12-20": "valve breaks that balance. The fuel ignites all at once instead of in a controlled burn. The thin metal tanks cannot contain",
+      "20-30": "that much energy. If it drifts off course, controllers destroy it on purpose. Better a fireball over the ocean than over a city. Every explosion teaches engineers how"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A rocket is basically a controlled explosion aimed at space."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a tiny crack or a stuck valve."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is uncontrolled propellant ignition and tank overpressure — and it is why every failure feeds the next design."
+      }
+    ],
+    "metin": "A rocket is basically a controlled explosion aimed at space. It took only a tiny crack or a stuck valve. So what actually happens inside? The answer is uncontrolled propellant ignition and tank overpressure — and it is why every failure feeds the next design.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

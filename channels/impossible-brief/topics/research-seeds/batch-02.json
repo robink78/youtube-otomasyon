@@ -1,0 +1,1566 @@
+{
+  "channel": "impossible-brief",
+  "records": [
+    {
+      "slug": "what-if-you-fell-into-a-black-hole",
+      "replaces": "would-one-kilometer-of-rock-contain-a-coin-mass-black-hole",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If You Fell Into a Black Hole?",
+      "hook": "Fall into a black hole feet first. Then what?",
+      "openingLine": "Fall into a black hole feet first. Then what?",
+      "secondBeat": "Your feet feel far more pull than your head.",
+      "scientificMechanism": "tidal force: the difference in gravity across a body's length, which near small black holes exceeds any material's strength",
+      "scenarioChange": "a person falls feet first into a black hole",
+      "expectedConsequence": "the body is stretched lengthwise and squeezed sideways; how violently depends on the black hole's mass",
+      "coreQuestion": "If you fell into a black hole, would gravity tear you apart before you crossed the edge?",
+      "misconception": "Bigger black holes aren't deadlier at the edge; their tidal stretch at the horizon is gentler.",
+      "number": "4.3 million Suns",
+      "thumbnailText": "STRETCHED LIKE SPAGHETTI",
+      "visualScenes": [
+        "astronaut falling feet first toward an event horizon",
+        "tidal force arrows stretching a body",
+        "diagram of four objects stretched toward a mass",
+        "Milky Way centre map with Sagittarius A* marked",
+        "event horizon size compared with Mercury's orbit",
+        "small versus giant black hole tidal comparison"
+      ],
+      "editorialTitles": [
+        "Why Falling Into a Giant Black Hole Is Gentler",
+        "What Spaghettification Actually Does to You"
+      ],
+      "facts": [
+        {
+          "claim": "Spaghettification is the vertical stretching and horizontal compression of objects into long thin shapes in a very strong, non-homogeneous gravitational field.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Spaghettification",
+          "url": "https://en.wikipedia.org/wiki/Spaghettification"
+        },
+        {
+          "claim": "If a person were to fall into a black hole feet first, the gravity at their feet would be much stronger than at their head, causing them to be vertically stretched.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Spaghettification",
+          "url": "https://en.wikipedia.org/wiki/Spaghettification"
+        },
+        {
+          "claim": "The current best estimate of the mass of Sagittarius A* is 4.297 million solar masses.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sagittarius A*",
+          "url": "https://en.wikipedia.org/wiki/Sagittarius_A*"
+        },
+        {
+          "claim": "The Schwarzschild radius of Sagittarius A* is 0.08 AU (12 million km).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sagittarius A*",
+          "url": "https://en.wikipedia.org/wiki/Sagittarius_A*"
+        },
+        {
+          "claim": "Sagittarius A* lies at a distance of 26,000 light-years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sagittarius A*",
+          "url": "https://en.wikipedia.org/wiki/Sagittarius_A*"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Fall into a black hole feet first. Then what?",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Your feet feel far more pull than your head.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Physicists call it spaghettification: stretched lengthwise, squeezed sideways.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Our galaxy's central black hole weighs 4.3 million Suns.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its point of no return sits about 12 million kilometres out.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "At that size, the stretch at the edge is surprisingly gentle.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Small black holes shred you long before the horizon.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the biggest black holes let you cross intact, then never leave.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+      "replaces": "what-breaks-first-if-a-kilometer-wide-asteroid-suddenly-doubles-in-mass",
+      "category": "SPACE",
+      "topic": "What If the Dinosaur-Killing Asteroid Hit Today?",
+      "hook": "One 10-kilometre asteroid ended the age of dinosaurs.",
+      "openingLine": "One 10-kilometre asteroid ended the age of dinosaurs.",
+      "secondBeat": "Stood on end, it would tower over Everest.",
+      "scientificMechanism": "an impact turns the asteroid's kinetic energy into heat, shock and ejecta; fine debris and soot then block sunlight",
+      "scenarioChange": "a Chicxulub-size asteroid strikes Earth today",
+      "expectedConsequence": "global heating from falling debris, then years of dimmed sunlight that collapse food chains",
+      "coreQuestion": "If the asteroid that ended the dinosaurs hit today, what would actually kill us: the crater or the sky?",
+      "misconception": "The crater didn't kill most species; the darkened, cooled sky afterwards did.",
+      "number": "66 million years",
+      "thumbnailText": "DINOSAUR KILLER, TODAY",
+      "visualScenes": [
+        "asteroid beside Mount Everest for scale",
+        "Chicxulub crater map on the Yucatán coast",
+        "impact ejecta arcing around the globe",
+        "soot layer dimming sunlight",
+        "timeline of the end-Cretaceous extinction",
+        "modern city skyline under darkened sky"
+      ],
+      "editorialTitles": [
+        "What If the Dinosaur Asteroid Hit Earth Today",
+        "Why the Sky, Not the Crater, Killed the Dinosaurs"
+      ],
+      "facts": [
+        {
+          "claim": "The Chicxulub crater was formed slightly over 66 million years ago when an asteroid, about ten kilometers (six miles) in diameter, struck Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Chicxulub crater",
+          "url": "https://en.wikipedia.org/wiki/Chicxulub_crater"
+        },
+        {
+          "claim": "The impactor was around 10 kilometers (6 mi) in diameter, large enough that, if set at sea level, it would have reached taller than Mount Everest.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Chicxulub crater",
+          "url": "https://en.wikipedia.org/wiki/Chicxulub_crater"
+        },
+        {
+          "claim": "More recent evidence suggests the crater is 300 km (190 mi) wide, and the 180 km (110 mi) ring observed is an inner wall of the larger crater.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Chicxulub crater",
+          "url": "https://en.wikipedia.org/wiki/Chicxulub_crater"
+        },
+        {
+          "claim": "Field research from the Hell Creek Formation shows the simultaneous mass extinction of myriad species, consistent with the impact event.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Chicxulub crater",
+          "url": "https://en.wikipedia.org/wiki/Chicxulub_crater"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One 10-kilometre asteroid ended the age of dinosaurs.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Stood on end, it would tower over Everest.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It struck slightly over 66 million years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The crater it left is up to 300 kilometres wide.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Today, the first danger would be heat and debris raining worldwide.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Then soot and dust would dim sunlight for years.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The real killer wasn't the crater. It was the sky.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-earth-had-rings-like-saturn",
+      "replaces": "would-anything-change-if-saturn-became-an-equal-mass-black-hole",
+      "category": "SPACE",
+      "topic": "What If Earth Had Rings Like Saturn?",
+      "hook": "Saturn's rings cover 80 times Earth's surface area.",
+      "openingLine": "Saturn's rings cover 80 times Earth's surface area.",
+      "secondBeat": "Yet their total mass is surprisingly small.",
+      "scientificMechanism": "a thin, wide ring plane reflects sunlight and casts a seasonal shadow on the planet it circles",
+      "scenarioChange": "Earth gained a Saturn-like ring system",
+      "expectedConsequence": "ring shadows would sweep across latitudes with the seasons, and night skies would carry a bright arc",
+      "coreQuestion": "If Earth had rings like Saturn, would they only change the view, or the weather too?",
+      "misconception": "Saturn's rings are enormous in area but surprisingly light, about two-thirds of Antarctica's ice.",
+      "number": "80× Earth's area",
+      "thumbnailText": "EARTH WITH RINGS",
+      "visualScenes": [
+        "Earth with a Saturn-like ring system",
+        "ring area compared with Earth's surface",
+        "Cassini Division gap close-up",
+        "ring shadow moving across hemispheres",
+        "night sky with a bright ring arc",
+        "Antarctic ice sheet mass comparison"
+      ],
+      "editorialTitles": [
+        "What If Earth Had Saturn's Rings",
+        "Why Saturn's Giant Rings Weigh So Little"
+      ],
+      "facts": [
+        {
+          "claim": "The mass of Saturn's rings is around two-thirds the mass of the Earth's entire Antarctic ice sheet, spread across a surface area 80 times larger than that of Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Rings of Saturn",
+          "url": "https://en.wikipedia.org/wiki/Rings_of_Saturn"
+        },
+        {
+          "claim": "The Cassini Division is a 4,800-kilometre-wide (3,000 mi) region between the A Ring and B Ring.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Rings of Saturn",
+          "url": "https://en.wikipedia.org/wiki/Rings_of_Saturn"
+        },
+        {
+          "claim": "Unlike the main rings, the E Ring is more than 2,000 km (1000 miles) thick and increases with its distance from Enceladus.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Rings of Saturn",
+          "url": "https://en.wikipedia.org/wiki/Rings_of_Saturn"
+        },
+        {
+          "claim": "Stellar occultation revealed 13 objects, ranging from 27 meters (89') to 10 km (6 miles) across, within the F ring.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Rings of Saturn",
+          "url": "https://en.wikipedia.org/wiki/Rings_of_Saturn"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Saturn's rings cover 80 times Earth's surface area.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Yet their total mass is surprisingly small.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "All that ice weighs about two-thirds of Antarctica's ice sheet.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Gaps like the Cassini Division span 4,800 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Give Earth rings like that, and they'd shade whole latitudes.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Seasons would shift as the shadow crossed each hemisphere.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "At night, sunlit ice would arc across the sky.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So rings wouldn't just decorate Earth. They'd change its weather.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-betelgeuse-exploded-tonight",
+      "replaces": "what-breaks-first-if-betelgeuse-suddenly-doubles-in-mass",
+      "category": "SPACE",
+      "topic": "What If Betelgeuse Exploded Tonight?",
+      "hook": "Betelgeuse will explode, likely within 100,000 years.",
+      "openingLine": "Betelgeuse will explode, likely within 100,000 years.",
+      "secondBeat": "It would then shine steadily for 2 to 3 months.",
+      "scientificMechanism": "a massive star that exhausts its fuel collapses and explodes as a supernova; its danger falls off with the square of distance",
+      "scenarioChange": "Betelgeuse went supernova tonight",
+      "expectedConsequence": "a brilliant new point of light for months, but at hundreds of light-years no harm to life on Earth",
+      "coreQuestion": "If Betelgeuse exploded tonight, should Earth be worried or just look up?",
+      "misconception": "Betelgeuse's 2019–2020 dimming wasn't the start of its explosion.",
+      "number": "400–600 light-years",
+      "thumbnailText": "BETELGEUSE GOES SUPERNOVA",
+      "visualScenes": [
+        "Orion constellation with Betelgeuse highlighted",
+        "red supergiant cross-section",
+        "distance scale from Earth to Betelgeuse",
+        "brightness curve of the Great Dimming",
+        "supernova flash over a night landscape",
+        "light curve fading after months"
+      ],
+      "editorialTitles": [
+        "What If Betelgeuse Exploded Tonight",
+        "Why Betelgeuse's Supernova Can't Hurt Us"
+      ],
+      "facts": [
+        {
+          "claim": "Betelgeuse is expected to end its evolution with a supernova explosion, most likely within 100,000 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Betelgeuse",
+          "url": "https://en.wikipedia.org/wiki/Betelgeuse"
+        },
+        {
+          "claim": "Current best estimates put Betelgeuse at the order of 400–600 light-years from the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Betelgeuse",
+          "url": "https://en.wikipedia.org/wiki/Betelgeuse"
+        },
+        {
+          "claim": "Starting in October 2019, Betelgeuse began to dim noticeably, and by mid-February 2020 its brightness had dropped by a factor of approximately 3, from magnitude 0.5 to 1.7.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Betelgeuse",
+          "url": "https://en.wikipedia.org/wiki/Betelgeuse"
+        },
+        {
+          "claim": "This type of supernova would remain at roughly constant brightness for 2–3 months before rapidly dimming.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Betelgeuse",
+          "url": "https://en.wikipedia.org/wiki/Betelgeuse"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Betelgeuse will explode, likely within 100,000 years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It would then shine steadily for 2 to 3 months.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It sits roughly 400 to 600 light-years away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That's far too distant to harm life on Earth.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "In 2019, it dimmed by a factor of about 3.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Many wondered if the explosion had begun. It hadn't.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the scariest star in Orion is mostly a spectacle.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-held-a-teaspoon-of-neutron-star",
+      "replaces": "would-one-kilometer-of-rock-contain-a-teaspoon-of-neutron-star-matter",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If You Held a Teaspoon of Neutron Star?",
+      "hook": "Why one teaspoon of neutron star would explode.",
+      "openingLine": "Why one teaspoon of neutron star would explode.",
+      "secondBeat": "It weighs about 900 Great Pyramids.",
+      "scientificMechanism": "neutron-star matter is held at nuclear density only by the star's own crushing gravity",
+      "scenarioChange": "a teaspoon of neutron-star matter appeared on Earth",
+      "expectedConsequence": "without the star's gravity to confine it, the matter would decompress explosively",
+      "coreQuestion": "If you held a teaspoon of neutron star, what would happen first: its weight or its release?",
+      "misconception": "A neutron-star teaspoon wouldn't just be heavy; outside the star it wouldn't stay compressed.",
+      "number": "900 Great Pyramids",
+      "thumbnailText": "900 PYRAMIDS/SPOON",
+      "visualScenes": [
+        "teaspoon beside the Great Pyramid for mass scale",
+        "neutron star size over a city map",
+        "Earth squeezed to a 305-metre sphere",
+        "cross-section of neutron-star layers",
+        "matter decompressing outward",
+        "gravity comparison chart"
+      ],
+      "editorialTitles": [
+        "What a Teaspoon of Neutron Star Would Do on Earth",
+        "Why You Could Never Hold Neutron Star Matter"
+      ],
+      "facts": [
+        {
+          "claim": "A neutron star is so dense that one teaspoon of its material would have a mass about 900 times the mass of the Great Pyramid of Giza.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neutron star",
+          "url": "https://en.wikipedia.org/wiki/Neutron_star"
+        },
+        {
+          "claim": "Neutron stars have a radius on the order of 10 kilometers (6 miles) and a mass of about 1.4 solar masses.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neutron star",
+          "url": "https://en.wikipedia.org/wiki/Neutron_star"
+        },
+        {
+          "claim": "The entire mass of the Earth at neutron star density would fit into a sphere 305 m in diameter.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neutron star",
+          "url": "https://en.wikipedia.org/wiki/Neutron_star"
+        },
+        {
+          "claim": "Neutron stars are known that have rotation periods from about 1.4 ms to 30 s.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neutron star",
+          "url": "https://en.wikipedia.org/wiki/Neutron_star"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one teaspoon of neutron star would explode.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It weighs about 900 Great Pyramids.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Neutron stars pack 1.4 Suns into about 10 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Squeeze Earth that hard, and it fits in 305 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Outside the star, that matter wouldn't stay compressed.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Freed from crushing gravity, it would expand violently.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the teaspoon isn't a weight. It's a bomb.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-yellowstone-erupted-again",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If Yellowstone Erupted Again?",
+      "hook": "Yellowstone erupted 631,000 years ago. Is it overdue?",
+      "openingLine": "Yellowstone erupted 631,000 years ago. Is it overdue?",
+      "secondBeat": "Three caldera-forming eruptions in about 2.1 million years.",
+      "scientificMechanism": "a large magma reservoir can empty in a caldera-forming eruption, spreading ash far downwind",
+      "scenarioChange": "Yellowstone produced another caldera-forming eruption",
+      "expectedConsequence": "nearby states buried in ash, continent-wide disruption to flights and crops, but not an extinction event",
+      "coreQuestion": "If Yellowstone erupted again, would it end civilisation or just disrupt it?",
+      "misconception": "Yellowstone isn't 'overdue'; eruptions don't run on a schedule.",
+      "number": "631,000 years",
+      "thumbnailText": "YELLOWSTONE AWAKENS",
+      "visualScenes": [
+        "Yellowstone caldera outline map",
+        "timeline of three eruption cycles",
+        "ash fall footprint across North America",
+        "grounded aircraft under ash sky",
+        "lava flow versus explosive eruption comparison",
+        "hot springs over the magma reservoir"
+      ],
+      "editorialTitles": [
+        "What If Yellowstone Erupted Again",
+        "Why Yellowstone Isn't Overdue"
+      ],
+      "facts": [
+        {
+          "claim": "Volcanism began 2.15 million years ago and proceeded through three major volcanic cycles.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Yellowstone Caldera",
+          "url": "https://en.wikipedia.org/wiki/Yellowstone_Caldera"
+        },
+        {
+          "claim": "The climactic eruption of the first and largest cycle produced the Huckleberry Ridge Tuff about 2.08 million years ago.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Yellowstone Caldera",
+          "url": "https://en.wikipedia.org/wiki/Yellowstone_Caldera"
+        },
+        {
+          "claim": "The most recent supereruption, about 631,000 years ago, produced the Lava Creek Tuff and created the present Yellowstone Caldera.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Yellowstone Caldera",
+          "url": "https://en.wikipedia.org/wiki/Yellowstone_Caldera"
+        },
+        {
+          "claim": "Post-caldera eruptions included basalt flows, rhyolite domes and flows, with the last known magmatic eruption about 70,000 years ago.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Yellowstone Caldera",
+          "url": "https://en.wikipedia.org/wiki/Yellowstone_Caldera"
+        },
+        {
+          "claim": "The second cycle culminated in eruption of the Mesa Falls Tuff about 1.3 million years ago.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Yellowstone Caldera",
+          "url": "https://en.wikipedia.org/wiki/Yellowstone_Caldera"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Yellowstone erupted 631,000 years ago. Is it overdue?",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Three caldera-forming eruptions in about 2.1 million years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Its last magmatic eruption of any kind was 70,000 years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "A new supereruption would bury nearby states in ash.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Far downwind, ash would ground flights and smother crops.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "But eruptions don't run on a schedule, so it isn't overdue.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Smaller lava flows are far likelier than another giant blast.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Yellowstone's real risk is disruption, not extinction.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-atlantic-ocean-current-shut-down",
+      "replaces": "what-if-the-atlantic-overturning-circulation-changed-direction-every-six",
+      "category": "EARTH",
+      "topic": "What If the Atlantic Ocean Current Shut Down?",
+      "hook": "Up to 25% of northern heat rides one current.",
+      "openingLine": "Up to 25% of northern heat rides one current.",
+      "secondBeat": "Climate models say it will weaken this century.",
+      "scientificMechanism": "the Atlantic meridional overturning circulation carries warm surface water north and returns cold deep water south",
+      "scenarioChange": "the Atlantic overturning circulation shut down",
+      "expectedConsequence": "harsher northern European winters and shifted rain belts, arriving faster than societies usually adapt",
+      "coreQuestion": "If the Atlantic's great current shut down, would Europe freeze, or would the real danger be speed?",
+      "misconception": "A shutdown wouldn't plunge Europe into an ice age; a 15–20 °C crash is considered incorrect.",
+      "number": "25% of northward heat",
+      "thumbnailText": "ATLANTIC CURRENT STOPS",
+      "visualScenes": [
+        "Atlantic overturning circulation loop diagram",
+        "heat flow arrows toward northwest Europe",
+        "Europe temperature difference map",
+        "rain belt shifting south",
+        "Greenland ice core temperature record",
+        "climate model projection chart"
+      ],
+      "editorialTitles": [
+        "What If the Atlantic Current Shut Down",
+        "Why an AMOC Collapse Isn't an Ice Age"
+      ],
+      "facts": [
+        {
+          "claim": "The AMOC carries up to 25% of the total heat toward the northern hemisphere, and plays an important role in the climate around northwest Europe.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Atlantic meridional overturning circulation",
+          "url": "https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation"
+        },
+        {
+          "claim": "There is a consensus the AMOC keeps northern and western Europe warmer than it would be otherwise, with the difference of 4 °C (7.2 °F) and 10 °C (18 °F) depending on the area.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Atlantic meridional overturning circulation",
+          "url": "https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation"
+        },
+        {
+          "claim": "Climate models predict the AMOC will further weaken during the 21st century.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Atlantic meridional overturning circulation",
+          "url": "https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation"
+        },
+        {
+          "claim": "A cooling of up to 15–20 °C (27–36 °F) is generally considered incorrect.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Atlantic meridional overturning circulation",
+          "url": "https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation"
+        },
+        {
+          "claim": "D-O events are best known for the rapid warming of between 8 °C (15 °F) and 15 °C (27 °F) that occurred in Greenland over several decades.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Atlantic meridional overturning circulation",
+          "url": "https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Up to 25% of northern heat rides one current.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Climate models say it will weaken this century.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It keeps parts of Europe 4 to 10 °C warmer.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Claims of a 15 to 20 °C crash are considered incorrect.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "But winters would harden, and rain belts would shift south.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "In Greenland's past, similar swings brought 8 to 15 °C within decades.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the danger isn't an ice age. It's speed.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-took-off-your-spacesuit-in-space",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Took Off Your Spacesuit in Space?",
+      "hook": "Without a spacesuit, you'd black out in 12 seconds.",
+      "openingLine": "Without a spacesuit, you'd black out in 12 seconds.",
+      "secondBeat": "You wouldn't explode, despite the movies.",
+      "scientificMechanism": "in vacuum, air leaves the lungs and blood stops carrying oxygen to the brain within seconds",
+      "scenarioChange": "an astronaut's suit lost pressure in space",
+      "expectedConsequence": "loss of consciousness in seconds; brief exposures are survivable, long ones are fatal",
+      "coreQuestion": "If you took off your spacesuit in space, would you explode, freeze, or suffocate?",
+      "misconception": "You wouldn't explode or instantly freeze; oxygen loss is what kills.",
+      "number": "9–12 seconds",
+      "thumbnailText": "NO SPACESUIT",
+      "visualScenes": [
+        "astronaut helmet off in orbit",
+        "oxygen levels dropping in bloodstream diagram",
+        "brain losing oxygen timeline",
+        "1966 vacuum chamber test",
+        "countdown clock to 90 seconds",
+        "movie myth versus reality split screen"
+      ],
+      "editorialTitles": [
+        "What Happens If You Take Off Your Spacesuit in Space",
+        "Why Space Suffocates You Before It Freezes You"
+      ],
+      "facts": [
+        {
+          "claim": "After 9 to 12 seconds, the deoxygenated blood reaches the brain, and it results in the loss of consciousness.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space exposure",
+          "url": "https://en.wikipedia.org/wiki/Space_exposure"
+        },
+        {
+          "claim": "Exposure to vacuum for up to 30 seconds is unlikely to cause permanent physical damage.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space exposure",
+          "url": "https://en.wikipedia.org/wiki/Space_exposure"
+        },
+        {
+          "claim": "Animal experiments show that rapid and complete recovery is normal for exposures shorter than 90 seconds, while longer full-body exposures are fatal and resuscitation has never been successful.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space exposure",
+          "url": "https://en.wikipedia.org/wiki/Space_exposure"
+        },
+        {
+          "claim": "In December 1966, NASA test subject Jim LeBlanc was testing a pressurized space suit prototype in vacuum conditions.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space exposure",
+          "url": "https://en.wikipedia.org/wiki/Space_exposure"
+        },
+        {
+          "claim": "A colleague entered the chamber within 25 seconds and gave LeBlanc oxygen.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space exposure",
+          "url": "https://en.wikipedia.org/wiki/Space_exposure"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Without a spacesuit, you'd black out in 12 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "You wouldn't explode, despite the movies.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Deoxygenated blood reaches the brain after 9 to 12 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Up to 30 seconds is unlikely to cause permanent damage.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 1966, a NASA test subject's suit leaked in a vacuum chamber.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "A colleague reached him within 25 seconds with oxygen.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Beyond 90 seconds, animal tests show resuscitation has never worked.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So space doesn't blow you up. It suffocates you fast.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-tried-to-drill-through-the-earth",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If We Tried to Drill Through the Earth?",
+      "hook": "Humanity's deepest hole stopped at 12,262 metres.",
+      "openingLine": "Humanity's deepest hole stopped at 12,262 metres.",
+      "secondBeat": "It barely scratched the crust.",
+      "scientificMechanism": "temperature and pressure rise with depth, softening rock and destroying drilling equipment",
+      "scenarioChange": "engineers tried to drill toward Earth's centre",
+      "expectedConsequence": "the drill fails in the crust, stopped by heat long before hardness becomes the limit",
+      "coreQuestion": "If we tried to drill through the Earth, what would stop us first: rock or heat?",
+      "misconception": "Hard rock isn't the main barrier to deep drilling; heat is.",
+      "number": "12,262 metres",
+      "thumbnailText": "DEEPEST HOLE EVER",
+      "visualScenes": [
+        "Kola borehole cross-section against Earth's layers",
+        "drill rig in the Arctic",
+        "depth comparison with Mount Everest and ocean trench",
+        "temperature rising with depth chart",
+        "rock deforming under heat",
+        "narrow 23-centimetre borehole close-up"
+      ],
+      "editorialTitles": [
+        "What Stopped the Deepest Hole Ever Drilled",
+        "Why We Can't Drill Through the Earth"
+      ],
+      "facts": [
+        {
+          "claim": "Drilling at Kola SG-3 began in 1970 using the Uralmash-4E, and later the Uralmash-15000 series drilling rig.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Kola Superdeep Borehole",
+          "url": "https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole"
+        },
+        {
+          "claim": "In 1974, the new Uralmash-15000 rig was installed onsite, named after the new target depth, set at 15,000 metres (49,000 ft).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Kola Superdeep Borehole",
+          "url": "https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole"
+        },
+        {
+          "claim": "The third hole reached 12,262 metres (40,230 ft) in 1989.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Kola Superdeep Borehole",
+          "url": "https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole"
+        },
+        {
+          "claim": "The drilling of the fourth hole was stopped due to higher-than-expected temperatures of 180 °C (356 °F) in 1992 at 11,882 metres (38,983 ft) of depth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Kola Superdeep Borehole",
+          "url": "https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole"
+        },
+        {
+          "claim": "A total of five 23-centimetre-diameter (9 in) boreholes were drilled.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Kola Superdeep Borehole",
+          "url": "https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Humanity's deepest hole stopped at 12,262 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It barely scratched the crust.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Soviet engineers began drilling Kola SG-3 in 1970.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "They aimed for 15,000 metres and fell short.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Heat stopped them: 180 °C, far above what they expected.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Rock that hot starts behaving more like plastic than stone.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Deeper down, the heat and pressure only climb.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the planet's first defence against drilling is heat, not hardness.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-reached-absolute-zero",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If You Reached Absolute Zero?",
+      "hook": "Nothing has ever reached −273.15 °C: absolute zero.",
+      "openingLine": "Nothing has ever reached −273.15 °C: absolute zero.",
+      "secondBeat": "The record is 38 trillionths of a degree above.",
+      "scientificMechanism": "temperature measures particle motion; quantum mechanics leaves a minimum zero-point energy even at the limit",
+      "scenarioChange": "matter was cooled all the way to absolute zero",
+      "expectedConsequence": "it can be approached ever closer but never reached, and even then motion would not fully stop",
+      "coreQuestion": "If you reached absolute zero, would everything simply stop moving?",
+      "misconception": "Absolute zero isn't total stillness; zero-point motion remains, and the limit can't be reached.",
+      "number": "−273.15 °C",
+      "thumbnailText": "COLDER THAN SPACE",
+      "visualScenes": [
+        "thermometer falling toward −273.15 °C",
+        "particles slowing in a gas",
+        "laser cooling apparatus",
+        "ideal gas pressure line reaching zero",
+        "superfluid helium climbing a wall",
+        "record temperature timeline"
+      ],
+      "editorialTitles": [
+        "What Happens at Absolute Zero",
+        "Why Absolute Zero Can Never Be Reached"
+      ],
+      "facts": [
+        {
+          "claim": "The Kelvin scale is defined so that absolute zero is 0 K, equivalent to −273.15 °C on the Celsius scale, and −459.67 °F on the Fahrenheit scale.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Absolute zero",
+          "url": "https://en.wikipedia.org/wiki/Absolute_zero"
+        },
+        {
+          "claim": "The current world record for effective temperatures was set in 2021 at 38 picokelvin through matter-wave lensing of rubidium Bose–Einstein condensates.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Absolute zero",
+          "url": "https://en.wikipedia.org/wiki/Absolute_zero"
+        },
+        {
+          "claim": "In 2018, scientists at the University of Bremen achieved temperatures as low as 38 picokelvin (pK), 38 trillionths of a degree above absolute zero.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Absolute zero",
+          "url": "https://en.wikipedia.org/wiki/Absolute_zero"
+        },
+        {
+          "claim": "0 kelvins is defined as the point at which pressure or volume would vanish in an ideal gas.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Absolute zero",
+          "url": "https://en.wikipedia.org/wiki/Absolute_zero"
+        },
+        {
+          "claim": "By 1845, Michael Faraday had reached a new record for lowest temperatures by reaching −130 °C (−202 °F; 143 K).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Absolute zero",
+          "url": "https://en.wikipedia.org/wiki/Absolute_zero"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Nothing has ever reached −273.15 °C: absolute zero.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The record is 38 trillionths of a degree above.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It's where an ideal gas's pressure would fall to zero.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Physics lets you approach it, but never arrive.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Even there, particles would keep a minimum jiggle, called zero-point motion.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Near it, helium flows without friction and climbs container walls.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So absolute zero isn't stillness. It's a limit you chase forever.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-gamma-ray-burst-hit-earth",
+      "replaces": "would-one-kilometer-of-rock-contain-a-nearby-gamma-ray-burst",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If a Gamma-Ray Burst Hit Earth?",
+      "hook": "A gamma-ray burst 8,000 light-years away could devastate Earth.",
+      "openingLine": "A gamma-ray burst 8,000 light-years away could devastate Earth.",
+      "secondBeat": "It wouldn't burn us. It would strip our ozone.",
+      "scientificMechanism": "a beamed gamma-ray burst drives atmospheric chemistry that destroys ozone, letting solar ultraviolet reach the surface",
+      "scenarioChange": "a gamma-ray burst within a few thousand light-years was beamed at Earth",
+      "expectedConsequence": "years of ozone loss and harsh ultraviolet that hits plankton, crops and food chains",
+      "coreQuestion": "If a gamma-ray burst hit Earth, would it burn us, or strip away our protection?",
+      "misconception": "A distant gamma-ray burst wouldn't incinerate Earth; the damage comes through the ozone layer.",
+      "number": "25–35% ozone loss",
+      "thumbnailText": "GAMMA-RAY BURST HITS",
+      "visualScenes": [
+        "gamma-ray beam from a collapsing star",
+        "Milky Way map with danger radius",
+        "ozone layer thinning globe",
+        "ultraviolet reaching ocean plankton",
+        "Ordovician sea life fossils",
+        "timeline of mass extinctions"
+      ],
+      "editorialTitles": [
+        "What a Gamma-Ray Burst Would Do to Earth",
+        "Why a Gamma-Ray Burst Kills Through the Sky"
+      ],
+      "facts": [
+        {
+          "claim": "If a GRB were to occur within the Milky Way within 5,000 to 8,000 light-years and its emission were beamed straight towards Earth, the effects could be harmful and potentially devastating for its ecosystems.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gamma-ray burst",
+          "url": "https://en.wikipedia.org/wiki/Gamma-ray_burst"
+        },
+        {
+          "claim": "GRBs deplete ozone, with models showing a possible global reduction of 25–35%, with as much as 75% in certain locations, an effect that would last for years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gamma-ray burst",
+          "url": "https://en.wikipedia.org/wiki/Gamma-ray_burst"
+        },
+        {
+          "claim": "The Ordovician mass extinction 450 million years ago may have been caused by a GRB.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gamma-ray burst",
+          "url": "https://en.wikipedia.org/wiki/Gamma-ray_burst"
+        },
+        {
+          "claim": "A GRB could potentially vaporize anything in its beams' paths within a range of around 200 light-years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gamma-ray burst",
+          "url": "https://en.wikipedia.org/wiki/Gamma-ray_burst"
+        }
+      ],
+      "narration": [
+        {
+          "text": "A gamma-ray burst 8,000 light-years away could devastate Earth.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It wouldn't burn us. It would strip our ozone.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Models show a global ozone loss of 25 to 35%.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In places, losses could reach 75%, lasting for years.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Unfiltered ultraviolet light would then hit plankton and crops.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "One may have triggered the Ordovician extinction, 450 million years ago.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the deadliest light in the universe works through the sky.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-built-a-space-elevator",
+      "replaces": "could-a-working-space-elevator-scale-worldwide-in-ten-years",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If We Built a Space Elevator?",
+      "hook": "A space elevator cable must stretch past 35,786 kilometres.",
+      "openingLine": "A space elevator cable must stretch past 35,786 kilometres.",
+      "secondBeat": "No material we can make is strong enough.",
+      "scientificMechanism": "a tether anchored at the equator and extending past geostationary orbit is held taut by centrifugal force",
+      "scenarioChange": "engineers built a working space elevator",
+      "expectedConsequence": "the cable needs a breaking length far beyond steel; the bottleneck is materials science",
+      "coreQuestion": "If we built a space elevator, what would stop it: money, or the cable itself?",
+      "misconception": "Space elevators aren't blocked by rocket science; no cable material yet is strong enough.",
+      "number": "35,786 km",
+      "thumbnailText": "ELEVATOR TO ORBIT",
+      "visualScenes": [
+        "tether rising from the equator to geostationary orbit",
+        "tension diagram peaking at 35,786 km",
+        "steel versus nanotube breaking length bars",
+        "carbon nanotube lattice close-up",
+        "climber ascending the cable",
+        "8-day trip timeline"
+      ],
+      "editorialTitles": [
+        "What It Would Take to Build a Space Elevator",
+        "Why Space Elevators Wait on Chemistry"
+      ],
+      "facts": [
+        {
+          "claim": "The greatest tension on a space elevator cable is at the point of geostationary orbit, 35,786 km (22,236 mi) above the Earth's equator.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space elevator",
+          "url": "https://en.wikipedia.org/wiki/Space_elevator"
+        },
+        {
+          "claim": "Metals like titanium, steel or aluminium alloys have breaking lengths of only 20–30 km (0.2–0.3 MPa/(kg/m3)).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space elevator",
+          "url": "https://en.wikipedia.org/wiki/Space_elevator"
+        },
+        {
+          "claim": "A functional Earth space elevator would require a tether of 30–80 megaYuri (corresponding to 3100–8200 km of breaking length).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space elevator",
+          "url": "https://en.wikipedia.org/wiki/Space_elevator"
+        },
+        {
+          "claim": "In 2014, Google X found that no one had yet manufactured a perfectly formed carbon nanotube strand longer than a meter.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space elevator",
+          "url": "https://en.wikipedia.org/wiki/Space_elevator"
+        },
+        {
+          "claim": "The design's passenger climber would be able to reach the level of geosynchronous equatorial orbit (GEO) after an 8-day trip.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Space elevator",
+          "url": "https://en.wikipedia.org/wiki/Space_elevator"
+        }
+      ],
+      "narration": [
+        {
+          "text": "A space elevator cable must stretch past 35,786 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "No material we can make is strong enough.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Steel can hang only 20 to 30 kilometres before snapping.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "An Earth elevator needs 3,100 to 8,200 kilometres of breaking length.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Carbon nanotubes could work, in theory.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "But no one has made a perfect strand longer than a meter.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Even then, a climber would take about 8 days to reach orbit.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the elevator waits on chemistry, not rocket science.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-mined-a-metal-asteroid",
+      "replaces": "could-autonomous-asteroid-mining-scale-worldwide-in-ten-years",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If We Mined a Metal Asteroid?",
+      "hook": "Psyche is the only core-like metal world we know.",
+      "openingLine": "Psyche is the only core-like metal world we know.",
+      "secondBeat": "It's about 278 kilometres across at its longest.",
+      "scientificMechanism": "a body's bulk density reveals its mix of metal, rock and empty space before anyone lands on it",
+      "scenarioChange": "humans tried to mine the metal-rich asteroid Psyche",
+      "expectedConsequence": "the first obstacle is knowing what it is made of; hauling metal across the Solar System comes after",
+      "coreQuestion": "If we mined a metal asteroid, would it be solid treasure or a rubble pile?",
+      "misconception": "Psyche probably isn't a solid ball of iron; its density is about half that of pure iron-nickel.",
+      "number": "278 km",
+      "thumbnailText": "A METAL WORLD",
+      "visualScenes": [
+        "Psyche asteroid shape model",
+        "density comparison bars with iron meteorites",
+        "Psyche spacecraft launch",
+        "trajectory from Earth to the asteroid belt",
+        "metal and rock mixture cross-section",
+        "arrival timeline to 2029"
+      ],
+      "editorialTitles": [
+        "What If We Mined the Metal Asteroid Psyche",
+        "Why Psyche May Not Be Solid Metal"
+      ],
+      "facts": [
+        {
+          "claim": "Psyche has a shape consistent with a Jacobi ellipsoid and dimensions within a few km of 278 km x 238 km x 171 km.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 16 Psyche",
+          "url": "https://en.wikipedia.org/wiki/16_Psyche"
+        },
+        {
+          "claim": "Psyche has a bulk density of 3.977±0.253 g/cm3, considerably higher than most small Solar System bodies.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 16 Psyche",
+          "url": "https://en.wikipedia.org/wiki/16_Psyche"
+        },
+        {
+          "claim": "The iron-nickel found in most iron meteorites has a bulk density of 7.9 g/cm3.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 16 Psyche",
+          "url": "https://en.wikipedia.org/wiki/16_Psyche"
+        },
+        {
+          "claim": "The Psyche spacecraft was launched on 13 October 2023, with an expected arrival in 2029.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 16 Psyche",
+          "url": "https://en.wikipedia.org/wiki/16_Psyche"
+        },
+        {
+          "claim": "16 Psyche is the only metallic core-like body discovered so far.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 16 Psyche",
+          "url": "https://en.wikipedia.org/wiki/16_Psyche"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Psyche is the only core-like metal world we know.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It's about 278 kilometres across at its longest.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Its density is around 4 grams per cubic centimetre.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Pure iron-nickel would be nearly double that, at 7.9.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "So Psyche is likely metal mixed with rock or rubble.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "NASA's probe launched in 2023 and should arrive in 2029.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Mining it would mean hauling metal across hundreds of millions of kilometres.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So first we have to learn what it's actually made of.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-tunguska-blast-happened-over-a-city",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Tunguska Blast Happened Over a City?",
+      "hook": "A 50-metre rock flattened 2,150 square kilometres of forest.",
+      "openingLine": "A 50-metre rock flattened 2,150 square kilometres of forest.",
+      "secondBeat": "It exploded in mid-air, leaving no crater.",
+      "scientificMechanism": "a stony asteroid that explodes in the air releases its energy as a shockwave rather than a crater",
+      "scenarioChange": "a Tunguska-size airburst occurred over a major city",
+      "expectedConsequence": "widespread structural damage across an area the size of a metropolis, without any crater",
+      "coreQuestion": "If the Tunguska blast happened over a city today, what would do the damage: impact or shockwave?",
+      "misconception": "Tunguska left no crater; the object exploded in the air.",
+      "number": "2,150 km²",
+      "thumbnailText": "TUNGUSKA HITS CITY",
+      "visualScenes": [
+        "Siberian forest flattened in radial pattern",
+        "airburst altitude diagram",
+        "2,150 km² footprint over a city map",
+        "standing scorched trees at the centre",
+        "energy comparison chart in megatons",
+        "shockwave expanding over rooftops"
+      ],
+      "editorialTitles": [
+        "What If Tunguska Exploded Over a City",
+        "Why Tunguska Left No Crater"
+      ],
+      "facts": [
+        {
+          "claim": "The event is attributed to a meteor air burst, the atmospheric explosion of a stony asteroid about 50–60 m (160–200 ft) wide.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tunguska event",
+          "url": "https://en.wikipedia.org/wiki/Tunguska_event"
+        },
+        {
+          "claim": "Occurring over an area of 2,150 km2 (830 sq mi) in the sparsely populated East Siberian taiga, the explosion felled a significant amount of trees.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tunguska event",
+          "url": "https://en.wikipedia.org/wiki/Tunguska_event"
+        },
+        {
+          "claim": "The object is thought to have exploded at an altitude of 5–10 km (3–6 mi) rather than hitting the Earth's surface, leaving no impact crater.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tunguska event",
+          "url": "https://en.wikipedia.org/wiki/Tunguska_event"
+        },
+        {
+          "claim": "Estimates of its energy have ranged from 3–30 megatons of TNT (13–126 PJ).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tunguska event",
+          "url": "https://en.wikipedia.org/wiki/Tunguska_event"
+        },
+        {
+          "claim": "Investigators found a zone, roughly 8 km (5.0 mi) across, where the trees were scorched and devoid of branches, but still standing upright.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tunguska event",
+          "url": "https://en.wikipedia.org/wiki/Tunguska_event"
+        }
+      ],
+      "narration": [
+        {
+          "text": "A 50-metre rock flattened 2,150 square kilometres of forest.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It exploded in mid-air, leaving no crater.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The blast came 5 to 10 kilometres above Siberia.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Estimates put its energy at 3 to 30 megatons.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Over a city, windows and roofs would fail across that whole area.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Right below the blast, trees stayed upright but were stripped bare.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the danger isn't the impact. It's the shockwave from above.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-earth-became-like-venus",
+      "replaces": "would-a-century-be-enough-to-adapt-if-venus-transformed",
+      "category": "SPACE",
+      "topic": "What If Earth Became Like Venus?",
+      "hook": "Earth's near-twin Venus has a 462 °C surface.",
+      "openingLine": "Earth's near-twin Venus has a 462 °C surface.",
+      "secondBeat": "That's hotter than Mercury, which is closer to the Sun.",
+      "scientificMechanism": "a thick carbon dioxide atmosphere traps outgoing heat through the greenhouse effect",
+      "scenarioChange": "Earth's carbon ended up in its atmosphere, as on Venus",
+      "expectedConsequence": "a crushing, scorching surface; the difference between the twins is where their carbon is stored",
+      "coreQuestion": "If Earth became like Venus, what would it take, and what would change first?",
+      "misconception": "Venus isn't hottest because it's closest to the Sun; its atmosphere is the reason.",
+      "number": "462 °C",
+      "thumbnailText": "EARTH BECOMES VENUS",
+      "visualScenes": [
+        "Earth and Venus side by side to scale",
+        "Venus atmosphere composition pie",
+        "greenhouse heat trapping diagram",
+        "surface pressure comparison",
+        "carbon stored in Earth's rocks and oceans",
+        "Venera lander on the surface"
+      ],
+      "editorialTitles": [
+        "What If Earth Became Like Venus",
+        "Why Venus Is Hotter Than Mercury"
+      ],
+      "facts": [
+        {
+          "claim": "Venus has a diameter of 12,103.6 km, only 638.4 km less than Earth's, and its mass is 81.5% of Earth's.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Venus",
+          "url": "https://en.wikipedia.org/wiki/Venus"
+        },
+        {
+          "claim": "Venus's dense atmosphere is 96.5% carbon dioxide, causing an intense greenhouse effect, with most of the remaining 3.5% being nitrogen.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Venus",
+          "url": "https://en.wikipedia.org/wiki/Venus"
+        },
+        {
+          "claim": "The CO2-rich atmosphere generates the strongest greenhouse effect in the Solar System, creating surface temperatures of at least 735 K (462 °C; 864 °F).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Venus",
+          "url": "https://en.wikipedia.org/wiki/Venus"
+        },
+        {
+          "claim": "The density at the surface is 65 kg/m3, 6.5% that of water or 50 times as dense as Earth's atmosphere at 293 K (20 °C; 68 °F) at sea level.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Venus",
+          "url": "https://en.wikipedia.org/wiki/Venus"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Earth's near-twin Venus has a 462 °C surface.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's hotter than Mercury, which is closer to the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Venus has 81.5% of Earth's mass.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "But its atmosphere is 96.5% carbon dioxide.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That traps heat in the strongest greenhouse effect in the Solar System.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its air at the surface is 50 times denser than ours.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Earth's carbon is mostly locked in rocks and oceans instead.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the difference between the twins is where the carbon lives.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-stopped-sleeping-entirely",
+      "replaces": "what-changes-if-humans-no-longer-face-the-human-need-for-sleep",
+      "category": "HUMAN",
+      "topic": "What If You Stopped Sleeping Entirely?",
+      "hook": "After 24 hours awake, your brain starts failing you.",
+      "openingLine": "After 24 hours awake, your brain starts failing you.",
+      "secondBeat": "The record is 264 hours: 11 days awake.",
+      "scientificMechanism": "sleep pressure builds with time awake until the brain forces brief microsleeps",
+      "scenarioChange": "a person tried to stop sleeping entirely",
+      "expectedConsequence": "attention and reaction times collapse within a day, and the brain begins taking sleep involuntarily",
+      "coreQuestion": "If you stopped sleeping entirely, how long before your brain took it anyway?",
+      "misconception": "You can't simply push through; the brain slips into microsleeps whether you want them or not.",
+      "number": "264 hours",
+      "thumbnailText": "NO SLEEP. EVER.",
+      "visualScenes": [
+        "clock spinning through 11 days",
+        "attention test results declining",
+        "EEG showing a microsleep",
+        "driver drifting during a microsleep",
+        "recommended 7-hour sleep bar",
+        "cardiometabolic risk chart"
+      ],
+      "editorialTitles": [
+        "What Happens If You Stop Sleeping",
+        "Why Your Brain Takes Sleep Anyway"
+      ],
+      "facts": [
+        {
+          "claim": "Gardner stayed awake for 264 hours (11 days), breaking the previous record of 260 hours held by Tom Rounds of Honolulu.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sleep deprivation",
+          "url": "https://en.wikipedia.org/wiki/Sleep_deprivation"
+        },
+        {
+          "claim": "The US National Sleep Foundation recommends that adults aim for 7 hours of sleep per night.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sleep deprivation",
+          "url": "https://en.wikipedia.org/wiki/Sleep_deprivation"
+        },
+        {
+          "claim": "A study in 2025 found that just after 24 hours of sleep deprivation, healthy participants showed significant decreases in attentional processing and increased reaction times.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sleep deprivation",
+          "url": "https://en.wikipedia.org/wiki/Sleep_deprivation"
+        },
+        {
+          "claim": "Microsleeps usually last for a few seconds, usually no longer than 15 seconds, and happen most frequently when a person is trying to stay awake when they are feeling sleepy.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sleep deprivation",
+          "url": "https://en.wikipedia.org/wiki/Sleep_deprivation"
+        },
+        {
+          "claim": "In a study that followed over 160,000 healthy, non-obese adults, those who self-reported sleep duration less than six hours a day were at increased risk for developing multiple cardiometabolic risk factors.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sleep deprivation",
+          "url": "https://en.wikipedia.org/wiki/Sleep_deprivation"
+        }
+      ],
+      "narration": [
+        {
+          "text": "After 24 hours awake, your brain starts failing you.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The record is 264 hours: 11 days awake.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Attention drops and reaction times slow.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Tired brains slip into microsleeps, usually under 15 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "You can't choose them. They strike while you try to stay awake.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Adults are advised to aim for 7 hours a night.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Short sleep is linked to higher cardiometabolic risk.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So sleep isn't optional downtime. The brain takes it anyway.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    }
+  ]
+}

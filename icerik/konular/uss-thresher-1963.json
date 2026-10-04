@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Submarine That Couldn't Surface",
+  "kaynaklar": [
+    {
+      "ad": "uss-thresher-1.jpg",
+      "wikimedia": "Ships searching for USS Thresher (SSN-593), 15 April 1963 (NH 97555).jpg"
+    },
+    {
+      "ad": "uss-thresher-2.jpg",
+      "wikimedia": "USS Thresher (SSN-593) debris.jpg"
+    },
+    {
+      "ad": "uss-thresher-3.jpg",
+      "wikimedia": "Amerikaanse atoomduikboot Thesher met 129 man vermist, Bestanddeelnr 915-0380.jpg"
+    },
+    {
+      "ad": "uss-thresher-4.jpg",
+      "wikimedia": "USS Thresher (SSN-593) sonar dome.jpg"
+    },
+    {
+      "ad": "uss-thresher-5.jpg",
+      "wikimedia": "USS Thresher memorial dedication at Arlington.jpg"
+    },
+    {
+      "ad": "uss-thresher-6.jpg",
+      "wikimedia": "330-PSA-110-63 (USN 711302) (22171571340).jpg"
+    },
+    {
+      "ad": "uss-thresher-7.jpg",
+      "wikimedia": "330-PSA-110-63 (USN 711303) (22172737989).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A nuclear submarine sank during a deep-diving test.",
+      "kaynak": "Footage/uss-thresher-1.jpg"
+    },
+    {
+      "metin": "It fell past its crush depth, and all one hundred twenty nine aboard were lost.",
+      "kaynak": "Footage/uss-thresher-2.jpg"
+    },
+    {
+      "metin": "Investigators believe a pipe joint leaked in the engine room.",
+      "kaynak": "Footage/uss-thresher-3.jpg"
+    },
+    {
+      "metin": "The reactor shut down, and the sub lost power.",
+      "kaynak": "Footage/uss-thresher-4.jpg"
+    },
+    {
+      "metin": "The crew tried an emergency blow of the ballast tanks.",
+      "kaynak": "Footage/uss-thresher-5.jpg"
+    },
+    {
+      "metin": "Ice formed in the air system and blocked it.",
+      "kaynak": "Footage/uss-thresher-6.jpg"
+    },
+    {
+      "metin": "Without that air, Thresher kept sinking.",
+      "kaynak": "Footage/uss-thresher-7.jpg"
+    },
+    {
+      "metin": "The Navy then created the SUBSAFE programme.",
+      "kaynak": "Footage/uss-thresher-1.jpg"
+    }
+  ],
+  "aciklama": "USS Thresher was lost during a deep-diving test. The cause: probable flooding from a piping joint, reactor shutdown, and ice blocking the emergency ballast blow.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "USS Thresher",
+    "1963",
+    "submarine",
+    "engineering failure"
+  ],
+  "hook": "It couldn't surface",
+  "soru": "How do you prove what happened?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "USS Thresher",
+    "kisa": "USS Thresher",
+    "nesne": "Submarine",
+    "yil": 1963,
+    "sonuc": "was lost during a deep-diving test",
+    "tetik": "a likely piping leak in the engine room at test depth",
+    "mekanizma": "probable flooding from a piping joint, reactor shutdown, and ice blocking the emergency ballast blow",
+    "sayi": "129 LOST",
+    "ders": "the US Navy created the SUBSAFE programme for submarine systems",
+    "zincir": [
+      "LIKELY PIPE JOINT LEAK",
+      "REACTOR SHUTS DOWN",
+      "EMERGENCY BLOW ATTEMPTED",
+      "ICE BLOCKS AIR STRAINERS",
+      "SUB SINKS PAST CRUSH DEPTH"
+    ],
+    "zaman": [],
+    "yanilgi": "The crew did try to surface. The emergency air system froze, so the ballast tanks never emptied.",
+    "tartisma": "The exact cause can never be fully proven. How do you fix a failure you can only reconstruct?",
+    "basliklar": [
+      "The Submarine That Couldn't Surface",
+      "Why USS Thresher Was Lost",
+      "The Emergency Blow That Froze"
+    ],
+    "kapak": [
+      "IT COULDN'T SURFACE",
+      "129 LOST"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Thresher (SSN-593)",
+        "url": "https://en.wikipedia.org/wiki/USS_Thresher_(SSN-593)"
+      },
+      {
+        "ad": "Government source — THRESHER pg 1 300 (cited by Wikipedia)",
+        "url": "https://www.secnav.navy.mil/foia/readingroom/HotTopics/THRESHER%20RELEASE/THRESHER%20pg%201-300.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-04",
+    "wiki": "USS_Thresher_(SSN-593)",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Ships searching for USS Thresher (SSN-593), 15 April 1963 (NH 97555).jpg [Public domain]",
+      "USS Thresher (SSN-593) debris.jpg [Public domain]",
+      "Amerikaanse atoomduikboot Thesher met 129 man vermist, Bestanddeelnr 915-0380.jpg [CC0]",
+      "USS Thresher (SSN-593) sonar dome.jpg [Public domain]",
+      "USS Thresher memorial dedication at Arlington.jpg [Public domain]",
+      "330-PSA-110-63 (USN 711302) (22171571340).jpg [Public domain]",
+      "330-PSA-110-63 (USN 711303) (22172737989).jpg [Public domain]"
+    ]
+  }
+}

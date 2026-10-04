@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Sensor Installed Upside Down Crashed a NASA Capsule",
+  "kaynaklar": [
+    {
+      "ad": "genesis-capsule-1.jpg",
+      "wikimedia": "Genesis crash site scenery.jpg"
+    },
+    {
+      "ad": "genesis-capsule-2.jpg",
+      "wikimedia": "Genesis recovery 09.09.2004.jpg"
+    },
+    {
+      "ad": "genesis-capsule-3.jpg",
+      "wikimedia": "GenSC collection2 150dpi.jpg"
+    },
+    {
+      "ad": "genesis-capsule-4.jpg",
+      "wikimedia": "Genesis Collector Array.jpg"
+    },
+    {
+      "ad": "genesis-capsule-5.jpg",
+      "wikimedia": "Genesis Mission Trajectory and Flight Plan.jpg"
+    },
+    {
+      "ad": "genesis-capsule-6.jpg",
+      "wikimedia": "Genesis pre-launch.jpg"
+    },
+    {
+      "ad": "genesis-capsule-7.jpg",
+      "wikimedia": "Genesis spacecraft.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A NASA capsule carrying pieces of the solar wind slammed into the Utah desert.",
+      "kaynak": "Footage/genesis-capsule-1.jpg"
+    },
+    {
+      "metin": "Its parachutes never opened, and it crashed at high speed.",
+      "kaynak": "Footage/genesis-capsule-2.jpg"
+    },
+    {
+      "metin": "The parachutes worked fine.",
+      "kaynak": "Footage/genesis-capsule-3.jpg"
+    },
+    {
+      "metin": "They were triggered by small acceleration sensors.",
+      "kaynak": "Footage/genesis-capsule-4.jpg"
+    },
+    {
+      "metin": "Those sensors had been installed backwards.",
+      "kaynak": "Footage/genesis-capsule-5.jpg"
+    },
+    {
+      "metin": "They never detected the capsule slowing down in the atmosphere.",
+      "kaynak": "Footage/genesis-capsule-6.jpg"
+    },
+    {
+      "metin": "Some samples were still recovered from the wreck.",
+      "kaynak": "Footage/genesis-capsule-7.jpg"
+    },
+    {
+      "metin": "Parts like these now need independent orientation checks.",
+      "kaynak": "Footage/genesis-capsule-1.jpg"
+    }
+  ],
+  "aciklama": "Genesis slammed into the Utah desert. The cause: g-switch sensors mounted in the wrong orientation, so the parachutes never deployed.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Genesis",
+    "2004",
+    "capsule",
+    "engineering failure"
+  ],
+  "hook": "Installed upside down",
+  "soru": "Who checks the orientation?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the Genesis sample capsule",
+    "kisa": "Genesis",
+    "nesne": "Capsule",
+    "yil": 2004,
+    "sonuc": "slammed into the Utah desert",
+    "tetik": "accelerometers installed backwards",
+    "mekanizma": "g-switch sensors mounted in the wrong orientation, so the parachutes never deployed",
+    "sayi": "UPSIDE DOWN",
+    "ders": "orientation-critical parts now require independent verification",
+    "zincir": [
+      "SENSORS INSTALLED BACKWARDS",
+      "DESIGN REVIEW MISSES IT",
+      "RE-ENTRY DECELERATION NOT DETECTED",
+      "PARACHUTES NEVER OPEN",
+      "CAPSULE HITS THE GROUND"
+    ],
+    "zaman": [],
+    "yanilgi": "The parachutes didn't fail. They were never told to open, because the sensors were mounted backwards.",
+    "tartisma": "Some solar wind samples were still recovered from the wreck. Is a partial success a failure?",
+    "basliklar": [
+      "A Sensor Installed Upside Down Crashed a NASA Capsule",
+      "Why the Genesis Capsule Crashed",
+      "The Sensors Installed Upside Down"
+    ],
+    "kapak": [
+      "UPSIDE DOWN",
+      "NO PARACHUTE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Genesis (spacecraft)",
+        "url": "https://en.wikipedia.org/wiki/Genesis_(spacecraft)"
+      },
+      {
+        "ad": "NASA — Ares 5 (cited by Wikipedia)",
+        "url": "http://research.jsc.nasa.gov/PDF/Ares-5.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "Genesis_(spacecraft)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Genesis crash site scenery.jpg [Public domain]",
+      "Genesis recovery 09.09.2004.jpg [Public domain]",
+      "GenSC collection2 150dpi.jpg [Public domain]",
+      "Genesis Collector Array.jpg [Public domain]",
+      "Genesis Mission Trajectory and Flight Plan.jpg [Public domain]",
+      "Genesis pre-launch.jpg [Public domain]",
+      "Genesis spacecraft.jpg [Public domain]"
+    ]
+  }
+}

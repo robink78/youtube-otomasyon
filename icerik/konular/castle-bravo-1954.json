@@ -1,0 +1,121 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": 5,
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "baslik": "Castle Bravo: The Bomb That Came Out 2.5 Times Too Big",
+  "kaynaklar": [
+    {
+      "ad": "bravo.ogv",
+      "wikimedia": "Castle Bravo Detonation USDE.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Designers expected 6 megatons. They got 15.",
+      "kaynak": "Footage/bravo.ogv",
+      "baslangic": 42
+    },
+    {
+      "metin": "The fireball grew four miles wide in about a second.",
+      "kaynak": "Footage/bravo.ogv",
+      "baslangic": 5
+    },
+    {
+      "metin": "Castle Bravo is still the largest bomb America ever tested.",
+      "kaynak": "Footage/bravo.ogv",
+      "baslangic": 9
+    },
+    {
+      "metin": "So how was the math off by that much?",
+      "kaynak": "Footage/bravo.ogv",
+      "baslangic": 26
+    },
+    {
+      "metin": "Lithium-7. Physicists assumed it was inert. It became extra fuel.",
+      "kaynak": "Footage/bravo.ogv",
+      "baslangic": 29
+    },
+    {
+      "metin": "Fallout rained on islands and a Japanese fishing boat far away.",
+      "kaynak": "Footage/bravo.ogv",
+      "baslangic": 18
+    },
+    {
+      "metin": "Its crew fell sick, and one man later died.",
+      "kaynak": "Footage/bravo.ogv",
+      "baslangic": 34
+    },
+    {
+      "metin": "One wrong assumption, two and a half times the power.",
+      "kaynak": "Footage/bravo.ogv",
+      "baslangic": 49
+    }
+  ],
+  "aciklama": "On March 1, 1954, Castle Bravo yielded 15 megatons instead of the expected 6. Lithium-7, assumed inert, joined the reaction.\n\n#shorts #engineering #nuclear",
+  "etiketler": [
+    "Castle Bravo",
+    "1954",
+    "Bikini Atoll",
+    "lithium-7",
+    "hydrogen bomb",
+    "nuclear test",
+    "fallout"
+  ],
+  "hook": "Fifteen, not six",
+  "soru": "Should it have gone ahead?",
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "Castle Bravo",
+    "kisa": "Castle Bravo",
+    "nesne": "Thermonuclear device",
+    "yil": 1954,
+    "sonuc": "yielded 15 megatons instead of 6",
+    "tetik": "lithium-7 that was assumed inert",
+    "mekanizma": "an unexpected lithium-7 reaction that bred extra tritium fuel",
+    "sayi": "15 MEGATONS",
+    "ders": "yield predictions now include lithium-7 reactions, and fallout zones are drawn far wider",
+    "zincir": [
+      "LITHIUM DEUTERIDE FUEL (MOSTLY Li-7)",
+      "Li-7 ASSUMED INERT",
+      "NEUTRONS SPLIT Li-7 INTO TRITIUM",
+      "YIELD 15 Mt, NOT 6",
+      "FALLOUT BEYOND THE DANGER ZONE"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 1, 1954 06:45 local",
+        "olay": "Detonation at Bikini Atoll"
+      },
+      {
+        "t": "+1 s",
+        "olay": "Fireball about 4.5 miles wide"
+      },
+      {
+        "t": "Hours later",
+        "olay": "Fallout reaches Rongelap and the fishing boat Lucky Dragon No. 5"
+      }
+    ],
+    "yanilgi": "It wasn't only a shift in the wind: the 2.5× yield error itself sent the cloud far higher and wider than the danger zone was drawn for.",
+    "tartisma": "Physicists missed one reaction in one ingredient. How do you test for an effect you don't know exists?",
+    "basliklar": [
+      "Castle Bravo: The Bomb That Came Out 2.5 Times Too Big",
+      "The Math Error Behind America's Biggest Nuclear Test",
+      "Why Castle Bravo Was 15 Megatons Instead of 6",
+      "The Ingredient Physicists Thought Was Harmless"
+    ],
+    "kapak": [
+      "15 MEGATONS",
+      "NOT 6",
+      "LITHIUM-7"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Castle Bravo",
+        "url": "https://en.wikipedia.org/wiki/Castle_Bravo"
+      }
+    ]
+  }
+}

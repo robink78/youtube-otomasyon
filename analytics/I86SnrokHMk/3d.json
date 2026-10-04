@@ -1,0 +1,660 @@
+{
+  "videoId": "I86SnrokHMk",
+  "baslik": "Vesuvius 1944: An Eruption in the Middle of a War",
+  "yayin": "2026-09-28",
+  "yasGun": 3,
+  "sureSn": 28,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 1272,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 47,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": 172,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewDuration": {
+      "deger": 20,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewPercentage": {
+      "deger": 73.68,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "subscribersGained": {
+      "deger": 5,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "subscribersLost": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "netSubscribers": {
+      "deger": 5,
+      "durum": "ok",
+      "kaynak": "derived from Analytics API gained − lost"
+    },
+    "shares": {
+      "deger": 1,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "engagedViews": {
+      "deger": 464,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "first30sRetention": {
+      "deger": 0.4375,
+      "durum": "ok",
+      "kaynak": "Analytics API (retention at 100% of video)"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": 3.9,
+      "durum": "ok",
+      "kaynak": "derived"
+    },
+    "netSubsPer1000": {
+      "deger": 3.9,
+      "durum": "ok",
+      "kaynak": "derived"
+    },
+    "likeRate": {
+      "deger": 3.7,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": [
+    {
+      "kaynak": "SHORTS",
+      "ad": "Shorts feed",
+      "views": 1005,
+      "oran": 0.8862433862433863
+    },
+    {
+      "kaynak": "YT_SEARCH",
+      "ad": "Search",
+      "views": 111,
+      "oran": 0.09788359788359788
+    },
+    {
+      "kaynak": "YT_OTHER_PAGE",
+      "ad": "Browse/other YouTube",
+      "views": 13,
+      "oran": 0.01146384479717813
+    },
+    {
+      "kaynak": "YT_CHANNEL",
+      "ad": "Channel page",
+      "views": 5,
+      "oran": 0.004409171075837742
+    },
+    {
+      "kaynak": "NO_LINK_OTHER",
+      "ad": "Direct/unknown",
+      "views": 0,
+      "oran": 0
+    }
+  ],
+  "tutma": [
+    {
+      "oran": 0.01,
+      "izleme": 1.431,
+      "goreceli": 0.65355
+    },
+    {
+      "oran": 0.02,
+      "izleme": 1.4246,
+      "goreceli": 0.64105
+    },
+    {
+      "oran": 0.03,
+      "izleme": 1.4203000000000001,
+      "goreceli": 0.6287
+    },
+    {
+      "oran": 0.04,
+      "izleme": 1.3944,
+      "goreceli": 0.617
+    },
+    {
+      "oran": 0.05,
+      "izleme": 1.375,
+      "goreceli": 0.60625
+    },
+    {
+      "oran": 0.06,
+      "izleme": 1.3621,
+      "goreceli": 0.5967
+    },
+    {
+      "oran": 0.07,
+      "izleme": 1.3254,
+      "goreceli": 0.58845
+    },
+    {
+      "oran": 0.08,
+      "izleme": 1.2974,
+      "goreceli": 0.5815
+    },
+    {
+      "oran": 0.09,
+      "izleme": 1.2671999999999999,
+      "goreceli": 0.5757
+    },
+    {
+      "oran": 0.1,
+      "izleme": 1.2414,
+      "goreceli": 0.57095
+    },
+    {
+      "oran": 0.11,
+      "izleme": 1.2306,
+      "goreceli": 0.5669500000000001
+    },
+    {
+      "oran": 0.12,
+      "izleme": 1.2241,
+      "goreceli": 0.5635
+    },
+    {
+      "oran": 0.13,
+      "izleme": 1.2155,
+      "goreceli": 0.56045
+    },
+    {
+      "oran": 0.14,
+      "izleme": 1.2046999999999999,
+      "goreceli": 0.5577
+    },
+    {
+      "oran": 0.15,
+      "izleme": 1.1961,
+      "goreceli": 0.5551
+    },
+    {
+      "oran": 0.16,
+      "izleme": 1.1789,
+      "goreceli": 0.5526
+    },
+    {
+      "oran": 0.17,
+      "izleme": 1.1509,
+      "goreceli": 0.55015
+    },
+    {
+      "oran": 0.18,
+      "izleme": 1.1185,
+      "goreceli": 0.5478
+    },
+    {
+      "oran": 0.19,
+      "izleme": 1.0862,
+      "goreceli": 0.54555
+    },
+    {
+      "oran": 0.2,
+      "izleme": 1.0517,
+      "goreceli": 0.54335
+    },
+    {
+      "oran": 0.21,
+      "izleme": 1.0302,
+      "goreceli": 0.5413
+    },
+    {
+      "oran": 0.22,
+      "izleme": 1.0194,
+      "goreceli": 0.5394
+    },
+    {
+      "oran": 0.23,
+      "izleme": 0.9956999999999999,
+      "goreceli": 0.53765
+    },
+    {
+      "oran": 0.24,
+      "izleme": 0.9871,
+      "goreceli": 0.53615
+    },
+    {
+      "oran": 0.25,
+      "izleme": 0.9634,
+      "goreceli": 0.5349
+    },
+    {
+      "oran": 0.26,
+      "izleme": 0.9460999999999999,
+      "goreceli": 0.5339
+    },
+    {
+      "oran": 0.27,
+      "izleme": 0.9375,
+      "goreceli": 0.5332
+    },
+    {
+      "oran": 0.28,
+      "izleme": 0.9289000000000001,
+      "goreceli": 0.5327500000000001
+    },
+    {
+      "oran": 0.29,
+      "izleme": 0.9009,
+      "goreceli": 0.53265
+    },
+    {
+      "oran": 0.3,
+      "izleme": 0.8793000000000001,
+      "goreceli": 0.5329
+    },
+    {
+      "oran": 0.31,
+      "izleme": 0.8728,
+      "goreceli": 0.5335
+    },
+    {
+      "oran": 0.32,
+      "izleme": 0.8556,
+      "goreceli": 0.53445
+    },
+    {
+      "oran": 0.33,
+      "izleme": 0.8405,
+      "goreceli": 0.53585
+    },
+    {
+      "oran": 0.34,
+      "izleme": 0.8233,
+      "goreceli": 0.53765
+    },
+    {
+      "oran": 0.35,
+      "izleme": 0.8081999999999999,
+      "goreceli": 0.53995
+    },
+    {
+      "oran": 0.36,
+      "izleme": 0.7888,
+      "goreceli": 0.5427
+    },
+    {
+      "oran": 0.37,
+      "izleme": 0.7716,
+      "goreceli": 0.546
+    },
+    {
+      "oran": 0.38,
+      "izleme": 0.7585999999999999,
+      "goreceli": 0.54985
+    },
+    {
+      "oran": 0.39,
+      "izleme": 0.7543000000000001,
+      "goreceli": 0.5543
+    },
+    {
+      "oran": 0.4,
+      "izleme": 0.75,
+      "goreceli": 0.5594
+    },
+    {
+      "oran": 0.41,
+      "izleme": 0.7478,
+      "goreceli": 0.56515
+    },
+    {
+      "oran": 0.42,
+      "izleme": 0.7434999999999999,
+      "goreceli": 0.5716
+    },
+    {
+      "oran": 0.43,
+      "izleme": 0.7392,
+      "goreceli": 0.57875
+    },
+    {
+      "oran": 0.44,
+      "izleme": 0.7241,
+      "goreceli": 0.58665
+    },
+    {
+      "oran": 0.45,
+      "izleme": 0.7198,
+      "goreceli": 0.5952999999999999
+    },
+    {
+      "oran": 0.46,
+      "izleme": 0.7112,
+      "goreceli": 0.60475
+    },
+    {
+      "oran": 0.47,
+      "izleme": 0.7047,
+      "goreceli": 0.61495
+    },
+    {
+      "oran": 0.48,
+      "izleme": 0.6940000000000001,
+      "goreceli": 0.62585
+    },
+    {
+      "oran": 0.49,
+      "izleme": 0.6809999999999999,
+      "goreceli": 0.6374
+    },
+    {
+      "oran": 0.5,
+      "izleme": 0.6659,
+      "goreceli": 0.64955
+    },
+    {
+      "oran": 0.51,
+      "izleme": 0.6487,
+      "goreceli": 0.66215
+    },
+    {
+      "oran": 0.52,
+      "izleme": 0.6379,
+      "goreceli": 0.6750499999999999
+    },
+    {
+      "oran": 0.53,
+      "izleme": 0.6335999999999999,
+      "goreceli": 0.68815
+    },
+    {
+      "oran": 0.54,
+      "izleme": 0.6293,
+      "goreceli": 0.7012
+    },
+    {
+      "oran": 0.55,
+      "izleme": 0.6228,
+      "goreceli": 0.7140500000000001
+    },
+    {
+      "oran": 0.56,
+      "izleme": 0.6142,
+      "goreceli": 0.72655
+    },
+    {
+      "oran": 0.57,
+      "izleme": 0.6013000000000001,
+      "goreceli": 0.73845
+    },
+    {
+      "oran": 0.58,
+      "izleme": 0.597,
+      "goreceli": 0.7497
+    },
+    {
+      "oran": 0.59,
+      "izleme": 0.5884,
+      "goreceli": 0.7601
+    },
+    {
+      "oran": 0.6,
+      "izleme": 0.5797,
+      "goreceli": 0.7696000000000001
+    },
+    {
+      "oran": 0.61,
+      "izleme": 0.5710999999999999,
+      "goreceli": 0.77815
+    },
+    {
+      "oran": 0.62,
+      "izleme": 0.5625,
+      "goreceli": 0.7858
+    },
+    {
+      "oran": 0.63,
+      "izleme": 0.556,
+      "goreceli": 0.79255
+    },
+    {
+      "oran": 0.64,
+      "izleme": 0.5453,
+      "goreceli": 0.79845
+    },
+    {
+      "oran": 0.65,
+      "izleme": 0.5431,
+      "goreceli": 0.80355
+    },
+    {
+      "oran": 0.66,
+      "izleme": 0.5366,
+      "goreceli": 0.80795
+    },
+    {
+      "oran": 0.67,
+      "izleme": 0.528,
+      "goreceli": 0.8118000000000001
+    },
+    {
+      "oran": 0.68,
+      "izleme": 0.528,
+      "goreceli": 0.81515
+    },
+    {
+      "oran": 0.69,
+      "izleme": 0.5259,
+      "goreceli": 0.8180499999999999
+    },
+    {
+      "oran": 0.7,
+      "izleme": 0.5172,
+      "goreceli": 0.8206
+    },
+    {
+      "oran": 0.71,
+      "izleme": 0.5129,
+      "goreceli": 0.8229
+    },
+    {
+      "oran": 0.72,
+      "izleme": 0.5108,
+      "goreceli": 0.82495
+    },
+    {
+      "oran": 0.73,
+      "izleme": 0.5108,
+      "goreceli": 0.8268500000000001
+    },
+    {
+      "oran": 0.74,
+      "izleme": 0.5085999999999999,
+      "goreceli": 0.82865
+    },
+    {
+      "oran": 0.75,
+      "izleme": 0.5043,
+      "goreceli": 0.8303499999999999
+    },
+    {
+      "oran": 0.76,
+      "izleme": 0.5,
+      "goreceli": 0.83195
+    },
+    {
+      "oran": 0.77,
+      "izleme": 0.4978,
+      "goreceli": 0.83355
+    },
+    {
+      "oran": 0.78,
+      "izleme": 0.49570000000000003,
+      "goreceli": 0.8351
+    },
+    {
+      "oran": 0.79,
+      "izleme": 0.4892,
+      "goreceli": 0.8367
+    },
+    {
+      "oran": 0.8,
+      "izleme": 0.4828,
+      "goreceli": 0.8383499999999999
+    },
+    {
+      "oran": 0.81,
+      "izleme": 0.47840000000000005,
+      "goreceli": 0.8401
+    },
+    {
+      "oran": 0.82,
+      "izleme": 0.47409999999999997,
+      "goreceli": 0.8419
+    },
+    {
+      "oran": 0.83,
+      "izleme": 0.4698,
+      "goreceli": 0.84385
+    },
+    {
+      "oran": 0.84,
+      "izleme": 0.46340000000000003,
+      "goreceli": 0.84595
+    },
+    {
+      "oran": 0.85,
+      "izleme": 0.45909999999999995,
+      "goreceli": 0.84825
+    },
+    {
+      "oran": 0.86,
+      "izleme": 0.4569,
+      "goreceli": 0.8507
+    },
+    {
+      "oran": 0.87,
+      "izleme": 0.45909999999999995,
+      "goreceli": 0.85335
+    },
+    {
+      "oran": 0.88,
+      "izleme": 0.45909999999999995,
+      "goreceli": 0.8562
+    },
+    {
+      "oran": 0.89,
+      "izleme": 0.45909999999999995,
+      "goreceli": 0.8592
+    },
+    {
+      "oran": 0.9,
+      "izleme": 0.4569,
+      "goreceli": 0.8624
+    },
+    {
+      "oran": 0.91,
+      "izleme": 0.4569,
+      "goreceli": 0.86575
+    },
+    {
+      "oran": 0.92,
+      "izleme": 0.4569,
+      "goreceli": 0.8692
+    },
+    {
+      "oran": 0.93,
+      "izleme": 0.4569,
+      "goreceli": 0.8727
+    },
+    {
+      "oran": 0.94,
+      "izleme": 0.45039999999999997,
+      "goreceli": 0.8762
+    },
+    {
+      "oran": 0.95,
+      "izleme": 0.4483,
+      "goreceli": 0.8795999999999999
+    },
+    {
+      "oran": 0.96,
+      "izleme": 0.44179999999999997,
+      "goreceli": 0.8829
+    },
+    {
+      "oran": 0.97,
+      "izleme": 0.44179999999999997,
+      "goreceli": 0.88595
+    },
+    {
+      "oran": 0.98,
+      "izleme": 0.4397,
+      "goreceli": 0.8888
+    },
+    {
+      "oran": 0.99,
+      "izleme": 0.4375,
+      "goreceli": 0.89135
+    },
+    {
+      "oran": 1,
+      "izleme": 0.4375,
+      "goreceli": 0.8936
+    }
+  ],
+  "analitikDurumu": "ok",
+  "toplandi": "2026-10-01T18:29:46.709Z",
+  "checkpoint": "3d",
+  "teshis": [
+    {
+      "kod": "WEAK_TOPIC_PACKAGING",
+      "guven": "low",
+      "aciklama": "Current title scores 31.3/100 in the title engine; best editorial option scores 54.",
+      "oneri": "Heuristic only — test the stronger title as a logged experiment rather than switching silently."
+    }
+  ],
+  "retentionDrop": {
+    "second": 6,
+    "magnitude": 0.09919999999999995,
+    "sceneIndex": 1,
+    "sentence": "Lava swallowed whole villages while Allied troops looked on.",
+    "visualType": "REAL ARCHIVAL/LICENCED FOOTAGE"
+  }
+}

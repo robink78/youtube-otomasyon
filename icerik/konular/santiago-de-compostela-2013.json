@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A High-Speed Train Entered a Tight Curve at Over Twice the Limit",
+  "kaynaklar": [
+    {
+      "ad": "santiago-de-compostela-1.jpg",
+      "wikimedia": "Tragedia en Santiago de Compostela (b).jpg"
+    },
+    {
+      "ad": "santiago-de-compostela-2.jpg",
+      "wikimedia": "Tragedia en Santiago de Compostela (a).jpg"
+    },
+    {
+      "ad": "santiago-de-compostela-3.jpg",
+      "wikimedia": "Accidente Angrois Praza Publica 2013.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A high-speed train derailed on a curve outside Santiago de Compostela.",
+      "kaynak": "Footage/santiago-de-compostela-1.jpg"
+    },
+    {
+      "metin": "Carriages were thrown off the track, and dozens of people were killed.",
+      "kaynak": "Footage/santiago-de-compostela-2.jpg"
+    },
+    {
+      "metin": "The train entered the curve at more than twice the limit.",
+      "kaynak": "Footage/santiago-de-compostela-3.jpg"
+    },
+    {
+      "metin": "The driver was on a work phone call.",
+      "kaynak": "Footage/santiago-de-compostela-1.jpg"
+    },
+    {
+      "metin": "Advanced train protection covered the high-speed line.",
+      "kaynak": "Footage/santiago-de-compostela-2.jpg"
+    },
+    {
+      "metin": "But it ended before this curve.",
+      "kaynak": "Footage/santiago-de-compostela-3.jpg"
+    },
+    {
+      "metin": "Only the driver's braking could slow the train.",
+      "kaynak": "Footage/santiago-de-compostela-1.jpg"
+    },
+    {
+      "metin": "Spain then added speed protection to more of these transitions.",
+      "kaynak": "Footage/santiago-de-compostela-2.jpg"
+    }
+  ],
+  "aciklama": "Santiago de Compostela derailed on a curve. The cause: overspeed on a curve where automatic speed protection was not in force.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Santiago de Compostela",
+    "2013",
+    "curve",
+    "engineering failure"
+  ],
+  "hook": "Protection ended here",
+  "soru": "Where should automation stop?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Santiago de Compostela train",
+    "kisa": "Santiago de Compostela",
+    "nesne": "Curve",
+    "yil": 2013,
+    "sonuc": "derailed on a curve",
+    "tetik": "the driver distracted by a phone call from the train staff",
+    "mekanizma": "overspeed on a curve where automatic speed protection was not in force",
+    "sayi": "TWICE THE LIMIT",
+    "ders": "Spain added automatic speed protection to more high-speed transitions",
+    "zincir": [
+      "HIGH-SPEED SECTION ENDS",
+      "PROTECTION SWITCHES TO BASIC",
+      "DRIVER ON A CALL",
+      "BRAKES TOO LATE",
+      "DERAILMENT ON CURVE"
+    ],
+    "zaman": [],
+    "yanilgi": "The line had advanced train protection, but it ended before this curve.",
+    "tartisma": "The system relied on the driver at the most demanding point. Where should automation hand over to humans?",
+    "basliklar": [
+      "A High-Speed Train Entered a Tight Curve at Over Twice the Limit",
+      "Why the Santiago de Compostela Train Derailed",
+      "The Curve Where Protection Ended"
+    ],
+    "kapak": [
+      "TWICE THE LIMIT",
+      "PROTECTION ENDED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Santiago de Compostela derailment",
+        "url": "https://en.wikipedia.org/wiki/Santiago_de_Compostela_derailment"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — spanish train crash driver facebook (cited by Wikipedia)",
+        "url": "https://www.theguardian.com/world/2013/jul/26/spanish-train-crash-driver-facebook"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-10",
+    "wiki": "Santiago_de_Compostela_derailment",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Tragedia en Santiago de Compostela (b).jpg [CC BY 2.0]",
+      "Tragedia en Santiago de Compostela (a).jpg [CC BY 2.0]",
+      "Accidente Angrois Praza Publica 2013.jpg [CC BY 3.0]"
+    ]
+  }
+}

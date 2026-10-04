@@ -1,0 +1,39 @@
+{
+  "channel": "impossible-brief",
+  "channelName": "ImpossibleBrief",
+  "tarih": "2026-10-04T17:38:38.732Z",
+  "aggregateManaged": true,
+  "yuklemeUygun": true,
+  "bulgular": [
+    {
+      "ad": "youtube-yetki",
+      "durum": "ok",
+      "mesaj": "refresh token çalışıyor"
+    },
+    {
+      "ad": "youtube-kapsam",
+      "durum": "ok",
+      "mesaj": "gerekli kapsamlar tamam"
+    },
+    {
+      "ad": "youtube-kanal",
+      "durum": "ok",
+      "mesaj": "doğru kanal doğrulandı (UCPNyvGBI4JdQElc7ljuIuMw)"
+    },
+    {
+      "ad": "oauth-reauth-deadline",
+      "durum": "ok",
+      "mesaj": "OAuth publishing mode is unknown; live refresh validation is authoritative"
+    },
+    {
+      "ad": "gorsel-kaynak",
+      "durum": "ok",
+      "mesaj": "kanala özel kaynak öncelikleri ve prosedürel görsel motoru hazır; Pexels zorunlu değil"
+    },
+    {
+      "ad": "kutuphane",
+      "durum": "ok",
+      "mesaj": "493 günlük üretilmemiş konu var"
+    }
+  ]
+}

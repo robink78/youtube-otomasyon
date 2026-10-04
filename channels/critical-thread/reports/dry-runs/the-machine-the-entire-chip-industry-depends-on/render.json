@@ -1,0 +1,37 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/critical-thread/reports/dry-runs/the-machine-the-entire-chip-industry-depends-on/narration.m4a",
+    "provider": "macOS say dry-run voice (claim-timed)",
+    "syntheticVoice": true,
+    "claimDurations": [
+      1.646,
+      2.609,
+      7.626,
+      7.622,
+      6.513
+    ],
+    "durationSeconds": 26.193,
+    "width": null,
+    "height": null,
+    "hasAudio": true
+  },
+  "video": {
+    "file": "channels/critical-thread/reports/dry-runs/the-machine-the-entire-chip-industry-depends-on/the-machine-the-entire-chip-industry-depends-on.mp4",
+    "captionsBurned": true,
+    "visualChanges": 8,
+    "illustrationLabel": true,
+    "scenarioSpecific": true,
+    "durationSeconds": 26.209,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/critical-thread/reports/dry-runs/the-machine-the-entire-chip-industry-depends-on/thumbnail.jpg",
+    "bytes": 61987,
+    "scenarioSpecific": true,
+    "textWords": 2
+  }
+}

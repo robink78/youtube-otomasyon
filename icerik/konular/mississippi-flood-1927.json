@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Flood That Proved Levees Alone Couldn't Hold the Mississippi",
+  "kaynaklar": [
+    {
+      "ad": "mississippi-flood-1.jpg",
+      "wikimedia": "1927 Mississippi Flood Blowing Levee.jpg"
+    },
+    {
+      "ad": "mississippi-flood-2.jpg",
+      "wikimedia": "1927 Mississippi Flood Levee Breach.jpg"
+    },
+    {
+      "ad": "mississippi-flood-3.jpg",
+      "wikimedia": "1927 Mississippi Flood Vicksburg Refugees.jpg"
+    },
+    {
+      "ad": "mississippi-flood-4.jpg",
+      "wikimedia": "Aerial photograph of flood, unidentified stretch of lower Mississippi River. - NARA - 285958.jpg"
+    },
+    {
+      "ad": "mississippi-flood-5.jpg",
+      "wikimedia": "Poultry and livestock sit on levee out of floodwaters - NARA - 285965.jpg"
+    },
+    {
+      "ad": "mississippi-flood-6.jpg",
+      "wikimedia": "1927 Mississippi Flood Arkansas City.jpg"
+    },
+    {
+      "ad": "mississippi-flood-7.jpg",
+      "wikimedia": "1927 Mississippi Flood Cape Girardeau.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The Mississippi River broke through its levees in dozens of places.",
+      "kaynak": "Footage/mississippi-flood-1.jpg"
+    },
+    {
+      "metin": "Floodwater spread across a vast area, and hundreds of thousands were forced from home.",
+      "kaynak": "Footage/mississippi-flood-2.jpg"
+    },
+    {
+      "metin": "Engineers had relied on levees alone.",
+      "kaynak": "Footage/mississippi-flood-3.jpg"
+    },
+    {
+      "metin": "Confining the river made it rise higher between them.",
+      "kaynak": "Footage/mississippi-flood-4.jpg"
+    },
+    {
+      "metin": "Months of heavy rain pushed it past its limits.",
+      "kaynak": "Footage/mississippi-flood-5.jpg"
+    },
+    {
+      "metin": "A levee was even blown up to protect New Orleans.",
+      "kaynak": "Footage/mississippi-flood-6.jpg"
+    },
+    {
+      "metin": "The disaster changed river engineering.",
+      "kaynak": "Footage/mississippi-flood-7.jpg"
+    },
+    {
+      "metin": "The Flood Control Act of 1928 added spillways and floodways.",
+      "kaynak": "Footage/mississippi-flood-1.jpg"
+    }
+  ],
+  "aciklama": "1927 Mississippi flood broke in many places and flooded the valley. The cause: a levees-only strategy that confined the river until levees breached.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "1927 Mississippi flood",
+    "1927",
+    "levees",
+    "engineering failure"
+  ],
+  "hook": "Levees alone failed",
+  "soru": "Who decides what floods?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Mississippi levees",
+    "kisa": "1927 Mississippi flood",
+    "nesne": "Levees",
+    "yil": 1927,
+    "sonuc": "broke in many places and flooded the valley",
+    "tetik": "months of rain raising the river beyond its levees",
+    "mekanizma": "a levees-only strategy that confined the river until levees breached",
+    "sayi": "LEVEES ONLY",
+    "ders": "the Flood Control Act of 1928 added spillways and floodways",
+    "zincir": [
+      "LEVEES-ONLY POLICY",
+      "RIVER CONFINED, WATER RISES",
+      "RECORD RAIN",
+      "LEVEES BREACH",
+      "HUGE AREAS FLOOD"
+    ],
+    "zaman": [],
+    "yanilgi": "Higher levees made the river rise higher between them. Engineers needed places to let the water spread.",
+    "tartisma": "A levee was deliberately dynamited to protect New Orleans. Who decides which land floods?",
+    "basliklar": [
+      "The Flood That Proved Levees Alone Couldn't Hold the Mississippi",
+      "Why the 1927 Mississippi Flood Was So Destructive",
+      "The Levees-Only Policy That Failed"
+    ],
+    "kapak": [
+      "LEVEES ONLY",
+      "VALLEY FLOODED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Great Mississippi Flood of 1927",
+        "url": "https://en.wikipedia.org/wiki/Great_Mississippi_Flood_of_1927"
+      },
+      {
+        "ad": "Government source — greatfloodof1927 (cited by Wikipedia)",
+        "url": "https://www.weather.gov/ohx/greatfloodof1927"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "Great_Mississippi_Flood_of_1927",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "1927 Mississippi Flood Blowing Levee.jpg [Public domain]",
+      "1927 Mississippi Flood Levee Breach.jpg [Public domain]",
+      "1927 Mississippi Flood Vicksburg Refugees.jpg [Public domain]",
+      "Aerial photograph of flood, unidentified stretch of lower Mississippi River. - NARA - 285958.jpg [Public domain]",
+      "Poultry and livestock sit on levee out of floodwaters - NARA - 285965.jpg [Public domain]",
+      "1927 Mississippi Flood Arkansas City.jpg [Public domain]",
+      "1927 Mississippi Flood Cape Girardeau.jpg [Public domain]"
+    ]
+  }
+}

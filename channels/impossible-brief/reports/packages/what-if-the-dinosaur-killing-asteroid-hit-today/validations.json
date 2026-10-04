@@ -1,0 +1,25 @@
+{
+  "channel": "impossible-brief",
+  "topicId": "IB-SPA-098",
+  "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+  "passed": true,
+  "failed": [],
+  "checks": {
+    "script": true,
+    "science": true,
+    "sources": true,
+    "hook": true,
+    "timing": true,
+    "audio": true,
+    "captions": true,
+    "visuals": true,
+    "video": true,
+    "titles": true,
+    "thumbnail": true,
+    "description": true,
+    "qualityGate": true,
+    "metadata": true,
+    "growthReadiness": true
+  },
+  "reasons": {}
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "general-slocum-1904",
+  "olusturuldu": "2026-09-30T13:58:21.875Z",
+  "originality": 83,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.2,
+      "kim": "boston-molasses-1919"
+    },
+    "hook": {
+      "deger": 0.15,
+      "kim": "eastland-1915"
+    },
+    "structure": {
+      "deger": 0.75,
+      "kim": "apollo-1-1967"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0.63,
+      "kim": "boston-molasses-1919"
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.54,
+      "kim": "why-planes-crash"
+    },
+    "cta": {
+      "deger": 0.11,
+      "kim": "how-carbon-monoxide-kills"
+    },
+    "description": {
+      "deger": 0.04,
+      "kim": "hindenburg"
+    },
+    "music": {
+      "deger": 0.82,
+      "kim": "how-avalanches-start"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.2,
+    "HOOK_SIMILARITY": 0.15,
+    "STRUCTURE_SIMILARITY": 0.75,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0.63,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.54,
+    "CTA_SIMILARITY": 0.11,
+    "DESCRIPTION_SIMILARITY": 0.04,
+    "MUSIC_SIMILARITY": 0.82
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

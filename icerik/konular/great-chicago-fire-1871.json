@@ -1,0 +1,138 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The City Built of Wood That Burned for Two Days",
+  "kaynaklar": [
+    {
+      "ad": "great-chicago-fire-1.png",
+      "wikimedia": "137 DeKoven Street 1871.png"
+    },
+    {
+      "ad": "great-chicago-fire-2.jpg",
+      "wikimedia": "Attributed to George N. Barnard - Untitled (Chicago after the Chicago Fire) - Google Art Project.jpg"
+    },
+    {
+      "ad": "great-chicago-fire-3.jpg",
+      "wikimedia": "Chicago in Flames by Currier & Ives, 1871 (cropped).jpg"
+    },
+    {
+      "ad": "great-chicago-fire-4.jpg",
+      "wikimedia": "Mrs OLeary's cow.jpg"
+    },
+    {
+      "ad": "great-chicago-fire-5.jpg",
+      "wikimedia": "Chicago-fire1.jpg"
+    },
+    {
+      "ad": "great-chicago-fire-6.png",
+      "wikimedia": "Destruction of Crosby's Opera House (also Root & Cady's Music Store) in the Great Chicago Fire, 1871.png"
+    },
+    {
+      "ad": "great-chicago-fire-7.jpg",
+      "wikimedia": "The Great Chicago Fire of 1871.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A fire in a barn spread across the city of Chicago.",
+      "kaynak": "Footage/great-chicago-fire-1.png"
+    },
+    {
+      "metin": "It burned for two days, destroying thousands of buildings.",
+      "kaynak": "Footage/great-chicago-fire-2.jpg"
+    },
+    {
+      "metin": "The city was built largely of wood.",
+      "kaynak": "Footage/great-chicago-fire-3.jpg"
+    },
+    {
+      "metin": "Even many sidewalks were wooden.",
+      "kaynak": "Footage/great-chicago-fire-4.jpg"
+    },
+    {
+      "metin": "A drought had dried everything out.",
+      "kaynak": "Footage/great-chicago-fire-5.jpg"
+    },
+    {
+      "metin": "Strong winds carried embers across the river.",
+      "kaynak": "Footage/great-chicago-fire-6.png"
+    },
+    {
+      "metin": "The fire destroyed the waterworks.",
+      "kaynak": "Footage/great-chicago-fire-7.jpg"
+    },
+    {
+      "metin": "Chicago rebuilt with fire-resistant materials and stricter codes.",
+      "kaynak": "Footage/great-chicago-fire-1.png"
+    }
+  ],
+  "aciklama": "Great Chicago Fire burned through the heart of Chicago. The cause: fire spread through wooden buildings and sidewalks, driven by wind in a dry season.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Great Chicago Fire",
+    "1871",
+    "city",
+    "engineering failure"
+  ],
+  "hook": "It wasn't the cow",
+  "soru": "What was the single point of failure?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Great Chicago Fire",
+    "kisa": "Great Chicago Fire",
+    "nesne": "City",
+    "yil": 1871,
+    "sonuc": "burned through the heart of Chicago",
+    "tetik": "a barn fire during a drought with strong winds",
+    "mekanizma": "fire spread through wooden buildings and sidewalks, driven by wind in a dry season",
+    "sayi": "TWO DAYS",
+    "ders": "Chicago rebuilt with fire-resistant materials and stricter codes",
+    "zincir": [
+      "DROUGHT",
+      "WOODEN BUILDINGS AND SIDEWALKS",
+      "BARN FIRE",
+      "WIND CARRIES EMBERS",
+      "WATERWORKS BURN"
+    ],
+    "zaman": [],
+    "yanilgi": "The famous cow story was never proven. The real causes were drought, wind and a city built of wood.",
+    "tartisma": "The fire destroyed the waterworks, removing the means to fight it. What single point of failure did Chicago have?",
+    "basliklar": [
+      "The City Built of Wood That Burned for Two Days",
+      "Why the Great Chicago Fire Spread So Far",
+      "The Wooden City That Burned",
+      "How a Barn Fire Burned Down Chicago"
+    ],
+    "kapak": [
+      "CITY OF WOOD",
+      "TWO DAYS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Great Chicago Fire",
+        "url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire"
+      },
+      {
+        "ad": "NASA — ast27jul 1 (cited by Wikipedia)",
+        "url": "https://science.nasa.gov/science-news/science-at-nasa/2001/ast27jul_1/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "Great_Chicago_Fire",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "137 DeKoven Street 1871.png [Public domain]",
+      "Attributed to George N. Barnard - Untitled (Chicago after the Chicago Fire) - Google Art Project.jpg [Public domain]",
+      "Chicago in Flames by Currier & Ives, 1871 (cropped).jpg [Public domain]",
+      "Mrs OLeary's cow.jpg [Public domain]",
+      "Chicago-fire1.jpg [Public domain]",
+      "Destruction of Crosby's Opera House (also Root & Cady's Music Store) in the Great Chicago Fire, 1871.png [Public domain]",
+      "The Great Chicago Fire of 1871.jpg [Public domain]"
+    ]
+  }
+}

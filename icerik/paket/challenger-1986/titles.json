@@ -1,0 +1,361 @@
+{
+  "slug": "challenger-1986",
+  "format": "short",
+  "olusturuldu": "2026-09-26T12:21:22.832Z",
+  "secilen": "Why Challenger Broke Apart 73 Seconds After Launch",
+  "secilenPuan": 54.4,
+  "mevcutPuan": 54.4,
+  "sablonOnerisi": {
+    "baslik": "The Real Reason the Space Shuttle Challenger Broke Apart 73 Seconds After Launch",
+    "puan": 66.8,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 13,
+  "adaylar": [
+    {
+      "baslik": "The Real Reason the Space Shuttle Challenger Broke Apart 73 Seconds After Launch",
+      "kalip": "real-reason",
+      "toplam": 66.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 6,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "How Skylab Lost Its Heat Shield 63 Seconds After Launch"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (80 chars)"
+      ],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "1986: The Space Shuttle Challenger Broke Apart 73 Seconds After Launch",
+      "kalip": "label-colon",
+      "toplam": 64,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 8,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6
+      },
+      "similarity": {
+        "max": 0.22,
+        "closest": "How Skylab Lost Its Heat Shield 63 Seconds After Launch"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (70 chars)",
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "The Space Shuttle Challenger Didn't Just Fail — It Broke Apart 73 Seconds After Launch",
+      "kalip": "two-beat",
+      "toplam": 57.5,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 2,
+        "tension": 10,
+        "consequence": 8,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 8.2
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "How Skylab Lost Its Heat Shield 63 Seconds After Launch"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.9,
+      "notes": [
+        "long for Shorts feed (86 chars)",
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "template:didnt-just-fail"
+    },
+    {
+      "baslik": "What Really Destroyed the Space Shuttle Challenger",
+      "kalip": "what-really",
+      "toplam": 55.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "How Water Destroyed a $1.4 Billion Stealth Bomber"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-really"
+    },
+    {
+      "baslik": "Why Challenger Broke Apart 73 Seconds After Launch",
+      "kalip": "why",
+      "toplam": 54.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.25,
+        "closest": "How Skylab Lost Its Heat Shield 63 Seconds After Launch"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Engineers Said Don't Launch. Challenger Launched.",
+      "kalip": "two-beat",
+      "toplam": 50.2,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The Space Shuttle That Broke Apart 73 Seconds After Launch",
+      "kalip": "the-x-that",
+      "toplam": 46.9,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.26,
+        "closest": "How Skylab Lost Its Heat Shield 63 Seconds After Launch"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "How Cold Weather Brought Down Challenger",
+      "kalip": "how",
+      "toplam": 46.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Munich 1958: The Slush That Brought Down Manchester United's Plane"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why the Space Shuttle Challenger Failed",
+      "kalip": "why",
+      "toplam": 45.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Flopnik: Why America's Answer to Sputnik Failed Twice"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "template:plain-why"
+    },
+    {
+      "baslik": "The Rubber Ring That Destroyed Challenger",
+      "kalip": "the-x-that",
+      "toplam": 45.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "How Water Destroyed a $1.4 Billion Stealth Bomber"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "How an O-ring Seal Stiffened by Cold Brought Down the Space Shuttle Challenger",
+      "kalip": "how",
+      "toplam": 41,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 6,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Munich 1958: The Slush That Brought Down Manchester United's Plane"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (78 chars)",
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-trigger"
+    },
+    {
+      "baslik": "73 SECONDS. That's All It Took",
+      "kalip": "label-colon",
+      "toplam": 36.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 7,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5.8
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "208 Seconds: How Geese Took Out Both Engines of Flight 1549"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 0.75,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:number-all-it-took"
+    },
+    {
+      "baslik": "Challenger Explained",
+      "kalip": "explained",
+      "toplam": 18.2,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.08,
+        "closest": "What Actually Makes a Volcano Explode"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

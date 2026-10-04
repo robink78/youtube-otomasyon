@@ -1,0 +1,1643 @@
+{
+  "schema": "growth-short-plan/1",
+  "channel": "impossible-brief",
+  "channelName": "ImpossibleBrief",
+  "contentType": "short",
+  "createdAt": "2026-09-30T15:44:13.694Z",
+  "topic": {
+    "id": "IB-FUT-036",
+    "slug": "what-if-sunlight-could-push-a-spaceship",
+    "title": "What If Sunlight Could Push a Spaceship?",
+    "cluster": "FUTURE TECHNOLOGY",
+    "subject": "Sunlight Could Push a Spaceship"
+  },
+  "topicScore": {
+    "channel": "impossible-brief",
+    "topicId": "IB-FUT-036",
+    "slug": "what-if-sunlight-could-push-a-spaceship",
+    "title": "What If Sunlight Could Push a Spaceship?",
+    "cluster": "FUTURE TECHNOLOGY",
+    "VideoPotentialScore": 88,
+    "bucket": "A",
+    "reasons": [
+      "VideoPotential 88 ≥ 80",
+      "hook 81",
+      "sources 100"
+    ],
+    "enrichable": false,
+    "factors": {
+      "TopicDemandScore": {
+        "value": 76,
+        "basis": "derived",
+        "note": "no demand signal; evergreen proxy"
+      },
+      "CuriosityScore": {
+        "value": 93,
+        "basis": "inventory-signal"
+      },
+      "HookPotentialScore": {
+        "value": 81,
+        "basis": "derived",
+        "note": "16 candidates / 10 families"
+      },
+      "VisualImpactScore": {
+        "value": 88,
+        "basis": "inventory-signal"
+      },
+      "EmotionalImpactScore": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "StoryCompressionScore": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "RewatchPotentialScore": {
+        "value": 69,
+        "basis": "derived"
+      },
+      "SharePotentialScore": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "CommentPotentialScore": {
+        "value": 71,
+        "basis": "derived"
+      },
+      "SubscriberConversionPotential": {
+        "value": 88,
+        "basis": "derived",
+        "note": "series depth: 50 topics in FUTURE TECHNOLOGY"
+      },
+      "NoveltyScore": {
+        "value": 82,
+        "basis": "inventory-signal"
+      },
+      "AudienceFitScore": {
+        "value": 100,
+        "basis": "inventory-signal"
+      },
+      "SourceQualityScore": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "ChannelFitScore": {
+        "value": 100,
+        "basis": "derived"
+      }
+    },
+    "weights": {
+      "TopicDemandScore": 0.9,
+      "CuriosityScore": 1.5,
+      "HookPotentialScore": 1.3,
+      "VisualImpactScore": 1.2,
+      "EmotionalImpactScore": 0.9,
+      "StoryCompressionScore": 1.1,
+      "RewatchPotentialScore": 0.8,
+      "SharePotentialScore": 1,
+      "CommentPotentialScore": 0.8,
+      "SubscriberConversionPotential": 0.8,
+      "NoveltyScore": 1,
+      "AudienceFitScore": 0.9,
+      "SourceQualityScore": 1.1,
+      "ChannelFitScore": 0.9
+    },
+    "boilerplate": {
+      "ratio": 0,
+      "templatedFields": [],
+      "checkedFields": 6
+    },
+    "specificEvidence": 12,
+    "sourceQuality": {
+      "score": 100,
+      "tiers": [
+        {
+          "name": "U.S. Department of Energy Office of Science",
+          "url": "https://science.osti.gov/",
+          "tier": "OFFICIAL_INVESTIGATION",
+          "score": 100
+        },
+        {
+          "name": "NASA Science",
+          "url": "https://science.nasa.gov/",
+          "tier": "GOVERNMENT_AGENCY",
+          "score": 95
+        },
+        {
+          "name": "NIST",
+          "url": "https://www.nist.gov/topics/physics",
+          "tier": "GOVERNMENT_AGENCY",
+          "score": 95
+        }
+      ],
+      "primaryCount": 3,
+      "notes": []
+    },
+    "selectedHook": {
+      "family": "visual_first_reveal",
+      "spoken": "Why a 2010 spacecraft flew on sunlight alone.",
+      "score": 81
+    }
+  },
+  "hooks": {
+    "selected": {
+      "family": "visual_first_reveal",
+      "spoken": "Why a 2010 spacecraft flew on sunlight alone.",
+      "onScreen": "2010",
+      "fields": [
+        "openingLine"
+      ],
+      "editorial": true,
+      "words": 8,
+      "estimatedSeconds": 2.5,
+      "scores": {
+        "SwipeStoppingPower": 90,
+        "CuriosityGap": 49,
+        "Clarity": 100,
+        "Specificity": 96,
+        "EmotionalIntensity": 30,
+        "Credibility": 100,
+        "VisualCompatibility": 96,
+        "ChannelFit": 80
+      },
+      "total": 81,
+      "blocked": false,
+      "blockers": [],
+      "generic": false,
+      "adjustedTotal": 81,
+      "fitsOpening": true
+    },
+    "candidateCount": 16,
+    "familyCount": 10,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "family": "visual_first_reveal",
+        "spoken": "Why a 2010 spacecraft flew on sunlight alone.",
+        "onScreen": "2010",
+        "fields": [
+          "openingLine"
+        ],
+        "editorial": true,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 90,
+          "CuriosityGap": 49,
+          "Clarity": 100,
+          "Specificity": 96,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 96,
+          "ChannelFit": 80
+        },
+        "total": 81,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 81,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_question",
+        "spoken": "What If Sunlight Could Push a Spaceship?",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "question"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 73,
+          "Clarity": 100,
+          "Specificity": 71,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 90
+        },
+        "total": 76,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 76,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Spacecraft sailed on sunlight instead of fuel.",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 59,
+          "Clarity": 100,
+          "Specificity": 71,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 80
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "So sunlight can be both power and propulsion.",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 71,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 70
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "On 9 July 2010.",
+        "onScreen": "2010",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 4,
+        "estimatedSeconds": 1.3,
+        "scores": {
+          "SwipeStoppingPower": 80,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "On 8 December 2010.",
+        "onScreen": "2010",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 4,
+        "estimatedSeconds": 1.3,
+        "scores": {
+          "SwipeStoppingPower": 80,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": true
+      },
+      {
+        "family": "shocking_consequence",
+        "spoken": "Slow but endless acceleration without propellant.",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "consequence"
+        ],
+        "editorial": false,
+        "words": 6,
+        "estimatedSeconds": 1.9,
+        "scores": {
+          "SwipeStoppingPower": 70,
+          "CuriosityGap": 49,
+          "Clarity": 90,
+          "Specificity": 30,
+          "EmotionalIntensity": 48,
+          "Credibility": 100,
+          "VisualCompatibility": 89,
+          "ChannelFit": 60
+        },
+        "total": 67,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 67,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "The spacecraft was launched on 20 May 2010.",
+        "onScreen": "2010",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 63,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 70
+        },
+        "total": 66,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 66,
+        "fitsOpening": true
+      },
+      {
+        "family": "countdown",
+        "spoken": "It spun at 20 to 25 turns a minute to spread it.",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 12,
+        "estimatedSeconds": 3.8,
+        "scores": {
+          "SwipeStoppingPower": 73,
+          "CuriosityGap": 35,
+          "Clarity": 80,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 84,
+          "ChannelFit": 60
+        },
+        "total": 66,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 66,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Light carries momentum, so each photon gives a tiny push.",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 45,
+          "Clarity": 95,
+          "Specificity": 63,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60
+        },
+        "total": 66,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 66,
+        "fitsOpening": false
+      },
+      {
+        "family": "contradiction",
+        "spoken": "It passed Venus at 80,800 kilometres that December.",
+        "onScreen": "80,800",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 70,
+          "ChannelFit": 60
+        },
+        "total": 65,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 65,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The real cause was photons carry momentum.",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "mechanism"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 59,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 50
+        },
+        "total": 63,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 63,
+        "fitsOpening": true
+      },
+      {
+        "family": "misconception_reversal",
+        "spoken": "It would not all happen at once.",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "consequence"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 59,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 66,
+          "ChannelFit": 60
+        },
+        "total": 63,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 63,
+        "fitsOpening": true
+      },
+      {
+        "family": "unexpected_chain_reaction",
+        "spoken": "Japan's IKAROS unfurled a huge, thin solar sail.",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "secondBeat"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 50
+        },
+        "total": 63,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 63,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "No fuel means it can keep accelerating for years.",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 50
+        },
+        "total": 62,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 62,
+        "fitsOpening": true
+      },
+      {
+        "family": "question_gap",
+        "spoken": "What changes first?",
+        "onScreen": "SAILING ON SUNLIGHT",
+        "fields": [
+          "question"
+        ],
+        "editorial": false,
+        "words": 3,
+        "estimatedSeconds": 0.9,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 63,
+          "Clarity": 100,
+          "Specificity": 10,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 59,
+          "ChannelFit": 50
+        },
+        "total": 61,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 61,
+        "fitsOpening": true
+      }
+    ]
+  },
+  "first3Seconds": {
+    "First3SecondPlan": {
+      "narration": "Why a 2010 spacecraft flew on sunlight alone.",
+      "firstFrame": {
+        "description": "IKAROS sail unfurled in space at the moment the impossible change begins",
+        "source": "procedural render",
+        "startAtSeconds": 0,
+        "sourceClass": "ILLUSTRATION",
+        "communicates": "mystery",
+        "rule": "labelled illustration; no logo, no establishing shot"
+      },
+      "visual": "IKAROS sail unfurled in space at the moment the impossible change begins",
+      "onScreenText": "2010",
+      "motion": "scale shift: object shrinks/grows in 0.8 s, then hard cut",
+      "cutTiming": [
+        0,
+        1.3,
+        2.5
+      ],
+      "soundCue": "sub-bass swell resolving on the first cut",
+      "communicates": "mystery"
+    },
+    "score": 91,
+    "passes": true,
+    "blockers": [],
+    "notes": []
+  },
+  "script": {
+    "format": "short",
+    "generator": "editorial (researched record)",
+    "targetSeconds": 22.5,
+    "spoken": "Why a 2010 spacecraft flew on sunlight alone. Japan's IKAROS unfurled a huge, thin solar sail. It spun at 20 to 25 turns a minute to spread it. Light carries momentum, so each photon gives a tiny push. It passed Venus at 80,800 kilometres that December. No fuel means it can keep accelerating for years. So sunlight can be both power and propulsion.",
+    "claims": [
+      {
+        "start": 0,
+        "end": 2.9,
+        "role": "IMPOSSIBLE_QUESTION",
+        "layer": "KNOWN SCIENCE",
+        "confidence": "KNOWN SCIENCE",
+        "text": "Why a 2010 spacecraft flew on sunlight alone."
+      },
+      {
+        "start": 2.9,
+        "end": 5.7,
+        "role": "FIRST_EFFECT",
+        "layer": "KNOWN SCIENCE",
+        "confidence": "KNOWN SCIENCE",
+        "text": "Japan's IKAROS unfurled a huge, thin solar sail."
+      },
+      {
+        "start": 5.7,
+        "end": 10,
+        "role": "SCIENCE_EXPLANATION",
+        "layer": "KNOWN SCIENCE",
+        "confidence": "KNOWN SCIENCE",
+        "text": "It spun at 20 to 25 turns a minute to spread it."
+      },
+      {
+        "start": 10,
+        "end": 13.6,
+        "role": "SCIENCE_EXPLANATION",
+        "layer": "KNOWN SCIENCE",
+        "confidence": "KNOWN SCIENCE",
+        "text": "Light carries momentum, so each photon gives a tiny push."
+      },
+      {
+        "start": 13.6,
+        "end": 16.4,
+        "role": "SECOND_ORDER_EFFECT",
+        "layer": "KNOWN SCIENCE",
+        "confidence": "KNOWN SCIENCE",
+        "text": "It passed Venus at 80,800 kilometres that December."
+      },
+      {
+        "start": 16.4,
+        "end": 19.6,
+        "role": "SECOND_ORDER_EFFECT",
+        "layer": "ESTIMATED CONSEQUENCE",
+        "confidence": "ESTIMATED CONSEQUENCE",
+        "text": "No fuel means it can keep accelerating for years."
+      },
+      {
+        "start": 19.6,
+        "end": 22.5,
+        "role": "SCIENTIFIC_PAYOFF",
+        "layer": "ESTIMATED CONSEQUENCE",
+        "confidence": "ESTIMATED CONSEQUENCE",
+        "text": "So sunlight can be both power and propulsion."
+      }
+    ],
+    "lines": [
+      "Why a 2010 spacecraft flew on sunlight alone.",
+      "Japan's IKAROS unfurled a huge, thin solar sail.",
+      "It spun at 20 to 25 turns a minute to spread it.",
+      "Light carries momentum, so each photon gives a tiny push.",
+      "It passed Venus at 80,800 kilometres that December.",
+      "No fuel means it can keep accelerating for years.",
+      "So sunlight can be both power and propulsion."
+    ],
+    "structure": [
+      "IMPOSSIBLE_QUESTION",
+      "FIRST_EFFECT",
+      "SCIENCE_EXPLANATION",
+      "SCIENCE_EXPLANATION",
+      "SECOND_ORDER_EFFECT",
+      "SECOND_ORDER_EFFECT",
+      "SCIENTIFIC_PAYOFF"
+    ],
+    "forbiddenOpening": false,
+    "sourceIds": [
+      "U.S. Department of Energy Office of Science",
+      "NASA Science",
+      "NIST"
+    ],
+    "retention": {
+      "score": 90,
+      "words": 63,
+      "findings": [
+        "final line has no payoff / consequence / lesson"
+      ],
+      "blockers": [],
+      "roles": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "passes": true
+    },
+    "estimatedSeconds": 22.5
+  },
+  "titles": {
+    "selected": {
+      "title": "What Breaks First If Sunlight Could Push a Spaceship?",
+      "source": "breaks-first",
+      "pattern": "question",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 84,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 87,
+        "channelIdentity": 86,
+        "ctrPotential": 87,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "total": 91,
+      "adjustedTotal": 91,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 91,
+    "count": 34,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "title": "What Breaks First If Sunlight Could Push a Spaceship?",
+        "source": "breaks-first",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 87,
+          "channelIdentity": 86,
+          "ctrPotential": 87,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 91,
+        "adjustedTotal": 91,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What If Sunlight Could Push a Spaceship?",
+        "source": "current",
+        "pattern": "what-if-question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 90,
+        "adjustedTotal": 90,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Sunlight Could Push a Spaceship — What Breaks First?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 87,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 90,
+        "adjustedTotal": 90,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Actually Happens When Sunlight Could Push a Spaceship?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 87,
+          "channelIdentity": 86,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 89,
+        "adjustedTotal": 89,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If Sunlight Could Push a Spaceship, What Happens First?",
+        "source": "what-happens-first",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 89,
+        "adjustedTotal": 89,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Sunlight Could Push a Spaceship: What Changes First?",
+        "source": "changes-first",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 89,
+        "adjustedTotal": 89,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How Fast Would We Notice If Sunlight Could Push a Spaceship?",
+        "source": "how-fast",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 87,
+          "channelIdentity": 86,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 89,
+        "adjustedTotal": 89,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Real Physics Behind Sunlight Could Push a Spaceship",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 87,
+        "adjustedTotal": 87,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Science Actually Predicts If Sunlight Could Push a Spaceship",
+        "source": "science-predicts",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 93,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 87,
+          "channelIdentity": 86,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 86,
+        "adjustedTotal": 86,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Breaks Second If Sunlight Could Push a Spaceship",
+        "source": "breaks-second",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 87,
+          "channelIdentity": 86,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 85,
+        "adjustedTotal": 85,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If Sunlight Could Push a Spaceship, This Happens First",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 84,
+        "adjustedTotal": 84,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Could Earth Survive If Sunlight Could Push a Spaceship?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 66,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 84,
+        "adjustedTotal": 84,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How Fast Would Sunlight Could Push a Spaceship Affect Us?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 84,
+        "adjustedTotal": 84,
+        "unsupportedWords": [
+          "affect",
+          "us"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Could Earth Handle It If Sunlight Could Push a Spaceship?",
+        "source": "could-earth",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 66,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 84,
+        "adjustedTotal": 84,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Consequence of Sunlight Could Push a Spaceship",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Consequence If Sunlight Could Push a Spaceship",
+        "source": "hidden-consequence",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Sunlight Could Push a Spaceship Changes Everything",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 82,
+        "adjustedTotal": 82,
+        "unsupportedWords": [
+          "everything"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Sunlight Could Push a Spaceship: The Answer Is Not What Changes First",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 82,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 82,
+        "adjustedTotal": 82,
+        "unsupportedWords": [
+          "answer"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Sunlight Could Push a Spaceship: From First Effect to Final Outcome",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 90,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The First Thing to Change If Sunlight Could Push a Spaceship",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [
+          "thing"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Science of Sunlight Could Push a Spaceship",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Sunlight Could Push a Spaceship: A Scientific Timeline",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "One Second After Sunlight Could Push a Spaceship",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What If Spacecraft Sailed on Sunlight Instead of Fuel?",
+        "source": "what-if",
+        "pattern": "what-if-question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 86,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Sunlight Could Push a Spaceship: Known Science Vs. Speculation",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 97,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 78,
+        "adjustedTotal": 78,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If Sunlight Could Push a Spaceship: Known Science Vs. Speculation",
+        "source": "known-vs-speculation",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 93,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 78,
+        "adjustedTotal": 78,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Sunlight Could Push a Spaceship — The Scientific Answer",
+        "source": "legacy-generator",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 77,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "answer"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Photons Carry Momentum: The Key to Sunlight Could Push a Spaceship",
+        "source": "mechanism-key",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 91,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 77,
+        "adjustedTotal": 77,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Most Likely Outcome If Sunlight Could Push a Spaceship",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 86,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 76,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "likely"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The First Spacecraft to Sail on Sunlight",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 96,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 75,
+        "adjustedTotal": 75,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How Light Can Push a Spaceship",
+        "source": "editorial",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 84,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 75,
+        "adjustedTotal": 75,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If Sunlight Could Push a Spaceship, Slow but Endless Acceleration Without Propellant",
+        "source": "consequence-led",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 59,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 74,
+        "adjustedTotal": 74,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What If Sunlight Could Push a Spaceship: The First 60 Seconds",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 99,
+          "curiosity": 76,
+          "specificity": 92,
+          "truthfulness": 45,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [
+          "60"
+        ],
+        "misleading": true
+      },
+      {
+        "title": "Sunlight Could Push a Spaceship, Explained in 30 Seconds",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 92,
+          "truthfulness": 45,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 65,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 73,
+        "adjustedTotal": 73,
+        "unsupportedWords": [
+          "30"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "cta": {
+    "type": "NONE",
+    "reason": "deterministic roll 0.53 ≥ ctaProbability 0.35"
+  },
+  "loop": {
+    "LoopPotentialScore": 63,
+    "apply": false,
+    "plan": {
+      "reason": "loop would not improve story satisfaction; ending stays a clean payoff"
+    }
+  },
+  "integrity": {
+    "score": 80,
+    "scenes": [
+      {
+        "scene": 1,
+        "text": "IKAROS sail unfurled in space",
+        "sourceClass": "ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 2,
+        "text": "photon momentum diagram",
+        "sourceClass": "DIAGRAM",
+        "label": "n/a"
+      },
+      {
+        "scene": 3,
+        "text": "spinning deployment animation",
+        "sourceClass": "ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 4,
+        "text": "Venus flyby path",
+        "sourceClass": "ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 5,
+        "text": "sail thinness comparison",
+        "sourceClass": "DIAGRAM",
+        "label": "n/a"
+      },
+      {
+        "scene": 6,
+        "text": "future sail missions",
+        "sourceClass": "ILLUSTRATION",
+        "label": "labelled"
+      }
+    ],
+    "classes": [
+      "ILLUSTRATION",
+      "DIAGRAM"
+    ],
+    "hardFails": [],
+    "notes": []
+  },
+  "factual": {
+    "score": 100,
+    "hardFails": [],
+    "notes": [],
+    "claimClasses": {
+      "CONFIRMED_FACT": 5,
+      "ESTIMATE": 2,
+      "SPECULATION": 1
+    },
+    "unsupportedNumbers": []
+  },
+  "pacing": {
+    "plannedSegments": [
+      1.319,
+      0.901,
+      1.348,
+      1.932,
+      1.784,
+      2.387,
+      1.646,
+      3.201,
+      3.225,
+      2.641,
+      2.116
+    ],
+    "segments": 11,
+    "cutsInFirst3Seconds": 3,
+    "averageSeconds": 2.05,
+    "longestSeconds": 3.225,
+    "mechanical": false
+  },
+  "captions": {
+    "events": 22,
+    "maxWords": 4,
+    "maxLines": 2,
+    "tooFast": 0,
+    "safeZoneMarginV": 560,
+    "passes": true
+  },
+  "relatedLong": null,
+  "experiment": null,
+  "readiness": {
+    "ProductionReadinessScore": 91,
+    "decision": "PUBLISH",
+    "stage": "pre",
+    "dimensions": {
+      "topicPotential": 88,
+      "hook": 81,
+      "script": 90,
+      "firstSeconds": 91,
+      "factual": 100,
+      "visualRelevance": 80,
+      "sources": 100,
+      "metadata": 100,
+      "visualQuality": null,
+      "audio": null,
+      "captions": null,
+      "duration": null,
+      "pacing": 92,
+      "render": null
+    },
+    "unmeasured": [
+      "visualQuality",
+      "audio",
+      "captions",
+      "duration",
+      "render"
+    ],
+    "hardFails": [],
+    "notes": [],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "growthMeta": {
+    "hookType": "visual_first_reveal",
+    "hookScore": 81,
+    "topicCluster": "FUTURE TECHNOLOGY",
+    "bucket": "A",
+    "storyStructure": "IMPOSSIBLE_QUESTION>ASSUMPTION>FIRST_EFFECT>SECOND_ORDER_EFFECT>SCIENTIFIC_PAYOFF",
+    "titlePattern": "question",
+    "ctaStyle": "NONE",
+    "durationBucket": "under-25s",
+    "openingVisual": "ILLUSTRATION",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 76,
+      "CuriosityScore": 93,
+      "HookPotentialScore": 81,
+      "VisualImpactScore": 88,
+      "EmotionalImpactScore": 85,
+      "StoryCompressionScore": 88,
+      "RewatchPotentialScore": 69,
+      "SharePotentialScore": 97,
+      "CommentPotentialScore": 71,
+      "SubscriberConversionPotential": 88,
+      "NoveltyScore": 82,
+      "AudienceFitScore": 100,
+      "SourceQualityScore": 100,
+      "ChannelFitScore": 100
+    }
+  },
+  "summary": {
+    "Channel": "ImpossibleBrief",
+    "Content Type": "SHORT",
+    "Topic": "What If Sunlight Could Push a Spaceship?",
+    "Topic Score": 88,
+    "Topic Bucket": "A",
+    "Selected Hook": "Why a 2010 spacecraft flew on sunlight alone.",
+    "Hook Type": "visual_first_reveal",
+    "Hook Score": 81,
+    "First-3-sec Score": 91,
+    "Duration": "~22.5s (estimated)",
+    "Scenes": 11,
+    "Production Score": "91 (pre) → PUBLISH",
+    "Experiment": "none",
+    "Related Long Video": "none yet"
+  }
+}

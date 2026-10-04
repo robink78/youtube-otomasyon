@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Clock Set Wrong Sent Starliner Into the Wrong Orbit",
+  "kaynaklar": [
+    {
+      "ad": "starliner-oft-1.jpg",
+      "wikimedia": "Starliner OFT Rollout.jpg"
+    },
+    {
+      "ad": "starliner-oft-2.jpg",
+      "wikimedia": "Boeing Orbital Flight Test Launch (NHQ201912200021).jpg"
+    },
+    {
+      "ad": "starliner-oft-3.jpg",
+      "wikimedia": "CST-100 Starliner in VIF.jpg"
+    },
+    {
+      "ad": "starliner-oft-4.jpg",
+      "wikimedia": "CST-100 Starliner integration with Atlas V for Orbital Flight Test (KSC-20191121-PH-CSH02 0080) (cropped).jpg"
+    },
+    {
+      "ad": "starliner-oft-5.jpg",
+      "wikimedia": "CST-100 Starliner integration with Atlas V for Orbital Flight Test (KSC-20191121-PH-CSH02 0080).jpg"
+    },
+    {
+      "ad": "starliner-oft-6.jpg",
+      "wikimedia": "CST-100 Starliner transported to SLC-41 VIF for integration (KSC-20191121-PH-KLS02 0040).jpg"
+    },
+    {
+      "ad": "starliner-oft-7.jpg",
+      "wikimedia": "Boeing's Starliner crew ship approaches the space station (iss067e066735) (cropped).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Boeing's uncrewed Starliner reached space but couldn't get to the station.",
+      "kaynak": "Footage/starliner-oft-1.jpg"
+    },
+    {
+      "metin": "Suddenly, it began burning fuel as if it were far later in the mission.",
+      "kaynak": "Footage/starliner-oft-2.jpg"
+    },
+    {
+      "metin": "Its mission clock was wrong.",
+      "kaynak": "Footage/starliner-oft-3.jpg"
+    },
+    {
+      "metin": "It had read the time from the rocket at the wrong moment.",
+      "kaynak": "Footage/starliner-oft-4.jpg"
+    },
+    {
+      "metin": "The spacecraft used too much fuel to reach its target.",
+      "kaynak": "Footage/starliner-oft-5.jpg"
+    },
+    {
+      "metin": "The docking had to be cancelled.",
+      "kaynak": "Footage/starliner-oft-6.jpg"
+    },
+    {
+      "metin": "Tests had not run the full mission end to end.",
+      "kaynak": "Footage/starliner-oft-7.jpg"
+    },
+    {
+      "metin": "Boeing reworked its software testing before flying again.",
+      "kaynak": "Footage/starliner-oft-1.jpg"
+    }
+  ],
+  "aciklama": "Starliner OFT failed to reach the space station. The cause: the spacecraft pulling its elapsed-time clock from the rocket at the wrong point.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Starliner OFT",
+    "2019",
+    "mission timer",
+    "engineering failure"
+  ],
+  "hook": "Its clock was wrong",
+  "soru": "Test all the way through?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "the Starliner Orbital Flight Test",
+    "kisa": "Starliner OFT",
+    "nesne": "Mission timer",
+    "yil": 2019,
+    "sonuc": "failed to reach the space station",
+    "tetik": "a mission timer set from the wrong moment",
+    "mekanizma": "the spacecraft pulling its elapsed-time clock from the rocket at the wrong point",
+    "sayi": "WRONG TIME",
+    "ders": "Boeing reworked its software testing before flying again",
+    "zincir": [
+      "TIMER READ AT WRONG MOMENT",
+      "SPACECRAFT THINKS IT IS LATER",
+      "BURNS FUEL TOO EARLY",
+      "COMMUNICATION GAP",
+      "DOCKING CANCELLED"
+    ],
+    "zaman": [],
+    "yanilgi": "The engines worked. The spacecraft simply believed it was at a different point in the mission.",
+    "tartisma": "End-to-end tests were split into chunks. Is a test that stops halfway a test at all?",
+    "basliklar": [
+      "A Clock Set Wrong Sent Starliner Into the Wrong Orbit",
+      "Why Starliner Missed the Space Station",
+      "The Clock That Was Set Wrong"
+    ],
+    "kapak": [
+      "WRONG TIME",
+      "NO DOCKING"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Boeing Orbital Flight Test",
+        "url": "https://en.wikipedia.org/wiki/Boeing_Orbital_Flight_Test"
+      },
+      {
+        "ad": "NASA — display.action?id=2019 094A (cited by Wikipedia)",
+        "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2019-094A"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Boeing_Orbital_Flight_Test",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Starliner OFT Rollout.jpg [Public domain]",
+      "Boeing Orbital Flight Test Launch (NHQ201912200021).jpg [Public domain]",
+      "CST-100 Starliner in VIF.jpg [Public domain]",
+      "CST-100 Starliner integration with Atlas V for Orbital Flight Test (KSC-20191121-PH-CSH02 0080) (cropped).jpg [Public domain]",
+      "CST-100 Starliner integration with Atlas V for Orbital Flight Test (KSC-20191121-PH-CSH02 0080).jpg [Public domain]",
+      "CST-100 Starliner transported to SLC-41 VIF for integration (KSC-20191121-PH-KLS02 0040).jpg [Public domain]",
+      "Boeing's Starliner crew ship approaches the space station (iss067e066735) (cropped).jpg [Public domain]"
+    ]
+  }
+}

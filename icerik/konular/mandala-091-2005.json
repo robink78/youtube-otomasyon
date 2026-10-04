@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Take-Off With the Flaps Still Up",
+  "kaynaklar": [
+    {
+      "ad": "mandala-091-1.png",
+      "wikimedia": "Mandala Airlines Flight 091 retracted flaps and slats.png"
+    },
+    {
+      "ad": "mandala-091-2.png",
+      "wikimedia": "Mandala Airlines Flight 091 retracted slats.png"
+    },
+    {
+      "ad": "mandala-091-3.png",
+      "wikimedia": "Path of Mandala Airlines Flight 091.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A Boeing 737 failed to climb after take-off in Medan.",
+      "kaynak": "Footage/mandala-091-1.png"
+    },
+    {
+      "metin": "It crashed into homes, killing people aboard and on the ground.",
+      "kaynak": "Footage/mandala-091-2.png"
+    },
+    {
+      "metin": "Its flaps had not been extended.",
+      "kaynak": "Footage/mandala-091-3.png"
+    },
+    {
+      "metin": "Without them, the wing couldn't produce enough lift at that speed.",
+      "kaynak": "Footage/mandala-091-1.png"
+    },
+    {
+      "metin": "The checklist item was missed.",
+      "kaynak": "Footage/mandala-091-2.png"
+    },
+    {
+      "metin": "The take-off warning didn't save them.",
+      "kaynak": "Footage/mandala-091-3.png"
+    },
+    {
+      "metin": "The cockpit recording showed casual talk during checks.",
+      "kaynak": "Footage/mandala-091-1.png"
+    },
+    {
+      "metin": "Checklist discipline and warning checks were emphasized afterward.",
+      "kaynak": "Footage/mandala-091-2.png"
+    }
+  ],
+  "aciklama": "Mandala 091 crashed into a neighbourhood on take-off. The cause: take-off without flaps, missed checklist items and no effective take-off warning.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Mandala 091",
+    "2005",
+    "flaps",
+    "engineering failure"
+  ],
+  "hook": "The flaps were up",
+  "soru": "How do you protect a checklist?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Mandala Airlines Flight 091",
+    "kisa": "Mandala 091",
+    "nesne": "Flaps",
+    "yil": 2005,
+    "sonuc": "crashed into a neighbourhood on take-off",
+    "tetik": "flaps and slats not extended for take-off",
+    "mekanizma": "take-off without flaps, missed checklist items and no effective take-off warning",
+    "sayi": "FLAPS UP",
+    "ders": "take-off checklist discipline and warning checks were emphasized",
+    "zincir": [
+      "CHECKLIST SKIPPED",
+      "FLAPS NOT EXTENDED",
+      "NO EFFECTIVE WARNING",
+      "JET CAN'T CLIMB",
+      "CRASHES INTO HOMES"
+    ],
+    "zaman": [],
+    "yanilgi": "A take-off warning is meant to catch this. It either didn't sound or was not heard.",
+    "tartisma": "The cockpit recorder captured casual conversation during checklists. How do you keep checklists sacred?",
+    "basliklar": [
+      "The Take-Off With the Flaps Still Up",
+      "Why Mandala Airlines Flight 091 Crashed",
+      "The Take-Off With the Flaps Up"
+    ],
+    "kapak": [
+      "FLAPS UP",
+      "NO CLIMB"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mandala Airlines Flight 091",
+        "url": "https://en.wikipedia.org/wiki/Mandala_Airlines_Flight_091"
+      },
+      {
+        "ad": "SKYbrary (EUROCONTROL) — 1716 (cited by Wikipedia)",
+        "url": "http://www.skybrary.aero/bookshelf/books/1716.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "Mandala_Airlines_Flight_091",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Mandala Airlines Flight 091 retracted flaps and slats.png [Public domain]",
+      "Mandala Airlines Flight 091 retracted slats.png [Public domain]",
+      "Path of Mandala Airlines Flight 091.png [Public domain]"
+    ]
+  }
+}

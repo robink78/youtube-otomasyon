@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Pipeline Inside a Drain Blew Open City Streets",
+  "kaynaklar": [
+    {
+      "ad": "kaohsiung-gas-1.jpg",
+      "wikimedia": "Damaged Kaixuan 2nd Road under Construction 20140811.jpg"
+    },
+    {
+      "ad": "kaohsiung-gas-2.jpg",
+      "wikimedia": "ROC Marines and Police Control Traffic in Fude 3rd Road 20140811.jpg"
+    },
+    {
+      "ad": "kaohsiung-gas-3.jpg",
+      "wikimedia": "Kaoshiung City Fire Department VW T5 Ambulance after gas explosions.jpg"
+    },
+    {
+      "ad": "kaohsiung-gas-4.jpg",
+      "wikimedia": "Praying Tree in TRA Kaohsiung Station for Kaohsiung Explosion and TransAsia Airways Flight 222 20140811.jpg"
+    },
+    {
+      "ad": "kaohsiung-gas-5.jpg",
+      "wikimedia": "Sanduo 1st Road after Explosion Record 20140811-039a.jpg"
+    },
+    {
+      "ad": "kaohsiung-gas-6.jpg",
+      "wikimedia": "Sanduo Business Office, Kaohsiung Toyota Motor 20140811a.jpg"
+    },
+    {
+      "ad": "kaohsiung-gas-7.jpg",
+      "wikimedia": "Sanduo Business Office, Kaohsiung Toyota Motor 20140811b.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At midnight, explosions tore open kilometres of streets in Kaohsiung.",
+      "kaynak": "Footage/kaohsiung-gas-1.jpg"
+    },
+    {
+      "metin": "Roads collapsed into trenches, and thirty two people were killed.",
+      "kaynak": "Footage/kaohsiung-gas-2.jpg"
+    },
+    {
+      "metin": "Residents had smelled gas for hours.",
+      "kaynak": "Footage/kaohsiung-gas-3.jpg"
+    },
+    {
+      "metin": "A pipeline carrying propylene ran through a drainage culvert.",
+      "kaynak": "Footage/kaohsiung-gas-4.jpg"
+    },
+    {
+      "metin": "Hidden there, it had corroded and begun to leak.",
+      "kaynak": "Footage/kaohsiung-gas-5.jpg"
+    },
+    {
+      "metin": "Gas filled the drains beneath the roads.",
+      "kaynak": "Footage/kaohsiung-gas-6.jpg"
+    },
+    {
+      "metin": "When it ignited, the streets blew apart.",
+      "kaynak": "Footage/kaohsiung-gas-7.jpg"
+    },
+    {
+      "metin": "Taiwan then worked to map and relocate hazardous pipelines.",
+      "kaynak": "Footage/kaohsiung-gas-1.jpg"
+    }
+  ],
+  "aciklama": "Kaohsiung ripped open streets in a series of explosions. The cause: corrosion of a pipeline encased in a drainage culvert, leaking propylene into the sewer network.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Kaohsiung",
+    "2014",
+    "pipeline",
+    "engineering failure"
+  ],
+  "hook": "The streets exploded",
+  "soru": "Who maps the underground?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Kaohsiung propylene pipeline",
+    "kisa": "Kaohsiung",
+    "nesne": "Pipeline",
+    "yil": 2014,
+    "sonuc": "ripped open streets in a series of explosions",
+    "tetik": "propylene leaking from a corroded pipeline in a drainage culvert",
+    "mekanizma": "corrosion of a pipeline encased in a drainage culvert, leaking propylene into the sewer network",
+    "sayi": "32 KILLED",
+    "ders": "Taiwan moved to map and relocate hazardous underground pipelines",
+    "zincir": [
+      "PIPELINE RUNS THROUGH A DRAIN",
+      "CORROSION HIDDEN",
+      "PROPYLENE LEAKS",
+      "GAS FILLS SEWERS",
+      "STREETS EXPLODE"
+    ],
+    "zaman": [],
+    "yanilgi": "The explosions weren't one blast. Gas travelled through the drains and ignited along kilometres of road.",
+    "tartisma": "No single agency had a full map of the pipelines. Who maps what lies under a city?",
+    "basliklar": [
+      "A Pipeline Inside a Drain Blew Open City Streets",
+      "Why Kaohsiung's Streets Exploded",
+      "The Pipeline Hidden Inside a Drain"
+    ],
+    "kapak": [
+      "STREETS EXPLODED",
+      "32 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2014 Kaohsiung gas explosions",
+        "url": "https://en.wikipedia.org/wiki/2014_Kaohsiung_gas_explosions"
+      },
+      {
+        "ad": "Government source — info detail?infoid=432773 (cited by Wikipedia)",
+        "url": "http://portal.gov.mo/web/guest/info_detail?infoid=432773"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "2014_Kaohsiung_gas_explosions",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Damaged Kaixuan 2nd Road under Construction 20140811.jpg [CC0]",
+      "ROC Marines and Police Control Traffic in Fude 3rd Road 20140811.jpg [CC0]",
+      "Kaoshiung City Fire Department VW T5 Ambulance after gas explosions.jpg [CC0]",
+      "Praying Tree in TRA Kaohsiung Station for Kaohsiung Explosion and TransAsia Airways Flight 222 20140811.jpg [CC0]",
+      "Sanduo 1st Road after Explosion Record 20140811-039a.jpg [CC0]",
+      "Sanduo Business Office, Kaohsiung Toyota Motor 20140811a.jpg [CC0]",
+      "Sanduo Business Office, Kaohsiung Toyota Motor 20140811b.jpg [CC0]"
+    ]
+  }
+}

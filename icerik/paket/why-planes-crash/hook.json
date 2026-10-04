@@ -1,0 +1,49 @@
+{
+  "slug": "why-planes-crash",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:42.001Z",
+  "ekranHook": "The chain that ends in disaster",
+  "mevcut": {
+    "puan": 85,
+    "pencereler": {
+      "0-5": "A plane crash is almost never one thing going wrong. It is a chain",
+      "5-12": "of small failures that line up perfectly. A tiny sensor freezes, and the computer gets the wrong airspeed. The",
+      "12-20": "pilots, confused and exhausted, trust the wrong reading. Add bad weather and a rushed decision, and the chain is complete. Break any",
+      "20-30": "single link, and the disaster never happens. That is why every crash is studied down to the last second. Each one makes the next flight safer than the"
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A plane crash is almost never one thing going wrong."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a frozen airspeed sensor."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is a chain of aligned failures (the Swiss cheese model) — and it is why every crash investigation feeds changes into the next flight."
+      }
+    ],
+    "metin": "A plane crash is almost never one thing going wrong. It took only a frozen airspeed sensor. So what actually happens inside? The answer is a chain of aligned failures (the Swiss cheese model) — and it is why every crash investigation feeds changes into the next flight.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

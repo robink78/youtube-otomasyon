@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Why One Icelandic Volcano Grounded Europe's Flights",
+  "kaynaklar": [
+    {
+      "ad": "eyjafjallajokull-1.jpg",
+      "wikimedia": "May 18, 2010, Ash plume from Eyjafjallajokull Volcano.jpg"
+    },
+    {
+      "ad": "eyjafjallajokull-2.jpg",
+      "wikimedia": "May 4 2010 Ash plume, from Eyjafjallajokull Volcano.jpg"
+    },
+    {
+      "ad": "eyjafjallajokull-3.jpg",
+      "wikimedia": "Eyjafjallajokull volcano plume 2010 04 17.jpg"
+    },
+    {
+      "ad": "eyjafjallajokull-4.jpg",
+      "wikimedia": "Detailed View of Ash Plume at Eyjafjallajökull Volcano 2010-04-17.jpg"
+    },
+    {
+      "ad": "eyjafjallajokull-5.jpg",
+      "wikimedia": "Detailed View of Ash Plume at Eyjafjallajökull Volcano.jpg"
+    },
+    {
+      "ad": "eyjafjallajokull-6.jpg",
+      "wikimedia": "Eruption of Eyjafjallajökull Volcano, Iceland April 17 Detail.jpg"
+    },
+    {
+      "ad": "eyjafjallajokull-7.jpg",
+      "wikimedia": "Eruption of Eyjafjallajökull Volcano, Iceland April 17.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A volcano in Iceland erupted beneath a glacier.",
+      "kaynak": "Footage/eyjafjallajokull-1.jpg"
+    },
+    {
+      "metin": "Within days, most of Europe's airspace was closed.",
+      "kaynak": "Footage/eyjafjallajokull-2.jpg"
+    },
+    {
+      "metin": "Its ash was fine and glassy.",
+      "kaynak": "Footage/eyjafjallajokull-3.jpg"
+    },
+    {
+      "metin": "Winds carried it toward Europe.",
+      "kaynak": "Footage/eyjafjallajokull-4.jpg"
+    },
+    {
+      "metin": "Inside a jet engine, that ash can melt.",
+      "kaynak": "Footage/eyjafjallajokull-5.jpg"
+    },
+    {
+      "metin": "It can fuse onto turbine parts and stop the engine.",
+      "kaynak": "Footage/eyjafjallajokull-6.jpg"
+    },
+    {
+      "metin": "Airlines argued the closures were too cautious.",
+      "kaynak": "Footage/eyjafjallajokull-7.jpg"
+    },
+    {
+      "metin": "Regulators then set ash concentration limits for flying.",
+      "kaynak": "Footage/eyjafjallajokull-1.jpg"
+    }
+  ],
+  "aciklama": "Eyjafjallajokull shut down much of Europe's airspace. The cause: ash melting in jet engines at high temperature and fusing onto turbine parts.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Eyjafjallajokull",
+    "2010",
+    "airspace",
+    "engineering failure"
+  ],
+  "hook": "Europe stopped flying",
+  "soru": "Too cautious?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the 2010 Eyjafjallajökull ash cloud",
+    "kisa": "Eyjafjallajokull",
+    "nesne": "Airspace",
+    "yil": 2010,
+    "sonuc": "shut down much of Europe's airspace",
+    "tetik": "fine volcanic ash blown toward Europe",
+    "mekanizma": "ash melting in jet engines at high temperature and fusing onto turbine parts",
+    "sayi": "AIRSPACE CLOSED",
+    "ders": "regulators set ash concentration limits instead of zero tolerance",
+    "zincir": [
+      "ERUPTION UNDER A GLACIER",
+      "FINE GLASSY ASH",
+      "WINDS CARRY IT TO EUROPE",
+      "ENGINE RISK",
+      "FLIGHTS GROUNDED"
+    ],
+    "zaman": [],
+    "yanilgi": "The ash wasn't just smoke. It is glassy rock that melts inside jet engines.",
+    "tartisma": "Airlines argued the closures were too cautious. How much uncertainty justifies a shutdown?",
+    "basliklar": [
+      "Why One Icelandic Volcano Grounded Europe's Flights",
+      "Why Eyjafjallajökull Grounded European Flights",
+      "The Ash That Melts Inside Jet Engines"
+    ],
+    "kapak": [
+      "ASH CLOUD",
+      "GROUNDED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Air travel disruption after the 2010 Eyjafjallajökull eruption",
+        "url": "https://en.wikipedia.org/wiki/Air_travel_disruption_after_the_2010_Eyjafjallajökull_eruption"
+      },
+      {
+        "ad": "Government source — index.html?lang=de&msg id=32655 (cited by Wikipedia)",
+        "url": "http://www.bazl.admin.ch/aktuell/medieninformation/00024/index.html?lang=de&msg-id=32655"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "Air_travel_disruption_after_the_2010_Eyjafjallajökull_eruption",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "May 18, 2010, Ash plume from Eyjafjallajokull Volcano.jpg [Public domain]",
+      "May 4 2010 Ash plume, from Eyjafjallajokull Volcano.jpg [Public domain]",
+      "Eyjafjallajokull volcano plume 2010 04 17.jpg [CC BY 3.0]",
+      "Detailed View of Ash Plume at Eyjafjallajökull Volcano 2010-04-17.jpg [Public domain]",
+      "Detailed View of Ash Plume at Eyjafjallajökull Volcano.jpg [Public domain]",
+      "Eruption of Eyjafjallajökull Volcano, Iceland April 17 Detail.jpg [Public domain]",
+      "Eruption of Eyjafjallajökull Volcano, Iceland April 17.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "how-floods-destroy-cities",
+  "olusturuldu": "2026-09-24T16:22:41.601Z",
+  "originality": 84,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.09,
+      "kim": "the-physics-of-explosions"
+    },
+    "hook": {
+      "deger": 0.14,
+      "kim": "how-tsunamis-form"
+    },
+    "structure": {
+      "deger": 0.89,
+      "kim": "hindenburg"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0.11,
+      "kim": "why-dams-fail"
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.53,
+      "kim": "how-fire-spreads"
+    },
+    "cta": {
+      "deger": 0.05,
+      "kim": "how-ground-turns-to-liquid"
+    },
+    "description": {
+      "deger": 0.17,
+      "kim": "how-carbon-monoxide-kills"
+    },
+    "music": {
+      "deger": 0.8,
+      "kim": "how-volcanoes-erupt"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.09,
+    "HOOK_SIMILARITY": 0.14,
+    "STRUCTURE_SIMILARITY": 0.89,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0.11,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.53,
+    "CTA_SIMILARITY": 0.05,
+    "DESCRIPTION_SIMILARITY": 0.17,
+    "MUSIC_SIMILARITY": 0.8
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

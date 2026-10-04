@@ -1,0 +1,41 @@
+{
+  "subject": "the Bluetooth symbol",
+  "text": [
+    "VIKING INITIALS"
+  ],
+  "maxWords": 4,
+  "palette": [
+    "#15130f",
+    "#f3ead8",
+    "#f2ad45",
+    "#4eb3a5"
+  ],
+  "clutter": false,
+  "concepts": [
+    {
+      "id": "single-object-detail",
+      "composition": "one the Bluetooth symbol filling the frame",
+      "consequence": "one amber marker on its angular rune"
+    },
+    {
+      "id": "macro-purpose",
+      "composition": "macro crop of its angular rune",
+      "consequence": "rest of object softly out of focus"
+    },
+    {
+      "id": "then-now",
+      "composition": "clean two-panel historical and modern the Bluetooth symbol",
+      "consequence": "its angular rune aligned across both"
+    },
+    {
+      "id": "cutaway",
+      "composition": "labelled cutaway of its angular rune",
+      "consequence": "one teal motion or force arrow"
+    },
+    {
+      "id": "misconception",
+      "composition": "the Bluetooth symbol isolated on warm charcoal",
+      "consequence": "wrong use dimmed, documented purpose highlighted"
+    }
+  ]
+}

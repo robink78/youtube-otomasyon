@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "A Power Glitch Reset a Rocket's Brain in Flight",
+  "kaynaklar": [
+    {
+      "ad": "titan-iv-a20-1.jpg",
+      "wikimedia": "Titan-4(01)A Centaur - ELINT-Payload.jpg"
+    },
+    {
+      "ad": "titan-iv-a20-2.jpg",
+      "wikimedia": "160323-F-IO108-008.jpg"
+    },
+    {
+      "ad": "titan-iv-a20-3.jpg",
+      "wikimedia": "2014 08 140829-F-IO108-012.jpg"
+    },
+    {
+      "ad": "titan-iv-a20-4.jpg",
+      "wikimedia": "Titan4B on Launch Complex 40.jpg"
+    },
+    {
+      "ad": "titan-iv-a20-5.jpg",
+      "wikimedia": "Titan IVB Centaur launching ELINTspy satellite.jpg"
+    },
+    {
+      "ad": "titan-iv-a20-6.jpg",
+      "wikimedia": "Titan IVB at the Evergreen Aviation & Space Museum 1589 (6586633721).jpg"
+    },
+    {
+      "ad": "titan-iv-a20-7.jpg",
+      "wikimedia": "Titan IVB at the Evergreen Aviation & Space Museum 1591 (6586634435).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Shortly after lift-off, a Titan IV rocket pitched over sharply.",
+      "kaynak": "Footage/titan-iv-a20-1.jpg"
+    },
+    {
+      "metin": "It broke up and was destroyed, with its military satellite.",
+      "kaynak": "Footage/titan-iv-a20-2.jpg"
+    },
+    {
+      "metin": "Its engines were working.",
+      "kaynak": "Footage/titan-iv-a20-3.jpg"
+    },
+    {
+      "metin": "A short circuit briefly cut power to the guidance computer.",
+      "kaynak": "Footage/titan-iv-a20-4.jpg"
+    },
+    {
+      "metin": "Investigators traced it to damaged wiring.",
+      "kaynak": "Footage/titan-iv-a20-5.jpg"
+    },
+    {
+      "metin": "The computer reset and lost its reference.",
+      "kaynak": "Footage/titan-iv-a20-6.jpg"
+    },
+    {
+      "metin": "The rocket turned the wrong way and triggered self-destruct.",
+      "kaynak": "Footage/titan-iv-a20-7.jpg"
+    },
+    {
+      "metin": "Wiring inspection and handling rules were tightened.",
+      "kaynak": "Footage/titan-iv-a20-1.jpg"
+    }
+  ],
+  "aciklama": "Titan IV 1998 self-destructed shortly after launch. The cause: electrical short from damaged wiring resetting the guidance system in flight.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Titan IV 1998",
+    "1998",
+    "guidance computer",
+    "engineering failure"
+  ],
+  "hook": "Its brain reset",
+  "soru": "How much redundancy is enough?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the 1998 Titan IV launch",
+    "kisa": "Titan IV 1998",
+    "nesne": "Guidance computer",
+    "yil": 1998,
+    "sonuc": "self-destructed shortly after launch",
+    "tetik": "a momentary power interruption to the guidance computer",
+    "mekanizma": "electrical short from damaged wiring resetting the guidance system in flight",
+    "sayi": "POWER GLITCH",
+    "ders": "wiring inspection and handling rules for launch vehicles were tightened",
+    "zincir": [
+      "WIRING DAMAGED",
+      "SHORT CIRCUIT IN FLIGHT",
+      "GUIDANCE COMPUTER RESETS",
+      "ROCKET PITCHES OVER",
+      "SELF-DESTRUCT"
+    ],
+    "zaman": [],
+    "yanilgi": "The rocket's engines were fine. A brief power loss wiped its sense of direction.",
+    "tartisma": "The payload was a costly national security satellite. How much redundancy is enough on critical launches?",
+    "basliklar": [
+      "A Power Glitch Reset a Rocket's Brain in Flight",
+      "Why the 1998 Titan IV Launch Failed",
+      "The Power Glitch That Reset a Rocket"
+    ],
+    "kapak": [
+      "POWER GLITCH",
+      "RESET"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Titan IV",
+        "url": "https://en.wikipedia.org/wiki/Titan_IV"
+      },
+      {
+        "ad": "NASA — 19720015135 (cited by Wikipedia)",
+        "url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720015135.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "Titan_IV",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Titan-4(01)A Centaur - ELINT-Payload.jpg [Public domain]",
+      "160323-F-IO108-008.jpg [Public domain]",
+      "2014 08 140829-F-IO108-012.jpg [Public domain]",
+      "Titan4B on Launch Complex 40.jpg [Public domain]",
+      "Titan IVB Centaur launching ELINTspy satellite.jpg [Public domain]",
+      "Titan IVB at the Evergreen Aviation & Space Museum 1589 (6586633721).jpg [CC BY 2.0]",
+      "Titan IVB at the Evergreen Aviation & Space Museum 1591 (6586634435).jpg [CC BY 2.0]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Arial,58,&H00FFFFFF,&H000000FF,&H00101824,&H90000000,-1,0,0,0,100,100,0,0,1,5,0,2,100,100,230,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.33,Caption,,0,0,0,,Moon gone. Gravity lingers.
+Dialogue: 0,0:00:01.33,0:00:02.28,Caption,,0,0,0,,Lunar tides start changing
+Dialogue: 0,0:00:02.28,0:00:03.22,Caption,,0,0,0,,next.
+Dialogue: 0,0:00:03.22,0:00:04.70,Caption,,0,0,0,,Known physics says the
+Dialogue: 0,0:00:04.70,0:00:06.17,Caption,,0,0,0,,mechanism is orbital angular
+Dialogue: 0,0:00:06.17,0:00:07.65,Caption,,0,0,0,,momentum, tidal forcing and
+Dialogue: 0,0:00:07.65,0:00:09.12,Caption,,0,0,0,,the Earth–Moon barycenter.
+Dialogue: 0,0:00:09.12,0:00:10.55,Caption,,0,0,0,,The best supported consequence
+Dialogue: 0,0:00:10.55,0:00:11.98,Caption,,0,0,0,,is this: ocean tides,
+Dialogue: 0,0:00:11.98,0:00:13.40,Caption,,0,0,0,,axial stability and nights
+Dialogue: 0,0:00:13.40,0:00:14.83,Caption,,0,0,0,,would change on different
+Dialogue: 0,0:00:14.83,0:00:16.26,Caption,,0,0,0,,timescales.
+Dialogue: 0,0:00:16.26,0:00:17.43,Caption,,0,0,0,,The exact timeline depends
+Dialogue: 0,0:00:17.43,0:00:18.61,Caption,,0,0,0,,on how the impossible
+Dialogue: 0,0:00:18.61,0:00:19.78,Caption,,0,0,0,,change occurs.

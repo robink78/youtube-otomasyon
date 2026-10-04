@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Workers Told to Point Radium Brushes With Their Lips",
+  "kaynaklar": [
+    {
+      "ad": "radium-girls-1.jpg",
+      "wikimedia": "USRadiumGirls-Argonne.jpg"
+    },
+    {
+      "ad": "radium-girls-2.jpg",
+      "wikimedia": "All women or girls using radium paint with no protection or warnings in 1922, from- USRadiumGirls-Argonne1,ca1922-23-150dpi (cropped).jpg"
+    },
+    {
+      "ad": "radium-girls-3.png",
+      "wikimedia": "Undark (Radium Girls) advertisement, 1921, retouched.png"
+    },
+    {
+      "ad": "radium-girls-4.jpg",
+      "wikimedia": "Second River radium site WOrange jeh.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Young women painted glowing watch dials with radium paint.",
+      "kaynak": "Footage/radium-girls-1.jpg"
+    },
+    {
+      "metin": "Many were later killed by radiation poisoning.",
+      "kaynak": "Footage/radium-girls-2.jpg"
+    },
+    {
+      "metin": "They were taught to shape their brushes with their lips.",
+      "kaynak": "Footage/radium-girls-3.png"
+    },
+    {
+      "metin": "Lip, dip, paint.",
+      "kaynak": "Footage/radium-girls-4.jpg"
+    },
+    {
+      "metin": "Each time, they swallowed tiny amounts of radium.",
+      "kaynak": "Footage/radium-girls-1.jpg"
+    },
+    {
+      "metin": "The body stores radium in bone, like calcium.",
+      "kaynak": "Footage/radium-girls-2.jpg"
+    },
+    {
+      "metin": "Their jaws and bones decayed.",
+      "kaynak": "Footage/radium-girls-3.png"
+    },
+    {
+      "metin": "Their lawsuits shaped workplace health and radiation safety law.",
+      "kaynak": "Footage/radium-girls-4.jpg"
+    }
+  ],
+  "aciklama": "Radium Girls were poisoned by the paint they worked with. The cause: ingestion of radium, which the body deposits in bone like calcium.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Radium Girls",
+    "1917",
+    "radium paint",
+    "engineering failure"
+  ],
+  "hook": "Lip, dip, paint",
+  "soru": "Who should prove the harm?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the radium dial painters",
+    "kisa": "Radium Girls",
+    "nesne": "Radium paint",
+    "yil": 1917,
+    "sonuc": "were poisoned by the paint they worked with",
+    "tetik": "shaping radium-paint brushes with their lips",
+    "mekanizma": "ingestion of radium, which the body deposits in bone like calcium",
+    "sayi": "LIP, DIP, PAINT",
+    "ders": "the cases shaped occupational health and radiation safety standards",
+    "zincir": [
+      "LUMINOUS WATCH DIALS",
+      "BRUSHES SHAPED WITH LIPS",
+      "RADIUM SWALLOWED",
+      "STORED IN BONES",
+      "JAW DECAY AND ILLNESS"
+    ],
+    "zaman": [],
+    "yanilgi": "Radium wasn't thought dangerous by the workers. Company scientists handled it with protection.",
+    "tartisma": "The women sued as they were dying. Why does proof of harm fall on the harmed?",
+    "basliklar": [
+      "The Workers Told to Point Radium Brushes With Their Lips",
+      "The Radium Girls and the Poison They Were Told Was Safe",
+      "Why Radium Dial Painters Got Sick"
+    ],
+    "kapak": [
+      "LIP, DIP, PAINT",
+      "RADIUM"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Radium Girls",
+        "url": "https://en.wikipedia.org/wiki/Radium_Girls"
+      },
+      {
+        "ad": "NIST — jres.126.051 (cited by Wikipedia)",
+        "url": "https://nvlpubs.nist.gov/nistpubs/jres/126/jres.126.051.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-12",
+    "wiki": "Radium_Girls",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "USRadiumGirls-Argonne.jpg [Public domain]",
+      "All women or girls using radium paint with no protection or warnings in 1922, from- USRadiumGirls-Argonne1,ca1922-23-150dpi (cropped).jpg [Public domain]",
+      "Undark (Radium Girls) advertisement, 1921, retouched.png [Public domain]",
+      "Second River radium site WOrange jeh.jpg [CC0]"
+    ]
+  }
+}

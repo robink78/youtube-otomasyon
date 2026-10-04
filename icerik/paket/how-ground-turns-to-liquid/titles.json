@@ -1,0 +1,308 @@
+{
+  "slug": "how-ground-turns-to-liquid",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.630Z",
+  "secilen": "How Earthquakes Turn Solid Ground to Liquid",
+  "secilenPuan": 48.8,
+  "mevcutPuan": 48.8,
+  "sablonOnerisi": {
+    "baslik": "The Physics of How Earthquakes Turn Solid Ground to Liquid",
+    "puan": 59.7,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 11,
+  "adaylar": [
+    {
+      "baslik": "The Physics of How Earthquakes Turn Solid Ground to Liquid",
+      "kalip": "physics-of",
+      "toplam": 59.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "Earthquakes Turn Solid Ground to Liquid. Engineers Call It Soil Liquefaction.",
+      "kalip": "engineers-call-it",
+      "toplam": 52.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 5,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 4.4
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (77 chars)",
+        "jargon in title: liquefaction"
+      ],
+      "kaynak": "template:engineers-call-it"
+    },
+    {
+      "baslik": "What Breaks First When Earthquakes Turn Solid Ground to Liquid",
+      "kalip": "what",
+      "toplam": 51,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.71,
+      "notes": [
+        "long for Shorts feed (62 chars)",
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:breaks-first"
+    },
+    {
+      "baslik": "How Earthquakes Turn Solid Ground to Liquid",
+      "kalip": "how",
+      "toplam": 48.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"how\" already used by 3 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "Soil Liquefaction: Why Earthquakes Turn Solid Ground to Liquid",
+      "kalip": "label-colon",
+      "toplam": 46.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 5,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.4
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (62 chars)",
+        "jargon in title: liquefaction",
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:mechanism-why"
+    },
+    {
+      "baslik": "How Earthquakes Turn Sand Into Quicksand",
+      "kalip": "how",
+      "toplam": 46,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"how\" already used by 3 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "What Actually Happens When Earthquakes Turn Solid Ground to Liquid",
+      "kalip": "what-really",
+      "toplam": 46,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "What Actually Makes Planes Crash"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "long for Shorts feed (66 chars)",
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-happens"
+    },
+    {
+      "baslik": "Why Buildings Sink Into the Ground in Earthquakes",
+      "kalip": "why",
+      "toplam": 37.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.47,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why Earthquakes Turn Solid Ground to Liquid",
+      "kalip": "why",
+      "toplam": 36.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.22,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "template:why-plural"
+    },
+    {
+      "baslik": "When Solid Ground Starts Acting Like Liquid",
+      "kalip": "statement",
+      "toplam": 35.6,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "Why the Ground Suddenly Swallows Houses"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"statement\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Earthquakes Explained",
+      "kalip": "explained",
+      "toplam": 15.4,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.25,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

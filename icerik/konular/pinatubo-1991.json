@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Volcano and a Typhoon Collapsed Roofs With Wet Ash",
+  "kaynaklar": [
+    {
+      "ad": "pinatubo-1.jpg",
+      "wikimedia": "Eruption of Mount Pinatubo, June 15, 1991 (original resolution).jpg"
+    },
+    {
+      "ad": "pinatubo-2.jpg",
+      "wikimedia": "Pinatubo91 lahar and tephra damage sapangbato 06-22-91.jpg"
+    },
+    {
+      "ad": "pinatubo-3.jpg",
+      "wikimedia": "A member of a construction battalion (SEABEE) and a civilian worker check the lift hook of a crane prior to a clean-up assignment. The men are providing assistance in the area in th - DPLA - 3e2dad86c5965523acae01deba7b8975.jpeg"
+    },
+    {
+      "ad": "pinatubo-4.jpg",
+      "wikimedia": "A US Air Force M220BFL rough terrain fork lift moves a pallet of luggage of evacuees from the Philippine Islands. The evacuation is the result of the June 10 eruption of Mount Pinat - DPLA - 5984050c0735ed1123fd82439db9d611.jpeg"
+    },
+    {
+      "ad": "pinatubo-5.jpg",
+      "wikimedia": "ClarkPinatubo.jpg"
+    },
+    {
+      "ad": "pinatubo-6.jpg",
+      "wikimedia": "Philippine F-8P DN-SC-92-04086.jpg"
+    },
+    {
+      "ad": "pinatubo-7.png",
+      "wikimedia": "TOMS SO2 time nov03.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Mount Pinatubo erupted in the Philippines.",
+      "kaynak": "Footage/pinatubo-1.jpg"
+    },
+    {
+      "metin": "Within hours, a typhoon swept in over the falling ash.",
+      "kaynak": "Footage/pinatubo-2.jpg"
+    },
+    {
+      "metin": "Rain soaked the falling ash.",
+      "kaynak": "Footage/pinatubo-3.jpg"
+    },
+    {
+      "metin": "Wet ash is far heavier than dry ash.",
+      "kaynak": "Footage/pinatubo-4.jpg"
+    },
+    {
+      "metin": "Roofs across the region collapsed under the weight.",
+      "kaynak": "Footage/pinatubo-5.jpg"
+    },
+    {
+      "metin": "Many of the deaths came from those collapses.",
+      "kaynak": "Footage/pinatubo-6.jpg"
+    },
+    {
+      "metin": "Scientists had forecast the eruption and urged evacuation.",
+      "kaynak": "Footage/pinatubo-7.png"
+    },
+    {
+      "metin": "It became a model for volcano response.",
+      "kaynak": "Footage/pinatubo-1.jpg"
+    }
+  ],
+  "aciklama": "Pinatubo buried the region in heavy wet ash. The cause: rain-saturated ash overloading roofs that collapsed.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Pinatubo",
+    "1991",
+    "roofs",
+    "engineering failure"
+  ],
+  "hook": "The ash got wet",
+  "soru": "How do you get people to leave?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the 1991 Pinatubo eruption",
+    "kisa": "Pinatubo",
+    "nesne": "Roofs",
+    "yil": 1991,
+    "sonuc": "buried the region in heavy wet ash",
+    "tetik": "a typhoon soaking the falling ash",
+    "mekanizma": "rain-saturated ash overloading roofs that collapsed",
+    "sayi": "WET ASH",
+    "ders": "the forecast-driven evacuation became a model for volcano response",
+    "zincir": [
+      "MASSIVE ERUPTION",
+      "TYPHOON ARRIVES SAME DAY",
+      "RAIN SOAKS ASH",
+      "ROOFS OVERLOADED",
+      "COLLAPSES"
+    ],
+    "zaman": [],
+    "yanilgi": "Many deaths weren't from the eruption directly. Roofs collapsed under ash made heavy by rain.",
+    "tartisma": "Evacuations saved thousands of lives. How do scientists convince people to leave in time?",
+    "basliklar": [
+      "A Volcano and a Typhoon Collapsed Roofs With Wet Ash",
+      "Why Pinatubo's Ash Collapsed So Many Roofs",
+      "The Volcano and the Typhoon"
+    ],
+    "kapak": [
+      "WET ASH",
+      "ROOFS FELL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1991 eruption of Mount Pinatubo",
+        "url": "https://en.wikipedia.org/wiki/1991_eruption_of_Mount_Pinatubo"
+      },
+      {
+        "ad": "Government source — foreword (cited by Wikipedia)",
+        "url": "http://earthquake.phivolcs.dost.gov.ph/update_SOEPD/Earthquake/1990LuzonEQ_Monograph/foreword.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "1991_eruption_of_Mount_Pinatubo",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Eruption of Mount Pinatubo, June 15, 1991 (original resolution).jpg [Public domain]",
+      "Pinatubo91 lahar and tephra damage sapangbato 06-22-91.jpg [Public domain]",
+      "A member of a construction battalion (SEABEE) and a civilian worker check the lift hook of a crane prior to a clean-up assignment. The men are providing assistance in the area in th - DPLA - 3e2dad86c5965523acae01deba7b8975.jpeg [Public domain]",
+      "A US Air Force M220BFL rough terrain fork lift moves a pallet of luggage of evacuees from the Philippine Islands. The evacuation is the result of the June 10 eruption of Mount Pinat - DPLA - 5984050c0735ed1123fd82439db9d611.jpeg [Public domain]",
+      "ClarkPinatubo.jpg [Public domain]",
+      "Philippine F-8P DN-SC-92-04086.jpg [Public domain]",
+      "TOMS SO2 time nov03.png [Public domain]"
+    ]
+  }
+}

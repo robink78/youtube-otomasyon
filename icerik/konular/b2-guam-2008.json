@@ -1,0 +1,121 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 5.5,
+  "baslik": "How Water Destroyed a $1.4 Billion Stealth Bomber",
+  "kaynaklar": [
+    {
+      "ad": "b2.webm",
+      "wikimedia": "B2SpiritGuamCrash.webm"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "This crash destroyed a 1.4 billion dollar stealth bomber.",
+      "kaynak": "Footage/b2.webm",
+      "baslangic": 144
+    },
+    {
+      "metin": "It pitched up, stalled, and fell seconds after takeoff.",
+      "kaynak": "Footage/b2.webm",
+      "baslangic": 118
+    },
+    {
+      "metin": "Both pilots ejected and survived.",
+      "kaynak": "Footage/b2.webm",
+      "baslangic": 150
+    },
+    {
+      "metin": "So what brought down a jet this advanced? Just water.",
+      "kaynak": "Footage/b2.webm",
+      "baslangic": 60
+    },
+    {
+      "metin": "Humid air left moisture inside three of its air-data sensors.",
+      "kaynak": "Footage/b2.webm",
+      "baslangic": 12
+    },
+    {
+      "metin": "The flight computer got false readings of speed and angle.",
+      "kaynak": "Footage/b2.webm",
+      "baslangic": 76
+    },
+    {
+      "metin": "It believed the nose was pointing down and pitched it sharply up.",
+      "kaynak": "Footage/b2.webm",
+      "baslangic": 124
+    },
+    {
+      "metin": "Crews now heat those sensors before calibrating them.",
+      "kaynak": "Footage/b2.webm",
+      "baslangic": 176
+    }
+  ],
+  "aciklama": "On February 23, 2008, a B-2 Spirit crashed on takeoff at Andersen Air Force Base, Guam. Moisture in air-data sensors fed its flight computers false readings.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "B-2 Spirit",
+    "Spirit of Kansas",
+    "Guam",
+    "2008",
+    "air data sensors",
+    "stealth bomber crash",
+    "aviation"
+  ],
+  "hook": "$1.4 billion, lost to water",
+  "soru": "Trust the sensor or the pilot?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the B-2 Spirit of Kansas",
+    "kisa": "B-2 Guam",
+    "nesne": "B-2 stealth bomber",
+    "yil": 2008,
+    "sonuc": "crashed on takeoff",
+    "tetik": "moisture inside air-data sensors",
+    "mekanizma": "moisture-distorted air-data sensor calibration feeding false airspeed and angle of attack to the flight computers",
+    "sayi": "$1.4 BILLION",
+    "ders": "sensors are now heated to drive out moisture before air-data calibration",
+    "zincir": [
+      "HUMID AIR ENTERS PORT TRANSDUCERS",
+      "CALIBRATION DONE WITH MOISTURE INSIDE",
+      "FALSE SPEED AND ANGLE DATA",
+      "COMPUTER PITCHES NOSE UP 30°",
+      "STALL AND CRASH ON TAKEOFF"
+    ],
+    "zaman": [
+      {
+        "t": "Feb 2008",
+        "olay": "Air-data sensors recalibrated in humid conditions"
+      },
+      {
+        "t": "Feb 23, 10:30 local",
+        "olay": "Takeoff roll; nose pitches up"
+      },
+      {
+        "t": "Seconds later",
+        "olay": "Stall; aircraft hits the ground — both pilots eject"
+      }
+    ],
+    "yanilgi": "The pilots didn't cause it. The flight computers acted on sensor data that looked valid but was distorted by water.",
+    "tartisma": "Maintenance crews knew a heater trick for this sensor issue, but it wasn't in the procedures. How should informal fixes become official?",
+    "basliklar": [
+      "How Water Destroyed a $1.4 Billion Stealth Bomber",
+      "The Most Expensive Plane Crash in History",
+      "Why a B-2 Stalled Seconds After Takeoff",
+      "Three Wet Sensors, One Lost Bomber"
+    ],
+    "kapak": [
+      "$1.4 BILLION",
+      "3 WET SENSORS",
+      "STALL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2008 Andersen Air Force Base B-2 accident",
+        "url": "https://en.wikipedia.org/wiki/2008_Andersen_Air_Force_Base_B-2_accident"
+      }
+    ]
+  }
+}

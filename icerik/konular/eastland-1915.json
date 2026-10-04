@@ -1,0 +1,125 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 6.5,
+  "baslik": "The Ship That Capsized at the Dock — Because of a Safety Rule",
+  "kaynaklar": [
+    {
+      "ad": "eastland1.webm",
+      "wikimedia": "Eastland Disaster in Chicago, footage of rescue works (July 24th, 1915).webm"
+    },
+    {
+      "ad": "eastland2.webm",
+      "wikimedia": "Eastland Disaster in Chicago, footage of salvage operation (August 14th, 1915).webm"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "This ship capsized at the dock, and 844 people died.",
+      "kaynak": "Footage/eastland1.webm",
+      "baslangic": 20
+    },
+    {
+      "metin": "It happened in minutes, in water only twenty feet deep.",
+      "kaynak": "Footage/eastland1.webm",
+      "baslangic": 30
+    },
+    {
+      "metin": "So how does a ship sink at its own pier?",
+      "kaynak": "Footage/eastland1.webm",
+      "baslangic": 12.5
+    },
+    {
+      "metin": "The Eastland was already top-heavy and known to list.",
+      "kaynak": "Footage/eastland2.webm",
+      "baslangic": 6.5
+    },
+    {
+      "metin": "After the Titanic, new rules added lifeboats high on its decks.",
+      "kaynak": "Footage/eastland1.webm",
+      "baslangic": 42
+    },
+    {
+      "metin": "That extra weight up top made it even less stable.",
+      "kaynak": "Footage/eastland2.webm",
+      "baslangic": 14
+    },
+    {
+      "metin": "As 2,500 passengers crowded one side, it simply tipped over.",
+      "kaynak": "Footage/eastland1.webm",
+      "baslangic": 35
+    },
+    {
+      "metin": "A safety rule made the ship more dangerous.",
+      "kaynak": "Footage/eastland2.webm",
+      "baslangic": 23
+    }
+  ],
+  "aciklama": "On July 24, 1915, the SS Eastland rolled over at its dock on the Chicago River, killing 844 people. Extra lifeboats added after the Titanic made an already top-heavy ship even less stable.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "SS Eastland",
+    "Eastland disaster",
+    "1915",
+    "Chicago River",
+    "ship stability",
+    "Titanic lifeboats",
+    "maritime disaster"
+  ],
+  "hook": "Sank at the dock",
+  "soru": "Would you notice the list?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the SS Eastland",
+    "kisa": "Eastland",
+    "nesne": "Passenger steamer",
+    "yil": 1915,
+    "sonuc": "capsized at its dock with 844 dead",
+    "tetik": "passengers crowding one side of a top-heavy ship",
+    "mekanizma": "loss of stability from a high center of gravity (lifeboats added on upper decks)",
+    "sayi": "844 DEAD",
+    "ders": "stability must be recalculated whenever weight is added high on a ship — even safety equipment",
+    "zincir": [
+      "TOP-HEAVY DESIGN, KNOWN TO LIST",
+      "LIFEBOATS ADDED HIGH AFTER TITANIC",
+      "CENTER OF GRAVITY RISES",
+      "PASSENGERS CROWD ONE SIDE",
+      "SHIP ROLLS OVER AT THE DOCK"
+    ],
+    "zaman": [
+      {
+        "t": "Jul 24, 1915 06:30",
+        "olay": "About 2,500 passengers board for a company picnic"
+      },
+      {
+        "t": "07:10",
+        "olay": "Ship lists toward the river"
+      },
+      {
+        "t": "07:28",
+        "olay": "Eastland rolls onto its side in about 20 ft of water"
+      }
+    ],
+    "yanilgi": "The Eastland didn't sink at sea — it rolled over while still tied to the dock, in water barely deeper than the ship was wide.",
+    "tartisma": "More lifeboats made the ship less stable. How do you add safety equipment without creating a new risk?",
+    "basliklar": [
+      "The Ship That Capsized at the Dock — Because of a Safety Rule",
+      "How Titanic's Lessons Sank the Eastland",
+      "844 Died in 20 Feet of Water",
+      "Why the Eastland Rolled Over at Its Pier"
+    ],
+    "kapak": [
+      "AT THE DOCK",
+      "844",
+      "20 FT DEEP"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SS Eastland",
+        "url": "https://en.wikipedia.org/wiki/SS_Eastland"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "A Tired Crew Flew an Unstable Approach Into a Hill",
+  "kaynaklar": [
+    {
+      "ad": "ups-1354-1.jpg",
+      "wikimedia": "NTSB investigators Clint Crookshanks and Steve Magladry examining wreckage from UPS flight 1354 (9518979864).jpg"
+    },
+    {
+      "ad": "ups-1354-2.jpg",
+      "wikimedia": "An NTSB investigator carries out one of the recorders from UPS 1354. (9518907464).jpg"
+    },
+    {
+      "ad": "ups-1354-3.jpg",
+      "wikimedia": "Investigators combing through wreckage from UPS flight 1354 (9516184287).jpg"
+    },
+    {
+      "ad": "ups-1354-4.jpg",
+      "wikimedia": "Investigators combing through wreckage from UPS flight 1354 (9518977092).jpg"
+    },
+    {
+      "ad": "ups-1354-5.jpg",
+      "wikimedia": "NTSB investigators locate and retrieve the recorders from UPS 1354 (9516119211).jpg"
+    },
+    {
+      "ad": "ups-1354-6.jpg",
+      "wikimedia": "NTSB investigators remove the recorders from UPS 1354 (9518908718).jpg"
+    },
+    {
+      "ad": "ups-1354-7.jpg",
+      "wikimedia": "UPS Airlines Flight 1354 wreckage.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Before dawn, a UPS cargo jet crashed short of the runway in Birmingham.",
+      "kaynak": "Footage/ups-1354-1.jpg"
+    },
+    {
+      "metin": "It hit trees and a hill, and both pilots were killed.",
+      "kaynak": "Footage/ups-1354-2.jpg"
+    },
+    {
+      "metin": "The approach was flown at night without vertical guidance.",
+      "kaynak": "Footage/ups-1354-3.jpg"
+    },
+    {
+      "metin": "An autopilot mode wasn't set as intended.",
+      "kaynak": "Footage/ups-1354-4.jpg"
+    },
+    {
+      "metin": "The jet descended too steeply and too low.",
+      "kaynak": "Footage/ups-1354-5.jpg"
+    },
+    {
+      "metin": "Neither pilot called for a go-around.",
+      "kaynak": "Footage/ups-1354-6.jpg"
+    },
+    {
+      "metin": "Fatigue was found to be a factor.",
+      "kaynak": "Footage/ups-1354-7.jpg"
+    },
+    {
+      "metin": "Rest rules for cargo pilots came under renewed scrutiny.",
+      "kaynak": "Footage/ups-1354-1.jpg"
+    }
+  ],
+  "aciklama": "UPS 1354 hit a hill short of the runway in Birmingham. The cause: continued unstable non-precision approach below minimums, compounded by fatigue.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "UPS 1354",
+    "2013",
+    "approach",
+    "engineering failure"
+  ],
+  "hook": "They kept descending",
+  "soru": "Same rest rules for cargo?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "UPS Airlines Flight 1354",
+    "kisa": "UPS 1354",
+    "nesne": "Approach",
+    "yil": 2013,
+    "sonuc": "hit a hill short of the runway in Birmingham",
+    "tetik": "an unstabilized, too-low night approach",
+    "mekanizma": "continued unstable non-precision approach below minimums, compounded by fatigue",
+    "sayi": "2 CREW",
+    "ders": "cargo pilot rest rules were debated and approach monitoring was stressed",
+    "zincir": [
+      "LOCALIZER APPROACH AT NIGHT",
+      "AUTOPILOT MODE MISSET",
+      "DESCENT TOO STEEP",
+      "NO GO-AROUND",
+      "TREES AND HILL STRUCK"
+    ],
+    "zaman": [],
+    "yanilgi": "The aircraft was working normally. The crew continued an approach that should have been abandoned.",
+    "tartisma": "Cargo pilots weren't covered by the same rest rules as passenger pilots. Should they be?",
+    "basliklar": [
+      "A Tired Crew Flew an Unstable Approach Into a Hill",
+      "Why UPS Flight 1354 Crashed",
+      "The Approach That Should Have Been Abandoned"
+    ],
+    "kapak": [
+      "TOO LOW",
+      "TIRED CREW"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — UPS Airlines Flight 1354",
+        "url": "https://en.wikipedia.org/wiki/UPS_Airlines_Flight_1354"
+      },
+      {
+        "ad": "NTSB — AAR1402 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1402.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "UPS_Airlines_Flight_1354",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "NTSB investigators Clint Crookshanks and Steve Magladry examining wreckage from UPS flight 1354 (9518979864).jpg [Public domain]",
+      "An NTSB investigator carries out one of the recorders from UPS 1354. (9518907464).jpg [Public domain]",
+      "Investigators combing through wreckage from UPS flight 1354 (9516184287).jpg [Public domain]",
+      "Investigators combing through wreckage from UPS flight 1354 (9518977092).jpg [Public domain]",
+      "NTSB investigators locate and retrieve the recorders from UPS 1354 (9516119211).jpg [Public domain]",
+      "NTSB investigators remove the recorders from UPS 1354 (9518908718).jpg [Public domain]",
+      "UPS Airlines Flight 1354 wreckage.jpg [Public domain]"
+    ]
+  }
+}

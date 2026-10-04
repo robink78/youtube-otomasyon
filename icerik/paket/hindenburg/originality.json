@@ -1,0 +1,70 @@
+{
+  "slug": "hindenburg",
+  "olusturuldu": "2026-09-24T16:22:41.499Z",
+  "originality": 80,
+  "aksiyon": "REVIEW",
+  "bayraklar": [
+    {
+      "metrik": "structure",
+      "deger": 1,
+      "esik": 0.9,
+      "kim": "vesuvius-1944"
+    }
+  ],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.13,
+      "kim": "bikini-baker"
+    },
+    "hook": {
+      "deger": 0.26,
+      "kim": "why-planes-crash"
+    },
+    "structure": {
+      "deger": 1,
+      "kim": "vesuvius-1944"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.5,
+      "kim": "how-carbon-monoxide-kills"
+    },
+    "cta": {
+      "deger": 0.3,
+      "kim": "why-mines-collapse"
+    },
+    "description": {
+      "deger": 0.05,
+      "kim": "the-science-of-sinkholes"
+    },
+    "music": {
+      "deger": 0.83,
+      "kim": "how-blackouts-spread"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.13,
+    "HOOK_SIMILARITY": 0.26,
+    "STRUCTURE_SIMILARITY": 1,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.5,
+    "CTA_SIMILARITY": 0.3,
+    "DESCRIPTION_SIMILARITY": 0.05,
+    "MUSIC_SIMILARITY": 0.83
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

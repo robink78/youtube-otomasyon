@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Vienna Bridge That Fell Into the Danube at Dawn",
+  "kaynaklar": [
+    {
+      "ad": "reichsbrucke-1.jpg",
+      "wikimedia": "Een vluchtelingenkamp voor Tsjechen bij de Wiener Reichsbrücke (Oostenrijk), Bestanddeelnr 921-6236 (cropped).jpg"
+    },
+    {
+      "ad": "reichsbrucke-2.jpg",
+      "wikimedia": "Een vluchtelingenkamp voor Tsjechen bij de Wiener Reichsbrücke (Oostenrijk), Bestanddeelnr 921-6236.jpg"
+    },
+    {
+      "ad": "reichsbrucke-3.jpg",
+      "wikimedia": "Wien- Straße (Straßenbahn auf der Reichsbrücke), Vordergrund Scheiben des Lenkrads des Aju - LABW - Staatsarchiv Freiburg W 134 Nr. 015806.jpeg"
+    },
+    {
+      "ad": "reichsbrucke-4.jpg",
+      "wikimedia": "Zweite reichsbruecke fahrbahn.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Before dawn, Vienna's Reichsbrücke collapsed into the Danube.",
+      "kaynak": "Footage/reichsbrucke-1.jpg"
+    },
+    {
+      "metin": "It fell in seconds, and one person was killed.",
+      "kaynak": "Footage/reichsbrucke-2.jpg"
+    },
+    {
+      "metin": "Traffic was light at that hour.",
+      "kaynak": "Footage/reichsbrucke-3.jpg"
+    },
+    {
+      "metin": "Its bearings had failed.",
+      "kaynak": "Footage/reichsbrucke-4.jpg"
+    },
+    {
+      "metin": "The weakness was hidden inside its granite casing.",
+      "kaynak": "Footage/reichsbrucke-1.jpg"
+    },
+    {
+      "metin": "Inspectors couldn't see it.",
+      "kaynak": "Footage/reichsbrucke-2.jpg"
+    },
+    {
+      "metin": "An empty city bus fell with it, but the driver survived.",
+      "kaynak": "Footage/reichsbrucke-3.jpg"
+    },
+    {
+      "metin": "The bridge was rebuilt.",
+      "kaynak": "Footage/reichsbrucke-4.jpg"
+    }
+  ],
+  "aciklama": "Reichsbrücke collapsed into the Danube early one morning. The cause: bearing failure hidden by a massive granite mantle and missed in inspections.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Reichsbrücke",
+    "1976",
+    "bearings",
+    "engineering failure"
+  ],
+  "hook": "The flaw was hidden in stone",
+  "soru": "Should structure be visible?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Reichsbrücke",
+    "kisa": "Reichsbrücke",
+    "nesne": "Bearings",
+    "yil": 1976,
+    "sonuc": "collapsed into the Danube early one morning",
+    "tetik": "a hidden structural failure in the bearings",
+    "mekanizma": "bearing failure hidden by a massive granite mantle and missed in inspections",
+    "sayi": "AT DAWN",
+    "ders": "Vienna rebuilt the bridge and changed how hidden elements are inspected",
+    "zincir": [
+      "BEARINGS ENCASED IN GRANITE",
+      "DAMAGE HIDDEN",
+      "INSPECTIONS MISS IT",
+      "BEARINGS FAIL",
+      "BRIDGE FALLS INTO RIVER"
+    ],
+    "zaman": [],
+    "yanilgi": "Inspectors checked the bridge. The flaw was hidden inside the stone that covered it.",
+    "tartisma": "Decoration concealed the structure. Should important parts always be visible?",
+    "basliklar": [
+      "The Vienna Bridge That Fell Into the Danube at Dawn",
+      "Why the Reichsbrücke Collapsed",
+      "The Flaw Hidden Inside a Bridge Pier"
+    ],
+    "kapak": [
+      "HIDDEN FLAW",
+      "INTO THE DANUBE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Reichsbrücke",
+        "url": "https://en.wikipedia.org/wiki/Reichsbrücke"
+      },
+      {
+        "ad": "Government source — sh93004814 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/sh93004814"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "Reichsbrücke",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Een vluchtelingenkamp voor Tsjechen bij de Wiener Reichsbrücke (Oostenrijk), Bestanddeelnr 921-6236 (cropped).jpg [CC0]",
+      "Een vluchtelingenkamp voor Tsjechen bij de Wiener Reichsbrücke (Oostenrijk), Bestanddeelnr 921-6236.jpg [CC0]",
+      "Wien- Straße (Straßenbahn auf der Reichsbrücke), Vordergrund Scheiben des Lenkrads des Aju - LABW - Staatsarchiv Freiburg W 134 Nr. 015806.jpeg [CC BY 4.0]",
+      "Zweite reichsbruecke fahrbahn.jpg [CC BY 3.0]"
+    ]
+  }
+}

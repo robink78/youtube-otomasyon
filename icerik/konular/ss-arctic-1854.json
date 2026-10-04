@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Liner Where the Crew Took the Lifeboats",
+  "kaynaklar": [
+    {
+      "ad": "ss-arctic-1.png",
+      "wikimedia": "Wreck of the U.S.M. steam ship \"Arctic\" (one-third-size).png"
+    },
+    {
+      "ad": "ss-arctic-2.jpg",
+      "wikimedia": "Loss of the U.S.M. steam ship Arctic- off Cape Race Wednesday September 27th 1854 LCCN2002709960.jpg"
+    },
+    {
+      "ad": "ss-arctic-3.jpg",
+      "wikimedia": "SS Arctic collision map1854.jpeg"
+    },
+    {
+      "ad": "ss-arctic-4.png",
+      "wikimedia": "Wreck of the U.S.M. steam ship \"Arctic\" (half-size).png"
+    },
+    {
+      "ad": "ss-arctic-5.jpg",
+      "wikimedia": "'The Arctic' Steam-Ship - ILN 1854.jpg"
+    },
+    {
+      "ad": "ss-arctic-6.jpg",
+      "wikimedia": "Loss of the Steam Ship Arctic.jpg"
+    },
+    {
+      "ad": "ss-arctic-7.jpg",
+      "wikimedia": "USM steamship Arctic (1850).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In fog off Newfoundland, the liner Arctic collided with a smaller steamer.",
+      "kaynak": "Footage/ss-arctic-1.png"
+    },
+    {
+      "metin": "It sank hours later, and only eighty eight people survived.",
+      "kaynak": "Footage/ss-arctic-2.jpg"
+    },
+    {
+      "metin": "The captain first tried to help the other ship.",
+      "kaynak": "Footage/ss-arctic-3.jpg"
+    },
+    {
+      "metin": "Then he found his own hull holed below the waterline.",
+      "kaynak": "Footage/ss-arctic-4.png"
+    },
+    {
+      "metin": "He ran for land, but the engines stopped.",
+      "kaynak": "Footage/ss-arctic-5.jpg"
+    },
+    {
+      "metin": "There were lifeboats for fewer than half aboard.",
+      "kaynak": "Footage/ss-arctic-6.jpg"
+    },
+    {
+      "metin": "Order broke down, and crew took many of the places.",
+      "kaynak": "Footage/ss-arctic-7.jpg"
+    },
+    {
+      "metin": "All the women and children aboard died.",
+      "kaynak": "Footage/ss-arctic-1.png"
+    }
+  ],
+  "aciklama": "SS Arctic sank after a collision in fog off Newfoundland. The cause: hull damage below the waterline and lifeboats for fewer than half aboard.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "SS Arctic",
+    "1854",
+    "lifeboats",
+    "engineering failure"
+  ],
+  "hook": "The crew took the boats",
+  "soru": "What should discipline mean?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the SS Arctic",
+    "kisa": "SS Arctic",
+    "nesne": "Lifeboats",
+    "yil": 1854,
+    "sonuc": "sank after a collision in fog off Newfoundland",
+    "tetik": "a collision in intermittent fog at full speed",
+    "mekanizma": "hull damage below the waterline and lifeboats for fewer than half aboard",
+    "sayi": "88 SURVIVED",
+    "ders": "public outrage fed demands for lifeboats and discipline at sea",
+    "zincir": [
+      "FULL SPEED IN FOG",
+      "COLLISION WITH VESTA",
+      "HULL HOLED",
+      "RUN FOR LAND FAILS",
+      "CREW TAKES THE BOATS"
+    ],
+    "zaman": [],
+    "yanilgi": "The lifeboats weren't used fairly. Most places went to crew and able-bodied men.",
+    "tartisma": "No women or children survived. What should discipline mean in a sinking?",
+    "basliklar": [
+      "The Liner Where the Crew Took the Lifeboats",
+      "Why the SS Arctic Disaster Was So Deadly",
+      "The Sinking Where No Woman Survived"
+    ],
+    "kapak": [
+      "NO WOMEN SAVED",
+      "88 SURVIVED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SS Arctic disaster",
+        "url": "https://en.wikipedia.org/wiki/SS_Arctic_disaster"
+      },
+      {
+        "ad": "Government source — 1854&searchType=advanced&language=&sequence=0&words=Ar.,tic&proxdistan (cited by Wikipedia)",
+        "url": "https://chroniclingamerica.loc.gov/lccn/sn83030213/1854-10-12/ed-1/seq-6/#date1=09/27/1854&index=9&date2=10/31/1854&searchType=advanced&language=&sequence=0&words=Ar.,tic&proxdistance=5&state=New+York&rows=20&ortext=Artic&proxtext=&phrasetext=&andtext=&dateFilterType=range&page=1"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-18",
+    "wiki": "SS_Arctic_disaster",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Wreck of the U.S.M. steam ship \"Arctic\" (one-third-size).png [Public domain]",
+      "Loss of the U.S.M. steam ship Arctic- off Cape Race Wednesday September 27th 1854 LCCN2002709960.jpg [Public domain]",
+      "SS Arctic collision map1854.jpeg [Public domain]",
+      "Wreck of the U.S.M. steam ship \"Arctic\" (half-size).png [Public domain]",
+      "'The Arctic' Steam-Ship - ILN 1854.jpg [Public domain]",
+      "Loss of the Steam Ship Arctic.jpg [Public domain]",
+      "USM steamship Arctic (1850).jpg [Public domain]"
+    ]
+  }
+}

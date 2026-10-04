@@ -1,0 +1,793 @@
+{
+  "generatedAt": "2026-09-30T21:05:12.240Z",
+  "note": "Per-channel baselines are computed separately and never blended.",
+  "channels": [
+    {
+      "channel": "failure-reconstructed",
+      "name": "Failure Reconstructed",
+      "shorts": {
+        "lastPublished": "2026-09-30T18:00:00.000Z",
+        "published": 10,
+        "inventory": {
+          "A": 63,
+          "B": 239,
+          "C": 64,
+          "D": 0
+        },
+        "nextSelection": {
+          "slug": "ponte-morandi-2018",
+          "reason": "experiment day (ratio 0.15): best C topic"
+        },
+        "baseline": {
+          "n": 10,
+          "views": 1035,
+          "averagePercentageViewed": 67.77,
+          "subscribersPer1000Views": 2.05,
+          "engagementPer1000Views": 37.52,
+          "watchHoursPer1000Views": 2.94
+        }
+      },
+      "longform": {
+        "lane": {
+          "cycleId": "2026-W40",
+          "due": false,
+          "reason": "cycle 2026-W40 already QUALITY_BLOCKED",
+          "lastPublished": null
+        },
+        "lastCycle": {
+          "cycleId": "2026-W40",
+          "channel": "failure-reconstructed",
+          "startedAt": "2026-09-30T15:48:32.929Z",
+          "status": "QUALITY_BLOCKED",
+          "evaluated": [
+            {
+              "slug": "challenger-1986",
+              "mode": "A_LONG_FIRST",
+              "LongFormPotentialScore": 83,
+              "bucket": "A",
+              "decision": "BLOCK",
+              "score": 83,
+              "hardFails": [
+                "INSUFFICIENT_DEPTH: evidence supports ~2.3 min; target 8–12 min — not padded"
+              ]
+            },
+            {
+              "slug": "columbia-2003",
+              "mode": "A_LONG_FIRST",
+              "LongFormPotentialScore": 82,
+              "bucket": "A",
+              "decision": "BLOCK",
+              "score": 85,
+              "hardFails": [
+                "INSUFFICIENT_DEPTH: evidence supports ~1.9 min; target 8–12 min — not padded"
+              ]
+            },
+            {
+              "slug": "apollo-13-1970",
+              "mode": "A_LONG_FIRST",
+              "LongFormPotentialScore": 81,
+              "bucket": "A",
+              "decision": "BLOCK",
+              "score": 84,
+              "hardFails": [
+                "INSUFFICIENT_DEPTH: evidence supports ~2.2 min; target 8–12 min — not padded"
+              ]
+            }
+          ],
+          "selected": null,
+          "reason": "no candidate passed the long-form quality gate; cadence does not override quality",
+          "finishedAt": "2026-09-30T15:48:34.178Z"
+        },
+        "episodes": 0,
+        "backlog": [
+          {
+            "slug": "challenger-1986",
+            "LongFormPotentialScore": 83,
+            "bucket": "A",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "columbia-2003",
+            "LongFormPotentialScore": 82,
+            "bucket": "A",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "apollo-13-1970",
+            "LongFormPotentialScore": 81,
+            "bucket": "A",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "chernobyl-1986",
+            "LongFormPotentialScore": 81,
+            "bucket": "A",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "deepwater-horizon-2010",
+            "LongFormPotentialScore": 80,
+            "bucket": "A",
+            "mode": "A_LONG_FIRST"
+          }
+        ],
+        "baseline": {
+          "n": 0,
+          "views": null,
+          "averagePercentageViewed": null,
+          "subscribersPer1000Views": null,
+          "engagementPer1000Views": null,
+          "watchHoursPer1000Views": null
+        }
+      },
+      "tiktok": {
+        "enabled": true,
+        "mode": "SEND_TO_USER_INBOX",
+        "recordedItems": 8,
+        "sent": 8,
+        "errors": 0,
+        "last": "2026-09-30T13:58:55.556Z"
+      },
+      "clusters": {
+        "count": 0,
+        "integrity": {
+          "ok": true,
+          "problems": [],
+          "count": 0
+        }
+      },
+      "funnel": {
+        "shortToLong": 0,
+        "longToLong": 0,
+        "pendingRelatedVideoManualActions": 0
+      },
+      "growth": {
+        "trackedVideos": 10,
+        "subscriberConversion": {
+          "shorts": 2.05,
+          "longform": null
+        }
+      },
+      "learning": {
+        "shorts": {
+          "status": "observing",
+          "sampleSize": 10,
+          "adopted": 0,
+          "hypotheses": 0
+        },
+        "longform": {
+          "status": "heuristics-only",
+          "sampleSize": 0,
+          "adopted": 0
+        }
+      },
+      "experiments": [],
+      "enrichmentTasks": [
+        {
+          "slug": "ponte-morandi-2018",
+          "bucket": "C",
+          "reason": "VideoPotential 85 in experimental band 55–67; sources 48 < 60"
+        },
+        {
+          "slug": "quebec-bridge-1907",
+          "bucket": "C",
+          "reason": "VideoPotential 85 in experimental band 55–67; sources 55 < 60"
+        },
+        {
+          "slug": "apollo-1-1967",
+          "bucket": "C",
+          "reason": "VideoPotential 84 in experimental band 55–67; sources 41 < 60; single-source: every claim rests on 1 source — add an authoritative second source to qualify for A/B"
+        },
+        {
+          "slug": "alexander-kielland-1980",
+          "bucket": "C",
+          "reason": "VideoPotential 83 in experimental band 55–67; sources 58 < 60"
+        },
+        {
+          "slug": "boston-molasses-1919",
+          "bucket": "C",
+          "reason": "VideoPotential 83 in experimental band 55–67; sources 41 < 60; single-source: every claim rests on 1 source — add an authoritative second source to qualify for A/B"
+        },
+        {
+          "slug": "controlled-impact-1984",
+          "bucket": "C",
+          "reason": "VideoPotential 83 in experimental band 55–67; sources 41 < 60; single-source: every claim rests on 1 source — add an authoritative second source to qualify for A/B"
+        },
+        {
+          "slug": "lion-air-610-2018",
+          "bucket": "C",
+          "reason": "VideoPotential 83 in experimental band 55–67; sources 58 < 60"
+        },
+        {
+          "slug": "nanfangao-bridge-2019",
+          "bucket": "C",
+          "reason": "VideoPotential 83 in experimental band 55–67; sources 58 < 60"
+        },
+        {
+          "slug": "ss-noronic-1949",
+          "bucket": "C",
+          "reason": "VideoPotential 83 in experimental band 55–67; sources 48 < 60"
+        },
+        {
+          "slug": "uss-forrestal-1967",
+          "bucket": "C",
+          "reason": "VideoPotential 83 in experimental band 55–67; sources 41 < 60; single-source: every claim rests on 1 source — add an authoritative second source to qualify for A/B"
+        }
+      ],
+      "alerts": [
+        {
+          "channel": "failure-reconstructed",
+          "code": "PRODUCTION_READINESS_REVIEW",
+          "message": "how-avalanches-start",
+          "details": {
+            "score": 77,
+            "dimensions": {
+              "topicPotential": 73,
+              "hook": 70,
+              "script": 77,
+              "firstSeconds": 85,
+              "factual": 100,
+              "visualRelevance": 60,
+              "sources": 41,
+              "metadata": 100,
+              "visualQuality": null,
+              "audio": null,
+              "captions": null,
+              "duration": null,
+              "pacing": 92,
+              "render": null
+            }
+          },
+          "date": "2026-09-30",
+          "at": "2026-09-30T16:04:03.966Z"
+        }
+      ],
+      "legacyPaths": true
+    },
+    {
+      "channel": "impossible-brief",
+      "name": "ImpossibleBrief",
+      "shorts": {
+        "lastPublished": "2026-09-30T18:00:00.000Z",
+        "published": 1,
+        "inventory": {
+          "A": 47,
+          "B": 107,
+          "C": 343,
+          "D": 0
+        },
+        "nextSelection": {
+          "slug": "what-if-we-tried-to-drill-through-the-earth",
+          "reason": "best A topic"
+        },
+        "baseline": {
+          "n": 0,
+          "views": null,
+          "averagePercentageViewed": null,
+          "subscribersPer1000Views": null,
+          "engagementPer1000Views": null,
+          "watchHoursPer1000Views": null
+        }
+      },
+      "longform": {
+        "lane": {
+          "cycleId": "2026-W40",
+          "due": false,
+          "reason": "cycle 2026-W40 already QUALITY_BLOCKED",
+          "lastPublished": null
+        },
+        "lastCycle": {
+          "cycleId": "2026-W40",
+          "channel": "impossible-brief",
+          "startedAt": "2026-09-30T15:48:34.232Z",
+          "status": "QUALITY_BLOCKED",
+          "evaluated": [
+            {
+              "slug": "what-if-we-mined-a-metal-asteroid",
+              "mode": "A_LONG_FIRST",
+              "LongFormPotentialScore": 79,
+              "bucket": "A",
+              "decision": "BLOCK",
+              "score": 86,
+              "hardFails": [
+                "INSUFFICIENT_DEPTH: evidence supports ~1.9 min; target 8–12 min — not padded"
+              ]
+            },
+            {
+              "slug": "could-earth-survive-one-day-without-earth-s-magnetic-field",
+              "mode": "A_LONG_FIRST",
+              "LongFormPotentialScore": 78,
+              "bucket": "A",
+              "decision": "BLOCK",
+              "score": 84,
+              "hardFails": [
+                "INSUFFICIENT_DEPTH: evidence supports ~1.9 min; target 8–12 min — not padded"
+              ]
+            },
+            {
+              "slug": "what-if-synthetic-fertilizer-disappeared",
+              "mode": "A_LONG_FIRST",
+              "LongFormPotentialScore": 78,
+              "bucket": "A",
+              "decision": "BLOCK",
+              "score": 86,
+              "hardFails": [
+                "INSUFFICIENT_DEPTH: evidence supports ~1.8 min; target 8–12 min — not padded"
+              ]
+            }
+          ],
+          "selected": null,
+          "reason": "no candidate passed the long-form quality gate; cadence does not override quality",
+          "finishedAt": "2026-09-30T15:48:35.659Z"
+        },
+        "episodes": 0,
+        "backlog": [
+          {
+            "slug": "what-if-we-mined-a-metal-asteroid",
+            "LongFormPotentialScore": 79,
+            "bucket": "A",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "could-earth-survive-one-day-without-earth-s-magnetic-field",
+            "LongFormPotentialScore": 78,
+            "bucket": "A",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "what-if-synthetic-fertilizer-disappeared",
+            "LongFormPotentialScore": 78,
+            "bucket": "A",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "what-if-the-ozone-hole-never-closed",
+            "LongFormPotentialScore": 77,
+            "bucket": "B",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "what-if-the-tunguska-blast-happened-over-a-city",
+            "LongFormPotentialScore": 77,
+            "bucket": "B",
+            "mode": "A_LONG_FIRST"
+          }
+        ],
+        "baseline": {
+          "n": 0,
+          "views": null,
+          "averagePercentageViewed": null,
+          "subscribersPer1000Views": null,
+          "engagementPer1000Views": null,
+          "watchHoursPer1000Views": null
+        }
+      },
+      "tiktok": {
+        "enabled": false
+      },
+      "clusters": {
+        "count": 1,
+        "integrity": {
+          "ok": true,
+          "problems": [],
+          "count": 1
+        }
+      },
+      "funnel": {
+        "shortToLong": 0,
+        "longToLong": 0,
+        "pendingRelatedVideoManualActions": 0
+      },
+      "growth": {
+        "trackedVideos": 1,
+        "subscriberConversion": {
+          "shorts": null,
+          "longform": null
+        }
+      },
+      "learning": {
+        "shorts": {
+          "status": "heuristics-only",
+          "sampleSize": 0,
+          "adopted": 0,
+          "hypotheses": 0
+        },
+        "longform": {
+          "status": "heuristics-only",
+          "sampleSize": 0,
+          "adopted": 0
+        }
+      },
+      "experiments": [],
+      "enrichmentTasks": [
+        {
+          "slug": "what-breaks-first-if-the-moon-suddenly-doubles-in-mass",
+          "bucket": "C",
+          "reason": "VideoPotential 72 in experimental band 55–67; boilerplate 0.5"
+        },
+        {
+          "slug": "if-a-rogue-planet-vanished-right-now-what-would-change-first",
+          "bucket": "C",
+          "reason": "VideoPotential 72 in experimental band 55–67; boilerplate 0.5"
+        },
+        {
+          "slug": "if-a-rogue-planet-moved-twice-as-close-when-would-earth-notice",
+          "bucket": "C",
+          "reason": "VideoPotential 72 in experimental band 55–67; boilerplate 0.5"
+        },
+        {
+          "slug": "if-the-moon-vanished-right-now-what-would-change-first",
+          "bucket": "C",
+          "reason": "VideoPotential 71 in experimental band 55–67; boilerplate 0.5"
+        },
+        {
+          "slug": "what-breaks-first-if-a-rogue-planet-suddenly-doubles-in-mass",
+          "bucket": "C",
+          "reason": "VideoPotential 71 in experimental band 55–67; boilerplate 0.5"
+        },
+        {
+          "slug": "what-happens-if-the-global-ocean-doubles",
+          "bucket": "C",
+          "reason": "VideoPotential 71 in experimental band 55–67; boilerplate 0.5"
+        },
+        {
+          "slug": "what-if-human-heat-tolerance-doubled-overnight",
+          "bucket": "C",
+          "reason": "VideoPotential 71 in experimental band 55–67; boilerplate 0.5"
+        },
+        {
+          "slug": "what-if-the-brain-s-energy-use-doubled-overnight",
+          "bucket": "C",
+          "reason": "VideoPotential 71 in experimental band 55–67; boilerplate 0.5"
+        },
+        {
+          "slug": "would-doubling-all-synthetic-fertilizers-help-or-harm-us",
+          "bucket": "C",
+          "reason": "VideoPotential 71 in experimental band 55–67; boilerplate 0.5"
+        },
+        {
+          "slug": "if-the-sun-moved-twice-as-close-when-would-earth-notice",
+          "bucket": "C",
+          "reason": "VideoPotential 70 in experimental band 55–67; boilerplate 0.5"
+        }
+      ],
+      "alerts": [],
+      "legacyPaths": false
+    },
+    {
+      "channel": "critical-thread",
+      "name": "CriticalThread",
+      "shorts": {
+        "lastPublished": "2026-09-30T18:00:00.000Z",
+        "published": 1,
+        "inventory": {
+          "A": 30,
+          "B": 131,
+          "C": 0,
+          "D": 359
+        },
+        "nextSelection": {
+          "slug": "when-grid-control-room-becomes-the-bottleneck",
+          "reason": "best A topic"
+        },
+        "baseline": {
+          "n": 0,
+          "views": null,
+          "averagePercentageViewed": null,
+          "subscribersPer1000Views": null,
+          "engagementPer1000Views": null,
+          "watchHoursPer1000Views": null
+        }
+      },
+      "longform": {
+        "lane": {
+          "cycleId": "2026-W40",
+          "due": false,
+          "reason": "cycle 2026-W40 already QUALITY_BLOCKED",
+          "lastPublished": null
+        },
+        "lastCycle": {
+          "cycleId": "2026-W40",
+          "channel": "critical-thread",
+          "startedAt": "2026-09-30T15:48:35.713Z",
+          "status": "QUALITY_BLOCKED",
+          "evaluated": [
+            {
+              "slug": "the-hidden-system-behind-bosporus-vessel-transit-system",
+              "mode": "A_LONG_FIRST",
+              "LongFormPotentialScore": 76,
+              "bucket": "B",
+              "decision": "BLOCK",
+              "score": 82,
+              "hardFails": [
+                "INSUFFICIENT_DEPTH: evidence supports ~1.5 min; target 8–12 min — not padded"
+              ]
+            },
+            {
+              "slug": "what-quietly-depends-on-english-channel-traffic-separation-scheme",
+              "mode": "A_LONG_FIRST",
+              "LongFormPotentialScore": 76,
+              "bucket": "B",
+              "decision": "BLOCK",
+              "score": 81,
+              "hardFails": [
+                "INSUFFICIENT_DEPTH: evidence supports ~1.3 min; target 8–12 min — not padded"
+              ]
+            },
+            {
+              "slug": "the-hidden-system-behind-swift-messaging-network",
+              "mode": "A_LONG_FIRST",
+              "LongFormPotentialScore": 76,
+              "bucket": "B",
+              "decision": "BLOCK",
+              "score": 85,
+              "hardFails": [
+                "INSUFFICIENT_DEPTH: evidence supports ~1.6 min; target 8–12 min — not padded"
+              ]
+            }
+          ],
+          "selected": null,
+          "reason": "no candidate passed the long-form quality gate; cadence does not override quality",
+          "finishedAt": "2026-09-30T15:48:37.139Z"
+        },
+        "episodes": 0,
+        "backlog": [
+          {
+            "slug": "inside-the-system-built-around-rapid-sand-filter",
+            "LongFormPotentialScore": 76,
+            "bucket": "B",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "why-reservoir-outlet-works-is-so-hard-to-replace",
+            "LongFormPotentialScore": 76,
+            "bucket": "B",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "what-quietly-depends-on-desalination-reverse-osmosis-membrane",
+            "LongFormPotentialScore": 76,
+            "bucket": "B",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "the-hidden-system-behind-lead-service-line-replacement-program",
+            "LongFormPotentialScore": 76,
+            "bucket": "B",
+            "mode": "A_LONG_FIRST"
+          },
+          {
+            "slug": "the-hidden-system-behind-bosporus-vessel-transit-system",
+            "LongFormPotentialScore": 76,
+            "bucket": "B",
+            "mode": "A_LONG_FIRST"
+          }
+        ],
+        "baseline": {
+          "n": 0,
+          "views": null,
+          "averagePercentageViewed": null,
+          "subscribersPer1000Views": null,
+          "engagementPer1000Views": null,
+          "watchHoursPer1000Views": null
+        }
+      },
+      "tiktok": {
+        "enabled": false
+      },
+      "clusters": {
+        "count": 1,
+        "integrity": {
+          "ok": true,
+          "problems": [],
+          "count": 1
+        }
+      },
+      "funnel": {
+        "shortToLong": 0,
+        "longToLong": 0,
+        "pendingRelatedVideoManualActions": 0
+      },
+      "growth": {
+        "trackedVideos": 1,
+        "subscriberConversion": {
+          "shorts": null,
+          "longform": null
+        }
+      },
+      "learning": {
+        "shorts": {
+          "status": "heuristics-only",
+          "sampleSize": 0,
+          "adopted": 0,
+          "hypotheses": 0
+        },
+        "longform": {
+          "status": "heuristics-only",
+          "sampleSize": 0,
+          "adopted": 0
+        }
+      },
+      "experiments": [],
+      "enrichmentTasks": [
+        {
+          "slug": "the-hidden-system-behind-cold-storage-backup-power-system",
+          "bucket": "D",
+          "reason": "template content: 100% of fields repeat across the inventory and only 1 topic-specific fact(s) exist — needs a ResearchPackage"
+        },
+        {
+          "slug": "what-quietly-depends-on-spent-fuel-cooling-system",
+          "bucket": "D",
+          "reason": "template content: 100% of fields repeat across the inventory and only 1 topic-specific fact(s) exist — needs a ResearchPackage"
+        },
+        {
+          "slug": "why-shore-end-cable-armor-is-so-hard-to-replace",
+          "bucket": "D",
+          "reason": "template content: 100% of fields repeat across the inventory and only 1 topic-specific fact(s) exist — needs a ResearchPackage"
+        },
+        {
+          "slug": "what-quietly-depends-on-marine-route-survey",
+          "bucket": "D",
+          "reason": "template content: 100% of fields repeat across the inventory and only 1 topic-specific fact(s) exist — needs a ResearchPackage"
+        },
+        {
+          "slug": "what-quietly-depends-on-drinking-water-coagulation-basin",
+          "bucket": "D",
+          "reason": "template content: 100% of fields repeat across the inventory and only 1 topic-specific fact(s) exist — needs a ResearchPackage"
+        },
+        {
+          "slug": "why-refrigerated-distribution-warehouse-is-so-hard-to-replace",
+          "bucket": "D",
+          "reason": "template content: 100% of fields repeat across the inventory and only 1 topic-specific fact(s) exist — needs a ResearchPackage"
+        },
+        {
+          "slug": "what-quietly-depends-on-supermarket-refrigeration-rack",
+          "bucket": "D",
+          "reason": "template content: 100% of fields repeat across the inventory and only 1 topic-specific fact(s) exist — needs a ResearchPackage"
+        },
+        {
+          "slug": "inside-the-system-built-around-blast-freezer",
+          "bucket": "D",
+          "reason": "template content: 100% of fields repeat across the inventory and only 1 topic-specific fact(s) exist — needs a ResearchPackage"
+        },
+        {
+          "slug": "when-reefer-container-pre-trip-inspection-becomes-the-bottleneck",
+          "bucket": "D",
+          "reason": "template content: 100% of fields repeat across the inventory and only 1 topic-specific fact(s) exist — needs a ResearchPackage"
+        },
+        {
+          "slug": "the-critical-role-of-temperature-excursion-alert-network",
+          "bucket": "D",
+          "reason": "template content: 100% of fields repeat across the inventory and only 1 topic-specific fact(s) exist — needs a ResearchPackage"
+        }
+      ],
+      "alerts": [],
+      "legacyPaths": false
+    }
+  ],
+  "infrastructure": {
+    "workflows": [
+      "deploy-watchdog.yml",
+      "portfolio-production.yml",
+      "production-watchdog.yml",
+      "test.yml",
+      "uretim-is.yml",
+      "uretim.yml",
+      "watchdog-self-test.yml",
+      "yayin-kontrol.yml",
+      "youtube-oauth-health.yml"
+    ],
+    "channels": [
+      "failure-reconstructed",
+      "impossible-brief",
+      "critical-thread"
+    ],
+    "growthEngineConfig": true,
+    "analyticsSupport": {
+      "views": {
+        "status": "SUPPORTED",
+        "source": "Data API statistics.viewCount / Analytics views"
+      },
+      "engaged_views": {
+        "status": "SUPPORTED",
+        "source": "Analytics API engagedViews (not yet requested by lib/analitik; recorded when present)"
+      },
+      "likes": {
+        "status": "SUPPORTED",
+        "source": "Data API statistics.likeCount"
+      },
+      "comments": {
+        "status": "SUPPORTED",
+        "source": "Data API statistics.commentCount"
+      },
+      "shares": {
+        "status": "ACCOUNT-DEPENDENT",
+        "source": "Analytics API shares (requires yt-analytics.readonly on the channel's token)"
+      },
+      "subscribers_gained": {
+        "status": "ACCOUNT-DEPENDENT",
+        "source": "Analytics API subscribersGained − subscribersLost"
+      },
+      "average_view_duration": {
+        "status": "ACCOUNT-DEPENDENT",
+        "source": "Analytics API averageViewDuration"
+      },
+      "average_percentage_viewed": {
+        "status": "ACCOUNT-DEPENDENT",
+        "source": "Analytics API averageViewPercentage"
+      },
+      "watch_time": {
+        "status": "ACCOUNT-DEPENDENT",
+        "source": "Analytics API estimatedMinutesWatched"
+      },
+      "traffic_source": {
+        "status": "ACCOUNT-DEPENDENT",
+        "source": "Analytics API insightTrafficSourceType dimension"
+      },
+      "retention_curve": {
+        "status": "ACCOUNT-DEPENDENT",
+        "source": "Analytics API audienceWatchRatio / relativeRetentionPerformance by elapsedVideoTimeRatio"
+      },
+      "impressions": {
+        "status": "UNAVAILABLE",
+        "source": "Studio only; manual studio-manual.json entry is labelled as manual"
+      },
+      "ctr": {
+        "status": "UNAVAILABLE",
+        "source": "Studio only (impressions click-through rate); manual entry only"
+      },
+      "returning_viewers": {
+        "status": "UNAVAILABLE",
+        "source": "not exposed per video by the public API; manual entry only"
+      },
+      "viewed_vs_swiped_away": {
+        "status": "UNAVAILABLE",
+        "source": "Shorts 'viewed vs swiped away' is Studio-only; no Analytics API metric"
+      },
+      "stayed_to_watch": {
+        "status": "UNAVAILABLE",
+        "source": "Studio-only Shorts metric"
+      },
+      "end_screen_clicks": {
+        "status": "UNAVAILABLE",
+        "source": "no end-screen element metric in Analytics API (card* and annotation* metrics only)"
+      },
+      "card_clicks": {
+        "status": "ACCOUNT-DEPENDENT",
+        "source": "Analytics API cardClicks / cardClickRate"
+      },
+      "playlist_metrics": {
+        "status": "ACCOUNT-DEPENDENT",
+        "source": "Analytics API playlistStarts, viewsPerPlaylistStart, averageTimeInPlaylist (playlist reports)"
+      },
+      "shorts_related_video_write": {
+        "status": "UNAVAILABLE",
+        "source": "no Related Video field in videos resource; Studio manual action"
+      },
+      "end_screen_write": {
+        "status": "UNAVAILABLE",
+        "source": "no end-screen write endpoint"
+      },
+      "thumbnail_update": {
+        "status": "SUPPORTED",
+        "source": "thumbnails.set (channel must be verified for custom thumbnails)"
+      },
+      "scheduled_publishing": {
+        "status": "SUPPORTED",
+        "source": "status.publishAt with privacyStatus=private"
+      },
+      "synthetic_media_disclosure": {
+        "status": "SUPPORTED",
+        "source": "status.containsSyntheticMedia"
+      },
+      "short_to_long_conversion": {
+        "status": "INFERRED",
+        "source": "no direct attribution; inferred from long-form traffic_source=SHORTS/RELATED_VIDEO around linked Short publish dates"
+      },
+      "long_to_long_session": {
+        "status": "INFERRED",
+        "source": "inferred from RELATED_VIDEO/END_SCREEN traffic-source share on the next episode; END_SCREEN traffic type is reported as a traffic source"
+      }
+    }
+  }
+}

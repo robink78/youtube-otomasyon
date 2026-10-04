@@ -1,0 +1,49 @@
+{
+  "slug": "why-mines-collapse",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.982Z",
+  "ekranHook": "A ceiling of solid rock",
+  "mevcut": {
+    "puan": 65,
+    "pencereler": {
+      "0-5": "A mine is a hole holding up an entire mountain. The rock above weighs",
+      "5-12": "millions of tons and wants to fall. Miners leave pillars of rock behind to hold up the roof. But",
+      "12-20": "take out too much, and those pillars slowly crush. Water seeping in weakens the rock and rusts the supports. A single failing",
+      "20-30": "pillar can start a chain collapse. Then there is gas - a spark in a coal mine is catastrophic. Modern mines use sensors to catch the rock groaning"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A mine is a hole holding up an entire mountain."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only removing too much rock."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is pillar failure — and it is why sensors listen for the rock before it fails."
+      }
+    ],
+    "metin": "A mine is a hole holding up an entire mountain. It took only removing too much rock. So what actually happens inside? The answer is pillar failure — and it is why sensors listen for the rock before it fails.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

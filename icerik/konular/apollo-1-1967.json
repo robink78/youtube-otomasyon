@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 4.5,
+  "baslik": "Apollo 1: The Fire That Happened on the Ground",
+  "kaynaklar": [
+    {
+      "ad": "apollo1.mov",
+      "wikimedia": "Test By Fire 1967 Apollo 1 NASA.webm",
+      "kalite": "360p"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Three astronauts died in a fire before their rocket left the pad.",
+      "kaynak": "Footage/apollo1.mov",
+      "baslangic": 386
+    },
+    {
+      "metin": "The flames spread through the capsule in seconds.",
+      "kaynak": "Footage/apollo1.mov",
+      "baslangic": 253
+    },
+    {
+      "metin": "The cabin was filled with pure oxygen, above normal pressure.",
+      "kaynak": "Footage/apollo1.mov",
+      "baslangic": 6
+    },
+    {
+      "metin": "In that air, even Velcro and nylon burned like fuel.",
+      "kaynak": "Footage/apollo1.mov",
+      "baslangic": 396
+    },
+    {
+      "metin": "And the hatch opened inward, held shut by the pressure.",
+      "kaynak": "Footage/apollo1.mov",
+      "baslangic": 240
+    },
+    {
+      "metin": "Why? Nobody treated a ground test as dangerous.",
+      "kaynak": "Footage/apollo1.mov",
+      "baslangic": 600
+    },
+    {
+      "metin": "NASA then tested every material in pure oxygen, one by one.",
+      "kaynak": "Footage/apollo1.mov",
+      "baslangic": 466
+    },
+    {
+      "metin": "The Moon capsule was rebuilt around that fire.",
+      "kaynak": "Footage/apollo1.mov",
+      "baslangic": 907
+    }
+  ],
+  "aciklama": "On January 27, 1967, a fire in the Apollo 1 capsule killed three astronauts during a ground test. Pure oxygen, flammable materials and an inward-opening hatch left no way out.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Apollo 1",
+    "1967",
+    "Apollo fire",
+    "pure oxygen",
+    "Grissom White Chaffee",
+    "NASA",
+    "spacecraft fire"
+  ],
+  "hook": "Fire on the pad",
+  "soru": "Would you have spotted it?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Apollo 1",
+    "kisa": "Apollo 1",
+    "nesne": "Command module",
+    "yil": 1967,
+    "sonuc": "burned during a ground test, killing three astronauts",
+    "tetik": "a spark from wiring",
+    "mekanizma": "pure-oxygen cabin fire (flammable materials and an inward-opening hatch)",
+    "sayi": "3 CREW",
+    "ders": "the capsule got a quick-opening outward hatch, fireproof materials and a nitrogen-oxygen atmosphere on the pad",
+    "zincir": [
+      "PURE OXYGEN ABOVE SEA-LEVEL PRESSURE",
+      "FLAMMABLE NYLON AND VELCRO INSIDE",
+      "SPARK FROM DAMAGED WIRING",
+      "FIRE SPREADS IN SECONDS",
+      "INWARD HATCH CAN'T BE OPENED"
+    ],
+    "zaman": [
+      {
+        "t": "Jan 27, 1967 13:00",
+        "olay": "Plugs-out test begins on Pad 34"
+      },
+      {
+        "t": "18:31",
+        "olay": "Crew reports fire"
+      },
+      {
+        "t": "~15 s later",
+        "olay": "Cabin ruptures; crew lost"
+      }
+    ],
+    "yanilgi": "The rocket wasn't fueled and nothing exploded — the test was considered safe, which is exactly why no one was ready for a fire.",
+    "tartisma": "The test was classified non-hazardous because the rocket held no fuel. What makes a 'safe' test dangerous?",
+    "basliklar": [
+      "Apollo 1: The Fire That Happened on the Ground",
+      "Why Apollo 1's Hatch Couldn't Be Opened",
+      "The 'Safe' Test That Killed Three Astronauts",
+      "How Pure Oxygen Turned a Capsule Into a Furnace"
+    ],
+    "kapak": [
+      "ON THE PAD",
+      "PURE OXYGEN",
+      "HATCH"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Apollo 1",
+        "url": "https://en.wikipedia.org/wiki/Apollo_1"
+      }
+    ]
+  }
+}

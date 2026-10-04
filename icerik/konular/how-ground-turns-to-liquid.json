@@ -1,0 +1,92 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "How Earthquakes Turn Solid Ground to Liquid",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "When the earth becomes quicksand",
+  "soru": "Trust the ground?",
+  "arama_yedek": "earthquake ground",
+  "aciklama": "In some earthquakes, solid ground turns to liquid and swallows buildings whole. Here is the eerie science.\n\n#shorts #science #earthquake #geology #howitworks",
+  "etiketler": [
+    "earthquake",
+    "liquefaction",
+    "geology",
+    "science",
+    "ground"
+  ],
+  "sahneler": [
+    {
+      "metin": "In some earthquakes, solid ground turns to liquid.",
+      "arama": "earthquake damage"
+    },
+    {
+      "metin": "Whole buildings sink and tip over within seconds.",
+      "arama": "building tilt"
+    },
+    {
+      "metin": "The culprit isn't the shaking itself, but wet, sandy soil.",
+      "arama": "sandy soil"
+    },
+    {
+      "metin": "Normally the sand grains press together and hold firm.",
+      "arama": "sand texture"
+    },
+    {
+      "metin": "Shaking pushes them apart, and the hidden water takes the weight.",
+      "arama": "water sand"
+    },
+    {
+      "metin": "Suddenly the ground behaves like a thick liquid.",
+      "arama": "muddy ground"
+    },
+    {
+      "metin": "Buried pipes and tanks float up to the surface.",
+      "arama": "earthquake street"
+    },
+    {
+      "metin": "It's called liquefaction, and the ground you trust is only solid until it shakes.",
+      "arama": "cracked earth"
+    }
+  ],
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "mekanizma",
+    "ad": "Earthquakes",
+    "nesne": "Ground",
+    "sonuc": "turn solid ground to liquid",
+    "tetik": "violent shaking",
+    "mekanizma": "soil liquefaction",
+    "sayi": "LIQUID GROUND",
+    "ders": "engineers compact or drain soil before building",
+    "zincir": [
+      "LOOSE WET SAND",
+      "SHAKING PUSHES GRAINS",
+      "WATER PRESSURE RISES",
+      "GRAINS LOSE CONTACT",
+      "GROUND FLOWS LIKE LIQUID"
+    ],
+    "yanilgi": "Liquefaction isn't the ground melting — the water between grains takes the load, so the sand stops acting like a solid.",
+    "tartisma": "In Niigata in 1964, apartment blocks tipped over almost intact. Should cities ban building on reclaimed land?",
+    "basliklar": [
+      "When Solid Ground Starts Acting Like Liquid",
+      "Why Buildings Sink Into the Ground in Earthquakes",
+      "How Earthquakes Turn Sand Into Quicksand"
+    ],
+    "kapak": [
+      "LIQUID GROUND",
+      "QUICKSAND"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Soil liquefaction",
+        "url": "https://en.wikipedia.org/wiki/Soil_liquefaction"
+      },
+      {
+        "ad": "Wikipedia — 1964 Niigata earthquake",
+        "url": "https://en.wikipedia.org/wiki/1964_Niigata_earthquake"
+      }
+    ]
+  }
+}

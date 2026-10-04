@@ -1,0 +1,304 @@
+{
+  "slug": "how-blackouts-spread",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.527Z",
+  "secilen": "Why One Failure Can Shut Down a Power Grid",
+  "secilenPuan": 52.1,
+  "mevcutPuan": 27.9,
+  "sablonOnerisi": {
+    "baslik": "Blackouts Spread. Engineers Call It Cascading Failure.",
+    "puan": 65.3,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 11,
+  "adaylar": [
+    {
+      "baslik": "Blackouts Spread. Engineers Call It Cascading Failure.",
+      "kalip": "engineers-call-it",
+      "toplam": 65.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "How Fire Spreads Faster Than You Can Run"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [],
+      "kaynak": "template:engineers-call-it"
+    },
+    {
+      "baslik": "Cascading Failure: Why Blackouts Spread",
+      "kalip": "label-colon",
+      "toplam": 59.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Why Dams Fail Without Warning"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 2 other videos"
+      ],
+      "kaynak": "template:mechanism-why"
+    },
+    {
+      "baslik": "The Physics of How Blackouts Spread",
+      "kalip": "physics-of",
+      "toplam": 58.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "Why One Failure Can Shut Down a Power Grid",
+      "kalip": "why",
+      "toplam": 52.1,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 5,
+        "suggested": 6.9
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "Why Dams Fail Without Warning"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "What Actually Happens When Blackouts Spread",
+      "kalip": "what-really",
+      "toplam": 46,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.22,
+        "closest": "What Actually Makes Planes Crash"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-happens"
+    },
+    {
+      "baslik": "Why Blackouts Spread",
+      "kalip": "why",
+      "toplam": 40.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "Why Do Massive Ships Sink?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 4 other videos"
+      ],
+      "kaynak": "template:why-plural"
+    },
+    {
+      "baslik": "How a Blackout Spreads in Seconds",
+      "kalip": "how",
+      "toplam": 38.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "How Fire Spreads Faster Than You Can Run"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"how\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "What Breaks First When Blackouts Spread",
+      "kalip": "what",
+      "toplam": 35,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.12,
+        "closest": "How Fire Spreads Faster Than You Can Run"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "only 50% of title words are supported by the script",
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:breaks-first"
+    },
+    {
+      "baslik": "How One Wire Blacks Out a Whole Country",
+      "kalip": "how",
+      "toplam": 27.9,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.08,
+        "closest": "How a Hurricane Tears a House Apart"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"how\" already used by 5 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "The Domino Effect That Blacks Out Countries",
+      "kalip": "the-x-that",
+      "toplam": 24.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "The Disaster That Ended the Age of the Airship"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Blackouts Explained",
+      "kalip": "explained",
+      "toplam": 15.4,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "chernobyl-1986",
+  "format": "short",
+  "olusturuldu": "2026-10-04T12:12:01.848Z",
+  "ekranHook": "SAFETY TEST",
+  "mevcut": {
+    "puan": 95,
+    "pencereler": {
+      "0-5": "Chernobyl reactor 4 exploded during a safety test. Within seconds, power surged and a",
+      "5-12": "steam blast tore off the roof. The strangest part is what triggered it. Operators pressed the emergency shutdown button.",
+      "12-20": "But the control rods had graphite tips. Entering the core, those tips first pushed power up, not down. In an unstable reactor,",
+      "20-30": "that spike was enough. These reactors were later changed so shutdown can never add power."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: a central question/problem is raised",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 2 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Chernobyl reactor 4 exploded during a safety test."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only control rods with graphite tips that first increased power."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could control rods with graphite tips that first increased power do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is positive void coefficient plus graphite-tipped control rods causing a power surge — and it is why RBMK reactors were modified so control rods can no longer spike power."
+      }
+    ],
+    "metin": "Chernobyl reactor 4 exploded during a safety test. It took only control rods with graphite tips that first increased power. So how could control rods with graphite tips that first increased power do this? The answer is positive void coefficient plus graphite-tipped control rods causing a power surge — and it is why RBMK reactors were modified so control rods can no longer spike power.",
+    "puan": 95
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

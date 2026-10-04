@@ -1,0 +1,90 @@
+{
+  "id": "IB-EAR-001",
+  "slug": "what-if-earth-stopped-spinning-for-one-second",
+  "topic": "What If Earth Stopped Spinning for One Second?",
+  "category": "EARTH",
+  "hook": "If Earth's solid surface stopped spinning for one second, the ground would stop. The atmosphere and oceans would keep their momentum.",
+  "openingLine": "Earth stops. Air doesn't.",
+  "secondBeat": "Inertia turns motion into impact.",
+  "scientificMechanism": "angular momentum, surface velocity and atmospheric inertia",
+  "coreQuestion": "Under conservation of angular momentum, what happens if Earth's solid surface stops rotating for one second while the atmosphere and oceans retain their motion?",
+  "scenarioChange": "Earth's rotation stopped for exactly one second while the atmosphere and oceans retained their momentum",
+  "expectedConsequence": "the atmosphere, oceans and crust would keep moving when the ground changed",
+  "shortPotential": {
+    "score": 92,
+    "durationSeconds": [
+      22,
+      32
+    ],
+    "angle": "first consequence → mechanism → payoff"
+  },
+  "longFormPotential": {
+    "score": 63,
+    "rationale": "Supports a timeline, secondary effects and real-world constraints when the score is 75 or higher."
+  },
+  "visualPotential": {
+    "score": 85,
+    "scenes": [
+      "Earth's rotation",
+      "mechanism diagram",
+      "scale comparison",
+      "consequence map"
+    ]
+  },
+  "evergreenScore": 82,
+  "curiosityScore": 91,
+  "competitionEstimate": "medium",
+  "sourceQuality": {
+    "score": 94,
+    "grade": "primary-authority",
+    "authorities": [
+      "NASA Science — Facts About Earth",
+      "NASA Science — Reference Systems",
+      "NOAA — The Coriolis Effect"
+    ]
+  },
+  "confidence": "SUPPORTED",
+  "claimFramework": [
+    {
+      "layer": "KNOWN SCIENCE",
+      "confidence": "VERIFIED",
+      "claim": "angular momentum, surface velocity and atmospheric inertia"
+    },
+    {
+      "layer": "ESTIMATED CONSEQUENCE",
+      "confidence": "SUPPORTED",
+      "claim": "the atmosphere, oceans and crust would keep moving when the ground changed"
+    },
+    {
+      "layer": "SPECULATIVE SCENARIO",
+      "confidence": "SPECULATIVE",
+      "claim": "Earth's rotation stopped for exactly one second while the atmosphere and oceans retained their momentum"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA Science — Facts About Earth",
+      "url": "https://science.nasa.gov/earth/facts/",
+      "type": "government science agency"
+    },
+    {
+      "name": "NASA Science — Reference Systems",
+      "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter2-1/",
+      "type": "government science agency"
+    },
+    {
+      "name": "NOAA — The Coriolis Effect",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents1.html",
+      "type": "government science agency"
+    }
+  ],
+  "quality": {
+    "channelFit": 100,
+    "scienceDepth": 92,
+    "distinctiveness": 82,
+    "sourceability": 96,
+    "nonDuplicate": true,
+    "qualified": true
+  },
+  "status": "qualified"
+}

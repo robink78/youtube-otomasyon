@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "An Empty Fuel Tank Destroyed TWA Flight 800",
+  "kaynaklar": [
+    {
+      "ad": "twa-800-1.png",
+      "wikimedia": "Figure25.PNG"
+    },
+    {
+      "ad": "twa-800-2.png",
+      "wikimedia": "Figure27.PNG"
+    },
+    {
+      "ad": "twa-800-3.png",
+      "wikimedia": "Twa 800 fig 22c.PNG"
+    },
+    {
+      "ad": "twa-800-4.png",
+      "wikimedia": "Twa 800 witness 319.PNG"
+    },
+    {
+      "ad": "twa-800-5.jpg",
+      "wikimedia": "Defense.gov News Photo 960719-N-00000-001.jpg"
+    },
+    {
+      "ad": "twa-800-6.jpg",
+      "wikimedia": "Defense.gov News Photo 960719-N-00000-002.jpg"
+    },
+    {
+      "ad": "twa-800-7.jpg",
+      "wikimedia": "Defense.gov News Photo 960725-N-6676W-023.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Minutes after take-off, a jumbo jet exploded off Long Island.",
+      "kaynak": "Footage/twa-800-1.png"
+    },
+    {
+      "metin": "It broke apart and fell into the ocean, killing everyone aboard.",
+      "kaynak": "Footage/twa-800-2.png"
+    },
+    {
+      "metin": "Investigators traced the blast to the centre fuel tank.",
+      "kaynak": "Footage/twa-800-3.png"
+    },
+    {
+      "metin": "That tank was nearly empty.",
+      "kaynak": "Footage/twa-800-4.png"
+    },
+    {
+      "metin": "Heat from the air-conditioning units warmed the vapour inside.",
+      "kaynak": "Footage/twa-800-5.jpg"
+    },
+    {
+      "metin": "Warm fuel vapour is far easier to ignite than liquid fuel.",
+      "kaynak": "Footage/twa-800-6.jpg"
+    },
+    {
+      "metin": "A spark, most likely from wiring, set it off.",
+      "kaynak": "Footage/twa-800-7.jpg"
+    },
+    {
+      "metin": "New rules now require airliners to make those tanks far less flammable.",
+      "kaynak": "Footage/twa-800-1.png"
+    }
+  ],
+  "aciklama": "TWA 800 exploded shortly after take-off from New York. The cause: ignition of flammable fuel-air vapour in the centre wing tank, most likely from a wiring fault.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "TWA 800",
+    "1996",
+    "fuel tank",
+    "engineering failure"
+  ],
+  "hook": "The tank was empty",
+  "soru": "Empty tank, or full tank?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "TWA Flight 800",
+    "kisa": "TWA 800",
+    "nesne": "Fuel tank",
+    "yil": 1996,
+    "sonuc": "exploded shortly after take-off from New York",
+    "tetik": "fuel vapour in a nearly empty centre tank",
+    "mekanizma": "ignition of flammable fuel-air vapour in the centre wing tank, most likely from a wiring fault",
+    "sayi": "EMPTY TANK",
+    "ders": "the FAA required systems that reduce fuel tank flammability, such as nitrogen inerting",
+    "zincir": [
+      "CENTRE TANK NEARLY EMPTY",
+      "HOT DAY, AIR-CON PACKS HEAT IT",
+      "VAPOUR BECOMES FLAMMABLE",
+      "SPARK FROM WIRING",
+      "TANK EXPLODES IN FLIGHT"
+    ],
+    "zaman": [],
+    "yanilgi": "An empty fuel tank is not safe. A nearly empty tank full of warm vapour can be more explosive than a full one.",
+    "tartisma": "Nitrogen inerting took years to be required. How fast should a fix follow a finding?",
+    "basliklar": [
+      "An Empty Fuel Tank Destroyed TWA Flight 800",
+      "Why TWA Flight 800 Exploded",
+      "The Danger of an Empty Fuel Tank"
+    ],
+    "kapak": [
+      "EMPTY TANK",
+      "VAPOUR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — TWA Flight 800",
+        "url": "https://en.wikipedia.org/wiki/TWA_Flight_800"
+      },
+      {
+        "ad": "NTSB — AAR0003 app (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0003_app.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-03",
+    "wiki": "TWA_Flight_800",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Figure25.PNG [Public domain]",
+      "Figure27.PNG [Public domain]",
+      "Twa 800 fig 22c.PNG [Public domain]",
+      "Twa 800 witness 319.PNG [Public domain]",
+      "Defense.gov News Photo 960719-N-00000-001.jpg [Public domain]",
+      "Defense.gov News Photo 960719-N-00000-002.jpg [Public domain]",
+      "Defense.gov News Photo 960725-N-6676W-023.jpg [Public domain]"
+    ]
+  }
+}

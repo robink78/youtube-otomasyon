@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Steamship Wrecked Within Sight of Shore",
+  "kaynaklar": [
+    {
+      "ad": "ss-valencia-1.jpg",
+      "wikimedia": "SS Valencia Side.jpg"
+    },
+    {
+      "ad": "ss-valencia-2.jpg",
+      "wikimedia": "SS Valencia Survivors.jpg"
+    },
+    {
+      "ad": "ss-valencia-3.jpg",
+      "wikimedia": "SS Valencia Photograph 1900.jpg"
+    },
+    {
+      "ad": "ss-valencia-4.png",
+      "wikimedia": "SS Valencia Side.png"
+    },
+    {
+      "ad": "ss-valencia-5.jpg",
+      "wikimedia": "Steamship VALENCIA, 1904 (NOWELL 48).jpeg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In fog, the steamship Valencia ran onto a reef off Vancouver Island.",
+      "kaynak": "Footage/ss-valencia-1.jpg"
+    },
+    {
+      "metin": "Over the next days, most of the people aboard were killed.",
+      "kaynak": "Footage/ss-valencia-2.jpg"
+    },
+    {
+      "metin": "The crew had estimated position without landmarks.",
+      "kaynak": "Footage/ss-valencia-3.jpg"
+    },
+    {
+      "metin": "They overshot the entrance to the strait.",
+      "kaynak": "Footage/ss-valencia-4.png"
+    },
+    {
+      "metin": "The ship struck rocks below steep cliffs.",
+      "kaynak": "Footage/ss-valencia-5.jpg"
+    },
+    {
+      "metin": "Lifeboats capsized in the heavy surf.",
+      "kaynak": "Footage/ss-valencia-1.jpg"
+    },
+    {
+      "metin": "Rescue ships came but couldn't get close.",
+      "kaynak": "Footage/ss-valencia-2.jpg"
+    },
+    {
+      "metin": "A lighthouse and a lifesaving trail were built on that coast.",
+      "kaynak": "Footage/ss-valencia-3.jpg"
+    }
+  ],
+  "aciklama": "SS Valencia ran onto a reef off Vancouver Island. The cause: grounding after overshooting the strait entrance, followed by failed lifeboat launches in heavy surf.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "SS Valencia",
+    "1906",
+    "steamship",
+    "engineering failure"
+  ],
+  "hook": "Rescue couldn't reach them",
+  "soru": "How close is too far?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the SS Valencia",
+    "kisa": "SS Valencia",
+    "nesne": "Steamship",
+    "yil": 1906,
+    "sonuc": "ran onto a reef off Vancouver Island",
+    "tetik": "a navigation error by dead reckoning in fog",
+    "mekanizma": "grounding after overshooting the strait entrance, followed by failed lifeboat launches in heavy surf",
+    "sayi": "IN SIGHT OF SHORE",
+    "ders": "a lighthouse and a lifesaving trail were built along that coast",
+    "zincir": [
+      "FOG AND NO LANDMARKS",
+      "POSITION BY DEAD RECKONING",
+      "SHIP OVERSHOOTS THE STRAIT",
+      "HITS REEF NEAR CLIFFS",
+      "LIFEBOATS FAIL IN SURF"
+    ],
+    "zaman": [],
+    "yanilgi": "Most victims didn't die in the impact. They died over the following days as rescue failed.",
+    "tartisma": "Rescue ships arrived but couldn't reach the wreck. How close is too far?",
+    "basliklar": [
+      "The Steamship Wrecked Within Sight of Shore",
+      "Why the SS Valencia Was Wrecked",
+      "The Shipwreck Rescuers Couldn't Reach"
+    ],
+    "kapak": [
+      "SO CLOSE",
+      "NO RESCUE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SS Valencia",
+        "url": "https://en.wikipedia.org/wiki/SS_Valencia"
+      },
+      {
+        "ad": "Government source — seq 5 (cited by Wikipedia)",
+        "url": "http://chroniclingamerica.loc.gov/lccn/sn85066387/1906-08-23/ed-1/seq-5/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15",
+    "wiki": "SS_Valencia",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "SS Valencia Side.jpg [Public domain]",
+      "SS Valencia Survivors.jpg [Public domain]",
+      "SS Valencia Photograph 1900.jpg [Public domain]",
+      "SS Valencia Side.png [Public domain]",
+      "Steamship VALENCIA, 1904 (NOWELL 48).jpeg [Public domain]"
+    ]
+  }
+}

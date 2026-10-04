@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "A Weather Satellite Fell Over in the Factory",
+  "kaynaklar": [
+    {
+      "ad": "noaa-n-prime-1.jpg",
+      "wikimedia": "NOAA-N' accident.jpg"
+    },
+    {
+      "ad": "noaa-n-prime-2.jpg",
+      "wikimedia": "NOAA-N launch 2.jpg"
+    },
+    {
+      "ad": "noaa-n-prime-3.jpg",
+      "wikimedia": "NOAA-N' satellite in Vandenberg AFB clean room.jpg"
+    },
+    {
+      "ad": "noaa-n-prime-4.jpg",
+      "wikimedia": "NOAA-N spacecraft sits attached to the Boeing Delta II payload attach fitting on the bottom (2268-546).jpg"
+    },
+    {
+      "ad": "noaa-n-prime-5.jpg",
+      "wikimedia": "NOAA-M.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A weather satellite being built for NOAA fell over in the factory.",
+      "kaynak": "Footage/noaa-n-prime-1.jpg"
+    },
+    {
+      "metin": "It crashed to the floor and was badly damaged.",
+      "kaynak": "Footage/noaa-n-prime-2.jpg"
+    },
+    {
+      "metin": "Workers were rotating it on a turnover cart.",
+      "kaynak": "Footage/noaa-n-prime-3.jpg"
+    },
+    {
+      "metin": "The bolts that held it to the cart were missing.",
+      "kaynak": "Footage/noaa-n-prime-4.jpg"
+    },
+    {
+      "metin": "Another team had removed them and not recorded it.",
+      "kaynak": "Footage/noaa-n-prime-5.jpg"
+    },
+    {
+      "metin": "The step to check them was skipped.",
+      "kaynak": "Footage/noaa-n-prime-1.jpg"
+    },
+    {
+      "metin": "The satellite was rebuilt and launched years later.",
+      "kaynak": "Footage/noaa-n-prime-2.jpg"
+    },
+    {
+      "metin": "Handling procedures for spacecraft were reinforced.",
+      "kaynak": "Footage/noaa-n-prime-3.jpg"
+    }
+  ],
+  "aciklama": "NOAA-N Prime fell off its stand during manufacturing. The cause: a turnover cart missing its bolts because procedures weren't followed.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "NOAA-N Prime",
+    "2003",
+    "satellite",
+    "engineering failure"
+  ],
+  "hook": "It fell off its stand",
+  "soru": "Would you check the bolts?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the NOAA-N Prime satellite",
+    "kisa": "NOAA-N Prime",
+    "nesne": "Satellite",
+    "yil": 2003,
+    "sonuc": "fell off its stand during manufacturing",
+    "tetik": "bolts removed from its holding fixture without anyone recording it",
+    "mekanizma": "a turnover cart missing its bolts because procedures weren't followed",
+    "sayi": "MISSING BOLTS",
+    "ders": "NASA reinforced procedure checks for handling spacecraft",
+    "zincir": [
+      "BOLTS REMOVED FOR ANOTHER JOB",
+      "NOT RECORDED",
+      "TEAM SKIPS THE CHECK",
+      "SATELLITE ROTATED",
+      "SATELLITE FALLS TO THE FLOOR"
+    ],
+    "zaman": [],
+    "yanilgi": "The satellite wasn't dropped by a crane. It slid off a cart whose bolts had been removed by another team.",
+    "tartisma": "The step to verify the bolts was skipped because it seemed routine. Why do routine checks get skipped?",
+    "basliklar": [
+      "A Weather Satellite Fell Over in the Factory",
+      "How a Satellite Fell Over in the Factory",
+      "The Missing Bolts on a Weather Satellite"
+    ],
+    "kapak": [
+      "MISSING BOLTS",
+      "FELL OVER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — NOAA-19",
+        "url": "https://en.wikipedia.org/wiki/NOAA-19"
+      },
+      {
+        "ad": "NASA — 65776main noaa np mishap (cited by Wikipedia)",
+        "url": "http://www.nasa.gov/pdf/65776main_noaa_np_mishap.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "NOAA-19",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "NOAA-N' accident.jpg [Public domain]",
+      "NOAA-N launch 2.jpg [Public domain]",
+      "NOAA-N' satellite in Vandenberg AFB clean room.jpg [Public domain]",
+      "NOAA-N spacecraft sits attached to the Boeing Delta II payload attach fitting on the bottom (2268-546).jpg [Public domain]",
+      "NOAA-M.jpg [Public domain]"
+    ]
+  }
+}

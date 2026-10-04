@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Hidden Clay Layer Failed Under a Mine Waste Dam",
+  "kaynaklar": [
+    {
+      "ad": "mount-polley-1.jpg",
+      "wikimedia": "Mount Polley Mine dam breach 2014.jpg"
+    },
+    {
+      "ad": "mount-polley-2.jpg",
+      "wikimedia": "Mount Polley Mine site.jpg"
+    },
+    {
+      "ad": "mount-polley-3.jpg",
+      "wikimedia": "Mount Polley mine.jpg"
+    },
+    {
+      "ad": "mount-polley-4.jpg",
+      "wikimedia": "Remediated wetlands at the Mount Polley mine.jpg"
+    },
+    {
+      "ad": "mount-polley-5.png",
+      "wikimedia": "Workers-at-mount-polley.png"
+    },
+    {
+      "ad": "mount-polley-6.jpg",
+      "wikimedia": "Remediation of Hazeltine Creek at Mount Polley.jpg"
+    },
+    {
+      "ad": "mount-polley-7.png",
+      "wikimedia": "Quesnel Lake Monitoring.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A mine waste dam in British Columbia suddenly breached.",
+      "kaynak": "Footage/mount-polley-1.jpg"
+    },
+    {
+      "metin": "Within hours, water and mine waste rushed into nearby lakes and creeks.",
+      "kaynak": "Footage/mount-polley-2.jpg"
+    },
+    {
+      "metin": "The dam itself wasn't the weak point.",
+      "kaynak": "Footage/mount-polley-3.jpg"
+    },
+    {
+      "metin": "Beneath it lay a thin layer of glacial clay.",
+      "kaynak": "Footage/mount-polley-4.jpg"
+    },
+    {
+      "metin": "Site investigations had not identified how weak it was.",
+      "kaynak": "Footage/mount-polley-5.png"
+    },
+    {
+      "metin": "As the dam grew steeper, the clay sheared.",
+      "kaynak": "Footage/mount-polley-6.jpg"
+    },
+    {
+      "metin": "The foundation slid, and the dam opened.",
+      "kaynak": "Footage/mount-polley-7.png"
+    },
+    {
+      "metin": "British Columbia strengthened tailings dam requirements.",
+      "kaynak": "Footage/mount-polley-1.jpg"
+    }
+  ],
+  "aciklama": "Mount Polley breached and released mine waste into lakes. The cause: foundation failure through an undetected weak glaciolacustrine clay layer.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Mount Polley",
+    "2014",
+    "tailings dam",
+    "engineering failure"
+  ],
+  "hook": "The ground gave way",
+  "soru": "How deep do you investigate?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Mount Polley tailings dam",
+    "kisa": "Mount Polley",
+    "nesne": "Tailings dam",
+    "yil": 2014,
+    "sonuc": "breached and released mine waste into lakes",
+    "tetik": "a weak glacial clay layer beneath the dam",
+    "mekanizma": "foundation failure through an undetected weak glaciolacustrine clay layer",
+    "sayi": "HIDDEN CLAY",
+    "ders": "British Columbia strengthened tailings dam design requirements",
+    "zincir": [
+      "DAM BUILT OVER CLAY",
+      "CLAY LAYER NOT DETECTED",
+      "DAM RAISED STEEPLY",
+      "FOUNDATION SHEARS",
+      "WASTE FLOODS INTO LAKES"
+    ],
+    "zaman": [],
+    "yanilgi": "The dam wasn't simply overfilled. The ground beneath it held a weak clay layer investigations had missed.",
+    "tartisma": "The clay layer was thin and easy to miss. How deep should a site investigation go?",
+    "basliklar": [
+      "A Hidden Clay Layer Failed Under a Mine Waste Dam",
+      "Why the Mount Polley Dam Failed",
+      "The Clay Layer Nobody Found"
+    ],
+    "kapak": [
+      "HIDDEN CLAY",
+      "DAM BREACH"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mount Polley mine disaster",
+        "url": "https://en.wikipedia.org/wiki/Mount_Polley_mine_disaster"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — mount polley mine spill british columbia canada (cited by Wikipedia)",
+        "url": "https://www.theguardian.com/environment/2014/aug/13/mount-polley-mine-spill-british-columbia-canada"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Mount_Polley_mine_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Mount Polley Mine dam breach 2014.jpg [Public domain]",
+      "Mount Polley Mine site.jpg [Public domain]",
+      "Mount Polley mine.jpg [CC0]",
+      "Remediated wetlands at the Mount Polley mine.jpg [CC0]",
+      "Workers-at-mount-polley.png [CC0]",
+      "Remediation of Hazeltine Creek at Mount Polley.jpg [CC0]",
+      "Quesnel Lake Monitoring.png [Public domain]"
+    ]
+  }
+}

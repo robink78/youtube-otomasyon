@@ -1,0 +1,24 @@
+{
+  "channel": "failure-reconstructed",
+  "days": {
+    "2026-10-03": {
+      "units": 1715,
+      "ops": {
+        "channels.list": 65,
+        "playlistItems.list": 17,
+        "videos.list": 33,
+        "videos.insert": 1
+      }
+    },
+    "2026-10-04": {
+      "units": 1683,
+      "ops": {
+        "channels.list": 48,
+        "playlistItems.list": 12,
+        "videos.list": 23,
+        "videos.insert": 1
+      }
+    }
+  },
+  "project": "1012165386949"
+}

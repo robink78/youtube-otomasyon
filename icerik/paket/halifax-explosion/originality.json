@@ -1,0 +1,63 @@
+{
+  "slug": "halifax-explosion",
+  "olusturuldu": "2026-09-24T16:22:41.474Z",
+  "originality": 83,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.13,
+      "kim": "bikini-baker"
+    },
+    "hook": {
+      "deger": 0.18,
+      "kim": "bikini-baker"
+    },
+    "structure": {
+      "deger": 0.89,
+      "kim": "san-francisco-1906"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.58,
+      "kim": "how-blackouts-spread"
+    },
+    "cta": {
+      "deger": 0.12,
+      "kim": "how-hurricanes-destroy"
+    },
+    "description": {
+      "deger": 0.09,
+      "kim": "bikini-baker"
+    },
+    "music": {
+      "deger": 0.82,
+      "kim": "how-fire-spreads"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.13,
+    "HOOK_SIMILARITY": 0.18,
+    "STRUCTURE_SIMILARITY": 0.89,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.58,
+    "CTA_SIMILARITY": 0.12,
+    "DESCRIPTION_SIMILARITY": 0.09,
+    "MUSIC_SIMILARITY": 0.82
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

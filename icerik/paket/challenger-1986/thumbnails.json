@@ -1,0 +1,93 @@
+{
+  "slug": "challenger-1986",
+  "format": "short",
+  "baslik": "Why Challenger Broke Apart 73 Seconds After Launch",
+  "olusturuldu": "2026-09-26T12:21:22.834Z",
+  "puan": 96,
+  "birincil": "mechanism-overlay",
+  "konseptler": [
+    {
+      "id": "event-frame",
+      "duzen": "subject-left-text-right",
+      "anaGorsel": "the most dramatic real frame of the failure (from the hook/event scene)",
+      "kirpma": "9:16 full frame; subject in upper-middle third, clear of captions",
+      "odak": "the space shuttle at the moment of failure",
+      "hiyerarsi": [
+        "failure moment",
+        "2-4 word text",
+        "brand accent bar"
+      ],
+      "metin": "TOO COLD",
+      "duyguTetigi": "shock / awe — the viewer sees the failure happening",
+      "kontrast": "darken & desaturate background 20%, warm accent on text, subject kept at natural colour",
+      "kaynakSahne": "hook",
+      "mobil": {
+        "gecti": true,
+        "sorunlar": [],
+        "not": "Shorts feed mostly shows a frame from the video — the opening frame matters more than a custom cover."
+      },
+      "baslikTekrari": 0,
+      "uyarilar": [],
+      "aiIstem": {
+        "istem": "Documentary thumbnail, the most dramatic real frame of the failure (from the hook/event scene), the space shuttle at the moment of failure, darken & desaturate background 20%, warm accent on text, subject kept at natural colour, photographic, no text, no logos",
+        "not": "use only when no real frame exists; label RECONSTRUCTION on use (config/growth.json disclosure)"
+      }
+    },
+    {
+      "id": "key-number",
+      "duzen": "giant-number-center",
+      "anaGorsel": "blurred real frame behind a giant measured value",
+      "kirpma": "number fills ~45% of the frame height; frame blurred 12px behind",
+      "odak": "the number 73 SECONDS",
+      "hiyerarsi": [
+        "number",
+        "one-line context",
+        "brand accent"
+      ],
+      "metin": "73 SECONDS",
+      "duyguTetigi": "curiosity about scale — \"only 73 seconds?\"",
+      "kontrast": "amber number with thick dark outline over dark blur",
+      "kaynakSahne": "event",
+      "mobil": {
+        "gecti": true,
+        "sorunlar": [],
+        "not": "Shorts feed mostly shows a frame from the video — the opening frame matters more than a custom cover."
+      },
+      "baslikTekrari": 1,
+      "uyarilar": [
+        "text repeats the title — thumbnail and title should add different information"
+      ],
+      "aiIstem": {
+        "istem": "Documentary thumbnail, blurred real frame behind a giant measured value, the number 73 SECONDS, amber number with thick dark outline over dark blur, photographic, no text, no logos",
+        "not": "use only when no real frame exists; label RECONSTRUCTION on use (config/growth.json disclosure)"
+      }
+    },
+    {
+      "id": "mechanism-overlay",
+      "duzen": "diagram-overlay",
+      "anaGorsel": "real frame with an engineering mark-up: red circle/arrow on the component that failed",
+      "kirpma": "tight crop on the failing component",
+      "odak": "where O-ring seal failure in a solid rocket booster field joint acts",
+      "hiyerarsi": [
+        "red mark-up on component",
+        "text",
+        "blueprint grid tint"
+      ],
+      "metin": "O-RING",
+      "duyguTetigi": "intrigue — 'what broke here?'",
+      "kontrast": "cool blueprint tint on image, warm red mark-up, white text",
+      "kaynakSahne": "technical",
+      "mobil": {
+        "gecti": true,
+        "sorunlar": [],
+        "not": "Shorts feed mostly shows a frame from the video — the opening frame matters more than a custom cover."
+      },
+      "baslikTekrari": 0,
+      "uyarilar": [],
+      "aiIstem": {
+        "istem": "Documentary thumbnail, real frame with an engineering mark-up: red circle/arrow on the component that failed, where O-ring seal failure in a solid rocket booster field joint acts, cool blueprint tint on image, warm red mark-up, white text, photographic, no text, no logos",
+        "not": "use only when no real frame exists; label RECONSTRUCTION on use (config/growth.json disclosure)"
+      }
+    }
+  ]
+}

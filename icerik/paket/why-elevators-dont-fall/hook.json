@@ -1,0 +1,49 @@
+{
+  "slug": "why-elevators-dont-fall",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.923Z",
+  "ekranHook": "The fear that is mostly a myth",
+  "mevcut": {
+    "puan": 45,
+    "pencereler": {
+      "0-5": "Everyone fears the elevator suddenly plunging to the ground. In reality, it is one",
+      "5-12": "of the safest machines you will ever ride. Each elevator hangs from multiple steel cables, not one. Any single",
+      "12-20": "cable can hold the entire car by itself. If they ALL somehow snapped, a speed brake grips the rails. Springs at the",
+      "20-30": "bottom would cushion whatever was left. The famous free-fall elevator has basically never happened. The real risks are doors and getting stuck, not falling. Physics is quietly protecting"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook too long (7 words)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Everyone fears the elevator suddenly plunging to the ground."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only every cable snapping."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is redundant ropes and an overspeed safety brake — and it is why redundancy makes free fall almost impossible."
+      }
+    ],
+    "metin": "Everyone fears the elevator suddenly plunging to the ground. It took only every cable snapping. So what actually happens inside? The answer is redundant ropes and an overspeed safety brake — and it is why redundancy makes free fall almost impossible.",
+    "puan": 70
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

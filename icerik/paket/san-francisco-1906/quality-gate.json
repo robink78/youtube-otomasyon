@@ -1,0 +1,67 @@
+{
+  "slug": "san-francisco-1906",
+  "asama": "final",
+  "format": "short",
+  "karar": "PUBLISH",
+  "toplam": 92,
+  "esikler": {
+    "publish": 85,
+    "review": 70
+  },
+  "engelleyen": [],
+  "bilesenler": {
+    "title": {
+      "puan": 58,
+      "notlar": [
+        "\"No Water, Three Days of Fire: San Francisco 1906\" (engine 49)"
+      ]
+    },
+    "thumbnail": {
+      "puan": 84,
+      "notlar": []
+    },
+    "hook": {
+      "puan": 100,
+      "notlar": []
+    },
+    "script": {
+      "puan": 100,
+      "notlar": []
+    },
+    "originality": {
+      "puan": 82,
+      "notlar": []
+    },
+    "visual": {
+      "puan": 95,
+      "notlar": [
+        "no engineering overlay rendered"
+      ],
+      "olcum": {
+        "w": 1080,
+        "h": 1920,
+        "sure": 24.666667,
+        "ses": true
+      },
+      "kritik": null
+    },
+    "engineering": {
+      "puan": 100,
+      "notlar": []
+    },
+    "source": {
+      "puan": 100,
+      "notlar": []
+    },
+    "audio": {
+      "puan": 100,
+      "notlar": [],
+      "olcum": {
+        "I": -15.58,
+        "TP": -1.39,
+        "sessiz": 0
+      }
+    }
+  },
+  "tarih": "2026-09-28T15:23:30.125Z"
+}

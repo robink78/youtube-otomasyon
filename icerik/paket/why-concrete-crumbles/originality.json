@@ -1,0 +1,63 @@
+{
+  "slug": "why-concrete-crumbles",
+  "olusturuldu": "2026-09-24T16:22:41.896Z",
+  "originality": 84,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.12,
+      "kim": "why-buildings-collapse"
+    },
+    "hook": {
+      "deger": 0.12,
+      "kim": "why-glass-shatters"
+    },
+    "structure": {
+      "deger": 0.78,
+      "kim": "halifax-explosion"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0.11,
+      "kim": "why-buildings-collapse"
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.57,
+      "kim": "why-rockets-explode"
+    },
+    "cta": {
+      "deger": 0.38,
+      "kim": "why-metal-rusts-away"
+    },
+    "description": {
+      "deger": 0.11,
+      "kim": "how-floods-destroy-cities"
+    },
+    "music": {
+      "deger": 0.93,
+      "kim": "why-glass-shatters"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.12,
+    "HOOK_SIMILARITY": 0.12,
+    "STRUCTURE_SIMILARITY": 0.78,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0.11,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.57,
+    "CTA_SIMILARITY": 0.38,
+    "DESCRIPTION_SIMILARITY": 0.11,
+    "MUSIC_SIMILARITY": 0.93
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Spillway That Broke at America's Tallest Dam",
+  "kaynaklar": [
+    {
+      "ad": "oroville-spillway-1.jpg",
+      "wikimedia": "Oroville Dam aerial of damage 16 Feb 2017.jpg"
+    },
+    {
+      "ad": "oroville-spillway-2.jpg",
+      "wikimedia": "Oroville Dam spillway damage 7 Feb 2017-10235.jpg"
+    },
+    {
+      "ad": "oroville-spillway-3.jpg",
+      "wikimedia": "Oroville Dam spillway damage February 27 2017.jpg"
+    },
+    {
+      "ad": "oroville-spillway-4.jpg",
+      "wikimedia": "Oroville Dam spillway debris in Feather River 27 February 2017.jpg"
+    },
+    {
+      "ad": "oroville-spillway-5.jpg",
+      "wikimedia": "Rock loaded for helicopter transport during Oroville Dam crisis.jpg"
+    },
+    {
+      "ad": "oroville-spillway-6.jpg",
+      "wikimedia": "Concrete trucks, Oroville Dam emergency spillway, 2017.jpg"
+    },
+    {
+      "ad": "oroville-spillway-7.jpg",
+      "wikimedia": "ISS-50 Lake Oroville and the Oroville Dam.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At America's tallest dam, the main spillway broke apart.",
+      "kaynak": "Footage/oroville-spillway-1.jpg"
+    },
+    {
+      "metin": "Within days, nearly one hundred ninety thousand people were ordered to evacuate.",
+      "kaynak": "Footage/oroville-spillway-2.jpg"
+    },
+    {
+      "metin": "A hole had opened in the concrete chute.",
+      "kaynak": "Footage/oroville-spillway-3.jpg"
+    },
+    {
+      "metin": "Water was getting underneath the thin slab.",
+      "kaynak": "Footage/oroville-spillway-4.jpg"
+    },
+    {
+      "metin": "The emergency spillway was used for the first time.",
+      "kaynak": "Footage/oroville-spillway-5.jpg"
+    },
+    {
+      "metin": "Its hillside began eroding toward the top.",
+      "kaynak": "Footage/oroville-spillway-6.jpg"
+    },
+    {
+      "metin": "The dam itself held.",
+      "kaynak": "Footage/oroville-spillway-7.jpg"
+    },
+    {
+      "metin": "California rebuilt both spillways and reviewed its dam safety practices.",
+      "kaynak": "Footage/oroville-spillway-1.jpg"
+    }
+  ],
+  "aciklama": "Oroville forced the evacuation of nearly 190,000 people. The cause: uplift and erosion under a thin, poorly drained concrete spillway slab.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Oroville",
+    "2017",
+    "spillway",
+    "engineering failure"
+  ],
+  "hook": "The spillway broke apart",
+  "soru": "Re-examine old designs?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Oroville Dam spillway",
+    "kisa": "Oroville",
+    "nesne": "Spillway",
+    "yil": 2017,
+    "sonuc": "forced the evacuation of nearly 190,000 people",
+    "tetik": "a hole opening in the main spillway chute",
+    "mekanizma": "uplift and erosion under a thin, poorly drained concrete spillway slab",
+    "sayi": "188,000 EVACUATED",
+    "ders": "California rebuilt the spillways and reviewed dam safety practices",
+    "zincir": [
+      "THIN SLAB, WEAK DRAINS",
+      "WATER GETS UNDER CONCRETE",
+      "SPILLWAY BREAKS APART",
+      "EMERGENCY SPILLWAY USED",
+      "HILLSIDE ERODES, EVACUATION ORDERED"
+    ],
+    "zaman": [],
+    "yanilgi": "The dam itself was never failing. Its spillways were, and that could have released the reservoir uncontrollably.",
+    "tartisma": "Earlier reviews didn't challenge the original design. How often should designs be re-examined from scratch?",
+    "basliklar": [
+      "The Spillway That Broke at America's Tallest Dam",
+      "Why the Oroville Dam Spillway Failed",
+      "The Crack That Evacuated a County"
+    ],
+    "kapak": [
+      "SPILLWAY BROKE",
+      "188,000"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Oroville Dam crisis",
+        "url": "https://en.wikipedia.org/wiki/Oroville_Dam_crisis"
+      },
+      {
+        "ad": "Government source — Vol I Exhibit A (cited by Wikipedia)",
+        "url": "http://www.water.ca.gov/orovillerelicensing/docs/app_ferc_license_2005/Vol_I_Exhibit%20A.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "Oroville_Dam_crisis",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Oroville Dam aerial of damage 16 Feb 2017.jpg [Public domain]",
+      "Oroville Dam spillway damage 7 Feb 2017-10235.jpg [Public domain]",
+      "Oroville Dam spillway damage February 27 2017.jpg [Public domain]",
+      "Oroville Dam spillway debris in Feather River 27 February 2017.jpg [Public domain]",
+      "Rock loaded for helicopter transport during Oroville Dam crisis.jpg [Public domain]",
+      "Concrete trucks, Oroville Dam emergency spillway, 2017.jpg [Public domain]",
+      "ISS-50 Lake Oroville and the Oroville Dam.jpg [Public domain]"
+    ]
+  }
+}

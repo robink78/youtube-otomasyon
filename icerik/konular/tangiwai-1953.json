@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Volcanic Mudflow Took Out a Bridge Minutes Before a Train",
+  "kaynaklar": [
+    {
+      "ad": "tangiwai-1.jpg",
+      "wikimedia": "Prince Philip, Karori Cemetery, 1953 (cropped).jpg"
+    },
+    {
+      "ad": "tangiwai-2.jpg",
+      "wikimedia": "Tangiwai disaster destroyed bridge.jpg"
+    },
+    {
+      "ad": "tangiwai-3.jpg",
+      "wikimedia": "Prince Philip, Karori Cemetery, 1953.jpg"
+    },
+    {
+      "ad": "tangiwai-4.jpg",
+      "wikimedia": "The Duke of Edinburgh attending the Tangiwai memorial, 1953.jpg"
+    },
+    {
+      "ad": "tangiwai-5.jpg",
+      "wikimedia": "Loco 949 Tangiwai.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On Christmas Eve, a train plunged off a bridge in New Zealand.",
+      "kaynak": "Footage/tangiwai-1.jpg"
+    },
+    {
+      "metin": "Carriages fell into a raging river, and one hundred fifty one people were killed.",
+      "kaynak": "Footage/tangiwai-2.jpg"
+    },
+    {
+      "metin": "Minutes earlier, a volcanic mudflow had struck the bridge.",
+      "kaynak": "Footage/tangiwai-3.jpg"
+    },
+    {
+      "metin": "The crater lake on Mount Ruapehu had broken out.",
+      "kaynak": "Footage/tangiwai-4.jpg"
+    },
+    {
+      "metin": "The lahar raced down the river and damaged a pier.",
+      "kaynak": "Footage/tangiwai-5.jpg"
+    },
+    {
+      "metin": "A passer-by tried to warn the train with a torch.",
+      "kaynak": "Footage/tangiwai-1.jpg"
+    },
+    {
+      "metin": "It was too late.",
+      "kaynak": "Footage/tangiwai-2.jpg"
+    },
+    {
+      "metin": "A lahar warning system now watches the river.",
+      "kaynak": "Footage/tangiwai-3.jpg"
+    }
+  ],
+  "aciklama": "Tangiwai collapsed under a passenger train. The cause: lahar undermining and destroying a bridge pier moments before the train crossed.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Tangiwai",
+    "1953",
+    "rail bridge",
+    "engineering failure"
+  ],
+  "hook": "Minutes too late",
+  "soru": "How do you warn a train in minutes?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Tangiwai bridge",
+    "kisa": "Tangiwai",
+    "nesne": "Rail bridge",
+    "yil": 1953,
+    "sonuc": "collapsed under a passenger train",
+    "tetik": "a lahar from a volcano's crater lake",
+    "mekanizma": "lahar undermining and destroying a bridge pier moments before the train crossed",
+    "sayi": "151 DIED",
+    "ders": "New Zealand installed a lahar warning system on the river",
+    "zincir": [
+      "CRATER LAKE WALL COLLAPSES",
+      "LAHAR RUSHES DOWN RIVER",
+      "BRIDGE PIER DAMAGED",
+      "TRAIN ARRIVES IN THE DARK",
+      "LOCOMOTIVE AND CARRIAGES FALL"
+    ],
+    "zaman": [],
+    "yanilgi": "The bridge had no structural defect. A volcanic mudflow struck it minutes before the train arrived.",
+    "tartisma": "A passer-by tried to warn the train with a torch. How do you warn a train in minutes?",
+    "basliklar": [
+      "A Volcanic Mudflow Took Out a Bridge Minutes Before a Train",
+      "Why the Tangiwai Bridge Collapsed",
+      "The Volcanic Mudflow Minutes Before the Train"
+    ],
+    "kapak": [
+      "LAHAR",
+      "151 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Tangiwai disaster",
+        "url": "https://en.wikipedia.org/wiki/Tangiwai_disaster"
+      },
+      {
+        "ad": "Government source — dealing with death (cited by Wikipedia)",
+        "url": "https://nzhistory.govt.nz/culture/tangiwai-disaster/dealing-with-death"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "Tangiwai_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Prince Philip, Karori Cemetery, 1953 (cropped).jpg [CC BY 2.0]",
+      "Tangiwai disaster destroyed bridge.jpg [Public domain]",
+      "Prince Philip, Karori Cemetery, 1953.jpg [CC BY 2.0]",
+      "The Duke of Edinburgh attending the Tangiwai memorial, 1953.jpg [CC BY 2.0]",
+      "Loco 949 Tangiwai.JPG [CC0]"
+    ]
+  }
+}

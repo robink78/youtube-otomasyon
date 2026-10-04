@@ -1,0 +1,11 @@
+{
+  "channel": "failure-reconstructed",
+  "youtube": { "enabled": true },
+  "instagram": { "enabled": false, "published": [] },
+  "tiktok": {
+    "enabled": true,
+    "mode": "SEND_TO_USER_INBOX",
+    "registry": "icerik/tiktok.json",
+    "publicPostAutomatic": false
+  }
+}

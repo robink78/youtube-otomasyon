@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Overloaded Ferry That Told Passengers to Stay Put",
+  "kaynaklar": [
+    {
+      "ad": "sewol-1.jpg",
+      "wikimedia": "U.S. Navy helicopter landing on a ship after Sewol rescue operation.jpg"
+    },
+    {
+      "ad": "sewol-2.jpg",
+      "wikimedia": "US Marines assigned to the 31st Marine Expeditionary Unit responding to the scene of Korean passenger ship Sewol that sank April 16 2014.jpg"
+    },
+    {
+      "ad": "sewol-3.jpg",
+      "wikimedia": "140421-N-NT265-388 (23476378604).jpg"
+    },
+    {
+      "ad": "sewol-4.jpg",
+      "wikimedia": "Search and rescue operations 140420-N-NT265-348.jpg"
+    },
+    {
+      "ad": "sewol-5.jpg",
+      "wikimedia": "Sewol Search and Rescue 140421-M-FX659-363.jpg"
+    },
+    {
+      "ad": "sewol-6.jpg",
+      "wikimedia": "USS Bonhomme Richard operations 140418-N-LM312-287.jpg"
+    },
+    {
+      "ad": "sewol-7.jpg",
+      "wikimedia": "VOA media Sewol rescue operation.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A South Korean ferry rolled over and sank on a routine trip.",
+      "kaynak": "Footage/sewol-1.jpg"
+    },
+    {
+      "metin": "Most passengers were trapped, and three hundred four people died.",
+      "kaynak": "Footage/sewol-2.jpg"
+    },
+    {
+      "metin": "Many were high school students.",
+      "kaynak": "Footage/sewol-3.jpg"
+    },
+    {
+      "metin": "Extra cabins had been added to the top of the ship.",
+      "kaynak": "Footage/sewol-4.jpg"
+    },
+    {
+      "metin": "It carried far more cargo than allowed, with less ballast below.",
+      "kaynak": "Footage/sewol-5.jpg"
+    },
+    {
+      "metin": "A sharp turn tipped it past recovery.",
+      "kaynak": "Footage/sewol-6.jpg"
+    },
+    {
+      "metin": "Passengers were told to stay in their cabins.",
+      "kaynak": "Footage/sewol-7.jpg"
+    },
+    {
+      "metin": "Ferry inspections and rescue response were overhauled afterward.",
+      "kaynak": "Footage/sewol-1.jpg"
+    }
+  ],
+  "aciklama": "Sewol capsized off South Korea's southwest coast. The cause: loss of stability from modifications, excess cargo and reduced ballast water.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Sewol",
+    "2014",
+    "ferry",
+    "engineering failure"
+  ],
+  "hook": "They were told to stay",
+  "soru": "Stay, or go?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the MV Sewol",
+    "kisa": "Sewol",
+    "nesne": "Ferry",
+    "yil": 2014,
+    "sonuc": "capsized off South Korea's southwest coast",
+    "tetik": "a sharp turn on an overloaded, top-heavy ferry",
+    "mekanizma": "loss of stability from modifications, excess cargo and reduced ballast water",
+    "sayi": "304 DIED",
+    "ders": "South Korea overhauled ferry inspections and coast guard response",
+    "zincir": [
+      "EXTRA CABINS ADDED ON TOP",
+      "CARGO OVERLOADED",
+      "BALLAST WATER REDUCED",
+      "SHARP TURN",
+      "SHIP LISTS AND CAPSIZES"
+    ],
+    "zaman": [],
+    "yanilgi": "The turn alone wasn't enough to sink a sound ship. Modifications and overloading had already stripped away its stability.",
+    "tartisma": "Passengers were told to stay in their cabins. When does following instructions become dangerous?",
+    "basliklar": [
+      "The Overloaded Ferry That Told Passengers to Stay Put",
+      "Why the Sewol Ferry Capsized",
+      "The Ferry Made Top-Heavy Before It Sailed"
+    ],
+    "kapak": [
+      "STAY PUT",
+      "304 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Sinking of MV Sewol",
+        "url": "https://en.wikipedia.org/wiki/Sinking_of_MV_Sewol"
+      },
+      {
+        "ad": "Government source — t1148345.shtml (cited by Wikipedia)",
+        "url": "http://www.fmprc.gov.cn/mfa_eng/zxxx_662805/t1148345.shtml"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "Sinking_of_MV_Sewol",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "U.S. Navy helicopter landing on a ship after Sewol rescue operation.jpg [Public domain]",
+      "US Marines assigned to the 31st Marine Expeditionary Unit responding to the scene of Korean passenger ship Sewol that sank April 16 2014.jpg [Public domain]",
+      "140421-N-NT265-388 (23476378604).jpg [Public domain]",
+      "Search and rescue operations 140420-N-NT265-348.jpg [Public domain]",
+      "Sewol Search and Rescue 140421-M-FX659-363.jpg [Public domain]",
+      "USS Bonhomme Richard operations 140418-N-LM312-287.jpg [Public domain]",
+      "VOA media Sewol rescue operation.jpg [Public domain]"
+    ]
+  }
+}

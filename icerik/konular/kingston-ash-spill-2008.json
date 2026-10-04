@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Coal Ash Pond That Buried a River Valley",
+  "kaynaklar": [
+    {
+      "ad": "kingston-ash-spill-1.jpg",
+      "wikimedia": "Aerial view of ash slide site Dec 23 2008 TVA.gov 123002.jpg"
+    },
+    {
+      "ad": "kingston-ash-spill-2.jpg",
+      "wikimedia": "Aerial view of ash slide site Dec 23 2008 TVA.gov 123002 (no border).jpg"
+    },
+    {
+      "ad": "kingston-ash-spill-3.jpg",
+      "wikimedia": "Kingston-plant-spill-ash-tn1.jpg"
+    },
+    {
+      "ad": "kingston-ash-spill-4.jpg",
+      "wikimedia": "Kingston-plant-spill-emory-tn1.jpg"
+    },
+    {
+      "ad": "kingston-ash-spill-5.jpg",
+      "wikimedia": "Kingston-plant-spill-swanpond-tn3.jpg"
+    },
+    {
+      "ad": "kingston-ash-spill-6.jpg",
+      "wikimedia": "Kingston-plant-spill-tn1.jpg"
+    },
+    {
+      "ad": "kingston-ash-spill-7.jpg",
+      "wikimedia": "Kingston-plant-spill-yard-tn1.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At a Tennessee power plant, a coal ash pond burst.",
+      "kaynak": "Footage/kingston-ash-spill-1.jpg"
+    },
+    {
+      "metin": "A flood of ash slurry swept over the land, destroying homes.",
+      "kaynak": "Footage/kingston-ash-spill-2.jpg"
+    },
+    {
+      "metin": "Ash had been stored wet behind earth dikes.",
+      "kaynak": "Footage/kingston-ash-spill-3.jpg"
+    },
+    {
+      "metin": "Over the years, the dikes were raised higher on top of old ash.",
+      "kaynak": "Footage/kingston-ash-spill-4.jpg"
+    },
+    {
+      "metin": "Beneath them lay a soft, weak layer.",
+      "kaynak": "Footage/kingston-ash-spill-5.jpg"
+    },
+    {
+      "metin": "The dike collapsed, and ash poured into the river valley.",
+      "kaynak": "Footage/kingston-ash-spill-6.jpg"
+    },
+    {
+      "metin": "Cleanup took years.",
+      "kaynak": "Footage/kingston-ash-spill-7.jpg"
+    },
+    {
+      "metin": "The US then set national rules for coal ash disposal.",
+      "kaynak": "Footage/kingston-ash-spill-1.jpg"
+    }
+  ],
+  "aciklama": "Kingston ash spill burst and buried the land around it in coal ash. The cause: failure of a dike founded on a soft layer of wet ash and slimes.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Kingston ash spill",
+    "2008",
+    "dike",
+    "engineering failure"
+  ],
+  "hook": "Ash buried the valley",
+  "soru": "Who protects the cleanup crew?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Kingston coal ash pond",
+    "kisa": "Kingston ash spill",
+    "nesne": "Dike",
+    "yil": 2008,
+    "sonuc": "burst and buried the land around it in coal ash",
+    "tetik": "a dike built on weak, wet ash failing",
+    "mekanizma": "failure of a dike founded on a soft layer of wet ash and slimes",
+    "sayi": "1.1 BILLION GALLONS",
+    "ders": "the US set national rules for coal ash disposal",
+    "zincir": [
+      "ASH STORED WET BEHIND DIKES",
+      "DIKES RAISED ON OLD ASH",
+      "WEAK LAYER BENEATH",
+      "DIKE FAILS",
+      "ASH SLURRY FLOODS VALLEY"
+    ],
+    "zaman": [],
+    "yanilgi": "The dike didn't fail from a single storm. It was built on top of old, weak ash that couldn't carry it.",
+    "tartisma": "Workers who cleaned up the spill later reported illnesses. Who protects the cleanup crew?",
+    "basliklar": [
+      "The Coal Ash Pond That Buried a River Valley",
+      "Why the Kingston Coal Ash Dike Failed",
+      "The Ash Spill That Buried a Valley"
+    ],
+    "kapak": [
+      "COAL ASH",
+      "BURIED VALLEY"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Kingston Fossil Plant coal fly ash slurry spill",
+        "url": "https://en.wikipedia.org/wiki/Kingston_Fossil_Plant_coal_fly_ash_slurry_spill"
+      },
+      {
+        "ad": "US Coast Guard — ExxonValdezNRT1989Report (cited by Wikipedia)",
+        "url": "http://www.uscg.mil/history/webshipwrecks/ExxonValdezNRT1989Report.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Kingston_Fossil_Plant_coal_fly_ash_slurry_spill",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Aerial view of ash slide site Dec 23 2008 TVA.gov 123002.jpg [Public domain]",
+      "Aerial view of ash slide site Dec 23 2008 TVA.gov 123002 (no border).jpg [Public domain]",
+      "Kingston-plant-spill-ash-tn1.jpg [CC BY 3.0]",
+      "Kingston-plant-spill-emory-tn1.jpg [CC BY 3.0]",
+      "Kingston-plant-spill-swanpond-tn3.jpg [CC BY 3.0]",
+      "Kingston-plant-spill-tn1.jpg [CC BY 3.0]",
+      "Kingston-plant-spill-yard-tn1.jpg [CC BY 3.0]"
+    ]
+  }
+}

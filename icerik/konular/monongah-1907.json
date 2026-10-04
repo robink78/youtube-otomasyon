@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "America's Worst Mining Disaster",
+  "kaynaklar": [
+    {
+      "ad": "monongah-1.png",
+      "wikimedia": "Mine No 8 Va explosion.png"
+    },
+    {
+      "ad": "monongah-2.jpg",
+      "wikimedia": "Boys going home from Glass Works, Monongah Glass Works, Fairmont, W. Va. LOC nclc.01203.jpg"
+    },
+    {
+      "ad": "monongah-3.jpg",
+      "wikimedia": "5 P.M. Boys going home from Monongah Glass Works. A native remarked 'De place is lousey wid kids.' (See -188.) LOC cph.3a50540.jpg"
+    },
+    {
+      "ad": "monongah-4.jpg",
+      "wikimedia": "These boys (and one other small one, who is not present) and their father, work in Monongah Glass Works. Father gets $1.75 a day - one boy 125 a day 4 get 80 cents a day. Total 6.20 a day. LOC nclc.01200.jpg"
+    },
+    {
+      "ad": "monongah-5.jpg",
+      "wikimedia": "Monongah Glass Co., Fairmont, W. Va. Jo Before a glass wks boy going home, 5 P.M. He says he is 12 years old, and has been at it one year- is a 'ketchin-up-boy' $.70 a day- says glass LOC cph.3a21698.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An explosion tore through two connected coal mines in West Virginia.",
+      "kaynak": "Footage/monongah-1.png"
+    },
+    {
+      "metin": "It killed at least three hundred sixty two miners.",
+      "kaynak": "Footage/monongah-2.jpg"
+    },
+    {
+      "metin": "It remains America's deadliest mining disaster.",
+      "kaynak": "Footage/monongah-3.jpg"
+    },
+    {
+      "metin": "The two mines were linked underground.",
+      "kaynak": "Footage/monongah-4.jpg"
+    },
+    {
+      "metin": "Coal dust carried the explosion through both.",
+      "kaynak": "Footage/monongah-5.jpg"
+    },
+    {
+      "metin": "The true toll is probably higher.",
+      "kaynak": "Footage/monongah-1.png"
+    },
+    {
+      "metin": "Many helpers underground were never recorded.",
+      "kaynak": "Footage/monongah-2.jpg"
+    },
+    {
+      "metin": "It helped lead to the creation of the US Bureau of Mines.",
+      "kaynak": "Footage/monongah-3.jpg"
+    }
+  ],
+  "aciklama": "Monongah exploded, killing hundreds of miners. The cause: explosion propagated through connected mines by coal dust.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Monongah",
+    "1907",
+    "coal mine",
+    "engineering failure"
+  ],
+  "hook": "Nobody knew how many",
+  "soru": "Who counts the workers?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Monongah mines",
+    "kisa": "Monongah",
+    "nesne": "Coal mine",
+    "yil": 1907,
+    "sonuc": "exploded, killing hundreds of miners",
+    "tetik": "an explosion likely involving methane and coal dust",
+    "mekanizma": "explosion propagated through connected mines by coal dust",
+    "sayi": "362 MINERS",
+    "ders": "the disaster helped lead to the creation of the US Bureau of Mines",
+    "zincir": [
+      "MINES CONNECTED UNDERGROUND",
+      "EXPLOSION IN ONE MINE",
+      "COAL DUST SPREADS IT",
+      "BOTH MINES DEVASTATED",
+      "RESCUE IMPOSSIBLE"
+    ],
+    "zaman": [],
+    "yanilgi": "The official death toll is likely too low. Many miners' helpers were never recorded.",
+    "tartisma": "Nobody knew exactly how many were underground. What does that say about worker safety then?",
+    "basliklar": [
+      "America's Worst Mining Disaster",
+      "Why the Monongah Mines Exploded",
+      "America's Deadliest Mining Disaster"
+    ],
+    "kapak": [
+      "362 MINERS",
+      "WORST EVER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Monongah mining disaster",
+        "url": "https://en.wikipedia.org/wiki/Monongah_mining_disaster"
+      },
+      {
+        "ad": "Government source — introduction (cited by Wikipedia)",
+        "url": "https://guides.loc.gov/chronicling-america-monongah-mine-disaster/introduction"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-12",
+    "wiki": "Monongah_mining_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Mine No 8 Va explosion.png [Public domain]",
+      "Boys going home from Glass Works, Monongah Glass Works, Fairmont, W. Va. LOC nclc.01203.jpg [Public domain]",
+      "5 P.M. Boys going home from Monongah Glass Works. A native remarked 'De place is lousey wid kids.' (See -188.) LOC cph.3a50540.jpg [Public domain]",
+      "These boys (and one other small one, who is not present) and their father, work in Monongah Glass Works. Father gets $1.75 a day - one boy 125 a day 4 get 80 cents a day. Total 6.20 a day. LOC nclc.01200.jpg [Public domain]",
+      "Monongah Glass Co., Fairmont, W. Va. Jo Before a glass wks boy going home, 5 P.M. He says he is 12 years old, and has been at it one year- is a 'ketchin-up-boy' $.70 a day- says glass LOC cph.3a21698.jpg [Public domain]"
+    ]
+  }
+}

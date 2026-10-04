@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Signalmen Forgot a Train Standing on the Line",
+  "kaynaklar": [
+    {
+      "ad": "quintinshill-1.jpg",
+      "wikimedia": "Quintinshill rail disaster - Secours-voiture-de-queue.jpg"
+    },
+    {
+      "ad": "quintinshill-2.jpg",
+      "wikimedia": "Gretna Green - Railway Disaster 1915, Dead & dying in field (Ref. 390).jpg"
+    },
+    {
+      "ad": "quintinshill-3.jpg",
+      "wikimedia": "Quintinshill rail disaster - Caledonian McIntosh 220-121.jpg"
+    },
+    {
+      "ad": "quintinshill-4.jpg",
+      "wikimedia": "Quintinshill rail disaster - Incendie.jpg"
+    },
+    {
+      "ad": "quintinshill-5.jpg",
+      "wikimedia": "Funeral procession for victims of the Gretna rail disaster, 1915.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A troop train crashed into a stationary train at Quintinshill in Scotland.",
+      "kaynak": "Footage/quintinshill-1.jpg"
+    },
+    {
+      "metin": "An express then hit the wreckage, and fire killed more than two hundred people.",
+      "kaynak": "Footage/quintinshill-2.jpg"
+    },
+    {
+      "metin": "The local train was standing on the main line.",
+      "kaynak": "Footage/quintinshill-3.jpg"
+    },
+    {
+      "metin": "It was right outside the signal box window.",
+      "kaynak": "Footage/quintinshill-4.jpg"
+    },
+    {
+      "metin": "The signalmen were changing shifts late and informally.",
+      "kaynak": "Footage/quintinshill-5.jpg"
+    },
+    {
+      "metin": "They forgot the train was there.",
+      "kaynak": "Footage/quintinshill-1.jpg"
+    },
+    {
+      "metin": "Britain's worst rail disaster followed.",
+      "kaynak": "Footage/quintinshill-2.jpg"
+    },
+    {
+      "metin": "Reminders for occupied lines, and later track circuits, became standard.",
+      "kaynak": "Footage/quintinshill-3.jpg"
+    }
+  ],
+  "aciklama": "Quintinshill caused Britain's deadliest rail crash. The cause: signalling error during an irregular shift handover, followed by a multiple collision and fire.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Quintinshill",
+    "1915",
+    "signal box",
+    "engineering failure"
+  ],
+  "hook": "They forgot a train",
+  "soru": "Why do shortcuts spread?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Quintinshill collision",
+    "kisa": "Quintinshill",
+    "nesne": "Signal box",
+    "yil": 1915,
+    "sonuc": "caused Britain's deadliest rail crash",
+    "tetik": "a local train forgotten on the main line during a shift change",
+    "mekanizma": "signalling error during an irregular shift handover, followed by a multiple collision and fire",
+    "sayi": "BRITAIN'S WORST",
+    "ders": "track-occupation reminders and later track circuits became standard",
+    "zincir": [
+      "LATE SHIFT HANDOVER",
+      "LOCAL TRAIN PARKED ON MAIN LINE",
+      "SIGNALMAN FORGETS IT",
+      "TROOP TRAIN ROUTED IN",
+      "SECOND COLLISION AND FIRE"
+    ],
+    "zaman": [],
+    "yanilgi": "The signals worked. The signalmen forgot a train that was standing right outside their window.",
+    "tartisma": "The shift change was informal and hidden from the logbook. Why do informal shortcuts spread?",
+    "basliklar": [
+      "The Signalmen Forgot a Train Standing on the Line",
+      "Why the Quintinshill Rail Disaster Happened",
+      "The Train Forgotten Outside the Window"
+    ],
+    "kapak": [
+      "FORGOTTEN TRAIN",
+      "BRITAIN'S WORST"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Quintinshill rail disaster",
+        "url": "https://en.wikipedia.org/wiki/Quintinshill_rail_disaster"
+      },
+      {
+        "ad": "Academic / engineering journal — doBasicSearch?Query=\"Quintinshill+rail+disaster\"&acc=on&wc=on (cited by Wikipedia)",
+        "url": "https://www.jstor.org/action/doBasicSearch?Query=%22Quintinshill+rail+disaster%22&acc=on&wc=on"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "Quintinshill_rail_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Quintinshill rail disaster - Secours-voiture-de-queue.jpg [Public domain]",
+      "Gretna Green - Railway Disaster 1915, Dead & dying in field (Ref. 390).jpg [Public domain]",
+      "Quintinshill rail disaster - Caledonian McIntosh 220-121.jpg [Public domain]",
+      "Quintinshill rail disaster - Incendie.jpg [Public domain]",
+      "Funeral procession for victims of the Gretna rail disaster, 1915.jpg [Public domain]"
+    ]
+  }
+}

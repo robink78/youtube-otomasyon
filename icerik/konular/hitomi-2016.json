@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "A Satellite Spun Itself to Pieces Weeks After Launch",
+  "kaynaklar": [
+    {
+      "ad": "hitomi-1.jpg",
+      "wikimedia": "PerA Chandra+SXS.jpg"
+    },
+    {
+      "ad": "hitomi-2.png",
+      "wikimedia": "Per A spectra comparison.png"
+    },
+    {
+      "ad": "hitomi-3.png",
+      "wikimedia": "Astro-H schema (en).png"
+    },
+    {
+      "ad": "hitomi-4.jpg",
+      "wikimedia": "ASTRO-H soft X-ray mirror.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A new Japanese X-ray satellite broke apart weeks after launch.",
+      "kaynak": "Footage/hitomi-1.jpg"
+    },
+    {
+      "metin": "It spun faster and faster until its solar panels were destroyed.",
+      "kaynak": "Footage/hitomi-2.png"
+    },
+    {
+      "metin": "It began with a glitch in estimating its orientation.",
+      "kaynak": "Footage/hitomi-3.png"
+    },
+    {
+      "metin": "The satellite thought it was rotating when it wasn't.",
+      "kaynak": "Footage/hitomi-4.jpg"
+    },
+    {
+      "metin": "Its correction added real spin instead.",
+      "kaynak": "Footage/hitomi-1.jpg"
+    },
+    {
+      "metin": "Then thrusters fired using wrongly set parameters.",
+      "kaynak": "Footage/hitomi-2.png"
+    },
+    {
+      "metin": "That made the spin worse, and the structure failed.",
+      "kaynak": "Footage/hitomi-3.png"
+    },
+    {
+      "metin": "JAXA tightened checks on uploaded commands and settings.",
+      "kaynak": "Footage/hitomi-4.jpg"
+    }
+  ],
+  "aciklama": "Hitomi broke apart in orbit. The cause: spin-up from faulty attitude estimation, then thrusters firing in the wrong direction.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Hitomi",
+    "2016",
+    "attitude control",
+    "engineering failure"
+  ],
+  "hook": "It spun itself apart",
+  "soru": "Who checks the parameters?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "the Hitomi satellite",
+    "kisa": "Hitomi",
+    "nesne": "Attitude control",
+    "yil": 2016,
+    "sonuc": "broke apart in orbit",
+    "tetik": "an attitude error followed by a thruster command with wrong parameters",
+    "mekanizma": "spin-up from faulty attitude estimation, then thrusters firing in the wrong direction",
+    "sayi": "SPUN APART",
+    "ders": "JAXA tightened review of uploaded commands and parameters",
+    "zincir": [
+      "STAR TRACKER GLITCH",
+      "ATTITUDE MISJUDGED",
+      "WHEELS SPIN UP",
+      "SAFE MODE THRUSTERS WRONGLY SET",
+      "SOLAR PANELS TEAR OFF"
+    ],
+    "zaman": [],
+    "yanilgi": "No debris hit it. The satellite's own control system spun it faster until parts broke off.",
+    "tartisma": "A wrong parameter file had been uploaded without full checks. Who double-checks the numbers?",
+    "basliklar": [
+      "A Satellite Spun Itself to Pieces Weeks After Launch",
+      "Why the Hitomi Satellite Broke Apart",
+      "The Wrong Parameters That Spun a Satellite"
+    ],
+    "kapak": [
+      "SPUN APART",
+      "WRONG PARAMETERS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hitomi (satellite)",
+        "url": "https://en.wikipedia.org/wiki/Hitomi_(satellite)"
+      },
+      {
+        "ad": "NASA — astro h (cited by Wikipedia)",
+        "url": "http://science1.nasa.gov/missions/astro-h/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-x",
+    "wiki": "Hitomi_(satellite)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "PerA Chandra+SXS.jpg [Public domain]",
+      "Per A spectra comparison.png [Public domain]",
+      "Astro-H schema (en).png [Public domain]",
+      "ASTRO-H soft X-ray mirror.jpg [Public domain]"
+    ]
+  }
+}

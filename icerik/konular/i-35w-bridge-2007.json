@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Undersized Steel Plate That Dropped a Freeway",
+  "kaynaklar": [
+    {
+      "ad": "i-35w-bridge-1.jpg",
+      "wikimedia": "I-35W-officials-Minneapolis-20070810.jpg"
+    },
+    {
+      "ad": "i-35w-bridge-2.jpg",
+      "wikimedia": "I35W Collapse - Mayor RT Ryback surveys damage.jpg"
+    },
+    {
+      "ad": "i-35w-bridge-3.jpg",
+      "wikimedia": "I35 bridge collapsed divers.jpg"
+    },
+    {
+      "ad": "i-35w-bridge-4.jpg",
+      "wikimedia": "Image-I35W Collapse - Day 4 - Operations & Scene (95) edit.jpg"
+    },
+    {
+      "ad": "i-35w-bridge-5.jpg",
+      "wikimedia": "35W Bridge Collapse (15807989955).jpg"
+    },
+    {
+      "ad": "i-35w-bridge-6.jpg",
+      "wikimedia": "35W Bridge Collapse Onlookers (15622802687).jpg"
+    },
+    {
+      "ad": "i-35w-bridge-7.jpg",
+      "wikimedia": "35wbridge1.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During rush hour, a freeway bridge fell into the Mississippi River.",
+      "kaynak": "Footage/i-35w-bridge-1.jpg"
+    },
+    {
+      "metin": "Cars plunged with it, and thirteen people were killed.",
+      "kaynak": "Footage/i-35w-bridge-2.jpg"
+    },
+    {
+      "metin": "The cause had been in the drawings for forty years.",
+      "kaynak": "Footage/i-35w-bridge-3.jpg"
+    },
+    {
+      "metin": "Steel gusset plates were designed only half as thick as needed.",
+      "kaynak": "Footage/i-35w-bridge-4.jpg"
+    },
+    {
+      "metin": "Over time, extra concrete added weight to the deck.",
+      "kaynak": "Footage/i-35w-bridge-5.jpg"
+    },
+    {
+      "metin": "That day, construction materials were parked right above a weak plate.",
+      "kaynak": "Footage/i-35w-bridge-6.jpg"
+    },
+    {
+      "metin": "The plate buckled, and the main span fell.",
+      "kaynak": "Footage/i-35w-bridge-7.jpg"
+    },
+    {
+      "metin": "Now gusset plates are checked in every truss bridge rating.",
+      "kaynak": "Footage/i-35w-bridge-1.jpg"
+    }
+  ],
+  "aciklama": "I-35W Bridge dropped into the Mississippi River during rush hour. The cause: undersized gusset plates failing under added dead load and construction materials.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "I-35W bridge",
+    "Minneapolis",
+    "bridge collapse",
+    "gusset plate",
+    "2007"
+  ],
+  "hook": "A plate half too thin",
+  "soru": "Who checks old drawings?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the I-35W bridge",
+    "kisa": "I-35W Bridge",
+    "nesne": "Bridge",
+    "yil": 2007,
+    "sonuc": "dropped into the Mississippi River during rush hour",
+    "tetik": "gusset plates designed half as thick as needed",
+    "mekanizma": "undersized gusset plates failing under added dead load and construction materials",
+    "sayi": "13 DEAD",
+    "ders": "gusset plates are now checked in load ratings of truss bridges",
+    "zincir": [
+      "GUSSET PLATES DESIGNED TOO THIN",
+      "DECADES OF ADDED CONCRETE WEIGHT",
+      "CONSTRUCTION LOAD PARKED ON DECK",
+      "PLATE AT U10 GIVES WAY",
+      "MAIN SPAN FALLS"
+    ],
+    "zaman": [
+      {
+        "t": "Aug 1, 2007",
+        "olay": "Evening rush hour; resurfacing work on the deck"
+      }
+    ],
+    "yanilgi": "Corrosion and fatigue were suspected first. Investigators found a design error: key gusset plates were only half the thickness they needed.",
+    "tartisma": "The error sat in the drawings for forty years. How many other bridges carry a mistake nobody rechecks?",
+    "basliklar": [
+      "The Undersized Steel Plate That Dropped a Freeway",
+      "Why the I-35W Bridge Collapsed",
+      "A 40-Year-Old Design Error, Then 13 Dead"
+    ],
+    "kapak": [
+      "HALF THICK",
+      "40-YEAR ERROR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — I-35W Mississippi River bridge",
+        "url": "https://en.wikipedia.org/wiki/I-35W_Mississippi_River_bridge"
+      },
+      {
+        "ad": "NTSB Highway Accident Report HAR-08-03 — Collapse of I-35W Highway Bridge",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR0803.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "I-35W_Mississippi_River_bridge",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "I-35W-officials-Minneapolis-20070810.jpg [Public domain]",
+      "I35W Collapse - Mayor RT Ryback surveys damage.jpg [Public domain]",
+      "I35 bridge collapsed divers.jpg [Public domain]",
+      "Image-I35W Collapse - Day 4 - Operations & Scene (95) edit.jpg [Public domain]",
+      "35W Bridge Collapse (15807989955).jpg [CC BY 2.0]",
+      "35W Bridge Collapse Onlookers (15622802687).jpg [CC BY 2.0]",
+      "35wbridge1.jpg [CC BY 3.0]"
+    ]
+  }
+}

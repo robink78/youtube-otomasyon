@@ -1,0 +1,50 @@
+{
+  "slug": "why-bridges-collapse",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.840Z",
+  "ekranHook": "The war every bridge fights",
+  "mevcut": {
+    "puan": 80,
+    "pencereler": {
+      "0-5": "Every bridge is fighting a quiet war against physics. The biggest enemy is not",
+      "5-12": "weight. It is the wind. Wind can make a deck twist, and at the wrong speed that motion feeds",
+      "12-20": "on itself. Engineers call this flutter, and it tore apart the Tacoma Narrows Bridge. Metal also gets tired. Every single flex leaves",
+      "20-30": "a tiny crack. Over the years those cracks spread until the metal simply gives way. Add rust, overloading, or one weak bolt, and the whole thing can fail."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Every bridge is fighting a quiet war against physics."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only wind, fatigue and corrosion."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is metal fatigue and aeroelastic flutter — and it is why bridges are wind-tunnel tested and inspected for cracks."
+      }
+    ],
+    "metin": "Every bridge is fighting a quiet war against physics. It took only wind, fatigue and corrosion. So what actually happens inside? The answer is metal fatigue and aeroelastic flutter — and it is why bridges are wind-tunnel tested and inspected for cracks.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

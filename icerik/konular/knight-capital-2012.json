@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Old Code on One Server Lost a Company Millions in Minutes",
+  "kaynaklar": [
+    {
+      "ad": "knight-capital-1.jpg",
+      "wikimedia": "Access to Capital Conference (5550794801).jpg"
+    },
+    {
+      "ad": "knight-capital-2.jpg",
+      "wikimedia": "Members of the Marine Corps Executive Forum (MCEF) pose for a group photo with Marines in front of a Marine Corps CH-46 Sea Knight helicopter in Quantico, Va, during a tour of the National Capital Region 110708-M-KS211-144.jpg"
+    },
+    {
+      "ad": "knight-capital-3.jpg",
+      "wikimedia": "Members of the Marine Corps Executive Forum (MCEF) prepare to boards a Marine Corps CH-46 Sea Knight helicopter during the group's tour of sites in the National Capital Region, July 8, 2011 110708-M-KS211-101.jpg"
+    },
+    {
+      "ad": "knight-capital-4.jpg",
+      "wikimedia": "A U.S. Marine Corps CH-46 Sea Knight helicopter lands to pick up members of the Marine Corps Executive Forum (MCEF) during the group's tour of sites in the National Capital Region, July 8, 2011 110708-M-KS211-100.jpg"
+    },
+    {
+      "ad": "knight-capital-5.jpg",
+      "wikimedia": "A U.S. Marine Corps CH-46 Sea Knight helicopter flies overhead to pick up members of the Marine Corps Executive Forum (MCEF) during the group's tour of sites in the National Capital Region, July 8, 2011 110708-M-KS211-099.jpg"
+    },
+    {
+      "ad": "knight-capital-6.jpg",
+      "wikimedia": "Two U.S. Marine Corps CH-46 Sea Knight helicopters fly overhead to pick up members of the Marine Corps Executive Forum (MCEF) during the group's tour of sites in the National Capital Region, July 8, 2011 110708-M-KS211-094.jpg"
+    },
+    {
+      "ad": "knight-capital-7.jpg",
+      "wikimedia": "U.S. Marine Corps Capt. Miller looks out the window of a CH-46 Sea Knight helicopter prior to lifting off with members of the Marine Corps Executive Forum (MCEF) during the group's tour of sites in the National 110708-M-KS211-106.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A trading firm's computers started sending runaway stock orders.",
+      "kaynak": "Footage/knight-capital-1.jpg"
+    },
+    {
+      "metin": "Within minutes, the company had lost hundreds of millions of dollars.",
+      "kaynak": "Footage/knight-capital-2.jpg"
+    },
+    {
+      "metin": "New software had been installed the night before.",
+      "kaynak": "Footage/knight-capital-3.jpg"
+    },
+    {
+      "metin": "It was deployed by hand to eight servers.",
+      "kaynak": "Footage/knight-capital-4.jpg"
+    },
+    {
+      "metin": "One server was missed.",
+      "kaynak": "Footage/knight-capital-5.jpg"
+    },
+    {
+      "metin": "A reused setting woke up long-dead code on that machine.",
+      "kaynak": "Footage/knight-capital-6.jpg"
+    },
+    {
+      "metin": "There was no automatic kill switch.",
+      "kaynak": "Footage/knight-capital-7.jpg"
+    },
+    {
+      "metin": "The firm had to be rescued and sold.",
+      "kaynak": "Footage/knight-capital-1.jpg"
+    }
+  ],
+  "aciklama": "Knight Capital lost hundreds of millions of dollars in minutes. The cause: a reused flag reactivating obsolete trading code on a server that didn't get the new software.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Knight Capital",
+    "2012",
+    "trading software",
+    "engineering failure"
+  ],
+  "hook": "Old code woke up",
+  "soru": "Should everything have a kill switch?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "Knight Capital's trading system",
+    "kisa": "Knight Capital",
+    "nesne": "Trading software",
+    "yil": 2012,
+    "sonuc": "lost hundreds of millions of dollars in minutes",
+    "tetik": "a deployment that missed one of eight servers",
+    "mekanizma": "a reused flag reactivating obsolete trading code on a server that didn't get the new software",
+    "sayi": "45 MINUTES",
+    "ders": "the firm was sold and US regulators tightened rules on automated trading controls",
+    "zincir": [
+      "NEW CODE DEPLOYED",
+      "ONE SERVER MISSED",
+      "OLD FLAG REUSED",
+      "DEAD CODE REACTIVATES",
+      "RUNAWAY ORDERS FLOOD MARKET"
+    ],
+    "zaman": [],
+    "yanilgi": "No hacker was involved. A manual deployment missed one server, and old code woke up.",
+    "tartisma": "There was no automatic kill switch. Should every automated system have one?",
+    "basliklar": [
+      "Old Code on One Server Lost a Company Millions in Minutes",
+      "How Knight Capital Lost Millions in 45 Minutes",
+      "The Dead Code That Came Back to Life"
+    ],
+    "kapak": [
+      "DEAD CODE",
+      "45 MINUTES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Knight Capital Group",
+        "url": "https://en.wikipedia.org/wiki/Knight_Capital_Group"
+      },
+      {
+        "ad": "Government source — 34 70694 (cited by Wikipedia)",
+        "url": "https://www.sec.gov/litigation/admin/2013/34-70694.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "Knight_Capital_Group",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Access to Capital Conference (5550794801).jpg [Public domain]",
+      "Members of the Marine Corps Executive Forum (MCEF) pose for a group photo with Marines in front of a Marine Corps CH-46 Sea Knight helicopter in Quantico, Va, during a tour of the National Capital Region 110708-M-KS211-144.jpg [Public domain]",
+      "Members of the Marine Corps Executive Forum (MCEF) prepare to boards a Marine Corps CH-46 Sea Knight helicopter during the group's tour of sites in the National Capital Region, July 8, 2011 110708-M-KS211-101.jpg [Public domain]",
+      "A U.S. Marine Corps CH-46 Sea Knight helicopter lands to pick up members of the Marine Corps Executive Forum (MCEF) during the group's tour of sites in the National Capital Region, July 8, 2011 110708-M-KS211-100.jpg [Public domain]",
+      "A U.S. Marine Corps CH-46 Sea Knight helicopter flies overhead to pick up members of the Marine Corps Executive Forum (MCEF) during the group's tour of sites in the National Capital Region, July 8, 2011 110708-M-KS211-099.jpg [Public domain]",
+      "Two U.S. Marine Corps CH-46 Sea Knight helicopters fly overhead to pick up members of the Marine Corps Executive Forum (MCEF) during the group's tour of sites in the National Capital Region, July 8, 2011 110708-M-KS211-094.jpg [Public domain]",
+      "U.S. Marine Corps Capt. Miller looks out the window of a CH-46 Sea Knight helicopter prior to lifting off with members of the Marine Corps Executive Forum (MCEF) during the group's tour of sites in the National 110708-M-KS211-106.jpg [Public domain]"
+    ]
+  }
+}

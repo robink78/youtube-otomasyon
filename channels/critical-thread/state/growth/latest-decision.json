@@ -1,0 +1,5730 @@
+{
+  "schema": "growth-topic-decision/1",
+  "channel": "critical-thread",
+  "contentType": "short",
+  "date": "2026-10-04",
+  "createdAt": "2026-10-04T12:17:54.045Z",
+  "mode": "EXPLOIT",
+  "modeRoll": 0.626,
+  "pool": {
+    "minimum": 20,
+    "target": 50,
+    "count": 50,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "topicId": "CT-043",
+        "slug": "why-nuclear-reactor-coolant-pump-is-so-hard-to-replace",
+        "topic": "The Stuck Valve Behind Three Mile Island",
+        "cluster": "ENERGY",
+        "bucket": "A",
+        "viralScore": 74,
+        "videoPotentialScore": 83,
+        "selectionScore": 78,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 77,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 89,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 92,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 6% leftover heat nearly melted a reactor.",
+          "score": 85
+        },
+        "rejectionReasons": [
+          "VideoPotential 83 ≥ 80",
+          "hook 85",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-073",
+        "slug": "why-submarine-fiber-optic-cable-is-so-hard-to-replace",
+        "topic": "The Garden-Hose-Thin Cables That Carry the Internet Across Oceans",
+        "cluster": "SUBMARINE CABLES",
+        "bucket": "A",
+        "viralScore": 74,
+        "videoPotentialScore": 83,
+        "selectionScore": 78,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 64,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 85,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Your internet depends on hidden seabed cables.",
+          "score": 79
+        },
+        "rejectionReasons": [
+          "VideoPotential 83 ≥ 80",
+          "hook 79",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-181",
+        "slug": "why-rail-signaling-interlocking-is-so-hard-to-replace",
+        "topic": "The Loose Wire Behind a 35-Death Rail Crash",
+        "cluster": "RAIL",
+        "bucket": "A",
+        "viralScore": 75,
+        "videoPotentialScore": 82,
+        "selectionScore": 78,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 91,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 52,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 91,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 93,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 76,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why one loose wire killed 35 people.",
+          "score": 79
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 79",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-503",
+        "slug": "the-critical-role-of-hospital-information-system",
+        "topic": "The Ransomware That Turned Away NHS Patients",
+        "cluster": "HEALTH INFRASTRUCTURE",
+        "bucket": "A",
+        "viralScore": 72,
+        "videoPotentialScore": 84,
+        "selectionScore": 77,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 90,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 71,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 90,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 93,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 92,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why ransomware diverted British ambulances in 2017.",
+          "score": 77
+        },
+        "rejectionReasons": [
+          "VideoPotential 84 ≥ 80",
+          "hook 77",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-025",
+        "slug": "why-hvdc-converter-valve-is-so-hard-to-replace",
+        "topic": "The Power Lines Carrying Electricity 3,000 Kilometres",
+        "cluster": "ELECTRICAL GRID",
+        "bucket": "A",
+        "viralScore": 73,
+        "videoPotentialScore": 82,
+        "selectionScore": 77,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 57,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 88,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why one Chinese power line runs 3,000 kilometres.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 78",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-028",
+        "slug": "when-grid-control-room-becomes-the-bottleneck",
+        "topic": "The 11-Minute Blackout That Hit 7 Million People",
+        "cluster": "ELECTRICAL GRID",
+        "bucket": "A",
+        "viralScore": 73,
+        "videoPotentialScore": 82,
+        "selectionScore": 77,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 91,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 41,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 91,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 81,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": -14,
+            "basis": "penalty",
+            "note": "published-title similarity 0.14"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why one failure blacked out 7 million people.",
+          "score": 83
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 83",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-042",
+        "slug": "the-hidden-system-behind-uranium-enrichment-centrifuge",
+        "topic": "The 50,000-RPM Machine Behind Nuclear Fuel",
+        "cluster": "ENERGY",
+        "bucket": "A",
+        "viralScore": 73,
+        "videoPotentialScore": 82,
+        "selectionScore": 77,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 49,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 60,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 88,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 91,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Nuclear fuel depends on tubes spinning 50,000 rpm.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 78",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-046",
+        "slug": "when-grid-scale-battery-inverter-becomes-the-bottleneck",
+        "topic": "The Battery Plant Storing 2,500 MWh",
+        "cluster": "ENERGY",
+        "bucket": "A",
+        "viralScore": 73,
+        "videoPotentialScore": 82,
+        "selectionScore": 77,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 92,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 46,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 60,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 92,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 83,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why one battery site stores 2,500 megawatt-hours.",
+          "score": 80
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 80",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-051",
+        "slug": "inside-the-system-built-around-oil-pipeline-pumping-station",
+        "topic": "The Pipeline Carrying 45% of the East Coast's Fuel",
+        "cluster": "ENERGY",
+        "bucket": "A",
+        "viralScore": 73,
+        "videoPotentialScore": 82,
+        "selectionScore": 77,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 56,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 60,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 80,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 45% of eastern fuel rides one pipe.",
+          "score": 80
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 80",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-060",
+        "slug": "the-hidden-system-behind-border-gateway-routing-system",
+        "topic": "The Day the Internet Outgrew Old Routers",
+        "cluster": "TELECOMMUNICATIONS",
+        "bucket": "A",
+        "viralScore": 74,
+        "videoPotentialScore": 82,
+        "selectionScore": 77,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 61,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 70,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 89,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "15,000 new routes knocked old routers offline.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 78",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-265",
+        "slug": "why-food-safety-laboratory-is-so-hard-to-replace",
+        "topic": "The Milk Scandal That Sickened 300,000 Children",
+        "cluster": "FOOD",
+        "bucket": "A",
+        "viralScore": 73,
+        "videoPotentialScore": 82,
+        "selectionScore": 77,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 90,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 60,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 60,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 90,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why tainted milk sickened 300,000 children.",
+          "score": 77
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 77",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-234",
+        "slug": "the-hidden-system-behind-lead-service-line-replacement-program",
+        "topic": "The Pipes Behind the Flint Water Crisis",
+        "cluster": "WATER",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 84,
+        "selectionScore": 76,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 93,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 66,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 93,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 83,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "learned",
+            "note": "1 same-cluster upload(s), breakout rate 0"
+          },
+          "duplicate_risk": {
+            "value": -10,
+            "basis": "penalty",
+            "note": "published-title similarity 0.10"
+          },
+          "saturation_risk": {
+            "value": -17,
+            "basis": "penalty",
+            "note": "1 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 100,000 people drank from leaching pipes.",
+          "score": 81
+        },
+        "rejectionReasons": [
+          "VideoPotential 84 ≥ 80",
+          "hook 81",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-029",
+        "slug": "the-critical-role-of-frequency-regulation-reserve",
+        "topic": "The Grid That Came 4 Minutes From Collapse",
+        "cluster": "ELECTRICAL GRID",
+        "bucket": "A",
+        "viralScore": 72,
+        "videoPotentialScore": 83,
+        "selectionScore": 76,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 92,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 62,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 92,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "countdown",
+          "spoken": "Why Texas's grid came 4 minutes from collapse.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 83 ≥ 80",
+          "hook 78",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-036",
+        "slug": "the-hidden-system-behind-utility-vegetation-management-corridor",
+        "topic": "The Trees That Blacked Out 55 Million People",
+        "cluster": "ELECTRICAL GRID",
+        "bucket": "A",
+        "viralScore": 72,
+        "videoPotentialScore": 83,
+        "selectionScore": 76,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 66,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 82,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why overgrown trees blacked out 55 million people.",
+          "score": 77
+        },
+        "rejectionReasons": [
+          "VideoPotential 83 ≥ 80",
+          "hook 77",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-219",
+        "slug": "inside-the-system-built-around-rapid-sand-filter",
+        "topic": "The Outbreak That Sickened 403,000 People",
+        "cluster": "WATER",
+        "bucket": "A",
+        "viralScore": 72,
+        "videoPotentialScore": 82,
+        "selectionScore": 76,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 42,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 95,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 91,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "learned",
+            "note": "1 same-cluster upload(s), breakout rate 0"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": -17,
+            "basis": "penalty",
+            "note": "1 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why tap water sickened 403,000 people in Milwaukee.",
+          "score": 79
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 79",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-321",
+        "slug": "inside-the-system-built-around-refrigerant-production-line",
+        "topic": "The Coolants 14,800 Times Worse Than CO2",
+        "cluster": "INDUSTRIAL CHEMICALS",
+        "bucket": "A",
+        "viralScore": 72,
+        "videoPotentialScore": 82,
+        "selectionScore": 76,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 43,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 70,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 95,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 73,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 96,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why fridge gases can be 14,800× CO2.",
+          "score": 77
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 77",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-231",
+        "slug": "inside-the-system-built-around-water-quality-laboratory",
+        "topic": "The Town Water Test That Came Too Late",
+        "cluster": "WATER",
+        "bucket": "A",
+        "viralScore": 72,
+        "videoPotentialScore": 81,
+        "selectionScore": 76,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 90,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 48,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 70,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 90,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "learned",
+            "note": "1 same-cluster upload(s), breakout rate 0"
+          },
+          "duplicate_risk": {
+            "value": -9,
+            "basis": "penalty",
+            "note": "published-title similarity 0.09"
+          },
+          "saturation_risk": {
+            "value": -17,
+            "basis": "penalty",
+            "note": "1 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 2,000 fell sick in a 5,036-person town.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 81 ≥ 80",
+          "hook 78",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-437",
+        "slug": "the-critical-role-of-internet-protocol-standardization",
+        "topic": "The Day the Internet Ran Out of Addresses",
+        "cluster": "STANDARDS",
+        "bucket": "A",
+        "viralScore": 74,
+        "videoPotentialScore": 80,
+        "selectionScore": 76,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 92,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 57,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 92,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 83,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why the internet's 4.3 billion addresses ran out.",
+          "score": 80
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 80",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-019",
+        "slug": "why-large-power-transformer-is-so-hard-to-replace",
+        "topic": "The Night Gunmen Shot 17 Transformers",
+        "cluster": "ELECTRICAL GRID",
+        "bucket": "A",
+        "viralScore": 70,
+        "videoPotentialScore": 82,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 75,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 47,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 82,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why gunmen shot 17 transformers in one night.",
+          "score": 81
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 81",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-023",
+        "slug": "the-critical-role-of-synchronous-condenser",
+        "topic": "The Blackout That Dropped 31 GW in Seconds",
+        "cluster": "ELECTRICAL GRID",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 82,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 60,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 86,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 81,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 76,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": -14,
+            "basis": "penalty",
+            "note": "published-title similarity 0.14"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "countdown",
+          "spoken": "Why Iberia lost 31 gigawatts in seconds.",
+          "score": 81
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 81",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-027",
+        "slug": "inside-the-system-built-around-black-start-generator",
+        "topic": "The Small Generators That Restart a Dead Grid",
+        "cluster": "ELECTRICAL GRID",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 82,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 90,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 47,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 90,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 84,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why big power plants can't restart themselves.",
+          "score": 76
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 76",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-050",
+        "slug": "what-quietly-depends-on-geothermal-production-well",
+        "topic": "The Steam Field Refilled With Treated Sewage",
+        "cluster": "ENERGY",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 82,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 96,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 48,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 96,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 87,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 20 million gallons of sewage make steam.",
+          "score": 80
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 80",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-074",
+        "slug": "what-quietly-depends-on-cable-landing-station",
+        "topic": "The Volcano That Cut a Country's Only Cable",
+        "cluster": "SUBMARINE CABLES",
+        "bucket": "A",
+        "viralScore": 70,
+        "videoPotentialScore": 82,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 78,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 45,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 63,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 86,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 83,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 1 broken cable cut off Tonga.",
+          "score": 84
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 84",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-160",
+        "slug": "when-dangerous-goods-manifest-system-becomes-the-bottleneck",
+        "topic": "The 2,750 Tonnes Stored Beside a City",
+        "cluster": "SHIPPING",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 82,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 87,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 75,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 87,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 92,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 2,750 tonnes waited in Beirut's port.",
+          "score": 81
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 81",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-230",
+        "slug": "what-quietly-depends-on-desalination-reverse-osmosis-membrane",
+        "topic": "The Membranes Pushing Seawater at 82 Bar",
+        "cluster": "WATER",
+        "bucket": "A",
+        "viralScore": 70,
+        "videoPotentialScore": 82,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 63,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 89,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "learned",
+            "note": "1 same-cluster upload(s), breakout rate 0"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": -17,
+            "basis": "penalty",
+            "note": "1 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why seawater must be pushed at 82 bar.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 78",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-292",
+        "slug": "when-seed-breeding-program-becomes-the-bottleneck",
+        "topic": "The Wheat That Doubled Harvests in Five Years",
+        "cluster": "AGRICULTURE",
+        "bucket": "A",
+        "viralScore": 70,
+        "videoPotentialScore": 82,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 83,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 64,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 83,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 83,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": -11,
+            "basis": "penalty",
+            "note": "published-title similarity 0.11"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why wheat yields nearly doubled in 5 years.",
+          "score": 79
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 79",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-333",
+        "slug": "inside-the-system-built-around-gallium-recovery-circuit",
+        "topic": "The Metal That Melts in Your Hand and Powers Chips",
+        "cluster": "CRITICAL MINERALS",
+        "bucket": "A",
+        "viralScore": 70,
+        "videoPotentialScore": 82,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 90,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 55,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 65,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 90,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 73,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "This metal melts in your hand.",
+          "score": 77
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 77",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-397",
+        "slug": "why-suez-canal-traffic-system-is-so-hard-to-replace",
+        "topic": "The 193-Kilometre Shortcut Europe and Asia Can't Replace",
+        "cluster": "GLOBAL CHOKEPOINTS",
+        "bucket": "A",
+        "viralScore": 70,
+        "videoPotentialScore": 82,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 55,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 77,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 86,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 73,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 83,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why one stuck ship stops Suez trade.",
+          "score": 79
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 79",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-206",
+        "slug": "what-quietly-depends-on-cement-kiln",
+        "topic": "The 1,450 °C Kiln Behind Every Road and Bridge",
+        "cluster": "ROADS AND BRIDGES",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 81,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 43,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 60,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 82,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "learned",
+            "note": "1 same-cluster upload(s), breakout rate 0"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": -17,
+            "basis": "penalty",
+            "note": "1 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Every bridge starts in a 1,450 °C kiln.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 81 ≥ 80",
+          "hook 78",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-229",
+        "slug": "why-reservoir-outlet-works-is-so-hard-to-replace",
+        "topic": "The Spillway Failure That Evacuated 180,000 People",
+        "cluster": "WATER",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 81,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 46,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 88,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 92,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "learned",
+            "note": "1 same-cluster upload(s), breakout rate 0"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": -17,
+            "basis": "penalty",
+            "note": "1 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why damaged spillways evacuated 180,000 people.",
+          "score": 76
+        },
+        "rejectionReasons": [
+          "VideoPotential 81 ≥ 80",
+          "hook 76",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-338",
+        "slug": "what-quietly-depends-on-platinum-group-metal-refinery",
+        "topic": "The Rock Formation Holding 75% of the World's Platinum",
+        "cluster": "CRITICAL MINERALS",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 81,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 75,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 44,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 95,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 93,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 75% of platinum sits in one formation.",
+          "score": 80
+        },
+        "rejectionReasons": [
+          "VideoPotential 81 ≥ 80",
+          "hook 80",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-440",
+        "slug": "what-quietly-depends-on-food-safety-management-standard",
+        "topic": "The Sprouts That Sickened 3,950 People",
+        "cluster": "STANDARDS",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 81,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 37,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 95,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why contaminated sprouts sickened 3,950 people.",
+          "score": 76
+        },
+        "rejectionReasons": [
+          "VideoPotential 81 ≥ 80",
+          "hook 76",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-161",
+        "slug": "the-critical-role-of-maritime-distress-satellite-link",
+        "topic": "The Satellite System That Rescued 63,745 People",
+        "cluster": "SHIPPING",
+        "bucket": "A",
+        "viralScore": 72,
+        "videoPotentialScore": 80,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 75,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 44,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 88,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 81,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 63,745 people owe their rescue to satellites.",
+          "score": 82
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 82",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-289",
+        "slug": "why-haber-bosch-ammonia-plant-is-so-hard-to-replace",
+        "topic": "The Chemical Reaction That Feeds Billions",
+        "cluster": "AGRICULTURE",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 80,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 68,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 80,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 69,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 84,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why your food depends on natural gas.",
+          "score": 79
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 79",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-490",
+        "slug": "when-blood-bank-cold-storage-becomes-the-bottleneck",
+        "topic": "Why Donated Blood Expires in 42 Days",
+        "cluster": "HEALTH INFRASTRUCTURE",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 80,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 45,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 60,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 94,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "countdown",
+          "spoken": "Why donated red cells expire in 42 days.",
+          "score": 75
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 75",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-492",
+        "slug": "the-hidden-system-behind-medical-isotope-reactor",
+        "topic": "The Six-Hour Isotope Behind Millions of Scans",
+        "cluster": "HEALTH INFRASTRUCTURE",
+        "bucket": "A",
+        "viralScore": 71,
+        "videoPotentialScore": 80,
+        "selectionScore": 75,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 96,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 75,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 53,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 96,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 90,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why hospitals can't stockpile this isotope.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 78",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-166",
+        "slug": "when-port-channel-dredging-fleet-becomes-the-bottleneck",
+        "topic": "The Bridge Collapse That Closed a Port for 11 Weeks",
+        "cluster": "PORTS",
+        "bucket": "A",
+        "viralScore": 68,
+        "videoPotentialScore": 82,
+        "selectionScore": 74,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 93,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 78,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 45,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 68,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 60,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 93,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 83,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": -10,
+            "basis": "penalty",
+            "note": "published-title similarity 0.10"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why Baltimore's port closed for 11 weeks.",
+          "score": 81
+        },
+        "rejectionReasons": [
+          "VideoPotential 82 ≥ 80",
+          "hook 81",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-045",
+        "slug": "inside-the-system-built-around-pumped-hydro-storage-plant",
+        "topic": "The Giant Water Battery Storing 24,000 MWh",
+        "cluster": "ENERGY",
+        "bucket": "A",
+        "viralScore": 70,
+        "videoPotentialScore": 81,
+        "selectionScore": 74,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 91,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 42,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 91,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 91,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": -8,
+            "basis": "penalty",
+            "note": "published-title similarity 0.08"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 3,003 megawatts flow from pumped water.",
+          "score": 81
+        },
+        "rejectionReasons": [
+          "VideoPotential 81 ≥ 80",
+          "hook 81",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-340",
+        "slug": "when-aluminum-smelter-becomes-the-bottleneck",
+        "topic": "The Smelter Using 13% of a Country's Electricity",
+        "cluster": "CRITICAL MINERALS",
+        "bucket": "A",
+        "viralScore": 69,
+        "videoPotentialScore": 81,
+        "selectionScore": 74,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 44,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 80,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why one smelter uses 13% of national power.",
+          "score": 81
+        },
+        "rejectionReasons": [
+          "VideoPotential 81 ≥ 80",
+          "hook 81",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-104",
+        "slug": "what-quietly-depends-on-low-earth-orbit-inter-satellite-link",
+        "topic": "The Network Running 75% of Active Satellites",
+        "cluster": "SATELLITES",
+        "bucket": "A",
+        "viralScore": 67,
+        "videoPotentialScore": 81,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 78,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 45,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 79,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 82,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 53,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 84,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why one company flies 75% of active satellites.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 81 ≥ 80",
+          "hook 78",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-109",
+        "slug": "why-gps-master-control-station-is-so-hard-to-replace",
+        "topic": "The Control Room That Keeps GPS Honest",
+        "cluster": "GPS AND TIMING",
+        "bucket": "A",
+        "viralScore": 67,
+        "videoPotentialScore": 81,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 87,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 70,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 35,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 72,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 60,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 87,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 57,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 71,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "GPS clocks drift 38 microseconds every day.",
+          "score": 82
+        },
+        "rejectionReasons": [
+          "VideoPotential 81 ≥ 80",
+          "hook 82",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-222",
+        "slug": "the-hidden-system-behind-chlorine-dosing-system",
+        "topic": "The Dose That Ended Typhoid in Tap Water",
+        "cluster": "WATER",
+        "bucket": "A",
+        "viralScore": 68,
+        "videoPotentialScore": 81,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 81,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 49,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 81,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 93,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "learned",
+            "note": "1 same-cluster upload(s), breakout rate 0"
+          },
+          "duplicate_risk": {
+            "value": -10,
+            "basis": "penalty",
+            "note": "published-title similarity 0.10"
+          },
+          "saturation_risk": {
+            "value": -17,
+            "basis": "penalty",
+            "note": "1 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why 0.2 parts per million changed public health.",
+          "score": 80
+        },
+        "rejectionReasons": [
+          "VideoPotential 81 ≥ 80",
+          "hook 80",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-022",
+        "slug": "when-protective-relay-becomes-the-bottleneck",
+        "topic": "The Tree That Blacked Out 56 Million Italians",
+        "cluster": "ELECTRICAL GRID",
+        "bucket": "A",
+        "viralScore": 69,
+        "videoPotentialScore": 80,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 55,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 34,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 85,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 73,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 91,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -7,
+            "basis": "penalty",
+            "note": "93/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why one Swiss tree blacked out 56 million.",
+          "score": 77
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 77",
+          "sources 93"
+        ]
+      },
+      {
+        "topicId": "CT-065",
+        "slug": "the-critical-role-of-emergency-alert-gateway",
+        "topic": "The False Missile Alert That Lasted 38 Minutes",
+        "cluster": "TELECOMMUNICATIONS",
+        "bucket": "A",
+        "viralScore": 68,
+        "videoPotentialScore": 80,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 78,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 45,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 64,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 60,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 94,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 53,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "countdown",
+          "spoken": "Why a false missile alert ran 38 minutes.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 78",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-085",
+        "slug": "why-submarine-cable-protection-zone-is-so-hard-to-replace",
+        "topic": "The Anchor That Cut 75% of a Region's Traffic",
+        "cluster": "SUBMARINE CABLES",
+        "bucket": "A",
+        "viralScore": 68,
+        "videoPotentialScore": 80,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 32,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 40,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 80,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 97,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 30,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 85,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 67,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why cable breaks cut 75% of Mideast links.",
+          "score": 86
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 86",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-100",
+        "slug": "when-orbital-debris-tracking-network-becomes-the-bottleneck",
+        "topic": "The 40,000 Objects Someone Has to Track",
+        "cluster": "SATELLITES",
+        "bucket": "A",
+        "viralScore": 68,
+        "videoPotentialScore": 80,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 70,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 35,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 59,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 95,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 49,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 89,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 76,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "40,230 objects in orbit are being tracked.",
+          "score": 78
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 78",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-126",
+        "slug": "the-hidden-system-behind-leap-second-coordination-process",
+        "topic": "The 27 Extra Seconds Added to World Time",
+        "cluster": "GPS AND TIMING",
+        "bucket": "A",
+        "viralScore": 68,
+        "videoPotentialScore": 80,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 87,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 78,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 45,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 60,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 60,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 87,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 53,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 77,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 100,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why clocks worldwide have added 27 hidden seconds.",
+          "score": 79
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 79",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-182",
+        "slug": "what-quietly-depends-on-positive-train-control-network",
+        "topic": "The Train Safety System That Arrived 5 Years Late",
+        "cluster": "RAIL",
+        "bucket": "A",
+        "viralScore": 69,
+        "videoPotentialScore": 80,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 92,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 78,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 45,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 49,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 80,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 92,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 91,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": -10,
+            "basis": "penalty",
+            "note": "published-title similarity 0.10"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "America's train safety system arrived 5 years late.",
+          "score": 79
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 79",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-276",
+        "slug": "the-hidden-system-behind-vaccine-ultra-low-freezer",
+        "topic": "The Vaccine That Needed −80 °C Freezers",
+        "cluster": "COLD CHAIN",
+        "bucket": "A",
+        "viralScore": 68,
+        "videoPotentialScore": 80,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 84,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 78,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 45,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 57,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 70,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 84,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 79,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 82,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 94,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why one vaccine needed −80 °C freezers.",
+          "score": 81
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 81",
+          "sources 95"
+        ]
+      },
+      {
+        "topicId": "CT-300",
+        "slug": "the-hidden-system-behind-veterinary-vaccine-plant",
+        "topic": "The Cattle Disease Wiped Out by Vaccines",
+        "cluster": "AGRICULTURE",
+        "bucket": "A",
+        "viralScore": 69,
+        "videoPotentialScore": 80,
+        "selectionScore": 73,
+        "viralComponents": {
+          "curiosity_gap": {
+            "value": 91,
+            "basis": "derived"
+          },
+          "immediate_stakes": {
+            "value": 86,
+            "basis": "derived"
+          },
+          "human_consequence": {
+            "value": 55,
+            "basis": "derived"
+          },
+          "recognizability": {
+            "value": 58,
+            "basis": "measured"
+          },
+          "surprise": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "visual_potential": {
+            "value": 91,
+            "basis": "inventory-signal"
+          },
+          "archival_footage_potential": {
+            "value": 35,
+            "basis": "inventory-signal"
+          },
+          "first_frame_potential": {
+            "value": 68,
+            "basis": "derived"
+          },
+          "title_potential": {
+            "value": 85,
+            "basis": "derived",
+            "note": "4 source-backed title seeds"
+          },
+          "emotional_tension": {
+            "value": 73,
+            "basis": "derived"
+          },
+          "contradiction": {
+            "value": 50,
+            "basis": "derived"
+          },
+          "unexpected_cause": {
+            "value": 65,
+            "basis": "derived"
+          },
+          "numerical_anomaly": {
+            "value": 95,
+            "basis": "derived"
+          },
+          "didnt_know_factor": {
+            "value": 83,
+            "basis": "derived"
+          },
+          "shareability": {
+            "value": 72,
+            "basis": "derived"
+          },
+          "channel_fit": {
+            "value": 88,
+            "basis": "derived"
+          },
+          "historical_similarity": {
+            "value": 50,
+            "basis": "neutral",
+            "note": "no same-cluster channel evidence yet"
+          },
+          "duplicate_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "no published-title collision"
+          },
+          "saturation_risk": {
+            "value": 0,
+            "basis": "penalty",
+            "note": "0 published / 18 inventory in cluster"
+          },
+          "source_confidence_risk": {
+            "value": -5,
+            "basis": "penalty",
+            "note": "95/100 source quality"
+          },
+          "weak_footage_risk": {
+            "value": -33,
+            "basis": "penalty",
+            "note": "no archival footage confirmed"
+          }
+        },
+        "selectedHook": {
+          "family": "visual_first_reveal",
+          "spoken": "Why a 100%-lethal cattle plague vanished.",
+          "score": 82
+        },
+        "rejectionReasons": [
+          "VideoPotential 80 ≥ 80",
+          "hook 82",
+          "sources 95"
+        ]
+      }
+    ]
+  },
+  "selected": {
+    "topicId": "CT-043",
+    "slug": "why-nuclear-reactor-coolant-pump-is-so-hard-to-replace",
+    "topic": "The Stuck Valve Behind Three Mile Island",
+    "cluster": "ENERGY",
+    "bucket": "A",
+    "viralScore": 74,
+    "videoPotentialScore": 83,
+    "selectionScore": 78,
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 89,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 77,
+        "basis": "measured"
+      },
+      "surprise": {
+        "value": 50,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 89,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 85,
+        "basis": "derived",
+        "note": "4 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 50,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 92,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 72,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 82,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 18 inventory in cluster"
+      },
+      "source_confidence_risk": {
+        "value": -7,
+        "basis": "penalty",
+        "note": "93/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -33,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "selectedHook": {
+      "family": "visual_first_reveal",
+      "spoken": "Why 6% leftover heat nearly melted a reactor.",
+      "score": 85
+    },
+    "rejectionReasons": [
+      "VideoPotential 83 ≥ 80",
+      "hook 85",
+      "sources 93"
+    ]
+  },
+  "reason": "EXPLOIT (0.75): best A topic by SelectionScore"
+}

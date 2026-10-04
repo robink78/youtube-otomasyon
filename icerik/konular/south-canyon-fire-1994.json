@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Firefighters Cutting Line Downhill Above a Fire",
+  "kaynaklar": [
+    {
+      "ad": "south-canyon-fire-1.jpg",
+      "wikimedia": "Hell's Gate Ridge, Storm King Mountain, CO, South Canyon Fire 1994, No. 1.jpg"
+    },
+    {
+      "ad": "south-canyon-fire-2.jpg",
+      "wikimedia": "South Canyon Fire (1994), Colorado. Aerial Photo West Flank, 1994.1.jpg"
+    },
+    {
+      "ad": "south-canyon-fire-3.png",
+      "wikimedia": "WFSTAR Pt 2 1994 South Canyon Fire on Storm King Mountain 3-36 screenshot.png"
+    },
+    {
+      "ad": "south-canyon-fire-4.jpg",
+      "wikimedia": "Location of the Storm King Fire.jpg"
+    },
+    {
+      "ad": "south-canyon-fire-5.jpg",
+      "wikimedia": "Storm King Mountain Memorial Trail.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On Storm King Mountain in Colorado, a wildfire suddenly exploded uphill.",
+      "kaynak": "Footage/south-canyon-fire-1.jpg"
+    },
+    {
+      "metin": "It overran firefighters, and fourteen of them were killed.",
+      "kaynak": "Footage/south-canyon-fire-2.jpg"
+    },
+    {
+      "metin": "For days, the fire had burned only a few acres.",
+      "kaynak": "Footage/south-canyon-fire-3.png"
+    },
+    {
+      "metin": "Crews built a fireline downhill from the ridge.",
+      "kaynak": "Footage/south-canyon-fire-4.jpg"
+    },
+    {
+      "metin": "A jumper in charge raised safety concerns.",
+      "kaynak": "Footage/south-canyon-fire-5.jpg"
+    },
+    {
+      "metin": "Red flag warnings had been issued.",
+      "kaynak": "Footage/south-canyon-fire-1.jpg"
+    },
+    {
+      "metin": "A cold front arrived and the fire surged.",
+      "kaynak": "Footage/south-canyon-fire-2.jpg"
+    },
+    {
+      "metin": "Wildland firefighter safety rules were reshaped.",
+      "kaynak": "Footage/south-canyon-fire-3.png"
+    }
+  ],
+  "aciklama": "Storm King trapped firefighters on Storm King Mountain. The cause: a spot fire below crews building line downhill as winds rose.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Storm King",
+    "1994",
+    "fireline",
+    "engineering failure"
+  ],
+  "hook": "The fire looked small",
+  "soru": "Why were concerns ignored?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the South Canyon Fire",
+    "kisa": "Storm King",
+    "nesne": "Fireline",
+    "yil": 1994,
+    "sonuc": "trapped firefighters on Storm King Mountain",
+    "tetik": "a cold front driving a surge in fire activity",
+    "mekanizma": "a spot fire below crews building line downhill as winds rose",
+    "sayi": "14 DIED",
+    "ders": "the tragedy reshaped wildland firefighter safety rules",
+    "zincir": [
+      "SMALL FIRE IGNORED FOR DAYS",
+      "CREWS CUT LINE DOWNHILL",
+      "RED FLAG WARNING",
+      "COLD FRONT ARRIVES",
+      "FIRE RUNS UPHILL"
+    ],
+    "zaman": [],
+    "yanilgi": "The fire was small for days. That made it look safe.",
+    "tartisma": "A crew leader raised safety concerns about the downhill line. Why weren't they acted on?",
+    "basliklar": [
+      "Firefighters Cutting Line Downhill Above a Fire",
+      "What Happened on Storm King Mountain",
+      "The Small Fire That Killed 14 Firefighters"
+    ],
+    "kapak": [
+      "14 DIED",
+      "STORM KING"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — South Canyon Fire",
+        "url": "https://en.wikipedia.org/wiki/South_Canyon_Fire"
+      },
+      {
+        "ad": "Government source — 4541 (cited by Wikipedia)",
+        "url": "https://research.fs.usda.gov/treesearch/4541"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "South_Canyon_Fire",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Hell's Gate Ridge, Storm King Mountain, CO, South Canyon Fire 1994, No. 1.jpg [Public domain]",
+      "South Canyon Fire (1994), Colorado. Aerial Photo West Flank, 1994.1.jpg [Public domain]",
+      "WFSTAR Pt 2 1994 South Canyon Fire on Storm King Mountain 3-36 screenshot.png [Public domain]",
+      "Location of the Storm King Fire.jpg [Public domain]",
+      "Storm King Mountain Memorial Trail.JPG [CC BY 4.0]"
+    ]
+  }
+}

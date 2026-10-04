@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Anchor Handler Pulled Over by Its Own Chain",
+  "kaynaklar": [
+    {
+      "ad": "bourbon-dolphin-1.png",
+      "wikimedia": "Blason duche fr Bourbon (Beaujolais).png"
+    },
+    {
+      "ad": "bourbon-dolphin-2.png",
+      "wikimedia": "Blason comte fr Montpensier (Bourbon).png"
+    },
+    {
+      "ad": "bourbon-dolphin-3.png",
+      "wikimedia": "Blason comte fr Montpensier (Bourbon2).png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An anchor handling vessel capsized in the North Sea.",
+      "kaynak": "Footage/bourbon-dolphin-1.png"
+    },
+    {
+      "metin": "It rolled over while working, and members of its crew were killed.",
+      "kaynak": "Footage/bourbon-dolphin-2.png"
+    },
+    {
+      "metin": "It was moving a heavy anchor chain for an oil rig.",
+      "kaynak": "Footage/bourbon-dolphin-3.png"
+    },
+    {
+      "metin": "The chain drifted off to the side.",
+      "kaynak": "Footage/bourbon-dolphin-1.png"
+    },
+    {
+      "metin": "Its enormous weight pulled the ship sideways.",
+      "kaynak": "Footage/bourbon-dolphin-2.png"
+    },
+    {
+      "metin": "The ship heeled beyond recovery.",
+      "kaynak": "Footage/bourbon-dolphin-3.png"
+    },
+    {
+      "metin": "Its new captain had only ninety minutes to take over.",
+      "kaynak": "Footage/bourbon-dolphin-1.png"
+    },
+    {
+      "metin": "An inquiry questioned whether ship and crew were ready for such deep water.",
+      "kaynak": "Footage/bourbon-dolphin-2.png"
+    }
+  ],
+  "aciklama": "Bourbon Dolphin capsized while handling a rig's anchor. The cause: loss of stability from chain tension at a steep angle during anchor handling.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Bourbon Dolphin",
+    "2007",
+    "anchor chain",
+    "engineering failure"
+  ],
+  "hook": "Its own chain pulled it over",
+  "soru": "How much experience is enough?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Bourbon Dolphin",
+    "kisa": "Bourbon Dolphin",
+    "nesne": "Anchor chain",
+    "yil": 2007,
+    "sonuc": "capsized while handling a rig's anchor",
+    "tetik": "a heavy anchor chain pulling the ship sideways",
+    "mekanizma": "loss of stability from chain tension at a steep angle during anchor handling",
+    "sayi": "PULLED OVER",
+    "ders": "an inquiry questioned whether the vessel and crew were ready for deep-water anchor handling",
+    "zincir": [
+      "DEEP-WATER ANCHOR JOB",
+      "CHAIN DRIFTS OFF LINE",
+      "LOAD PULLS SIDEWAYS",
+      "SHIP HEELS",
+      "CAPSIZES"
+    ],
+    "zaman": [],
+    "yanilgi": "The sea wasn't the main problem. The chain's sideways pull overcame the ship's stability.",
+    "tartisma": "The vessel was new and the crew relatively inexperienced with it. How much experience should a hazardous job require?",
+    "basliklar": [
+      "The Anchor Handler Pulled Over by Its Own Chain",
+      "Why the Bourbon Dolphin Capsized",
+      "The Chain That Pulled a Ship Over"
+    ],
+    "kapak": [
+      "PULLED OVER",
+      "ANCHOR CHAIN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Bourbon Dolphin",
+        "url": "https://en.wikipedia.org/wiki/Bourbon_Dolphin"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — 6550077.stm (cited by Wikipedia)",
+        "url": "http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/6550077.stm"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15b",
+    "wiki": "Bourbon_Dolphin",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Blason duche fr Bourbon (Beaujolais).png [Public domain]",
+      "Blason comte fr Montpensier (Bourbon).png [Public domain]",
+      "Blason comte fr Montpensier (Bourbon2).png [Public domain]"
+    ]
+  }
+}

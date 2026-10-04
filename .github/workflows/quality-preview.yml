@@ -1,0 +1,100 @@
+name: Shorts quality preview
+
+# Renders one Short per channel on the production path WITHOUT uploading,
+# committing or notifying, and keeps the MP4s as an artifact for review.
+# Runs on pushes to shorts-quality branches and on demand.
+on:
+  push:
+    branches: ['feat/shorts-quality**']
+  workflow_dispatch:
+    inputs:
+      fr_slug:
+        description: Failure Reconstructed topic slug
+        default: lower-van-norman-dam-1971
+      ib_slug:
+        description: ImpossibleBrief topic slug
+        default: what-if-we-swam-in-europas-ocean
+      ct_slug:
+        description: CriticalThread topic slug
+        default: inside-the-system-built-around-road-tunnel-ventilation-system
+      bto_slug:
+        description: The Hidden Logic of Things topic slug
+        default: why-jeans-have-a-tiny-pocket
+
+permissions:
+  contents: read
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        channel: [failure-reconstructed, impossible-brief, critical-thread, behind-the-ordinary]
+    env:
+      PEXELS_KEY: ${{ secrets.PEXELS_KEY }}
+      FR_SLUG: ${{ inputs.fr_slug || 'lower-van-norman-dam-1971' }}
+      IB_SLUG: ${{ inputs.ib_slug || 'what-if-we-swam-in-europas-ocean' }}
+      CT_SLUG: ${{ inputs.ct_slug || 'inside-the-system-built-around-road-tunnel-ventilation-system' }}
+      BTO_SLUG: ${{ inputs.bto_slug || 'why-jeans-have-a-tiny-pocket' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: ffmpeg + fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends ffmpeg fonts-dejavu-core fonts-liberation
+          npm install --no-audit --no-fund
+      - name: Render without upload
+        env:
+          PUBLISH: '0'
+          SAGLIK_ATLA: '1'
+          CHANNEL: ${{ matrix.channel }}
+        run: |
+          mkdir -p preview
+          if [ "$CHANNEL" = "failure-reconstructed" ]; then
+            node shorts-sira.js --channel failure-reconstructed "$FR_SLUG"
+            cp "uretim/$FR_SLUG/Videos/$FR_SLUG.mp4" preview/
+            cp "icerik/paket/$FR_SLUG/quality-gate.json" "preview/$FR_SLUG.quality-gate.json" 2>/dev/null || true
+            cp "uretim/$FR_SLUG/Videos/denetim.json" "preview/$FR_SLUG.denetim.json" 2>/dev/null || true
+          else
+            if [ "$CHANNEL" = "impossible-brief" ]; then
+              SLUG="$IB_SLUG"
+            elif [ "$CHANNEL" = "critical-thread" ]; then
+              SLUG="$CT_SLUG"
+            else
+              SLUG="$BTO_SLUG"
+            fi
+            node scripts/quality-preview.js --channel "$CHANNEL" "$SLUG"
+            DIR="channels/$CHANNEL/reports/previews/$SLUG"
+            cp "$DIR/$SLUG.mp4" preview/
+            cp "$DIR/render.json" "preview/$SLUG.render.json"
+            cp "$DIR/metadata.json" "preview/$SLUG.metadata.json"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: preview-${{ matrix.channel }}
+          path: preview/
+          if-no-files-found: warn
+          retention-days: 14
+
+  voice-samples:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --no-audit --no-fund
+      - name: Read one line in each free Edge voice
+        run: node scripts/voice-samples.js voice-samples
+      - uses: actions/upload-artifact@v4
+        with:
+          name: voice-samples
+          path: voice-samples/
+          retention-days: 14

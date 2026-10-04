@@ -1,0 +1,1757 @@
+{
+  "channel": "impossible-brief",
+  "records": [
+    {
+      "slug": "what-if-a-lake-exploded",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If a Lake Exploded?",
+      "hook": "A lake once exploded and killed 1,746 people.",
+      "openingLine": "A lake once exploded and killed 1,746 people.",
+      "secondBeat": "It didn't burst with water. It burst with CO2.",
+      "scientificMechanism": "deep lake water can hold dissolved CO2 under pressure; if it mixes upward, the gas escapes all at once",
+      "scenarioChange": "a CO2-saturated lake overturned suddenly",
+      "expectedConsequence": "a dense gas cloud flows down valleys and suffocates people and animals",
+      "coreQuestion": "If a lake exploded with gas, how could it kill people miles away?",
+      "misconception": "Lake Nyos didn't explode with water or fire; it released a silent, heavy cloud of carbon dioxide.",
+      "number": "1,746 deaths",
+      "thumbnailText": "THE KILLER LAKE",
+      "visualScenes": [
+        "Lake Nyos in its crater",
+        "CO2 bubbles rising from deep water",
+        "gas cloud flowing down valleys",
+        "density comparison of CO2 and air",
+        "degassing pipe fountain",
+        "map of affected villages"
+      ],
+      "editorialTitles": [
+        "The Lake That Suddenly Released a Deadly Cloud",
+        "Why Lake Nyos Was So Deadly"
+      ],
+      "facts": [
+        {
+          "claim": "On 21 August 1986, a limnic eruption at Lake Nyos in northwestern Cameroon killed 1,746 people and 3,500 livestock.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lake Nyos disaster",
+          "url": "https://en.wikipedia.org/wiki/Lake_Nyos_disaster"
+        },
+        {
+          "claim": "The eruption triggered the sudden release of about 100,000–300,000 tons of carbon dioxide (CO2).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lake Nyos disaster",
+          "url": "https://en.wikipedia.org/wiki/Lake_Nyos_disaster"
+        },
+        {
+          "claim": "The supersaturated deep water rapidly mixed with the upper layers of the lake, where the reduced pressure allowed the stored CO2 to effervesce out of solution.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lake Nyos disaster",
+          "url": "https://en.wikipedia.org/wiki/Lake_Nyos_disaster"
+        },
+        {
+          "claim": "Since carbon dioxide is 50% more dense than air, the cloud hugged the ground and moved down the valleys, where there were various villages.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lake Nyos disaster",
+          "url": "https://en.wikipedia.org/wiki/Lake_Nyos_disaster"
+        },
+        {
+          "claim": "A degassing system has since been installed at the lake, with the aim of reducing the concentration of CO2 in the waters.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lake Nyos disaster",
+          "url": "https://en.wikipedia.org/wiki/Lake_Nyos_disaster"
+        }
+      ],
+      "narration": [
+        {
+          "text": "A lake once exploded and killed 1,746 people.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It didn't burst with water. It burst with CO2.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Lake Nyos released 100,000 to 300,000 tons of carbon dioxide.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its deep water was supersaturated, like a shaken soda.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Once mixed upward, the gas fizzed out of solution.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "CO2 is 50% denser than air, so the cloud hugged valleys.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Villagers below had no warning and nothing to breathe.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Pipes now vent the gas slowly to prevent a repeat.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-earth-froze-over-completely",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If Earth Froze Over Completely?",
+      "hook": "Earth may have frozen to the equator before.",
+      "openingLine": "Earth may have frozen to the equator before.",
+      "secondBeat": "Scientists call it Snowball Earth, over 650 million years ago.",
+      "scientificMechanism": "ice reflects sunlight; past a threshold, spreading ice cools the planet enough to spread further",
+      "scenarioChange": "ice sheets advanced all the way to the equator",
+      "expectedConsequence": "a planet-wide freeze that only volcanic CO2 build-up could eventually break",
+      "coreQuestion": "If Earth froze over completely, how would it ever thaw?",
+      "misconception": "Earth's climate doesn't only have warming tipping points; ice can run away too.",
+      "number": "650 million years",
+      "thumbnailText": "SNOWBALL EARTH",
+      "visualScenes": [
+        "Earth covered in ice to the equator",
+        "ice-albedo feedback loop",
+        "latitude line at 25 to 30 degrees",
+        "glacial rocks in tropical strata",
+        "volcanoes venting through ice",
+        "timeline of the Cryogenian"
+      ],
+      "editorialTitles": [
+        "When Earth Froze to the Equator",
+        "Why Ice Can Run Away on a Planet"
+      ],
+      "facts": [
+        {
+          "claim": "The snowball Earth hypothesis postulates that the planet's surface froze more than 650 Ma.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Snowball Earth",
+          "url": "https://en.wikipedia.org/wiki/Snowball_Earth"
+        },
+        {
+          "claim": "According to modelling, an ice–albedo feedback would result in glacial ice rapidly advancing to the equator once the glaciers spread to within 25° to 30° of the equator.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Snowball Earth",
+          "url": "https://en.wikipedia.org/wiki/Snowball_Earth"
+        },
+        {
+          "claim": "Palaeomagnetic measurements have indicated that some sediments of glacial origin were deposited within 10 degrees of the equator, although the accuracy of this reconstruction is in question.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Snowball Earth",
+          "url": "https://en.wikipedia.org/wiki/Snowball_Earth"
+        },
+        {
+          "claim": "A record from Oman covers the period from 712 to 545 million years ago, a time span containing the Sturtian and Marinoan glaciations.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Snowball Earth",
+          "url": "https://en.wikipedia.org/wiki/Snowball_Earth"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Earth may have frozen to the equator before.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Scientists call it Snowball Earth, over 650 million years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Ice reflects sunlight, which cools the planet further.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Models show ice runs away once it reaches 25 to 30 degrees of the equator.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Some glacial rocks may have formed within 10 degrees of the equator.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Escaping it would need volcanic CO2 to build up for ages.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Life survived anyway, in pockets we still debate.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Earth's climate has a freezing tipping point, not just a warming one.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-sea-just-disappeared",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If a Sea Just Disappeared?",
+      "hook": "Why a sea shrank to 25% without a drought.",
+      "openingLine": "Why a sea shrank to 25% without a drought.",
+      "secondBeat": "It was the world's fourth-largest lake in 1960.",
+      "scientificMechanism": "a lake with no outlet stays full only while river inflow matches evaporation",
+      "scenarioChange": "the rivers feeding a large inland sea were diverted",
+      "expectedConsequence": "the sea shrinks, salinity soars and fisheries collapse",
+      "coreQuestion": "If a sea's rivers were diverted, how fast could it disappear?",
+      "misconception": "The Aral Sea didn't dry up from drought; its rivers were diverted for irrigation.",
+      "number": "25%",
+      "thumbnailText": "A SEA VANISHES",
+      "visualScenes": [
+        "satellite images of the Aral Sea 1960 to 2004",
+        "irrigation canals through cotton fields",
+        "stranded ships on dry seabed",
+        "salinity rising chart",
+        "North Aral dam",
+        "fishing boats returning"
+      ],
+      "editorialTitles": [
+        "How the Aral Sea Disappeared",
+        "Why a Sea Can Vanish Without a Drought"
+      ],
+      "facts": [
+        {
+          "claim": "In 1960, the Aral Sea had been the world's fourth-largest lake with an area of 68,000 km2 (26,000 sq mi) and a volume of 1,100 km3.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Aral Sea",
+          "url": "https://en.wikipedia.org/wiki/Aral_Sea"
+        },
+        {
+          "claim": "In 2004, the sea's surface area was 17,160 km2 (6,630 sq mi), 25% of its original size, and a nearly fivefold increase in salinity had killed most of its flora and fauna.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Aral Sea",
+          "url": "https://en.wikipedia.org/wiki/Aral_Sea"
+        },
+        {
+          "claim": "Large scale construction of irrigation canals first began in the 1930s and was greatly increased in the 1960s.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Aral Sea",
+          "url": "https://en.wikipedia.org/wiki/Aral_Sea"
+        },
+        {
+          "claim": "The North Aral Sea's surface increased from 2,550 square kilometers in 2003 to 3,300 square kilometers in 2008.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Aral Sea",
+          "url": "https://en.wikipedia.org/wiki/Aral_Sea"
+        },
+        {
+          "claim": "By 1988, Uzbekistan was the world's largest exporter of cotton.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Aral Sea",
+          "url": "https://en.wikipedia.org/wiki/Aral_Sea"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a sea shrank to 25% without a drought.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It was the world's fourth-largest lake in 1960.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It covered 68,000 square kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Soviet irrigation diverted its rivers to grow cotton.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "By 2004, it was down to 17,160 square kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Salinity rose nearly fivefold, killing most fish and plants.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "A dam has since let the North Aral partly recover.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a sea can vanish without a drought, just by thirst upstream.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-amazon-rainforest-disappeared",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Amazon Rainforest Disappeared?",
+      "hook": "Why the Amazon isn't really the planet's lungs.",
+      "openingLine": "Why the Amazon isn't really the planet's lungs.",
+      "secondBeat": "The famous quarter-of-oxygen figure is really turnover.",
+      "scientificMechanism": "a mature forest consumes nearly as much oxygen as it produces, but stores vast carbon and biodiversity",
+      "scenarioChange": "the Amazon rainforest was cleared",
+      "expectedConsequence": "no oxygen crisis, but a large carbon release and mass extinction",
+      "coreQuestion": "If the Amazon disappeared, would we run out of air, or lose something else?",
+      "misconception": "The Amazon doesn't supply a quarter of Earth's oxygen; that figure refers to oxygen turnover.",
+      "number": "6 million km²",
+      "thumbnailText": "THE AMAZON MYTH",
+      "visualScenes": [
+        "aerial view of rainforest canopy",
+        "oxygen in and out balance diagram",
+        "map of the Amazon across nine countries",
+        "insect diversity close-ups",
+        "deforestation edge",
+        "carbon stored in trees graphic"
+      ],
+      "editorialTitles": [
+        "What Losing the Amazon Would Really Cost",
+        "Why the Amazon Isn't the Lungs of the Planet"
+      ],
+      "facts": [
+        {
+          "claim": "Though often referenced as producing more than a quarter of the Earth's oxygen, this often stated, but misused statistic actually refers to oxygen turnover.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Amazon rainforest",
+          "url": "https://en.wikipedia.org/wiki/Amazon_rainforest"
+        },
+        {
+          "claim": "This basin encompasses 7 million km2 (2.7 million sq mi), of which 6 million km2 (2.3 million sq mi) are covered by the rainforest.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Amazon rainforest",
+          "url": "https://en.wikipedia.org/wiki/Amazon_rainforest"
+        },
+        {
+          "claim": "The majority of the forest, 60%, is in Brazil, followed by Peru with 13%, Colombia with 10%.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Amazon rainforest",
+          "url": "https://en.wikipedia.org/wiki/Amazon_rainforest"
+        },
+        {
+          "claim": "The region is home to about 2.5 million insect species, tens of thousands of plants, and some 2,000 birds and mammals.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Amazon rainforest",
+          "url": "https://en.wikipedia.org/wiki/Amazon_rainforest"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the Amazon isn't really the planet's lungs.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The famous quarter-of-oxygen figure is really turnover.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The forest covers about 6 million square kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "About 60% of it lies in Brazil.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It holds around 2.5 million insect species.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Losing it wouldn't suffocate us, but it would release huge carbon stores.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "It would also erase species found nowhere else.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the Amazon's real value is carbon and life, not air.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-could-feel-neutrinos",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If You Could Feel Neutrinos?",
+      "hook": "65 billion neutrinos pass through your fingertip every second.",
+      "openingLine": "65 billion neutrinos pass through your fingertip every second.",
+      "secondBeat": "You never feel them. Almost none ever hit anything.",
+      "scientificMechanism": "neutrinos interact only through the weak force, so almost all pass through matter untouched",
+      "scenarioChange": "neutrinos interacted with matter as strongly as light",
+      "expectedConsequence": "a constant, planet-penetrating glare from the Sun, day and night",
+      "coreQuestion": "If you could feel neutrinos, what would the constant stream through your body be like?",
+      "misconception": "Neutrinos aren't rare; tens of billions cross each square centimetre of you every second.",
+      "number": "65 billion/s",
+      "thumbnailText": "65 BILLION/SECOND",
+      "visualScenes": [
+        "neutrinos streaming through a hand",
+        "Sun's core fusion diagram",
+        "neutrinos passing through Earth at night",
+        "detector tank lined with sensors",
+        "supernova 1987A image",
+        "particle mass comparison chart"
+      ],
+      "editorialTitles": [
+        "The Invisible Particles Passing Through You",
+        "Why 65 Billion Neutrinos Don't Hurt"
+      ],
+      "facts": [
+        {
+          "claim": "Each second, about 65 billion solar neutrinos pass through every square centimeter on the part of the Earth orthogonal to the direction of the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neutrino",
+          "url": "https://en.wikipedia.org/wiki/Neutrino"
+        },
+        {
+          "claim": "From calculations based on cosmological models, the sum of the three neutrino masses must be below 0.120 eV/c2.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neutrino",
+          "url": "https://en.wikipedia.org/wiki/Neutrino"
+        },
+        {
+          "claim": "Koshiba's work resulted in the first real-time observation of neutrinos from the SN 1987A supernova in the nearby Large Magellanic Cloud.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neutrino",
+          "url": "https://en.wikipedia.org/wiki/Neutrino"
+        },
+        {
+          "claim": "SN 1987A represents the only verified detection of neutrinos from a supernova.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Neutrino",
+          "url": "https://en.wikipedia.org/wiki/Neutrino"
+        }
+      ],
+      "narration": [
+        {
+          "text": "65 billion neutrinos pass through your fingertip every second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "You never feel them. Almost none ever hit anything.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "They stream from fusion in the Sun's core.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "At night, they pass through Earth and reach you from below.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The three neutrino masses add up to under 0.120 electronvolts.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 1987, detectors caught neutrinos from a supernova.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "If they interacted like light, the Sun would glare through the ground at night.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So one of the most common particles around you goes unnoticed.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-toilets-really-flushed-backwards-down-under",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If Toilets Really Flushed Backwards Down Under?",
+      "hook": "Why Earth's spin can't steer your toilet.",
+      "openingLine": "Why Earth's spin can't steer your toilet.",
+      "secondBeat": "Identical toilets drain the same way in both hemispheres.",
+      "scientificMechanism": "the Coriolis effect depends on scale and time; in a sink it is swamped by the container's shape and leftover motion",
+      "scenarioChange": "the Coriolis effect controlled household drains",
+      "expectedConsequence": "it doesn't: only carefully stilled tanks, draining slowly, show the effect",
+      "coreQuestion": "If the Coriolis effect ruled your drain, would toilets flush backwards in Australia?",
+      "misconception": "Toilets and sinks don't drain in opposite directions in each hemisphere; the bowl's shape decides.",
+      "number": "20 minutes",
+      "thumbnailText": "THE TOILET MYTH",
+      "visualScenes": [
+        "toilet swirling in both hemispheres side by side",
+        "Coriolis deflection on a globe",
+        "bowl jet geometry diagram",
+        "still tank with a floating cross",
+        "hurricane spinning from space",
+        "scale comparison: sink versus storm"
+      ],
+      "editorialTitles": [
+        "Do Toilets Flush Backwards in Australia?",
+        "Why Earth's Spin Steers Storms, Not Sinks"
+      ],
+      "facts": [
+        {
+          "claim": "Contrary to popular misconception, bathtubs, toilets, and other water receptacles do not drain in opposite directions in the Northern and Southern Hemispheres.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Coriolis force",
+          "url": "https://en.wikipedia.org/wiki/Coriolis_force"
+        },
+        {
+          "claim": "Identical toilets flushed in both hemispheres drain in the same direction, and this direction is determined mostly by the shape of the toilet bowl.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Coriolis force",
+          "url": "https://en.wikipedia.org/wiki/Coriolis_force"
+        },
+        {
+          "claim": "The theory that the effect determines the rotation of draining water in a household bathtub, sink or toilet has been repeatedly disproven.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Coriolis force",
+          "url": "https://en.wikipedia.org/wiki/Coriolis_force"
+        },
+        {
+          "claim": "In a carefully prepared experiment, it takes 20 minutes to drain, and the cross starts turning only around 15 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Coriolis force",
+          "url": "https://en.wikipedia.org/wiki/Coriolis_force"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Earth's spin can't steer your toilet.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Identical toilets drain the same way in both hemispheres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The bowl's shape sets the swirl, not Earth's spin.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The Coriolis effect is real, but tiny at sink scale.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In one careful test, a still tank took 20 minutes to drain.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Only after about 15 minutes did Earth's rotation show.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "At hurricane scale, though, it sets the direction of the spin.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Earth's rotation steers storms, not your bathroom.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-lightning-were-hotter-than-the-sun",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If Lightning Were Hotter Than the Sun?",
+      "hook": "Lightning heats air to 30,000 °C.",
+      "openingLine": "Lightning heats air to 30,000 °C.",
+      "secondBeat": "The Sun's surface is only about 5,800 kelvin.",
+      "scientificMechanism": "a lightning channel carries tens of thousands of amperes, heating air almost instantly",
+      "scenarioChange": "you could stand next to a lightning channel",
+      "expectedConsequence": "the air heats beyond the Sun's surface temperature and explodes outward as thunder",
+      "coreQuestion": "Is a lightning bolt really hotter than the surface of the Sun?",
+      "misconception": "Thunder isn't clouds colliding; it's air expanding explosively from lightning's heat.",
+      "number": "30,000 °C",
+      "thumbnailText": "HOTTER THAN SUN",
+      "visualScenes": [
+        "lightning bolt over a city",
+        "temperature comparison: lightning versus Sun surface",
+        "current flow diagram in a channel",
+        "positive versus negative lightning",
+        "shockwave expanding into thunder",
+        "storm cloud cross-section"
+      ],
+      "editorialTitles": [
+        "Why Lightning Is Hotter Than the Sun's Surface",
+        "What Makes Thunder"
+      ],
+      "facts": [
+        {
+          "claim": "The air around the lightning flash rapidly heats to temperatures of about 30,000 °C (54,000 °F).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lightning",
+          "url": "https://en.wikipedia.org/wiki/Lightning"
+        },
+        {
+          "claim": "An average bolt of negative lightning creates an electric current of 30,000 amperes (30 kA), transferring a total 15 C of electric charge and 1 gigajoule of energy.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lightning",
+          "url": "https://en.wikipedia.org/wiki/Lightning"
+        },
+        {
+          "claim": "Positive lightning is less common than negative lightning and on average makes up less than 5% of all lightning strikes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lightning",
+          "url": "https://en.wikipedia.org/wiki/Lightning"
+        },
+        {
+          "claim": "The average positive ground flash has roughly double the peak current of a typical negative flash, and can produce peak currents up to 400 kA.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lightning",
+          "url": "https://en.wikipedia.org/wiki/Lightning"
+        },
+        {
+          "claim": "By contrast, the Sun's surface temperature is about 5800 K.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sun",
+          "url": "https://en.wikipedia.org/wiki/Sun"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Lightning heats air to 30,000 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The Sun's surface is only about 5,800 kelvin.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "An average bolt carries 30,000 amperes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It moves about 1 gigajoule of energy.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Positive lightning is rarer, under 5% of strikes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "But it can peak at 400 kiloamperes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The heated air explodes outward, and that shockwave is thunder.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So every flash is briefly hotter than the Sun's surface.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-jumped-from-the-edge-of-space",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Jumped From the Edge of Space?",
+      "hook": "Why one skydiver broke the sound barrier.",
+      "openingLine": "Why one skydiver broke the sound barrier.",
+      "secondBeat": "Felix Baumgartner jumped from 38,969 metres up.",
+      "scientificMechanism": "thin air at high altitude creates little drag, so a falling body accelerates far beyond normal terminal velocity",
+      "scenarioChange": "a person jumped from the stratosphere",
+      "expectedConsequence": "a supersonic free fall, survivable only in a pressure suit",
+      "coreQuestion": "If you jumped from the edge of space, how fast would you fall?",
+      "misconception": "Terminal velocity isn't fixed; in thin air, a falling person can break the sound barrier.",
+      "number": "Mach 1.25",
+      "thumbnailText": "FASTER THAN SOUND",
+      "visualScenes": [
+        "capsule at 38 km altitude",
+        "jumper stepping off",
+        "speed climbing past Mach 1",
+        "air density versus altitude chart",
+        "pressure suit cutaway",
+        "parachute opening over desert"
+      ],
+      "editorialTitles": [
+        "The Man Who Fell Faster Than Sound",
+        "Why Thin Air Let a Skydiver Go Supersonic"
+      ],
+      "facts": [
+        {
+          "claim": "Reaching 1,357.64 km/h (843.6 mph), Mach 1.25, Baumgartner broke the sound barrier on his descent, becoming the first human being to do so without any form of engine power.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Red Bull Stratos",
+          "url": "https://en.wikipedia.org/wiki/Red_Bull_Stratos"
+        },
+        {
+          "claim": "With a final altitude of 38,969 m (127,851 ft; 24 mi), Baumgartner broke the unofficial record for the highest manned balloon flight.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Red Bull Stratos",
+          "url": "https://en.wikipedia.org/wiki/Red_Bull_Stratos"
+        },
+        {
+          "claim": "The normal terminal velocity of a skydiver freeflying is about 320 km/h (200 mph or 90 m/s), but the high altitude with less-dense atmosphere would decrease drag.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Red Bull Stratos",
+          "url": "https://en.wikipedia.org/wiki/Red_Bull_Stratos"
+        },
+        {
+          "claim": "Baumgartner deployed his parachute after 4 minutes and 19 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Red Bull Stratos",
+          "url": "https://en.wikipedia.org/wiki/Red_Bull_Stratos"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one skydiver broke the sound barrier.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Felix Baumgartner jumped from 38,969 metres up.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "He reached 1,357.64 kilometres per hour, Mach 1.25.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Thin air meant little drag, so he kept accelerating.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "A normal skydiver tops out near 320 kilometres per hour.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "He opened his parachute after 4 minutes and 19 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Without a pressure suit, the low pressure would have been fatal.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the edge of space lets a human outrun sound.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-stopped-eating-for-a-year",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Stopped Eating for a Year?",
+      "hook": "One man went 382 days without solid food.",
+      "openingLine": "One man went 382 days without solid food.",
+      "secondBeat": "Angus Barbieri did it under medical supervision.",
+      "scientificMechanism": "during a prolonged fast the body runs mainly on stored fat, which needs medical monitoring to be survivable",
+      "scenarioChange": "a person fasted for over a year under medical supervision",
+      "expectedConsequence": "massive fat loss without ill effects in that case, but only with close supervision",
+      "coreQuestion": "If you stopped eating for a year, could your body survive on its own fat?",
+      "misconception": "Barbieri's fast wasn't unsupervised endurance; doctors monitored him throughout. Don't try it.",
+      "number": "382 days",
+      "thumbnailText": "382 DAYS FASTING",
+      "visualScenes": [
+        "calendar pages from 1965 to 1966",
+        "before and after weight graphic",
+        "fat stores as energy diagram",
+        "hospital blood test",
+        "weight chart falling to 82 kg",
+        "doctor monitoring a patient"
+      ],
+      "editorialTitles": [
+        "The Man Who Didn't Eat for 382 Days",
+        "How a Body Survived a Year Without Food"
+      ],
+      "facts": [
+        {
+          "claim": "Angus Barbieri was a Scottish man who fasted for 382 days, from 14 June 1965 to 30 June 1966.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Angus Barbieri's fast",
+          "url": "https://en.wikipedia.org/wiki/Angus_Barbieri's_fast"
+        },
+        {
+          "claim": "Barbieri went from almost 456 pounds (207 kg) to 180 pounds (82 kg), losing 276 pounds (125 kg) and setting a record for the length of a fast.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Angus Barbieri's fast",
+          "url": "https://en.wikipedia.org/wiki/Angus_Barbieri's_fast"
+        },
+        {
+          "claim": "Barbieri began his treatment in the hospital but for most of the 382 days lived at home, visiting the hospital for outpatient checkups, including blood and urine samples.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Angus Barbieri's fast",
+          "url": "https://en.wikipedia.org/wiki/Angus_Barbieri's_fast"
+        },
+        {
+          "claim": "A 1973 study found that Barbieri maintained a healthy weight of 196 pounds (89 kg), concluding that prolonged fasting in this patient had no ill-effects.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Angus Barbieri's fast",
+          "url": "https://en.wikipedia.org/wiki/Angus_Barbieri's_fast"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One man went 382 days without solid food.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Angus Barbieri did it under medical supervision.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "He started at 207 kilograms.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "He finished at 82, losing 125 kilograms.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "His body burned stored fat for energy, day after day.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Doctors checked his blood and urine throughout.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Years later, he had kept a healthy weight of 89 kilograms.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So stored fat can fuel a body for a year, but only with doctors watching.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-stayed-on-everests-summit",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Stayed on Everest's Summit?",
+      "hook": "Above 8,000 metres, your body starts dying.",
+      "openingLine": "Above 8,000 metres, your body starts dying.",
+      "secondBeat": "Climbers call it the death zone.",
+      "scientificMechanism": "oxygen's partial pressure falls with altitude, and above about 8,000 m the body cannot adapt",
+      "scenarioChange": "a climber stayed at the summit instead of descending",
+      "expectedConsequence": "steady deterioration of brain and lungs; survival depends on getting down",
+      "coreQuestion": "If you stayed on Everest's summit, how long could your body cope?",
+      "misconception": "The air at the summit isn't lower in oxygen percentage; its pressure is what drops.",
+      "number": "8,000 m",
+      "thumbnailText": "THE DEATH ZONE",
+      "visualScenes": [
+        "climbers on the summit ridge",
+        "oxygen pressure versus altitude curve",
+        "base camp at 5,000 m",
+        "blood oxygen saturation graph",
+        "oxygen bottle and mask",
+        "descent route map"
+      ],
+      "editorialTitles": [
+        "What the Death Zone Does to Your Body",
+        "Why No One Can Live on Everest's Summit"
+      ],
+      "facts": [
+        {
+          "claim": "Mountaineers refer to the altitudes above 8,000 metres (26,000 ft) as the death zone, where it is generally believed that no human body can acclimatize.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Effects of high altitude on humans",
+          "url": "https://en.wikipedia.org/wiki/Effects_of_high_altitude_on_humans"
+        },
+        {
+          "claim": "Oxygen partial pressure is about half of its sea-level value at 5,000 m, the altitude of the Everest Base Camp, and only a third at 8,848 m, the summit of Mount Everest.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Effects of high altitude on humans",
+          "url": "https://en.wikipedia.org/wiki/Effects_of_high_altitude_on_humans"
+        },
+        {
+          "claim": "After the human body reaches around 2,100 metres (6,900 ft) above sea level, the saturation of oxyhemoglobin begins to decrease rapidly.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Effects of high altitude on humans",
+          "url": "https://en.wikipedia.org/wiki/Effects_of_high_altitude_on_humans"
+        },
+        {
+          "claim": "The concentration of oxygen (O2) in sea-level air is 20.9%, so the partial pressure of O2 is 21.136 kilopascals.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Effects of high altitude on humans",
+          "url": "https://en.wikipedia.org/wiki/Effects_of_high_altitude_on_humans"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Above 8,000 metres, your body starts dying.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Climbers call it the death zone.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "No human body can acclimatize up there.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "On Everest's summit, oxygen pressure is a third of sea level's.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Even at base camp, 5,000 metres up, it's about half.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Blood oxygen starts dropping sharply above 2,100 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Stay too long, and brain and lungs begin to fail.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Everest's summit is a place you visit, never a place you stay.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-lived-on-mars",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Lived on Mars?",
+      "hook": "Why Mars's 38% gravity is the easy part.",
+      "openingLine": "Why Mars's 38% gravity is the easy part.",
+      "secondBeat": "The air there is 0.6% of Earth's pressure.",
+      "scientificMechanism": "Mars's thin atmosphere and lack of a global magnetic field leave its surface cold, low-pressure and exposed to radiation",
+      "scenarioChange": "people settled on the Martian surface",
+      "expectedConsequence": "every habitat needs pressure, shielding and soil treatment to keep people alive",
+      "coreQuestion": "If you lived on Mars, what would be harder: the low gravity or everything else?",
+      "misconception": "Mars's gravity isn't the main problem; the thin air, radiation and toxic soil are.",
+      "number": "38% gravity",
+      "thumbnailText": "LIFE ON MARS",
+      "visualScenes": [
+        "astronaut on red dust plains",
+        "gravity comparison scale",
+        "pressure gauge near zero",
+        "temperature swing chart",
+        "perchlorate in soil diagram",
+        "habitat buried under regolith"
+      ],
+      "editorialTitles": [
+        "What Living on Mars Would Really Be Like",
+        "Why Mars's Gravity Is the Easy Part"
+      ],
+      "facts": [
+        {
+          "claim": "Mars has about 15% of Earth's volume and 11% of Earth's mass, resulting in about 38% of Earth's surface gravity.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mars",
+          "url": "https://en.wikipedia.org/wiki/Mars"
+        },
+        {
+          "claim": "The resulting mean surface pressure is only 0.6% of Earth's 101.3 kPa (14.69 psi).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mars",
+          "url": "https://en.wikipedia.org/wiki/Mars"
+        },
+        {
+          "claim": "At the average surface level the atmospheric temperature ranges from −153 to 20 °C, and cosmic radiation is high.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mars",
+          "url": "https://en.wikipedia.org/wiki/Mars"
+        },
+        {
+          "claim": "The Martian soil has a basic pH of 7.7, and contains 0.6% perchlorate by weight, concentrations that are toxic to humans.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Mars",
+          "url": "https://en.wikipedia.org/wiki/Mars"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Mars's 38% gravity is the easy part.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The air there is 0.6% of Earth's pressure.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Mars has 11% of Earth's mass.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Temperatures swing from −153 to 20 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its soil holds 0.6% perchlorate, toxic to humans.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Cosmic radiation at the surface is high.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So every Martian home would need pressure, shielding and filters.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So on Mars, the hard part is simply staying alive.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-swam-in-europas-ocean",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If We Swam in Europa's Ocean?",
+      "hook": "Europa hides more water than all Earth's oceans.",
+      "openingLine": "Europa hides more water than all Earth's oceans.",
+      "secondBeat": "It's under an icy shell on a moon of Jupiter.",
+      "scientificMechanism": "tidal flexing by Jupiter keeps a salty ocean liquid beneath Europa's ice shell",
+      "scenarioChange": "explorers reached Europa's buried ocean",
+      "expectedConsequence": "a vast, dark ocean that could host life, reachable only through ice",
+      "coreQuestion": "If we swam in Europa's ocean, what would we find under the ice?",
+      "misconception": "Earth isn't the water world of the Solar System; Europa may hold more water than all our oceans.",
+      "number": "2–3× Earth's oceans",
+      "thumbnailText": "OCEAN UNDER ICE",
+      "visualScenes": [
+        "Europa's cracked ice surface",
+        "cutaway of ice shell and ocean",
+        "volume comparison with Earth's oceans",
+        "plume erupting through a crack",
+        "Juno flyby",
+        "probe melting through ice"
+      ],
+      "editorialTitles": [
+        "The Hidden Ocean on Jupiter's Moon",
+        "Why Europa Has More Water Than Earth"
+      ],
+      "facts": [
+        {
+          "claim": "This leads to a volume of Europa's oceans of 3×1018m3, between two or three times the volume of Earth's oceans.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Europa (moon)",
+          "url": "https://en.wikipedia.org/wiki/Europa_(moon)"
+        },
+        {
+          "claim": "Models suggest the outer elastic portion of the ice crust could be as thin as 200 metres (660 ft).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Europa (moon)",
+          "url": "https://en.wikipedia.org/wiki/Europa_(moon)"
+        },
+        {
+          "claim": "In May 2018, astronomers provided supporting evidence of water plume activity on Europa, based on data from the Galileo space probe.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Europa (moon)",
+          "url": "https://en.wikipedia.org/wiki/Europa_(moon)"
+        },
+        {
+          "claim": "In September 2022, the Juno spacecraft flew within around 320km (200 miles) of Europa.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Europa (moon)",
+          "url": "https://en.wikipedia.org/wiki/Europa_(moon)"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Europa hides more water than all Earth's oceans.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It's under an icy shell on a moon of Jupiter.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Its ocean may be 2 to 3 times Earth's ocean volume.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The rigid top layer of ice may be as thin as 200 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Plumes of water may erupt through cracks.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "In 2022, Juno flew within 320 kilometres of it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Reaching the water would still mean drilling through ice.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the best place to look for life may be under ice, not on land.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-sent-a-probe-to-another-star",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If We Sent a Probe to Another Star?",
+      "hook": "Why a star probe needs 100 gigawatts of lasers.",
+      "openingLine": "Why a star probe needs 100 gigawatts of lasers.",
+      "secondBeat": "Its sail must reach a fifth of light speed.",
+      "scientificMechanism": "ground-based lasers push a gram-scale probe on an ultra-thin light sail to a large fraction of light speed",
+      "scenarioChange": "humanity launched a laser-driven probe toward Alpha Centauri",
+      "expectedConsequence": "a decades-long flight needing enormous lasers, survivable sails and huge funding",
+      "coreQuestion": "If we sent a probe to another star, what would it take to get there within a lifetime?",
+      "misconception": "The hard part isn't the probe; it's a 100-gigawatt laser array and surviving interstellar dust.",
+      "number": "100 GW",
+      "thumbnailText": "TO ANOTHER STAR",
+      "visualScenes": [
+        "light sail catching a laser beam",
+        "laser array on the ground",
+        "Alpha Centauri distance scale",
+        "dust grains hitting a sail",
+        "cost bar chart",
+        "project timeline on hold"
+      ],
+      "editorialTitles": [
+        "What It Would Take to Reach Another Star",
+        "Why Interstellar Probes Need 100-Gigawatt Lasers"
+      ],
+      "facts": [
+        {
+          "claim": "The probes would be propelled by a square-kilometre array of 10 kW ground-based lasers with a combined output of up to 100 GW.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Breakthrough Starshot",
+          "url": "https://en.wikipedia.org/wiki/Breakthrough_Starshot"
+        },
+        {
+          "claim": "To accelerate the 4 m sail at 10,000 Gs to 0.2 c requires combining optics which are approximately 3 kilometers in diameter.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Breakthrough Starshot",
+          "url": "https://en.wikipedia.org/wiki/Breakthrough_Starshot"
+        },
+        {
+          "claim": "The spacecraft will have to survive collisions with space dust; each square centimeter of frontal cross-section is expected to collide with about a thousand particles of size at least 0.1 μm.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Breakthrough Starshot",
+          "url": "https://en.wikipedia.org/wiki/Breakthrough_Starshot"
+        },
+        {
+          "claim": "Milner placed the final mission cost at $5–10 billion.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Breakthrough Starshot",
+          "url": "https://en.wikipedia.org/wiki/Breakthrough_Starshot"
+        },
+        {
+          "claim": "In September 2025, Scientific American reported that the project was on hold indefinitely.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Breakthrough Starshot",
+          "url": "https://en.wikipedia.org/wiki/Breakthrough_Starshot"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a star probe needs 100 gigawatts of lasers.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Its sail must reach a fifth of light speed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The probes would weigh grams, on ultra-thin sails.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Focusing that beam needs optics about 3 kilometres across.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Every square centimetre would hit about a thousand dust grains.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Estimates put the mission at $5 to 10 billion.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "In 2025, the project was reported on hold indefinitely.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So reaching another star is possible on paper, and very hard in practice.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-sucked-carbon-out-of-the-air",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If We Sucked Carbon Out of the Air?",
+      "hook": "Why 36,000 tonnes a year barely dents CO2.",
+      "openingLine": "Why 36,000 tonnes a year barely dents CO2.",
+      "secondBeat": "That's the capacity of the biggest air-capture plant.",
+      "scientificMechanism": "direct air capture pulls CO2 from ambient air with sorbents, then releases it for storage using energy",
+      "scenarioChange": "direct air capture scaled up to climate-relevant size",
+      "expectedConsequence": "enormous numbers of plants, energy and water would be needed; cost remains the barrier",
+      "coreQuestion": "If we sucked carbon out of the air, how big would the machines need to be?",
+      "misconception": "Air capture isn't a substitute for cutting emissions; today's largest plant handles tiny amounts.",
+      "number": "36,000 tonnes/year",
+      "thumbnailText": "VACUUMING THE SKY",
+      "visualScenes": [
+        "air capture fans in Iceland",
+        "CO2 sorbent cycle diagram",
+        "scale gap chart: plant versus need",
+        "cost per tonne bar",
+        "water use comparison",
+        "emissions versus capture balance"
+      ],
+      "editorialTitles": [
+        "Can We Vacuum Carbon Out of the Sky?",
+        "Why Air Capture Can't Replace Emission Cuts"
+      ],
+      "facts": [
+        {
+          "claim": "The current largest DAC plant, Climeworks Mammoth, has a capacity of just 36,000 tonnes CO2 per annum with a capture cost of $1,000 (£774) per tCO2.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Direct air capture",
+          "url": "https://en.wikipedia.org/wiki/Direct_air_capture"
+        },
+        {
+          "claim": "The IEA estimates that capture of at least 85 million tonnes and 980 million tonnes of CO2 annually by 2030 and 2050, respectively, are needed to achieve net zero.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Direct air capture",
+          "url": "https://en.wikipedia.org/wiki/Direct_air_capture"
+        },
+        {
+          "claim": "The actual performance has averaged 600 tonnes per year since it started operating, and fails to even extract sufficient CO2 to compensate for its own emissions.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Direct air capture",
+          "url": "https://en.wikipedia.org/wiki/Direct_air_capture"
+        },
+        {
+          "claim": "It was estimated that to capture 3.3 gigatonnes of CO2 a year would require 300 km3 of water, or 4% of the water used for irrigation.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Direct air capture",
+          "url": "https://en.wikipedia.org/wiki/Direct_air_capture"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 36,000 tonnes a year barely dents CO2.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's the capacity of the biggest air-capture plant.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Capture there costs about $1,000 per tonne.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Net zero may need 980 million tonnes a year by 2050.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That's tens of thousands of plants like it.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "An earlier plant, Orca, averaged just 600 tonnes a year.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "It didn't even offset its own emissions.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So air capture helps at the edges. Cutting emissions does the heavy lifting.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-two-neutron-stars-collided",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If Two Neutron Stars Collided?",
+      "hook": "One crash forged 10 Earths of gold and platinum.",
+      "openingLine": "One crash forged 10 Earths of gold and platinum.",
+      "secondBeat": "LIGO heard it on 17 August 2017.",
+      "scientificMechanism": "merging neutron stars eject neutron-rich matter where rapid neutron capture builds heavy elements",
+      "scenarioChange": "two neutron stars spiralled together and merged",
+      "expectedConsequence": "gravitational waves, a gamma-ray burst and a kilonova forging gold and platinum",
+      "coreQuestion": "If two neutron stars collided, what would the crash create?",
+      "misconception": "Gold isn't made in ordinary stars; much of it comes from collisions like this.",
+      "number": "10 Earth masses of gold & platinum",
+      "thumbnailText": "COSMIC GOLD FORGE",
+      "visualScenes": [
+        "two neutron stars spiralling together",
+        "gravitational wave chirp signal",
+        "gamma-ray burst flash",
+        "kilonova glow",
+        "periodic table with heavy elements highlighted",
+        "gold ring close-up"
+      ],
+      "editorialTitles": [
+        "The Collision That Made Gold",
+        "Where Your Gold Really Came From"
+      ],
+      "facts": [
+        {
+          "claim": "GW170817 was a gravitational wave observed by the LIGO and Virgo detectors on 17 August 2017, originating within the galaxy NGC 4993, about 140 million light years away.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — GW170817",
+          "url": "https://en.wikipedia.org/wiki/GW170817"
+        },
+        {
+          "claim": "GW170817 had an audible duration of approximately 100 seconds and exhibited the characteristic intensity and frequency expected of the inspiral of two neutron stars.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — GW170817",
+          "url": "https://en.wikipedia.org/wiki/GW170817"
+        },
+        {
+          "claim": "A short gamma-ray burst of around 2 seconds was detected by the Fermi and INTEGRAL spacecraft beginning 1.7 seconds after the GW emitted by the merger.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — GW170817",
+          "url": "https://en.wikipedia.org/wiki/GW170817"
+        },
+        {
+          "claim": "A total of 16,000 times the mass of the Earth in heavy elements is believed to have formed, including approximately 10 Earth masses just of the two elements gold and platinum.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — GW170817",
+          "url": "https://en.wikipedia.org/wiki/GW170817"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One crash forged 10 Earths of gold and platinum.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "LIGO heard it on 17 August 2017.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The collision was about 140 million light-years away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its gravitational-wave signal lasted about 100 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "1.7 seconds later, a gamma-ray burst arrived.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In total, 16,000 Earth masses of heavy elements formed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Some of the gold on Earth likely came from events like this.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So your jewellery may be debris from a stellar collision.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-earth-were-squeezed-into-a-black-hole",
+      "replaces": "what-would-a-coin-mass-black-hole-do-in-one-microsecond-at-sea-level",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If Earth Were Squeezed Into a Black Hole?",
+      "hook": "Earth would become a black hole at 9 millimetres.",
+      "openingLine": "Earth would become a black hole at 9 millimetres.",
+      "secondBeat": "That's its Schwarzschild radius, about a marble's size.",
+      "scientificMechanism": "any mass compressed inside its Schwarzschild radius becomes a black hole; its gravity far away stays the same",
+      "scenarioChange": "Earth was compressed to its Schwarzschild radius",
+      "expectedConsequence": "a marble-sized black hole the Moon would keep orbiting unchanged",
+      "coreQuestion": "If Earth were squeezed into a black hole, what would change for the Moon?",
+      "misconception": "Black holes don't suck everything in; at the same mass, their pull far away is unchanged.",
+      "number": "9 mm",
+      "thumbnailText": "MARBLE-SIZED EARTH",
+      "visualScenes": [
+        "Earth shrinking to a marble",
+        "Schwarzschild radius comparison chart",
+        "Moon orbiting a tiny black hole",
+        "gravity field lines unchanged at distance",
+        "Sun as a 3 km black hole",
+        "vacuum cleaner myth crossed out"
+      ],
+      "editorialTitles": [
+        "What If Earth Became a Black Hole",
+        "Why Black Holes Aren't Cosmic Vacuum Cleaners"
+      ],
+      "facts": [
+        {
+          "claim": "The Sun has a Schwarzschild radius of approximately 3.0 km (1.9 mi), whereas Earth's is approximately 9 mm (0.35 in) and the Moon's is approximately 0.1 mm (0.004 in).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Schwarzschild radius",
+          "url": "https://en.wikipedia.org/wiki/Schwarzschild_radius"
+        },
+        {
+          "claim": "The Schwarzschild radius was named after the German astronomer Karl Schwarzschild, who calculated this solution for the theory of general relativity in 1916.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Schwarzschild radius",
+          "url": "https://en.wikipedia.org/wiki/Schwarzschild_radius"
+        },
+        {
+          "claim": "Supermassive black holes up to 21 billion solar masses have been detected, such as NGC 4889.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Schwarzschild radius",
+          "url": "https://en.wikipedia.org/wiki/Schwarzschild_radius"
+        },
+        {
+          "claim": "Supermassive black holes, unlike stellar mass black holes, have comparatively low average densities.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Schwarzschild radius",
+          "url": "https://en.wikipedia.org/wiki/Schwarzschild_radius"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Earth would become a black hole at 9 millimetres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's its Schwarzschild radius, about a marble's size.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The Sun's is about 3 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The Moon's is just 0.1 millimetres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "From far away, the same mass pulls just as hard.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The Moon would keep orbiting exactly as before.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "But we'd have no ground left to stand on.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a black hole isn't a cosmic vacuum cleaner. It's just dense.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-ocean-plankton-disappeared",
+      "replaces": "what-if-all-ocean-plankton-reversed-between-hemispheres",
+      "category": "OTHER",
+      "topic": "What If Ocean Plankton Disappeared?",
+      "hook": "Why 1% of plant life makes half our oxygen.",
+      "openingLine": "Why 1% of plant life makes half our oxygen.",
+      "secondBeat": "Those are phytoplankton, tiny drifting ocean plants.",
+      "scientificMechanism": "phytoplankton photosynthesise at the base of marine food webs, producing oxygen and fixing carbon",
+      "scenarioChange": "the ocean's phytoplankton vanished",
+      "expectedConsequence": "marine food webs collapse from the bottom; oxygen reserves last, but ocean life does not",
+      "coreQuestion": "If ocean plankton disappeared, what would run out first: air or fish?",
+      "misconception": "Losing plankton wouldn't make us suffocate quickly; the atmosphere's oxygen reserve is huge. Food webs would collapse first.",
+      "number": "half of oxygen",
+      "thumbnailText": "NO MORE PLANKTON",
+      "visualScenes": [
+        "phytoplankton under a microscope",
+        "satellite chlorophyll map of oceans",
+        "marine food web pyramid",
+        "energy lost at each trophic level",
+        "empty fishing nets",
+        "oxygen production comparison"
+      ],
+      "editorialTitles": [
+        "What If the Ocean's Plankton Vanished",
+        "Why the Smallest Ocean Life Holds Up the Largest"
+      ],
+      "facts": [
+        {
+          "claim": "Phytoplankton account for about half of global photosynthetic activity and at least half of the oxygen production, despite amounting to only about 1% of the global plant biomass.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Phytoplankton",
+          "url": "https://en.wikipedia.org/wiki/Phytoplankton"
+        },
+        {
+          "claim": "Approximately 90% of total carbon is lost between trophic levels due to respiration, detritus, and dissolved organic matter.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Phytoplankton",
+          "url": "https://en.wikipedia.org/wiki/Phytoplankton"
+        },
+        {
+          "claim": "Redfield proposed that the ratio of carbon to nitrogen to phosphorus (106:16:1) in the ocean was controlled by the phytoplankton's requirements.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Phytoplankton",
+          "url": "https://en.wikipedia.org/wiki/Phytoplankton"
+        },
+        {
+          "claim": "Some scientists advocate iron fertilization as a means to counteract the accumulation of human-produced carbon dioxide in the atmosphere.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Phytoplankton",
+          "url": "https://en.wikipedia.org/wiki/Phytoplankton"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 1% of plant life makes half our oxygen.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Those are phytoplankton, tiny drifting ocean plants.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "They do about half of Earth's photosynthesis.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "They sit at the base of nearly every marine food web.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "About 90% of carbon is lost at each step up the food chain.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Without them, fish stocks would collapse from the bottom up.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The air wouldn't run out fast, but ocean life would.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the ocean's smallest organisms hold up its largest.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-synthetic-fertilizer-disappeared",
+      "replaces": "what-if-all-synthetic-fertilizers-reversed-between-hemispheres",
+      "category": "OTHER",
+      "topic": "What If Synthetic Fertilizer Disappeared?",
+      "hook": "Why 7.7 billion people depend on air-made fertilizer.",
+      "openingLine": "Why 7.7 billion people depend on air-made fertilizer.",
+      "secondBeat": "The Haber process pulls nitrogen from the air.",
+      "scientificMechanism": "the Haber process fixes atmospheric nitrogen into ammonia, the basis of most nitrogen fertilizer",
+      "scenarioChange": "the world lost synthetic nitrogen fertilizer",
+      "expectedConsequence": "harvests would fall far below what today's population needs",
+      "coreQuestion": "If synthetic fertilizer disappeared, how many people could the world still feed?",
+      "misconception": "Air's nitrogen isn't directly usable by most crops; it has to be fixed into ammonia first.",
+      "number": "7.7 billion",
+      "thumbnailText": "FOOD FROM AIR",
+      "visualScenes": [
+        "Haber process reactor diagram",
+        "air composition pie showing 78% nitrogen",
+        "ammonia recycle loop",
+        "fertilizer spreading on a field",
+        "population curve from 1900",
+        "natural gas feed pipeline"
+      ],
+      "editorialTitles": [
+        "The Chemical Reaction Feeding Billions",
+        "Why Much of Your Food Began as Air"
+      ],
+      "facts": [
+        {
+          "claim": "The Haber process enabled the global population to increase from 1.6 billion in 1900 to 7.7 billion by November 2018.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        },
+        {
+          "claim": "Although atmospheric nitrogen (N2) is abundant, comprising ~78% of the air, it is exceptionally stable and does not readily react with other chemicals.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        },
+        {
+          "claim": "On each pass, only about 15% conversion occurs; due to the recycling of leftover reactants, eventually conversion of 97% is achieved.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        },
+        {
+          "claim": "The Haber process consumes 3–5% of the world's natural gas production (around 1–2% of the world's energy supply).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Haber process",
+          "url": "https://en.wikipedia.org/wiki/Haber_process"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 7.7 billion people depend on air-made fertilizer.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The Haber process pulls nitrogen from the air.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Air is about 78% nitrogen, but it barely reacts.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Each pass converts only about 15% into ammonia.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Recycling the gases eventually reaches 97% conversion.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It uses 3 to 5% of the world's natural gas.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Without it, today's harvests couldn't feed today's population.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So much of the food on your plate began as air.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    }
+  ]
+}

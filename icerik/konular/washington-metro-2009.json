@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Track Circuit That Couldn't See a Train",
+  "kaynaklar": [
+    {
+      "ad": "washington-metro-1.jpg",
+      "wikimedia": "DC Metro Train Crash in 2009.jpg"
+    },
+    {
+      "ad": "washington-metro-2.jpg",
+      "wikimedia": "June 22, 2009 WMATA Collision - NTSB accident photo 422860.jpg"
+    },
+    {
+      "ad": "washington-metro-3.jpg",
+      "wikimedia": "June 22, 2009 WMATA Collision - NTSB accident photo 422863.jpg"
+    },
+    {
+      "ad": "washington-metro-4.jpg",
+      "wikimedia": "Sign indicating Red Line delays.jpg"
+    },
+    {
+      "ad": "washington-metro-5.jpg",
+      "wikimedia": "November 29, 2009 WMATA Collision - NTSB accident photo 445992.jpg"
+    },
+    {
+      "ad": "washington-metro-6.jpg",
+      "wikimedia": "November 29, 2009 WMATA Collision - NTSB accident photo 445994.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two Washington Metro trains collided during the evening rush.",
+      "kaynak": "Footage/washington-metro-1.jpg"
+    },
+    {
+      "metin": "One car was crushed, and nine people were killed.",
+      "kaynak": "Footage/washington-metro-2.jpg"
+    },
+    {
+      "metin": "The first train had stopped on the track.",
+      "kaynak": "Footage/washington-metro-3.jpg"
+    },
+    {
+      "metin": "A faulty track circuit failed to detect it.",
+      "kaynak": "Footage/washington-metro-4.jpg"
+    },
+    {
+      "metin": "To the automatic system, the track ahead looked empty.",
+      "kaynak": "Footage/washington-metro-5.jpg"
+    },
+    {
+      "metin": "It sent the following train on at speed.",
+      "kaynak": "Footage/washington-metro-6.jpg"
+    },
+    {
+      "metin": "The operator braked, but too late.",
+      "kaynak": "Footage/washington-metro-1.jpg"
+    },
+    {
+      "metin": "Metro replaced the circuits and added continuous monitoring.",
+      "kaynak": "Footage/washington-metro-2.jpg"
+    }
+  ],
+  "aciklama": "Washington Metro collided when one train didn't detect another. The cause: a faulty track circuit losing train detection, so automatic control sped the following train.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Washington Metro",
+    "2009",
+    "track circuit",
+    "engineering failure"
+  ],
+  "hook": "It couldn't see the train",
+  "soru": "How do you catch silent failures?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Washington Metro trains",
+    "kisa": "Washington Metro",
+    "nesne": "Track circuit",
+    "yil": 2009,
+    "sonuc": "collided when one train didn't detect another",
+    "tetik": "a track circuit that stopped detecting trains",
+    "mekanizma": "a faulty track circuit losing train detection, so automatic control sped the following train",
+    "sayi": "9 KILLED",
+    "ders": "Metro replaced faulty circuits and added continuous monitoring",
+    "zincir": [
+      "TRACK CIRCUIT FAILS",
+      "STOPPED TRAIN BECOMES INVISIBLE",
+      "AUTOMATIC SYSTEM SPEEDS FOLLOWING TRAIN",
+      "OPERATOR BRAKES TOO LATE",
+      "COLLISION"
+    ],
+    "zaman": [],
+    "yanilgi": "The following train wasn't driven carelessly. The automatic system believed the track ahead was empty.",
+    "tartisma": "Similar circuit faults had appeared before. How do you monitor a system that fails silently?",
+    "basliklar": [
+      "The Track Circuit That Couldn't See a Train",
+      "Why the Washington Metro Trains Collided",
+      "The Train the System Couldn't See"
+    ],
+    "kapak": [
+      "INVISIBLE TRAIN",
+      "9 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — June 2009 Washington Metro train collision",
+        "url": "https://en.wikipedia.org/wiki/June_2009_Washington_Metro_train_collision"
+      },
+      {
+        "ad": "NTSB — RAR1002 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/RAR1002.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "June_2009_Washington_Metro_train_collision",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "DC Metro Train Crash in 2009.jpg [Public domain]",
+      "June 22, 2009 WMATA Collision - NTSB accident photo 422860.jpg [Public domain]",
+      "June 22, 2009 WMATA Collision - NTSB accident photo 422863.jpg [Public domain]",
+      "Sign indicating Red Line delays.jpg [CC BY 3.0]",
+      "November 29, 2009 WMATA Collision - NTSB accident photo 445992.jpg [Public domain]",
+      "November 29, 2009 WMATA Collision - NTSB accident photo 445994.jpg [Public domain]"
+    ]
+  }
+}

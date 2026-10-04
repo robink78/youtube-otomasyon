@@ -1,0 +1,13 @@
+{
+  "channel": "failure-reconstructed",
+  "videos": 9,
+  "snapshots": 19,
+  "trackedVideos": 10,
+  "skipped": [],
+  "learning": {
+    "shorts": "observing",
+    "sampleSize": 10
+  },
+  "clusters": 7,
+  "completedAt": "2026-09-30T20:12:22.600Z"
+}

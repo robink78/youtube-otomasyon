@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Guard Sent to the Wrong Attic",
+  "kaynaklar": [
+    {
+      "ad": "notre-dame-fire-1.jpg",
+      "wikimedia": "Burgos con París (2019).jpg"
+    },
+    {
+      "ad": "notre-dame-fire-2.jpg",
+      "wikimedia": "Notre-Dame de Paris, 2019-02-16, main portal.jpg"
+    },
+    {
+      "ad": "notre-dame-fire-3.jpg",
+      "wikimedia": "Notre-Dame de Paris, 2019-02-16, west facade 04.jpg"
+    },
+    {
+      "ad": "notre-dame-fire-4.jpg",
+      "wikimedia": "Notre-Dame de Paris, 2019-02-16, west facade 01.jpg"
+    },
+    {
+      "ad": "notre-dame-fire-5.jpg",
+      "wikimedia": "Ancienne flèche de Notre-Dame détruite en 1792. D.17362.jpg"
+    },
+    {
+      "ad": "notre-dame-fire-6.jpg",
+      "wikimedia": "Villard de Honnecourt Album de ... charpente. BNF.jpg"
+    },
+    {
+      "ad": "notre-dame-fire-7.jpg",
+      "wikimedia": "Chartres roof space the Charpente de Fer.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Fire broke out in the roof of Notre-Dame de Paris.",
+      "kaynak": "Footage/notre-dame-fire-1.jpg"
+    },
+    {
+      "metin": "Within hours, the wooden spire collapsed through the burning roof.",
+      "kaynak": "Footage/notre-dame-fire-2.jpg"
+    },
+    {
+      "metin": "The fire alarm sounded quickly.",
+      "kaynak": "Footage/notre-dame-fire-3.jpg"
+    },
+    {
+      "metin": "A guard was sent to check, but to the wrong attic.",
+      "kaynak": "Footage/notre-dame-fire-4.jpg"
+    },
+    {
+      "metin": "He found no fire.",
+      "kaynak": "Footage/notre-dame-fire-5.jpg"
+    },
+    {
+      "metin": "The error was discovered about fifteen minutes later.",
+      "kaynak": "Footage/notre-dame-fire-6.jpg"
+    },
+    {
+      "metin": "By then the fire was well advanced.",
+      "kaynak": "Footage/notre-dame-fire-7.jpg"
+    },
+    {
+      "metin": "The alarm system hadn't called the fire brigade automatically.",
+      "kaynak": "Footage/notre-dame-fire-1.jpg"
+    }
+  ],
+  "aciklama": "Notre-Dame destroyed the cathedral's spire and roof. The cause: an alarm response sent to the wrong location, delaying the fire brigade.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Notre-Dame",
+    "2019",
+    "fire alarm",
+    "engineering failure"
+  ],
+  "hook": "They checked the wrong attic",
+  "soru": "Should alarms call firefighters directly?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Notre-Dame fire",
+    "kisa": "Notre-Dame",
+    "nesne": "Fire alarm",
+    "yil": 2019,
+    "sonuc": "destroyed the cathedral's spire and roof",
+    "tetik": "a fire in the roof attic",
+    "mekanizma": "an alarm response sent to the wrong location, delaying the fire brigade",
+    "sayi": "WRONG ATTIC",
+    "ders": "fire detection and response in heritage buildings was re-examined",
+    "zincir": [
+      "ALARM SOUNDS",
+      "GUARD SENT TO WRONG ATTIC",
+      "NO FIRE FOUND",
+      "ERROR FOUND MINUTES LATER",
+      "ROOF ENGULFED"
+    ],
+    "zaman": [],
+    "yanilgi": "The alarm worked. The guard was sent to the wrong attic.",
+    "tartisma": "The alarm didn't call the fire brigade automatically. Should heritage buildings rely on people to confirm?",
+    "basliklar": [
+      "The Guard Sent to the Wrong Attic",
+      "Why Notre-Dame Burned So Badly",
+      "The Alarm That Sent a Guard to the Wrong Place"
+    ],
+    "kapak": [
+      "WRONG ATTIC",
+      "SPIRE FELL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Notre-Dame de Paris fire",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_fire"
+      },
+      {
+        "ad": "Government source — CP PP 27042019   Information aux riverains de Notre Dame (cited by Wikipedia)",
+        "url": "https://www.prefectures-regions.gouv.fr/ile-de-france/content/download/57788/379997/file/CP%20PP%2027042019%20-%20Information%20aux%20riverains%20de%20Notre-Dame.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-18",
+    "wiki": "Notre-Dame_de_Paris_fire",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Burgos con París (2019).jpg [CC0]",
+      "Notre-Dame de Paris, 2019-02-16, main portal.jpg [CC BY 4.0]",
+      "Notre-Dame de Paris, 2019-02-16, west facade 04.jpg [CC BY 4.0]",
+      "Notre-Dame de Paris, 2019-02-16, west facade 01.jpg [CC BY 4.0]",
+      "Ancienne flèche de Notre-Dame détruite en 1792. D.17362.jpg [CC0]",
+      "Villard de Honnecourt Album de ... charpente. BNF.jpg [CC0]",
+      "Chartres roof space the Charpente de Fer.jpg [CC BY 3.0]"
+    ]
+  }
+}

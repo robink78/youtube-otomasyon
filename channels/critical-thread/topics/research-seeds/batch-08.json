@@ -1,0 +1,1405 @@
+{
+  "channel": "critical-thread",
+  "records": [
+    {
+      "slug": "the-critical-role-of-frequency-regulation-reserve",
+      "topic": "The Grid That Came 4 Minutes From Collapse",
+      "coreQuestion": "How close did Texas come to a total grid collapse in 2021?",
+      "openingLine": "Why Texas's grid came 4 minutes from collapse.",
+      "secondBeat": "In 2021, frozen plants dropped supply far below demand.",
+      "dependency": "Grid stability depends on enough generation reserve to hold frequency when supply suddenly drops.",
+      "mechanism": "When generation falls below demand, frequency drops; operators must shed load fast to stop plants tripping.",
+      "bottleneck": "Freezing weather knocked out generation faster than reserves could cover.",
+      "failureConsequence": "Had frequency kept falling, the grid could have needed a full black start lasting weeks.",
+      "resilience": "Rolling outages shed load and kept the grid from collapsing entirely.",
+      "expectedConsequence": "millions lose power for days to save the grid",
+      "number": "4 min 37 s",
+      "thumbnailText": "4 MINUTES LEFT",
+      "visualScenes": [
+        "frozen Texas power lines",
+        "frequency chart dropping",
+        "control room countdown",
+        "dark neighbourhoods",
+        "rolling outage map",
+        "cost of damage graphic"
+      ],
+      "editorialTitles": [
+        "How Close Texas Came to Total Blackout",
+        "Why Grids Shed Load to Survive"
+      ],
+      "facts": [
+        {
+          "claim": "According to ERCOT, the Texas power grid was four minutes and 37 seconds away from complete failure when partial grid shutdowns were implemented.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2021 Texas power crisis",
+          "url": "https://en.wikipedia.org/wiki/2021_Texas_power_crisis"
+        },
+        {
+          "claim": "More than 4.5 million homes and businesses were left without power, some for several days.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2021 Texas power crisis",
+          "url": "https://en.wikipedia.org/wiki/2021_Texas_power_crisis"
+        },
+        {
+          "claim": "Damages due to the cold wave and winter storm were estimated to be at least $26.5 billion, one of the most expensive disasters in the state's history.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2021 Texas power crisis",
+          "url": "https://en.wikipedia.org/wiki/2021_Texas_power_crisis"
+        },
+        {
+          "claim": "In February 2021, the state of Texas suffered a major power crisis.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2021 Texas power crisis",
+          "url": "https://en.wikipedia.org/wiki/2021_Texas_power_crisis"
+        },
+        {
+          "claim": "By February 19, the number was updated to at least 32 people who died.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2021 Texas power crisis",
+          "url": "https://en.wikipedia.org/wiki/2021_Texas_power_crisis"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Texas's grid came 4 minutes from collapse.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2021, frozen plants dropped supply far below demand.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The margin was four minutes and 37 seconds.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Operators cut power to millions to keep frequency up.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "More than 4.5 million homes and businesses went dark.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Damages reached at least $26.5 billion.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why reserves decide whether a grid bends or breaks.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-large-power-transformer-is-so-hard-to-replace",
+      "topic": "The Night Gunmen Shot 17 Transformers",
+      "coreQuestion": "What happened when attackers shot up a California substation, and why are transformers so hard to replace?",
+      "openingLine": "Why gunmen shot 17 transformers in one night.",
+      "secondBeat": "In 2013, attackers hit California's Metcalf substation.",
+      "dependency": "Substations depend on large transformers that are custom-built and slow to replace.",
+      "mechanism": "Transformers step voltage up and down; cooling oil keeps them running, and losing it forces shutdown.",
+      "bottleneck": "Large transformers are custom units with long lead times.",
+      "failureConsequence": "Damage to several at once can take a substation out for weeks.",
+      "resilience": "Rerouting power through other substations avoided outages at Metcalf.",
+      "expectedConsequence": "costly damage even when the lights stay on",
+      "number": "17 transformers",
+      "thumbnailText": "17 TRANSFORMERS SHOT",
+      "visualScenes": [
+        "substation at night",
+        "bullet holes in transformer casing",
+        "oil leaking diagram",
+        "grid rerouting map",
+        "transformer being transported",
+        "security fence upgrade"
+      ],
+      "editorialTitles": [
+        "The Substation Attack That Woke Up the Grid",
+        "Why Transformers Are the Grid's Weak Spot"
+      ],
+      "facts": [
+        {
+          "claim": "On April 16, 2013, an attack was carried out on Pacific Gas and Electric Company's Metcalf transmission substation in Coyote, California.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Metcalf sniper attack",
+          "url": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
+        },
+        {
+          "claim": "The attack, in which gunmen fired on 17 electrical transformers, resulted in more than $15 million worth of equipment damage, but it had little impact on the station's electrical power supply.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Metcalf sniper attack",
+          "url": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
+        },
+        {
+          "claim": "More than 100 expended 7.62×39mm cases were later found at the site.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Metcalf sniper attack",
+          "url": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
+        },
+        {
+          "claim": "Some customers of Level 3 Communications, an Internet service provider, lost service.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Metcalf sniper attack",
+          "url": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why gunmen shot 17 transformers in one night.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2013, attackers hit California's Metcalf substation.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "They left more than 100 bullet casings behind.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The damage topped $15 million.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Grid operators rerouted power, so few lights went out.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Big transformers are custom-built, with long waits for replacements.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why the grid's weak spot is sitting behind a fence.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-grid-scale-battery-inverter-becomes-the-bottleneck",
+      "topic": "The Battery Plant Storing 2,500 MWh",
+      "coreQuestion": "What does it take to run one of the world's biggest battery plants safely?",
+      "openingLine": "Why one battery site stores 2,500 megawatt-hours.",
+      "secondBeat": "Moss Landing can deliver 630 megawatts at once.",
+      "dependency": "Grids increasingly depend on giant battery plants to shift solar power into the evening.",
+      "mechanism": "Thousands of battery modules charge and discharge through inverters, cooled and monitored constantly.",
+      "bottleneck": "Thermal management failures can take large blocks of storage offline.",
+      "failureConsequence": "Fires and overheating incidents have shut sections of the plant.",
+      "resilience": "Separate phases and facilities keep some storage running during incidents.",
+      "expectedConsequence": "stored capacity disappears when a site goes offline",
+      "number": "630 MW / 2,500 MWh",
+      "thumbnailText": "2,500 MWh BATTERY",
+      "visualScenes": [
+        "rows of battery containers",
+        "charge and discharge curve",
+        "inverter cabinet",
+        "cooling hose diagram",
+        "fire response at a battery site",
+        "old power plant stacks behind"
+      ],
+      "editorialTitles": [
+        "Inside One of the World's Biggest Batteries",
+        "Why Battery Plants Live or Die by Cooling"
+      ],
+      "facts": [
+        {
+          "claim": "As of 2025, the site's battery storage facility is one of the largest in the world, at 630 MW (power) and 2,500 MWh (energy).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Moss Landing Power Plant",
+          "url": "https://en.wikipedia.org/wiki/Moss_Landing_Power_Plant"
+        },
+        {
+          "claim": "In September 2021 Phase 1 was shut down after a high temperature safety incident (no fire) caused by a leak in a liquid cooling hose, while Phase 2 kept operating.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Moss Landing Power Plant",
+          "url": "https://en.wikipedia.org/wiki/Moss_Landing_Power_Plant"
+        },
+        {
+          "claim": "On September 20, 2022, a fire occurred at the Elkhorn Battery Facility when a single Tesla Megapack caught fire.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Moss Landing Power Plant",
+          "url": "https://en.wikipedia.org/wiki/Moss_Landing_Power_Plant"
+        },
+        {
+          "claim": "Commercial generation started in 1950 with a capacity of 613 MW.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Moss Landing Power Plant",
+          "url": "https://en.wikipedia.org/wiki/Moss_Landing_Power_Plant"
+        },
+        {
+          "claim": "When completed in 2002, the plant was the largest power plant in California by capacity, at 2560 MW.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Moss Landing Power Plant",
+          "url": "https://en.wikipedia.org/wiki/Moss_Landing_Power_Plant"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one battery site stores 2,500 megawatt-hours.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Moss Landing can deliver 630 megawatts at once.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It shifts daytime power into the evening peak.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "In 2021, a leaking cooling hose shut down Phase 1.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "In 2022, a single Megapack caught fire at a neighbouring site.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The site once hosted California's largest power plant, at 2,560 megawatts.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Cooling and monitoring keep every module in its safe range.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why grid batteries are really heat-management plants.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-nuclear-reactor-coolant-pump-is-so-hard-to-replace",
+      "topic": "The Stuck Valve Behind Three Mile Island",
+      "coreQuestion": "How did a stuck valve and a misread signal lead to a partial meltdown?",
+      "openingLine": "Why 6% leftover heat nearly melted a reactor.",
+      "secondBeat": "In 1979, Three Mile Island's reactor shut down automatically.",
+      "dependency": "Reactors depend on continuous coolant flow to remove heat, even after shutdown.",
+      "mechanism": "After a trip, decay heat still needs removing; relief valves and pumps must work as indicated.",
+      "bottleneck": "Operators trusted an indicator that showed the valve closed when it was open.",
+      "failureConsequence": "Coolant escaped, the core overheated and partially melted.",
+      "resilience": "Containment held most radioactivity; operator training and instrumentation were overhauled.",
+      "expectedConsequence": "a decade-long, billion-dollar cleanup",
+      "number": "6% decay heat",
+      "thumbnailText": "THE STUCK VALVE",
+      "visualScenes": [
+        "cooling towers at Three Mile Island",
+        "relief valve stuck open diagram",
+        "control room indicator light",
+        "decay heat curve",
+        "containment building",
+        "cleanup timeline"
+      ],
+      "editorialTitles": [
+        "The Valve That Caused Three Mile Island",
+        "Why Reactors Need Cooling After Shutdown"
+      ],
+      "facts": [
+        {
+          "claim": "The main chain of events leading to the partial core meltdown on Wednesday, March 28, 1979, began at 4:00:36 a.m.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Three Mile Island accident",
+          "url": "https://en.wikipedia.org/wiki/Three_Mile_Island_accident"
+        },
+        {
+          "claim": "The reactor continued to generate decay heat, initially equivalent to approximately 6% of the pre-trip power level.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Three Mile Island accident",
+          "url": "https://en.wikipedia.org/wiki/Three_Mile_Island_accident"
+        },
+        {
+          "claim": "When RCS pressure rose to 2,255 psi (155.5 bar), the pilot-operated relief valve (PORV) opened, relieving steam through piping to the reactor coolant drain tank.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Three Mile Island accident",
+          "url": "https://en.wikipedia.org/wiki/Three_Mile_Island_accident"
+        },
+        {
+          "claim": "Cleanup at TMI-2 started in August 1979 and officially ended in December 1993, with a total cost of about $1 billion.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Three Mile Island accident",
+          "url": "https://en.wikipedia.org/wiki/Three_Mile_Island_accident"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 6% leftover heat nearly melted a reactor.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 1979, Three Mile Island's reactor shut down automatically.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "But decay heat kept coming, about 6% of full power.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "A relief valve opened to vent pressure, and stuck.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Operators believed it was closed.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Coolant drained away, and the core partly melted.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Cleanup lasted until 1993 and cost about $1 billion.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That's why cooling after shutdown matters as much as control.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-low-earth-orbit-inter-satellite-link",
+      "topic": "The Network Running 75% of Active Satellites",
+      "coreQuestion": "How did one company end up operating most of the active satellites in orbit?",
+      "openingLine": "Why one company flies 75% of active satellites.",
+      "secondBeat": "Starlink had about 10,413 satellites by June 2026.",
+      "dependency": "Broadband users in remote areas, ships and aircraft increasingly depend on low-orbit constellations.",
+      "mechanism": "Thousands of satellites relay traffic between users and ground stations, and to each other by laser.",
+      "bottleneck": "One operator runs most active manoeuvrable satellites in orbit.",
+      "failureConsequence": "An outage or policy change at one company affects users across 160 countries.",
+      "resilience": "Competing constellations and terrestrial networks remain alternatives.",
+      "expectedConsequence": "connectivity for remote users hinges on one provider",
+      "number": "10,413 satellites",
+      "thumbnailText": "75% OF SATELLITES",
+      "visualScenes": [
+        "train of satellites crossing the night sky",
+        "laser links between satellites diagram",
+        "user dish on a remote cabin",
+        "constellation map",
+        "satellite count growth chart",
+        "gateway ground station"
+      ],
+      "editorialTitles": [
+        "The Constellation That Took Over Orbit",
+        "Why One Network Runs Most Active Satellites"
+      ],
+      "facts": [
+        {
+          "claim": "As of June 2026, the network consisted of approximately 10,413 satellites (10,397 operational) in low Earth orbit.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Starlink",
+          "url": "https://en.wikipedia.org/wiki/Starlink"
+        },
+        {
+          "claim": "Starlink accounts for approximately 75% of all active maneuverable satellites in Earth orbit and had more than 12 million subscribers as of June 2026.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Starlink",
+          "url": "https://en.wikipedia.org/wiki/Starlink"
+        },
+        {
+          "claim": "Starlink provides broadband Internet service in approximately 160 countries and territories.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Starlink",
+          "url": "https://en.wikipedia.org/wiki/Starlink"
+        },
+        {
+          "claim": "The inter-satellite laser links were successfully tested in late 2020.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Starlink",
+          "url": "https://en.wikipedia.org/wiki/Starlink"
+        },
+        {
+          "claim": "SpaceX began launching Starlink satellites in 2019.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Starlink",
+          "url": "https://en.wikipedia.org/wiki/Starlink"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one company flies 75% of active satellites.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Starlink had about 10,413 satellites by June 2026.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It served more than 12 million subscribers.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It reaches about 160 countries and territories.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Laser links between satellites were tested in 2020.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That much orbital capacity now sits with a single operator.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why low orbit has become critical infrastructure.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-port-channel-dredging-fleet-becomes-the-bottleneck",
+      "topic": "The Bridge Collapse That Closed a Port for 11 Weeks",
+      "coreQuestion": "How did one ship striking a bridge close a major U.S. port for weeks?",
+      "openingLine": "Why Baltimore's port closed for 11 weeks.",
+      "secondBeat": "A ship struck the Key Bridge, dropping it into the channel.",
+      "dependency": "The Port of Baltimore depends on one navigable channel under the Key Bridge site.",
+      "mechanism": "Ships reach the port through a dredged channel; wreckage in it blocks deep-draft traffic.",
+      "bottleneck": "A single channel serves the whole port.",
+      "failureConsequence": "After the collapse, most shipping stopped until salvage crews cleared the channel.",
+      "resilience": "Temporary channels let smaller vessels pass while salvage continued.",
+      "expectedConsequence": "cargo diverts to other ports at millions of dollars a day",
+      "number": "11 weeks",
+      "thumbnailText": "PORT SHUT 11WKS",
+      "visualScenes": [
+        "collapsed bridge spans in the channel",
+        "container ship with wreckage on its bow",
+        "salvage cranes clearing steel",
+        "channel depth diagram",
+        "cars waiting at the port",
+        "cost per day graphic"
+      ],
+      "editorialTitles": [
+        "The Bridge Collapse That Shut a Port",
+        "Why One Channel Decides a Port's Fate"
+      ],
+      "facts": [
+        {
+          "claim": "The collapse blocked most shipping to and from the Port of Baltimore for 11 weeks.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Francis Scott Key Bridge collapse",
+          "url": "https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_collapse"
+        },
+        {
+          "claim": "The economic impact of the closure of the waterway was estimated at $15 million per day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Francis Scott Key Bridge collapse",
+          "url": "https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_collapse"
+        },
+        {
+          "claim": "The port had been the leading port for automobiles and light trucks for 13 straight years, handling more than 847,000 vehicles in 2023.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Francis Scott Key Bridge collapse",
+          "url": "https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_collapse"
+        },
+        {
+          "claim": "In 2023, the port handled more than 444,000 passengers and 52.3 million tons of foreign cargo valued at $80 billion.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Francis Scott Key Bridge collapse",
+          "url": "https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_collapse"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Baltimore's port closed for 11 weeks.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "A ship struck the Key Bridge, dropping it into the channel.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The port had led the U.S. in car shipments for 13 years.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "In 2023, it handled more than 847,000 vehicles.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It moved 52.3 million tons of foreign cargo in 2023.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The closure cost an estimated $15 million per day.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Salvage crews had to clear the channel piece by piece.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why a port is only as open as its channel.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-dangerous-goods-manifest-system-becomes-the-bottleneck",
+      "topic": "The 2,750 Tonnes Stored Beside a City",
+      "coreQuestion": "How did a forgotten cargo of ammonium nitrate destroy much of a city's port?",
+      "openingLine": "Why 2,750 tonnes waited in Beirut's port.",
+      "secondBeat": "The ammonium nitrate reached Beirut by ship in 2013.",
+      "dependency": "Port safety depends on tracking dangerous goods and removing them promptly.",
+      "mechanism": "Hazardous cargo must be declared, stored safely and removed; abandoned cargo can sit for years.",
+      "bottleneck": "Seized cargo stayed in a port warehouse for years without resolution.",
+      "failureConsequence": "A fire ignited the stockpile, causing one of history's largest non-nuclear explosions.",
+      "resilience": "Stronger rules on storage and disposal of seized hazardous cargo followed.",
+      "expectedConsequence": "a port and neighbourhoods destroyed in seconds",
+      "number": "2,750 tonnes",
+      "thumbnailText": "2,750 TONNES",
+      "visualScenes": [
+        "port warehouse before the blast",
+        "ship MV Rhosus",
+        "shockwave over the city",
+        "damage radius map",
+        "destroyed grain silos",
+        "hazard label on cargo"
+      ],
+      "editorialTitles": [
+        "The Forgotten Cargo That Destroyed Beirut's Port",
+        "Why Dangerous Goods Can't Be Left Waiting"
+      ],
+      "facts": [
+        {
+          "claim": "On 4 August 2020, a major explosion occurred in Beirut, Lebanon, caused by the ignition of 2,750 tonnes of ammonium nitrate.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2020 Beirut explosion",
+          "url": "https://en.wikipedia.org/wiki/2020_Beirut_explosion"
+        },
+        {
+          "claim": "The explosion resulted in at least 218 deaths, 7,000 injuries, and approximately 300,000 displaced people, alongside property damage estimated at US$15 billion.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2020 Beirut explosion",
+          "url": "https://en.wikipedia.org/wiki/2020_Beirut_explosion"
+        },
+        {
+          "claim": "A consignment was transported aboard the MV Rhosus vessel in August 2013, carrying approximately 2,750 tons of ammonium nitrate; on 21 November 2013, the ship made port in Beirut.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2020 Beirut explosion",
+          "url": "https://en.wikipedia.org/wiki/2020_Beirut_explosion"
+        },
+        {
+          "claim": "Its effects were felt in Lebanon and neighbouring regions, including Syria, Israel, and Cyprus, over 240 km (150 mi) away.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2020 Beirut explosion",
+          "url": "https://en.wikipedia.org/wiki/2020_Beirut_explosion"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 2,750 tonnes waited in Beirut's port.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The ammonium nitrate reached Beirut by ship in 2013.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It stayed stored in the port, beside the city.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "In 2020, a fire set it off.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "At least 218 people died and about 300,000 were displaced.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The blast was felt over 240 kilometres away.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why dangerous cargo needs a deadline, not just a label.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-terminal-operating-system",
+      "topic": "The Malware That Froze a Shipping Giant",
+      "coreQuestion": "How did malware in a small accounting program cripple global companies and ports?",
+      "openingLine": "Why one software update cost Maersk $300 million.",
+      "secondBeat": "In 2017, NotPetya spread through a Ukrainian accounting program.",
+      "dependency": "Shipping lines and terminals depend on IT systems to book cargo and move containers.",
+      "mechanism": "Terminal and booking systems run on corporate networks; malware spreading across them halts operations.",
+      "bottleneck": "One compromised software update spread into networks worldwide.",
+      "failureConsequence": "Terminals and bookings stopped until systems were rebuilt.",
+      "resilience": "Offline backups and manual processes restored operations over days.",
+      "expectedConsequence": "ports slow to manual paperwork while systems are rebuilt",
+      "number": "$300 million",
+      "thumbnailText": "MALWARE STOPS SHIPS",
+      "visualScenes": [
+        "locked screens across an office",
+        "container terminal gates stalled",
+        "software update spreading diagram",
+        "damage estimates chart",
+        "manual paperwork at a port",
+        "rebuilt server room"
+      ],
+      "editorialTitles": [
+        "The Cyberattack That Froze a Shipping Giant",
+        "Why Ports Run on Software"
+      ],
+      "facts": [
+        {
+          "claim": "On 27 June 2017, a software update was distributed via M.E.Doc's update server, after which reports of the NotPetya ransomware attack began to appear.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2017 Ukraine ransomware attacks",
+          "url": "https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks"
+        },
+        {
+          "claim": "Estimated damages to specific companies included over US$870 million to Merck, US$400 million to FedEx, US$384 million to Saint-Gobain, and US$300 million to Maersk.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2017 Ukraine ransomware attacks",
+          "url": "https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks"
+        },
+        {
+          "claim": "ESET estimated on 28 June 2017 that 80% of all infections were in Ukraine, with Germany second hardest hit with about 9%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2017 Ukraine ransomware attacks",
+          "url": "https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks"
+        },
+        {
+          "claim": "Estimates suggest that M.E.Doc had about 400,000 customers across Ukraine, covering approximately 90% of domestic firms.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2017 Ukraine ransomware attacks",
+          "url": "https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one software update cost Maersk $300 million.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2017, NotPetya spread through a Ukrainian accounting program.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That program served about 90% of Ukrainian firms.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It also hit Merck for over $870 million.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "FedEx lost about $400 million.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Terminals and bookings ran on the same infected networks.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why modern ports can be stopped without touching a ship.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-high-lift-water-pump-is-so-hard-to-replace",
+      "topic": "The Pumps That Left 150,000 People Without Water",
+      "coreQuestion": "How did failing pumps leave a state capital without safe water?",
+      "openingLine": "Why 150,000 people lost safe water in 2022.",
+      "secondBeat": "Jackson, Mississippi's water system failed after flooding.",
+      "dependency": "City water supply depends on treatment plants and pumps that push water into the network.",
+      "mechanism": "High-lift pumps send treated water into mains; if they fail, pressure collapses citywide.",
+      "bottleneck": "Aging plants with deferred maintenance had little redundancy.",
+      "failureConsequence": "Flooding and pump failures left about 150,000 residents without safe water.",
+      "resilience": "Emergency pumps, bottled water and federal funding followed.",
+      "expectedConsequence": "boil-water notices and dry taps across a city",
+      "number": "150,000 residents",
+      "thumbnailText": "NO WATER",
+      "visualScenes": [
+        "dry kitchen tap",
+        "treatment plant pumps",
+        "flooded Pearl River",
+        "bottled water distribution lines",
+        "funding gap chart",
+        "pressure drop in pipes diagram"
+      ],
+      "editorialTitles": [
+        "How Jackson Lost Its Water",
+        "Why Old Pumps Can Leave a City Dry"
+      ],
+      "facts": [
+        {
+          "claim": "A public health crisis in and around the city of Jackson, Mississippi, began in late August 2022 after the Pearl River flooded due to severe storms in the state.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Jackson, Mississippi water crisis",
+          "url": "https://en.wikipedia.org/wiki/Jackson,_Mississippi_water_crisis"
+        },
+        {
+          "claim": "This resulted in approximately 150,000 residents of the city being left without access to safe drinking water.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Jackson, Mississippi water crisis",
+          "url": "https://en.wikipedia.org/wiki/Jackson,_Mississippi_water_crisis"
+        },
+        {
+          "claim": "City leaders asked the state for $47 million for sewer repairs, but received only $3 million.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Jackson, Mississippi water crisis",
+          "url": "https://en.wikipedia.org/wiki/Jackson,_Mississippi_water_crisis"
+        },
+        {
+          "claim": "In December 2021, the Environmental Protection Agency announced an allocation of $74.9 million from the Infrastructure Investment and Jobs Act to Mississippi for water infrastructure improvements.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Jackson, Mississippi water crisis",
+          "url": "https://en.wikipedia.org/wiki/Jackson,_Mississippi_water_crisis"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 150,000 people lost safe water in 2022.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Jackson, Mississippi's water system failed after flooding.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Treatment plant pumps keep pressure in every pipe.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "When they faltered, taps ran dry or unsafe.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The city had asked for $47 million for sewer repairs.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "It received just $3 million.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why deferred maintenance becomes a public health crisis.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-edible-oil-refinery",
+      "topic": "The Oil Hidden in 70% of Personal Care Products",
+      "coreQuestion": "Why is one tropical oil in most shampoos, soaps and snacks?",
+      "openingLine": "Why 70% of beauty products hide palm oil.",
+      "secondBeat": "Soap, shampoo, makeup and lotion all rely on it.",
+      "dependency": "Food, cosmetics and biodiesel depend heavily on palm oil refined in a few countries.",
+      "mechanism": "Crude palm oil is refined and fractionated into ingredients with hundreds of different names.",
+      "bottleneck": "Indonesia alone produces about 60% of the world's palm oil.",
+      "failureConsequence": "Export restrictions from a top producer ripple into food and cosmetics prices.",
+      "resilience": "Other vegetable oils can substitute, at higher cost.",
+      "expectedConsequence": "cooking oil and packaged food prices rise",
+      "number": "60%",
+      "thumbnailText": "60% ONE COUNTRY",
+      "visualScenes": [
+        "palm fruit bunches",
+        "refinery tanks",
+        "ingredient label with hidden names",
+        "production share chart",
+        "shampoo and snack products",
+        "biodiesel pump"
+      ],
+      "editorialTitles": [
+        "The Oil in Almost Everything",
+        "Why One Country Shapes Palm Oil Prices"
+      ],
+      "facts": [
+        {
+          "claim": "Palm oil accounted for about 36% of global oils produced from oil crops in 2017.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Palm oil",
+          "url": "https://en.wikipedia.org/wiki/Palm_oil"
+        },
+        {
+          "claim": "The biggest global producers of palm oil are Indonesia, which produced 60% of it in 2022, followed by Malaysia, Thailand, and Nigeria.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Palm oil",
+          "url": "https://en.wikipedia.org/wiki/Palm_oil"
+        },
+        {
+          "claim": "Around 70% of personal care products including soap, shampoo, makeup, and lotion, contain ingredients derived from palm oil.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Palm oil",
+          "url": "https://en.wikipedia.org/wiki/Palm_oil"
+        },
+        {
+          "claim": "There are more than 200 different names for these palm oil ingredients and only 10% of them include the word palm.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Palm oil",
+          "url": "https://en.wikipedia.org/wiki/Palm_oil"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 70% of beauty products hide palm oil.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Soap, shampoo, makeup and lotion all rely on it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It made up about 36% of crop oils in 2017.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Indonesia produced 60% of the world's supply in 2022.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "It hides behind more than 200 ingredient names.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "When a top producer restricts exports, prices jump worldwide.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why your bathroom shelf depends on refineries in Southeast Asia.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-can-manufacturing-line",
+      "topic": "The 180 Billion Cans Made Every Year",
+      "coreQuestion": "Why is the humble drink can the biggest single use of aluminium?",
+      "openingLine": "Why the world makes 180 billion cans.",
+      "secondBeat": "Cans are the largest single use of aluminium.",
+      "dependency": "Beverage makers depend on high-speed can lines and a steady supply of aluminium sheet.",
+      "mechanism": "Can lines stamp, draw and coat aluminium into billions of thin-walled cans.",
+      "bottleneck": "Can supply depends on aluminium sheet capacity and recycling rates.",
+      "failureConsequence": "Shortages of cans or sheet ripple into drink supply.",
+      "resilience": "Recycling returns aluminium to production quickly.",
+      "expectedConsequence": "drink makers compete for scarce cans",
+      "number": "180 billion",
+      "thumbnailText": "180 BILLION CANS",
+      "visualScenes": [
+        "high-speed can line",
+        "aluminium coil feeding presses",
+        "can recycling bales",
+        "recycling rate comparison chart",
+        "landfill with cans",
+        "drink shelves"
+      ],
+      "editorialTitles": [
+        "The Can Factory Behind Every Soda",
+        "Why Drink Cans Are Aluminium's Biggest Use"
+      ],
+      "facts": [
+        {
+          "claim": "The global production amount of aluminum cans is 180 billion units annually and constitutes the largest single use of aluminum globally.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Aluminum can",
+          "url": "https://en.wikipedia.org/wiki/Aluminum_can"
+        },
+        {
+          "claim": "Cans are the most recycled beverage container, at a rate of 69% worldwide.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Aluminum can",
+          "url": "https://en.wikipedia.org/wiki/Aluminum_can"
+        },
+        {
+          "claim": "In 2012, 92% of the aluminum beverage cans sold in Switzerland were recycled.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Aluminum can",
+          "url": "https://en.wikipedia.org/wiki/Aluminum_can"
+        },
+        {
+          "claim": "Roughly $700 million worth of cans end up in landfills each year in the US.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Aluminum can",
+          "url": "https://en.wikipedia.org/wiki/Aluminum_can"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the world makes 180 billion cans.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Cans are the largest single use of aluminium.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "About 69% are recycled worldwide.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Switzerland recycled 92% of its cans in 2012.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "In the U.S., about $700 million worth hit landfills each year.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Every can line depends on a steady flow of aluminium sheet.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why recycling is part of the drink supply chain.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-sulfuric-acid-plant",
+      "topic": "The Chemical Made at 260 Million Tonnes a Year",
+      "coreQuestion": "Why is sulfuric acid one of the most important chemicals nobody talks about?",
+      "openingLine": "Why we make 260 million tonnes of acid.",
+      "secondBeat": "That's sulfuric acid output in 2022.",
+      "dependency": "Fertilizer, copper mining and many industries depend on sulfuric acid supply.",
+      "mechanism": "Sulfur is burned to sulfur dioxide, oxidised to trioxide and absorbed into acid.",
+      "bottleneck": "Supply depends heavily on sulfur recovered from oil and gas refining.",
+      "failureConsequence": "Acid shortages hit fertilizer output and metal extraction.",
+      "resilience": "Smelter byproduct acid and trade can fill some gaps.",
+      "expectedConsequence": "fertilizer and copper costs rise",
+      "number": "260 million tonnes",
+      "thumbnailText": "260M TONNES",
+      "visualScenes": [
+        "sulfuric acid plant towers",
+        "contact process diagram",
+        "fertilizer granules",
+        "copper leaching pads in Chile",
+        "production volume chart",
+        "acid tanker"
+      ],
+      "editorialTitles": [
+        "The Most Important Chemical You Never Hear About",
+        "Why Farms and Mines Need Sulfuric Acid"
+      ],
+      "facts": [
+        {
+          "claim": "World production in 2022 was estimated at 260 million tonnes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Sulfuric acid",
+          "url": "https://en.wikipedia.org/wiki/Sulfuric_acid"
+        },
+        {
+          "claim": "As of the late 20th century, most of the produced amount (≈60%) was consumed for fertilizers.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Sulfuric acid",
+          "url": "https://en.wikipedia.org/wiki/Sulfuric_acid"
+        },
+        {
+          "claim": "Chile, the world's leading producer of copper, required sulfuric acid in about 20% of its copper production as of 2026.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Sulfuric acid",
+          "url": "https://en.wikipedia.org/wiki/Sulfuric_acid"
+        },
+        {
+          "claim": "As late as 1940, up to 50% of sulfuric acid manufactured in the United States was produced by chamber process plants.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Sulfuric acid",
+          "url": "https://en.wikipedia.org/wiki/Sulfuric_acid"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why we make 260 million tonnes of acid.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's sulfuric acid output in 2022.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "About 60% has gone into fertilizers.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Chile needs it for about 20% of its copper output.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Much of the sulfur comes from refining oil and gas.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Shortages ripple into both food and metals.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why an unglamorous acid underpins farms and mines.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-industrial-robot-controller",
+      "topic": "The Country Making 43% of Industrial Robots",
+      "coreQuestion": "Why has one country become the center of industrial robot production?",
+      "openingLine": "Why China makes 43% of industrial robots.",
+      "secondBeat": "It's also the world's largest robot market.",
+      "dependency": "Car, electronics and metal industries depend on industrial robots and their controllers.",
+      "mechanism": "Robot controllers coordinate motors and sensors to repeat precise movements at high speed.",
+      "bottleneck": "Production is concentrated in a few countries.",
+      "failureConsequence": "Supply disruptions slow new factory lines worldwide.",
+      "resilience": "Japanese, European and Korean makers offer alternatives.",
+      "expectedConsequence": "factory automation projects wait for robots and parts",
+      "number": "43%",
+      "thumbnailText": "43% OF ROBOTS",
+      "visualScenes": [
+        "robot arms welding a car body",
+        "controller cabinet",
+        "production share chart",
+        "first industrial robot 1974",
+        "robot stock growth chart",
+        "electronics assembly line"
+      ],
+      "editorialTitles": [
+        "Where the World's Factory Robots Come From",
+        "Why China Leads Industrial Robotics"
+      ],
+      "facts": [
+        {
+          "claim": "As of 2024, China accounted for 43% of the production of industrial robots in the world.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Industrial robot",
+          "url": "https://en.wikipedia.org/wiki/Industrial_robot"
+        },
+        {
+          "claim": "China is the largest industrial robot market with 154,032 units sold in 2018.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Industrial robot",
+          "url": "https://en.wikipedia.org/wiki/Industrial_robot"
+        },
+        {
+          "claim": "China had the largest operational stock of industrial robots, with 649,447 at the end of 2018.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Industrial robot",
+          "url": "https://en.wikipedia.org/wiki/Industrial_robot"
+        },
+        {
+          "claim": "The biggest customer of industrial robots is automotive industry with 30% market share, then electrical/electronics industry with 25%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Industrial robot",
+          "url": "https://en.wikipedia.org/wiki/Industrial_robot"
+        },
+        {
+          "claim": "The first two IRB 6 robots were sold to Magnusson in Sweden and were installed in production in January 1974.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Industrial robot",
+          "url": "https://en.wikipedia.org/wiki/Industrial_robot"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why China makes 43% of industrial robots.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It's also the world's largest robot market.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "By 2018, it ran 649,447 industrial robots.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Carmakers buy about 30% of all industrial robots.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Electronics makers buy about 25%.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The first IRB 6 robots went into production in 1974.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Each robot depends on precise controllers and motors.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why factory automation has its own supply chain.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-deposit-insurance-resolution-system",
+      "topic": "The Bank That Lost $42 Billion in a Day",
+      "coreQuestion": "How did a bank run drain $42 billion from one bank in a single day?",
+      "openingLine": "Why $42 billion fled one bank overnight.",
+      "secondBeat": "In March 2023, Silicon Valley Bank faced a run.",
+      "dependency": "Depositors and startups depend on banks staying liquid, and on regulators to resolve failures.",
+      "mechanism": "When depositors rush out, a bank must sell assets; losses on long-term bonds can make it insolvent.",
+      "bottleneck": "Uninsured, concentrated deposits can leave in hours via apps.",
+      "failureConsequence": "SVB failed and was taken over by regulators.",
+      "resilience": "The FDIC took over and guaranteed deposits to stop contagion.",
+      "expectedConsequence": "payrolls freeze until regulators step in",
+      "number": "$42 billion",
+      "thumbnailText": "$42B OVERNIGHT",
+      "visualScenes": [
+        "phone banking app withdrawals",
+        "bank run timeline",
+        "bond value falling chart",
+        "FDIC sign on a bank",
+        "startup payroll worries",
+        "headline: third-largest bank failure"
+      ],
+      "editorialTitles": [
+        "The Fastest Bank Run in History",
+        "Why Deposits Can Vanish in a Day"
+      ],
+      "facts": [
+        {
+          "claim": "On March 10, 2023, Silicon Valley Bank (SVB) failed after a bank run, marking the third-largest bank failure in United States history.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Collapse of Silicon Valley Bank",
+          "url": "https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank"
+        },
+        {
+          "claim": "Customers withdrew funds totaling $42 billion by the following day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Collapse of Silicon Valley Bank",
+          "url": "https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank"
+        },
+        {
+          "claim": "An additional $100 billion were expected to be withdrawn during Friday.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Collapse of Silicon Valley Bank",
+          "url": "https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank"
+        },
+        {
+          "claim": "SVB had dramatically increased its holdings of long-term securities since 2021, accounting for them on a hold-to-maturity basis.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Collapse of Silicon Valley Bank",
+          "url": "https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why $42 billion fled one bank overnight.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In March 2023, Silicon Valley Bank faced a run.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It had loaded up on long-term bonds since 2021.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "When rates rose, those bonds lost value.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Another $100 billion was expected to leave the next day.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Regulators seized it: the third-largest U.S. bank failure.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why deposit insurance is a speed test, not just a promise.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-radiotherapy-linear-accelerator-is-so-hard-to-replace",
+      "topic": "The Machine That Overdosed Patients 100 Times",
+      "coreQuestion": "How did a software bug in a radiotherapy machine deliver lethal overdoses?",
+      "openingLine": "Why one machine overdosed patients 100 times over.",
+      "secondBeat": "The Therac-25 treated cancer with radiation beams.",
+      "dependency": "Cancer treatment depends on radiotherapy machines delivering exactly the prescribed dose.",
+      "mechanism": "Software sets beam mode and intensity; hardware interlocks should block dangerous combinations.",
+      "bottleneck": "The design relied on software alone to prevent overdoses.",
+      "failureConsequence": "Race conditions let the machine fire a high-current beam without its safety target.",
+      "resilience": "Hardware interlocks and independent safety analysis became standard.",
+      "expectedConsequence": "patients receive massive overdoses unseen by operators",
+      "number": "100× dose",
+      "thumbnailText": "100× THE DOSE",
+      "visualScenes": [
+        "radiotherapy machine in a treatment room",
+        "software race condition diagram",
+        "dose comparison chart",
+        "hardware interlock",
+        "operator console error message",
+        "safety engineering checklist"
+      ],
+      "editorialTitles": [
+        "The Software Bug That Overdosed Patients",
+        "Why Safety Can't Rely on Software Alone"
+      ],
+      "facts": [
+        {
+          "claim": "Because of concurrent programming errors (race conditions), it sometimes gave its patients radiation doses that were up to 250 times higher than normal, resulting in death or serious injury.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Therac-25",
+          "url": "https://en.wikipedia.org/wiki/Therac-25"
+        },
+        {
+          "claim": "The high-current electron beam struck the patients with approximately 100 times the intended dose of radiation, and over a narrower area.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Therac-25",
+          "url": "https://en.wikipedia.org/wiki/Therac-25"
+        },
+        {
+          "claim": "He calculated that the applied dose was between 15,000 and 20,000 rad (150…200 Gy) when she should have been dosed with 200 rad (2 Gy).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Therac-25",
+          "url": "https://en.wikipedia.org/wiki/Therac-25"
+        },
+        {
+          "claim": "The Therac-25 was a computer-controlled radiation therapy machine.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Therac-25",
+          "url": "https://en.wikipedia.org/wiki/Therac-25"
+        },
+        {
+          "claim": "A full-body dose of 1000 rad (10 Gy) can be fatal.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Therac-25",
+          "url": "https://en.wikipedia.org/wiki/Therac-25"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one machine overdosed patients 100 times over.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The Therac-25 treated cancer with radiation beams.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Software race conditions let it fire the wrong beam.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Some doses were up to 250 times higher than normal.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "One patient got about 15,000 rad instead of 200.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its safety depended on software, with no hardware backstop.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why life-critical machines need independent interlocks.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    }
+  ]
+}

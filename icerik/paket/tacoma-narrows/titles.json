@@ -1,0 +1,409 @@
+{
+  "slug": "tacoma-narrows",
+  "format": "short",
+  "olusturuldu": "2026-09-27T12:32:58.349Z",
+  "secilen": "Filmed as It Fell: The Tacoma Narrows Collapse",
+  "secilenPuan": 58.2,
+  "mevcutPuan": 54.5,
+  "sablonOnerisi": {
+    "baslik": "The Real Reason the Tacoma Narrows Bridge Tore Itself Apart",
+    "puan": 72.5,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 15,
+  "adaylar": [
+    {
+      "baslik": "The Real Reason the Tacoma Narrows Bridge Tore Itself Apart",
+      "kalip": "real-reason",
+      "toplam": 72.5,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "Why Glass Explodes for No Reason"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "The Tacoma Narrows Bridge Didn't Just Fail — It Tore Itself Apart",
+      "kalip": "two-beat",
+      "toplam": 66,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 8,
+        "tension": 10,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 8.2
+      },
+      "similarity": {
+        "max": 0.09,
+        "closest": "How a Hurricane Tears a House Apart"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.88,
+      "notes": [
+        "long for Shorts feed (65 chars)",
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "template:didnt-just-fail"
+    },
+    {
+      "baslik": "1940: The Tacoma Narrows Bridge Tore Itself Apart",
+      "kalip": "label-colon",
+      "toplam": 64.7,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "How a Hurricane Tears a House Apart"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "Filmed as It Fell: The Tacoma Narrows Collapse",
+      "kalip": "label-colon",
+      "toplam": 58.2,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "What Really Destroyed the Tacoma Narrows Bridge",
+      "kalip": "what-really",
+      "toplam": 58.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "How Rust Silently Destroys Bridges and Ships"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-really"
+    },
+    {
+      "baslik": "Aeroelastic Flutter: The Force That Destroyed the Tacoma Narrows Bridge",
+      "kalip": "label-colon",
+      "toplam": 57.6,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 9.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "The Disaster That Ended the Age of the Airship"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.86,
+      "notes": [
+        "long for Shorts feed (71 chars)",
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:mechanism-force"
+    },
+    {
+      "baslik": "How a 40 Mph Wind Brought Down the Tacoma Narrows Bridge",
+      "kalip": "how",
+      "toplam": 55.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Munich 1958: The Slush That Brought Down Manchester United's Plane"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.86,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-trigger"
+    },
+    {
+      "baslik": "Why the Tacoma Narrows Bridge Tore Itself Apart",
+      "kalip": "why",
+      "toplam": 54.5,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "The Bridge That Started Twisting — Then Tore Itself Apart",
+      "kalip": "the-x-that",
+      "toplam": 53.5,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 10,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 5,
+        "suggested": 8.2
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why the Tacoma Narrows Bridge Failed",
+      "kalip": "why",
+      "toplam": 48.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "template:plain-why"
+    },
+    {
+      "baslik": "The Bridge That Tore Itself Apart",
+      "kalip": "the-x-that",
+      "toplam": 47,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 5,
+        "suggested": 6.8
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "How a Hurricane Tears a House Apart"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "Why a 40 MPH Wind Destroyed a Brand-New Bridge",
+      "kalip": "why",
+      "toplam": 46.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 5,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "How Rust Silently Destroys Bridges and Ships"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The Wind That Twisted a Bridge to Death",
+      "kalip": "the-x-that",
+      "toplam": 40.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 5,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "The Wrong Voltage That Nearly Killed Apollo 13"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "40 MPH. That's All It Took",
+      "kalip": "label-colon",
+      "toplam": 37.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.09,
+        "closest": "208 Seconds: How Geese Took Out Both Engines of Flight 1549"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:number-all-it-took"
+    },
+    {
+      "baslik": "Tacoma Narrows Explained",
+      "kalip": "explained",
+      "toplam": 37,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.08,
+        "closest": "Why Glass Explodes for No Reason"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

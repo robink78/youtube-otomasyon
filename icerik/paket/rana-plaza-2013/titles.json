@@ -1,0 +1,673 @@
+{
+  "slug": "rana-plaza-2013",
+  "format": "short",
+  "olusturuldu": "2026-10-03T11:30:29.207Z",
+  "secilen": "Why Rana Plaza Collapsed With Garment Workers Inside",
+  "secilenPuan": 52.5,
+  "mevcutPuan": 52.5,
+  "sablonOnerisi": {
+    "baslik": "The Real Reason Rana Plaza Collapsed With Garment Workers Inside",
+    "puan": 69.7,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 25,
+  "adaylar": [
+    {
+      "baslik": "The Real Reason Rana Plaza Collapsed With Garment Workers Inside",
+      "kalip": "real-reason",
+      "toplam": 69.7,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.9
+      },
+      "similarity": {
+        "max": 0.23,
+        "closest": "The Locked Doors That Trapped Garment Workers in a Fire"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (64 chars)"
+      ],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "Rana Plaza Didn't Just Fail — It Collapsed With Garment Workers Inside",
+      "kalip": "two-beat",
+      "toplam": 66.7,
+      "kriterler": {
+        "curiosity": 9,
+        "clarity": 8,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 8.4
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "The Locked Doors That Trapped Garment Workers in a Fire"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.86,
+      "notes": [
+        "long for Shorts feed (70 chars)",
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "template:didnt-just-fail"
+    },
+    {
+      "baslik": "How Rana Plaza Became Collapsed With Garment Workers Inside",
+      "kalip": "how",
+      "toplam": 59.5,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.9
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "The Locked Doors That Trapped Garment Workers in a Fire"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-became"
+    },
+    {
+      "baslik": "What Engineers Learned From Rana Plaza",
+      "kalip": "what",
+      "toplam": 56.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.22,
+        "closest": "How Engineers Stopped the Leaning Tower From Falling"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:lesson"
+    },
+    {
+      "baslik": "What Really Destroyed Rana Plaza",
+      "kalip": "what-really",
+      "toplam": 55.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "A Photo Shoot That Destroyed a Supersonic Bomber"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-really"
+    },
+    {
+      "baslik": "How Cracks Ignored the Day Before Brought Down Rana Plaza",
+      "kalip": "how",
+      "toplam": 53.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "A Tanker Fire Under I-95 Brought Down the Highway"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-trigger"
+    },
+    {
+      "baslik": "2013: Rana Plaza Collapsed With Garment Workers Inside",
+      "kalip": "label-colon",
+      "toplam": 52.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "The Locked Doors That Trapped Garment Workers in a Fire"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "Why Rana Plaza Collapsed With Garment Workers Inside",
+      "kalip": "why",
+      "toplam": 52.5,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.9
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "The Locked Doors That Trapped Garment Workers in a Fire"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "The Building That Collapsed With Garment Workers Inside",
+      "kalip": "the-x-that",
+      "toplam": 47,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 5,
+        "suggested": 6.9
+      },
+      "similarity": {
+        "max": 0.29,
+        "closest": "The Locked Doors That Trapped Garment Workers in a Fire"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "The First Failure Inside Rana Plaza",
+      "kalip": "statement",
+      "toplam": 45.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.3,
+        "closest": "Inside Van Norman Dam: The Failure Chain"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:first-failure"
+    },
+    {
+      "baslik": "Why Rana Plaza Collapsed",
+      "kalip": "why",
+      "toplam": 45.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.27,
+        "closest": "Why Do Bridges Collapse?"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Inside Rana Plaza: The Failure Chain",
+      "kalip": "label-colon",
+      "toplam": 43.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.46,
+        "closest": "Inside Van Norman Dam: The Failure Chain"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:inside-chain"
+    },
+    {
+      "baslik": "Rana Plaza: What Failed First",
+      "kalip": "label-colon",
+      "toplam": 43.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.43,
+        "closest": "Eastern 212: What Failed First"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:failed-first"
+    },
+    {
+      "baslik": "Rana Plaza: The Engineering Behind the Failure",
+      "kalip": "label-colon",
+      "toplam": 42.7,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.25,
+        "closest": "An Engine Failure the Crew Made Worse"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:engineering-behind"
+    },
+    {
+      "baslik": "Rana Plaza: 5 Failures in Sequence",
+      "kalip": "label-colon",
+      "toplam": 42.6,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Seawater in the Batteries, Then Silence"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:failure-count"
+    },
+    {
+      "baslik": "Why Rana Plaza Failed",
+      "kalip": "why",
+      "toplam": 39.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Eastern 212: What Failed First"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "template:plain-why"
+    },
+    {
+      "baslik": "The Chain Reaction Behind Rana Plaza",
+      "kalip": "statement",
+      "toplam": 35.3,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Inside Van Norman Dam: The Failure Chain"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:chain-reaction"
+    },
+    {
+      "baslik": "Rana Plaza Explained",
+      "kalip": "explained",
+      "toplam": 34.2,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "The Unexplained Turn That Sank a Destroyer"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    },
+    {
+      "baslik": "Rana Plaza: Cause, Chain, Consequence",
+      "kalip": "label-colon",
+      "toplam": 33.3,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "The Anchor Handler Pulled Over by Its Own Chain"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:cause-chain-consequence"
+    },
+    {
+      "baslik": "Workers Were Sent Back Into a Cracked Building",
+      "kalip": "statement",
+      "toplam": 30.7,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 5,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "The Locked Doors That Trapped Garment Workers in a Fire"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Rana Plaza: How Overloaded Structure With Illegal Floors, Heavy Machinery and Generators on Weak Ground Took Over",
+      "kalip": "label-colon",
+      "toplam": 30.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 2,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 7,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "The Refinery Tower Overfilled for Hours Before It Exploded"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.92,
+      "notes": [
+        "long for Shorts feed (113 chars)",
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:mechanism-took-over"
+    },
+    {
+      "baslik": "The Cracks That Were Ignored",
+      "kalip": "the-x-that",
+      "toplam": 30,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 2,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.25,
+        "closest": "The Bridge That Was Cracking Before It Fell"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "1,134 DIED: The Scale of Rana Plaza",
+      "kalip": "label-colon",
+      "toplam": 26.6,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 7,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.2
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "The Roof Ripped Off a Plane at 24,000 Feet"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:number-scale"
+    },
+    {
+      "baslik": "The Trigger That Started Rana Plaza",
+      "kalip": "the-x-that",
+      "toplam": 22.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "The Military Charter That Crashed Leaving Gander"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "only 50% of title words are supported by the script",
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:trigger-started"
+    },
+    {
+      "baslik": "1,134 DIED. That's All It Took",
+      "kalip": "label-colon",
+      "toplam": 15.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 7,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "The Jet That Took Off From the Wrong Runway"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 0.75,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"label-colon\" already used by 7 other videos"
+      ],
+      "kaynak": "template:number-all-it-took"
+    }
+  ],
+  "yontem": "At least 20 structurally distinct editorial/template candidates; heuristic scoring 0-10 per criterion weighted to /100, minus similarity and clickbait penalties. Not a prediction of CTR."
+}

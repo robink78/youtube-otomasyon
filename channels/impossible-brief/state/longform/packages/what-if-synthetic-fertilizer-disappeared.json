@@ -1,0 +1,1956 @@
+{
+  "schema": "growth-longform-package/1",
+  "channel": "impossible-brief",
+  "channelName": "ImpossibleBrief",
+  "contentType": "long",
+  "createdAt": "2026-09-30T15:48:34.232Z",
+  "topic": {
+    "id": "IB-OTH-020",
+    "slug": "what-if-synthetic-fertilizer-disappeared",
+    "title": "What If Synthetic Fertilizer Disappeared?",
+    "subject": "the world",
+    "cluster": "OTHER"
+  },
+  "LongFormPotential": {
+    "channel": "impossible-brief",
+    "topicId": "IB-OTH-020",
+    "slug": "what-if-synthetic-fertilizer-disappeared",
+    "title": "What If Synthetic Fertilizer Disappeared?",
+    "cluster": "OTHER",
+    "LongFormPotentialScore": 78,
+    "bucket": "A",
+    "reasons": [
+      "LongFormPotential 78 ≥ 78"
+    ],
+    "factors": {
+      "DepthPotential": {
+        "value": 94,
+        "basis": "derived+inventory-signal"
+      },
+      "NarrativeDepth": {
+        "value": 45,
+        "basis": "derived"
+      },
+      "SourceDepth": {
+        "value": 91,
+        "basis": "derived",
+        "note": "4 sources, 4 primary"
+      },
+      "VisualDepth": {
+        "value": 98,
+        "basis": "inventory-signal"
+      },
+      "EngineeringOrScientificDepth": {
+        "value": 92,
+        "basis": "inventory-signal"
+      },
+      "SearchDemand": {
+        "value": 55,
+        "basis": "derived",
+        "note": "seed estimate unless measured"
+      },
+      "EvergreenPotential": {
+        "value": 96,
+        "basis": "inventory-signal"
+      },
+      "AudienceFit": {
+        "value": 100,
+        "basis": "inventory-signal"
+      },
+      "ShortsEvidence": {
+        "value": 50,
+        "basis": "derived",
+        "note": "no published Short in this cluster yet — neutral"
+      },
+      "SeriesPotential": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "ViewerJourneyPotential": {
+        "value": 55,
+        "basis": "derived"
+      }
+    },
+    "weights": {
+      "DepthPotential": 1.2,
+      "NarrativeDepth": 1.1,
+      "SourceDepth": 1.2,
+      "VisualDepth": 1,
+      "EngineeringOrScientificDepth": 1.3,
+      "SearchDemand": 0.9,
+      "EvergreenPotential": 0.9,
+      "AudienceFit": 0.8,
+      "ShortsEvidence": 1,
+      "SeriesPotential": 0.8,
+      "ViewerJourneyPotential": 1
+    },
+    "specificEvidence": 12
+  },
+  "researchPackage": {
+    "id": "impossible-brief:what-if-synthetic-fertilizer-disappeared",
+    "sources": [
+      {
+        "name": "NOAA",
+        "url": "https://www.noaa.gov/science",
+        "tier": "GOVERNMENT_AGENCY",
+        "score": 95
+      },
+      {
+        "name": "National Institutes of Health",
+        "url": "https://www.nih.gov/research-training",
+        "tier": "GOVERNMENT_AGENCY",
+        "score": 95
+      },
+      {
+        "name": "NIST",
+        "url": "https://www.nist.gov/topics/physics",
+        "tier": "GOVERNMENT_AGENCY",
+        "score": 95
+      },
+      {
+        "name": "U.S. Geological Survey",
+        "url": "https://www.usgs.gov/science",
+        "tier": "GOVERNMENT_AGENCY",
+        "score": 95
+      },
+      {
+        "name": "Wikipedia — World",
+        "url": "https://en.wikipedia.org/wiki/World",
+        "tier": "ENCYCLOPEDIA",
+        "score": 55
+      }
+    ],
+    "claims": 180,
+    "deepResearch": {
+      "article": "World",
+      "via": "subject title (exact/redirect match, no fuzzy search)",
+      "claims": 160,
+      "status": "OK",
+      "licence": "CC BY-SA 4.0 — facts only; never narrate verbatim"
+    },
+    "gaps": [],
+    "reuseCount": 0
+  },
+  "outline": {
+    "structure": [
+      "COLD_OPEN",
+      "IMPOSSIBLE_QUESTION",
+      "INITIAL_CONDITIONS",
+      "FIRST_EFFECT",
+      "SECOND_ORDER_EFFECT",
+      "SYSTEM_WIDE_CONSEQUENCE",
+      "SCIENCE_EXPLANATION",
+      "LIMITS_UNCERTAINTIES",
+      "FINAL_SCIENTIFIC_PAYOFF"
+    ],
+    "sections": [
+      {
+        "order": 1,
+        "section": "COLD_OPEN",
+        "question": "What is the unresolved consequence the viewer sees first?",
+        "claimIds": [
+          "C1",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11",
+          "C12",
+          "C13",
+          "C21"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 2,
+        "section": "IMPOSSIBLE_QUESTION",
+        "question": "What exactly is being asked?",
+        "claimIds": [
+          "C1",
+          "C21"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 3,
+        "section": "INITIAL_CONDITIONS",
+        "question": "What do we assume?",
+        "claimIds": [
+          "C2",
+          "C119",
+          "C120",
+          "C121",
+          "C122"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 4,
+        "section": "FIRST_EFFECT",
+        "question": "What changes first?",
+        "claimIds": [
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11",
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C22",
+          "C23",
+          "C24",
+          "C25",
+          "C26",
+          "C27",
+          "C28",
+          "C29",
+          "C30",
+          "C31",
+          "C32",
+          "C33",
+          "C34",
+          "C35",
+          "C36",
+          "C37",
+          "C38",
+          "C39",
+          "C40",
+          "C41",
+          "C42",
+          "C43",
+          "C44",
+          "C45",
+          "C46",
+          "C47",
+          "C48",
+          "C49",
+          "C50",
+          "C51",
+          "C52",
+          "C53",
+          "C54",
+          "C55",
+          "C56",
+          "C57",
+          "C58",
+          "C59",
+          "C60",
+          "C61",
+          "C62",
+          "C63",
+          "C64",
+          "C65",
+          "C66",
+          "C67",
+          "C68",
+          "C69",
+          "C70",
+          "C71",
+          "C72",
+          "C73",
+          "C74",
+          "C75",
+          "C76",
+          "C77",
+          "C78",
+          "C79",
+          "C80",
+          "C81",
+          "C82",
+          "C83",
+          "C84",
+          "C85",
+          "C86",
+          "C87",
+          "C88",
+          "C89",
+          "C90",
+          "C91",
+          "C92",
+          "C93",
+          "C94",
+          "C95",
+          "C96",
+          "C97",
+          "C98",
+          "C99",
+          "C100",
+          "C101",
+          "C102",
+          "C103",
+          "C104",
+          "C105",
+          "C106",
+          "C107",
+          "C108",
+          "C109",
+          "C110",
+          "C111",
+          "C112",
+          "C113",
+          "C114",
+          "C115",
+          "C116",
+          "C117",
+          "C118",
+          "C123",
+          "C124",
+          "C125",
+          "C126",
+          "C127",
+          "C128",
+          "C129",
+          "C130",
+          "C131",
+          "C132",
+          "C133",
+          "C134",
+          "C135",
+          "C136",
+          "C137",
+          "C138",
+          "C139",
+          "C140",
+          "C141",
+          "C142",
+          "C143",
+          "C144",
+          "C145",
+          "C146",
+          "C147",
+          "C148",
+          "C149",
+          "C150",
+          "C151",
+          "C152",
+          "C153",
+          "C154",
+          "C155",
+          "C156",
+          "C157",
+          "C158",
+          "C159",
+          "C160",
+          "C161",
+          "C162",
+          "C163",
+          "C164",
+          "C165",
+          "C166",
+          "C167",
+          "C168",
+          "C169",
+          "C170",
+          "C171",
+          "C172",
+          "C173",
+          "C174",
+          "C175",
+          "C176",
+          "C177",
+          "C178",
+          "C179",
+          "C180"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 5,
+        "section": "SECOND_ORDER_EFFECT",
+        "question": "What does that trigger?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 6,
+        "section": "SYSTEM_WIDE_CONSEQUENCE",
+        "question": "How far does it spread?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 7,
+        "section": "SCIENCE_EXPLANATION",
+        "question": "What physics governs it?",
+        "claimIds": [
+          "C3"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 8,
+        "section": "LIMITS_UNCERTAINTIES",
+        "question": "What can science not predict here?",
+        "claimIds": [
+          "C20"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 9,
+        "section": "FINAL_SCIENTIFIC_PAYOFF",
+        "question": "What is the answer?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      }
+    ],
+    "missingSections": [
+      "SECOND_ORDER_EFFECT",
+      "SYSTEM_WIDE_CONSEQUENCE",
+      "FINAL_SCIENTIFIC_PAYOFF"
+    ],
+    "coverage": 67
+  },
+  "coldOpens": {
+    "candidates": [
+      {
+        "type": "visual_first_reveal",
+        "text": "Why 7.7 billion people depend on air-made fertilizer.",
+        "score": 74,
+        "estimatedSeconds": 2.5
+      },
+      {
+        "type": "contradiction",
+        "text": "Air is about 78% nitrogen, but it barely reacts.",
+        "score": 73,
+        "estimatedSeconds": 2.8
+      },
+      {
+        "type": "impossible_question",
+        "text": "What If Synthetic Fertilizer Disappeared?",
+        "score": 69,
+        "estimatedSeconds": 1.6
+      },
+      {
+        "type": "hidden_cause",
+        "text": "The world lost synthetic nitrogen fertilizer.",
+        "score": 69,
+        "estimatedSeconds": 1.9
+      },
+      {
+        "type": "impossible_sounding_fact",
+        "text": "Each pass converts only about 15% into ammonia.",
+        "score": 68,
+        "estimatedSeconds": 2.5
+      },
+      {
+        "type": "before_after_consequence",
+        "text": "Without it, today's harvests couldn't feed today's population.",
+        "score": 68,
+        "estimatedSeconds": 2.5
+      },
+      {
+        "type": "shocking_consequence",
+        "text": "Harvests would fall far below what today's population needs.",
+        "score": 66,
+        "estimatedSeconds": 2.8
+      },
+      {
+        "type": "misconception_reversal",
+        "text": "It would not all happen at once.",
+        "score": 63,
+        "estimatedSeconds": 2.2
+      },
+      {
+        "type": "unexpected_chain_reaction",
+        "text": "The Haber process pulls nitrogen from the air.",
+        "score": 62,
+        "estimatedSeconds": 2.5
+      },
+      {
+        "type": "question_gap",
+        "text": "What changes first?",
+        "score": 61,
+        "estimatedSeconds": 0.9
+      },
+      {
+        "type": "scarcity_bottleneck",
+        "text": "On each pass, only about 15% conversion occurs; due to the recycling of leftover reactants, eventually conversion of 97% is achieved.",
+        "score": 55,
+        "estimatedSeconds": 6.6
+      }
+    ],
+    "selected": {
+      "type": "visual_first_reveal",
+      "text": "Why 7.7 billion people depend on air-made fertilizer.",
+      "score": 74,
+      "estimatedSeconds": 2.5
+    }
+  },
+  "script": {
+    "generator": "deterministic-evidence",
+    "llmError": null,
+    "depthNote": null,
+    "sections": [
+      {
+        "section": "COLD_OPEN",
+        "paragraphs": [
+          {
+            "text": "Why 7.7 billion people depend on air-made fertilizer.",
+            "claims": [],
+            "role": "cold-open"
+          }
+        ]
+      },
+      {
+        "section": "IMPOSSIBLE_QUESTION",
+        "paragraphs": [
+          {
+            "text": "Start with the assumption. Harvests would fall far below what today's population needs.",
+            "claims": [
+              "C1"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "INITIAL_CONDITIONS",
+        "paragraphs": [
+          {
+            "text": "That is the first effect — but not the biggest. Assume the world lost synthetic nitrogen fertilizer.",
+            "claims": [
+              "C2"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "FIRST_EFFECT",
+        "paragraphs": [
+          {
+            "text": "The second-order effect is stranger. Why 7.7 billion people depend on air-made fertilizer. The Haber process pulls nitrogen from the air. Air is about 78% nitrogen, but it barely reacts. Each pass converts only about 15% into ammonia. Recycling the gases eventually reaches 97% conversion. It uses 3 to 5% of the world's natural gas. Without it, today's harvests couldn't feed today's population. So much of the food on your plate began as air. The Haber process enabled the global population to increase from 1.6 billion in 1900 to 7.7 billion by November 2018. Although atmospheric nitrogen (N2) is abundant, comprising ~78% of the air, it is exceptionally stable and does not readily react with other chemicals. On each pass, only about 15% conversion occurs; due to the recycling of leftover reactants, eventually conversion of 97% is achieved. The Haber process consumes 3–5% of the world's natural gas production (around 1–2% of the world's energy supply). The Haber process fixes atmospheric nitrogen into ammonia, the basis of most nitrogen fertilizer. The world lost synthetic nitrogen fertilizer.",
+            "claims": [
+              "C6",
+              "C7",
+              "C8",
+              "C9",
+              "C10",
+              "C11",
+              "C12",
+              "C13",
+              "C14",
+              "C15",
+              "C16",
+              "C17",
+              "C18",
+              "C19"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "SECOND_ORDER_EFFECT",
+        "paragraphs": []
+      },
+      {
+        "section": "SYSTEM_WIDE_CONSEQUENCE",
+        "paragraphs": []
+      },
+      {
+        "section": "SCIENCE_EXPLANATION",
+        "paragraphs": [
+          {
+            "text": "And here is where science stops being certain. The governing physics: the Haber process fixes atmospheric nitrogen into ammonia, the basis of most nitrogen fertilizer.",
+            "claims": [
+              "C3"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "LIMITS_UNCERTAINTIES",
+        "paragraphs": [
+          {
+            "text": "So what is the answer? The exact timeline depends on how the impossible change happens; the order of effects is what established physics constrains.",
+            "claims": [
+              "C20"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "FINAL_SCIENTIFIC_PAYOFF",
+        "paragraphs": []
+      }
+    ],
+    "words": 263,
+    "estimatedMinutes": 1.8,
+    "paragraphs": 6,
+    "secondsPerNewBeat": 18
+  },
+  "claimSourceMap": {
+    "rows": [
+      {
+        "section": "COLD_OPEN",
+        "excerpt": "Why 7.7 billion people depend on air-made fertilizer.",
+        "claims": []
+      },
+      {
+        "section": "IMPOSSIBLE_QUESTION",
+        "excerpt": "Start with the assumption. Harvests would fall far below what today's population needs.",
+        "claims": [
+          {
+            "id": "C1",
+            "class": "CONFIRMED_FACT",
+            "source": "NOAA"
+          }
+        ]
+      },
+      {
+        "section": "INITIAL_CONDITIONS",
+        "excerpt": "That is the first effect — but not the biggest. Assume the world lost synthetic nitrogen f",
+        "claims": [
+          {
+            "id": "C2",
+            "class": "SPECULATION",
+            "source": "NOAA"
+          }
+        ]
+      },
+      {
+        "section": "FIRST_EFFECT",
+        "excerpt": "The second-order effect is stranger. Why 7.7 billion people depend on air-made fertilizer.",
+        "claims": [
+          {
+            "id": "C6",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C7",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C8",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C9",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C10",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C11",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C12",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C13",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C14",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Haber process"
+          },
+          {
+            "id": "C15",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Haber process"
+          },
+          {
+            "id": "C16",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Haber process"
+          },
+          {
+            "id": "C17",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Haber process"
+          },
+          {
+            "id": "C18",
+            "class": "CONFIRMED_FACT",
+            "source": "NOAA"
+          },
+          {
+            "id": "C19",
+            "class": "SPECULATION",
+            "source": "NOAA"
+          }
+        ]
+      },
+      {
+        "section": "SCIENCE_EXPLANATION",
+        "excerpt": "And here is where science stops being certain. The governing physics: the Haber process fi",
+        "claims": [
+          {
+            "id": "C3",
+            "class": "CONFIRMED_FACT",
+            "source": "NOAA"
+          }
+        ]
+      },
+      {
+        "section": "LIMITS_UNCERTAINTIES",
+        "excerpt": "So what is the answer? The exact timeline depends on how the impossible change happens; th",
+        "claims": [
+          {
+            "id": "C20",
+            "class": "SPECULATION",
+            "source": "ImpossibleBrief claim framework"
+          }
+        ]
+      }
+    ],
+    "unsupportedParagraphs": 0,
+    "unsupportedNumbers": [],
+    "copyRisks": []
+  },
+  "scenePlan": [
+    {
+      "scene": 1,
+      "narrationSpan": [
+        0,
+        3
+      ],
+      "section": "COLD_OPEN",
+      "visualPurpose": "visualise scenario",
+      "visualType": "SIMULATION",
+      "subject": "Haber process reactor diagram",
+      "asset": "Haber process reactor diagram",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 3.2,
+      "motion": "slow push-in to detail",
+      "claimSupported": null,
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 2,
+      "narrationSpan": [
+        3,
+        8
+      ],
+      "section": "IMPOSSIBLE_QUESTION",
+      "visualPurpose": "visualise scenario",
+      "visualType": "ILLUSTRATION",
+      "subject": "air composition pie showing 78% nitrogen",
+      "asset": "air composition pie showing 78% nitrogen",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 5.2,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C1",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 3,
+      "narrationSpan": [
+        8,
+        15
+      ],
+      "section": "INITIAL_CONDITIONS",
+      "visualPurpose": "visualise scenario",
+      "visualType": "ILLUSTRATION",
+      "subject": "ammonia recycle loop",
+      "asset": "ammonia recycle loop",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 6.8,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C2",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 4,
+      "narrationSpan": [
+        15,
+        33
+      ],
+      "section": "FIRST_EFFECT",
+      "visualPurpose": "visualise scenario",
+      "visualType": "ILLUSTRATION",
+      "subject": "fertilizer spreading on a field",
+      "asset": "fertilizer spreading on a field",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 17.6,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C6",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 5,
+      "narrationSpan": [
+        33,
+        50
+      ],
+      "section": "FIRST_EFFECT",
+      "visualPurpose": "visualise scenario",
+      "visualType": "ILLUSTRATION",
+      "subject": "population curve from 1900",
+      "asset": "population curve from 1900",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 17.6,
+      "motion": "lateral reframe / crop to evidence",
+      "claimSupported": "C7",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 6,
+      "narrationSpan": [
+        50,
+        68
+      ],
+      "section": "FIRST_EFFECT",
+      "visualPurpose": "visualise scenario",
+      "visualType": "ILLUSTRATION",
+      "subject": "natural gas feed pipeline",
+      "asset": "natural gas feed pipeline",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 17.6,
+      "motion": "hold, animated highlight on the claimed element",
+      "claimSupported": "C8",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 7,
+      "narrationSpan": [
+        68,
+        86
+      ],
+      "section": "FIRST_EFFECT",
+      "visualPurpose": "visualise scenario",
+      "visualType": "ILLUSTRATION",
+      "subject": "Aegopodium podagraria1 ies",
+      "asset": "Commons: Aegopodium podagraria1 ies.jpg",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 17.6,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C9",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 8,
+      "narrationSpan": [
+        86,
+        96
+      ],
+      "section": "SCIENCE_EXPLANATION",
+      "visualPurpose": "explain mechanism",
+      "visualType": "DIAGRAM",
+      "subject": "The governing physics: the Haber process fixes atmospheric nitrogen into ammonia, the basis of",
+      "asset": "diagram:SCIENCE_EXPLANATION:C3",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 10,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C3",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 9,
+      "narrationSpan": [
+        96,
+        105
+      ],
+      "section": "LIMITS_UNCERTAINTIES",
+      "visualPurpose": "visualise scenario",
+      "visualType": "ILLUSTRATION",
+      "subject": "Home in Relation to Everything",
+      "asset": "Commons: Home in Relation to Everything.png",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 9.6,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C20",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    }
+  ],
+  "assetPlan": {
+    "byType": {
+      "SIMULATION": 1,
+      "ILLUSTRATION": 7,
+      "DIAGRAM": 1
+    },
+    "distinctSubjects": 9,
+    "archivalLeads": 13,
+    "articleImageCandidates": 7,
+    "overused": [],
+    "licensing": "record source, licence and URL per asset in GORSEL-KAYNAKLARI.txt (existing ledger)"
+  },
+  "thumbnails": {
+    "concepts": [
+      {
+        "id": "before-after",
+        "primarySubject": "the world",
+        "background": "split normal vs changed (labelled illustration)",
+        "visualHierarchy": "50/50 split",
+        "emotion": "unease",
+        "text": "WHAT CHANGES?",
+        "textLength": 13,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 80,
+          "VisualImpact": 85,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 91
+      },
+      {
+        "id": "countdown",
+        "primarySubject": "the world",
+        "background": "dark field with timer",
+        "visualHierarchy": "timer top-right",
+        "emotion": "urgency",
+        "text": "7.7 billion",
+        "textLength": 11,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 85,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 89
+      },
+      {
+        "id": "impossible-visual",
+        "primarySubject": "the world",
+        "background": "dark cosmic field",
+        "visualHierarchy": "single impossible change centred",
+        "emotion": "awe",
+        "text": "FOOD FROM AIR",
+        "textLength": 13,
+        "textWords": 3,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 87
+      },
+      {
+        "id": "scale",
+        "primarySubject": "the world",
+        "background": "Earth for scale",
+        "visualHierarchy": "tiny Earth, huge subject",
+        "emotion": "scale",
+        "text": "",
+        "textLength": 0,
+        "textWords": 0,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 87
+      },
+      {
+        "id": "first-effect",
+        "primarySubject": "first measurable effect",
+        "background": "labelled diagram",
+        "visualHierarchy": "arrow from cause to effect",
+        "emotion": "curiosity",
+        "text": "FIRST EFFECT",
+        "textLength": 12,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 80,
+          "VisualImpact": 85,
+          "TopicRecognition": 65,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 87
+      }
+    ],
+    "selected": {
+      "id": "before-after",
+      "primarySubject": "the world",
+      "background": "split normal vs changed (labelled illustration)",
+      "visualHierarchy": "50/50 split",
+      "emotion": "unease",
+      "text": "WHAT CHANGES?",
+      "textLength": 13,
+      "textWords": 2,
+      "contrast": "light subject on dark field; single accent colour",
+      "truthfulness": "evidence-consistent",
+      "mobileReadability": 100,
+      "scores": {
+        "Clarity": 95,
+        "Curiosity": 80,
+        "VisualImpact": 85,
+        "TopicRecognition": 90,
+        "MobileReadability": 100,
+        "Truthfulness": 100,
+        "ChannelFit": 86
+      },
+      "total": 91
+    },
+    "meetsMinimum": true
+  },
+  "titles": {
+    "selected": {
+      "title": "What If the World Lost Synthetic Nitrogen Fertilizer? the Full Scenario",
+      "source": "full-scenario",
+      "pattern": "statement",
+      "scores": {
+        "clarity": 99,
+        "curiosity": 76,
+        "specificity": 77,
+        "truthfulness": 85,
+        "searchIntent": 95,
+        "channelIdentity": 50,
+        "ctrPotential": 69,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "total": 81,
+      "adjustedTotal": 81,
+      "unsupportedWords": [
+        "scenario"
+      ],
+      "misleading": false
+    },
+    "selectedScore": 81,
+    "count": 23,
+    "candidates": [
+      {
+        "title": "What If the World Lost Synthetic Nitrogen Fertilizer? the Full Scenario",
+        "source": "full-scenario",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 99,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 50,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [
+          "scenario"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The World: A Scientific Thought Experiment",
+        "source": "thought-experiment",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 65,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 50,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 74,
+        "adjustedTotal": 74,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How Long Would Earth Last If Synthetic Fertilizer Disappeared?",
+        "source": "how-long",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 62,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 73,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Would Really Happen If Synthetic Fertilizer Disappeared?",
+        "source": "what-would-happen",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 72,
+        "adjustedTotal": 72,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What If Synthetic Fertilizer Disappeared?",
+        "source": "current",
+        "pattern": "what-if-question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 72,
+        "adjustedTotal": 72,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If Synthetic Fertilizer Disappeared: What Breaks First, and What Breaks Last",
+        "source": "first-last",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 91,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 67,
+          "novelty": 82,
+          "evergreenPotential": 75
+        },
+        "total": 69,
+        "adjustedTotal": 69,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Much of Your Food Began as Air",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 91,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 60,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 68,
+        "adjustedTotal": 68,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Could Humanity Survive If Synthetic Fertilizer Disappeared?",
+        "source": "survive",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 66,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 67,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Real Physics If Synthetic Fertilizer Disappeared",
+        "source": "real-physics",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 67,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If Synthetic Fertilizer Disappeared — Simulated With Real Science",
+        "source": "simulated",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 67,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If Synthetic Fertilizer Disappeared: First Effect to Final Outcome",
+        "source": "first-to-final",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 57,
+          "novelty": 93,
+          "evergreenPotential": 75
+        },
+        "total": 66,
+        "adjustedTotal": 66,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If Synthetic Fertilizer Disappeared — What Physics Says Happens Next",
+        "source": "physics-next",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 65,
+        "adjustedTotal": 65,
+        "unsupportedWords": [
+          "says"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "If Synthetic Fertilizer Disappeared: The Full Breakdown",
+        "source": "full-breakdown",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 53,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 64,
+        "adjustedTotal": 64,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Changes — And What Doesn't — If Synthetic Fertilizer Disappeared",
+        "source": "change-everything",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 90,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 64,
+        "adjustedTotal": 64,
+        "unsupportedWords": [
+          "doesnt"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Chemical Reaction Feeding Billions",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 97,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 60,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 63,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If Synthetic Fertilizer Disappeared: The Complete Scientific Timeline",
+        "source": "timeline",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 63,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "If Synthetic Fertilizer Disappeared, Minute by Minute",
+        "source": "minute-by-minute",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 63,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Chain Reaction That Follows If Synthetic Fertilizer Disappeared",
+        "source": "chain-reaction",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 63,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Every Consequence If Synthetic Fertilizer Disappeared, Explained",
+        "source": "every-consequence",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 63,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Day After Synthetic Fertilizer Disappeared",
+        "source": "day-after",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 63,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Scientists Can and Can't Predict If Synthetic Fertilizer Disappeared",
+        "source": "can-cant-predict",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 96,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 42,
+          "channelIdentity": 50,
+          "ctrPotential": 47,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 61,
+        "adjustedTotal": 61,
+        "unsupportedWords": [
+          "scientists",
+          "cant"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Second-Order Effects If Synthetic Fertilizer Disappeared",
+        "source": "second-order",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 50,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 60,
+        "adjustedTotal": 60,
+        "unsupportedWords": [
+          "second-order"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "If Synthetic Fertilizer Disappeared: Known Science, Estimates and Speculation",
+        "source": "known-estimates",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 90,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 35,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 58,
+        "adjustedTotal": 58,
+        "unsupportedWords": [
+          "estimates"
+        ],
+        "misleading": false
+      }
+    ]
+  },
+  "derivedShorts": {
+    "shorts": [
+      {
+        "angle": "impossible-question",
+        "hook": "Why 7.7 billion people depend on air-made fertilizer.",
+        "hookFamily": "countdown",
+        "hookScore": 74,
+        "first3SecondPlan": {
+          "narration": "Why 7.7 billion people depend on air-made fertilizer.",
+          "firstFrame": {
+            "description": "Haber process reactor diagram at the moment the impossible change begins",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "ILLUSTRATION",
+            "communicates": "mystery",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "Haber process reactor diagram at the moment the impossible change begins",
+          "onScreenText": "7.7 BILLION",
+          "motion": "scale shift: object shrinks/grows in 0.8 s, then hard cut",
+          "cutTiming": [
+            0,
+            1.3,
+            2.5
+          ],
+          "soundCue": "sub-bass swell resolving on the first cut",
+          "communicates": "mystery"
+        },
+        "miniNarrative": [
+          "Harvests would fall far below what today's population needs.",
+          "A world is a totality of entities."
+        ],
+        "payoff": "A world is a totality of entities.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "The full scenario gets much stranger — linked episode below.",
+        "claimIds": [
+          "C1",
+          "C21"
+        ]
+      },
+      {
+        "angle": "initial-conditions",
+        "hook": "Why 7.7 billion people depend on air-made fertilizer.",
+        "hookFamily": "countdown",
+        "hookScore": 74,
+        "first3SecondPlan": {
+          "narration": "Why 7.7 billion people depend on air-made fertilizer.",
+          "firstFrame": {
+            "description": "Haber process reactor diagram at the moment the impossible change begins",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "ILLUSTRATION",
+            "communicates": "mystery",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "Haber process reactor diagram at the moment the impossible change begins",
+          "onScreenText": "7.7 BILLION",
+          "motion": "scale shift: object shrinks/grows in 0.8 s, then hard cut",
+          "cutTiming": [
+            0,
+            1.3,
+            2.5
+          ],
+          "soundCue": "sub-bass swell resolving on the first cut",
+          "communicates": "mystery"
+        },
+        "miniNarrative": [
+          "Assume the world lost synthetic nitrogen fertilizer.",
+          "In philosophy, the term world has several possible meanings.",
+          "In some contexts, it refers to everything that makes up reality or the physical universe.",
+          "In others, it can mean have a specific ontological sense (see world disclosure)."
+        ],
+        "payoff": "While clarifying the concept of world has arguably always been among the basic tasks of Western philosophy, this theme appears to have been raised explicitly only at the start of the twentieth century,.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "The full scenario gets much stranger — linked episode below.",
+        "claimIds": [
+          "C2",
+          "C119",
+          "C120",
+          "C121",
+          "C122"
+        ]
+      },
+      {
+        "angle": "first-effect",
+        "hook": "Why 7.7 billion people depend on air-made fertilizer.",
+        "hookFamily": "impossible_sounding_fact",
+        "hookScore": 73,
+        "first3SecondPlan": {
+          "narration": "Why 7.7 billion people depend on air-made fertilizer.",
+          "firstFrame": {
+            "description": "Haber process reactor diagram at the moment the impossible change begins",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "ILLUSTRATION",
+            "communicates": "mystery",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "Haber process reactor diagram at the moment the impossible change begins",
+          "onScreenText": "7.7 BILLION",
+          "motion": "scale shift: object shrinks/grows in 0.8 s, then hard cut",
+          "cutTiming": [
+            0,
+            1.3,
+            2.5
+          ],
+          "soundCue": "sub-bass swell resolving on the first cut",
+          "communicates": "mystery"
+        },
+        "miniNarrative": [
+          "Why 7.7 billion people depend on air-made fertilizer.",
+          "The Haber process pulls nitrogen from the air.",
+          "Air is about 78% nitrogen, but it barely reacts.",
+          "Each pass converts only about 15% into ammonia."
+        ],
+        "payoff": "In Islam, the term \"dunya\" is used for the world.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "The full scenario gets much stranger — linked episode below.",
+        "claimIds": [
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11",
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C22",
+          "C23",
+          "C24",
+          "C25",
+          "C26",
+          "C27",
+          "C28",
+          "C29",
+          "C30",
+          "C31",
+          "C32",
+          "C33",
+          "C34",
+          "C35",
+          "C36",
+          "C37",
+          "C38",
+          "C39",
+          "C40",
+          "C41",
+          "C42",
+          "C43",
+          "C44",
+          "C45",
+          "C46",
+          "C47",
+          "C48",
+          "C49",
+          "C50",
+          "C51",
+          "C52",
+          "C53",
+          "C54",
+          "C55",
+          "C56",
+          "C57",
+          "C58",
+          "C59",
+          "C60",
+          "C61",
+          "C62",
+          "C63",
+          "C64",
+          "C65",
+          "C66",
+          "C67",
+          "C68",
+          "C69",
+          "C70",
+          "C71",
+          "C72",
+          "C73",
+          "C74",
+          "C75",
+          "C76",
+          "C77",
+          "C78",
+          "C79",
+          "C80",
+          "C81",
+          "C82",
+          "C83",
+          "C84",
+          "C85",
+          "C86",
+          "C87",
+          "C88",
+          "C89",
+          "C90",
+          "C91",
+          "C92",
+          "C93",
+          "C94",
+          "C95",
+          "C96",
+          "C97",
+          "C98",
+          "C99",
+          "C100",
+          "C101",
+          "C102",
+          "C103",
+          "C104",
+          "C105",
+          "C106",
+          "C107",
+          "C108",
+          "C109",
+          "C110",
+          "C111",
+          "C112",
+          "C113",
+          "C114",
+          "C115",
+          "C116",
+          "C117",
+          "C118",
+          "C123",
+          "C124",
+          "C125",
+          "C126",
+          "C127",
+          "C128",
+          "C129",
+          "C130",
+          "C131",
+          "C132",
+          "C133",
+          "C134",
+          "C135",
+          "C136",
+          "C137",
+          "C138",
+          "C139",
+          "C140",
+          "C141",
+          "C142",
+          "C143",
+          "C144",
+          "C145",
+          "C146",
+          "C147",
+          "C148",
+          "C149",
+          "C150",
+          "C151",
+          "C152",
+          "C153",
+          "C154",
+          "C155",
+          "C156",
+          "C157",
+          "C158",
+          "C159",
+          "C160",
+          "C161",
+          "C162",
+          "C163",
+          "C164",
+          "C165",
+          "C166",
+          "C167",
+          "C168",
+          "C169",
+          "C170",
+          "C171",
+          "C172",
+          "C173",
+          "C174",
+          "C175",
+          "C176",
+          "C177",
+          "C178",
+          "C179",
+          "C180"
+        ]
+      }
+    ],
+    "count": 3,
+    "meetsMinimum": true
+  },
+  "relatedShorts": [],
+  "nextVideos": {
+    "primary_next_video": {
+      "slug": "what-if-all-fungi-disappeared",
+      "videoId": null,
+      "title": "What If All Fungi Disappeared?",
+      "reason": "topic expansion; subject overlap 0.00, same cluster OTHER",
+      "score": 0.6
+    },
+    "secondary_next_video": {
+      "slug": "what-if-all-the-ants-disappeared",
+      "videoId": null,
+      "title": "What If All the Ants Disappeared?",
+      "reason": "topic expansion; subject overlap 0.00, same cluster OTHER",
+      "score": 0.6
+    }
+  },
+  "endScreenPlan": {
+    "primary_next_video": {
+      "slug": "what-if-all-fungi-disappeared",
+      "videoId": null,
+      "title": "What If All Fungi Disappeared?",
+      "reason": "topic expansion; subject overlap 0.00, same cluster OTHER",
+      "score": 0.6
+    },
+    "secondary_next_video": {
+      "slug": "what-if-all-the-ants-disappeared",
+      "videoId": null,
+      "title": "What If All the Ants Disappeared?",
+      "reason": "topic expansion; subject overlap 0.00, same cluster OTHER",
+      "score": 0.6
+    },
+    "playlist": "OTHER",
+    "subscribe_element": true,
+    "timing": {
+      "startSeconds": 88,
+      "durationSeconds": 20,
+      "note": "final 20 s; narration must not end abruptly"
+    },
+    "final_narration_transition": "That is one impossible change. The next one — What If All Fungi Disappeared? — breaks something different.",
+    "apiSupport": "UNSUPPORTED — YouTube Data API v3 has no end-screen write endpoint; configure in Studio (task emitted)."
+  },
+  "cost": {
+    "estimated_production_cost": 0.05,
+    "currency": "USD",
+    "breakdown": {
+      "llmTokens": 0,
+      "ttsMinutes": 1.8,
+      "renderMinutesCpu": 5.4,
+      "assets": 9,
+      "youtubeQuotaUnits": 1650
+    },
+    "note": "approximate; update config/growth-engine.json cost units from invoices"
+  },
+  "readiness": {
+    "LongFormProductionReadinessScore": 86,
+    "decision": "BLOCK",
+    "dimensions": {
+      "TopicDepth": 94,
+      "NarrativeQuality": 74,
+      "Hook": 74,
+      "ResearchQuality": 99,
+      "SourceCoverage": 100,
+      "FactualAccuracy": 100,
+      "ScriptRetention": 50,
+      "VisualCoverage": 90,
+      "AudioQuality": null,
+      "Editing": null,
+      "Thumbnail": 91,
+      "Title": 81,
+      "CopyrightSafety": 90,
+      "Disclosure": 95,
+      "EndScreenPlan": 90,
+      "ShortFunnelPotential": 70
+    },
+    "unmeasured": [
+      "AudioQuality",
+      "Editing"
+    ],
+    "hardFails": [
+      "INSUFFICIENT_DEPTH: evidence supports ~1.8 min; target 8–12 min — not padded"
+    ],
+    "notes": [
+      "160 deep-research claims need the LLM writer (LONGFORM_LLM=1 + ANTHROPIC_API_KEY); the deterministic writer never narrates encyclopedia text verbatim"
+    ],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "targetMinutes": [
+    8,
+    12
+  ],
+  "summary": {
+    "Channel": "ImpossibleBrief",
+    "Content Type": "LONG_FORM",
+    "Topic": "What If Synthetic Fertilizer Disappeared?",
+    "LongFormPotentialScore": 78,
+    "Topic Bucket": "A",
+    "Cold Open": "Why 7.7 billion people depend on air-made fertilizer.",
+    "Target Duration": "8–12 min",
+    "Actual Duration": "~1.8 min (script estimate, deterministic-evidence)",
+    "Scenes": 9,
+    "Thumbnail Score": 91,
+    "Title Score": 81,
+    "LongFormProductionReadinessScore": "86 → BLOCK",
+    "Related Shorts": "none published yet",
+    "Primary Next Video": "What If All Fungi Disappeared?"
+  }
+}

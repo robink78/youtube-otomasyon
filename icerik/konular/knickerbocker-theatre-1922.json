@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Record Snow Collapsed a Cinema Roof Onto Its Audience",
+  "kaynaklar": [
+    {
+      "ad": "knickerbocker-theatre-1.jpg",
+      "wikimedia": "KnickerbockerInterior.jpg"
+    },
+    {
+      "ad": "knickerbocker-theatre-2.jpg",
+      "wikimedia": "Collapsed roof following snow storm on January 28, 1922. Knickerbocker Theater located on the southwest corner of 18th Street and Columbia Road, N.W., Washington, D.C. LCCN2016891178.jpg"
+    },
+    {
+      "ad": "knickerbocker-theatre-3.jpg",
+      "wikimedia": "Knickerbocker disaster, (1-30-22) LCCN2016846036.jpg"
+    },
+    {
+      "ad": "knickerbocker-theatre-4.jpg",
+      "wikimedia": "Knickerbocker Theater disaster, (1-30-22) LCCN2016846022.jpg"
+    },
+    {
+      "ad": "knickerbocker-theatre-5.jpg",
+      "wikimedia": "Knickerbocker Theater disaster, (1-30-22) LCCN2016846023.jpg"
+    },
+    {
+      "ad": "knickerbocker-theatre-6.jpg",
+      "wikimedia": "Knickerbocker Theater jury, 2-15-22 LCCN2016846076.jpg"
+    },
+    {
+      "ad": "knickerbocker-theatre-7.jpg",
+      "wikimedia": "Knickerbocker Theater LOC npcc.05689.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "During a film, the roof of a Washington cinema collapsed.",
+      "kaynak": "Footage/knickerbocker-theatre-1.jpg"
+    },
+    {
+      "metin": "It crushed the audience below, and ninety eight people were killed.",
+      "kaynak": "Footage/knickerbocker-theatre-2.jpg"
+    },
+    {
+      "metin": "A record blizzard had buried the city.",
+      "kaynak": "Footage/knickerbocker-theatre-3.jpg"
+    },
+    {
+      "metin": "Heavy, wet snow piled on the flat roof.",
+      "kaynak": "Footage/knickerbocker-theatre-4.jpg"
+    },
+    {
+      "metin": "The roof's steel trusses weren't properly anchored to the walls.",
+      "kaynak": "Footage/knickerbocker-theatre-5.jpg"
+    },
+    {
+      "metin": "They slipped, and the roof dropped onto the balcony.",
+      "kaynak": "Footage/knickerbocker-theatre-6.jpg"
+    },
+    {
+      "metin": "The balcony and walls came down with it.",
+      "kaynak": "Footage/knickerbocker-theatre-7.jpg"
+    },
+    {
+      "metin": "Washington tightened its building codes afterward.",
+      "kaynak": "Footage/knickerbocker-theatre-1.jpg"
+    }
+  ],
+  "aciklama": "Knickerbocker Theatre had its roof collapse during a film. The cause: roof trusses slipping off their bearings under a heavy snow load.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Knickerbocker Theatre",
+    "1922",
+    "roof",
+    "engineering failure"
+  ],
+  "hook": "The roof fell mid-film",
+  "soru": "Snow or design?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "the Knickerbocker Theatre",
+    "kisa": "Knickerbocker Theatre",
+    "nesne": "Roof",
+    "yil": 1922,
+    "sonuc": "had its roof collapse during a film",
+    "tetik": "heavy wet snow from a record blizzard",
+    "mekanizma": "roof trusses slipping off their bearings under a heavy snow load",
+    "sayi": "98 KILLED",
+    "ders": "Washington tightened its building codes and inspections",
+    "zincir": [
+      "RECORD SNOWFALL",
+      "HEAVY WET SNOW ON FLAT ROOF",
+      "TRUSSES POORLY SUPPORTED",
+      "ROOF DROPS",
+      "BALCONY AND WALLS FALL"
+    ],
+    "zaman": [],
+    "yanilgi": "The snow alone didn't bring it down. The roof's steel trusses weren't properly anchored to the walls.",
+    "tartisma": "The architect and builder were later blamed. Should designers be held accountable decades later?",
+    "basliklar": [
+      "Record Snow Collapsed a Cinema Roof Onto Its Audience",
+      "Why the Knickerbocker Theatre Roof Collapsed",
+      "The Snow That Brought Down a Cinema"
+    ],
+    "kapak": [
+      "SNOW LOAD",
+      "98 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Knickerbocker Storm",
+        "url": "https://en.wikipedia.org/wiki/Knickerbocker_Storm"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — AR2009012101298 (cited by Wikipedia)",
+        "url": "https://www.washingtonpost.com/wp-dyn/content/article/2009/01/21/AR2009012101298.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Knickerbocker_Storm",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "KnickerbockerInterior.jpg [Public domain]",
+      "Collapsed roof following snow storm on January 28, 1922. Knickerbocker Theater located on the southwest corner of 18th Street and Columbia Road, N.W., Washington, D.C. LCCN2016891178.jpg [Public domain]",
+      "Knickerbocker disaster, (1-30-22) LCCN2016846036.jpg [Public domain]",
+      "Knickerbocker Theater disaster, (1-30-22) LCCN2016846022.jpg [Public domain]",
+      "Knickerbocker Theater disaster, (1-30-22) LCCN2016846023.jpg [Public domain]",
+      "Knickerbocker Theater jury, 2-15-22 LCCN2016846076.jpg [Public domain]",
+      "Knickerbocker Theater LOC npcc.05689.jpg [Public domain]"
+    ]
+  }
+}

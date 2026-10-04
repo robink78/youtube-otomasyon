@@ -1,0 +1,125 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": 4,
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "baslik": "NASA Crashed a Boeing 720 on Purpose — Then It Exploded",
+  "kaynaklar": [
+    {
+      "ad": "cid.ogv",
+      "wikimedia": "Controlled Impact Demonstration 2.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "NASA crashed a real four-engine jetliner on purpose.",
+      "kaynak": "Footage/cid.ogv",
+      "baslangic": 1
+    },
+    {
+      "metin": "It hit the ground and exploded in a fireball within seconds.",
+      "kaynak": "Footage/cid.ogv",
+      "baslangic": 21
+    },
+    {
+      "metin": "It was not supposed to burn at all.",
+      "kaynak": "Footage/cid.ogv",
+      "baslangic": 35
+    },
+    {
+      "metin": "Its fuel carried an additive meant to stop misting.",
+      "kaynak": "Footage/cid.ogv",
+      "baslangic": 9
+    },
+    {
+      "metin": "Spilled fuel sprays into a fine mist, and mist burns explosively.",
+      "kaynak": "Footage/cid.ogv",
+      "baslangic": 24
+    },
+    {
+      "metin": "Blades on the runway were built to rip open the wing tanks.",
+      "kaynak": "Footage/cid.ogv",
+      "baslangic": 19
+    },
+    {
+      "metin": "But the plane landed off-center, and an engine lit the fuel.",
+      "kaynak": "Footage/cid.ogv",
+      "baslangic": 6
+    },
+    {
+      "metin": "The additive failed, and the idea was abandoned.",
+      "kaynak": "Footage/cid.ogv",
+      "baslangic": 42
+    }
+  ],
+  "aciklama": "On December 1, 1984, NASA and the FAA crashed a remotely flown Boeing 720 to test anti-misting fuel. It was meant to prevent a fireball. It didn't.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Controlled Impact Demonstration",
+    "NASA",
+    "FAA",
+    "Boeing 720",
+    "anti-misting kerosene",
+    "crash test",
+    "1984"
+  ],
+  "hook": "Crashed on purpose",
+  "soru": "Failure or success?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the Controlled Impact Demonstration",
+    "kisa": "NASA CID",
+    "nesne": "Boeing 720",
+    "yil": 1984,
+    "sonuc": "burst into a fireball in a planned crash",
+    "tetik": "an off-center impact that let an engine ignite the fuel",
+    "mekanizma": "anti-misting kerosene failing to suppress a fuel-mist fireball",
+    "sayi": "1 TEST",
+    "ders": "the anti-misting fuel rule was dropped instead of mandated",
+    "zincir": [
+      "REMOTE JET AIMED AT WING CUTTERS",
+      "LANDS OFF-CENTER AND YAWS",
+      "CUTTER SLICES ENGINE AND TANK",
+      "FUEL MISTS, ENGINE IGNITES IT",
+      "FIREBALL: ADDITIVE FAILS"
+    ],
+    "zaman": [
+      {
+        "t": "Dec 1, 1984",
+        "olay": "Remotely piloted Boeing 720 takes off from Edwards AFB"
+      },
+      {
+        "t": "Impact",
+        "olay": "Lands left of centerline; a wing cutter slices an engine and tank"
+      },
+      {
+        "t": "Seconds later",
+        "olay": "Fireball engulfs the aircraft despite the additive"
+      },
+      {
+        "t": "1985",
+        "olay": "FAA drops the planned anti-misting fuel rule"
+      }
+    ],
+    "yanilgi": "It's often called a wasted $10 million crash. It answered its question — anti-misting fuel would not stop a real-world fire — and stopped an ineffective rule.",
+    "tartisma": "A failed experiment prevented a useless regulation. Would you call the test a failure or a success?",
+    "basliklar": [
+      "NASA Crashed a Jetliner on Purpose — and It Exploded",
+      "The Crash Test That Was Supposed to Stay Fireproof",
+      "Why NASA Deliberately Destroyed a Boeing 720",
+      "The Fuel That Couldn't Stop a Fireball"
+    ],
+    "kapak": [
+      "ON PURPOSE",
+      "FIREBALL",
+      "1984"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Controlled Impact Demonstration",
+        "url": "https://en.wikipedia.org/wiki/Controlled_Impact_Demonstration"
+      }
+    ]
+  }
+}

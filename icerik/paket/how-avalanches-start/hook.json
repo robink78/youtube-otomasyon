@@ -1,0 +1,49 @@
+{
+  "slug": "how-avalanches-start",
+  "format": "short",
+  "olusturuldu": "2026-10-02T19:23:04.111Z",
+  "ekranHook": "ONE STEP",
+  "mevcut": {
+    "puan": 100,
+    "pencereler": {
+      "0-5": "Avalanches failed because weak-layer collapse under a snow slab. It explodes downhill at eighty",
+      "5-12": "miles an hour. The slope was not the problem. The danger was hidden underneath. Snow falls in layers all",
+      "12-20": "winter long. Between them sits a weak, sugary layer of crystals. It holds the slab above like a house of cards. One",
+      "20-30": "extra load snaps that bond and the slab slides. Slopes near thirty eight degrees are the most dangerous."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: a central question/problem is raised",
+      "on-screen hook is 2 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Avalanches failed because weak-layer collapse under a snow slab."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a single skier."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is weak-layer collapse under a snow slab — and it is why avalanche forecasting tracks buried weak layers all winter."
+      }
+    ],
+    "metin": "Avalanches failed because weak-layer collapse under a snow slab. It took only a single skier. So what actually happens inside? The answer is weak-layer collapse under a snow slab — and it is why avalanche forecasting tracks buried weak layers all winter.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

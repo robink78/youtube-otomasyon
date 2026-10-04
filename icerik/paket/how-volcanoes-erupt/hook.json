@@ -1,0 +1,49 @@
+{
+  "slug": "how-volcanoes-erupt",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.715Z",
+  "ekranHook": "Pressure with nowhere to go",
+  "mevcut": {
+    "puan": 50,
+    "pencereler": {
+      "0-5": "A volcano is a giant bottle of shaken soda made of rock. Deep below,",
+      "5-12": "molten rock rises toward the surface. Dissolved gas is trapped inside it under crushing pressure. As it rises, the",
+      "12-20": "pressure drops and the gas wants out. Thick, sticky magma traps that gas instead of letting it escape. Pressure builds until the",
+      "20-30": "whole thing lets go at once. Rock, ash, and gas blast out faster than a jet. Runny lava oozes; sticky lava explodes - that is the difference. The"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: missing an unexpected detail",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A volcano is a giant bottle of shaken soda made of rock."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only falling pressure in rising magma."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is gas trapped in viscous magma — and it is why sticky magma explodes; runny lava oozes."
+      }
+    ],
+    "metin": "A volcano is a giant bottle of shaken soda made of rock. It took only falling pressure in rising magma. So what actually happens inside? The answer is gas trapped in viscous magma — and it is why sticky magma explodes; runny lava oozes.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

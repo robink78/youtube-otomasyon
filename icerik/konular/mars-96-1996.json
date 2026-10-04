@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "Russia's Mars Probe Fell Back to Earth",
+  "kaynaklar": [
+    {
+      "ad": "mars-96-1.jpg",
+      "wikimedia": "Mars96 Assembly.jpg"
+    },
+    {
+      "ad": "mars-96-2.jpg",
+      "wikimedia": "Mars96 surface station.jpg"
+    },
+    {
+      "ad": "mars-96-3.jpg",
+      "wikimedia": "Mars-96 3s.jpg"
+    },
+    {
+      "ad": "mars-96-4.jpg",
+      "wikimedia": "Sonde mars96.jpg"
+    },
+    {
+      "ad": "mars-96-5.jpg",
+      "wikimedia": "MSL Artist Concept (PIA14164 crop).jpg"
+    },
+    {
+      "ad": "mars-96-6.jpg",
+      "wikimedia": "Mars96 Model.jpg"
+    },
+    {
+      "ad": "mars-96-7.jpg",
+      "wikimedia": "Phoenix landing (PIA09943 cropped).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Russia's Mars 96 probe was launched toward Mars.",
+      "kaynak": "Footage/mars-96-1.jpg"
+    },
+    {
+      "metin": "Within a day, it fell back into Earth's atmosphere and was destroyed.",
+      "kaynak": "Footage/mars-96-2.jpg"
+    },
+    {
+      "metin": "The rocket reached a temporary orbit.",
+      "kaynak": "Footage/mars-96-3.jpg"
+    },
+    {
+      "metin": "A second burn should have sent the probe on its way.",
+      "kaynak": "Footage/mars-96-4.jpg"
+    },
+    {
+      "metin": "That burn did not happen as planned.",
+      "kaynak": "Footage/mars-96-5.jpg"
+    },
+    {
+      "metin": "The probe was left stranded and re-entered.",
+      "kaynak": "Footage/mars-96-6.jpg"
+    },
+    {
+      "metin": "It carried small plutonium power sources, never recovered.",
+      "kaynak": "Footage/mars-96-7.jpg"
+    },
+    {
+      "metin": "The loss set back Russian planetary science for years.",
+      "kaynak": "Footage/mars-96-1.jpg"
+    }
+  ],
+  "aciklama": "Mars 96 re-entered the atmosphere instead of leaving for Mars. The cause: failure of the second burn of the upper stage, leaving the probe in Earth orbit.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Mars 96",
+    "1996",
+    "upper stage",
+    "engineering failure"
+  ],
+  "hook": "It fell back to Earth",
+  "soru": "How should nuclear sources fly?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Mars 96",
+    "kisa": "Mars 96",
+    "nesne": "Upper stage",
+    "yil": 1996,
+    "sonuc": "re-entered the atmosphere instead of leaving for Mars",
+    "tetik": "an upper-stage burn that did not happen as planned",
+    "mekanizma": "failure of the second burn of the upper stage, leaving the probe in Earth orbit",
+    "sayi": "FELL BACK",
+    "ders": "the loss set back Russian planetary exploration for years",
+    "zincir": [
+      "LAUNCH REACHES PARKING ORBIT",
+      "SECOND BURN FAILS",
+      "PROBE STRANDED",
+      "ORBIT DECAYS",
+      "RE-ENTRY WITH PLUTONIUM SOURCES"
+    ],
+    "zaman": [],
+    "yanilgi": "The probe itself may have been fine. The stage meant to push it toward Mars didn't complete its burn.",
+    "tartisma": "It carried small plutonium power sources that were never recovered. How should nuclear sources be handled on risky launches?",
+    "basliklar": [
+      "Russia's Mars Probe Fell Back to Earth",
+      "Why the Mars 96 Probe Fell Back to Earth",
+      "The Burn That Never Happened"
+    ],
+    "kapak": [
+      "FELL BACK",
+      "NO BURN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mars 96",
+        "url": "https://en.wikipedia.org/wiki/Mars_96"
+      },
+      {
+        "ad": "NASA — mars96 timeline.txt (cited by Wikipedia)",
+        "url": "http://nssdc.gsfc.nasa.gov/planetary/text/mars96_timeline.txt"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "Mars_96",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Mars96 Assembly.jpg [Public domain]",
+      "Mars96 surface station.jpg [Public domain]",
+      "Mars-96 3s.jpg [Public domain]",
+      "Sonde mars96.jpg [Public domain]",
+      "MSL Artist Concept (PIA14164 crop).jpg [Public domain]",
+      "Mars96 Model.jpg [Public domain]",
+      "Phoenix landing (PIA09943 cropped).jpg [Public domain]"
+    ]
+  }
+}

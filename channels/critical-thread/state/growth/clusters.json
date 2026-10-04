@@ -1,0 +1,57 @@
+{
+  "channel": "critical-thread",
+  "clusters": {
+    "WATER": {
+      "id": "WATER",
+      "anchorLong": null,
+      "longs": [],
+      "shorts": [
+        {
+          "slug": "why-high-lift-water-pump-is-so-hard-to-replace",
+          "videoId": "7q3E09HMIGI",
+          "title": "Inside High-lift Water Pump: The Hidden Dependency"
+        }
+      ],
+      "futureLongs": []
+    },
+    "ROADS AND BRIDGES": {
+      "id": "ROADS AND BRIDGES",
+      "anchorLong": null,
+      "longs": [],
+      "shorts": [
+        {
+          "slug": "inside-the-system-built-around-road-tunnel-ventilation-system",
+          "videoId": "fGE8kZOaQZ4",
+          "title": "The Tunnel Fire That Closed the Alps for 3 Years"
+        }
+      ],
+      "futureLongs": []
+    },
+    "DATA CENTERS": {
+      "id": "DATA CENTERS",
+      "anchorLong": null,
+      "longs": [],
+      "shorts": [
+        {
+          "slug": "what-quietly-depends-on-uninterruptible-power-supply",
+          "videoId": "hsuWhB8lCvU",
+          "title": "Why Servers Survive a Blackout"
+        }
+      ],
+      "futureLongs": []
+    },
+    "ENERGY": {
+      "id": "ENERGY",
+      "anchorLong": null,
+      "longs": [],
+      "shorts": [
+        {
+          "slug": "why-nuclear-reactor-coolant-pump-is-so-hard-to-replace",
+          "videoId": "rAZ4cE4A0DE",
+          "title": "The Stuck Valve Behind Three Mile Island"
+        }
+      ],
+      "futureLongs": []
+    }
+  }
+}

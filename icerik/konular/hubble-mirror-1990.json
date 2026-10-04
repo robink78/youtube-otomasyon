@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Hubble's Mirror Was Ground Perfectly — to the Wrong Shape",
+  "kaynaklar": [
+    {
+      "ad": "hubble-mirror-1.jpg",
+      "wikimedia": "Working on Hubble's Main Mirror in 1990 22 lg web.jpg"
+    },
+    {
+      "ad": "hubble-mirror-2.jpg",
+      "wikimedia": "1990 s31 IMAX view of HST release.jpg"
+    },
+    {
+      "ad": "hubble-mirror-3.jpg",
+      "wikimedia": "STS-31 Hubble launch roll and pitch.jpg"
+    },
+    {
+      "ad": "hubble-mirror-4.jpg",
+      "wikimedia": "Inspection of the primary mirror of the Hubble Space Telescope8218871.jpg"
+    },
+    {
+      "ad": "hubble-mirror-5.jpg",
+      "wikimedia": "1985- Construction Complete (4526307938).jpg"
+    },
+    {
+      "ad": "hubble-mirror-6.jpg",
+      "wikimedia": "1990 s31 HST closeout.jpg"
+    },
+    {
+      "ad": "hubble-mirror-7.jpg",
+      "wikimedia": "Deployment of the Hubble Space Telescope (28248653761).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The Hubble Space Telescope was launched, and its first images came back blurry.",
+      "kaynak": "Footage/hubble-mirror-1.jpg"
+    },
+    {
+      "metin": "Suddenly, the billion-dollar observatory looked like a failure.",
+      "kaynak": "Footage/hubble-mirror-2.jpg"
+    },
+    {
+      "metin": "Its main mirror had been ground to the wrong shape.",
+      "kaynak": "Footage/hubble-mirror-3.jpg"
+    },
+    {
+      "metin": "It was polished with extreme precision against a faulty test tool.",
+      "kaynak": "Footage/hubble-mirror-4.jpg"
+    },
+    {
+      "metin": "One lens in that tool had been set in the wrong place.",
+      "kaynak": "Footage/hubble-mirror-5.jpg"
+    },
+    {
+      "metin": "Other tests hinted at the error but were dismissed.",
+      "kaynak": "Footage/hubble-mirror-6.jpg"
+    },
+    {
+      "metin": "Astronauts later installed corrective optics in orbit.",
+      "kaynak": "Footage/hubble-mirror-7.jpg"
+    },
+    {
+      "metin": "Hubble's images became some of the sharpest ever taken.",
+      "kaynak": "Footage/hubble-mirror-1.jpg"
+    }
+  ],
+  "aciklama": "Hubble sent back blurry images after launch. The cause: spherical aberration from a null corrector with a misplaced lens.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Hubble",
+    "1990",
+    "primary mirror",
+    "engineering failure"
+  ],
+  "hook": "Perfect, but wrong",
+  "soru": "Which test do you trust?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the Hubble Space Telescope",
+    "kisa": "Hubble",
+    "nesne": "Primary mirror",
+    "yil": 1990,
+    "sonuc": "sent back blurry images after launch",
+    "tetik": "a misassembled testing instrument used to shape the mirror",
+    "mekanizma": "spherical aberration from a null corrector with a misplaced lens",
+    "sayi": "WRONG SHAPE",
+    "ders": "a corrective optics package was installed by astronauts in 1993",
+    "zincir": [
+      "NULL CORRECTOR MISASSEMBLED",
+      "MIRROR POLISHED TO MATCH IT",
+      "OTHER TESTS DISMISSED",
+      "LAUNCH",
+      "BLURRY IMAGES"
+    ],
+    "zaman": [],
+    "yanilgi": "The mirror wasn't badly made. It was polished with extreme precision to the wrong shape.",
+    "tartisma": "Other test instruments showed the error but were dismissed. When should one test override another?",
+    "basliklar": [
+      "Hubble's Mirror Was Ground Perfectly — to the Wrong Shape",
+      "Why Hubble's First Images Were Blurry",
+      "The Perfect Mirror Ground to the Wrong Shape"
+    ],
+    "kapak": [
+      "WRONG SHAPE",
+      "BLURRY"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hubble Space Telescope",
+        "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+      },
+      {
+        "ad": "NASA — 499224main JWST ICRP Report FINAL (cited by Wikipedia)",
+        "url": "http://www.nasa.gov/pdf/499224main_JWST-ICRP_Report-FINAL.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Hubble_Space_Telescope",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Working on Hubble's Main Mirror in 1990 22 lg web.jpg [Public domain]",
+      "1990 s31 IMAX view of HST release.jpg [Public domain]",
+      "STS-31 Hubble launch roll and pitch.jpg [Public domain]",
+      "Inspection of the primary mirror of the Hubble Space Telescope8218871.jpg [Public domain]",
+      "1985- Construction Complete (4526307938).jpg [Public domain]",
+      "1990 s31 HST closeout.jpg [Public domain]",
+      "Deployment of the Hubble Space Telescope (28248653761).jpg [Public domain]"
+    ]
+  }
+}

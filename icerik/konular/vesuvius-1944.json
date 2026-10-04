@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": 8,
+  "baslik": "The Volcano That Erupted During World War II",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "kaynaklar": [
+    {
+      "ad": "vesuvius.ogv",
+      "wikimedia": "Vesuvius in Eruption, newsreel (1944).ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "This volcano erupted in the middle of World War Two.",
+      "kaynak": "Footage/vesuvius.ogv",
+      "baslangic": 8
+    },
+    {
+      "metin": "Lava swallowed whole villages while Allied troops looked on.",
+      "kaynak": "Footage/vesuvius.ogv",
+      "baslangic": 241
+    },
+    {
+      "metin": "March 1944. Vesuvius, the volcano that buried Pompeii, wakes up.",
+      "kaynak": "Footage/vesuvius.ogv",
+      "baslangic": 30
+    },
+    {
+      "metin": "Rivers of lava crawl down its slopes into the towns.",
+      "kaynak": "Footage/vesuvius.ogv",
+      "baslangic": 64
+    },
+    {
+      "metin": "Falling ash wrecks dozens of American bombers at a nearby airfield.",
+      "kaynak": "Footage/vesuvius.ogv",
+      "baslangic": 144
+    },
+    {
+      "metin": "Families flee, carrying whatever they can.",
+      "kaynak": "Footage/vesuvius.ogv",
+      "baslangic": 270
+    },
+    {
+      "metin": "Two villages are wiped off the map.",
+      "kaynak": "Footage/vesuvius.ogv",
+      "baslangic": 290
+    },
+    {
+      "metin": "It was the last time Vesuvius erupted. It is only sleeping.",
+      "kaynak": "Footage/vesuvius.ogv",
+      "baslangic": 358
+    }
+  ],
+  "aciklama": "In 1944, Mount Vesuvius erupted in the middle of World War II, burying villages and destroying dozens of Allied bombers.\n\n#shorts #history #volcano #vesuvius #disaster",
+  "etiketler": [
+    "Mount Vesuvius",
+    "1944 eruption",
+    "volcano",
+    "World War II",
+    "history",
+    "disaster",
+    "Pompeii"
+  ],
+  "hook": "It erupted in WWII",
+  "soru": "Still dangerous today?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "Mount Vesuvius",
+    "kisa": "Vesuvius 1944",
+    "nesne": "Volcano",
+    "yil": 1944,
+    "sonuc": "wrecked a wartime bomber base",
+    "tetik": "a new eruption",
+    "mekanizma": "heavy ash fall and lava flows",
+    "sayi": "1944",
+    "ders": "ash load is now treated as a structural hazard for roofs and aircraft",
+    "zincir": [
+      "MAGMA RECHARGES",
+      "LAVA FLOWS DOWN SLOPES",
+      "ASH COLUMN RISES",
+      "HOT ASH FALLS ON AIRFIELD",
+      "DOZENS OF B-25s WRECKED"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 18, 1944",
+        "olay": "Eruption begins; lava flows start"
+      },
+      {
+        "t": "Mar 19–21",
+        "olay": "Lava reaches villages on the slopes"
+      },
+      {
+        "t": "Mar 22",
+        "olay": "Ash fall wrecks bombers at the Pompeii airfield"
+      },
+      {
+        "t": "Since 1944",
+        "olay": "No major eruption — the volcano is quiet, not dead"
+      }
+    ],
+    "yanilgi": "Volcanic ash isn't soft like fireplace ash — it's pulverised rock and glass, heavy enough to crush roofs and ruin aircraft.",
+    "tartisma": "Vesuvius has been quiet since 1944 while hundreds of thousands live on its slopes. How much warning would be enough?",
+    "basliklar": [
+      "The Volcano That Wrecked a WWII Bomber Base",
+      "Vesuvius 1944: An Eruption in the Middle of a War",
+      "Why Volcanic Ash Destroyed Dozens of Bombers"
+    ],
+    "kapak": [
+      "WWII ERUPTION",
+      "ASH VS BOMBERS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mount Vesuvius",
+        "url": "https://en.wikipedia.org/wiki/Mount_Vesuvius"
+      },
+      {
+        "ad": "Wikipedia — Pompeii Airfield",
+        "url": "https://en.wikipedia.org/wiki/Pompeii_Airfield"
+      }
+    ]
+  }
+}

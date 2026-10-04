@@ -1,0 +1,251 @@
+{
+  "slug": "san-francisco-1906",
+  "format": "short",
+  "olusturuldu": "2026-09-28T15:23:27.545Z",
+  "secilen": "No Water, Three Days of Fire: San Francisco 1906",
+  "secilenPuan": 49,
+  "mevcutPuan": 42.4,
+  "sablonOnerisi": {
+    "baslik": "The Real Reason San Francisco Burned for Three Days",
+    "puan": 60.4,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 9,
+  "adaylar": [
+    {
+      "baslik": "The Real Reason San Francisco Burned for Three Days",
+      "kalip": "real-reason",
+      "toplam": 60.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "The 94-Second Fuse That Burned the USS Forrestal"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "1906: San Francisco Burned for Three Days",
+      "kalip": "label-colon",
+      "toplam": 55.4,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "The 94-Second Fuse That Burned the USS Forrestal"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "No Water, Three Days of Fire: San Francisco 1906",
+      "kalip": "label-colon",
+      "toplam": 49,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "How Fire Spreads Faster Than You Can Run"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why San Francisco Burned for Three Days",
+      "kalip": "why",
+      "toplam": 42.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "The 94-Second Fuse That Burned the USS Forrestal"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 5 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "San Francisco 1906 Explained",
+      "kalip": "explained",
+      "toplam": 41.7,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.05,
+        "closest": "NASA Crashed a Boeing 720 on Purpose — Then It Exploded"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    },
+    {
+      "baslik": "The Quake Broke the Water Mains. Then the City Burned.",
+      "kalip": "two-beat",
+      "toplam": 41.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 9,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.4
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Deepwater Horizon: The Test Result Nobody Believed"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The City That Burned for Three Days",
+      "kalip": "the-x-that",
+      "toplam": 39.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 2,
+        "appeal": 9,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.4
+      },
+      "similarity": {
+        "max": 0.26,
+        "closest": "The 94-Second Fuse That Burned the USS Forrestal"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "The Earthquake Was Only the Beginning",
+      "kalip": "statement",
+      "toplam": 30.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Why Buildings Collapse in Earthquakes"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "3 DAYS. That's All It Took",
+      "kalip": "label-colon",
+      "toplam": 26.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 7,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "Castle Bravo: The Bomb That Came Out 2.5 Times Too Big"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 0.67,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:number-all-it-took"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Airliner That Suddenly Dove Twice on Its Own",
+  "kaynaklar": [
+    {
+      "ad": "qantas-72-1.jpg",
+      "wikimedia": "Qantas B747-438, VH-OJS (5699602931).jpg"
+    },
+    {
+      "ad": "qantas-72-2.jpg",
+      "wikimedia": "Qantas B747-438, VH-OJS (5700162278).jpg"
+    },
+    {
+      "ad": "qantas-72-3.jpg",
+      "wikimedia": "QantasA330-303-VH-QPA.jpg"
+    },
+    {
+      "ad": "qantas-72-4.png",
+      "wikimedia": "VH-QPA Flight Path.png"
+    },
+    {
+      "ad": "qantas-72-5.jpg",
+      "wikimedia": "Qantas A330 (5712057559).jpg"
+    },
+    {
+      "ad": "qantas-72-6.jpg",
+      "wikimedia": "Qantas 72 arriving (5726584488).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Cruising over Western Australia, an Airbus suddenly pitched down.",
+      "kaynak": "Footage/qantas-72-1.jpg"
+    },
+    {
+      "metin": "In seconds, unbelted passengers were thrown into the ceiling.",
+      "kaynak": "Footage/qantas-72-2.jpg"
+    },
+    {
+      "metin": "Then it happened again.",
+      "kaynak": "Footage/qantas-72-3.jpg"
+    },
+    {
+      "metin": "The pilots hadn't moved the controls.",
+      "kaynak": "Footage/qantas-72-4.png"
+    },
+    {
+      "metin": "One air data unit was sending short spikes of false data.",
+      "kaynak": "Footage/qantas-72-5.jpg"
+    },
+    {
+      "metin": "The flight computers read them as a stall and pushed the nose down.",
+      "kaynak": "Footage/qantas-72-6.jpg"
+    },
+    {
+      "metin": "The crew landed safely at a nearby air base.",
+      "kaynak": "Footage/qantas-72-1.jpg"
+    },
+    {
+      "metin": "Airbus then changed the software to reject spikes like these.",
+      "kaynak": "Footage/qantas-72-2.jpg"
+    }
+  ],
+  "aciklama": "Qantas 72 pitched down violently twice in cruise. The cause: incorrect angle-of-attack spikes passed to flight control computers by a faulty ADIRU.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Qantas 72",
+    "2008",
+    "air data unit",
+    "engineering failure"
+  ],
+  "hook": "It dove on its own",
+  "soru": "Fix a fault you can't reproduce?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "Qantas Flight 72",
+    "kisa": "Qantas 72",
+    "nesne": "Air data unit",
+    "yil": 2008,
+    "sonuc": "pitched down violently twice in cruise",
+    "tetik": "spikes of false data from one air data unit",
+    "mekanizma": "incorrect angle-of-attack spikes passed to flight control computers by a faulty ADIRU",
+    "sayi": "TWO DIVES",
+    "ders": "Airbus changed flight control software to reject data spikes",
+    "zincir": [
+      "ONE ADIRU FAULTS",
+      "DATA SPIKES",
+      "COMPUTERS SEE A STALL",
+      "NOSE PUSHED DOWN",
+      "PASSENGERS THROWN INTO CEILING"
+    ],
+    "zaman": [],
+    "yanilgi": "No turbulence hit the plane. The dives were commanded by the flight computers reacting to false data.",
+    "tartisma": "The exact trigger for the data spikes was never found. Can you certify a fix for a fault you can't reproduce?",
+    "basliklar": [
+      "The Airliner That Suddenly Dove Twice on Its Own",
+      "Why Qantas Flight 72 Suddenly Dove",
+      "The False Data That Pushed an Airliner Down"
+    ],
+    "kapak": [
+      "FALSE DATA",
+      "TWO DIVES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Qantas Flight 72",
+        "url": "https://en.wikipedia.org/wiki/Qantas_Flight_72"
+      },
+      {
+        "ad": "Australian Transport Safety Bureau — AO2008070 prelim (cited by Wikipedia)",
+        "url": "http://www.atsb.gov.au/publications/investigation_reports/2008/AAIR/pdf/AO2008070_prelim.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-05",
+    "wiki": "Qantas_Flight_72",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Qantas B747-438, VH-OJS (5699602931).jpg [CC BY 2.0]",
+      "Qantas B747-438, VH-OJS (5700162278).jpg [CC BY 2.0]",
+      "QantasA330-303-VH-QPA.jpg [CC BY 4.0]",
+      "VH-QPA Flight Path.png [CC BY 3.0 au]",
+      "Qantas A330 (5712057559).jpg [CC BY 2.0]",
+      "Qantas 72 arriving (5726584488).jpg [CC BY 2.0]"
+    ]
+  }
+}

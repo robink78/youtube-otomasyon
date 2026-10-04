@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Storm Surge That Flooded New York's Subway",
+  "kaynaklar": [
+    {
+      "ad": "sandy-new-york-1.jpg",
+      "wikimedia": "Hugh L. Carey Tunnel during Hurricane Sandy vc.jpg"
+    },
+    {
+      "ad": "sandy-new-york-2.jpg",
+      "wikimedia": "105th Airlift Wing 121103-Z-JA782-001.jpg"
+    },
+    {
+      "ad": "sandy-new-york-3.jpg",
+      "wikimedia": "105th Airlift Wing Key Hub in 18th Air Force \"Lean Forward\" support of East Coast relief efforts (Image 3 of 12) (8147788599).jpg"
+    },
+    {
+      "ad": "sandy-new-york-4.jpg",
+      "wikimedia": "105th Airlift Wing Key Hub in 18th Air Force \"Lean Forward\" support of East Coast relief efforts 121101-Z-GJ424-126.jpg"
+    },
+    {
+      "ad": "sandy-new-york-5.jpg",
+      "wikimedia": "105th Airlift Wing supports 18th Air Force Lean Forward Hurricane Sandy airlift 121102-Z-DJ197-227.jpg"
+    },
+    {
+      "ad": "sandy-new-york-6.jpg",
+      "wikimedia": "105th Airlift Wing supports 18th Air Force Lean Forward Hurricane Sandy airlift 121102-Z-DJ197-239.jpg"
+    },
+    {
+      "ad": "sandy-new-york-7.jpg",
+      "wikimedia": "121112-D-TT977-123 (8180130688).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Hurricane Sandy's storm surge hit New York City.",
+      "kaynak": "Footage/sandy-new-york-1.jpg"
+    },
+    {
+      "metin": "Suddenly seawater flooded streets, tunnels and subway lines.",
+      "kaynak": "Footage/sandy-new-york-2.jpg"
+    },
+    {
+      "metin": "The surge reached about thirteen feet.",
+      "kaynak": "Footage/sandy-new-york-3.jpg"
+    },
+    {
+      "metin": "Road tunnels had to be closed.",
+      "kaynak": "Footage/sandy-new-york-4.jpg"
+    },
+    {
+      "metin": "Power was cut across the city.",
+      "kaynak": "Footage/sandy-new-york-5.jpg"
+    },
+    {
+      "metin": "Sea level had risen over the past century.",
+      "kaynak": "Footage/sandy-new-york-6.jpg"
+    },
+    {
+      "metin": "That made the surge reach further.",
+      "kaynak": "Footage/sandy-new-york-7.jpg"
+    },
+    {
+      "metin": "New York began major resilience projects.",
+      "kaynak": "Footage/sandy-new-york-1.jpg"
+    }
+  ],
+  "aciklama": "Sandy flooded New York's tunnels and subway. The cause: surge water pouring into low-lying tunnels, subway lines and power infrastructure.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Sandy",
+    "2012",
+    "subway tunnels",
+    "engineering failure"
+  ],
+  "hook": "The ocean entered the subway",
+  "soru": "How do old cities defend tunnels?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "Hurricane Sandy",
+    "kisa": "Sandy",
+    "nesne": "Subway tunnels",
+    "yil": 2012,
+    "sonuc": "flooded New York's tunnels and subway",
+    "tetik": "a record storm surge at high tide",
+    "mekanizma": "surge water pouring into low-lying tunnels, subway lines and power infrastructure",
+    "sayi": "13-FOOT SURGE",
+    "ders": "New York began major resilience projects for tunnels and power",
+    "zincir": [
+      "STORM TURNS INLAND",
+      "SURGE AT HIGH TIDE",
+      "WATER ENTERS TUNNELS",
+      "SUBWAY FLOODS",
+      "POWER FAILS"
+    ],
+    "zaman": [],
+    "yanilgi": "The wind wasn't the main problem in New York. The water was.",
+    "tartisma": "Rising seas made the surge worse. How do old cities defend their tunnels?",
+    "basliklar": [
+      "The Storm Surge That Flooded New York's Subway",
+      "How Hurricane Sandy Flooded New York",
+      "The Surge That Filled the Subway"
+    ],
+    "kapak": [
+      "SUBWAY FLOODED",
+      "SURGE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hurricane Sandy",
+        "url": "https://en.wikipedia.org/wiki/Hurricane_Sandy"
+      },
+      {
+        "ad": "US Department of Energy — Northeast Storm Comparison FINAL 041513c (cited by Wikipedia)",
+        "url": "http://energy.gov/sites/prod/files/2013/04/f0/Northeast%20Storm%20Comparison_FINAL_041513c.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-22",
+    "wiki": "Hurricane_Sandy",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Hugh L. Carey Tunnel during Hurricane Sandy vc.jpg [CC BY 2.0]",
+      "105th Airlift Wing 121103-Z-JA782-001.jpg [Public domain]",
+      "105th Airlift Wing Key Hub in 18th Air Force \"Lean Forward\" support of East Coast relief efforts (Image 3 of 12) (8147788599).jpg [CC BY 2.0]",
+      "105th Airlift Wing Key Hub in 18th Air Force \"Lean Forward\" support of East Coast relief efforts 121101-Z-GJ424-126.jpg [Public domain]",
+      "105th Airlift Wing supports 18th Air Force Lean Forward Hurricane Sandy airlift 121102-Z-DJ197-227.jpg [Public domain]",
+      "105th Airlift Wing supports 18th Air Force Lean Forward Hurricane Sandy airlift 121102-Z-DJ197-239.jpg [Public domain]",
+      "121112-D-TT977-123 (8180130688).jpg [Public domain]"
+    ]
+  }
+}

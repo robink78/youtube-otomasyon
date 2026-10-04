@@ -1,0 +1,63 @@
+{
+  "slug": "apollo-13-1970",
+  "olusturuldu": "2026-09-29T14:12:06.148Z",
+  "originality": 87,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.1,
+      "kim": "apollo-1-1967"
+    },
+    "hook": {
+      "deger": 0.13,
+      "kim": "how-ground-turns-to-liquid"
+    },
+    "structure": {
+      "deger": 0.75,
+      "kim": "apollo-1-1967"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.52,
+      "kim": "how-volcanoes-erupt"
+    },
+    "cta": {
+      "deger": 0.5,
+      "kim": "apollo-1-1967"
+    },
+    "description": {
+      "deger": 0.08,
+      "kim": "apollo-1-1967"
+    },
+    "music": {
+      "deger": 0.8,
+      "kim": "skylab-1973"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.1,
+    "HOOK_SIMILARITY": 0.13,
+    "STRUCTURE_SIMILARITY": 0.75,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.52,
+    "CTA_SIMILARITY": 0.5,
+    "DESCRIPTION_SIMILARITY": 0.08,
+    "MUSIC_SIMILARITY": 0.8
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

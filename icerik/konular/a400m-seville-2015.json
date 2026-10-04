@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Missing Engine Data Made Three Engines Freeze After Take-Off",
+  "kaynaklar": [
+    {
+      "ad": "a400m-seville-1.jpg",
+      "wikimedia": "Airbus A-400M Atlas (19751904980).jpg"
+    },
+    {
+      "ad": "a400m-seville-2.png",
+      "wikimedia": "Airbus A400M Atlas operators.png"
+    },
+    {
+      "ad": "a400m-seville-3.jpg",
+      "wikimedia": "The Airbus A400M Atlas (20215372111).jpg"
+    },
+    {
+      "ad": "a400m-seville-4.jpg",
+      "wikimedia": "The Airbus A400M Atlas (20183364786).jpg"
+    },
+    {
+      "ad": "a400m-seville-5.jpg",
+      "wikimedia": "A400 Atlas debuts during Mobility Guardian (Image 4 of 4) Aircrew members prepare an A400M Atlas.jpg"
+    },
+    {
+      "ad": "a400m-seville-6.jpg",
+      "wikimedia": "Airbus A400M Atlas of the Spanish Air Force (code EC-400) arrives RIAT Fairford 18July2019 arp.jpg"
+    },
+    {
+      "ad": "a400m-seville-7.jpg",
+      "wikimedia": "German Luftwaffe Airbus A400M of LTG 62 refuels Boeing FA-18E Super Hornet of VFA-211 over the Agean Sea on 3 March 2022 (220303-N-NO874-1006).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Shortly after take-off, a new military transport crashed near Seville.",
+      "kaynak": "Footage/a400m-seville-1.jpg"
+    },
+    {
+      "metin": "Three of its four engines froze at low power, and four crew were killed.",
+      "kaynak": "Footage/a400m-seville-2.png"
+    },
+    {
+      "metin": "The engines weren't damaged.",
+      "kaynak": "Footage/a400m-seville-3.jpg"
+    },
+    {
+      "metin": "During software installation, calibration data had been erased.",
+      "kaynak": "Footage/a400m-seville-4.jpg"
+    },
+    {
+      "metin": "Without it, the engine controls couldn't respond.",
+      "kaynak": "Footage/a400m-seville-5.jpg"
+    },
+    {
+      "metin": "There was no warning before take-off.",
+      "kaynak": "Footage/a400m-seville-6.jpg"
+    },
+    {
+      "metin": "The problem appeared only once airborne.",
+      "kaynak": "Footage/a400m-seville-7.jpg"
+    },
+    {
+      "metin": "Airbus added checks that engine data is present before flight.",
+      "kaynak": "Footage/a400m-seville-1.jpg"
+    }
+  ],
+  "aciklama": "A400M Seville crashed on a test flight near Seville. The cause: missing torque calibration parameters causing engine control units to hold three engines at idle.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "A400M Seville",
+    "2015",
+    "engine control software",
+    "engineering failure"
+  ],
+  "hook": "The data was wiped",
+  "soru": "When should a system refuse to start?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "the A400M test aircraft",
+    "kisa": "A400M Seville",
+    "nesne": "Engine control software",
+    "yil": 2015,
+    "sonuc": "crashed on a test flight near Seville",
+    "tetik": "engine calibration data wiped during software installation",
+    "mekanizma": "missing torque calibration parameters causing engine control units to hold three engines at idle",
+    "sayi": "3 ENGINES",
+    "ders": "Airbus added checks that engine data is present before flight",
+    "zincir": [
+      "SOFTWARE INSTALLED",
+      "CALIBRATION FILES ERASED",
+      "NO ALERT BEFORE FLIGHT",
+      "THREE ENGINES STUCK AT IDLE",
+      "CRASH AFTER TAKE-OFF"
+    ],
+    "zaman": [],
+    "yanilgi": "The engines weren't damaged. Their control software had simply lost the data it needed to work.",
+    "tartisma": "The aircraft gave no cockpit warning until airborne. When should a system refuse to start?",
+    "basliklar": [
+      "Missing Engine Data Made Three Engines Freeze After Take-Off",
+      "Why the A400M Crashed at Seville",
+      "The Data Wiped Before a Test Flight"
+    ],
+    "kapak": [
+      "DATA WIPED",
+      "3 ENGINES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Airbus A400M Atlas",
+        "url": "https://en.wikipedia.org/wiki/Airbus_A400M_Atlas"
+      },
+      {
+        "ad": "European Union — EASA TCDS A.169 Airbus A400M 04 17072013 (cited by Wikipedia)",
+        "url": "https://www.easa.europa.eu/sites/default/files/dfu/EASA-TCDS-A.169_Airbus_A400M-04-17072013.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "Airbus_A400M_Atlas",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Airbus A-400M Atlas (19751904980).jpg [CC BY 2.0]",
+      "Airbus A400M Atlas operators.png [CC0]",
+      "The Airbus A400M Atlas (20215372111).jpg [CC BY 2.0]",
+      "The Airbus A400M Atlas (20183364786).jpg [CC BY 2.0]",
+      "A400 Atlas debuts during Mobility Guardian (Image 4 of 4) Aircrew members prepare an A400M Atlas.jpg [Public domain]",
+      "Airbus A400M Atlas of the Spanish Air Force (code EC-400) arrives RIAT Fairford 18July2019 arp.jpg [Public domain]",
+      "German Luftwaffe Airbus A400M of LTG 62 refuels Boeing FA-18E Super Hornet of VFA-211 over the Agean Sea on 3 March 2022 (220303-N-NO874-1006).jpg [Public domain]"
+    ]
+  }
+}

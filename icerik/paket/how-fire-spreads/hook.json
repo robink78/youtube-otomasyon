@@ -1,0 +1,50 @@
+{
+  "slug": "how-fire-spreads",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.570Z",
+  "ekranHook": "The 30-second head start",
+  "mevcut": {
+    "puan": 75,
+    "pencereler": {
+      "0-5": "A house fire can turn deadly in as little as two minutes. It starts",
+      "5-12": "small, feeding on whatever it can burn. But fire heats the air, and hot air rises and spreads. Soon",
+      "12-20": "the whole room is so hot that everything ignites at once. This moment is called flashover, and it is not survivable. The",
+      "20-30": "real killer is not the flames - it is the smoke. A few breaths of toxic smoke can knock you unconscious. That is why working smoke alarms cut"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "payoff line present (why/how/reason)",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A house fire can turn deadly in as little as two minutes."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a small flame."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is flashover — and it is why working smoke alarms roughly halve the risk of dying in a home fire."
+      }
+    ],
+    "metin": "A house fire can turn deadly in as little as two minutes. It took only a small flame. So what actually happens inside? The answer is flashover — and it is why working smoke alarms roughly halve the risk of dying in a home fire.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

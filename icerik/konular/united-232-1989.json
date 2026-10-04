@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "They Steered a Jet With Only the Engines",
+  "kaynaklar": [
+    {
+      "ad": "united-232-1.png",
+      "wikimedia": "UA232damage.png"
+    },
+    {
+      "ad": "united-232-2.png",
+      "wikimedia": "UA232map.png"
+    },
+    {
+      "ad": "united-232-3.jpg",
+      "wikimedia": "Flight 232, Rich volunteers at crash.jpg"
+    },
+    {
+      "ad": "united-232-4.jpg",
+      "wikimedia": "UNITED AIRLINES FLIGHT 233.jpg"
+    },
+    {
+      "ad": "united-232-5.png",
+      "wikimedia": "UnitedAirlines232SeatInjuryMap.png"
+    },
+    {
+      "ad": "united-232-6.jpg",
+      "wikimedia": "Flight 232 memorial, Sioux City, IA.jpg"
+    },
+    {
+      "ad": "united-232-7.png",
+      "wikimedia": "UAL 232 Fan.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Mid-flight, a jet lost every flight control at once.",
+      "kaynak": "Footage/united-232-1.png"
+    },
+    {
+      "metin": "The tail engine exploded, and debris cut all three hydraulic systems.",
+      "kaynak": "Footage/united-232-2.png"
+    },
+    {
+      "metin": "The crew steered using only the engine throttles.",
+      "kaynak": "Footage/united-232-3.jpg"
+    },
+    {
+      "metin": "The cause was a hidden flaw inside a titanium fan disk.",
+      "kaynak": "Footage/united-232-4.jpg"
+    },
+    {
+      "metin": "A crack grew from it for years.",
+      "kaynak": "Footage/united-232-5.png"
+    },
+    {
+      "metin": "The backups failed because their lines ran side by side.",
+      "kaynak": "Footage/united-232-6.jpg"
+    },
+    {
+      "metin": "The crash landing still left most people alive.",
+      "kaynak": "Footage/united-232-7.png"
+    },
+    {
+      "metin": "Engine disks are now inspected far more strictly.",
+      "kaynak": "Footage/united-232-1.png"
+    }
+  ],
+  "aciklama": "United 232 lost all flight controls. The cause: fatigue crack from a manufacturing defect shattering the tail engine's fan disk and severing all three hydraulic systems.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "United 232",
+    "Sioux City",
+    "DC-10",
+    "hydraulic failure",
+    "1989"
+  ],
+  "hook": "Every control gone",
+  "soru": "Could you fly with only throttles?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "United Airlines Flight 232",
+    "kisa": "United 232",
+    "nesne": "Engine fan disk",
+    "yil": 1989,
+    "sonuc": "lost all flight controls",
+    "tetik": "a hidden flaw in a titanium fan disk",
+    "mekanizma": "fatigue crack from a manufacturing defect shattering the tail engine's fan disk and severing all three hydraulic systems",
+    "sayi": "3 of 3 LOST",
+    "ders": "engine disks now get stricter inspections and hydraulic lines got fuses",
+    "zincir": [
+      "DEFECT IN TITANIUM FORGING",
+      "FATIGUE CRACK GROWS",
+      "FAN DISK SHATTERS",
+      "DEBRIS CUTS ALL THREE HYDRAULICS",
+      "CRASH LANDING AT SIOUX CITY"
+    ],
+    "zaman": [
+      {
+        "t": "Jul 19, 1989",
+        "olay": "Tail engine fan disk fails in cruise"
+      }
+    ],
+    "yanilgi": "The jet had three separate hydraulic systems. Their lines ran close together in the tail, so one burst of debris cut them all.",
+    "tartisma": "Redundancy failed because the backups shared one location. When is a backup not really a backup?",
+    "basliklar": [
+      "They Steered a Jet With Only the Engines",
+      "How United 232 Lost All Three Hydraulic Systems",
+      "The Crack That Took Away Every Control"
+    ],
+    "kapak": [
+      "NO CONTROLS",
+      "3 OF 3 LOST"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — United Airlines Flight 232",
+        "url": "https://en.wikipedia.org/wiki/United_Airlines_Flight_232"
+      },
+      {
+        "ad": "NTSB Aircraft Accident Report AAR-90-06 — United Airlines Flight 232",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR9006.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "United_Airlines_Flight_232",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "UA232damage.png [Public domain]",
+      "UA232map.png [Public domain]",
+      "Flight 232, Rich volunteers at crash.jpg [CC0]",
+      "UNITED AIRLINES FLIGHT 233.jpg [Public domain]",
+      "UnitedAirlines232SeatInjuryMap.png [Public domain]",
+      "Flight 232 memorial, Sioux City, IA.jpg [CC0]",
+      "UAL 232 Fan.png [Public domain]"
+    ]
+  }
+}

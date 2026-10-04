@@ -1,0 +1,221 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/behind-the-ordinary/state/production/why-road-cats-eyes-clean-themselves/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "rate": "+4%",
+    "claimDurations": [
+      3.1871487448482574,
+      2.0566129636568,
+      5.520382165605095,
+      3.8606594230048703,
+      5.231734732109403,
+      5.183626826526788,
+      4.173360809291869,
+      2.886474334956912
+    ],
+    "durationSeconds": 32.1,
+    "width": null,
+    "height": null,
+    "hasAudio": true,
+    "music": {
+      "mood": "everyday-curious",
+      "profile": {
+        "kok": 60,
+        "oran": 1.5,
+        "trem": 0.223,
+        "renk": "pink",
+        "yanki": [
+          648,
+          887
+        ],
+        "alcak": 904,
+        "ton": "curious"
+      }
+    }
+  },
+  "video": {
+    "file": "channels/behind-the-ordinary/state/production/why-road-cats-eyes-clean-themselves/why-road-cats-eyes-clean-themselves.mp4",
+    "captionsBurned": true,
+    "distinctVisuals": 10,
+    "realImageCount": 4,
+    "numberCardCount": 0,
+    "maxStaticSeconds": 3.478,
+    "visualChanges": 18,
+    "openingHookCovered": true,
+    "cardNumbersValid": true,
+    "opening": "motion",
+    "visualQuality": {
+      "decision": "PUBLISH",
+      "reasons": []
+    },
+    "segmentSeconds": [
+      1.319,
+      0.9009999999999998,
+      0.9671487448482581,
+      2.0566129636568005,
+      2.0402382914949415,
+      2.3869999999999996,
+      1.0931438741101545,
+      0.5528561258898463,
+      3.3078032971150257,
+      3.118196702884976,
+      2.1135380292244292,
+      0.527461970775569,
+      3.4780000000000015,
+      1.1781648557512199,
+      1.6508351442487808,
+      2.5225256650430907,
+      0.42547433495690967,
+      2.4609999999999985
+    ],
+    "sources": [
+      {
+        "shot": 1,
+        "claimIndex": 0,
+        "type": "stock-video",
+        "sourceId": "video:11340265",
+        "numbers": []
+      },
+      {
+        "shot": 2,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Great River Road - Bird's Eye View of Oak Alley - NARA - 7718881.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 3,
+        "claimIndex": 0,
+        "type": "procedural",
+        "sourceId": "procedural:0:2:557151bdae19",
+        "numbers": []
+      },
+      {
+        "shot": 4,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:Great River Road - Bird's Eye View of Oak Alley - NARA - 7718881.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 5,
+        "claimIndex": 2,
+        "type": "stock-video",
+        "sourceId": "video:12950313",
+        "numbers": [
+          "1934"
+        ]
+      },
+      {
+        "shot": 6,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:Great River Road - Bird's Eye View of Oak Alley - NARA - 7718881.jpg#3",
+        "numbers": [
+          "1934"
+        ]
+      },
+      {
+        "shot": 7,
+        "claimIndex": 2,
+        "type": "procedural",
+        "sourceId": "procedural:2:200:a003fea19855",
+        "numbers": [
+          "1934"
+        ]
+      },
+      {
+        "shot": 8,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:Great River Road - Bird's Eye View of Oak Alley - NARA - 7718881.jpg#4",
+        "numbers": []
+      },
+      {
+        "shot": 9,
+        "claimIndex": 3,
+        "type": "stock-video",
+        "sourceId": "video:13543395",
+        "numbers": []
+      },
+      {
+        "shot": 10,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:Great River Road - Bird's Eye View of Oak Alley - NARA - 7718881.jpg#5",
+        "numbers": []
+      },
+      {
+        "shot": 11,
+        "claimIndex": 4,
+        "type": "procedural",
+        "sourceId": "procedural:4:398:c6d15379d4bd",
+        "numbers": []
+      },
+      {
+        "shot": 12,
+        "claimIndex": 5,
+        "type": "licensed-still",
+        "sourceId": "still:Great River Road - Bird's Eye View of Oak Alley - NARA - 7718881.jpg#6",
+        "numbers": []
+      },
+      {
+        "shot": 13,
+        "claimIndex": 5,
+        "type": "procedural",
+        "sourceId": "procedural:5:497:557151bdae19",
+        "numbers": []
+      },
+      {
+        "shot": 14,
+        "claimIndex": 5,
+        "type": "licensed-still",
+        "sourceId": "still:Great River Road - Bird's Eye View of Oak Alley - NARA - 7718881.jpg#7",
+        "numbers": []
+      },
+      {
+        "shot": 15,
+        "claimIndex": 6,
+        "type": "procedural",
+        "sourceId": "procedural:6:596:3165e2f1e63b",
+        "numbers": []
+      },
+      {
+        "shot": 16,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:Great River Road - Bird's Eye View of Oak Alley - NARA - 7718881.jpg#8",
+        "numbers": []
+      },
+      {
+        "shot": 17,
+        "claimIndex": 7,
+        "type": "procedural",
+        "sourceId": "procedural:7:695:a003fea19855",
+        "numbers": []
+      },
+      {
+        "shot": 18,
+        "claimIndex": 7,
+        "type": "stock-video",
+        "sourceId": "video:11340265#loop",
+        "numbers": []
+      }
+    ],
+    "durationSeconds": 32.1,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/behind-the-ordinary/state/production/why-road-cats-eyes-clean-themselves/thumbnail.jpg",
+    "bytes": 123490,
+    "sourceType": "licensed-still",
+    "sourceId": "still:Great River Road - Bird's Eye View of Oak Alley - NARA - 7718881.jpg",
+    "textWords": 2,
+    "usesLicensedStill": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "channel": "behind-the-ordinary",
+  "lastShort": null,
+  "lastLong": null,
+  "queue": [
+    {
+      "channel": "behind-the-ordinary",
+      "format": "short",
+      "key": "behind-the-ordinary:short",
+      "position": 1,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-03",
+      "status": "done",
+      "settledOn": "2026-10-04"
+    },
+    {
+      "channel": "behind-the-ordinary",
+      "format": "long",
+      "key": "behind-the-ordinary:long",
+      "position": 5,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-03",
+      "status": "expired",
+      "settledOn": "2026-10-04"
+    },
+    {
+      "channel": "behind-the-ordinary",
+      "format": "short",
+      "key": "behind-the-ordinary:short",
+      "position": 4,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-04",
+      "status": "queued"
+    },
+    {
+      "channel": "behind-the-ordinary",
+      "format": "long",
+      "key": "behind-the-ordinary:long",
+      "position": 8,
+      "renderLane": 0,
+      "uploadLane": 0,
+      "date": "2026-10-04",
+      "status": "queued"
+    }
+  ]
+}

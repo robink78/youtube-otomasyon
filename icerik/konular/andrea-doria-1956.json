@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Two Ships Watching Each Other on Radar Still Collided",
+  "kaynaklar": [
+    {
+      "ad": "andrea-doria-1.jpg",
+      "wikimedia": "Andrea Doria sinking 2.jpg"
+    },
+    {
+      "ad": "andrea-doria-2.jpg",
+      "wikimedia": "MS Stockholm bow damage after collision with SS Andrea Doria.jpg"
+    },
+    {
+      "ad": "andrea-doria-3.jpg",
+      "wikimedia": "StateLibQld 1 171275 Stockholm (ship).jpg"
+    },
+    {
+      "ad": "andrea-doria-4.jpg",
+      "wikimedia": "Andrea Doria sinking.jpg"
+    },
+    {
+      "ad": "andrea-doria-5.jpg",
+      "wikimedia": "Rescue from Andrea Doria.jpg"
+    },
+    {
+      "ad": "andrea-doria-6.jpg",
+      "wikimedia": "SS Andrea Doria.jpg"
+    },
+    {
+      "ad": "andrea-doria-7.jpg",
+      "wikimedia": "Andrea Doria sinks.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In thick fog, the liner Stockholm rammed the Andrea Doria.",
+      "kaynak": "Footage/andrea-doria-1.jpg"
+    },
+    {
+      "metin": "The Doria began listing, and forty six people aboard her were killed.",
+      "kaynak": "Footage/andrea-doria-2.jpg"
+    },
+    {
+      "metin": "Both crews had been watching each other on radar.",
+      "kaynak": "Footage/andrea-doria-3.jpg"
+    },
+    {
+      "metin": "They misjudged the plots and turned toward each other.",
+      "kaynak": "Footage/andrea-doria-4.jpg"
+    },
+    {
+      "metin": "The list was so steep that half the lifeboats couldn't be launched.",
+      "kaynak": "Footage/andrea-doria-5.jpg"
+    },
+    {
+      "metin": "Nearby ships rushed in and rescued most people.",
+      "kaynak": "Footage/andrea-doria-6.jpg"
+    },
+    {
+      "metin": "The Doria sank the next morning.",
+      "kaynak": "Footage/andrea-doria-7.jpg"
+    },
+    {
+      "metin": "Radar training and collision rules at sea were improved.",
+      "kaynak": "Footage/andrea-doria-1.jpg"
+    }
+  ],
+  "aciklama": "Andrea Doria sank after colliding with another liner in fog. The cause: collision from misinterpreted radar plots, then a severe list that disabled half the lifeboats.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Andrea Doria",
+    "1956",
+    "liner",
+    "engineering failure"
+  ],
+  "hook": "They saw each other",
+  "soru": "Turn left or right?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Andrea Doria",
+    "kisa": "Andrea Doria",
+    "nesne": "Liner",
+    "yil": 1956,
+    "sonuc": "sank after colliding with another liner in fog",
+    "tetik": "radar misread on both bridges in thick fog",
+    "mekanizma": "collision from misinterpreted radar plots, then a severe list that disabled half the lifeboats",
+    "sayi": "46 DIED",
+    "ders": "radar training and collision rules at sea were improved",
+    "zincir": [
+      "THICK FOG",
+      "BOTH SHIPS TRACK EACH OTHER ON RADAR",
+      "OPPOSITE TURNS",
+      "STOCKHOLM'S BOW HITS DORIA",
+      "LIST DISABLES HALF THE LIFEBOATS"
+    ],
+    "zaman": [],
+    "yanilgi": "Neither crew was blind: both watched the other ship on radar. They misjudged the plots and turned toward each other.",
+    "tartisma": "Most people survived because rescue ships came fast. Is a good rescue proof of a safe design?",
+    "basliklar": [
+      "Two Ships Watching Each Other on Radar Still Collided",
+      "Why the Andrea Doria Sank",
+      "Two Ships, Two Radars, One Collision"
+    ],
+    "kapak": [
+      "ON RADAR",
+      "STILL HIT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SS Andrea Doria",
+        "url": "https://en.wikipedia.org/wiki/SS_Andrea_Doria"
+      },
+      {
+        "ad": "Academic / engineering journal — doBasicSearch?Query=\"SS+Andrea+Doria\"&acc=on&wc=on (cited by Wikipedia)",
+        "url": "https://www.jstor.org/action/doBasicSearch?Query=%22SS+Andrea+Doria%22&acc=on&wc=on"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-x",
+    "wiki": "SS_Andrea_Doria",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Andrea Doria sinking 2.jpg [Public domain]",
+      "MS Stockholm bow damage after collision with SS Andrea Doria.jpg [Public domain]",
+      "StateLibQld 1 171275 Stockholm (ship).jpg [Public domain]",
+      "Andrea Doria sinking.jpg [Public domain]",
+      "Rescue from Andrea Doria.jpg [Public domain]",
+      "SS Andrea Doria.jpg [Public domain]",
+      "Andrea Doria sinks.jpg [Public domain]"
+    ]
+  }
+}

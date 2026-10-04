@@ -1,0 +1,24 @@
+{
+  "name": "CriticalThread",
+  "handle": "@CriticalThread",
+  "tagline": "The hidden systems holding the modern world together.",
+  "profileIdentity": "CT",
+  "mission": "CriticalThread explains the machines, materials and infrastructure the modern world quietly depends on, how they work, why they are hard to replace and what happens when they fail.",
+  "theme": ["premium technical documentary", "global systems", "industrial precision", "dark", "cinematic", "minimal", "high contrast"],
+  "colors": {
+    "background": "#07090d",
+    "graphite": "#141922",
+    "silver": "#c8ced8",
+    "gold": "#d6ae5f",
+    "network": "#5aa9e6",
+    "warning": "#e05d44",
+    "text": "#f4f6f8"
+  },
+  "visualRules": {
+    "priority": ["government and regulator media", "manufacturer technical material", "standards diagrams", "licensed industrial footage", "procedural system maps", "labelled technical illustration"],
+    "illustrationLabel": "TECHNICAL ILLUSTRATION",
+    "thumbnail": "one critical object plus one global consequence; no clutter; zero to three words",
+    "profileMotif": "silver and gold CT lettering over a dark Earth and global network motif"
+  },
+  "avoid": ["generic technology news", "random infrastructure trivia", "listicles", "fake catastrophe", "unsupported monopoly claims", "generic neon AI imagery", "clutter"]
+}

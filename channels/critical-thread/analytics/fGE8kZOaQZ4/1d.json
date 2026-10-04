@@ -1,0 +1,122 @@
+{
+  "videoId": "fGE8kZOaQZ4",
+  "baslik": "The Tunnel Fire That Closed the Alps for 3 Years",
+  "yayin": "2026-10-02",
+  "yasGun": 1,
+  "sureSn": 35,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 938,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 15,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 3,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "averageViewDuration": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "averageViewPercentage": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "subscribersGained": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "subscribersLost": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "netSubscribers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "shares": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "engagedViews": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    },
+    "first30sRetention": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "analytics unavailable"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "needs subscribersGained"
+    },
+    "netSubsPer1000": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "needs subscribersGained and subscribersLost"
+    },
+    "likeRate": {
+      "deger": 1.6,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 0.32,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": [],
+  "tutma": [],
+  "analitikDurumu": "ok",
+  "toplandi": "2026-10-03T18:00:40.825Z",
+  "checkpoint": "1d",
+  "teshis": [
+    {
+      "kod": "INSUFFICIENT_DATA",
+      "guven": "high",
+      "aciklama": "938 views after 1 days — too early/small for rate-based conclusions.",
+      "oneri": "Do not change packaging yet unless something is objectively broken (missing sources, typo). Re-check at 7 days."
+    }
+  ],
+  "retentionDrop": null
+}

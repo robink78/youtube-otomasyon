@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Solar Wing That Bent Itself to Pieces",
+  "kaynaklar": [
+    {
+      "ad": "nasa-helios-breakup-1.jpg",
+      "wikimedia": "Pages from 64317main helios-1.jpg"
+    },
+    {
+      "ad": "nasa-helios-breakup-2.jpg",
+      "wikimedia": "Pages from 64317main helios-3.jpg"
+    },
+    {
+      "ad": "nasa-helios-breakup-3.jpg",
+      "wikimedia": "The 5 KW, state-of-the-art solar demonstration site at NASA Dryden is validating earthly use of solar cells developed for NASA's Helios solar-electric aircraft (EC03-0283-20).jpg"
+    },
+    {
+      "ad": "nasa-helios-breakup-4.jpg",
+      "wikimedia": "Aerovironment technicians carefully line up attachments as a fuel cell electrical system is installed on the Helios Prototype solar powered flying wing (EC03-0058-2).jpg"
+    },
+    {
+      "ad": "nasa-helios-breakup-5.jpg",
+      "wikimedia": "Helios Flies High (ED03-0152-50).jpg"
+    },
+    {
+      "ad": "nasa-helios-breakup-6.jpg",
+      "wikimedia": "Helios in flight2.jpg"
+    },
+    {
+      "ad": "nasa-helios-breakup-7.jpg",
+      "wikimedia": "Technicians for AeroVironment, Inc (EC03-0058-6).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "NASA's solar-powered Helios broke apart over the Pacific.",
+      "kaynak": "Footage/nasa-helios-breakup-1.jpg"
+    },
+    {
+      "metin": "Within minutes of hitting turbulence, it fell into the ocean.",
+      "kaynak": "Footage/nasa-helios-breakup-2.jpg"
+    },
+    {
+      "metin": "It was a huge, light flying wing.",
+      "kaynak": "Footage/nasa-helios-breakup-3.jpg"
+    },
+    {
+      "metin": "A delayed take-off kept it climbing slowly through rough air.",
+      "kaynak": "Footage/nasa-helios-breakup-4.jpg"
+    },
+    {
+      "metin": "Turbulence bent the wing sharply upward.",
+      "kaynak": "Footage/nasa-helios-breakup-5.jpg"
+    },
+    {
+      "metin": "It stayed bent.",
+      "kaynak": "Footage/nasa-helios-breakup-6.jpg"
+    },
+    {
+      "metin": "Its pitch swings grew with every cycle until it broke.",
+      "kaynak": "Footage/nasa-helios-breakup-7.jpg"
+    },
+    {
+      "metin": "The report called for better modelling of flexible aircraft.",
+      "kaynak": "Footage/nasa-helios-breakup-1.jpg"
+    }
+  ],
+  "aciklama": "Helios broke up and fell into the Pacific. The cause: a flexible wing morphing into a persistent high dihedral, leading to unstable oscillations.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Helios",
+    "2003",
+    "flying wing",
+    "engineering failure"
+  ],
+  "hook": "The wing bent too far",
+  "soru": "How flexible is too flexible?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "the Helios Prototype",
+    "kisa": "Helios",
+    "nesne": "Flying wing",
+    "yil": 2003,
+    "sonuc": "broke up and fell into the Pacific",
+    "tetik": "turbulence bending the wing into a high dihedral shape",
+    "mekanizma": "a flexible wing morphing into a persistent high dihedral, leading to unstable oscillations",
+    "sayi": "BENT UP",
+    "ders": "the mishap report pushed better modelling of flexible aircraft",
+    "zincir": [
+      "DELAYED TAKE-OFF",
+      "SLOW CLIMB IN TURBULENCE",
+      "WING BENDS UPWARD",
+      "PITCH OSCILLATIONS",
+      "STRUCTURE FAILS"
+    ],
+    "zaman": [],
+    "yanilgi": "The turbulence wasn't extreme. The very flexible wing responded in a way nobody had modelled.",
+    "tartisma": "Lightweight design made long flights possible. How flexible is too flexible?",
+    "basliklar": [
+      "The Solar Wing That Bent Itself to Pieces",
+      "Why the NASA Helios Broke Up",
+      "The Wing That Bent Too Far"
+    ],
+    "kapak": [
+      "BENT UP",
+      "TOO FLEXIBLE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — NASA Helios",
+        "url": "https://en.wikipedia.org/wiki/NASA_Helios"
+      },
+      {
+        "ad": "NASA — 64317main helios (cited by Wikipedia)",
+        "url": "http://www.nasa.gov/pdf/64317main_helios.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "NASA_Helios",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Pages from 64317main helios-1.jpg [Public domain]",
+      "Pages from 64317main helios-3.jpg [Public domain]",
+      "The 5 KW, state-of-the-art solar demonstration site at NASA Dryden is validating earthly use of solar cells developed for NASA's Helios solar-electric aircraft (EC03-0283-20).jpg [Public domain]",
+      "Aerovironment technicians carefully line up attachments as a fuel cell electrical system is installed on the Helios Prototype solar powered flying wing (EC03-0058-2).jpg [Public domain]",
+      "Helios Flies High (ED03-0152-50).jpg [Public domain]",
+      "Helios in flight2.jpg [Public domain]",
+      "Technicians for AeroVironment, Inc (EC03-0058-6).jpg [Public domain]"
+    ]
+  }
+}

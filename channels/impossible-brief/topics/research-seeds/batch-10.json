@@ -1,0 +1,1204 @@
+{
+  "channel": "impossible-brief",
+  "records": [
+    {
+      "slug": "what-if-ceres-were-still-a-planet",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If Ceres Were Still a Planet?",
+      "hook": "Why Ceres was called a planet in 1801.",
+      "openingLine": "Why Ceres was called a planet in 1801.",
+      "secondBeat": "Giuseppe Piazzi spotted it between Mars and Jupiter.",
+      "scientificMechanism": "the largest body in the asteroid belt was first counted as a planet, then reclassified as more similar objects were found",
+      "scenarioChange": "Ceres kept its original status as a planet",
+      "expectedConsequence": "a small, icy world between Mars and Jupiter counted among the planets",
+      "coreQuestion": "If Ceres were still a planet, what would the Solar System look like on paper?",
+      "misconception": "Ceres isn't just a rock; it's the largest object in the asteroid belt.",
+      "number": "939 km",
+      "thumbnailText": "THE LOST PLANET",
+      "visualScenes": [
+        "Ceres with bright crater spots",
+        "asteroid belt map",
+        "Piazzi's 1801 discovery notes",
+        "size estimate history chart",
+        "Dawn spacecraft",
+        "Ceres versus Moon size comparison"
+      ],
+      "editorialTitles": [
+        "The Planet We Demoted in the 1800s",
+        "Why Ceres Stopped Being a Planet"
+      ],
+      "facts": [
+        {
+          "claim": "It was the first object identified in the asteroid belt, discovered on 1 January 1801 by Giuseppe Piazzi at Palermo Astronomical Observatory, and announced as a new planet.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ceres (dwarf planet)",
+          "url": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)"
+        },
+        {
+          "claim": "Ceres's diameter was determined to within ten percent of its true value of 939 km (583 mi).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ceres (dwarf planet)",
+          "url": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)"
+        },
+        {
+          "claim": "Herschel underestimated its diameter at 260 km in 1802; in 1811, Schröter overestimated it at 2,613 km.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ceres (dwarf planet)",
+          "url": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)"
+        },
+        {
+          "claim": "A formula predicted another planet with an orbital radius near 2.8 astronomical units (AU), or 420 million km, from the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ceres (dwarf planet)",
+          "url": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Ceres was called a planet in 1801.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Giuseppe Piazzi spotted it between Mars and Jupiter.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It sits about 420 million kilometres from the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Early estimates ranged from 260 to 2,613 kilometres wide.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It's actually about 939 kilometres across.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "As more belt objects appeared, it lost planet status.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the asteroid belt's giant was a planet for a while.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-flew-through-an-aurora",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Flew Through an Aurora?",
+      "hook": "Why auroras glow about 100 kilometres above you.",
+      "openingLine": "Why auroras glow about 100 kilometres above you.",
+      "secondBeat": "None have been found below 70 kilometres.",
+      "scientificMechanism": "charged solar particles hit oxygen and nitrogen high in the atmosphere, making them glow",
+      "scenarioChange": "an aircraft flew up into the auroral layer",
+      "expectedConsequence": "the glow sits far above airliner altitudes, around 100 km up",
+      "coreQuestion": "If you flew through an aurora, how high would you have to go?",
+      "misconception": "Auroras aren't in the clouds; they glow about 100 km up.",
+      "number": "100 km",
+      "thumbnailText": "100 KM UP",
+      "visualScenes": [
+        "green aurora over snow",
+        "altitude scale from clouds to aurora",
+        "oxygen emission colours diagram",
+        "red aurora at high altitude",
+        "solar wind hitting magnetic field",
+        "aircraft far below the glow"
+      ],
+      "editorialTitles": [
+        "How High the Northern Lights Really Are",
+        "Why Auroras Glow Green and Red"
+      ],
+      "facts": [
+        {
+          "claim": "They found no auroras below 70 km (43 mi) and only 6.5% above 150 km (93 mi), with a maximum in the height distribution around 100 km (62 mi).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Aurora",
+          "url": "https://en.wikipedia.org/wiki/Aurora"
+        },
+        {
+          "claim": "At lower altitudes, the more frequent collisions suppress the 630 nm (red) mode: rather the 557.7 nm emission (green) dominates.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Aurora",
+          "url": "https://en.wikipedia.org/wiki/Aurora"
+        },
+        {
+          "claim": "Both the 557.7 and 630.0 nm wavelengths correspond to forbidden transitions of atomic oxygen.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Aurora",
+          "url": "https://en.wikipedia.org/wiki/Aurora"
+        },
+        {
+          "claim": "The term entered the English language in 1828.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Aurora",
+          "url": "https://en.wikipedia.org/wiki/Aurora"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why auroras glow about 100 kilometres above you.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "None have been found below 70 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Solar particles excite oxygen atoms high in the air.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Lower down, oxygen glows green at 557.7 nanometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Higher up, it glows red at 630 nanometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Airliners cruise far below, around 10 kilometres up.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the northern lights happen at the edge of space.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-chased-a-total-eclipse",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Chased a Total Eclipse?",
+      "hook": "Why one town waits 360–410 years for totality.",
+      "openingLine": "Why one town waits 360–410 years for totality.",
+      "secondBeat": "Somewhere on Earth, one happens every 18 months.",
+      "scientificMechanism": "the Moon's narrow shadow sweeps across Earth, so totality is brief and local",
+      "scenarioChange": "someone waited for a total eclipse at home",
+      "expectedConsequence": "a wait of centuries, unless you travel to the path",
+      "coreQuestion": "If you waited at home for a total eclipse, how long would it take?",
+      "misconception": "Total eclipses aren't rare globally; they're rare at any one place.",
+      "number": "360–410 years",
+      "thumbnailText": "WAIT 400 YEARS",
+      "visualScenes": [
+        "total solar eclipse corona",
+        "narrow shadow path across a map",
+        "eclipse chasers with telescopes",
+        "umbra and penumbra diagram",
+        "longest eclipse timer",
+        "calendar across centuries"
+      ],
+      "editorialTitles": [
+        "Why You Might Never See a Total Eclipse at Home",
+        "The Rare Shadow Worth Chasing"
+      ],
+      "facts": [
+        {
+          "claim": "Although total solar eclipses occur somewhere on Earth every 18 months on average, they recur at any given place only once every 360 to 410 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Solar eclipse",
+          "url": "https://en.wikipedia.org/wiki/Solar_eclipse"
+        },
+        {
+          "claim": "Typically, the umbra is 100–160 km wide, while the penumbral diameter is in excess of 6400 km.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Solar eclipse",
+          "url": "https://en.wikipedia.org/wiki/Solar_eclipse"
+        },
+        {
+          "claim": "The longest eclipse that has been calculated thus far is the eclipse of July 16, 2186 (with a maximum duration of 7 minutes 29 seconds over northern Guyana).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Solar eclipse",
+          "url": "https://en.wikipedia.org/wiki/Solar_eclipse"
+        },
+        {
+          "claim": "The Moon's perigee makes a complete circuit in 8.85 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Solar eclipse",
+          "url": "https://en.wikipedia.org/wiki/Solar_eclipse"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one town waits 360–410 years for totality.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Somewhere on Earth, one happens every 18 months.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "But the Moon's full shadow is only 100 to 160 kilometres wide.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "So each eclipse touches just a thin strip of the planet.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Totality lasts minutes; the longest calculated reaches 7 minutes 29 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "That's why eclipse chasers travel to the path.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So total eclipses are common for Earth, and rare for you.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-tornado-lasted-three-hours",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If a Tornado Lasted Three Hours?",
+      "hook": "Why one tornado stayed on the ground three hours.",
+      "openingLine": "Why one tornado stayed on the ground three hours.",
+      "secondBeat": "In 1925, it crossed Missouri, Illinois and Indiana.",
+      "scientificMechanism": "a long-lived supercell can keep producing a tornado as it tracks across hundreds of kilometres",
+      "scenarioChange": "a single tornado stayed on the ground for hours",
+      "expectedConsequence": "towns across several states destroyed along one path",
+      "coreQuestion": "If a tornado lasted three hours, how much could it destroy?",
+      "misconception": "Tornadoes aren't always brief; the deadliest one crossed three states.",
+      "number": "695 deaths",
+      "thumbnailText": "3-HOUR TORNADO",
+      "visualScenes": [
+        "black-and-white tornado damage photo",
+        "track map across Missouri, Illinois and Indiana",
+        "forward speed graphic",
+        "destroyed town streets",
+        "supercell storm diagram",
+        "modern warning radar"
+      ],
+      "editorialTitles": [
+        "The Deadliest Tornado in U.S. History",
+        "How One Tornado Crossed Three States"
+      ],
+      "facts": [
+        {
+          "claim": "On March 18, 1925, the deadliest tornado in United States history and second-deadliest worldwide moved through Eastern Missouri, Southern Illinois and Southwestern Indiana.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1925 Tri-State tornado",
+          "url": "https://en.wikipedia.org/wiki/1925_Tri-State_tornado"
+        },
+        {
+          "claim": "The tornado killed a combined total of 695 people, the majority of which occurred in Illinois.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1925 Tri-State tornado",
+          "url": "https://en.wikipedia.org/wiki/1925_Tri-State_tornado"
+        },
+        {
+          "claim": "In Murphysboro, 234 residents would die as the tornado barreled through the town at an estimated forward speed of 62 mph (100 km/h).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1925 Tri-State tornado",
+          "url": "https://en.wikipedia.org/wiki/1925_Tri-State_tornado"
+        },
+        {
+          "claim": "The storm finally dissipated over three hours after touching down.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1925 Tri-State tornado",
+          "url": "https://en.wikipedia.org/wiki/1925_Tri-State_tornado"
+        },
+        {
+          "claim": "Debris from the town was found almost 50 mi (80 km) away.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 1925 Tri-State tornado",
+          "url": "https://en.wikipedia.org/wiki/1925_Tri-State_tornado"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one tornado stayed on the ground three hours.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "In 1925, it crossed Missouri, Illinois and Indiana.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It raced forward at about 100 kilometres per hour.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Debris landed nearly 80 kilometres away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In Murphysboro alone, 234 people died.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "In total, 695 people were killed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "There was no tornado warning system back then.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So warnings matter most when storms move this fast.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-dust-bowl-returned",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Dust Bowl Returned?",
+      "hook": "Why 3.5 million people fled the Great Plains.",
+      "openingLine": "Why 3.5 million people fled the Great Plains.",
+      "secondBeat": "In the 1930s, dust storms blackened the sky.",
+      "scientificMechanism": "drought plus ploughed, unanchored soil lets wind strip topsoil into huge dust storms",
+      "scenarioChange": "severe drought struck farmland with exposed soil",
+      "expectedConsequence": "blackened skies, ruined farms and mass migration",
+      "coreQuestion": "If the Dust Bowl returned, what would bring it back?",
+      "misconception": "The Dust Bowl wasn't just drought; farming practices left soil exposed to the wind.",
+      "number": "100 million acres",
+      "thumbnailText": "SKIES OF DUST",
+      "visualScenes": [
+        "black dust cloud over a farm",
+        "affected area map",
+        "ploughed fields versus grassland",
+        "families migrating west",
+        "soil conservation contour ploughing",
+        "drought timeline 1930s"
+      ],
+      "editorialTitles": [
+        "The Man-Made Disaster That Blackened the Sky",
+        "What Caused the Dust Bowl"
+      ],
+      "facts": [
+        {
+          "claim": "The drought and erosion of the Dust Bowl affected 100 million acres (400,000 km2) that centered on the Texas Panhandle and Oklahoma Panhandle.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Dust Bowl",
+          "url": "https://en.wikipedia.org/wiki/Dust_Bowl"
+        },
+        {
+          "claim": "Between 1930 and 1940, about 3.5 million people moved out of the Plains states.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Dust Bowl",
+          "url": "https://en.wikipedia.org/wiki/Dust_Bowl"
+        },
+        {
+          "claim": "The first recorded dust storm occurred on September 14, 1930.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Dust Bowl",
+          "url": "https://en.wikipedia.org/wiki/Dust_Bowl"
+        },
+        {
+          "claim": "In just over a year, over 86,000 people migrated to California.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Dust Bowl",
+          "url": "https://en.wikipedia.org/wiki/Dust_Bowl"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 3.5 million people fled the Great Plains.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "In the 1930s, dust storms blackened the sky.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "About 400,000 square kilometres of farmland were hit.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Drought met ploughed soil with no grass to hold it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In just over a year, over 86,000 people reached California.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Modern farming practices now protect much of that soil.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the Dust Bowl was drought plus human choices.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-could-snap-like-a-pistol-shrimp",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If You Could Snap Like a Pistol Shrimp?",
+      "hook": "Why a shrimp's snap reaches 218 decibels underwater.",
+      "openingLine": "Why a shrimp's snap reaches 218 decibels underwater.",
+      "secondBeat": "The sound comes from a bubble, not the claw.",
+      "scientificMechanism": "a fast claw snap creates a collapsing cavitation bubble that releases a shockwave, sound and a flash",
+      "scenarioChange": "a shrimp-sized snap were scaled up",
+      "expectedConsequence": "a shockwave loud enough to stun prey underwater",
+      "coreQuestion": "If you could snap like a pistol shrimp, what would the bubble do?",
+      "misconception": "The pistol shrimp's bang isn't the claw closing; it's a collapsing bubble.",
+      "number": "218 dB",
+      "thumbnailText": "218 DB SNAP",
+      "visualScenes": [
+        "pistol shrimp claw close-up",
+        "cavitation bubble forming",
+        "shockwave animation",
+        "flash of light from the bubble",
+        "loudness comparison chart",
+        "reef soundscape"
+      ],
+      "editorialTitles": [
+        "The Shrimp That Makes a Bubble Hotter Than the Sun's Surface",
+        "How a Claw Snap Stuns Prey"
+      ],
+      "facts": [
+        {
+          "claim": "As it ejects from the claw, the bubble reaches speeds of 25 m/s (90 km/h; 56 mph).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Alpheidae",
+          "url": "https://en.wikipedia.org/wiki/Alpheidae"
+        },
+        {
+          "claim": "It corresponds to a peak pressure level of 218 decibels relative to one micropascal.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Alpheidae",
+          "url": "https://en.wikipedia.org/wiki/Alpheidae"
+        },
+        {
+          "claim": "If the light were of thermal origin, a temperature of the emitter over 5,000 K (4,700 °C) would be required.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Alpheidae",
+          "url": "https://en.wikipedia.org/wiki/Alpheidae"
+        },
+        {
+          "claim": "The resultant snap may create a cavitation bubble that generates acoustic pressures up to 80 kilopascals at a distance of 4 cm from the claw.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Alpheidae",
+          "url": "https://en.wikipedia.org/wiki/Alpheidae"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a shrimp's snap reaches 218 decibels underwater.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The sound comes from a bubble, not the claw.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The claw shoots water out at 90 kilometres per hour.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "A bubble forms, then collapses violently.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its flash would need over 4,700 °C if thermal.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The shockwave can stun small prey nearby.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So one of the ocean's loudest animals is a few centimetres long.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-water-refused-to-freeze",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If Water Refused to Freeze?",
+      "hook": "Why pure water can stay liquid at −48.3 °C.",
+      "openingLine": "Why pure water can stay liquid at −48.3 °C.",
+      "secondBeat": "Freezing needs a speck or surface to start on.",
+      "scientificMechanism": "pure water lacks nucleation sites, so it can stay liquid well below 0 °C until crystals finally form",
+      "scenarioChange": "water was cooled without anything to freeze onto",
+      "expectedConsequence": "liquid water far below freezing, until it freezes suddenly",
+      "coreQuestion": "If water refused to freeze, how cold could it get?",
+      "misconception": "Water doesn't always freeze at 0 °C; pure water can stay liquid much colder.",
+      "number": "−48.3 °C",
+      "thumbnailText": "LIQUID AT −48°C",
+      "visualScenes": [
+        "bottle of supercooled water freezing instantly",
+        "ice crystal nucleation diagram",
+        "temperature scale to −48.3 °C",
+        "glassy water concept",
+        "cloud droplets below freezing",
+        "lab cooling setup"
+      ],
+      "editorialTitles": [
+        "How Water Stays Liquid Below Freezing",
+        "The Cold Water That Freezes in an Instant"
+      ],
+      "facts": [
+        {
+          "claim": "Water can be supercooled at standard pressure down to its crystal homogeneous nucleation at almost 224.8 K (−48.3 °C; −55.0 °F).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Supercooling",
+          "url": "https://en.wikipedia.org/wiki/Supercooling"
+        },
+        {
+          "claim": "Water normally freezes at 273.15 K (0.0 °C; 32 °F).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Supercooling",
+          "url": "https://en.wikipedia.org/wiki/Supercooling"
+        },
+        {
+          "claim": "Its glass transition temperature is much colder and harder to determine, but studies estimate it at about 136 K (−137 °C).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Supercooling",
+          "url": "https://en.wikipedia.org/wiki/Supercooling"
+        },
+        {
+          "claim": "Glassy water can be heated up to approximately 150 K (−123 °C) without nucleation occurring.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Supercooling",
+          "url": "https://en.wikipedia.org/wiki/Supercooling"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why pure water can stay liquid at −48.3 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Freezing needs a speck or surface to start on.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Without one, water stays liquid below 0 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That's called supercooling.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Tap a supercooled bottle, and it can freeze in seconds.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Cooled fast enough, water becomes a glass near −137 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So 0 °C is when water can freeze, not when it must.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-your-hiccups-never-stopped",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If Your Hiccups Never Stopped?",
+      "hook": "Why one man hiccuped for 68 years.",
+      "openingLine": "Why one man hiccuped for 68 years.",
+      "secondBeat": "Charles Osborne started in 1922, on a Nebraska farm.",
+      "scientificMechanism": "hiccups are repeated diaphragm spasms; rarely, the reflex keeps firing for years",
+      "scenarioChange": "a person's hiccups never stopped",
+      "expectedConsequence": "decades of hiccups while life carries on",
+      "coreQuestion": "If your hiccups never stopped, could you live a normal life?",
+      "misconception": "Hiccups aren't always brief; one man's lasted 68 years.",
+      "number": "68 years",
+      "thumbnailText": "68 YEARS HICCUPING",
+      "visualScenes": [
+        "farmer in 1920s Nebraska",
+        "diaphragm spasm diagram",
+        "hiccup counter ticking",
+        "radio show 1936",
+        "timeline 1922 to 1990",
+        "doctor examining a patient"
+      ],
+      "editorialTitles": [
+        "The Man Who Hiccuped for 68 Years",
+        "What Happens When Hiccups Never Stop"
+      ],
+      "facts": [
+        {
+          "claim": "He gained national attention to the American public for hiccuping for over 68 years, estimating over 430 million hiccups throughout his life.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Charles Osborne (hiccups)",
+          "url": "https://en.wikipedia.org/wiki/Charles_Osborne_(hiccups)"
+        },
+        {
+          "claim": "In 1922, Osborne began hiccuping in a farm near Union, Nebraska, after a 350-pound hog collapsed on top of him while he was preparing to slaughter the hog.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Charles Osborne (hiccups)",
+          "url": "https://en.wikipedia.org/wiki/Charles_Osborne_(hiccups)"
+        },
+        {
+          "claim": "He gained national attention in 1936, after he appeared in Ripley's Believe It or Not!'s radio program.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Charles Osborne (hiccups)",
+          "url": "https://en.wikipedia.org/wiki/Charles_Osborne_(hiccups)"
+        },
+        {
+          "claim": "He retired from farming in 1961.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Charles Osborne (hiccups)",
+          "url": "https://en.wikipedia.org/wiki/Charles_Osborne_(hiccups)"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one man hiccuped for 68 years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Charles Osborne started in 1922, on a Nebraska farm.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "A 350-pound hog had fallen on him.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "He estimated over 430 million hiccups in his life.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Hiccups are diaphragm spasms, a reflex that usually fades.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "He still farmed until 1961.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "A radio show made him famous in 1936.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So even simple reflexes can get stuck on.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-couldnt-feel-pain",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Couldn't Feel Pain?",
+      "hook": "Why one Swedish village has nearly 40 painless people.",
+      "openingLine": "Why one Swedish village has nearly 40 painless people.",
+      "secondBeat": "They have a rare condition: congenital insensitivity to pain.",
+      "scientificMechanism": "pain signals depend on sodium channels in nerves; certain mutations switch them off",
+      "scenarioChange": "a person was born unable to feel pain",
+      "expectedConsequence": "injuries go unnoticed, making everyday life dangerous",
+      "coreQuestion": "If you couldn't feel pain, would it be a gift or a danger?",
+      "misconception": "Feeling no pain isn't a superpower; pain protects you from injury.",
+      "number": "40 cases",
+      "thumbnailText": "NO PAIN",
+      "visualScenes": [
+        "child playing unaware of injury",
+        "nerve signal diagram",
+        "SCN9A gene graphic",
+        "village in northern Sweden",
+        "inheritance chart",
+        "doctor checking wounds"
+      ],
+      "editorialTitles": [
+        "The People Who Feel No Pain",
+        "Why Pain Keeps You Alive"
+      ],
+      "facts": [
+        {
+          "claim": "Roughly 50% of CIP cases are inherited from a parent with CIP.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Congenital insensitivity to pain",
+          "url": "https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain"
+        },
+        {
+          "claim": "CIP is found at an abnormally high frequency in Vittangi, a village in northern Sweden, where nearly 40 cases have been reported.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Congenital insensitivity to pain",
+          "url": "https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain"
+        },
+        {
+          "claim": "This disorder can be in the voltage-gated sodium channel SCN9A (Nav1.7).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Congenital insensitivity to pain",
+          "url": "https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain"
+        },
+        {
+          "claim": "People with homozygous mutations of the PRDM12 gene experience congenital insensitivity to pain (CIP).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Congenital insensitivity to pain",
+          "url": "https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one Swedish village has nearly 40 painless people.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "They have a rare condition: congenital insensitivity to pain.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "A faulty sodium channel stops pain signals reaching the brain.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "About 50% of cases are inherited from a parent.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Broken bones and burns can go unnoticed.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Children must learn to check themselves for injuries.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So pain isn't the problem. It's the alarm.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-gave-mars-a-thicker-atmosphere",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If We Gave Mars a Thicker Atmosphere?",
+      "hook": "Why Mars needs air pressure above 19 kilopascals.",
+      "openingLine": "Why Mars needs air pressure above 19 kilopascals.",
+      "secondBeat": "Above that, people could skip pressure suits.",
+      "scientificMechanism": "raising Mars's air pressure and temperature would require releasing or importing huge amounts of gas",
+      "scenarioChange": "engineers thickened Mars's atmosphere",
+      "expectedConsequence": "above 19 kPa, people could walk outside without pressure suits",
+      "coreQuestion": "If we gave Mars a thicker atmosphere, what would it take?",
+      "misconception": "Terraforming Mars isn't just warming it; it needs vastly more air.",
+      "number": "19 kPa",
+      "thumbnailText": "BREATHABLE MARS?",
+      "visualScenes": [
+        "Mars with a thin atmosphere",
+        "pressure gauge rising to 19 kPa",
+        "asteroid redirected toward Mars",
+        "pressure suit versus no suit comparison",
+        "atmospheric loss to space diagram",
+        "domed habitat"
+      ],
+      "editorialTitles": [
+        "What It Would Take to Terraform Mars",
+        "Why Mars Needs So Much More Air"
+      ],
+      "facts": [
+        {
+          "claim": "Mars's CO2 atmosphere has about 1% the pressure of the Earth's at sea level.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Terraforming of Mars",
+          "url": "https://en.wikipedia.org/wiki/Terraforming_of_Mars"
+        },
+        {
+          "claim": "If Mars's atmospheric pressure could rise above 19 kPa (2.8 psi), then a pressure suit would not be required.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Terraforming of Mars",
+          "url": "https://en.wikipedia.org/wiki/Terraforming_of_Mars"
+        },
+        {
+          "claim": "Additional volatiles must be supplied from an external source, such as redirecting several massive asteroids (40–400 billion tonnes total) containing ammonia.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Terraforming of Mars",
+          "url": "https://en.wikipedia.org/wiki/Terraforming_of_Mars"
+        },
+        {
+          "claim": "The current loss rate of CO2 from Mars's atmosphere to space is equivalent to approximately 1 millibar per billion years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Terraforming of Mars",
+          "url": "https://en.wikipedia.org/wiki/Terraforming_of_Mars"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Mars needs air pressure above 19 kilopascals.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Above that, people could skip pressure suits.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Today, Mars has about 1% of Earth's air pressure.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "One idea: redirect asteroids carrying 40 to 400 billion tonnes of volatiles.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Mars loses air only slowly, about 1 millibar per billion years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So once added, the air would mostly stay.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So terraforming Mars is a problem of scale, not physics.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-met-the-biggest-black-hole",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If You Met the Biggest Black Hole?",
+      "hook": "Why one black hole weighs 66 billion Suns.",
+      "openingLine": "Why one black hole weighs 66 billion Suns.",
+      "secondBeat": "Newer estimates put TON 618 at 40.7 billion.",
+      "scientificMechanism": "supermassive black holes grow by swallowing gas, powering bright quasars around them",
+      "scenarioChange": "we visited one of the most massive black holes known",
+      "expectedConsequence": "a quasar glowing across a nebula three times the Milky Way's size",
+      "coreQuestion": "If you met the biggest black hole, how big would it be?",
+      "misconception": "Black hole masses aren't fixed facts; estimates for TON 618 range from 40.7 to 66 billion Suns.",
+      "number": "40.7–66 billion Suns",
+      "thumbnailText": "66 BILLION SUNS",
+      "visualScenes": [
+        "quasar glowing in deep space",
+        "mass comparison with Sagittarius A*",
+        "Lyman-alpha nebula",
+        "light travel time graphic",
+        "size comparison with the Milky Way",
+        "accretion disk"
+      ],
+      "editorialTitles": [
+        "One of the Biggest Black Holes Ever Found",
+        "How Heavy Can a Black Hole Get?"
+      ],
+      "facts": [
+        {
+          "claim": "It contains one of the most massive black holes ever found, at roughly 40.7 billion times the Sun's mass, though some older, more frequently-cited estimates yield 66 billion M☉.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — TON 618",
+          "url": "https://en.wikipedia.org/wiki/TON_618"
+        },
+        {
+          "claim": "The light travel time of TON 618 is estimated to be approximately 10.8 billion years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — TON 618",
+          "url": "https://en.wikipedia.org/wiki/TON_618"
+        },
+        {
+          "claim": "The enormous Lyman-alpha nebula surrounding it has the diameter of at least 100 kiloparsecs (330,000 light-years), triple the size of the Milky Way.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — TON 618",
+          "url": "https://en.wikipedia.org/wiki/TON_618"
+        },
+        {
+          "claim": "Its observed redshift is 2.219.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — TON 618",
+          "url": "https://en.wikipedia.org/wiki/TON_618"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one black hole weighs 66 billion Suns.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Newer estimates put TON 618 at 40.7 billion.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Its light took about 10.8 billion years to reach us.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "A glowing nebula around it spans 330,000 light-years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That's triple the size of the Milky Way.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Our galaxy's black hole is tiny by comparison.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the biggest black holes shine brighter than whole galaxies.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-black-hole-shredded-a-star",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If a Black Hole Shredded a Star?",
+      "hook": "Why only 1% of shredded stars launch jets.",
+      "openingLine": "Why only 1% of shredded stars launch jets.",
+      "secondBeat": "A star that strays too close gets pulled apart.",
+      "scientificMechanism": "a star straying too close to a supermassive black hole is torn apart by tidal forces",
+      "scenarioChange": "a star passed too close to a black hole",
+      "expectedConsequence": "about half its matter falls in, flaring brightly; rarely, a jet launches",
+      "coreQuestion": "If a black hole shredded a star, what would we see?",
+      "misconception": "Black holes don't swallow torn stars whole; about half the matter escapes.",
+      "number": "1% launch jets",
+      "thumbnailText": "STAR TORN APART",
+      "visualScenes": [
+        "star stretched into a stream",
+        "accretion disk forming",
+        "X-ray flare detection",
+        "jet launched from a black hole",
+        "discovery timeline 1970s to 1990s",
+        "half bound, half ejected diagram"
+      ],
+      "editorialTitles": [
+        "When a Black Hole Tears a Star Apart",
+        "What Tidal Disruption Events Reveal"
+      ],
+      "facts": [
+        {
+          "claim": "TDEs were predicted in the 1970s and first observed in the 1990s.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tidal disruption event",
+          "url": "https://en.wikipedia.org/wiki/Tidal_disruption_event"
+        },
+        {
+          "claim": "In 1988 Martin Rees described how approximately half of the disrupted stellar material will remain bound, eventually accreting onto the black hole.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tidal disruption event",
+          "url": "https://en.wikipedia.org/wiki/Tidal_disruption_event"
+        },
+        {
+          "claim": "Approximately 1% of TDEs are relativistic TDEs, where an astrophysical jet is launched from the black hole shortly after the star is destroyed.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tidal disruption event",
+          "url": "https://en.wikipedia.org/wiki/Tidal_disruption_event"
+        },
+        {
+          "claim": "As of 2023 only four TDEs with jets have been observed.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tidal disruption event",
+          "url": "https://en.wikipedia.org/wiki/Tidal_disruption_event"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why only 1% of shredded stars launch jets.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "A star that strays too close gets pulled apart.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "About half its matter stays bound and falls in.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The rest is flung away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The infalling gas flares brightly in X-rays.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "By 2023, only four jetted events had been seen.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So hidden black holes reveal themselves by what they destroy.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-whale-fed-the-deep-sea-for-decades",
+      "replaces": "what-happens-if-global-pollination-stops-for-one-day",
+      "category": "OTHER",
+      "topic": "What If a Whale Fed the Deep Sea for Decades?",
+      "hook": "Why 690,000 dead whales feed the deep sea.",
+      "openingLine": "Why 690,000 dead whales feed the deep sea.",
+      "secondBeat": "A dead whale sinks below 1,000 metres.",
+      "scientificMechanism": "a whale carcass sinks to the deep seafloor and supports a succession of specialised communities",
+      "scenarioChange": "a whale carcass settled on the abyssal floor",
+      "expectedConsequence": "an oasis of life on an otherwise sparse seafloor",
+      "coreQuestion": "If a whale fell to the deep sea, how much life would it feed?",
+      "misconception": "The deep seafloor isn't uniformly barren; whale falls create oases.",
+      "number": "690,000 whale falls",
+      "thumbnailText": "WHALE FALL",
+      "visualScenes": [
+        "whale skeleton on the seafloor",
+        "scavengers feeding",
+        "bone-eating worms",
+        "depth scale below 1,000 m",
+        "succession stages diagram",
+        "submersible lights on bones"
+      ],
+      "editorialTitles": [
+        "The Whale That Feeds the Deep for Decades",
+        "What Happens When a Whale Sinks"
+      ],
+      "facts": [
+        {
+          "claim": "A whale fall occurs when the carcass of a whale has fallen onto the ocean floor, typically at a depth greater than 1,000 m (3,300 ft).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Whale fall",
+          "url": "https://en.wikipedia.org/wiki/Whale_fall"
+        },
+        {
+          "claim": "Researchers estimate that 690,000 carcasses/skeletons of the nine largest whale species are in one of the four stages of succession at any one time.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Whale fall",
+          "url": "https://en.wikipedia.org/wiki/Whale_fall"
+        },
+        {
+          "claim": "This estimate implies an average spacing of 12 km (7.5 mi) and as little as 5 km (3.1 mi) along migration routes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Whale fall",
+          "url": "https://en.wikipedia.org/wiki/Whale_fall"
+        },
+        {
+          "claim": "The DSV Alvin observed the remains using scanning sonar at 1,240 m (4,070 ft) in the Catalina Basin.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Whale fall",
+          "url": "https://en.wikipedia.org/wiki/Whale_fall"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 690,000 dead whales feed the deep sea.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "A dead whale sinks below 1,000 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It passes through four stages of feeding communities.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "On average, they lie about 12 kilometres apart.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Scavengers strip flesh; worms and microbes feast on bones.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Some species may live almost nowhere else.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a single whale becomes a deep-sea ecosystem.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    }
+  ]
+}

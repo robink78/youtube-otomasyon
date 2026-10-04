@@ -1,0 +1,93 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": -5,
+  "baslik": "The Silent Gas That Kills You in Your Sleep",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "No smell, no warning",
+  "soru": "Have a detector?",
+  "arama_yedek": "home interior",
+  "aciklama": "Carbon monoxide has no smell, no color, and kills people in their sleep. Here is how the silent killer works.\n\n#shorts #science #safety #health #howitworks",
+  "etiketler": [
+    "carbon monoxide",
+    "safety",
+    "home",
+    "science",
+    "health"
+  ],
+  "sahneler": [
+    {
+      "metin": "This gas kills people in their sleep, with no warning.",
+      "arama": "dark bedroom"
+    },
+    {
+      "metin": "Every year it kills hundreds of Americans at home.",
+      "arama": "gas heater flame"
+    },
+    {
+      "metin": "Carbon monoxide has no color, no smell, not even a taste.",
+      "arama": "home heater"
+    },
+    {
+      "metin": "It comes from anything burning fuel: heaters, cars, stoves.",
+      "arama": "car exhaust"
+    },
+    {
+      "metin": "The reason: your blood grabs it over two hundred times more readily than oxygen.",
+      "arama": "person sleeping"
+    },
+    {
+      "metin": "So you suffocate in a room full of air.",
+      "arama": "bedroom window"
+    },
+    {
+      "metin": "Early signs feel like flu.",
+      "arama": "tired person"
+    },
+    {
+      "metin": "A cheap detector is the only thing that can warn you.",
+      "arama": "smoke detector ceiling"
+    }
+  ],
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "mekanizma",
+    "ad": "Carbon Monoxide",
+    "nesne": "Gas",
+    "sonuc": "kills people in their sleep",
+    "tetik": "anything burning fuel",
+    "mekanizma": "carbon monoxide binding to hemoglobin",
+    "sayi": "NO SMELL",
+    "ders": "a cheap detector is the only warning",
+    "zincir": [
+      "INCOMPLETE COMBUSTION",
+      "CO FILLS THE ROOM",
+      "BINDS TO BLOOD ~200×",
+      "OXYGEN DELIVERY FALLS",
+      "UNCONSCIOUSNESS"
+    ],
+    "yanilgi": "CO poisoning is often mistaken for flu or tiredness — which is exactly why it kills sleeping people.",
+    "tartisma": "Should carbon monoxide detectors be mandatory in every home with a fuel-burning appliance?",
+    "basliklar": [
+      "The Gas Your Body Can't Detect",
+      "Why Carbon Monoxide Kills People in Their Sleep",
+      "No Color, No Smell, No Warning"
+    ],
+    "kapak": [
+      "NO SMELL",
+      "NO WARNING"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Carbon monoxide poisoning",
+        "url": "https://en.wikipedia.org/wiki/Carbon_monoxide_poisoning"
+      },
+      {
+        "ad": "Wikipedia — Carboxyhemoglobin",
+        "url": "https://en.wikipedia.org/wiki/Carboxyhemoglobin"
+      }
+    ]
+  }
+}

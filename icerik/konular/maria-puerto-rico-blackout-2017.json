@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Worst Blackout in US History",
+  "kaynaklar": [
+    {
+      "ad": "maria-puerto-rico-blacko-1.jpg",
+      "wikimedia": "171012-F-FH950-0642 (37634528256).jpg"
+    },
+    {
+      "ad": "maria-puerto-rico-blacko-2.jpg",
+      "wikimedia": "20171007- SC National Guard in Puerto Rico (36846539124).jpg"
+    },
+    {
+      "ad": "maria-puerto-rico-blacko-3.jpg",
+      "wikimedia": "Hurricane Maria (2017) 170923-H-NI589-0007 (36602415074).jpg"
+    },
+    {
+      "ad": "maria-puerto-rico-blacko-4.jpg",
+      "wikimedia": "Puerto Rico Rally IMG 7743 (37439192926).jpg"
+    },
+    {
+      "ad": "maria-puerto-rico-blacko-5.jpg",
+      "wikimedia": "170921-A-ZM725-898 (37138483700).jpg"
+    },
+    {
+      "ad": "maria-puerto-rico-blacko-6.jpg",
+      "wikimedia": "170922-Z-BG835-909 (37348163586).jpg"
+    },
+    {
+      "ad": "maria-puerto-rico-blacko-7.jpg",
+      "wikimedia": "170922-Z-VA676-173 (37138484750).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Hurricane Maria tore across Puerto Rico.",
+      "kaynak": "Footage/maria-puerto-rico-blacko-1.jpg"
+    },
+    {
+      "metin": "Suddenly the island's entire power grid went dark.",
+      "kaynak": "Footage/maria-puerto-rico-blacko-2.jpg"
+    },
+    {
+      "metin": "It became the worst blackout in US history.",
+      "kaynak": "Footage/maria-puerto-rico-blacko-3.jpg"
+    },
+    {
+      "metin": "It lasted for months.",
+      "kaynak": "Footage/maria-puerto-rico-blacko-4.jpg"
+    },
+    {
+      "metin": "The utility was already deep in debt.",
+      "kaynak": "Footage/maria-puerto-rico-blacko-5.jpg"
+    },
+    {
+      "metin": "It had lost a large part of its workforce.",
+      "kaynak": "Footage/maria-puerto-rico-blacko-6.jpg"
+    },
+    {
+      "metin": "An estimated two thousand nine hundred seventy five people died in Puerto Rico.",
+      "kaynak": "Footage/maria-puerto-rico-blacko-7.jpg"
+    },
+    {
+      "metin": "The grid became a case study in resilience.",
+      "kaynak": "Footage/maria-puerto-rico-blacko-1.jpg"
+    }
+  ],
+  "aciklama": "Maria knocked out Puerto Rico's power grid for months. The cause: a fragile, underfunded grid destroyed and slow to restore.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Maria",
+    "2017",
+    "power grid",
+    "engineering failure"
+  ],
+  "hook": "The lights stayed off for months",
+  "soru": "Is resilience built before the storm?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "Hurricane Maria",
+    "kisa": "Maria",
+    "nesne": "Power grid",
+    "yil": 2017,
+    "sonuc": "knocked out Puerto Rico's power grid for months",
+    "tetik": "a catastrophic hurricane hitting a weakened grid",
+    "mekanizma": "a fragile, underfunded grid destroyed and slow to restore",
+    "sayi": "2,975 DEAD",
+    "ders": "Puerto Rico's grid became a case study in infrastructure resilience",
+    "zincir": [
+      "UTILITY IN DEBT",
+      "WORKFORCE CUT",
+      "HURRICANE HITS",
+      "GRID DESTROYED",
+      "MONTHS WITHOUT POWER"
+    ],
+    "zaman": [],
+    "yanilgi": "Most deaths didn't come in the storm itself. Many came in the long months after.",
+    "tartisma": "The utility had lost 30 percent of its workforce. Is resilience built before the storm?",
+    "basliklar": [
+      "The Worst Blackout in US History",
+      "Why Puerto Rico Lost Power for Months",
+      "The Blackout After Hurricane Maria"
+    ],
+    "kapak": [
+      "BLACKOUT",
+      "MONTHS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hurricane Maria",
+        "url": "https://en.wikipedia.org/wiki/Hurricane_Maria"
+      },
+      {
+        "ad": "FEMA — mat report hurricane irma maria puerto rico 2 (cited by Wikipedia)",
+        "url": "https://www.fema.gov/sites/default/files/2020-07/mat-report_hurricane-irma-maria-puerto-rico_2.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-22",
+    "wiki": "Hurricane_Maria",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "171012-F-FH950-0642 (37634528256).jpg [Public domain]",
+      "20171007- SC National Guard in Puerto Rico (36846539124).jpg [Public domain]",
+      "Hurricane Maria (2017) 170923-H-NI589-0007 (36602415074).jpg [Public domain]",
+      "Puerto Rico Rally IMG 7743 (37439192926).jpg [CC BY 2.0]",
+      "170921-A-ZM725-898 (37138483700).jpg [Public domain]",
+      "170922-Z-BG835-909 (37348163586).jpg [Public domain]",
+      "170922-Z-VA676-173 (37138484750).jpg [Public domain]"
+    ]
+  }
+}

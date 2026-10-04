@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Ice in the Fuel Starved Both Engines on Final Approach",
+  "kaynaklar": [
+    {
+      "ad": "british-airways-38-1.jpg",
+      "wikimedia": "British Airways - Boeing 777-200ER - G-YMMM - London Heathrow crash of flight BAW038.jpg"
+    },
+    {
+      "ad": "british-airways-38-2.jpg",
+      "wikimedia": "BA38 Crash.jpg"
+    },
+    {
+      "ad": "british-airways-38-3.jpg",
+      "wikimedia": "Boeing 747, British Airways Flight 005 to Tokyo.jpg"
+    },
+    {
+      "ad": "british-airways-38-4.png",
+      "wikimedia": "Ice-Trent-800-Heat-Exchanger.PNG"
+    },
+    {
+      "ad": "british-airways-38-5.jpg",
+      "wikimedia": "Ice-Trent-800-Heat-Exchanger inset.jpg"
+    },
+    {
+      "ad": "british-airways-38-6.jpg",
+      "wikimedia": "British Airways B757 interior with lights out.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On final approach to Heathrow, both engines of a Boeing 777 lost power.",
+      "kaynak": "Footage/british-airways-38-1.jpg"
+    },
+    {
+      "metin": "Suddenly it dropped short and slammed onto the grass before the runway.",
+      "kaynak": "Footage/british-airways-38-2.jpg"
+    },
+    {
+      "metin": "Everyone aboard survived.",
+      "kaynak": "Footage/british-airways-38-3.jpg"
+    },
+    {
+      "metin": "The tanks had plenty of fuel.",
+      "kaynak": "Footage/british-airways-38-4.png"
+    },
+    {
+      "metin": "On the long cold flight, ice had formed in the fuel.",
+      "kaynak": "Footage/british-airways-38-5.jpg"
+    },
+    {
+      "metin": "When thrust increased, it built up at the heat exchangers.",
+      "kaynak": "Footage/british-airways-38-6.jpg"
+    },
+    {
+      "metin": "The engines were starved of fuel.",
+      "kaynak": "Footage/british-airways-38-1.jpg"
+    },
+    {
+      "metin": "Rolls-Royce redesigned the heat exchanger.",
+      "kaynak": "Footage/british-airways-38-2.jpg"
+    }
+  ],
+  "aciklama": "British Airways 38 lost thrust on both engines on final approach. The cause: ice crystals from the fuel accumulating and blocking the fuel-oil heat exchanger inlets.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "British Airways 38",
+    "2008",
+    "fuel system",
+    "engineering failure"
+  ],
+  "hook": "Full tanks, no thrust",
+  "soru": "Luck or design margin?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "British Airways Flight 38",
+    "kisa": "British Airways 38",
+    "nesne": "Fuel system",
+    "yil": 2008,
+    "sonuc": "lost thrust on both engines on final approach",
+    "tetik": "ice restricting fuel flow at a heat exchanger",
+    "mekanizma": "ice crystals from the fuel accumulating and blocking the fuel-oil heat exchanger inlets",
+    "sayi": "BOTH ENGINES",
+    "ders": "Rolls-Royce redesigned the fuel-oil heat exchanger",
+    "zincir": [
+      "VERY COLD FUEL ON LONG FLIGHT",
+      "ICE FORMS IN FUEL LINES",
+      "ICE RELEASED WHEN THRUST INCREASED",
+      "HEAT EXCHANGER BLOCKED",
+      "ENGINES ROLL BACK"
+    ],
+    "zaman": [],
+    "yanilgi": "The jet had plenty of fuel. Ice in the fuel blocked it from reaching the engines.",
+    "tartisma": "The aircraft landed short, but everyone survived. How much is design margin worth?",
+    "basliklar": [
+      "Ice in the Fuel Starved Both Engines on Final Approach",
+      "Why British Airways Flight 38 Lost Power",
+      "The Ice That Starved a 777's Engines"
+    ],
+    "kapak": [
+      "ICE IN FUEL",
+      "BOTH ENGINES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — British Airways Flight 38",
+        "url": "https://en.wikipedia.org/wiki/British_Airways_Flight_38"
+      },
+      {
+        "ad": "FAA — 2010 07 01 (cited by Wikipedia)",
+        "url": "http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAD.nsf/0/28a1f5ba17de1ccc862576f500578b42/$FILE/2010-07-01.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "British_Airways_Flight_38",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "British Airways - Boeing 777-200ER - G-YMMM - London Heathrow crash of flight BAW038.jpg [CC BY 2.0]",
+      "BA38 Crash.jpg [CC BY 3.0]",
+      "Boeing 747, British Airways Flight 005 to Tokyo.jpg [CC BY 2.0]",
+      "Ice-Trent-800-Heat-Exchanger.PNG [Public domain]",
+      "Ice-Trent-800-Heat-Exchanger inset.jpg [Public domain]",
+      "British Airways B757 interior with lights out.jpg [CC BY 2.5]"
+    ]
+  }
+}

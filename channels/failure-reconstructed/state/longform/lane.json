@@ -1,0 +1,49 @@
+{
+  "channel": "failure-reconstructed",
+  "cycles": [
+    {
+      "cycleId": "2026-W40",
+      "channel": "failure-reconstructed",
+      "startedAt": "2026-09-30T15:48:32.929Z",
+      "status": "QUALITY_BLOCKED",
+      "evaluated": [
+        {
+          "slug": "challenger-1986",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 83,
+          "bucket": "A",
+          "decision": "BLOCK",
+          "score": 83,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~2.3 min; target 8–12 min — not padded"
+          ]
+        },
+        {
+          "slug": "columbia-2003",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 82,
+          "bucket": "A",
+          "decision": "BLOCK",
+          "score": 85,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~1.9 min; target 8–12 min — not padded"
+          ]
+        },
+        {
+          "slug": "apollo-13-1970",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 81,
+          "bucket": "A",
+          "decision": "BLOCK",
+          "score": 84,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~2.2 min; target 8–12 min — not padded"
+          ]
+        }
+      ],
+      "selected": null,
+      "reason": "no candidate passed the long-form quality gate; cadence does not override quality",
+      "finishedAt": "2026-09-30T15:48:34.178Z"
+    }
+  ]
+}

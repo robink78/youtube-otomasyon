@@ -1,0 +1,41 @@
+{
+  "subject": "nuclear reactor coolant pump",
+  "text": [
+    "THE STUCK VALVE"
+  ],
+  "maxWords": 3,
+  "palette": [
+    "#07090d",
+    "#c8ced8",
+    "#d6ae5f",
+    "#5aa9e6"
+  ],
+  "clutter": false,
+  "concepts": [
+    {
+      "id": "critical-object",
+      "composition": "nuclear reactor coolant pump isolated against a dark technical field",
+      "consequence": "faint global network"
+    },
+    {
+      "id": "system-map",
+      "composition": "nuclear reactor coolant pump centered inside a minimal dependency map",
+      "consequence": "downstream nodes dimmed"
+    },
+    {
+      "id": "scale",
+      "composition": "extreme close view of nuclear reactor coolant pump",
+      "consequence": "small Earth silhouette"
+    },
+    {
+      "id": "failure",
+      "composition": "nuclear reactor coolant pump with one precise break or warning marker",
+      "consequence": "restrained dark infrastructure"
+    },
+    {
+      "id": "replacement",
+      "composition": "nuclear reactor coolant pump beside an empty replacement outline",
+      "consequence": "lead-time clock"
+    }
+  ]
+}

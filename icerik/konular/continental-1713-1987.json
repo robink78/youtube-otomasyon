@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Twenty-Seven Minutes of Snow After De-icing",
+  "kaynaklar": [
+    {
+      "ad": "continental-1713-1.png",
+      "wikimedia": "Continental 1713 wreckage.png"
+    },
+    {
+      "ad": "continental-1713-2.png",
+      "wikimedia": "Continental 1713 wreckage 2.png"
+    },
+    {
+      "ad": "continental-1713-3.jpg",
+      "wikimedia": "Continental1713SeatingChart.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A DC-9 rolled over and crashed on take-off in a Denver snowstorm.",
+      "kaynak": "Footage/continental-1713-1.png"
+    },
+    {
+      "metin": "It broke apart on the runway, and twenty five passengers and three crew were killed.",
+      "kaynak": "Footage/continental-1713-2.png"
+    },
+    {
+      "metin": "The jet had been de-iced before departure.",
+      "kaynak": "Footage/continental-1713-3.jpg"
+    },
+    {
+      "metin": "Then it waited twenty seven minutes for take-off.",
+      "kaynak": "Footage/continental-1713-1.png"
+    },
+    {
+      "metin": "Snow and ice built up on the wings again.",
+      "kaynak": "Footage/continental-1713-2.png"
+    },
+    {
+      "metin": "The first officer rotated too fast, and the left wing stalled.",
+      "kaynak": "Footage/continental-1713-3.jpg"
+    },
+    {
+      "metin": "Both pilots were inexperienced on the DC-9.",
+      "kaynak": "Footage/continental-1713-1.png"
+    },
+    {
+      "metin": "Rules for newly qualified crews were tightened.",
+      "kaynak": "Footage/continental-1713-2.png"
+    }
+  ],
+  "aciklama": "Continental 1713 crashed on take-off in a Denver snowstorm. The cause: ice on the upper wing combined with an over-rapid rotation causing a stall on lift-off.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Continental 1713",
+    "1987",
+    "wing ice",
+    "engineering failure"
+  ],
+  "hook": "The ice came back",
+  "soru": "Two new pilots together?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Continental Airlines Flight 1713",
+    "kisa": "Continental 1713",
+    "nesne": "Wing ice",
+    "yil": 1987,
+    "sonuc": "crashed on take-off in a Denver snowstorm",
+    "tetik": "wing contamination after a long delay since de-icing",
+    "mekanizma": "ice on the upper wing combined with an over-rapid rotation causing a stall on lift-off",
+    "sayi": "27 MINUTES",
+    "ders": "rules for newly qualified crews and de-icing hold-over times were tightened",
+    "zincir": [
+      "DE-ICED IN SNOWSTORM",
+      "27-MINUTE DELAY",
+      "ICE RE-FORMS ON WINGS",
+      "RAPID ROTATION",
+      "LEFT WING STALLS"
+    ],
+    "zaman": [],
+    "yanilgi": "The jet was de-iced. Too much time passed before take-off, and ice formed again.",
+    "tartisma": "Both pilots were inexperienced on the jet. Should two new pilots ever fly together?",
+    "basliklar": [
+      "Twenty-Seven Minutes of Snow After De-icing",
+      "Why Continental Flight 1713 Crashed",
+      "The Ice That Came Back After De-icing"
+    ],
+    "kapak": [
+      "27 MINUTES",
+      "ICE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Continental Airlines Flight 1713",
+        "url": "https://en.wikipedia.org/wiki/Continental_Airlines_Flight_1713"
+      },
+      {
+        "ad": "NTSB — AAR8809 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR8809.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-16-fix",
+    "wiki": "Continental_Airlines_Flight_1713",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Continental 1713 wreckage.png [Public domain]",
+      "Continental 1713 wreckage 2.png [Public domain]",
+      "Continental1713SeatingChart.JPG [Public domain]"
+    ]
+  }
+}

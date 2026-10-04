@@ -1,0 +1,63 @@
+{
+  "slug": "the-science-of-sinkholes",
+  "olusturuldu": "2026-09-24T16:22:41.812Z",
+  "originality": 85,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.08,
+      "kim": "how-gas-explosions-happen"
+    },
+    "hook": {
+      "deger": 0.14,
+      "kim": "how-hurricanes-destroy"
+    },
+    "structure": {
+      "deger": 0.78,
+      "kim": "why-glass-shatters"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.65,
+      "kim": "how-ground-turns-to-liquid"
+    },
+    "cta": {
+      "deger": 0.28,
+      "kim": "tacoma-narrows"
+    },
+    "description": {
+      "deger": 0.13,
+      "kim": "how-hurricanes-destroy"
+    },
+    "music": {
+      "deger": 0.83,
+      "kim": "how-avalanches-start"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.08,
+    "HOOK_SIMILARITY": 0.14,
+    "STRUCTURE_SIMILARITY": 0.78,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.65,
+    "CTA_SIMILARITY": 0.28,
+    "DESCRIPTION_SIMILARITY": 0.13,
+    "MUSIC_SIMILARITY": 0.83
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

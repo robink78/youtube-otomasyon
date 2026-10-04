@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Ferry That Capsized at the Mouth of Wellington Harbour",
+  "kaynaklar": [
+    {
+      "ad": "tev-wahine-1.jpg",
+      "wikimedia": "NZ Wahine Salvage.jpg"
+    },
+    {
+      "ad": "tev-wahine-2.jpg",
+      "wikimedia": "NZ Wahine Salvage 02.jpg"
+    },
+    {
+      "ad": "tev-wahine-3.jpg",
+      "wikimedia": "Union Steam Ship Company ferry TEV Wahine in port.jpg"
+    },
+    {
+      "ad": "tev-wahine-4.jpg",
+      "wikimedia": "Wahine - bow.jpg"
+    },
+    {
+      "ad": "tev-wahine-5.jpg",
+      "wikimedia": "Wahine in terminal.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In a violent storm, the ferry Wahine struck a reef at Wellington's harbour entrance.",
+      "kaynak": "Footage/tev-wahine-1.jpg"
+    },
+    {
+      "metin": "Hours later it capsized, and dozens of people were killed.",
+      "kaynak": "Footage/tev-wahine-2.jpg"
+    },
+    {
+      "metin": "A tropical cyclone collided with a southerly storm.",
+      "kaynak": "Footage/tev-wahine-3.jpg"
+    },
+    {
+      "metin": "Winds pushed the ship onto Barrett Reef.",
+      "kaynak": "Footage/tev-wahine-4.jpg"
+    },
+    {
+      "metin": "Damaged and flooding, it drifted into the harbour.",
+      "kaynak": "Footage/tev-wahine-5.jpg"
+    },
+    {
+      "metin": "The order to abandon ship came in the afternoon.",
+      "kaynak": "Footage/tev-wahine-1.jpg"
+    },
+    {
+      "metin": "Many were swept to the far shore by wind and waves.",
+      "kaynak": "Footage/tev-wahine-2.jpg"
+    },
+    {
+      "metin": "The disaster shaped New Zealand's ferry safety and rescue planning.",
+      "kaynak": "Footage/tev-wahine-3.jpg"
+    }
+  ],
+  "aciklama": "Wahine struck a reef and capsized in a storm. The cause: grounding in extreme winds, then flooding and capsize inside the harbour.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Wahine",
+    "1968",
+    "ferry",
+    "engineering failure"
+  ],
+  "hook": "It sank inside the harbour",
+  "soru": "When do you abandon ship?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the TEV Wahine",
+    "kisa": "Wahine",
+    "nesne": "Ferry",
+    "yil": 1968,
+    "sonuc": "struck a reef and capsized in a storm",
+    "tetik": "a cyclone driving the ferry onto Barrett Reef",
+    "mekanizma": "grounding in extreme winds, then flooding and capsize inside the harbour",
+    "sayi": "STORM",
+    "ders": "the disaster shaped New Zealand's approach to ferry safety and rescue",
+    "zincir": [
+      "CYCLONE HITS AT HARBOUR ENTRANCE",
+      "SHIP LOSES POSITION",
+      "STRIKES BARRETT REEF",
+      "FLOODS AND DRIFTS",
+      "CAPSIZES IN HARBOUR"
+    ],
+    "zaman": [],
+    "yanilgi": "The ship capsized inside the harbour, close to shore. The storm made rescue extremely hard.",
+    "tartisma": "The order to abandon ship came late in the day. How do you time an evacuation in a storm?",
+    "basliklar": [
+      "The Ferry That Capsized at the Mouth of Wellington Harbour",
+      "Why the Wahine Capsized",
+      "The Ferry Lost Inside Wellington Harbour"
+    ],
+    "kapak": [
+      "STORM",
+      "HARBOUR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — TEV Wahine",
+        "url": "https://en.wikipedia.org/wiki/TEV_Wahine"
+      },
+      {
+        "ad": "Government source — no2005112064 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/no2005112064"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15",
+    "wiki": "TEV_Wahine",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "NZ Wahine Salvage.jpg [CC BY 2.0]",
+      "NZ Wahine Salvage 02.jpg [CC BY 2.0]",
+      "Union Steam Ship Company ferry TEV Wahine in port.jpg [CC0]",
+      "Wahine - bow.jpg [CC0]",
+      "Wahine in terminal.jpg [CC0]"
+    ]
+  }
+}

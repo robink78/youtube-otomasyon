@@ -1,0 +1,1392 @@
+{
+  "channel": "impossible-brief",
+  "records": [
+    {
+      "slug": "what-if-you-lived-on-the-space-station",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Lived on the Space Station?",
+      "hook": "Why the space station circles Earth every 93 minutes.",
+      "openingLine": "Why the space station circles Earth every 93 minutes.",
+      "secondBeat": "That's 15.5 orbits, and sunrises, every day.",
+      "scientificMechanism": "the station free-falls around Earth at orbital speed, circling the planet many times a day",
+      "scenarioChange": "someone lived aboard the ISS for months",
+      "expectedConsequence": "about 15.5 sunrises a day, weightlessness and a tightly scheduled life",
+      "coreQuestion": "If you lived on the space station, how many sunrises would you see each day?",
+      "misconception": "Astronauts aren't weightless because there's no gravity; they're falling around Earth.",
+      "number": "93 minutes",
+      "thumbnailText": "15.5 SUNRISES DAILY",
+      "visualScenes": [
+        "ISS crossing the day-night line",
+        "orbit path around Earth",
+        "speed comparison graphic",
+        "sunrise through a station window",
+        "modules and solar arrays",
+        "retirement timeline to 2030"
+      ],
+      "editorialTitles": [
+        "Life Where the Sun Rises 15 Times a Day",
+        "Why the Space Station Never Stops Falling"
+      ],
+      "facts": [
+        {
+          "claim": "Its orbit takes it at 7.67 km/s (27,600 km/h; 17,200 mph) roughly every 93 minutes around Earth, 15.5 times a day.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — International Space Station",
+          "url": "https://en.wikipedia.org/wiki/International_Space_Station"
+        },
+        {
+          "claim": "The station orbits between 51.64° north and south, at about 400 kilometres (250 miles) above Earth, below the Van Allen radiation belts.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — International Space Station",
+          "url": "https://en.wikipedia.org/wiki/International_Space_Station"
+        },
+        {
+          "claim": "The Integrated Truss Structure connects the station's solar panels and radiators to its 16 major pressurized modules.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — International Space Station",
+          "url": "https://en.wikipedia.org/wiki/International_Space_Station"
+        },
+        {
+          "claim": "The station is expected to remain operational until the end of 2030.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — International Space Station",
+          "url": "https://en.wikipedia.org/wiki/International_Space_Station"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the space station circles Earth every 93 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's 15.5 orbits, and sunrises, every day.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It flies at 27,600 kilometres per hour.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It's only about 400 kilometres up.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Crews aren't beyond gravity; they're constantly falling around Earth.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Days and nights blur, so schedules replace the Sun.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The station is due to operate until the end of 2030.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So living in orbit means living in permanent free fall.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-90-day-rover-lasted-14-years",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If a 90-Day Rover Lasted 14 Years?",
+      "hook": "Why a 90-sol rover kept going 14 years.",
+      "openingLine": "Why a 90-sol rover kept going 14 years.",
+      "secondBeat": "Opportunity lasted 57 times its designed lifespan.",
+      "scientificMechanism": "careful power management and dust-clearing winds kept a solar-powered rover running far beyond its design life",
+      "scenarioChange": "a rover designed for 90 sols kept driving for years",
+      "expectedConsequence": "a marathon-length journey until a planet-wide dust storm cut its power",
+      "coreQuestion": "If a 90-day rover lasted 14 years, what finally stopped it?",
+      "misconception": "Opportunity wasn't built to last; it outlived its plan 57 times over.",
+      "number": "57× its lifespan",
+      "thumbnailText": "57× ITS LIFESPAN",
+      "visualScenes": [
+        "Opportunity rover on Mars",
+        "planned versus actual mission timeline",
+        "dust storm engulfing Mars",
+        "solar panels covered in dust",
+        "distance driven map",
+        "last transmission graphic"
+      ],
+      "editorialTitles": [
+        "The Mars Rover That Refused to Quit",
+        "How Opportunity Outlived Its Plan 57 Times"
+      ],
+      "facts": [
+        {
+          "claim": "Opportunity is a robotic rover that was active on Mars from 2004 until 2018.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Opportunity (rover)",
+          "url": "https://en.wikipedia.org/wiki/Opportunity_(rover)"
+        },
+        {
+          "claim": "Opportunity was operational on Mars for 5111 sols (14 years, 138 days on Earth).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Opportunity (rover)",
+          "url": "https://en.wikipedia.org/wiki/Opportunity_(rover)"
+        },
+        {
+          "claim": "This careful operation allowed Opportunity to operate for 57 times its designed lifespan.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Opportunity (rover)",
+          "url": "https://en.wikipedia.org/wiki/Opportunity_(rover)"
+        },
+        {
+          "claim": "Mission highlights included the initial 90-sol mission, finding meteorites, and over two years of exploring and studying Victoria crater.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Opportunity (rover)",
+          "url": "https://en.wikipedia.org/wiki/Opportunity_(rover)"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a 90-sol rover kept going 14 years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Opportunity lasted 57 times its designed lifespan.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It stayed active on Mars from 2004 all the way to 2018.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That's 5111 sols of work.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Winds sometimes cleaned dust off its solar panels.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "In 2018, a planet-wide dust storm starved it of power.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So careful engineering can outlast every plan.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-mars-got-a-ring",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If Mars Got a Ring?",
+      "hook": "Why Phobos circles Mars in under 8 hours.",
+      "openingLine": "Why Phobos circles Mars in under 8 hours.",
+      "secondBeat": "It orbits just 6,000 kilometres above the surface.",
+      "scientificMechanism": "tidal forces slowly drag Phobos inward until they tear it apart",
+      "scenarioChange": "Phobos broke up in orbit",
+      "expectedConsequence": "a temporary ring of debris circling Mars",
+      "coreQuestion": "If Mars got a ring, where would it come from, and how long would it last?",
+      "misconception": "Moons don't always drift away; Phobos is spiralling in.",
+      "number": "7 h 39 min orbit",
+      "thumbnailText": "MARS GETS RINGS",
+      "visualScenes": [
+        "Phobos over Mars",
+        "inward spiral animation",
+        "Stickney crater",
+        "tidal breakup diagram",
+        "ring around Mars concept",
+        "orbit speed comparison"
+      ],
+      "editorialTitles": [
+        "The Moon That's Falling Into Mars",
+        "Why Mars May Get a Ring"
+      ],
+      "facts": [
+        {
+          "claim": "It orbits 6,000 km (3,700 mi) from the Martian surface, closer to its primary body than any other known natural satellite to a planet.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Phobos (moon)",
+          "url": "https://en.wikipedia.org/wiki/Phobos_(moon)"
+        },
+        {
+          "claim": "It orbits Mars much faster than Mars rotates and completes an orbit in just 7 hours and 39 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Phobos (moon)",
+          "url": "https://en.wikipedia.org/wiki/Phobos_(moon)"
+        },
+        {
+          "claim": "Tidal deceleration is gradually decreasing the orbital radius of Phobos by approximately 2 m (6 ft 7 in) every 100 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Phobos (moon)",
+          "url": "https://en.wikipedia.org/wiki/Phobos_(moon)"
+        },
+        {
+          "claim": "This predicted ring may last from 1 million to 100 million years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Phobos (moon)",
+          "url": "https://en.wikipedia.org/wiki/Phobos_(moon)"
+        },
+        {
+          "claim": "Phobos is a small, irregularly shaped object with a mean radius of 11 km (7 mi).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Phobos (moon)",
+          "url": "https://en.wikipedia.org/wiki/Phobos_(moon)"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Phobos circles Mars in under 8 hours.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It orbits just 6,000 kilometres above the surface.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Tides pull it about 2 metres closer every 100 years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its mean radius is only 11 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Eventually, tidal forces are expected to tear it apart.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The debris could form a ring lasting 1 to 100 million years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Mars may swap a moon for a ring.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-sahara-turned-green-again",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Sahara Turned Green Again?",
+      "hook": "Why the Sahara was green 6,000 years ago.",
+      "openingLine": "Why the Sahara was green 6,000 years ago.",
+      "secondBeat": "A humid period began about 14,500 years ago.",
+      "scientificMechanism": "shifts in Earth's orbit strengthen the African monsoon, bringing rain deep into the Sahara",
+      "scenarioChange": "the African monsoon pushed north again",
+      "expectedConsequence": "grasslands, lakes and wildlife across today's desert",
+      "coreQuestion": "If the Sahara turned green again, what would bring the rain?",
+      "misconception": "The Sahara hasn't always been desert; it was green only a few thousand years ago.",
+      "number": "14,500 years ago",
+      "thumbnailText": "GREEN SAHARA",
+      "visualScenes": [
+        "Sahara with lakes and grassland",
+        "monsoon rainfall shift map",
+        "rock art of swimmers",
+        "orbital change diagram",
+        "timeline of humid period",
+        "desert today"
+      ],
+      "editorialTitles": [
+        "When the Sahara Was Green",
+        "What Turned the Sahara Into Desert"
+      ],
+      "facts": [
+        {
+          "claim": "The humid period began about 14,600–14,500 years ago at the end of Heinrich event 1, simultaneously with the Bølling–Allerød warming.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — African humid period",
+          "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+          "claim": "The AHP ended 6,000–5,000 years ago during the Piora Oscillation cold period.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — African humid period",
+          "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+          "claim": "Further discoveries of petroglyphs led desert explorer László Almásy to coin the concept of a Green Sahara in the 1930s.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — African humid period",
+          "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+          "claim": "Some evidence points to an end 5,500 years ago in the Sahel, Arabia, and East Africa.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — African humid period",
+          "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the Sahara was green 6,000 years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "A humid period began about 14,500 years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Monsoon rains reached far into today's desert.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It ended between 6,000 and 5,000 years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Rock art there shows a greener world.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Shifts in Earth's orbit can move the monsoon again.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So deserts aren't permanent. They follow the rain.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-ice-age-came-back",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Ice Age Came Back?",
+      "hook": "Why Ice Age seas sat 125 metres lower.",
+      "openingLine": "Why Ice Age seas sat 125 metres lower.",
+      "secondBeat": "So much water was locked in ice sheets.",
+      "scientificMechanism": "during glacial maxima, water locked in ice sheets lowers sea level and exposes land bridges",
+      "scenarioChange": "Earth returned to Last Glacial Maximum conditions",
+      "expectedConsequence": "ice over a quarter of the land and seas about 125 metres lower",
+      "coreQuestion": "If the Ice Age came back, what would happen to coastlines?",
+      "misconception": "The last Ice Age wasn't ancient history; its peak was only about 25,000 years ago.",
+      "number": "125 m lower seas",
+      "thumbnailText": "SEAS 125M LOWER",
+      "visualScenes": [
+        "ice sheets over North America",
+        "exposed land bridge map",
+        "sea level comparison chart",
+        "glacier at the Strait of Magellan",
+        "coastline today versus then",
+        "timeline of the glacial peak"
+      ],
+      "editorialTitles": [
+        "What If the Ice Age Returned",
+        "When Seas Were 125 Metres Lower"
+      ],
+      "facts": [
+        {
+          "claim": "According to the USGS, permanent summer ice covered around 8% of Earth's surface and 25% of the land area during the last glacial maximum.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Last Glacial Maximum",
+          "url": "https://en.wikipedia.org/wiki/Last_Glacial_Maximum"
+        },
+        {
+          "claim": "The USGS also states that sea level was about 125 meters (410 ft) lower than today (2012).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Last Glacial Maximum",
+          "url": "https://en.wikipedia.org/wiki/Last_Glacial_Maximum"
+        },
+        {
+          "claim": "Glacier fluctuations around the Strait of Magellan suggest the peak in glacial surface area was constrained to between 25,200 and 23,100 years ago.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Last Glacial Maximum",
+          "url": "https://en.wikipedia.org/wiki/Last_Glacial_Maximum"
+        },
+        {
+          "claim": "Decline of the West Antarctica ice sheet occurred between 15,000 and 14,000 years ago, consistent with evidence for another abrupt rise in the sea level around 14,500 years ago.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Last Glacial Maximum",
+          "url": "https://en.wikipedia.org/wiki/Last_Glacial_Maximum"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Ice Age seas sat 125 metres lower.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "So much water was locked in ice sheets.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Ice covered about 25% of the land.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The peak came between 25,200 and 23,100 years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Bring it back, and today's ports would sit far inland.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Land bridges would reappear between continents.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So coastlines are just where the ice happens to leave the sea.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-it-never-rained-again",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If It Never Rained Again?",
+      "hook": "Why one desert went from 1570 to 1971 dry.",
+      "openingLine": "Why one desert went from 1570 to 1971 dry.",
+      "secondBeat": "That's the Atacama, in Chile.",
+      "scientificMechanism": "cold ocean currents and mountain rain shadows block moisture from reaching some deserts",
+      "scenarioChange": "a place went centuries without significant rain",
+      "expectedConsequence": "a landscape so dry it's used to test Mars equipment",
+      "coreQuestion": "If it never rained again, what would the land look like?",
+      "misconception": "The driest place on Earth isn't the Sahara; it's the Atacama.",
+      "number": "15 mm per year",
+      "thumbnailText": "THE DRIEST DESERT",
+      "visualScenes": [
+        "Atacama salt flats",
+        "rain gauge that never fills",
+        "rain shadow diagram",
+        "Mars rover test in the desert",
+        "rainfall comparison chart",
+        "Andes mountains"
+      ],
+      "editorialTitles": [
+        "The Desert That Went 400 Years Without Rain",
+        "Why the Atacama Is Driest"
+      ],
+      "facts": [
+        {
+          "claim": "Average annual rainfall is around 15 mm (0.6 in) per year, and some weather stations in the desert have never recorded rain.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Atacama Desert",
+          "url": "https://en.wikipedia.org/wiki/Atacama_Desert"
+        },
+        {
+          "claim": "Evidence suggests the desert may have received no significant rainfall from 1570 to 1971.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Atacama Desert",
+          "url": "https://en.wikipedia.org/wiki/Atacama_Desert"
+        },
+        {
+          "claim": "It covers an area of 105,000 km2, rising to 128,000 km2 if the barren lower slopes of the Andes are included.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Atacama Desert",
+          "url": "https://en.wikipedia.org/wiki/Atacama_Desert"
+        },
+        {
+          "claim": "Some locations receive only 1 to 3 mm (0.04 to 0.12 in) in a year.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Atacama Desert",
+          "url": "https://en.wikipedia.org/wiki/Atacama_Desert"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one desert went from 1570 to 1971 dry.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's the Atacama, in Chile.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It averages about 15 millimetres of rain a year.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Some places get only 1 to 3 millimetres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Some weather stations there have never recorded rain.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Without rain, soil stays almost lifeless.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the driest place on Earth sits beside an ocean.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-buildings-grew-in-the-sun",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If Buildings Grew in the Sun?",
+      "hook": "Why the Eiffel Tower leans 18 centimetres in sunshine.",
+      "openingLine": "Why the Eiffel Tower leans 18 centimetres in sunshine.",
+      "secondBeat": "The Sun heats one side of its iron frame.",
+      "scientificMechanism": "metal expands when heated, so the sunlit side of a steel structure grows longer than the shaded side",
+      "scenarioChange": "a steel tower was heated unevenly by the Sun",
+      "expectedConsequence": "its top leans away from the sunny side by centimetres",
+      "coreQuestion": "If buildings grew in the Sun, how much would a steel tower move?",
+      "misconception": "Big structures aren't rigid; they breathe with temperature.",
+      "number": "18 cm",
+      "thumbnailText": "THE LEANING TOWER",
+      "visualScenes": [
+        "Eiffel Tower in summer sun",
+        "thermal expansion diagram",
+        "top shifting animation",
+        "tower height comparison",
+        "steel beam expanding",
+        "expansion joints on a bridge"
+      ],
+      "editorialTitles": [
+        "Why the Eiffel Tower Moves in the Sun",
+        "The Metal Towers That Breathe With Heat"
+      ],
+      "facts": [
+        {
+          "claim": "Depending on the ambient temperature, the top of the tower may shift away from the sun by up to 18 cm (7 in) due to thermal expansion of the metal on the side facing the sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Eiffel Tower",
+          "url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+        },
+        {
+          "claim": "The tower is 330 metres (1,083 ft) tall, about the same height as an 81-storey building, and the tallest structure in Paris.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Eiffel Tower",
+          "url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+        },
+        {
+          "claim": "Its base is square, measuring 125 metres (410 ft) on each side.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Eiffel Tower",
+          "url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+        },
+        {
+          "claim": "It was the first structure in the world to surpass both the 200-metre and 300-metre mark in height.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Eiffel Tower",
+          "url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the Eiffel Tower leans 18 centimetres in sunshine.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The Sun heats one side of its iron frame.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "That side expands, tilting the top away from the sun.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The tower is 330 metres tall.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its base spans 125 metres on each side.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Bridges need expansion joints for the same reason.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So even giant structures move with the weather.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-melted-a-diamond",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If You Melted a Diamond?",
+      "hook": "Why melting diamond takes 50,000 °C.",
+      "openingLine": "Why melting diamond takes 50,000 °C.",
+      "secondBeat": "It also needs about 10 million atmospheres of pressure.",
+      "scientificMechanism": "diamond's strong carbon bonds only give way at extreme pressures and temperatures",
+      "scenarioChange": "a diamond was heated and squeezed to extremes",
+      "expectedConsequence": "at about 1 TPa and 50,000 °C, it becomes a metallic fluid",
+      "coreQuestion": "If you melted a diamond, what would it turn into?",
+      "misconception": "Diamonds aren't forever in every condition; extreme pressure and heat can melt them.",
+      "number": "50,000 °C",
+      "thumbnailText": "MELTING A DIAMOND",
+      "visualScenes": [
+        "diamond under a laser",
+        "carbon crystal lattice",
+        "pressure and temperature chart",
+        "metallic fluid concept",
+        "diamond age timeline",
+        "anvil cell experiment"
+      ],
+      "editorialTitles": [
+        "What It Takes to Melt a Diamond",
+        "Why Diamonds Are So Hard to Destroy"
+      ],
+      "facts": [
+        {
+          "claim": "Results published in Nature Physics in 2010 suggest that, at ultra-high pressures and temperatures (about 10 million atmospheres or 1 TPa and 50,000 °C), diamond melts into a metallic fluid.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Diamond",
+          "url": "https://en.wikipedia.org/wiki/Diamond"
+        },
+        {
+          "claim": "Most natural diamonds have ages between 1 billion and 3.5 billion years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Diamond",
+          "url": "https://en.wikipedia.org/wiki/Diamond"
+        },
+        {
+          "claim": "At 0 K, the transition is predicted to occur at 1100 GPa.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Diamond",
+          "url": "https://en.wikipedia.org/wiki/Diamond"
+        },
+        {
+          "claim": "Experiments have found that diamond, in the presence of H2O passes through an intermediate linear carbon phase.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Diamond",
+          "url": "https://en.wikipedia.org/wiki/Diamond"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why melting diamond takes 50,000 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It also needs about 10 million atmospheres of pressure.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Diamond's carbon atoms are locked in a rigid lattice.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Under those conditions, it becomes a metallic fluid.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Most natural diamonds are 1 to 3.5 billion years old.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Conditions like that exist deep inside giant planets.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So diamonds may rain and melt in places we can't visit.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-never-stopped-growing",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Never Stopped Growing?",
+      "hook": "Why one man reached 2.72 metres tall.",
+      "openingLine": "Why one man reached 2.72 metres tall.",
+      "secondBeat": "Robert Wadlow never stopped growing.",
+      "scientificMechanism": "excess growth hormone keeps bones lengthening, straining the heart and circulation",
+      "scenarioChange": "a person kept growing throughout life",
+      "expectedConsequence": "record height with serious health strain",
+      "coreQuestion": "If you never stopped growing, how tall could you get?",
+      "misconception": "Extreme height isn't just impressive; it puts heavy strain on the body.",
+      "number": "2.72 m",
+      "thumbnailText": "2.72 METRES TALL",
+      "visualScenes": [
+        "tallest man beside an average man",
+        "growth chart by age",
+        "growth hormone diagram",
+        "leg brace and cane",
+        "doorway comparison",
+        "heart strain illustration"
+      ],
+      "editorialTitles": [
+        "The Tallest Man Who Ever Lived",
+        "Why You Can't Just Keep Growing"
+      ],
+      "facts": [
+        {
+          "claim": "Wadlow's height was 8 ft 11.1 in (2.72 m) while his weight reached 439 lb (199 kg) at his death at age 22.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Robert Wadlow",
+          "url": "https://en.wikipedia.org/wiki/Robert_Wadlow"
+        },
+        {
+          "claim": "By the time of his graduation in 1936, he was 8 ft 4 in (254 cm).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Robert Wadlow",
+          "url": "https://en.wikipedia.org/wiki/Robert_Wadlow"
+        },
+        {
+          "claim": "On June 27, 1940 (18 days before his death), he was measured by doctors at 8 ft 11.1 in (2.72 m).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Robert Wadlow",
+          "url": "https://en.wikipedia.org/wiki/Robert_Wadlow"
+        },
+        {
+          "claim": "Robert Wadlow was the tallest person in recorded history.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Robert Wadlow",
+          "url": "https://en.wikipedia.org/wiki/Robert_Wadlow"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one man reached 2.72 metres tall.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Robert Wadlow never stopped growing.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "By 1936, he was already 254 centimetres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "He weighed 199 kilograms.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Excess growth hormone kept his bones lengthening.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "In later years, he needed leg braces to walk.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "He died at 22, just 18 days after his last measurement.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the body has a size limit for good reasons.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-lived-to-122",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Lived to 122?",
+      "hook": "Why only one person is verified past 120.",
+      "openingLine": "Why only one person is verified past 120.",
+      "secondBeat": "Jeanne Calment lived 122 years and 164 days.",
+      "scientificMechanism": "extreme longevity combines genetics, luck and slow ageing",
+      "scenarioChange": "a person lived past 120",
+      "expectedConsequence": "a life spanning from horse carriages to the internet age",
+      "coreQuestion": "If you lived to 122, what would you have seen?",
+      "misconception": "No one has been verified to live past 122; claims of older ages lack proof.",
+      "number": "122 years",
+      "thumbnailText": "122 YEARS OLD",
+      "visualScenes": [
+        "timeline from 1875 to 1997",
+        "Arles street in the 1880s",
+        "birth certificate verification",
+        "oldest ages chart",
+        "family photos across a century",
+        "longevity research lab"
+      ],
+      "editorialTitles": [
+        "The Longest Human Life Ever Verified",
+        "What 122 Years Looks Like"
+      ],
+      "facts": [
+        {
+          "claim": "Jeanne Louise Calment (21 February 1875 – 4 August 1997) was a French supercentenarian who is the oldest person in recorded history whose age has been verified.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Jeanne Calment",
+          "url": "https://en.wikipedia.org/wiki/Jeanne_Calment"
+        },
+        {
+          "claim": "After Calment's death, at 122 years and 164 days, then almost 117-year-old Canadian woman Marie-Louise Meilleur became the oldest validated living person.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Jeanne Calment",
+          "url": "https://en.wikipedia.org/wiki/Jeanne_Calment"
+        },
+        {
+          "claim": "Calment is the only person in history who has been verified to have reached the age of 120 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Jeanne Calment",
+          "url": "https://en.wikipedia.org/wiki/Jeanne_Calment"
+        },
+        {
+          "claim": "Van Gogh's move to Arles occurred from February 1888 to April 1889 when she was 13 and 14 years old.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Jeanne Calment",
+          "url": "https://en.wikipedia.org/wiki/Jeanne_Calment"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why only one person is verified past 120.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Jeanne Calment lived 122 years and 164 days.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "She was born in 1875 and died in 1997.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "As a teenager, she crossed paths with Van Gogh in Arles.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "She lived from horse carriages to the space age.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Longevity like hers mixes genes, habits and luck.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So 122 may be close to the human limit.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-built-a-star-on-earth",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If We Built a Star on Earth?",
+      "hook": "One gram of fusion fuel: 11 tonnes of coal.",
+      "openingLine": "One gram of fusion fuel: 11 tonnes of coal.",
+      "secondBeat": "That's what ITER, in France, aims to harness.",
+      "scientificMechanism": "a tokamak confines plasma with magnetic fields so hydrogen isotopes can fuse",
+      "scenarioChange": "ITER reached full fusion operation",
+      "expectedConsequence": "proof of large-scale fusion, still short of a working power plant",
+      "coreQuestion": "If we built a star on Earth, what would it cost, and what would it prove?",
+      "misconception": "ITER isn't a power plant; it's an experiment to prove fusion at scale.",
+      "number": "€18–20 billion",
+      "thumbnailText": "STAR ON EARTH",
+      "visualScenes": [
+        "ITER tokamak assembly hall",
+        "plasma inside a magnetic doughnut",
+        "fuel energy comparison with coal",
+        "budget growth chart",
+        "construction timeline",
+        "fusion reaction diagram"
+      ],
+      "editorialTitles": [
+        "The €20 Billion Machine Building a Star",
+        "What ITER Will and Won't Prove"
+      ],
+      "facts": [
+        {
+          "claim": "One gram of deuterium-tritium fuel mixture in the process of nuclear fusion produces 90,000-kilowatt hours of energy, or the equivalent of 11 tonnes of coal.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — ITER",
+          "url": "https://en.wikipedia.org/wiki/ITER"
+        },
+        {
+          "claim": "ITER was originally expected to cost approximately €5 billion.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — ITER",
+          "url": "https://en.wikipedia.org/wiki/ITER"
+        },
+        {
+          "claim": "Delays, the rising price of raw materials, and changes to the initial design have seen the official budget estimate rise to between €18 billion and €20 billion.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — ITER",
+          "url": "https://en.wikipedia.org/wiki/ITER"
+        },
+        {
+          "claim": "Construction of the ITER complex in France started in 2013, and assembly of the tokamak began in 2020.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — ITER",
+          "url": "https://en.wikipedia.org/wiki/ITER"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One gram of fusion fuel: 11 tonnes of coal.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "That's what ITER, in France, aims to harness.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It holds plasma in magnetic fields inside a tokamak.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Construction began in 2013.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The budget grew from €5 billion to €18 to 20 billion.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "It's an experiment, not a power station.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So building a star on Earth starts with proving it can burn.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-sunlight-could-push-a-spaceship",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If Sunlight Could Push a Spaceship?",
+      "hook": "Why a 2010 spacecraft flew on sunlight alone.",
+      "openingLine": "Why a 2010 spacecraft flew on sunlight alone.",
+      "secondBeat": "Japan's IKAROS unfurled a huge, thin solar sail.",
+      "scientificMechanism": "photons carry momentum, so a large thin sail feels a tiny but constant push from sunlight",
+      "scenarioChange": "spacecraft sailed on sunlight instead of fuel",
+      "expectedConsequence": "slow but endless acceleration without propellant",
+      "coreQuestion": "If sunlight could push a spaceship, how would you steer it?",
+      "misconception": "Light has no mass, but it still carries momentum that can push a sail.",
+      "number": "2010",
+      "thumbnailText": "SAILING ON SUNLIGHT",
+      "visualScenes": [
+        "IKAROS sail unfurled in space",
+        "photon momentum diagram",
+        "spinning deployment animation",
+        "Venus flyby path",
+        "sail thinness comparison",
+        "future sail missions"
+      ],
+      "editorialTitles": [
+        "The First Spacecraft to Sail on Sunlight",
+        "How Light Can Push a Spaceship"
+      ],
+      "facts": [
+        {
+          "claim": "The spacecraft was launched on 20 May 2010, aboard an H-IIA rocket, together with the Akatsuki (Venus Climate Orbiter) probe.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — IKAROS",
+          "url": "https://en.wikipedia.org/wiki/IKAROS"
+        },
+        {
+          "claim": "IKAROS spun at 20–25 revolutions per minute and finished unfurling its sail on 10 June 2010.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — IKAROS",
+          "url": "https://en.wikipedia.org/wiki/IKAROS"
+        },
+        {
+          "claim": "On 9 July 2010, JAXA confirmed that IKAROS was being accelerated by its solar sail, and on 23 July announced successful attitude control.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — IKAROS",
+          "url": "https://en.wikipedia.org/wiki/IKAROS"
+        },
+        {
+          "claim": "On 8 December 2010, IKAROS flew by Venus at a distance of 80,800 km (50,200 mi), successfully completing its planned mission.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — IKAROS",
+          "url": "https://en.wikipedia.org/wiki/IKAROS"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a 2010 spacecraft flew on sunlight alone.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Japan's IKAROS unfurled a huge, thin solar sail.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It spun at 20 to 25 turns a minute to spread it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Light carries momentum, so each photon gives a tiny push.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It passed Venus at 80,800 kilometres that December.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "No fuel means it can keep accelerating for years.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So sunlight can be both power and propulsion.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-an-alien-object-flew-past-earth",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If an Alien Object Flew Past Earth?",
+      "hook": "Why the first interstellar visitor was already leaving.",
+      "openingLine": "Why the first interstellar visitor was already leaving.",
+      "secondBeat": "ʻOumuamua was spotted in 2017, heading away from the Sun.",
+      "scientificMechanism": "an object on a hyperbolic path enters the Solar System from interstellar space and leaves again",
+      "scenarioChange": "an interstellar object passed near Earth",
+      "expectedConsequence": "a brief visit too fast to catch, raising more questions than answers",
+      "coreQuestion": "If an object from another star flew past Earth, could we catch it?",
+      "misconception": "ʻOumuamua wasn't a comet as first thought; it showed no coma.",
+      "number": "94,800 km/h",
+      "thumbnailText": "INTERSTELLAR VISITOR",
+      "visualScenes": [
+        "elongated object tumbling in space",
+        "hyperbolic orbit through the Solar System",
+        "discovery telescope",
+        "size estimate comparison",
+        "speed comparison graphic",
+        "interception mission concept"
+      ],
+      "editorialTitles": [
+        "The First Visitor From Another Star",
+        "Why We Couldn't Catch ʻOumuamua"
+      ],
+      "facts": [
+        {
+          "claim": "1I/ʻOumuamua is the first confirmed interstellar object detected passing through the Solar System.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — ʻOumuamua",
+          "url": "https://en.wikipedia.org/wiki/ʻOumuamua"
+        },
+        {
+          "claim": "When it was first observed, it was about 33 million km from Earth (about 85 times as far away as the Moon) and already heading away from the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — ʻOumuamua",
+          "url": "https://en.wikipedia.org/wiki/ʻOumuamua"
+        },
+        {
+          "claim": "ʻOumuamua is a small object estimated to be between 100 and 1,000 metres long, with its width and thickness both estimated between 35 and 167 metres.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — ʻOumuamua",
+          "url": "https://en.wikipedia.org/wiki/ʻOumuamua"
+        },
+        {
+          "claim": "Its speed relative to the Sun when in interstellar space was about 94,800 km/h.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — ʻOumuamua",
+          "url": "https://en.wikipedia.org/wiki/ʻOumuamua"
+        },
+        {
+          "claim": "Originally classified as comet C/2017 U1, it was later reclassified as asteroid A/2017 U1 due to the absence of a coma.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — ʻOumuamua",
+          "url": "https://en.wikipedia.org/wiki/ʻOumuamua"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the first interstellar visitor was already leaving.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "ʻOumuamua was spotted in 2017, heading away from the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It was 33 million kilometres away when first seen.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It travels about 94,800 kilometres per hour in interstellar space.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It may be 100 to 1,000 metres long.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "It showed no comet tail, so it was reclassified.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So visitors from other stars pass by, and we barely notice.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-something-was-pulling-our-galaxy",
+      "replaces": "auto",
+      "category": "EXTREME SCIENCE",
+      "topic": "What If Something Was Pulling Our Galaxy?",
+      "hook": "Why galaxies drift toward one hidden region of space.",
+      "openingLine": "Why galaxies drift toward one hidden region of space.",
+      "secondBeat": "Astronomers call it the Great Attractor.",
+      "scientificMechanism": "a large concentration of mass draws galaxies toward it, adding motion on top of cosmic expansion",
+      "scenarioChange": "we mapped what's pulling the Milky Way",
+      "expectedConsequence": "a hidden mass concentration behind our own galaxy's dust",
+      "coreQuestion": "If something was pulling our galaxy, what would it be?",
+      "misconception": "Galaxies don't only drift apart; nearby mass concentrations tug them too.",
+      "number": "150–250 million ly",
+      "thumbnailText": "THE GREAT ATTRACTOR",
+      "visualScenes": [
+        "galaxy flow arrows toward a region",
+        "Milky Way dust hiding the view",
+        "Norma Cluster",
+        "velocity map",
+        "radio telescope surveys",
+        "cosmic web"
+      ],
+      "editorialTitles": [
+        "The Great Attractor Pulling Our Galaxy",
+        "What Lies Behind the Milky Way's Dust"
+      ],
+      "facts": [
+        {
+          "claim": "It lies in the general direction of the Norma Cluster and the Hydra–Centaurus Supercluster, approximately 150–250 million light-years from the Milky Way.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Attractor",
+          "url": "https://en.wikipedia.org/wiki/Great_Attractor"
+        },
+        {
+          "claim": "Measured values vary with position and can range from approximately +700 km/s to −700 km/s relative to a model of uniform cosmic expansion.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Attractor",
+          "url": "https://en.wikipedia.org/wiki/Great_Attractor"
+        },
+        {
+          "claim": "The group studied approximately 400 elliptical galaxies using the Dn–sigma relation.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Attractor",
+          "url": "https://en.wikipedia.org/wiki/Great_Attractor"
+        },
+        {
+          "claim": "Infrared surveys identified galaxies whose visible light was obscured by Galactic dust, while radio observations detected the 21-centimeter line emitted by neutral hydrogen.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Attractor",
+          "url": "https://en.wikipedia.org/wiki/Great_Attractor"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why galaxies drift toward one hidden region of space.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Astronomers call it the Great Attractor.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It lies about 150 to 250 million light-years away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Galaxy motions there differ by up to 700 kilometres per second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Our own galaxy's dust hides it from ordinary telescopes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Infrared and radio surveys had to peer through.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So even galaxies get tugged by unseen neighbours.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-all-the-ants-disappeared",
+      "replaces": "could-society-adapt-to-a-fifty-year-shift-in-all-ocean-plankton",
+      "category": "OTHER",
+      "topic": "What If All the Ants Disappeared?",
+      "hook": "Why there may be 22,000 species of ants.",
+      "openingLine": "Why there may be 22,000 species of ants.",
+      "secondBeat": "Only about 13,800 have been described so far.",
+      "scientificMechanism": "ants aerate soil, spread seeds, recycle dead matter and control other insects",
+      "scenarioChange": "every ant species vanished",
+      "expectedConsequence": "slower soil turnover, fewer dispersed seeds and more pests",
+      "coreQuestion": "If all the ants disappeared, what would stop working?",
+      "misconception": "Ants aren't just pests; ecosystems rely on them.",
+      "number": "22,000 species",
+      "thumbnailText": "WORLD WITHOUT ANTS",
+      "visualScenes": [
+        "ant colony tunnels in soil",
+        "ants carrying seeds",
+        "species count chart",
+        "fossil ant in amber",
+        "insect share in fossil deposits",
+        "forest floor without ants concept"
+      ],
+      "editorialTitles": [
+        "What If Ants Vanished",
+        "The Tiny Engineers Running the Soil"
+      ],
+      "facts": [
+        {
+          "claim": "More than 13,800 of an estimated total of 22,000 species have been described.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ant",
+          "url": "https://en.wikipedia.org/wiki/Ant"
+        },
+        {
+          "claim": "Ants diversified extensively during the Angiosperm Terrestrial Revolution and assumed ecological dominance around 60 million years ago.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ant",
+          "url": "https://en.wikipedia.org/wiki/Ant"
+        },
+        {
+          "claim": "By the Oligocene and Miocene, ants had come to represent 20–40% of all insects found in major fossil deposits.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ant",
+          "url": "https://en.wikipedia.org/wiki/Ant"
+        },
+        {
+          "claim": "The specimen, trapped in amber dating back to around 92 million years ago, has features found in some wasps, but not found in modern ants.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Ant",
+          "url": "https://en.wikipedia.org/wiki/Ant"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why there may be 22,000 species of ants.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Only about 13,800 have been described so far.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Ants became ecologically dominant around 60 million years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "They later made up 20 to 40% of fossil insects.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "They churn soil and carry seeds into the ground.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Without them, dead matter and pests would pile up.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So some of Earth's key engineers are only millimetres long.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    }
+  ]
+}

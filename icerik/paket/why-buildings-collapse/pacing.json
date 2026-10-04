@@ -1,0 +1,194 @@
+{
+  "slug": "why-buildings-collapse",
+  "olusturuldu": "2026-09-24T16:22:44.463Z",
+  "not": "durations estimated from word count until render",
+  "plan": [
+    {
+      "sira": 0,
+      "rol": "hook",
+      "tempo": "fast",
+      "cekimAraligi": [
+        1.4,
+        2.4
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        1.6363636363636365,
+        1.6363636363636365
+      ],
+      "hareket": "punch",
+      "gecis": {
+        "tip": "cut",
+        "sure": 0
+      },
+      "ustKatman": null,
+      "gorselStil": "most striking frame of the event"
+    },
+    {
+      "sira": 1,
+      "rol": "context",
+      "tempo": "medium",
+      "cekimAraligi": [
+        2.4,
+        3.6
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        2.3636363636363638,
+        2.3636363636363638
+      ],
+      "hareket": "push",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.45
+      },
+      "ustKatman": "date-location-stamp",
+      "gorselStil": "establishing shot of place and era"
+    },
+    {
+      "sira": 2,
+      "rol": "technical",
+      "tempo": "slow",
+      "cekimAraligi": [
+        3.2,
+        5.5
+      ],
+      "cekimSayisi": 1,
+      "cekimler": [
+        5.454545454545454
+      ],
+      "hareket": "drift",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.8
+      },
+      "ustKatman": "failure-chain",
+      "gorselStil": "diagram or close-up of the failing component"
+    },
+    {
+      "sira": 3,
+      "rol": "context",
+      "tempo": "medium",
+      "cekimAraligi": [
+        2.4,
+        3.6
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        2.1818181818181817,
+        2.1818181818181817
+      ],
+      "hareket": "push",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.45
+      },
+      "ustKatman": "date-location-stamp",
+      "gorselStil": "establishing shot of place and era"
+    },
+    {
+      "sira": 4,
+      "rol": "event",
+      "tempo": "fast",
+      "cekimAraligi": [
+        1.4,
+        2.4
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        2.1818181818181817,
+        2.1818181818181817
+      ],
+      "hareket": "punch",
+      "gecis": {
+        "tip": "cut",
+        "sure": 0
+      },
+      "ustKatman": null,
+      "gorselStil": "archival motion / impact footage"
+    },
+    {
+      "sira": 5,
+      "rol": "event",
+      "tempo": "fast",
+      "cekimAraligi": [
+        1.4,
+        2.4
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        1.8181818181818181,
+        1.8181818181818181
+      ],
+      "hareket": "punch",
+      "gecis": {
+        "tip": "cut",
+        "sure": 0
+      },
+      "ustKatman": null,
+      "gorselStil": "archival motion / impact footage"
+    },
+    {
+      "sira": 6,
+      "rol": "context",
+      "tempo": "medium",
+      "cekimAraligi": [
+        2.4,
+        3.6
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        2.1818181818181817,
+        2.1818181818181817
+      ],
+      "hareket": "push",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.45
+      },
+      "ustKatman": "date-location-stamp",
+      "gorselStil": "establishing shot of place and era"
+    },
+    {
+      "sira": 7,
+      "rol": "context",
+      "tempo": "medium",
+      "cekimAraligi": [
+        2.4,
+        3.6
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        2,
+        2
+      ],
+      "hareket": "push",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.45
+      },
+      "ustKatman": "date-location-stamp",
+      "gorselStil": "establishing shot of place and era"
+    },
+    {
+      "sira": 8,
+      "rol": "lesson",
+      "tempo": "slow",
+      "cekimAraligi": [
+        3.2,
+        5.5
+      ],
+      "cekimSayisi": 1,
+      "cekimler": [
+        5.090909090909091
+      ],
+      "hareket": "drift",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.8
+      },
+      "ustKatman": "what-changed",
+      "gorselStil": "modern equivalent / what changed"
+    }
+  ]
+}

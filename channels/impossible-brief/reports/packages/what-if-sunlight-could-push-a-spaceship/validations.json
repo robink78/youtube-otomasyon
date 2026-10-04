@@ -1,0 +1,24 @@
+{
+  "channel": "impossible-brief",
+  "topicId": "IB-FUT-036",
+  "slug": "what-if-sunlight-could-push-a-spaceship",
+  "passed": true,
+  "failed": [],
+  "checks": {
+    "script": true,
+    "science": true,
+    "sources": true,
+    "hook": true,
+    "timing": true,
+    "audio": true,
+    "captions": true,
+    "visuals": true,
+    "video": true,
+    "titles": true,
+    "thumbnail": true,
+    "description": true,
+    "qualityGate": true,
+    "metadata": true,
+    "growthReadiness": true
+  }
+}

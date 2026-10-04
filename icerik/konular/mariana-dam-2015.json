@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Mudflow That Travelled Hundreds of Kilometres to the Sea",
+  "kaynaklar": [
+    {
+      "ad": "mariana-dam-1.jpg",
+      "wikimedia": "Bento Rodrigues, Mariana, Minas Gerais (22828956680).jpg"
+    },
+    {
+      "ad": "mariana-dam-2.jpg",
+      "wikimedia": "Bento Rodrigues, Mariana, Minas Gerais (22828958660).jpg"
+    },
+    {
+      "ad": "mariana-dam-3.jpg",
+      "wikimedia": "Destruição no Distrito de Bento Rodrigues.jpg"
+    },
+    {
+      "ad": "mariana-dam-4.jpg",
+      "wikimedia": "CPI do Pó Preto - Ricardo Vescovi de Aragão - 22.04.15 (17237884465).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A mining waste dam near Mariana, Brazil, suddenly burst.",
+      "kaynak": "Footage/mariana-dam-1.jpg"
+    },
+    {
+      "metin": "A flood of mud destroyed the village of Bento Rodrigues, and nineteen people were killed.",
+      "kaynak": "Footage/mariana-dam-2.jpg"
+    },
+    {
+      "metin": "The mud poured into the Rio Doce.",
+      "kaynak": "Footage/mariana-dam-3.jpg"
+    },
+    {
+      "metin": "It travelled down the river all the way to the Atlantic.",
+      "kaynak": "Footage/mariana-dam-4.jpg"
+    },
+    {
+      "metin": "The dam had been raised upstream, on top of its own waste.",
+      "kaynak": "Footage/mariana-dam-1.jpg"
+    },
+    {
+      "metin": "Saturated tailings inside it liquefied.",
+      "kaynak": "Footage/mariana-dam-2.jpg"
+    },
+    {
+      "metin": "Three years later, a similar dam failed at Brumadinho.",
+      "kaynak": "Footage/mariana-dam-3.jpg"
+    },
+    {
+      "metin": "Brazil then tightened oversight of tailings dams.",
+      "kaynak": "Footage/mariana-dam-4.jpg"
+    }
+  ],
+  "aciklama": "Mariana released a mudflow that reached the Atlantic. The cause: liquefaction of saturated tailings in an upstream-construction dam.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Mariana",
+    "2015",
+    "tailings dam",
+    "engineering failure"
+  ],
+  "hook": "It reached the sea",
+  "soru": "Why wasn't this the last?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Fundão tailings dam",
+    "kisa": "Mariana",
+    "nesne": "Tailings dam",
+    "yil": 2015,
+    "sonuc": "released a mudflow that reached the Atlantic",
+    "tetik": "liquefaction in an upstream-raised tailings dam",
+    "mekanizma": "liquefaction of saturated tailings in an upstream-construction dam",
+    "sayi": "19 KILLED",
+    "ders": "Brazil tightened tailings dam oversight",
+    "zincir": [
+      "UPSTREAM-RAISED DAM",
+      "SATURATED TAILINGS",
+      "DAM FAILS",
+      "MUD BURIES A VILLAGE",
+      "RIVER POLLUTED TO THE SEA"
+    ],
+    "zaman": [],
+    "yanilgi": "The damage didn't stop at the village. The mud travelled down the Rio Doce all the way to the ocean.",
+    "tartisma": "Three years later, a similar dam failed at Brumadinho. Why wasn't the first warning enough?",
+    "basliklar": [
+      "The Mudflow That Travelled Hundreds of Kilometres to the Sea",
+      "Why the Mariana Dam Collapsed",
+      "The Mudflow That Reached the Ocean"
+    ],
+    "kapak": [
+      "TO THE SEA",
+      "19 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mariana dam disaster",
+        "url": "https://en.wikipedia.org/wiki/Mariana_dam_disaster"
+      },
+      {
+        "ad": "Government source — governo garante apoio a cidade mineira de mariana inundada por lama ap (cited by Wikipedia)",
+        "url": "http://www.brasil.gov.br/defesa-e-seguranca/2015/11/governo-garante-apoio-a-cidade-mineira-de-mariana-inundada-por-lama-apos-rompimento-de-barragens"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Mariana_dam_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Bento Rodrigues, Mariana, Minas Gerais (22828956680).jpg [CC BY 2.0]",
+      "Bento Rodrigues, Mariana, Minas Gerais (22828958660).jpg [CC BY 2.0]",
+      "Destruição no Distrito de Bento Rodrigues.jpg [CC BY 3.0 br]",
+      "CPI do Pó Preto - Ricardo Vescovi de Aragão - 22.04.15 (17237884465).jpg [CC BY 2.0]"
+    ]
+  }
+}

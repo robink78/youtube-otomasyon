@@ -1,0 +1,15 @@
+{
+  "decision": "PUBLISH",
+  "blockers": [],
+  "checked": [
+    "identity",
+    "central-question",
+    "evidence",
+    "hook",
+    "visuals",
+    "titles",
+    "thumbnail",
+    "sources",
+    "metadata"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Lightning Strike Turned a Red Signal Green",
+  "kaynaklar": [
+    {
+      "ad": "wenzhou-1.jpg",
+      "wikimedia": "温州大学城 - panoramio (1).jpg"
+    },
+    {
+      "ad": "wenzhou-2.jpg",
+      "wikimedia": "Wenzhou-city-in-Zhejiang-China.jpg"
+    },
+    {
+      "ad": "wenzhou-3.jpg",
+      "wikimedia": "Wenzhou World Trade Center.JPG"
+    },
+    {
+      "ad": "wenzhou-4.jpg",
+      "wikimedia": "Wenzhou taiping temple.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two high-speed trains collided on a viaduct near Wenzhou.",
+      "kaynak": "Footage/wenzhou-1.jpg"
+    },
+    {
+      "metin": "Carriages fell from the viaduct, and forty people were killed.",
+      "kaynak": "Footage/wenzhou-2.jpg"
+    },
+    {
+      "metin": "Lightning had struck the signalling equipment.",
+      "kaynak": "Footage/wenzhou-3.jpg"
+    },
+    {
+      "metin": "A train stalled on the track ahead.",
+      "kaynak": "Footage/wenzhou-4.jpg"
+    },
+    {
+      "metin": "The damaged system reported that section as clear.",
+      "kaynak": "Footage/wenzhou-1.jpg"
+    },
+    {
+      "metin": "A second train was sent into it at speed.",
+      "kaynak": "Footage/wenzhou-2.jpg"
+    },
+    {
+      "metin": "The wreckage was hastily buried, drawing public anger.",
+      "kaynak": "Footage/wenzhou-3.jpg"
+    },
+    {
+      "metin": "China reviewed its signals and slowed its high-speed trains.",
+      "kaynak": "Footage/wenzhou-4.jpg"
+    }
+  ],
+  "aciklama": "Wenzhou collided on a viaduct. The cause: signal equipment fault after a lightning strike showing a clear line despite a stopped train.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Wenzhou",
+    "2011",
+    "signal system",
+    "engineering failure"
+  ],
+  "hook": "Red became green",
+  "soru": "Preserve the evidence?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Wenzhou high-speed trains",
+    "kisa": "Wenzhou",
+    "nesne": "Signal system",
+    "yil": 2011,
+    "sonuc": "collided on a viaduct",
+    "tetik": "lightning damaging the signalling equipment",
+    "mekanizma": "signal equipment fault after a lightning strike showing a clear line despite a stopped train",
+    "sayi": "40 KILLED",
+    "ders": "China reviewed its signalling systems and slowed high-speed services",
+    "zincir": [
+      "LIGHTNING HITS SIGNAL EQUIPMENT",
+      "OCCUPIED TRACK SHOWS CLEAR",
+      "FIRST TRAIN STALLS",
+      "SECOND TRAIN SENT AT SPEED",
+      "REAR-END COLLISION ON VIADUCT"
+    ],
+    "zaman": [],
+    "yanilgi": "The system didn't fail safe. After the lightning strike, it showed clear track where a train was standing.",
+    "tartisma": "The wreckage was buried quickly at the site. Should evidence be preserved no matter what?",
+    "basliklar": [
+      "A Lightning Strike Turned a Red Signal Green",
+      "Why the Wenzhou Trains Collided",
+      "The Signal That Showed Green by Mistake"
+    ],
+    "kapak": [
+      "FALSE GREEN",
+      "40 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Wenzhou train collision",
+        "url": "https://en.wikipedia.org/wiki/Wenzhou_train_collision"
+      },
+      {
+        "ad": "Government source — M4 Full Paper CL Wang (cited by Wikipedia)",
+        "url": "http://www.emsd.gov.hk/emsd/e_download/about/symposium/2011/session/fullpaper/M4_Full%20Paper_CL%20Wang.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "Wenzhou_train_collision",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "温州大学城 - panoramio (1).jpg [CC BY 3.0]",
+      "Wenzhou-city-in-Zhejiang-China.jpg [CC0]",
+      "Wenzhou World Trade Center.JPG [Public domain]",
+      "Wenzhou taiping temple.JPG [Public domain]"
+    ]
+  }
+}

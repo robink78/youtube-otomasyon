@@ -1,0 +1,88 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "How a Single Step Triggers an Avalanche",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "One step, a moving mountain",
+  "soru": "Ski off-piste?",
+  "arama_yedek": "snow mountain avalanche",
+  "aciklama": "An avalanche can be triggered by one footstep and move faster than a car. Here is the hidden science under the snow.\n\n#shorts #science #avalanche #nature #howitworks",
+  "etiketler": [
+    "avalanche",
+    "snow",
+    "mountain",
+    "science",
+    "nature"
+  ],
+  "sahneler": [
+    {
+      "metin": "A single skier can bring down thousands of tons of snow.",
+      "arama": "avalanche snow"
+    },
+    {
+      "metin": "It explodes downhill at eighty miles an hour.",
+      "arama": "snow storm mountain"
+    },
+    {
+      "metin": "The slope was not the problem. The danger was hidden underneath.",
+      "arama": "snow close up"
+    },
+    {
+      "metin": "Snow falls in layers all winter long.",
+      "arama": "falling snow"
+    },
+    {
+      "metin": "Between them sits a weak, sugary layer of crystals.",
+      "arama": "mountain snow ridge"
+    },
+    {
+      "metin": "It holds the slab above like a house of cards.",
+      "arama": "steep snowy mountain"
+    },
+    {
+      "metin": "One extra load snaps that bond and the slab slides.",
+      "arama": "skier snow"
+    },
+    {
+      "metin": "Slopes near thirty eight degrees are the most dangerous.",
+      "arama": "mountain peak snow"
+    }
+  ],
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "mekanizma",
+    "ad": "Avalanches",
+    "nesne": "Slope",
+    "sonuc": "start",
+    "tetik": "a single skier",
+    "mekanizma": "weak-layer collapse under a snow slab",
+    "sayi": "38°",
+    "ders": "avalanche forecasting tracks buried weak layers all winter",
+    "zincir": [
+      "WEAK LAYER BURIED",
+      "SLAB LOADS ON TOP",
+      "TRIGGER: SKIER OR NEW SNOW",
+      "WEAK LAYER COLLAPSES",
+      "SLAB RELEASES"
+    ],
+    "yanilgi": "In most avalanche deaths the victims triggered the slide themselves — the slope doesn't need to 'fall' on anyone.",
+    "tartisma": "Would you ski a 38-degree slope if the forecast said 'moderate'?",
+    "basliklar": [
+      "How One Step Releases a Whole Mountainside",
+      "The Hidden Layer That Makes Snow Slide",
+      "Why 38 Degrees Is the Most Dangerous Slope"
+    ],
+    "kapak": [
+      "ONE STEP",
+      "WEAK LAYER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Avalanche",
+        "url": "https://en.wikipedia.org/wiki/Avalanche"
+      }
+    ]
+  }
+}

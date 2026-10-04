@@ -1,0 +1,3182 @@
+{
+  "channel": "failure-reconstructed",
+  "channelName": "Failure Reconstructed",
+  "olusturuldu": "2026-10-04T17:38:41.948Z",
+  "kurallar": {
+    "minVideosForPlaylist": 3
+  },
+  "kumeler": [
+    {
+      "id": "bridge-failures",
+      "ad": "Bridge Failures",
+      "aciklama": "Bridges that twisted, cracked and fell — reconstructed from the evidence.",
+      "videolar": [
+        {
+          "slug": "tacoma-narrows",
+          "baslik": "Why the Tacoma Narrows Bridge Tore Itself Apart",
+          "format": "short",
+          "durum": "published",
+          "videoId": "qkzRUqlEy5I",
+          "tarih": "2026-09-22T20:27:26Z"
+        },
+        {
+          "slug": "ashtabula-bridge-1876",
+          "baslik": "The Iron Bridge That Gave Way in a Blizzard",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "fern-hollow-bridge-2022",
+          "baslik": "The Rusted Legs Under a Pittsburgh Bridge",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "fiu-pedestrian-bridge-2018",
+          "baslik": "The Bridge That Was Cracking Before It Fell",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "francis-scott-key-bridge-2024",
+          "baslik": "A Ship Lost Power — and a Bridge Fell in Seconds",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "i-35w-bridge-2007",
+          "baslik": "The Undersized Steel Plate That Dropped a Freeway",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "kinzua-bridge-2003",
+          "baslik": "The Tornado That Knocked Down a Historic Viaduct",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "millennium-bridge-wobble-2000",
+          "baslik": "Why London's New Bridge Started Swaying Under Walkers",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "nanfangao-bridge-2019",
+          "baslik": "The Arch Bridge That Fell Onto Fishing Boats",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ponte-morandi-2018",
+          "baslik": "The Hidden Cables Inside Genoa's Collapsed Bridge",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "quebec-bridge-1907",
+          "baslik": "The Bridge That Collapsed Under Its Own Weight",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "queen-isabella-causeway-2001",
+          "baslik": "A Barge Knocked Out a Causeway and Cars Drove Into the Gap",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "reichsbrucke-1976",
+          "baslik": "The Vienna Bridge That Fell Into the Danube at Dawn",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sidney-lanier-bridge-1972",
+          "baslik": "A Ship Knocked Out a Lift Bridge and Cars Fell",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "silver-bridge-1967",
+          "baslik": "A Crack Smaller Than a Coin Dropped a Whole Bridge",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "skagit-river-bridge-2013",
+          "baslik": "A Truck Clipped One Beam and a Span Fell",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sunshine-skyway-1980",
+          "baslik": "A Ship in a Storm Knocked Down a Bridge",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "tasman-bridge-1975",
+          "baslik": "The Ship That Cut a City in Half",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "tay-bridge-1879",
+          "baslik": "The Bridge That Fell With a Train on It",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-bridges-collapse",
+          "baslik": "What Really Brings a Bridge Down",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Bridge Failures",
+        "id": null,
+        "durum": "waiting (1/3 published)"
+      }
+    },
+    {
+      "id": "structural-failures",
+      "ad": "Structural Engineering Failures",
+      "aciklama": "Why buildings and structures fail, and what engineers changed afterwards.",
+      "videolar": [
+        {
+          "slug": "rana-plaza-2013",
+          "baslik": "Why Rana Plaza Collapsed With Garment Workers Inside",
+          "format": "short",
+          "durum": "published",
+          "videoId": "4Mo58FxCr4A",
+          "tarih": "2026-10-03T11:30:34.802Z"
+        },
+        {
+          "slug": "bad-reichenhall-ice-rink-2006",
+          "baslik": "The Glued Timber Roof That Collapsed Under Snow",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "boston-molasses-1919",
+          "baslik": "The Molasses Tank That Killed 21 People",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ctv-building-2011",
+          "baslik": "One Building Caused Most of an Earthquake's Deaths",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "how-hurricanes-destroy",
+          "baslik": "How a Hurricane Tears a House Apart",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hyatt-regency-walkway-1981",
+          "baslik": "One Design Change Doubled the Load — and 114 Died",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "knickerbocker-theatre-1922",
+          "baslik": "Record Snow Collapsed a Cinema Roof Onto Its Audience",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "leaning-tower-of-pisa",
+          "baslik": "How Engineers Stopped the Leaning Tower From Falling",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "millennium-tower-sf",
+          "baslik": "The San Francisco Skyscraper That Is Sinking and Tilting",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "seattle-kingdome-tiles-1994",
+          "baslik": "The Stadium Roof Tiles That Fell Before a Game",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sichuan-schools-2008",
+          "baslik": "Why So Many Schools Collapsed in the Sichuan Earthquake",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "spitak-earthquake-1988",
+          "baslik": "The Earthquake That Exposed Soviet Construction",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "surfside-collapse-2021",
+          "baslik": "The Florida Condo That Collapsed in the Night",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-buildings-collapse",
+          "baslik": "Earthquakes Don't Kill. Buildings Do.",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-elevators-dont-fall",
+          "baslik": "What Happens If Every Elevator Cable Snaps",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "zolitude-roof-2013",
+          "baslik": "The Supermarket Roof That Collapsed Under a Garden",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Structural Engineering Failures",
+        "id": null,
+        "durum": "waiting (1/3 published)"
+      }
+    },
+    {
+      "id": "aviation-failures",
+      "ad": "Aviation Failures",
+      "aciklama": "Air disasters traced link by link through the failure chain.",
+      "videolar": [
+        {
+          "slug": "hindenburg",
+          "baslik": "The Disaster That Ended the Age of the Airship",
+          "format": "short",
+          "durum": "published",
+          "videoId": "PGOKZhPYo7c",
+          "tarih": "2026-09-22T20:26:44Z"
+        },
+        {
+          "slug": "eastern-212-1974",
+          "baslik": "Eastern 212: What Failed First",
+          "format": "short",
+          "durum": "published",
+          "videoId": "rgSsk8q6eyM",
+          "tarih": "2026-10-01T14:37:43.149Z"
+        },
+        {
+          "slug": "adam-air-574-2007",
+          "baslik": "Pilots Fixing a Navigation Fault Didn't Notice the Dive",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "air-canada-759-2017",
+          "baslik": "The Airliner That Nearly Landed on Four Other Jets",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "air-florida-90-1982",
+          "baslik": "Ice on the Sensors Made the Engines Lie",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "air-france-447-2009",
+          "baslik": "Iced Sensors and a Stall Nobody Recognized",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "airship-italia-1928",
+          "baslik": "The Arctic Airship That Grew Too Heavy to Fly",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "alaska-261-2000",
+          "baslik": "Too Little Grease Brought Down Alaska 261",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "american-1420-1999",
+          "baslik": "The Spoilers That Weren't Armed for a Stormy Landing",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "american-191-1979",
+          "baslik": "The Forklift Shortcut That Tore an Engine Off a DC-10",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "american-587-2001",
+          "baslik": "The Rudder Inputs That Snapped Off a Tail",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "american-eagle-4184-1994",
+          "baslik": "Ice That Formed Behind the De-Icing Boots",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "arrow-air-1285-1985",
+          "baslik": "The Military Charter That Crashed Leaving Gander",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "asiana-214-2013",
+          "baslik": "The Autothrottle Everyone Thought Was Holding Speed",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "avianca-52-1990",
+          "baslik": "The Jet That Ran Out of Fuel Without Saying Emergency",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "b2-guam-2008",
+          "baslik": "How Water Destroyed a $1.4 Billion Stealth Bomber",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "colgan-3407-2009",
+          "baslik": "The Stall Warning Pilots Pulled Against",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "comair-5191-2006",
+          "baslik": "The Jet That Took Off From the Wrong Runway",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "continental-1404-2008",
+          "baslik": "A Crosswind Gust Pushed a Jet Off the Runway",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "continental-1713-1987",
+          "baslik": "Twenty-Seven Minutes of Snow After De-icing",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "controlled-impact-1984",
+          "baslik": "NASA Crashed a Boeing 720 on Purpose — Then It Exploded",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "delta-191-1985",
+          "baslik": "The Invisible Downdraft That Slammed a Jet Into the Ground",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "delta-723-1973",
+          "baslik": "A Switch in the Wrong Mode and a Jet Hit a Seawall",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "fairchild-b52-1994",
+          "baslik": "Everyone Knew This Pilot Took Risks",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "gol-1907-2006",
+          "baslik": "A Business Jet's Collision Warning Was Switched Off",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "grand-canyon-collision-1956",
+          "baslik": "The Mid-Air Collision That Created the FAA",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hudson-1549-2009",
+          "baslik": "208 Seconds: How Geese Took Out Both Engines of Flight 1549",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hughes-airwest-706-1971",
+          "baslik": "A Fighter Jet and an Airliner Met Over the Mountains",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "japan-airlines-123-1985",
+          "baslik": "One Row of Rivets Instead of Two — 520 Died",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "m2-f2-crash-1967",
+          "baslik": "The Wingless Aircraft That Crashed on Landing",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mandala-091-2005",
+          "baslik": "The Take-Off With the Flaps Still Up",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "midwest-express-105-1985",
+          "baslik": "An Engine Failure the Crew Made Worse",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "munich-1958",
+          "baslik": "Munich 1958: The Slush That Brought Down Manchester United's Plane",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "national-airlines-102-2013",
+          "baslik": "Cargo Broke Loose and Crushed the Controls of a 747",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "pan-am-214-1963",
+          "baslik": "The Lightning Strike That Ignited a Fuel Tank",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "pinnacle-3701-2004",
+          "baslik": "Two Pilots Took an Empty Jet to Its Ceiling for Fun",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "r101-airship-1930",
+          "baslik": "Britain's Giant Airship Crashed on Its First Big Voyage",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "r38-airship-1921",
+          "baslik": "The Airship That Broke in Half During a Turn",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "roma-airship-1922",
+          "baslik": "The Airship Crash That Made America Switch to Helium",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "southern-242-1977",
+          "baslik": "Hail Killed Both Engines and the Jet Landed on a Highway",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "southwest-1248-2005",
+          "baslik": "The Jet That Slid Off a Snowy Runway Into a Street",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "tam-3054-2007",
+          "baslik": "One Thrust Lever Left in Climb on a Wet Runway",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "tenerife-1977",
+          "baslik": "Two Jumbo Jets, One Runway, and a Misunderstood Word",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "twa-514-1974",
+          "baslik": "The Ambiguous Clearance That Put a Jet Into a Mountain",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "twa-800-1996",
+          "baslik": "An Empty Fuel Tank Destroyed TWA Flight 800",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "united-232-1989",
+          "baslik": "They Steered a Jet With Only the Engines",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ups-1354-2013",
+          "baslik": "A Tired Crew Flew an Unstable Approach Into a Hill",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "usair-1016-1994",
+          "baslik": "The Wind Shear Warning That Went to the Wrong Frequency",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-akron-1933",
+          "baslik": "The Navy's Flying Aircraft Carrier Fell Into the Sea",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-shenandoah-1925",
+          "baslik": "The Helium Airship Torn Apart by a Storm",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "valujet-592-1996",
+          "baslik": "The Mislabelled Boxes That Burned ValuJet 592",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-planes-crash",
+          "baslik": "What Actually Makes Planes Crash",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "xb-70-collision-1966",
+          "baslik": "A Photo Shoot That Destroyed a Supersonic Bomber",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Aviation Failures",
+        "id": null,
+        "durum": "waiting (2/3 published)"
+      }
+    },
+    {
+      "id": "spaceflight-disasters",
+      "ad": "Spaceflight Disasters",
+      "aciklama": "Launch and spaceflight failures — the engineering behind the fireball.",
+      "videolar": [
+        {
+          "slug": "challenger-1986",
+          "baslik": "Why Challenger Broke Apart 73 Seconds After Launch",
+          "format": "short",
+          "durum": "published",
+          "videoId": "bqTpdauhlHo",
+          "tarih": "2026-09-26T12:21:27.519Z"
+        },
+        {
+          "slug": "apollo-13-1970",
+          "baslik": "28 Volts vs 65: Apollo 13's Hidden Flaw",
+          "format": "short",
+          "durum": "published",
+          "videoId": "uqoAjXMbbls",
+          "tarih": "2026-09-29T14:12:12.083Z"
+        },
+        {
+          "slug": "antares-orb-3-2014",
+          "baslik": "A Decades-Old Engine Exploded Seconds After Launch",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "apollo-1-1967",
+          "baslik": "Apollo 1: The Fire That Happened on the Ground",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "apollo-12-lightning-1969",
+          "baslik": "Apollo 12 Was Struck by Lightning Twice During Launch",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "apollo-6-pogo-1968",
+          "baslik": "The Rocket That Shook Like a Pogo Stick",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "columbia-2003",
+          "baslik": "A Piece of Foam Destroyed Space Shuttle Columbia",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "contour-probe-2002",
+          "baslik": "The Comet Probe That Broke Apart Leaving Earth",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "galileo-antenna-1991",
+          "baslik": "The Jupiter Probe Whose Main Antenna Never Opened",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "gemini-6a-pad-shutdown-1965",
+          "baslik": "The Rocket Shut Down on the Pad and the Pilot Didn't Eject",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "gemini-8-1966",
+          "baslik": "Neil Armstrong's Spacecraft Spun Out of Control",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "genesis-capsule-2004",
+          "baslik": "A Sensor Installed Upside Down Crashed a NASA Capsule",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hubble-mirror-1990",
+          "baslik": "Hubble's Mirror Was Ground Perfectly — to the Wrong Shape",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mars-96-1996",
+          "baslik": "Russia's Mars Probe Fell Back to Earth",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mercury-atlas-1-1960",
+          "baslik": "The Rocket Skin Too Thin to Carry a Capsule",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mercury-redstone-1-1960",
+          "baslik": "The Rocket Launch That Flew Four Inches",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "n1-rocket-1969",
+          "baslik": "The Soviet Moon Rocket That Failed Every Launch",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "proton-m-2013",
+          "baslik": "Sensors Installed Upside Down Crashed a Proton Rocket",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "skylab-1973",
+          "baslik": "How Skylab Lost Its Heat Shield 63 Seconds After Launch",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "soyuz-ms-10-2018",
+          "baslik": "A Bent Pin Aborted a Crewed Launch Mid-Flight",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "spaceshiptwo-2014",
+          "baslik": "Unlocking a Tail System Too Early Broke Up SpaceShipTwo",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "spacex-crs-7-2015",
+          "baslik": "A Failed Steel Strut Broke Up a Falcon 9",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "starship-ift-1-2023",
+          "baslik": "The Rocket That Destroyed Its Own Launch Pad",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sts-27-atlantis-1988",
+          "baslik": "The Shuttle That Survived Heat-Shield Damage — Years Before Columbia",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sts-51-f-abort-to-orbit-1985",
+          "baslik": "Faulty Sensors Shut Down a Shuttle Engine in Flight",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sts-93-wiring-short-1999",
+          "baslik": "A Wire Rubbing on a Screw Nearly Downed a Shuttle",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "taurus-xl-fairing-oco-2009",
+          "baslik": "The Rocket Nose Cone That Wouldn't Open — Twice",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "titan-iv-a20-1998",
+          "baslik": "A Power Glitch Reset a Rocket's Brain in Flight",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "vanguard-1957",
+          "baslik": "Flopnik: Why America's Answer to Sputnik Failed Twice",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-rockets-explode",
+          "baslik": "The Stuck Valve That Destroys a Rocket",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "x-43a-first-flight-2001",
+          "baslik": "The Hypersonic Test That Failed in 13 Seconds",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Spaceflight Disasters",
+        "id": null,
+        "durum": "waiting (2/3 published)"
+      }
+    },
+    {
+      "id": "maritime-disasters",
+      "ad": "Maritime Disasters",
+      "aciklama": "How ships lose stability, flood and sink.",
+      "videolar": [
+        {
+          "slug": "general-slocum-1904",
+          "baslik": "General Slocum: The Inspection That Killed",
+          "format": "short",
+          "durum": "published",
+          "videoId": "NnGoWJOdaW0",
+          "tarih": "2026-09-30T13:58:27.008Z"
+        },
+        {
+          "slug": "admiral-nakhimov-1986",
+          "baslik": "Two Captains Assumed the Other Would Turn",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "amoco-cadiz-1978",
+          "baslik": "A Supertanker's Steering Failed — Then Came the Towing Argument",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "andrea-doria-1956",
+          "baslik": "Two Ships Watching Each Other on Radar Still Collided",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ara-san-juan-2017",
+          "baslik": "Seawater in the Batteries, Then Silence",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "bourbon-dolphin-2007",
+          "baslik": "The Anchor Handler Pulled Over by Its Own Chain",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "carl-d-bradley-1958",
+          "baslik": "The Great Lakes Freighter That Snapped in a November Storm",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "city-of-rio-de-janeiro-1901",
+          "baslik": "The Liner That Sank at the Golden Gate in Fog",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "costa-concordia-2012",
+          "baslik": "A Showboating Sail-Past Tore Open a Cruise Ship",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "eastland-1915",
+          "baslik": "The Ship That Capsized at the Dock — Because of a Safety Rule",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "edmund-fitzgerald-1975",
+          "baslik": "The Great Lakes Freighter That Vanished Without a Mayday",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ehime-maru-greeneville-2001",
+          "baslik": "A Submarine Surfaced Under a Training Ship for Visitors",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "el-faro-2015",
+          "baslik": "The Cargo Ship That Sailed Into a Hurricane",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "empress-of-ireland-1914",
+          "baslik": "The Liner That Sank in Fourteen Minutes",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "exxon-valdez-1989",
+          "baslik": "The Tanker That Ran Onto a Reef It Knew Was There",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "golden-ray-2019",
+          "baslik": "A Car Carrier Capsized Leaving Port Because of a Math Error",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hms-thetis-1939",
+          "baslik": "A Blob of Paint Sank a New Submarine",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "kursk-2000",
+          "baslik": "A Leaking Torpedo Destroyed the Submarine Kursk",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "lady-elgin-1860",
+          "baslik": "A Schooner Without Lights Sank a Lake Michigan Steamer",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mary-rose-1545",
+          "baslik": "Henry VIII's Warship Sank With Its Gunports Open",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ms-estonia-1994",
+          "baslik": "The Storm Tore Off a Ferry's Bow Visor",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mv-rena-2011",
+          "baslik": "A Shortcut Put a Container Ship on a Charted Reef",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "princess-alice-1878",
+          "baslik": "The Thames Pleasure Boat That Sank Into Sewage",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "rms-tayleur-1854",
+          "baslik": "The Iron Ship Whose Compasses Lied",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sewol-2014",
+          "baslik": "The Overloaded Ferry That Told Passengers to Stay Put",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ss-arctic-1854",
+          "baslik": "The Liner Where the Crew Took the Lifeboats",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ss-sirio-1906",
+          "baslik": "The Emigrant Ship That Hit a Reef at Full Speed",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ss-valencia-1906",
+          "baslik": "The Steamship Wrecked Within Sight of Shore",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "tev-wahine-1968",
+          "baslik": "The Ferry That Capsized at the Mouth of Wellington Harbour",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "titanic-1912",
+          "baslik": "Titanic Could Survive Four Flooded Compartments — Not More",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uscgc-blackthorn-1980",
+          "baslik": "A Tanker's Anchor Hooked a Coast Guard Ship and Rolled It",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-fitzgerald-collision-2017",
+          "baslik": "A Destroyer Full of Radar Didn't See a Container Ship",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-forrestal-1967",
+          "baslik": "The 94-Second Fuse That Burned the USS Forrestal",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-frank-e-evans-1969",
+          "baslik": "A Wrong Turn Put a Destroyer Under an Aircraft Carrier",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-guardian-grounding-2013",
+          "baslik": "A Warship Ran Onto a Reef Its Chart Put 8 Miles Away",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-hobson-1952",
+          "baslik": "The Unexplained Turn That Sank a Destroyer",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-port-royal-grounding-2009",
+          "baslik": "A Brand-New Cruiser Ran Aground Off Honolulu Airport",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-san-francisco-seamount-2005",
+          "baslik": "A Submarine Hit an Undersea Mountain at Full Speed",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-squalus-1939",
+          "baslik": "The First Submarine Rescue in History",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-thresher-1963",
+          "baslik": "The Submarine That Couldn't Surface",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "vasa-1628",
+          "baslik": "The Warship That Sank Minutes Into Its Maiden Voyage",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-ships-sink",
+          "baslik": "Ships Don't Just Sink — Many Roll Over",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Maritime Disasters",
+        "id": null,
+        "durum": "waiting (1/3 published)"
+      }
+    },
+    {
+      "id": "nuclear-accidents",
+      "ad": "Nuclear Accidents",
+      "aciklama": "Nuclear tests and accidents, reconstructed from the record.",
+      "videolar": [
+        {
+          "slug": "bikini-baker",
+          "baslik": "The Nuclear Test That Poisoned a Paradise Forever",
+          "format": "short",
+          "durum": "published",
+          "videoId": "DLYpmaQ-EVw",
+          "tarih": "2026-09-24T03:42:01Z"
+        },
+        {
+          "slug": "chernobyl-1986",
+          "baslik": "How Chernobyl Really Failed",
+          "format": "short",
+          "durum": "published",
+          "videoId": "Nk7vmybWY98",
+          "tarih": "2026-10-04T12:12:07.597Z"
+        },
+        {
+          "slug": "browns-ferry-fire-1975",
+          "baslik": "A Candle Started a Fire Inside a Nuclear Plant",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "castle-bravo-1954",
+          "baslik": "Castle Bravo: The Bomb That Came Out 2.5 Times Too Big",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "fukushima-daiichi-2011",
+          "baslik": "The Backup Generators Were in the Basement",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "goldsboro-b52-1961",
+          "baslik": "The Nuclear Bomb One Switch Away From Detonating",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "santa-susana-sre-1959",
+          "baslik": "The Secret Partial Meltdown Near Los Angeles",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sl-1-reactor-1961",
+          "baslik": "One Control Rod Pulled Too Far Destroyed a Reactor",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "three-mile-island-1979",
+          "baslik": "A Stuck Valve and a Misleading Light Melted a Reactor",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "thule-b52-1968",
+          "baslik": "The Bomber Fire That Scattered Plutonium on Greenland's Ice",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "windscale-fire-1957",
+          "baslik": "The Reactor Fire Saved by a Filter Called a Folly",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Nuclear Accidents",
+        "id": null,
+        "durum": "waiting (2/3 published)"
+      }
+    },
+    {
+      "id": "fire-and-explosions",
+      "ad": "Fires & Explosions",
+      "aciklama": "Blasts, fires and invisible gases — the physics of how they kill.",
+      "videolar": [
+        {
+          "slug": "beirut-port-2020",
+          "baslik": "Fertilizer Left in a Warehouse for Years Destroyed a Port",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "bonhomme-richard-fire-2020",
+          "baslik": "A Warship Burned for Four Days in Port",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "caldecott-tunnel-fire-1982",
+          "baslik": "A Gasoline Tanker Crashed Inside a Tunnel",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "centralia-mine-fire",
+          "baslik": "The Underground Fire That Has Burned for Decades",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "cherry-mine-1909",
+          "baslik": "A Cart of Hay Started a Deadly Mine Fire",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "collinwood-school-fire-1908",
+          "baslik": "The School Fire That Changed Fire Drills Forever",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "gotthard-tunnel-fire-2001",
+          "baslik": "Two Trucks Collided Inside a 17-Kilometre Tunnel",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "great-boston-fire-1872",
+          "baslik": "The Fire Firefighters Fought Without Horses",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "great-chicago-fire-1871",
+          "baslik": "The City Built of Wood That Burned for Two Days",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "grenfell-tower-2017",
+          "baslik": "How Cladding Turned a Kitchen Fire Into a Tower Fire",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "halifax-explosion",
+          "baslik": "The Harbor Collision That Flattened a City",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "how-carbon-monoxide-kills",
+          "baslik": "Why Carbon Monoxide Kills People in Their Sleep",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "how-fire-spreads",
+          "baslik": "Why House Fires Turn Deadly in Minutes",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "how-gas-explosions-happen",
+          "baslik": "The Pressure Blast Hidden in a Gas Leak",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "imperial-foods-fire-1991",
+          "baslik": "The Plant Where the Fire Exits Were Locked",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "iroquois-theatre-1903",
+          "baslik": "The 'Absolutely Fireproof' Theatre That Became a Trap",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mgm-grand-fire-1980",
+          "baslik": "The Hotel Fire Where Smoke Killed People Floors Away",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "morro-castle-1934",
+          "baslik": "The Cruise Ship Fire That Burned Off the New Jersey Coast",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "new-london-school-1937",
+          "baslik": "The New London School Explosion That Gave Gas Its Smell",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "notre-dame-fire-2019",
+          "baslik": "The Guard Sent to the Wrong Attic",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "plasco-building-2017",
+          "baslik": "The Tehran Tower That Collapsed During a Fire",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "port-chicago-1944",
+          "baslik": "The Munitions Pier That Exploded During Loading",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "saudia-163-1980",
+          "baslik": "The Jet That Landed Safely — and Nobody Got Out",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ss-noronic-1949",
+          "baslik": "The Ship That Burned at the Dock in Toronto",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "station-nightclub-2003",
+          "baslik": "Pyrotechnics Ignited Soundproofing Foam in Seconds",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "swissair-111-1998",
+          "baslik": "Burning Insulation Brought Down Swissair 111",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "texas-city-1947",
+          "baslik": "A Ship Full of Fertilizer Exploded in a Harbor",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "the-physics-of-explosions",
+          "baslik": "It's Not the Fire That Kills in an Explosion",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "tianjin-2015",
+          "baslik": "Chemicals Stored Illegally Caused the Tianjin Explosions",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "triangle-shirtwaist-1911",
+          "baslik": "The Locked Doors That Trapped Garment Workers in a Fire",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-bennington-explosion-1954",
+          "baslik": "The Catapult That Exploded Inside an Aircraft Carrier",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-enterprise-fire-1969",
+          "baslik": "Hot Exhaust Cooked a Rocket on a Carrier Deck",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-iowa-turret-1989",
+          "baslik": "The Navy Blamed a Sailor. Scientists Found Another Cause",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-miami-fire-2012",
+          "baslik": "A Worker Set a Submarine on Fire to Leave Work Early",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-oriskany-fire-1966",
+          "baslik": "A Lit Flare Thrown Into a Locker Full of Flares",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "west-fertilizer-2013",
+          "baslik": "The Small-Town Fertilizer Plant That Exploded",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Fires & Explosions",
+        "id": null,
+        "durum": "waiting (0/3 published)"
+      }
+    },
+    {
+      "id": "industrial-disasters",
+      "ad": "Industrial Disasters",
+      "aciklama": "Industrial accidents and the organisational failures behind them.",
+      "videolar": [
+        {
+          "slug": "deepwater-horizon-2010",
+          "baslik": "Deepwater Horizon: The Test Result Nobody Believed",
+          "format": "short",
+          "durum": "published",
+          "videoId": "aScjSrwqeRk",
+          "tarih": "2026-09-27T12:31:08.314Z"
+        },
+        {
+          "slug": "aberfan-1966",
+          "baslik": "The Coal Waste Tip That Slid Onto a School",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ajka-red-mud-2010",
+          "baslik": "The Wall That Released a Flood of Caustic Red Mud",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "buncefield-2005",
+          "baslik": "A Stuck Gauge and a Silent Alarm Caused a Giant Explosion",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "coalbrook-mine-1960",
+          "baslik": "Hundreds of Coal Pillars Collapsed Like Dominoes",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "courrieres-mine-1906",
+          "baslik": "Europe's Deadliest Mine Disaster — and the Men Who Walked Out 20 Days Later",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "crandall-canyon-mine-2007",
+          "baslik": "The Rescue That Killed Three More",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "cuyahoga-river-fire-1969",
+          "baslik": "The River So Polluted It Kept Catching Fire",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "imperial-sugar-2008",
+          "baslik": "Sugar Dust Blew Up a Refinery",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ixtoc-i-1979",
+          "baslik": "The Offshore Blowout That Gushed Oil for Nine Months",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "love-canal",
+          "baslik": "The School Built on a Chemical Waste Dump",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "minamata-disease",
+          "baslik": "The Factory Wastewater That Poisoned a Fishing Town",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "monongah-1907",
+          "baslik": "America's Worst Mining Disaster",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "montara-2009",
+          "baslik": "The Well Left Without Its Pressure Caps",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "noaa-n-prime-2003",
+          "baslik": "A Weather Satellite Fell Over in the Factory",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "oaks-explosion-1866",
+          "baslik": "The Colliery That Exploded Again as Rescuers Went In",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ocean-ranger-1982",
+          "baslik": "A Broken Window Sank the World's Largest Oil Rig",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "oppau-explosion-1921",
+          "baslik": "They Used Dynamite to Loosen Fertilizer — It Exploded",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "pike-river-2010",
+          "baslik": "The New Zealand Mine With One Way Out",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "radium-girls",
+          "baslik": "The Workers Told to Point Radium Brushes With Their Lips",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "senghenydd-1913",
+          "baslik": "Britain's Worst Mining Disaster Began With a Spark",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "soma-mine-2014",
+          "baslik": "The Mine Fire That Filled the Tunnels With Carbon Monoxide",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "texas-city-refinery-2005",
+          "baslik": "The Refinery Tower Overfilled for Hours Before It Exploded",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "upper-big-branch-2010",
+          "baslik": "A Spark, Methane and Coal Dust: The Upper Big Branch Explosion",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-mines-collapse",
+          "baslik": "The Chain Collapse Miners Fear Most",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Industrial Disasters",
+        "id": null,
+        "durum": "waiting (1/3 published)"
+      }
+    },
+    {
+      "id": "infrastructure-failures",
+      "ad": "Infrastructure Failures",
+      "aciklama": "Dams, grids and the systems we only notice when they fail.",
+      "videolar": [
+        {
+          "slug": "lower-van-norman-dam-1971",
+          "baslik": "Inside Van Norman Dam: The Failure Chain",
+          "format": "short",
+          "durum": "published",
+          "videoId": "WlZ2z90pqx8",
+          "tarih": "2026-10-02T12:19:54.009Z"
+        },
+        {
+          "slug": "brumadinho-dam-2019",
+          "baslik": "The Mining Dam That Turned to Liquid in Seconds",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "camp-fire-paradise-2018",
+          "baslik": "A Worn Hook on a Power Line Burned Down Paradise",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "cavalese-cable-car-1976",
+          "baslik": "The Cable That Sheared the Cable Car's Lifeline",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "delhi-dam-2010",
+          "baslik": "Only Two of Three Gates Opened and the Dam Failed",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "derna-dams-2023",
+          "baslik": "Two Neglected Dams and a City Swept to the Sea",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "east-harlem-explosion-2014",
+          "baslik": "A Broken Sewer Undermined a Gas Pipe",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "edenville-dam-2020",
+          "baslik": "A Dam Known to Be Unsafe Failed in a Flood",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ever-given-suez-2021",
+          "baslik": "How One Ship Blocked the Suez Canal for Six Days",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "flint-water-crisis",
+          "baslik": "Skipping Corrosion Control Put Lead in a City's Water",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "gleno-dam-1923",
+          "baslik": "The Italian Dam That Failed Weeks After Filling",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "great-dayton-flood-1913",
+          "baslik": "The Flood That Created America's Modern Flood Control",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "great-flood-1993",
+          "baslik": "The Man Accused of Breaking a Levee to Strand His Wife",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "great-sheffield-flood-1864",
+          "baslik": "The New Dam That Burst on Its First Filling",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "how-blackouts-spread",
+          "baslik": "Why One Failure Can Shut Down a Power Grid",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "i-95-philadelphia-collapse-2023",
+          "baslik": "A Tanker Fire Under I-95 Brought Down the Highway",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "johnstown-flood-1889",
+          "baslik": "A Rich Men's Club Weakened the Dam Above a Town",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "kaohsiung-gas-2014",
+          "baslik": "A Pipeline Inside a Drain Blew Open City Streets",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "kingston-ash-spill-2008",
+          "baslik": "The Coal Ash Pond That Buried a River Valley",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "macarthur-maze-collapse-2007",
+          "baslik": "A Tanker Fire Melted a Freeway Ramp",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "maria-puerto-rico-blackout-2017",
+          "baslik": "The Worst Blackout in US History",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mariana-dam-2015",
+          "baslik": "The Mudflow That Travelled Hundreds of Kilometres to the Sea",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "merrimack-valley-2018",
+          "baslik": "Sensors on an Abandoned Pipe Overpressured a Whole Gas Network",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mill-river-flood-1874",
+          "baslik": "The Cheaply Built Dam That Swept Away Four Villages",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mississippi-flood-1927",
+          "baslik": "The Flood That Proved Levees Alone Couldn't Hold the Mississippi",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mount-polley-2014",
+          "baslik": "A Hidden Clay Layer Failed Under a Mine Waste Dam",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "new-orleans-levees-2005",
+          "baslik": "The Floodwalls That Failed Before the Water Reached the Top",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "oroville-spillway-2017",
+          "baslik": "The Spillway That Broke at America's Tallest Dam",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "san-bruno-pipeline-2010",
+          "baslik": "A Bad Weld From 1956 Exploded Under a Neighbourhood",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sandy-new-york-2012",
+          "baslik": "The Storm Surge That Flooded New York's Subway",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sasago-tunnel-2012",
+          "baslik": "The Tunnel Ceiling That Fell on Passing Cars",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "sayano-shushenskaya-2009",
+          "baslik": "The Turbine That Blew Out of Its Housing",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "st-francis-dam-1928",
+          "baslik": "The Dam That Failed Hours After Being Declared Safe",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "taum-sauk-2005",
+          "baslik": "The Reservoir That Overfilled Because Its Sensors Came Loose",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "texas-power-crisis-2021",
+          "baslik": "The Texas Grid Was Minutes From Total Collapse",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "vajont-dam-1963",
+          "baslik": "The Dam Survived — the Valley Didn't",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-dams-fail",
+          "baslik": "The Hidden Tunnel That Destroys Dams From Inside",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Infrastructure Failures",
+        "id": null,
+        "durum": "waiting (1/3 published)"
+      }
+    },
+    {
+      "id": "materials-failures",
+      "ad": "Materials & Fatigue",
+      "aciklama": "When the material itself gives up: corrosion, fatigue and hidden flaws.",
+      "videolar": [
+        {
+          "slug": "alexander-kielland-1980",
+          "baslik": "A Hole for a Sensor Capsized an Offshore Platform",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "aloha-airlines-243-1988",
+          "baslik": "The Roof Ripped Off a Plane at 24,000 Feet",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "boeing-787-batteries-2013",
+          "baslik": "Burning Batteries Grounded Every Boeing 787",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "british-airways-38-2008",
+          "baslik": "Ice in the Fuel Starved Both Engines on Final Approach",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "chevrolet-corvair",
+          "baslik": "The Car That Helped Create Federal Auto Safety Law",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "comet-g-alyp-1954",
+          "baslik": "The First Jetliner Kept Breaking Apart in the Sky",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "daniel-j-morrell-1966",
+          "baslik": "One Survivor Watched His Ship Break Apart",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "delta-1288-1996",
+          "baslik": "A Hidden Flaw in an Engine Hub Exploded on Take-off",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "firestone-tread-separation",
+          "baslik": "Tyres Whose Treads Peeled Off at Highway Speed",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ford-pinto",
+          "baslik": "The Car Whose Fuel Tank Burst in Rear-End Crashes",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "galaxy-note-7-batteries",
+          "baslik": "Why a Flagship Phone Was Banned From Planes",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hammersmith-bridge-2019",
+          "baslik": "The Bridge Kept Cool With Foil and Air-Conditioning",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "john-hancock-tower-windows",
+          "baslik": "The Skyscraper Whose Windows Fell Out",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "liberty-ships-brittle-fracture",
+          "baslik": "Why Wartime Liberty Ships Cracked in Half",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "nasa-helios-breakup-2003",
+          "baslik": "The Solar Wing That Bent Itself to Pieces",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "qantas-32-2010",
+          "baslik": "A Misaligned Oil Pipe Blew Apart an A380 Engine",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "southwest-1380-2018",
+          "baslik": "A Fan Blade Broke and a Window Blew Out",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "titan-submersible-2023",
+          "baslik": "The Carbon Fibre Hull That Imploded Near the Titanic",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-belknap-collision-1975",
+          "baslik": "The Cruiser Whose Aluminum Superstructure Collapsed in Fire",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-concrete-crumbles",
+          "baslik": "Concrete Cancer: The Silent Threat in Old Buildings",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-glass-shatters",
+          "baslik": "Glass That Shatters Years After It Was Made",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "why-metal-rusts-away",
+          "baslik": "Rust Never Sleeps — And It Topples Bridges",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Materials & Fatigue",
+        "id": null,
+        "durum": "waiting (0/3 published)"
+      }
+    },
+    {
+      "id": "rail-disasters",
+      "ad": "Rail Disasters",
+      "aciklama": "Derailments, collisions and signalling failures — how railways fail.",
+      "videolar": [
+        {
+          "slug": "amagasaki-2005",
+          "baslik": "A Driver Trying to Make Up 90 Seconds Took a Curve Too Fast",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "amtrak-188-2015",
+          "baslik": "An Amtrak Train Took a Curve at Twice the Limit",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "amtrak-cascades-501-2017",
+          "baslik": "The Inaugural Run That Took a Curve at 78 mph",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "big-bayou-canot-1993",
+          "baslik": "A Lost Barge Bent a Rail Bridge Minutes Before a Train",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "cayce-train-collision-2018",
+          "baslik": "A Switch Left Set Toward a Parked Train During a Signal Outage",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "chase-maryland-1987",
+          "baslik": "The Locomotives That Ran Past a Stop Signal",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "east-palestine-derailment-2023",
+          "baslik": "An Overheating Bearing and the Toxic Burn That Followed",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "eschede-1998",
+          "baslik": "One Cracked Wheel Rim Derailed a High-Speed Train",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "graniteville-train-crash-2005",
+          "baslik": "One Switch Left in the Wrong Position Released a Chlorine Cloud",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "harrow-wealdstone-1952",
+          "baslik": "An Express in Fog Ran Past Its Signals",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hoboken-train-crash-2016",
+          "baslik": "The Engineer's Sleep Disorder Nobody Diagnosed",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "lac-megantic-2013",
+          "baslik": "The Unattended Oil Train That Rolled Into a Town",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "montparnasse-derailment-1895",
+          "baslik": "The Train That Crashed Through a Station Wall",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "quintinshill-1915",
+          "baslik": "The Signalmen Forgot a Train Standing on the Line",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "santiago-de-compostela-2013",
+          "baslik": "A High-Speed Train Entered a Tight Curve at Over Twice the Limit",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "valhalla-train-crash-2015",
+          "baslik": "The Crossing Crash That Turned Into a Train Fire",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "washington-metro-2009",
+          "baslik": "The Track Circuit That Couldn't See a Train",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "wenzhou-2011",
+          "baslik": "A Lightning Strike Turned a Red Signal Green",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Rail Disasters",
+        "id": null,
+        "durum": "waiting (0/3 published)"
+      }
+    },
+    {
+      "id": "software-and-control-failures",
+      "ad": "Software & Control Failures",
+      "aciklama": "When code, sensors and control logic become the point of failure.",
+      "videolar": [
+        {
+          "slug": "a400m-seville-2015",
+          "baslik": "Missing Engine Data Made Three Engines Freeze After Take-Off",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ariane-5-flight-501",
+          "baslik": "One Line of Reused Code Blew Up Ariane 5",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "china-airlines-140-1994",
+          "baslik": "The Pilot Fought the Autopilot — and Lost",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "crowdstrike-outage-2024",
+          "baslik": "One Faulty Update Crashed Millions of Computers at Once",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "dart-collision-2005",
+          "baslik": "The Autonomous Spacecraft That Bumped Into Its Target",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hitomi-2016",
+          "baslik": "A Satellite Spun Itself to Pieces Weeks After Launch",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "knight-capital-2012",
+          "baslik": "Old Code on One Server Lost a Company Millions in Minutes",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "lion-air-610-2018",
+          "baslik": "One Faulty Sensor Kept Pushing the Nose Down",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mariner-1-1962",
+          "baslik": "The Most Expensive Missing Symbol in History",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mars-climate-orbiter-1999",
+          "baslik": "A Units Mix-Up Crashed a Mars Spacecraft",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mars-global-surveyor-2006",
+          "baslik": "A Software Update Killed a Mars Orbiter",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mars-pathfinder-resets-1997",
+          "baslik": "The Mars Lander That Kept Rebooting Itself",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mars-polar-lander-1999",
+          "baslik": "A Software Glitch Shut Off the Engines Too Early",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "patriot-missile-dhahran-1991",
+          "baslik": "A Tiny Clock Error Let a Missile Through",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "qantas-72-2008",
+          "baslik": "The Airliner That Suddenly Dove Twice on Its Own",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "schiaparelli-2016",
+          "baslik": "The Mars Lander That Thought It Was Underground",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "starliner-oft-2019",
+          "baslik": "A Clock Set Wrong Sent Starliner Into the Wrong Orbit",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "uss-john-s-mccain-collision-2017",
+          "baslik": "The Touchscreen Steering That Confused a Warship's Crew",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Software & Control Failures",
+        "id": null,
+        "durum": "waiting (0/3 published)"
+      }
+    },
+    {
+      "id": "natural-hazards",
+      "ad": "Natural Hazards vs. Engineering",
+      "aciklama": "What earthquakes, floods and eruptions do to the things we build.",
+      "videolar": [
+        {
+          "slug": "san-francisco-1906",
+          "baslik": "Why San Francisco Burned for Three Days",
+          "format": "short",
+          "durum": "published",
+          "videoId": "X0jw78mIGdk",
+          "tarih": "2026-09-23T13:40:09Z"
+        },
+        {
+          "slug": "how-avalanches-start",
+          "baslik": "How a Single Step Triggers an Avalanche",
+          "format": "short",
+          "durum": "published",
+          "videoId": "ODZ7y6r1o6o",
+          "tarih": "2026-09-25T14:40:16.886Z"
+        },
+        {
+          "slug": "vesuvius-1944",
+          "baslik": "Vesuvius 1944: An Eruption in the Middle of a War",
+          "format": "short",
+          "durum": "published",
+          "videoId": "I86SnrokHMk",
+          "tarih": "2026-09-28T15:20:26.440Z"
+        },
+        {
+          "slug": "armero-1985",
+          "baslik": "The Town Buried by a Volcano Everyone Had Mapped",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "bay-bridge-loma-prieta-1989",
+          "baslik": "The Bay Bridge Deck That Fell in the 1989 Earthquake",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "big-burn-1910",
+          "baslik": "The Ranger Who Held His Crew Inside a Mine",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "carrington-event-1859",
+          "baslik": "The Solar Storm That Set Telegraph Offices on Fire",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "cerro-grande-fire-2000",
+          "baslik": "A Controlled Burn That Burned a Town",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "cypress-street-viaduct-1989",
+          "baslik": "The Double-Deck Freeway That Pancaked in an Earthquake",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "eyjafjallajokull-2010",
+          "baslik": "Why One Icelandic Volcano Grounded Europe's Flights",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "frank-slide-1903",
+          "baslik": "A Mountain Fell on a Mining Town",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "great-smog-london-1952",
+          "baslik": "The Fog That Killed Thousands in London",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "haiti-earthquake-2010",
+          "baslik": "Why a Moderate Earthquake Was So Deadly in Haiti",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hanshin-expressway-1995",
+          "baslik": "The Elevated Expressway That Toppled Onto Its Side",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hope-slide-1965",
+          "baslik": "Half a Mountain Fell on a Highway",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "how-floods-destroy-cities",
+          "baslik": "The Flood Danger You Can't See",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "how-ground-turns-to-liquid",
+          "baslik": "How Earthquakes Turn Solid Ground to Liquid",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "how-tsunamis-form",
+          "baslik": "How Tsunamis Grow Into 100-Foot Walls",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "how-volcanoes-erupt",
+          "baslik": "What Actually Makes a Volcano Explode",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "hurricane-andrew-1992",
+          "baslik": "The Hurricane That Exposed Poorly Built Homes",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "i-10-twin-span-2005",
+          "baslik": "Hurricane Waves Lifted a Bridge Off Its Piers",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "izmit-earthquake-1999",
+          "baslik": "Why So Many Buildings Collapsed in the 1999 İzmit Earthquake",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "joplin-tornado-2011",
+          "baslik": "The Tornado That Hit a Hospital Head-On",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "lahaina-fire-2023",
+          "baslik": "The Sirens That Never Sounded in Lahaina",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "lake-nyos-1986",
+          "baslik": "The Lake That Released a Cloud of Carbon Dioxide",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "laquila-earthquake-2009",
+          "baslik": "Scientists Were Convicted Over an Earthquake",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "leilani-eruption-2018",
+          "baslik": "Lava Opened Fissures Inside a Housing Subdivision",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mann-gulch-fire-1949",
+          "baslik": "The Foreman Who Lit a Fire to Escape a Fire",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mexico-city-earthquake-1985",
+          "baslik": "Why Mid-Rise Buildings Fell in Mexico City",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "moore-tornado-2013",
+          "baslik": "Schools in Tornado Alley Without Storm Shelters",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mount-pelee-1902",
+          "baslik": "The City Destroyed in Minutes by a Glowing Cloud",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "mount-st-helens-1980",
+          "baslik": "The Day Mount St. Helens Blew Out Sideways",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "new-england-hurricane-1938",
+          "baslik": "The Unforecast Hurricane That Surprised New England",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "north-sea-flood-1953",
+          "baslik": "The Night the Sea Broke Through the Dutch Dikes",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "northridge-earthquake-1994",
+          "baslik": "The Earthquake That Cracked 'Earthquake-Proof' Steel Joints",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "ohio-river-flood-1937",
+          "baslik": "The Winter Flood That Put Cities Under Water",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "okeechobee-1928",
+          "baslik": "The Hurricane That Pushed a Lake Over Its Dike",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "olive-view-hospital-1971",
+          "baslik": "The Brand-New Hospital an Earthquake Tore Apart",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "oso-mudslide-2014",
+          "baslik": "A Hillside Known to Slide Buried a Neighbourhood",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "peshtigo-fire-1871",
+          "baslik": "The Deadliest Wildfire in History Burned the Same Night as Chicago",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "pinatubo-1991",
+          "baslik": "A Volcano and a Typhoon Collapsed Roofs With Wet Ash",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "south-canyon-fire-1994",
+          "baslik": "Firefighters Cutting Line Downhill Above a Fire",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "tangiwai-1953",
+          "baslik": "A Volcanic Mudflow Took Out a Bridge Minutes Before a Train",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "the-science-of-sinkholes",
+          "baslik": "Sinkholes Look Sudden. They Took Centuries.",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "tohoku-seawalls-2011",
+          "baslik": "The Tsunami That Rose Over Japan's Great Seawalls",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "turnagain-heights-1964",
+          "baslik": "The Neighbourhood That Slid Into the Sea",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "yarnell-hill-fire-2013",
+          "baslik": "The Hotshot Crew Trapped in a Box Canyon",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        },
+        {
+          "slug": "yungay-ancash-1970",
+          "baslik": "The Avalanche That Buried a Town in Minutes",
+          "format": "short",
+          "durum": "queued",
+          "videoId": null,
+          "tarih": null
+        }
+      ],
+      "playlist": {
+        "ad": "Natural Hazards vs. Engineering",
+        "id": "PLdrG62GTUxOM",
+        "durum": "active"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Destroyer Full of Radar Didn't See a Container Ship",
+  "kaynaklar": [
+    {
+      "ad": "uss-fitzgerald-collision-1.jpg",
+      "wikimedia": "170617-N-XN177-155 damaged Arleigh Burke-class guided-missile destroyer USS Fitzgerald (DDG 62) in June 2017.JPG"
+    },
+    {
+      "ad": "uss-fitzgerald-collision-2.jpg",
+      "wikimedia": "DDG62-DryDock-PostCollision-StarboardSide.jpg"
+    },
+    {
+      "ad": "uss-fitzgerald-collision-3.jpg",
+      "wikimedia": "US Navy 170711-N-XN177-244 USS Fitzgerald (DDG 62) moves to dry dock.jpg"
+    },
+    {
+      "ad": "uss-fitzgerald-collision-4.jpg",
+      "wikimedia": "(170618-N-XN177-021) Joseph Aucoin speaks to members of the press about the guided-missile destroyer USS Fitzgerald (DDG 62).jpg"
+    },
+    {
+      "ad": "uss-fitzgerald-collision-5.jpg",
+      "wikimedia": "(170618-N-XN177-038) Joseph Aucoin speaks to members of the press about the guided-missile destroyer USS Fitzgerald (DDG 62).jpg"
+    },
+    {
+      "ad": "uss-fitzgerald-collision-6.jpg",
+      "wikimedia": "170711-N-VA840-002 (35906065936).jpg"
+    },
+    {
+      "ad": "uss-fitzgerald-collision-7.jpg",
+      "wikimedia": "170711-N-WC492-047 (35906065146).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At night off Japan, a container ship slammed into the destroyer Fitzgerald.",
+      "kaynak": "Footage/uss-fitzgerald-collision-1.jpg"
+    },
+    {
+      "metin": "Seawater flooded crew berthing, and seven sailors were killed.",
+      "kaynak": "Footage/uss-fitzgerald-collision-2.jpg"
+    },
+    {
+      "metin": "The destroyer carried advanced radar.",
+      "kaynak": "Footage/uss-fitzgerald-collision-3.jpg"
+    },
+    {
+      "metin": "The bridge team lost track of the ships around them.",
+      "kaynak": "Footage/uss-fitzgerald-collision-4.jpg"
+    },
+    {
+      "metin": "An order to turn and speed up came late.",
+      "kaynak": "Footage/uss-fitzgerald-collision-5.jpg"
+    },
+    {
+      "metin": "It wasn't carried out in time.",
+      "kaynak": "Footage/uss-fitzgerald-collision-6.jpg"
+    },
+    {
+      "metin": "Officers faced court proceedings.",
+      "kaynak": "Footage/uss-fitzgerald-collision-7.jpg"
+    },
+    {
+      "metin": "The Navy overhauled training in its Pacific fleet.",
+      "kaynak": "Footage/uss-fitzgerald-collision-1.jpg"
+    }
+  ],
+  "aciklama": "USS Fitzgerald collided with a container ship off Japan. The cause: late recognition of a crossing ship and orders that were not carried out.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "USS Fitzgerald",
+    "2017",
+    "bridge team",
+    "engineering failure"
+  ],
+  "hook": "Radar everywhere. Nobody saw it",
+  "soru": "Crew, or system?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "USS Fitzgerald",
+    "kisa": "USS Fitzgerald",
+    "nesne": "Bridge team",
+    "yil": 2017,
+    "sonuc": "collided with a container ship off Japan",
+    "tetik": "a bridge team that lost situational awareness",
+    "mekanizma": "late recognition of a crossing ship and orders that were not carried out",
+    "sayi": "SEVEN DIED",
+    "ders": "the Navy overhauled training and readiness in its Pacific fleet",
+    "zincir": [
+      "NIGHT, BUSY WATERS",
+      "CONTACT NOT TRACKED",
+      "LATE ORDER",
+      "ORDER NOT CARRIED OUT",
+      "COLLISION"
+    ],
+    "zaman": [],
+    "yanilgi": "The destroyer had advanced radar. The failure was on the bridge, not in the sensors.",
+    "tartisma": "A second destroyer collided two months later. Was it the crew, or the system?",
+    "basliklar": [
+      "A Destroyer Full of Radar Didn't See a Container Ship",
+      "Why USS Fitzgerald Collided With a Cargo Ship",
+      "The Warship That Didn't See It Coming"
+    ],
+    "kapak": [
+      "DIDN'T SEE IT",
+      "SEVEN DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Fitzgerald and MV ACX Crystal collision",
+        "url": "https://en.wikipedia.org/wiki/USS_Fitzgerald_and_MV_ACX_Crystal_collision"
+      },
+      {
+        "ad": "Government source — Supplemental Inquiry USS Fitzgerald (cited by Wikipedia)",
+        "url": "https://www.secnav.navy.mil/foia/readingroom/HotTopics/USS%20Fitzgerald/Supplemental%20Inquiry%20USS%20Fitzgerald.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "USS_Fitzgerald_and_MV_ACX_Crystal_collision",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "170617-N-XN177-155 damaged Arleigh Burke-class guided-missile destroyer USS Fitzgerald (DDG 62) in June 2017.JPG [Public domain]",
+      "DDG62-DryDock-PostCollision-StarboardSide.jpg [Public domain]",
+      "US Navy 170711-N-XN177-244 USS Fitzgerald (DDG 62) moves to dry dock.jpg [Public domain]",
+      "(170618-N-XN177-021) Joseph Aucoin speaks to members of the press about the guided-missile destroyer USS Fitzgerald (DDG 62).jpg [Public domain]",
+      "(170618-N-XN177-038) Joseph Aucoin speaks to members of the press about the guided-missile destroyer USS Fitzgerald (DDG 62).jpg [Public domain]",
+      "170711-N-VA840-002 (35906065936).jpg [Public domain]",
+      "170711-N-WC492-047 (35906065146).jpg [Public domain]"
+    ]
+  }
+}

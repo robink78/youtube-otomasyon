@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Underground Fire That Has Burned for Decades",
+  "kaynaklar": [
+    {
+      "ad": "centralia-mine-fire-1.jpg",
+      "wikimedia": "Burned & sulfur-encrusted wood (near Centralia, Pennsylvania, USA) (8280894567).jpg"
+    },
+    {
+      "ad": "centralia-mine-fire-2.jpg",
+      "wikimedia": "Burned wood in coal fire interception trench (near Centralia, Pennsylvania, USA) (8280898091).jpg"
+    },
+    {
+      "ad": "centralia-mine-fire-3.jpg",
+      "wikimedia": "Centralia ghost town (Pennsylvania, USA) 1 (8280951717).jpg"
+    },
+    {
+      "ad": "centralia-mine-fire-4.jpg",
+      "wikimedia": "Centralia ghost town (Pennsylvania, USA) 2 (8282007426).jpg"
+    },
+    {
+      "ad": "centralia-mine-fire-5.jpg",
+      "wikimedia": "Cracked highway from subsurface coal fire (Route 61, near Centralia, Pennsylvania, USA) 1 (8280903253).jpg"
+    },
+    {
+      "ad": "centralia-mine-fire-6.jpg",
+      "wikimedia": "Cracked highway from subsurface coal fire (Route 61, near Centralia, Pennsylvania, USA) 2 (8280902907).jpg"
+    },
+    {
+      "ad": "centralia-mine-fire-7.jpg",
+      "wikimedia": "Failed coal fire interception trench (near Centralia, Pennsylvania, USA) 1 (8281955886).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Under a Pennsylvania town, a coal fire has burned for decades.",
+      "kaynak": "Footage/centralia-mine-fire-1.jpg"
+    },
+    {
+      "metin": "Toxic gas spread and the ground collapsed into sinkholes.",
+      "kaynak": "Footage/centralia-mine-fire-2.jpg"
+    },
+    {
+      "metin": "It began with a fire at a landfill.",
+      "kaynak": "Footage/centralia-mine-fire-3.jpg"
+    },
+    {
+      "metin": "The flames spread into old mine tunnels below.",
+      "kaynak": "Footage/centralia-mine-fire-4.jpg"
+    },
+    {
+      "metin": "Those tunnels fed air to the coal seams.",
+      "kaynak": "Footage/centralia-mine-fire-5.jpg"
+    },
+    {
+      "metin": "Early attempts to stop it were too small.",
+      "kaynak": "Footage/centralia-mine-fire-6.jpg"
+    },
+    {
+      "metin": "Most residents eventually had to leave.",
+      "kaynak": "Footage/centralia-mine-fire-7.jpg"
+    },
+    {
+      "metin": "Centralia became a near ghost town above a fire that won't go out.",
+      "kaynak": "Footage/centralia-mine-fire-1.jpg"
+    }
+  ],
+  "aciklama": "Centralia has burned underground for decades. The cause: a coal seam fire fed by air through old mine tunnels.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Centralia",
+    "1962",
+    "coal seam",
+    "engineering failure"
+  ],
+  "hook": "It is still burning",
+  "soru": "What would stopping it early cost?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Centralia mine fire",
+    "kisa": "Centralia",
+    "nesne": "Coal seam",
+    "yil": 1962,
+    "sonuc": "has burned underground for decades",
+    "tetik": "a fire in a landfill spreading into abandoned coal workings",
+    "mekanizma": "a coal seam fire fed by air through old mine tunnels",
+    "sayi": "STILL BURNING",
+    "ders": "the town was largely abandoned through a federal buyout",
+    "zincir": [
+      "LANDFILL FIRE",
+      "SPREADS INTO OLD MINES",
+      "COAL SEAM IGNITES",
+      "GAS AND SINKHOLES",
+      "TOWN ABANDONED"
+    ],
+    "zaman": [],
+    "yanilgi": "The fire isn't a single blaze. It creeps slowly through coal seams, fed by air from old tunnels.",
+    "tartisma": "Early efforts to put it out were small and underfunded. How much would stopping it early have cost?",
+    "basliklar": [
+      "The Underground Fire That Has Burned for Decades",
+      "Why the Centralia Mine Fire Won't Go Out",
+      "The Town Abandoned Over a Fire Below"
+    ],
+    "kapak": [
+      "STILL BURNING",
+      "GHOST TOWN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Centralia mine fire",
+        "url": "https://en.wikipedia.org/wiki/Centralia_mine_fire"
+      },
+      {
+        "ad": "CDC — cdc 10644 DS1 (cited by Wikipedia)",
+        "url": "https://stacks.cdc.gov/view/cdc/10644/cdc_10644_DS1.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Centralia_mine_fire",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Burned & sulfur-encrusted wood (near Centralia, Pennsylvania, USA) (8280894567).jpg [CC BY 2.0]",
+      "Burned wood in coal fire interception trench (near Centralia, Pennsylvania, USA) (8280898091).jpg [CC BY 2.0]",
+      "Centralia ghost town (Pennsylvania, USA) 1 (8280951717).jpg [CC BY 2.0]",
+      "Centralia ghost town (Pennsylvania, USA) 2 (8282007426).jpg [CC BY 2.0]",
+      "Cracked highway from subsurface coal fire (Route 61, near Centralia, Pennsylvania, USA) 1 (8280903253).jpg [CC BY 2.0]",
+      "Cracked highway from subsurface coal fire (Route 61, near Centralia, Pennsylvania, USA) 2 (8280902907).jpg [CC BY 2.0]",
+      "Failed coal fire interception trench (near Centralia, Pennsylvania, USA) 1 (8281955886).jpg [CC BY 2.0]"
+    ]
+  }
+}

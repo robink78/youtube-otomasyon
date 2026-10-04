@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Cart of Hay Started a Deadly Mine Fire",
+  "kaynaklar": [
+    {
+      "ad": "cherry-mine-1.jpg",
+      "wikimedia": "Cherry Mine disaster, crowd at mouth of shaft (cropped).jpg"
+    },
+    {
+      "ad": "cherry-mine-2.jpg",
+      "wikimedia": "Cherry Mine disaster, crowd at mouth of shaft.jpg"
+    },
+    {
+      "ad": "cherry-mine-3.jpg",
+      "wikimedia": "Cherry Hill IL Mine disaster (20).jpg"
+    },
+    {
+      "ad": "cherry-mine-4.jpg",
+      "wikimedia": "Cherry Mine disaster, mourners and coffins LCCN2014684364.jpg"
+    },
+    {
+      "ad": "cherry-mine-5.jpg",
+      "wikimedia": "Cherry Mine disaster, mourners and coffins.jpg"
+    },
+    {
+      "ad": "cherry-mine-6.jpg",
+      "wikimedia": "Cherry mine historical marker.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Fire broke out deep in an Illinois coal mine.",
+      "kaynak": "Footage/cherry-mine-1.jpg"
+    },
+    {
+      "metin": "It trapped hundreds underground, and two hundred fifty nine men and boys died.",
+      "kaynak": "Footage/cherry-mine-2.jpg"
+    },
+    {
+      "metin": "Bales of hay for the mine's mules were on a cart.",
+      "kaynak": "Footage/cherry-mine-3.jpg"
+    },
+    {
+      "metin": "A kerosene torch dripped onto them and they caught fire.",
+      "kaynak": "Footage/cherry-mine-4.jpg"
+    },
+    {
+      "metin": "Flames spread to the mine's timbers.",
+      "kaynak": "Footage/cherry-mine-5.jpg"
+    },
+    {
+      "metin": "The shaft was sealed to smother the fire.",
+      "kaynak": "Footage/cherry-mine-6.jpg"
+    },
+    {
+      "metin": "A group of miners survived for eight days behind a wall they built.",
+      "kaynak": "Footage/cherry-mine-1.jpg"
+    },
+    {
+      "metin": "Illinois passed mine safety and compensation laws afterward.",
+      "kaynak": "Footage/cherry-mine-2.jpg"
+    }
+  ],
+  "aciklama": "Cherry Mine caught fire, trapping hundreds of miners. The cause: fire in a mine shaft fed by hay and timber, with fans spreading smoke.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Cherry Mine",
+    "1909",
+    "coal mine",
+    "engineering failure"
+  ],
+  "hook": "It started with hay",
+  "soru": "Seal the shaft?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Cherry Mine",
+    "kisa": "Cherry Mine",
+    "nesne": "Coal mine",
+    "yil": 1909,
+    "sonuc": "caught fire, trapping hundreds of miners",
+    "tetik": "hay bales ignited by a kerosene torch",
+    "mekanizma": "fire in a mine shaft fed by hay and timber, with fans spreading smoke",
+    "sayi": "259 DIED",
+    "ders": "Illinois passed mine safety and workers' compensation laws",
+    "zincir": [
+      "HAY BALES ON A MINE CART",
+      "TORCH DRIPS FUEL",
+      "HAY IGNITES",
+      "FIRE SPREADS TO TIMBERS",
+      "SHAFT SEALED WITH MINERS INSIDE"
+    ],
+    "zaman": [],
+    "yanilgi": "Some miners survived for eight days behind a wall they built themselves.",
+    "tartisma": "Sealing the shaft stopped the fire but trapped the miners. Was it the right call?",
+    "basliklar": [
+      "A Cart of Hay Started a Deadly Mine Fire",
+      "Why the Cherry Mine Fire Was So Deadly",
+      "The Hay Bales That Started a Mine Fire"
+    ],
+    "kapak": [
+      "HAY FIRE",
+      "259 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Cherry Mine disaster",
+        "url": "https://en.wikipedia.org/wiki/Cherry_Mine_disaster"
+      },
+      {
+        "ad": "Government source — sh2002011184 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/sh2002011184"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15",
+    "wiki": "Cherry_Mine_disaster",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Cherry Mine disaster, crowd at mouth of shaft (cropped).jpg [Public domain]",
+      "Cherry Mine disaster, crowd at mouth of shaft.jpg [Public domain]",
+      "Cherry Hill IL Mine disaster (20).jpg [Public domain]",
+      "Cherry Mine disaster, mourners and coffins LCCN2014684364.jpg [Public domain]",
+      "Cherry Mine disaster, mourners and coffins.jpg [Public domain]",
+      "Cherry mine historical marker.JPG [Public domain]"
+    ]
+  }
+}

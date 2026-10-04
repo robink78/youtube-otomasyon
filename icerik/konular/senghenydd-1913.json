@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Britain's Worst Mining Disaster Began With a Spark",
+  "kaynaklar": [
+    {
+      "ad": "senghenydd-1.jpg",
+      "wikimedia": "ILN – Senghenydd Colliery Disaster 3.jpeg"
+    },
+    {
+      "ad": "senghenydd-2.jpg",
+      "wikimedia": "ILN – Senghenydd Colliery Disaster 4.jpeg"
+    },
+    {
+      "ad": "senghenydd-3.jpg",
+      "wikimedia": "Senghenydd pit disaster 16.jpg"
+    },
+    {
+      "ad": "senghenydd-4.jpg",
+      "wikimedia": "Senghenydd pit disaster 18.jpg"
+    },
+    {
+      "ad": "senghenydd-5.jpg",
+      "wikimedia": "Cardiff mine disaster LCCN2014694503.jpg"
+    },
+    {
+      "ad": "senghenydd-6.jpg",
+      "wikimedia": "Mijnramp, SFA022808874.jpg"
+    },
+    {
+      "ad": "senghenydd-7.jpg",
+      "wikimedia": "Mijnramp, SFA022808875.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A coal mine in the Welsh village of Senghenydd exploded.",
+      "kaynak": "Footage/senghenydd-1.jpg"
+    },
+    {
+      "metin": "Fire and poisonous gas spread through the tunnels, killing four hundred thirty nine miners.",
+      "kaynak": "Footage/senghenydd-2.jpg"
+    },
+    {
+      "metin": "It remains Britain's worst mining disaster.",
+      "kaynak": "Footage/senghenydd-3.jpg"
+    },
+    {
+      "metin": "Methane had built up in the workings.",
+      "kaynak": "Footage/senghenydd-4.jpg"
+    },
+    {
+      "metin": "It was probably ignited by sparks from electrical signalling equipment.",
+      "kaynak": "Footage/senghenydd-5.jpg"
+    },
+    {
+      "metin": "The blast lifted coal dust, which exploded too.",
+      "kaynak": "Footage/senghenydd-6.jpg"
+    },
+    {
+      "metin": "The same mine had exploded twelve years earlier.",
+      "kaynak": "Footage/senghenydd-7.jpg"
+    },
+    {
+      "metin": "Its owners were prosecuted, but fined only a small sum.",
+      "kaynak": "Footage/senghenydd-1.jpg"
+    }
+  ],
+  "aciklama": "Senghenydd exploded, killing hundreds of miners. The cause: firedamp ignition that set off a coal dust explosion.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Senghenydd",
+    "1913",
+    "coal mine",
+    "engineering failure"
+  ],
+  "hook": "It had exploded before",
+  "soru": "What is a fair fine?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Universal Colliery",
+    "kisa": "Senghenydd",
+    "nesne": "Coal mine",
+    "yil": 1913,
+    "sonuc": "exploded, killing hundreds of miners",
+    "tetik": "methane ignited, probably by sparks from electrical signalling gear",
+    "mekanizma": "firedamp ignition that set off a coal dust explosion",
+    "sayi": "439 MINERS",
+    "ders": "the mine's owners were prosecuted for safety breaches and mine safety law was enforced more strictly",
+    "zincir": [
+      "METHANE-RICH SEAM",
+      "ELECTRICAL SPARK",
+      "FIREDAMP IGNITES",
+      "COAL DUST EXPLOSION",
+      "FIRE AND AFTERDAMP"
+    ],
+    "zaman": [],
+    "yanilgi": "The mine had exploded before, in 1901. The same hazards were still there twelve years later.",
+    "tartisma": "The owners were fined a trivial sum. What does a small fine say about the value of safety?",
+    "basliklar": [
+      "Britain's Worst Mining Disaster Began With a Spark",
+      "Why the Senghenydd Colliery Exploded",
+      "The Mine That Exploded Twice"
+    ],
+    "kapak": [
+      "439 MINERS",
+      "EXPLODED TWICE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Senghenydd colliery disaster",
+        "url": "https://en.wikipedia.org/wiki/Senghenydd_colliery_disaster"
+      },
+      {
+        "ad": "Government source — abervalleyheritage (cited by Wikipedia)",
+        "url": "http://your.caerphilly.gov.uk/abervalleyheritage"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Senghenydd_colliery_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "ILN – Senghenydd Colliery Disaster 3.jpeg [Public domain]",
+      "ILN – Senghenydd Colliery Disaster 4.jpeg [Public domain]",
+      "Senghenydd pit disaster 16.jpg [CC0]",
+      "Senghenydd pit disaster 18.jpg [CC0]",
+      "Cardiff mine disaster LCCN2014694503.jpg [Public domain]",
+      "Mijnramp, SFA022808874.jpg [Public domain]",
+      "Mijnramp, SFA022808875.jpg [Public domain]"
+    ]
+  }
+}

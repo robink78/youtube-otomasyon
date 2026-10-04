@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Offshore Blowout That Gushed Oil for Nine Months",
+  "kaynaklar": [
+    {
+      "ad": "ixtoc-i-1.jpg",
+      "wikimedia": "Line5134 - Flickr - NOAA Photo Library.jpg"
+    },
+    {
+      "ad": "ixtoc-i-2.jpg",
+      "wikimedia": "IXTOC I oil well blowout 2.jpg"
+    },
+    {
+      "ad": "ixtoc-i-3.jpg",
+      "wikimedia": "Line5136 - Flickr - NOAA Photo Library.jpg"
+    },
+    {
+      "ad": "ixtoc-i-4.jpg",
+      "wikimedia": "IXTOC I oil well blowout.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An offshore oil well in the Gulf of Mexico blew out.",
+      "kaynak": "Footage/ixtoc-i-1.jpg"
+    },
+    {
+      "metin": "Oil and gas exploded upward, and the rig caught fire and sank.",
+      "kaynak": "Footage/ixtoc-i-2.jpg"
+    },
+    {
+      "metin": "The drilling mud that balanced the well's pressure was lost.",
+      "kaynak": "Footage/ixtoc-i-3.jpg"
+    },
+    {
+      "metin": "Oil and gas surged up the well.",
+      "kaynak": "Footage/ixtoc-i-4.jpg"
+    },
+    {
+      "metin": "The blowout preventer couldn't seal it.",
+      "kaynak": "Footage/ixtoc-i-1.jpg"
+    },
+    {
+      "metin": "The well kept gushing oil for months.",
+      "kaynak": "Footage/ixtoc-i-2.jpg"
+    },
+    {
+      "metin": "Relief wells finally stopped it.",
+      "kaynak": "Footage/ixtoc-i-3.jpg"
+    },
+    {
+      "metin": "Blowout prevention practices were reviewed afterward.",
+      "kaynak": "Footage/ixtoc-i-4.jpg"
+    }
+  ],
+  "aciklama": "Ixtoc I blew out and spilled oil for months. The cause: well blowout after loss of mud pressure, with the blowout preventer unable to seal.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Ixtoc I",
+    "1979",
+    "oil well",
+    "engineering failure"
+  ],
+  "hook": "It flowed for months",
+  "soru": "Relief wells first?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Ixtoc I well",
+    "kisa": "Ixtoc I",
+    "nesne": "Oil well",
+    "yil": 1979,
+    "sonuc": "blew out and spilled oil for months",
+    "tetik": "loss of drilling mud circulation",
+    "mekanizma": "well blowout after loss of mud pressure, with the blowout preventer unable to seal",
+    "sayi": "NINE MONTHS",
+    "ders": "offshore blowout prevention practices were reviewed internationally",
+    "zincir": [
+      "DRILLING MUD LOST INTO ROCK",
+      "PRESSURE BALANCE LOST",
+      "OIL AND GAS SURGE UP",
+      "BLOWOUT PREVENTER FAILS",
+      "RIG CATCHES FIRE AND SINKS"
+    ],
+    "zaman": [],
+    "yanilgi": "The spill didn't stop when the rig sank. The well kept flowing for months.",
+    "tartisma": "Relief wells took months to drill. Should they be prepared before drilling starts?",
+    "basliklar": [
+      "The Offshore Blowout That Gushed Oil for Nine Months",
+      "Why the Ixtoc I Well Blew Out",
+      "The Blowout That Gushed for Nine Months"
+    ],
+    "kapak": [
+      "BLOWOUT",
+      "NINE MONTHS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Ixtoc I oil spill",
+        "url": "https://en.wikipedia.org/wiki/Ixtoc_I_oil_spill"
+      },
+      {
+        "ad": "Government source — 3930 (cited by Wikipedia)",
+        "url": "http://www.gomr.mms.gov/PI/PDFImages/ESPIS/3/3930.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-12",
+    "wiki": "Ixtoc_I_oil_spill",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Line5134 - Flickr - NOAA Photo Library.jpg [Public domain]",
+      "IXTOC I oil well blowout 2.jpg [Public domain]",
+      "Line5136 - Flickr - NOAA Photo Library.jpg [Public domain]",
+      "IXTOC I oil well blowout.jpg [Public domain]"
+    ]
+  }
+}

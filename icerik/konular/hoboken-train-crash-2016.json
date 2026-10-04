@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Engineer's Sleep Disorder Nobody Diagnosed",
+  "kaynaklar": [
+    {
+      "ad": "hoboken-train-crash-1.jpg",
+      "wikimedia": "Bella Dinh-Zarr and NTSB investigators in Hoboken, September 2016.jpg"
+    },
+    {
+      "ad": "hoboken-train-crash-2.jpg",
+      "wikimedia": "Damaged Controlling Cab Car (30190652262).jpg"
+    },
+    {
+      "ad": "hoboken-train-crash-3.jpg",
+      "wikimedia": "Hoboken terminal damage, October 2016.jpg"
+    },
+    {
+      "ad": "hoboken-train-crash-4.jpg",
+      "wikimedia": "NJT 6036 after Hoboken crash, October 2016.jpg"
+    },
+    {
+      "ad": "hoboken-train-crash-5.jpg",
+      "wikimedia": "NJT 6036 against Hoboken Terminal wall after crash, October 2016.jpg"
+    },
+    {
+      "ad": "hoboken-train-crash-6.jpg",
+      "wikimedia": "10.1.16HobokenTerminalByLuigiNovi1.jpg"
+    },
+    {
+      "ad": "hoboken-train-crash-7.jpg",
+      "wikimedia": "10.1.16HobokenTerminalByLuigiNovi2.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A New Jersey Transit train crashed through the end of the tracks at Hoboken.",
+      "kaynak": "Footage/hoboken-train-crash-1.jpg"
+    },
+    {
+      "metin": "It smashed into the concourse, and falling debris killed a woman.",
+      "kaynak": "Footage/hoboken-train-crash-2.jpg"
+    },
+    {
+      "metin": "The train entered the terminal too fast.",
+      "kaynak": "Footage/hoboken-train-crash-3.jpg"
+    },
+    {
+      "metin": "It went over the bumper block.",
+      "kaynak": "Footage/hoboken-train-crash-4.jpg"
+    },
+    {
+      "metin": "The engineer had severe sleep apnea.",
+      "kaynak": "Footage/hoboken-train-crash-5.jpg"
+    },
+    {
+      "metin": "It wasn't diagnosed until after the crash.",
+      "kaynak": "Footage/hoboken-train-crash-6.jpg"
+    },
+    {
+      "metin": "A medical exam had cleared him months before.",
+      "kaynak": "Footage/hoboken-train-crash-7.jpg"
+    },
+    {
+      "metin": "Sleep apnea screening came under scrutiny.",
+      "kaynak": "Footage/hoboken-train-crash-1.jpg"
+    }
+  ],
+  "aciklama": "Hoboken sent a train through the end of the line at Hoboken. The cause: a train entering a terminal too fast and overrunning the bumper block.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Hoboken",
+    "2016",
+    "bumper block",
+    "engineering failure"
+  ],
+  "hook": "He had a hidden sleep disorder",
+  "soru": "How do you detect fatigue?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Hoboken train crash",
+    "kisa": "Hoboken",
+    "nesne": "Bumper block",
+    "yil": 2016,
+    "sonuc": "sent a train through the end of the line at Hoboken",
+    "tetik": "an engineer with undiagnosed sleep apnea",
+    "mekanizma": "a train entering a terminal too fast and overrunning the bumper block",
+    "sayi": "ONE DIED",
+    "ders": "sleep apnea screening for rail workers came under scrutiny",
+    "zincir": [
+      "UNDIAGNOSED SLEEP APNEA",
+      "CLEARED BY EXAM",
+      "TRAIN ENTERS TOO FAST",
+      "OVER THE BUMPER",
+      "INTO CONCOURSE"
+    ],
+    "zaman": [],
+    "yanilgi": "The engineer had passed his medical exam. His condition wasn't diagnosed until after.",
+    "tartisma": "A screening program existed but missed him. How do you detect invisible fatigue?",
+    "basliklar": [
+      "The Engineer's Sleep Disorder Nobody Diagnosed",
+      "Why the Hoboken Train Crashed Into the Station",
+      "The Undiagnosed Sleep Disorder"
+    ],
+    "kapak": [
+      "SLEEP APNEA",
+      "OVERRUN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hoboken train crash",
+        "url": "https://en.wikipedia.org/wiki/Hoboken_train_crash"
+      },
+      {
+        "ad": "NTSB — RAB1801 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/RAB1801.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "Hoboken_train_crash",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Bella Dinh-Zarr and NTSB investigators in Hoboken, September 2016.jpg [Public domain]",
+      "Damaged Controlling Cab Car (30190652262).jpg [Public domain]",
+      "Hoboken terminal damage, October 2016.jpg [Public domain]",
+      "NJT 6036 after Hoboken crash, October 2016.jpg [Public domain]",
+      "NJT 6036 against Hoboken Terminal wall after crash, October 2016.jpg [Public domain]",
+      "10.1.16HobokenTerminalByLuigiNovi1.jpg [CC BY 4.0]",
+      "10.1.16HobokenTerminalByLuigiNovi2.jpg [CC BY 4.0]"
+    ]
+  }
+}

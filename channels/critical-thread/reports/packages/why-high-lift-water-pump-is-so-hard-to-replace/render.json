@@ -1,0 +1,53 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/critical-thread/state/production/why-high-lift-water-pump-is-so-hard-to-replace/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "claimDurations": [
+      1.92,
+      3.192,
+      3.624,
+      3.84,
+      4.872,
+      3.168,
+      4.296
+    ],
+    "durationSeconds": 24.853,
+    "width": null,
+    "height": null,
+    "hasAudio": true
+  },
+  "video": {
+    "file": "channels/critical-thread/state/production/why-high-lift-water-pump-is-so-hard-to-replace/why-high-lift-water-pump-is-so-hard-to-replace.mp4",
+    "captionsBurned": true,
+    "visualChanges": 12,
+    "illustrationLabel": true,
+    "scenarioSpecific": true,
+    "segmentSeconds": [
+      1.319,
+      0.901,
+      1.348,
+      1.932,
+      1.784,
+      2.387,
+      1.646,
+      3.201,
+      3.225,
+      2.641,
+      3.478,
+      0.991
+    ],
+    "durationSeconds": 24.853,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/critical-thread/state/production/why-high-lift-water-pump-is-so-hard-to-replace/thumbnail.jpg",
+    "bytes": 62520,
+    "scenarioSpecific": true,
+    "textWords": 2
+  }
+}

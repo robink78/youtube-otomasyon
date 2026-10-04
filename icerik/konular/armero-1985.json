@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Town Buried by a Volcano Everyone Had Mapped",
+  "kaynaklar": [
+    {
+      "ad": "armero-1.jpg",
+      "wikimedia": "Armero Mudflow and ruins.jpg"
+    },
+    {
+      "ad": "armero-2.jpg",
+      "wikimedia": "Armero aftermath Marso.jpg"
+    },
+    {
+      "ad": "armero-3.jpg",
+      "wikimedia": "A member of the Royal Air Force refuels a helicopter during relief efforts for the victims of the Nevado del Ruiz volcano eruption - DPLA - 73e04711888cb163b85082bf3067a95b.jpeg"
+    },
+    {
+      "ad": "armero-4.jpg",
+      "wikimedia": "Armero aftermath USGS.jpg"
+    },
+    {
+      "ad": "armero-5.png",
+      "wikimedia": "Armerodisaster.png"
+    },
+    {
+      "ad": "armero-6.jpg",
+      "wikimedia": "Nevado del Ruiz summit 1985 - Marso.jpg"
+    },
+    {
+      "ad": "armero-7.jpg",
+      "wikimedia": "Armero Lahar.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At night, volcanic mudflows buried the Colombian town of Armero.",
+      "kaynak": "Footage/armero-1.jpg"
+    },
+    {
+      "metin": "More than twenty three thousand people were killed.",
+      "kaynak": "Footage/armero-2.jpg"
+    },
+    {
+      "metin": "The volcano had shown signs of unrest for months.",
+      "kaynak": "Footage/armero-3.jpg"
+    },
+    {
+      "metin": "A hazard map showed Armero in the danger zone.",
+      "kaynak": "Footage/armero-4.jpg"
+    },
+    {
+      "metin": "The eruption melted part of the ice cap on the summit.",
+      "kaynak": "Footage/armero-5.png"
+    },
+    {
+      "metin": "Mudflows raced down river valleys toward the town.",
+      "kaynak": "Footage/armero-6.jpg"
+    },
+    {
+      "metin": "Residents had been told to stay calm.",
+      "kaynak": "Footage/armero-7.jpg"
+    },
+    {
+      "metin": "Colombia expanded volcano monitoring and lahar warnings.",
+      "kaynak": "Footage/armero-1.jpg"
+    }
+  ],
+  "aciklama": "Armero was buried by volcanic mudflows. The cause: lahars from melted glacier ice racing down river valleys to the town.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Armero",
+    "1985",
+    "town",
+    "engineering failure"
+  ],
+  "hook": "The danger was on the map",
+  "soru": "What makes a warning believable?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the town of Armero",
+    "kisa": "Armero",
+    "nesne": "Town",
+    "yil": 1985,
+    "sonuc": "was buried by volcanic mudflows",
+    "tetik": "an eruption melting the volcano's ice cap",
+    "mekanizma": "lahars from melted glacier ice racing down river valleys to the town",
+    "sayi": "23,000 DIED",
+    "ders": "volcano monitoring and lahar warning systems were expanded in Colombia",
+    "zincir": [
+      "VOLCANO SHOWS UNREST",
+      "HAZARD MAP SHOWS ARMERO AT RISK",
+      "ERUPTION MELTS ICE",
+      "LAHARS RACE DOWNHILL",
+      "TOWN BURIED"
+    ],
+    "zaman": [],
+    "yanilgi": "The disaster was predicted. A hazard map showed Armero was directly in the lahars' path.",
+    "tartisma": "Residents were told to stay calm hours before the lahars arrived. What makes a warning believable?",
+    "basliklar": [
+      "The Town Buried by a Volcano Everyone Had Mapped",
+      "Why the Armero Tragedy Happened",
+      "The Warning That Came Too Late"
+    ],
+    "kapak": [
+      "IT WAS MAPPED",
+      "23,000 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Armero tragedy",
+        "url": "https://en.wikipedia.org/wiki/Armero_tragedy"
+      },
+      {
+        "ad": "Government source — DireccióndePrevenciónyAtencióndeDesastres (cited by Wikipedia)",
+        "url": "http://www.dnp.gov.co/PortalWeb/Programas/ViviendaAguaDesarrolloUrbanoAmbiente/Gesti%C3%B3ndelRiesgo/Direcci%C3%B3ndePrevenci%C3%B3nyAtenci%C3%B3ndeDesastres.aspx"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-10",
+    "wiki": "Armero_tragedy",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Armero Mudflow and ruins.jpg [Public domain]",
+      "Armero aftermath Marso.jpg [Public domain]",
+      "A member of the Royal Air Force refuels a helicopter during relief efforts for the victims of the Nevado del Ruiz volcano eruption - DPLA - 73e04711888cb163b85082bf3067a95b.jpeg [Public domain]",
+      "Armero aftermath USGS.jpg [Public domain]",
+      "Armerodisaster.png [Public domain]",
+      "Nevado del Ruiz summit 1985 - Marso.jpg [Public domain]",
+      "Armero Lahar.jpg [Public domain]"
+    ]
+  }
+}

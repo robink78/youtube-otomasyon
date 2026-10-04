@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The 'Absolutely Fireproof' Theatre That Became a Trap",
+  "kaynaklar": [
+    {
+      "ad": "iroquois-theatre-1.jpg",
+      "wikimedia": "Iroquois Theatre fire - DPLA - c9e2f3b69954059bcfebf35bf12d84b9.jpg"
+    },
+    {
+      "ad": "iroquois-theatre-2.jpg",
+      "wikimedia": "Panorama of the Iroquois Theatre, after the fire.jpg"
+    },
+    {
+      "ad": "iroquois-theatre-3.jpg",
+      "wikimedia": "Partial fatality list for the Iroquois Theatre fire (1903).jpg"
+    },
+    {
+      "ad": "iroquois-theatre-4.png",
+      "wikimedia": "Partial fatality list for the Iroquois Theatre fire (1903).png"
+    },
+    {
+      "ad": "iroquois-theatre-5.jpg",
+      "wikimedia": "IroquoisTheater.jpg"
+    },
+    {
+      "ad": "iroquois-theatre-6.jpg",
+      "wikimedia": "Chicago-mayor-carter-harrison-jr Iroquois Theatre fire.jpg"
+    },
+    {
+      "ad": "iroquois-theatre-7.jpg",
+      "wikimedia": "Death Alley (20019323799).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Fire broke out on stage during a packed afternoon show in Chicago.",
+      "kaynak": "Footage/iroquois-theatre-1.jpg"
+    },
+    {
+      "metin": "Within minutes, hundreds of people were dead, many of them children.",
+      "kaynak": "Footage/iroquois-theatre-2.jpg"
+    },
+    {
+      "metin": "The theatre was advertised as absolutely fireproof.",
+      "kaynak": "Footage/iroquois-theatre-3.jpg"
+    },
+    {
+      "metin": "A stage light set a curtain on fire.",
+      "kaynak": "Footage/iroquois-theatre-4.png"
+    },
+    {
+      "metin": "The safety curtain jammed partway down.",
+      "kaynak": "Footage/iroquois-theatre-5.jpg"
+    },
+    {
+      "metin": "Some exits were locked or hidden, and doors opened inward.",
+      "kaynak": "Footage/iroquois-theatre-6.jpg"
+    },
+    {
+      "metin": "The crowd was trapped against them.",
+      "kaynak": "Footage/iroquois-theatre-7.jpg"
+    },
+    {
+      "metin": "Exit doors afterward had to open outward with panic bars.",
+      "kaynak": "Footage/iroquois-theatre-1.jpg"
+    }
+  ],
+  "aciklama": "Iroquois Theatre burned during a packed matinee. The cause: a jammed fire curtain, blocked or confusing exits and doors that opened inward.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Iroquois Theatre",
+    "1903",
+    "theatre",
+    "engineering failure"
+  ],
+  "hook": "Advertised as fireproof",
+  "soru": "Who signs off on an opening?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Iroquois Theatre",
+    "kisa": "Iroquois Theatre",
+    "nesne": "Theatre",
+    "yil": 1903,
+    "sonuc": "burned during a packed matinee",
+    "tetik": "a stage light igniting a curtain",
+    "mekanizma": "a jammed fire curtain, blocked or confusing exits and doors that opened inward",
+    "sayi": "FIREPROOF",
+    "ders": "exit doors had to open outward and carry panic bars",
+    "zincir": [
+      "STAGE LIGHT SPARKS",
+      "CURTAIN CATCHES FIRE",
+      "SAFETY CURTAIN JAMS",
+      "EXITS LOCKED OR HIDDEN",
+      "CROWD CRUSH AT DOORS"
+    ],
+    "zaman": [],
+    "yanilgi": "The building was advertised as absolutely fireproof. The structure survived; hundreds of people didn't.",
+    "tartisma": "The theatre opened before its safety equipment was finished. Who signs off on an opening?",
+    "basliklar": [
+      "The 'Absolutely Fireproof' Theatre That Became a Trap",
+      "Why the Iroquois Theatre Fire Was So Deadly",
+      "The Fireproof Theatre That Trapped Its Audience"
+    ],
+    "kapak": [
+      "FIREPROOF",
+      "DOORS OPENED IN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Iroquois Theatre fire",
+        "url": "https://en.wikipedia.org/wiki/Iroquois_Theatre_fire"
+      },
+      {
+        "ad": "Government source — #words=CHICAGO+Chicago+Fire+Iroquois+theater+Theater+theaters+Theaters (cited by Wikipedia)",
+        "url": "https://chroniclingamerica.loc.gov/lccn/sn84025828/1904-01-09/ed-1/seq-1/#words=CHICAGO+Chicago+Fire+Iroquois+theater+Theater+theaters+Theaters"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "Iroquois_Theatre_fire",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Iroquois Theatre fire - DPLA - c9e2f3b69954059bcfebf35bf12d84b9.jpg [Public domain]",
+      "Panorama of the Iroquois Theatre, after the fire.jpg [Public domain]",
+      "Partial fatality list for the Iroquois Theatre fire (1903).jpg [Public domain]",
+      "Partial fatality list for the Iroquois Theatre fire (1903).png [Public domain]",
+      "IroquoisTheater.jpg [Public domain]",
+      "Chicago-mayor-carter-harrison-jr Iroquois Theatre fire.jpg [Public domain]",
+      "Death Alley (20019323799).jpg [CC BY 2.0]"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "bikini-baker",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.428Z",
+  "ekranHook": "It poisoned a paradise",
+  "mevcut": {
+    "puan": 85,
+    "pencereler": {
+      "0-5": "This was the moment the atomic age poisoned a paradise. The year is 1946,",
+      "5-12": "at Bikini Atoll in the middle of the Pacific. The United States moves the islanders out, just for a",
+      "12-20": "little while, they promise. Then it detonates an atomic bomb underwater, beneath a fleet of warships. A column of radioactive water, two",
+      "20-30": "million tons heavy, climbs into the sky. It crashes back down and coats every ship in deadly radiation. The contamination is so bad the fleet can never be"
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "The Baker Test contaminated an entire fleet."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only an underwater atomic detonation."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could an underwater atomic detonation do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is radioactive base surge and spray — and it is why underwater nuclear tests proved far dirtier than airbursts."
+      }
+    ],
+    "metin": "The Baker Test contaminated an entire fleet. It took only an underwater atomic detonation. So how could an underwater atomic detonation do this? The answer is radioactive base surge and spray — and it is why underwater nuclear tests proved far dirtier than airbursts.",
+    "puan": 75
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

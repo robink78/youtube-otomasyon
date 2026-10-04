@@ -1,0 +1,36 @@
+{
+  "_comment": "ImpossibleBrief growth overrides: curiosity, scientific surprise and visual imagination dominate; certainty must never exceed the evidence.",
+  "identity": "cinematic science explainer",
+  "selection": { "_comment": "Exploration stays inside researched topics (A/B). Unresearched records have no sourced facts or narration and fall back to templated scripts.", "exploreBuckets": ["A", "B"] },
+  "lexicon": ["gravity", "moon", "sun", "earth", "planet", "orbit", "light", "physics", "atmosphere", "star", "black hole", "speed", "energy", "ocean", "tide", "rotation", "mass", "temperature", "universe", "space", "science", "radiation", "magnetic"],
+  "topic": {
+    "weights": {
+      "TopicDemandScore": 0.9, "CuriosityScore": 1.5, "HookPotentialScore": 1.3, "VisualImpactScore": 1.2,
+      "EmotionalImpactScore": 0.9, "StoryCompressionScore": 1.1, "RewatchPotentialScore": 0.8, "SharePotentialScore": 1,
+      "CommentPotentialScore": 0.8, "SubscriberConversionPotential": 0.8, "NoveltyScore": 1, "AudienceFitScore": 0.9,
+      "SourceQualityScore": 1.1, "ChannelFitScore": 0.9
+    },
+    "priorityClusters": ["SPACE", "PHYSICS", "EARTH", "EXTREME SCIENCE", "FUTURE TECHNOLOGY"]
+  },
+  "hooks": { "preferredFamilies": ["impossible_question", "impossible_sounding_fact", "countdown", "misconception_reversal", "shocking_consequence", "contradiction"] },
+  "story": {
+    "shorts": ["IMPOSSIBLE_QUESTION", "ASSUMPTION", "FIRST_EFFECT", "SECOND_ORDER_EFFECT", "SCIENTIFIC_PAYOFF"],
+    "longform": ["COLD_OPEN", "IMPOSSIBLE_QUESTION", "INITIAL_CONDITIONS", "FIRST_EFFECT", "SECOND_ORDER_EFFECT", "SYSTEM_WIDE_CONSEQUENCE", "SCIENCE_EXPLANATION", "LIMITS_UNCERTAINTIES", "FINAL_SCIENTIFIC_PAYOFF"]
+  },
+  "engagement": {
+    "ctas": ["What scenario should we test next?", "Which impossible question should we test next?"],
+    "longCtas": ["The full scenario gets much stranger — linked episode below.", "The complete scientific breakdown is in the linked episode."],
+    "commentPrompt": "What scenario should we test next?"
+  },
+  "visualIntegrity": {
+    "classes": ["OFFICIAL_SCIENTIFIC_MEDIA", "DIAGRAM", "SIMULATION", "ILLUSTRATION", "AI_GENERATED", "LICENSED_STOCK"],
+    "requireLabel": ["SIMULATION", "ILLUSTRATION", "AI_GENERATED"],
+    "neverPresentAsObservation": ["SIMULATION", "ILLUSTRATION", "AI_GENERATED"]
+  },
+  "firstSeconds": { "soundCue": "sub-bass swell resolving on the first cut" },
+  "longform": {
+    "potentialWeights": { "EngineeringOrScientificDepth": 1.3, "ViewerJourneyPotential": 1 },
+    "shortCta": "The full scenario gets much stranger — linked episode below."
+  },
+  "captions": { "_comment": "Cinematic science: sentence case, soft outline, cyan numbers.", "font": "DejaVu Sans", "uppercase": false, "outline": 4, "highlightColor": "&HFFD200&" }
+}

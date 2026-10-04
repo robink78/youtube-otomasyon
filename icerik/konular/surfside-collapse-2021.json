@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Florida Condo That Collapsed in the Night",
+  "kaynaklar": [
+    {
+      "ad": "surfside-collapse-1.jpg",
+      "wikimedia": "Remains of the Collapsed Florida Surfside Condo (2021-10-04).jpg"
+    },
+    {
+      "ad": "surfside-collapse-2.jpg",
+      "wikimedia": "Surfside condominium collapse photo from Miami-Dade Fire Rescue 1.jpg"
+    },
+    {
+      "ad": "surfside-collapse-3.jpg",
+      "wikimedia": "Surfside condominium collapse photo from Miami-Dade Fire Rescue 2.jpg"
+    },
+    {
+      "ad": "surfside-collapse-4.jpg",
+      "wikimedia": "Dog and handler - Surfside condominium collapse photo from Miami-Dade Fire Rescue 6 (cropped).jpg"
+    },
+    {
+      "ad": "surfside-collapse-5.jpg",
+      "wikimedia": "Dogs and Handlers at Surfside condominium collapse photo from Miami-Dade Fire Rescue 5 (cropped).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In the middle of the night, part of a Florida condo tower collapsed.",
+      "kaynak": "Footage/surfside-collapse-1.jpg"
+    },
+    {
+      "metin": "Residents were asleep, and ninety eight people were killed.",
+      "kaynak": "Footage/surfside-collapse-2.jpg"
+    },
+    {
+      "metin": "Investigators focused on the pool deck next to the tower.",
+      "kaynak": "Footage/surfside-collapse-3.jpg"
+    },
+    {
+      "metin": "Water had damaged the concrete and steel beneath it for years.",
+      "kaynak": "Footage/surfside-collapse-4.jpg"
+    },
+    {
+      "metin": "An engineer's report years earlier warned of major damage.",
+      "kaynak": "Footage/surfside-collapse-5.jpg"
+    },
+    {
+      "metin": "Repairs were debated and delayed.",
+      "kaynak": "Footage/surfside-collapse-1.jpg"
+    },
+    {
+      "metin": "The final investigation into the exact sequence continues.",
+      "kaynak": "Footage/surfside-collapse-2.jpg"
+    },
+    {
+      "metin": "Florida now requires older condos to be structurally recertified.",
+      "kaynak": "Footage/surfside-collapse-3.jpg"
+    }
+  ],
+  "aciklama": "Surfside partially collapsed in the middle of the night. The cause: investigations focus on deteriorated concrete and reinforcement at the pool deck and its connections.\n\n#shorts #engineering #structuralengineering",
+  "etiketler": [
+    "Surfside",
+    "2021",
+    "condominium",
+    "engineering failure"
+  ],
+  "hook": "The warning came years earlier",
+  "soru": "When can't repairs wait?",
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "vaka",
+    "ad": "Champlain Towers South",
+    "kisa": "Surfside",
+    "nesne": "Condominium",
+    "yil": 2021,
+    "sonuc": "partially collapsed in the middle of the night",
+    "tetik": "long-term structural damage around the pool deck",
+    "mekanizma": "investigations focus on deteriorated concrete and reinforcement at the pool deck and its connections",
+    "sayi": "98 DIED",
+    "ders": "Florida required regular structural recertification of older condominiums",
+    "zincir": [
+      "WATER DAMAGE UNDER POOL DECK",
+      "CONCRETE AND STEEL DETERIORATE",
+      "REPAIRS DELAYED",
+      "DECK FAILS",
+      "TOWER SECTION COLLAPSES"
+    ],
+    "zaman": [],
+    "yanilgi": "The damage was not unknown. An engineer's report years earlier warned of major structural damage below the pool deck.",
+    "tartisma": "Residents were debating the cost of repairs when it fell. Who decides when repairs can't wait?",
+    "basliklar": [
+      "The Florida Condo That Collapsed in the Night",
+      "Why the Surfside Condo Collapsed",
+      "The Warning Report Years Before"
+    ],
+    "kapak": [
+      "IN THE NIGHT",
+      "98 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Surfside condominium collapse",
+        "url": "https://en.wikipedia.org/wiki/Surfside_condominium_collapse"
+      },
+      {
+        "ad": "Government source — 8777 collins ave structural field survey report.pdf?sfvrsn=882a1194 2 (cited by Wikipedia)",
+        "url": "https://www.townofsurfsidefl.gov/docs/default-source/default-document-library/town-clerk-documents/champlain-towers-south-public-records/8777-collins-ave---structural-field-survey-report.pdf?sfvrsn=882a1194_2"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Surfside_condominium_collapse",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Remains of the Collapsed Florida Surfside Condo (2021-10-04).jpg [CC BY 2.0]",
+      "Surfside condominium collapse photo from Miami-Dade Fire Rescue 1.jpg [Public domain]",
+      "Surfside condominium collapse photo from Miami-Dade Fire Rescue 2.jpg [Public domain]",
+      "Dog and handler - Surfside condominium collapse photo from Miami-Dade Fire Rescue 6 (cropped).jpg [Public domain]",
+      "Dogs and Handlers at Surfside condominium collapse photo from Miami-Dade Fire Rescue 5 (cropped).jpg [Public domain]"
+    ]
+  }
+}

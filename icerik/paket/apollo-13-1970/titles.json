@@ -1,0 +1,673 @@
+{
+  "slug": "apollo-13-1970",
+  "format": "short",
+  "olusturuldu": "2026-09-29T14:12:06.118Z",
+  "secilen": "28 Volts vs 65: Apollo 13's Hidden Flaw",
+  "secilenPuan": 54.5,
+  "mevcutPuan": 48,
+  "sablonOnerisi": null,
+  "adaySayisi": 25,
+  "adaylar": [
+    {
+      "baslik": "The Real Reason Apollo 13 Lost an Oxygen Tank 200,000 Miles From Earth",
+      "kalip": "real-reason",
+      "toplam": 62.5,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 6,
+        "tension": 3,
+        "consequence": 8,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (70 chars)"
+      ],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "Apollo 13 Didn't Just Fail — It Lost an Oxygen Tank 200,000 Miles From Earth",
+      "kalip": "two-beat",
+      "toplam": 59.6,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 6,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 6.9
+      },
+      "similarity": {
+        "max": 0.08,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.91,
+      "notes": [
+        "long for Shorts feed (76 chars)",
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "template:didnt-just-fail"
+    },
+    {
+      "baslik": "What Engineers Learned From Apollo 13",
+      "kalip": "what",
+      "toplam": 59.5,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:lesson"
+    },
+    {
+      "baslik": "Inside Apollo 13: The Failure Chain",
+      "kalip": "label-colon",
+      "toplam": 58.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:inside-chain"
+    },
+    {
+      "baslik": "Apollo 13: What Failed First",
+      "kalip": "label-colon",
+      "toplam": 58.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:failed-first"
+    },
+    {
+      "baslik": "What Really Destroyed Apollo 13",
+      "kalip": "what-really",
+      "toplam": 58,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "How Water Destroyed a $1.4 Billion Stealth Bomber"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-really"
+    },
+    {
+      "baslik": "1970: Apollo 13 Lost an Oxygen Tank 200,000 Miles From Earth",
+      "kalip": "label-colon",
+      "toplam": 57.5,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 8,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.09,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "Apollo 13: The Engineering Behind the Failure",
+      "kalip": "label-colon",
+      "toplam": 57.5,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:engineering-behind"
+    },
+    {
+      "baslik": "Apollo 13: 5 Failures in Sequence",
+      "kalip": "label-colon",
+      "toplam": 54.6,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:failure-count"
+    },
+    {
+      "baslik": "28 Volts vs 65: Apollo 13's Hidden Flaw",
+      "kalip": "label-colon",
+      "toplam": 54.5,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "How Apollo 13 Became Lost an Oxygen Tank 200,000 Miles From Earth",
+      "kalip": "how",
+      "toplam": 52.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 8,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.08,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.9,
+      "notes": [
+        "long for Shorts feed (65 chars)",
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-became"
+    },
+    {
+      "baslik": "The First Failure Inside Apollo 13",
+      "kalip": "statement",
+      "toplam": 48.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.23,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:first-failure"
+    },
+    {
+      "baslik": "The Wrong Voltage That Nearly Killed Apollo 13",
+      "kalip": "the-x-that",
+      "toplam": 48,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.21,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "28 V vs 65 V: The Scale of Apollo 13",
+      "kalip": "label-colon",
+      "toplam": 48,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:number-scale"
+    },
+    {
+      "baslik": "Why Apollo 13's Oxygen Tank Exploded",
+      "kalip": "why",
+      "toplam": 46.1,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Why Rockets Explode on the Launch Pad"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The Ground Test That Doomed Apollo 13",
+      "kalip": "the-x-that",
+      "toplam": 45.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.38,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Apollo 13: How Thermostat Switches Welded Shut by Overvoltage, Overheating the Tank's Wiring Insulation Took Over",
+      "kalip": "label-colon",
+      "toplam": 45.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 2,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 10,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.12,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.92,
+      "notes": [
+        "long for Shorts feed (113 chars)",
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:mechanism-took-over"
+    },
+    {
+      "baslik": "How Heater Switches Rated for 28 V Run on 65 V Brought Down Apollo 13",
+      "kalip": "how",
+      "toplam": 43.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 6,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Munich 1958: The Slush That Brought Down Manchester United's Plane"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.89,
+      "notes": [
+        "long for Shorts feed (69 chars)",
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-trigger"
+    },
+    {
+      "baslik": "Why Apollo 13 Failed",
+      "kalip": "why",
+      "toplam": 42.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 7,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "template:plain-why"
+    },
+    {
+      "baslik": "28 V vs 65 V. That's All It Took",
+      "kalip": "label-colon",
+      "toplam": 37.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.08,
+        "closest": "208 Seconds: How Geese Took Out Both Engines of Flight 1549"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:number-all-it-took"
+    },
+    {
+      "baslik": "Apollo 13 Explained",
+      "kalip": "explained",
+      "toplam": 37,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 7,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    },
+    {
+      "baslik": "The Service Module Oxygen Tank That Lost an Oxygen Tank 200,000 Miles From Earth",
+      "kalip": "statement",
+      "toplam": 36.4,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 6,
+        "tension": 3,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 5,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "The Molasses Tank That Killed 21 People"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (80 chars)",
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "Apollo 13: Cause, Chain, Consequence",
+      "kalip": "label-colon",
+      "toplam": 32,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.4,
+      "notes": [
+        "only 40% of title words are supported by the script",
+        "title pattern \"label-colon\" already used by 3 other videos"
+      ],
+      "kaynak": "template:cause-chain-consequence"
+    },
+    {
+      "baslik": "The Trigger That Started Apollo 13",
+      "kalip": "the-x-that",
+      "toplam": 25.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.25,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "only 50% of title words are supported by the script",
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:trigger-started"
+    },
+    {
+      "baslik": "The Chain Reaction Behind Apollo 13",
+      "kalip": "statement",
+      "toplam": 22,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.19,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "only 50% of title words are supported by the script",
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:chain-reaction"
+    }
+  ],
+  "yontem": "At least 20 structurally distinct editorial/template candidates; heuristic scoring 0-10 per criterion weighted to /100, minus similarity and clickbait penalties. Not a prediction of CTR."
+}

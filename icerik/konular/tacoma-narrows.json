@@ -1,0 +1,128 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why the Tacoma Narrows Bridge Tore Itself Apart",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "kaynaklar": [
+    {
+      "ad": "tacoma.ogv",
+      "wikimedia": "Tacoma Narrows Bridge destruction.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "This bridge tore itself apart in a forty mile an hour wind.",
+      "kaynak": "Footage/tacoma.ogv",
+      "baslangic": 106
+    },
+    {
+      "metin": "The deck twisted like a ribbon, then dropped into the water.",
+      "kaynak": "Footage/tacoma.ogv",
+      "baslangic": 117
+    },
+    {
+      "metin": "It had been open just four months.",
+      "kaynak": "Footage/tacoma.ogv",
+      "baslangic": 6
+    },
+    {
+      "metin": "So how did a steady wind destroy solid steel?",
+      "kaynak": "Footage/tacoma.ogv",
+      "baslangic": 31
+    },
+    {
+      "metin": "The wind made the deck flutter, and the flutter fed itself.",
+      "kaynak": "Footage/tacoma.ogv",
+      "baslangic": 81
+    },
+    {
+      "metin": "Each twist pumped in more energy than the bridge could shed.",
+      "kaynak": "Footage/tacoma.ogv",
+      "baslangic": 75
+    },
+    {
+      "metin": "One man escaped on his hands and knees.",
+      "kaynak": "Footage/tacoma.ogv",
+      "baslangic": 93
+    },
+    {
+      "metin": "Every long bridge since is tested in a wind tunnel.",
+      "kaynak": "Footage/tacoma.ogv",
+      "baslangic": 146
+    }
+  ],
+  "aciklama": "In 1940, the Tacoma Narrows Bridge twisted itself apart in a 40 mph wind — the most famous engineering failure ever caught on film. This is why it happened.\n\n#shorts #history #engineering #disaster #bridge",
+  "etiketler": [
+    "Tacoma Narrows",
+    "bridge collapse",
+    "aeroelastic flutter",
+    "engineering failure",
+    "history",
+    "disaster",
+    "1940"
+  ],
+  "hook": "Filmed as it fell",
+  "soru": "Could this happen today?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Tacoma Narrows Bridge",
+    "kisa": "Tacoma Narrows",
+    "nesne": "Bridge",
+    "yil": 1940,
+    "sonuc": "tore itself apart",
+    "tetik": "a 40 mph wind",
+    "mekanizma": "aeroelastic flutter",
+    "sayi": "40 MPH",
+    "ders": "every major bridge is now wind-tunnel tested",
+    "zincir": [
+      "STEADY 40 MPH WIND",
+      "DECK BEGINS TO TWIST",
+      "AEROELASTIC FLUTTER",
+      "TWIST FEEDS ON ITSELF",
+      "CENTER SPAN FAILS"
+    ],
+    "zaman": [
+      {
+        "t": "Jul 1940",
+        "olay": "Bridge opens — deck already undulates in wind"
+      },
+      {
+        "t": "Nov 7, ~10:00",
+        "olay": "Motion switches to violent twisting"
+      },
+      {
+        "t": "Nov 7, ~11:00",
+        "olay": "Center span drops into Puget Sound"
+      },
+      {
+        "t": "1950",
+        "olay": "Replacement opens with a stiff open-truss deck"
+      }
+    ],
+    "yanilgi": "Tacoma is often described as simple resonance, but aeroelastic flutter is the more accurate explanation: the twisting deck pulled energy out of a steady wind.",
+    "tartisma": "The deck was already moving in the wind before it opened. Should that have stopped the opening?",
+    "basliklar": [
+      "The Bridge That Started Twisting — Then Tore Itself Apart",
+      "Why a 40 MPH Wind Destroyed a Brand-New Bridge",
+      "Filmed as It Fell: The Tacoma Narrows Collapse",
+      "The Wind That Twisted a Bridge to Death"
+    ],
+    "kapak": [
+      "FILMED AS IT FELL",
+      "40 MPH WIND",
+      "IT TWISTED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Tacoma Narrows Bridge (1940)",
+        "url": "https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)"
+      },
+      {
+        "ad": "Wikipedia — Aeroelastic flutter",
+        "url": "https://en.wikipedia.org/wiki/Aeroelastic_flutter"
+      }
+    ]
+  }
+}

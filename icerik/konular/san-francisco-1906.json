@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why San Francisco Burned for Three Days",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "kaynaklar": [
+    {
+      "ad": "sf1906.webm",
+      "wikimedia": "San Francisco earthquake and fire, April 18, 1906.webm"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The earthquake lasted a minute. The fire burned for three days.",
+      "kaynak": "Footage/sf1906.webm",
+      "baslangic": 189
+    },
+    {
+      "metin": "It destroyed eighty percent of San Francisco.",
+      "kaynak": "Footage/sf1906.webm",
+      "baslangic": 31
+    },
+    {
+      "metin": "So why could nobody put it out?",
+      "kaynak": "Footage/sf1906.webm",
+      "baslangic": 157
+    },
+    {
+      "metin": "The quake had shattered the water mains under the streets.",
+      "kaynak": "Footage/sf1906.webm",
+      "baslangic": 78
+    },
+    {
+      "metin": "Firefighters opened the hydrants and nothing came out.",
+      "kaynak": "Footage/sf1906.webm",
+      "baslangic": 252
+    },
+    {
+      "metin": "Broken gas lines and toppled stoves started hundreds of fires.",
+      "kaynak": "Footage/sf1906.webm",
+      "baslangic": 173
+    },
+    {
+      "metin": "Three thousand died and a quarter million lost their homes.",
+      "kaynak": "Footage/sf1906.webm",
+      "baslangic": 630
+    },
+    {
+      "metin": "It was the fire, not the quake, that did most of the killing.",
+      "kaynak": "Footage/sf1906.webm",
+      "baslangic": 394
+    }
+  ],
+  "aciklama": "In 1906, one of America’s great cities burned for three days. The fire that followed the earthquake caused most of the destruction.\n\n#shorts #history #earthquake #sanfrancisco #disaster",
+  "etiketler": [
+    "San Francisco earthquake",
+    "1906",
+    "great fire",
+    "natural disaster",
+    "history",
+    "earthquake"
+  ],
+  "hook": "It burned for 3 days",
+  "soru": "Quake or fire - worse?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "San Francisco",
+    "kisa": "San Francisco 1906",
+    "nesne": "City",
+    "yil": 1906,
+    "sonuc": "burned for three days",
+    "tetik": "a magnitude 7.9 earthquake",
+    "mekanizma": "fire following earthquake with broken water mains",
+    "sayi": "3 DAYS",
+    "ders": "cities now plan for fire after earthquakes, with independent emergency water supplies",
+    "zincir": [
+      "FAULT SLIPS — M7.9",
+      "WATER MAINS RUPTURE",
+      "GAS LINES & STOVES IGNITE",
+      "NO WATER TO FIGHT FIRES",
+      "80% OF CITY DESTROYED"
+    ],
+    "zaman": [
+      {
+        "t": "Apr 18, 05:12",
+        "olay": "San Andreas fault ruptures"
+      },
+      {
+        "t": "Apr 18",
+        "olay": "Dozens of fires start; water mains broken"
+      },
+      {
+        "t": "Apr 18–20",
+        "olay": "Fires burn for three days"
+      },
+      {
+        "t": "Apr 21",
+        "olay": "Last fires out — ~80% of city destroyed"
+      }
+    ],
+    "yanilgi": "1906 is remembered as an earthquake, but most of the destruction came from the fires that followed it.",
+    "tartisma": "Improvised dynamiting to create firebreaks started new fires. Was it a mistake, or the only option without water?",
+    "basliklar": [
+      "The Earthquake Was Only the Beginning",
+      "The Quake Broke the Water Mains. Then the City Burned.",
+      "No Water, Three Days of Fire: San Francisco 1906"
+    ],
+    "kapak": [
+      "3 DAYS OF FIRE",
+      "NO WATER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1906 San Francisco earthquake",
+        "url": "https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake"
+      }
+    ],
+    "dogrulama": "Published narration says the fire, not the quake, did most of the killing. Sources agree fire caused most of the DESTRUCTION; the split of deaths is uncertain. Clarify in the pinned comment/description rather than re-uploading."
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "olusturuldu": "2026-09-24T21:02:27.243Z",
+  "not": "Classification only. Nothing is deleted, replaced or re-uploaded automatically.",
+  "yayinlanan": [
+    {
+      "videoId": "DLYpmaQ-EVw",
+      "slug": "bikini-baker",
+      "baslik": "The Nuclear Test That Poisoned a Paradise Forever",
+      "format": "short",
+      "yayin": "2026-09-24",
+      "views": 88,
+      "teshis": [
+        "INSUFFICIENT_DATA",
+        "WEAK_TOPIC_PACKAGING"
+      ],
+      "oncelik": "P4",
+      "siniflar": [
+        {
+          "sinif": "KEEP",
+          "neden": "no action needed with the data available"
+        }
+      ],
+      "onerilenBaslik": "The Nuclear Test That Poisoned a Paradise Forever"
+    },
+    {
+      "videoId": "X0jw78mIGdk",
+      "slug": "san-francisco-1906",
+      "baslik": "Why San Francisco Burned for Three Days",
+      "format": "short",
+      "yayin": "2026-09-23",
+      "views": 110,
+      "teshis": [
+        "INSUFFICIENT_DATA",
+        "WEAK_TOPIC_PACKAGING"
+      ],
+      "oncelik": "P4",
+      "siniflar": [
+        {
+          "sinif": "REVIEW_MANUALLY",
+          "neden": "Published narration says the fire, not the quake, did most of the killing. Sources agree fire caused most of the DESTRUCTION; the split of deaths is uncertain. Clarify in the pinned comment/description rather than re-uploading."
+        }
+      ],
+      "onerilenBaslik": "No Water, Three Days of Fire: San Francisco 1906"
+    },
+    {
+      "videoId": "qkzRUqlEy5I",
+      "slug": "tacoma-narrows",
+      "baslik": "Why the Tacoma Narrows Bridge Tore Itself Apart",
+      "format": "short",
+      "yayin": "2026-09-22",
+      "views": 178,
+      "teshis": [
+        "HEALTHY"
+      ],
+      "oncelik": "P4",
+      "siniflar": [
+        {
+          "sinif": "KEEP",
+          "neden": "no action needed with the data available"
+        }
+      ],
+      "onerilenBaslik": "Filmed as It Fell: The Tacoma Narrows Collapse"
+    },
+    {
+      "videoId": "PGOKZhPYo7c",
+      "slug": "hindenburg",
+      "baslik": "The Disaster That Ended the Age of the Airship",
+      "format": "short",
+      "yayin": "2026-09-22",
+      "views": 981,
+      "teshis": [
+        "OUTPERFORMER"
+      ],
+      "oncelik": "P4",
+      "siniflar": [
+        {
+          "sinif": "KEEP",
+          "neden": "outperforming the channel — keep title and thumbnail; only fix objective gaps below"
+        },
+        {
+          "sinif": "REVIEW_MANUALLY",
+          "neden": "Published narration states a spark ignited leaking gas as fact; it is the leading theory (static discharge), not proven. The pinned comment/description should say \"most likely\"."
+        }
+      ],
+      "onerilenBaslik": "34 Seconds That Ended the Airship Age"
+    }
+  ],
+  "yerel": [
+    {
+      "slug": "halifax-explosion",
+      "videoId": null,
+      "durum": "not rendered",
+      "specVar": true,
+      "siniflar": [
+        {
+          "sinif": "REVIEW_MANUALLY",
+          "neden": "production previously failed — rerun after checking sources"
+        }
+      ]
+    },
+    {
+      "slug": "mount-st-helens",
+      "videoId": null,
+      "durum": "not rendered",
+      "specVar": false,
+      "siniflar": [
+        {
+          "sinif": "REVIEW_MANUALLY",
+          "neden": "local test/legacy job with no production spec — not part of the channel queue"
+        }
+      ]
+    },
+    {
+      "slug": "sample-tacoma",
+      "videoId": null,
+      "durum": "rendered, not uploaded",
+      "specVar": false,
+      "siniflar": [
+        {
+          "sinif": "REVIEW_MANUALLY",
+          "neden": "local test/legacy job with no production spec — not part of the channel queue"
+        }
+      ]
+    },
+    {
+      "slug": "spread-test",
+      "videoId": null,
+      "durum": "rendered, not uploaded",
+      "specVar": false,
+      "siniflar": [
+        {
+          "sinif": "REVIEW_MANUALLY",
+          "neden": "local test/legacy job with no production spec — not part of the channel queue"
+        }
+      ]
+    },
+    {
+      "slug": "tacoma-short",
+      "videoId": null,
+      "durum": "rendered, not uploaded",
+      "specVar": false,
+      "siniflar": [
+        {
+          "sinif": "REVIEW_MANUALLY",
+          "neden": "local test/legacy job with no production spec — not part of the channel queue"
+        }
+      ]
+    },
+    {
+      "slug": "test-uzun-tacoma",
+      "videoId": null,
+      "durum": "rendered, not uploaded",
+      "specVar": false,
+      "siniflar": [
+        {
+          "sinif": "REVIEW_MANUALLY",
+          "neden": "local test/legacy job with no production spec — not part of the channel queue"
+        }
+      ]
+    },
+    {
+      "slug": "vesuvius-1944",
+      "videoId": null,
+      "durum": "not rendered",
+      "specVar": true,
+      "siniflar": [
+        {
+          "sinif": "KEEP",
+          "neden": "queued for normal production"
+        }
+      ]
+    },
+    {
+      "slug": "why-bridges-collapse",
+      "videoId": null,
+      "durum": "rendered, not uploaded",
+      "specVar": true,
+      "siniflar": [
+        {
+          "sinif": "KEEP",
+          "neden": "queued for normal production"
+        }
+      ]
+    }
+  ]
+}

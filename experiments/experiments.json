@@ -1,0 +1,274 @@
+{
+  "olusturuldu": "2026-09-24T16:01:03.474Z",
+  "deneyler": [
+    {
+      "id": "title-style",
+      "degisken": "title pattern",
+      "kollar": {
+        "TITLE_STYLE_A": "object-that / two-beat story title",
+        "TITLE_STYLE_B": "why/how question title"
+      },
+      "hipotez": "Story-shaped titles (\"The Bridge That…\") earn more Shorts-feed views per video than question titles at 7 days.",
+      "metrik": "views_7d",
+      "durum": "running",
+      "baslangic": "2026-09-24",
+      "videolar": [
+        {
+          "videoId": "PGOKZhPYo7c",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-09-24"
+        },
+        {
+          "videoId": "qkzRUqlEy5I",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-09-24"
+        },
+        {
+          "videoId": "X0jw78mIGdk",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-09-24"
+        },
+        {
+          "videoId": "DLYpmaQ-EVw",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-09-24"
+        },
+        {
+          "videoId": "ODZ7y6r1o6o",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-09-25",
+          "otomatik": true,
+          "kalip": "how"
+        },
+        {
+          "videoId": "bqTpdauhlHo",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-09-26",
+          "otomatik": true,
+          "kalip": "why"
+        },
+        {
+          "videoId": "aScjSrwqeRk",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-09-27",
+          "otomatik": true,
+          "kalip": "label-colon"
+        },
+        {
+          "videoId": "I86SnrokHMk",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-09-28",
+          "otomatik": true,
+          "kalip": "label-colon"
+        },
+        {
+          "videoId": "uqoAjXMbbls",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-09-29",
+          "otomatik": true,
+          "kalip": "label-colon"
+        },
+        {
+          "videoId": "tIXvjbAXStw",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-09-29",
+          "otomatik": true,
+          "kalip": "what"
+        },
+        {
+          "videoId": "M4rr4aVc4Uc",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-09-29",
+          "otomatik": true,
+          "kalip": "statement"
+        },
+        {
+          "videoId": "NnGoWJOdaW0",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-09-30",
+          "otomatik": true,
+          "kalip": "label-colon"
+        },
+        {
+          "videoId": "NobEECFBrwo",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-09-30",
+          "otomatik": true,
+          "kalip": "what"
+        },
+        {
+          "videoId": "7q3E09HMIGI",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-09-30",
+          "otomatik": true,
+          "kalip": "label-colon"
+        },
+        {
+          "videoId": "rgSsk8q6eyM",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-10-01",
+          "otomatik": true,
+          "kalip": "label-colon"
+        },
+        {
+          "videoId": "WlZ2z90pqx8",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-10-02",
+          "otomatik": true,
+          "kalip": "label-colon"
+        },
+        {
+          "videoId": "5yPoQCElJuk",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-10-02",
+          "otomatik": true,
+          "kalip": "statement"
+        },
+        {
+          "videoId": "fGE8kZOaQZ4",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-10-02",
+          "otomatik": true,
+          "kalip": "the-x-that"
+        },
+        {
+          "videoId": "4Mo58FxCr4A",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-10-03",
+          "otomatik": true,
+          "kalip": "why"
+        },
+        {
+          "videoId": "u0iftg8gF5w",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-10-03",
+          "otomatik": true,
+          "kalip": "why"
+        },
+        {
+          "videoId": "hsuWhB8lCvU",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-10-03",
+          "otomatik": true,
+          "kalip": "why"
+        },
+        {
+          "videoId": "I9Lcpi9kPYs",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-10-03",
+          "otomatik": true,
+          "kalip": "how"
+        },
+        {
+          "videoId": "Nk7vmybWY98",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-10-04",
+          "otomatik": true,
+          "kalip": "how"
+        },
+        {
+          "videoId": "Vuvx5nEqcaY",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-10-04",
+          "otomatik": true,
+          "kalip": "statement"
+        },
+        {
+          "videoId": "rAZ4cE4A0DE",
+          "kol": "TITLE_STYLE_A",
+          "eklendi": "2026-10-04",
+          "otomatik": true,
+          "kalip": "statement"
+        },
+        {
+          "videoId": "ZTtPwqBSxpA",
+          "kol": "TITLE_STYLE_B",
+          "eklendi": "2026-10-04",
+          "otomatik": true,
+          "kalip": "why"
+        }
+      ],
+      "sonuc": {
+        "kollar": {
+          "TITLE_STYLE_A": {
+            "n": 2,
+            "ortalama": 1181.5,
+            "degerler": [
+              1012,
+              1351
+            ]
+          },
+          "TITLE_STYLE_B": {
+            "n": 4,
+            "ortalama": 714.75,
+            "degerler": [
+              183,
+              112,
+              945,
+              1619
+            ]
+          }
+        },
+        "sonuc": "Not enough videos per arm (need ≥5; have TITLE_STYLE_A=2, TITLE_STYLE_B=4). No conclusion — and no causal claim.",
+        "guven": "insufficient data",
+        "tarih": "2026-09-28T15:24:22.754Z"
+      }
+    },
+    {
+      "id": "thumbnail-text",
+      "degisken": "thumbnail text",
+      "kollar": {
+        "THUMBNAIL_TEXT": "2-4 word text",
+        "NO_THUMBNAIL_TEXT": "frame only"
+      },
+      "hipotez": "For long-form, a 2-4 word thumbnail text raises CTR versus a text-free frame.",
+      "metrik": "ctr",
+      "durum": "planned",
+      "baslangic": null,
+      "videolar": [],
+      "sonuc": null
+    },
+    {
+      "id": "cold-open",
+      "degisken": "cold open",
+      "kollar": {
+        "COLD_OPEN_EVENT": "opens on the failure itself",
+        "COLD_OPEN_QUESTION": "opens on a question"
+      },
+      "hipotez": "Opening on the event keeps more viewers at 30 s than opening on a question.",
+      "metrik": "first30sRetention",
+      "durum": "planned",
+      "baslangic": null,
+      "videolar": [],
+      "sonuc": null
+    },
+    {
+      "id": "length",
+      "degisken": "long-form length",
+      "kollar": {
+        "8_MIN_VIDEO": "~8 minutes",
+        "12_MIN_VIDEO": "~12 minutes"
+      },
+      "hipotez": "12-minute documentaries earn more watch time per impression without losing average % viewed.",
+      "metrik": "watchTimeMinutes",
+      "durum": "planned",
+      "baslangic": null,
+      "videolar": [],
+      "sonuc": null
+    },
+    {
+      "id": "cta-position",
+      "degisken": "CTA position",
+      "kollar": {
+        "CTA_MID": "contextual CTA after the technical payoff",
+        "CTA_END": "CTA near the end"
+      },
+      "hipotez": "A mid-video contextual CTA converts more subscribers per 1,000 views than an end CTA.",
+      "metrik": "subsPer1000",
+      "durum": "planned",
+      "baslangic": null,
+      "videolar": [],
+      "sonuc": null
+    }
+  ]
+}

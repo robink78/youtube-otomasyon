@@ -1,0 +1,1407 @@
+[
+  {
+    "slug": "hyatt-regency-walkway-1981",
+    "wiki": "Hyatt_Regency_walkway_collapse",
+    "commons": [
+      "Hyatt Regency walkway collapse",
+      "Hyatt Regency Kansas City"
+    ],
+    "baslik": "One Design Change Doubled the Load — and 114 Died",
+    "ad": "the Hyatt Regency walkways",
+    "kisa": "Hyatt Regency",
+    "nesne": "Walkway",
+    "yil": 1981,
+    "kume": "structural-failures",
+    "oncelik": 9,
+    "sonuc": "collapsed onto a crowded hotel lobby",
+    "tetik": "a rod change that doubled the load on one connection",
+    "mekanizma": "box-beam connection pull-through from a doubled hanger-rod load",
+    "sayi": "114 DEAD",
+    "ders": "connection changes during fabrication now need the engineer of record's approval",
+    "zincir": [
+      "ONE ROD BECOMES TWO",
+      "LOAD ON UPPER BOX BEAM DOUBLES",
+      "NUT PULLS THROUGH BOX BEAM",
+      "UPPER WALKWAY FALLS ONTO LOWER",
+      "BOTH HIT THE CROWDED LOBBY"
+    ],
+    "zaman": [
+      {
+        "t": "Jul 17, 1981",
+        "olay": "Tea dance in the atrium; walkways crowded"
+      }
+    ],
+    "yanilgi": "The original design was already weak. The fabrication change made it far worse: one hanger connection had to carry two walkways.",
+    "tartisma": "The change was approved without a new calculation. Who owns a connection — the designer or the fabricator?",
+    "basliklar": [
+      "One Design Change Doubled the Load — and 114 Died",
+      "Why the Hyatt Regency Walkways Fell",
+      "The Rod Change That Collapsed a Hotel"
+    ],
+    "kapak": [
+      "ONE ROD",
+      "LOAD DOUBLED"
+    ],
+    "hook": "One rod became two",
+    "soru": "Would you have spotted it?",
+    "sahneler": [
+      "Two walkways fell onto a crowded hotel lobby in Kansas City.",
+      "In seconds, one hundred fourteen people were dead.",
+      "So how does a walkway just drop?",
+      "The design used one long rod through both walkways.",
+      "During construction, it was swapped for two shorter rods.",
+      "That quietly doubled the load on one set of nuts.",
+      "Under the crowd, the nuts pulled straight through the beam.",
+      "Now every connection change needs the engineer's approval."
+    ],
+    "etiketler": [
+      "Hyatt Regency",
+      "walkway collapse",
+      "Kansas City",
+      "structural engineering",
+      "1981"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hyatt Regency walkway collapse",
+        "url": "https://en.wikipedia.org/wiki/Hyatt_Regency_walkway_collapse"
+      },
+      {
+        "ad": "NBS Building Science Series 143 — Investigation of the Kansas City Hyatt Regency Walkways Collapse",
+        "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/BSS/nbsbuildingscience143.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "silver-bridge-1967",
+    "wiki": "Silver_Bridge",
+    "commons": "Silver Bridge Point Pleasant",
+    "baslik": "A Crack Smaller Than a Coin Dropped a Whole Bridge",
+    "ad": "the Silver Bridge",
+    "kisa": "Silver Bridge",
+    "nesne": "Bridge",
+    "yil": 1967,
+    "kume": "bridge-failures",
+    "oncelik": 9,
+    "sonuc": "fell into the Ohio River at rush hour",
+    "tetik": "a tiny crack in one eyebar",
+    "mekanizma": "stress corrosion cracking in an eyebar of a non-redundant chain",
+    "sayi": "46 DEAD",
+    "ders": "US bridges now get mandatory inspections under the National Bridge Inspection Standards",
+    "zincir": [
+      "DEFECT IN ONE EYEBAR",
+      "STRESS CORROSION GROWS THE CRACK",
+      "EYEBAR FRACTURES",
+      "CHAIN HAS NO BACKUP",
+      "WHOLE BRIDGE FALLS"
+    ],
+    "zaman": [
+      {
+        "t": "Dec 15, 1967",
+        "olay": "Rush-hour traffic on the bridge"
+      }
+    ],
+    "yanilgi": "It wasn't overloaded by one heavy truck. The bridge hung on eyebar chains with no redundancy, so one cracked link was enough.",
+    "tartisma": "The crack was hidden inside a joint no inspector could see. Should designs without redundancy be allowed at all?",
+    "basliklar": [
+      "A Crack Smaller Than a Coin Dropped a Whole Bridge",
+      "Why the Silver Bridge Collapsed",
+      "The Single Link That Killed 46 People"
+    ],
+    "kapak": [
+      "ONE LINK",
+      "NO BACKUP"
+    ],
+    "hook": "One link. No backup.",
+    "soru": "Could you have seen the crack?",
+    "sahneler": [
+      "At rush hour, an entire bridge fell into the Ohio River.",
+      "It collapsed in under a minute, and forty six people died.",
+      "The cause was a crack you could barely see.",
+      "It hid inside one eyebar in the suspension chain.",
+      "Corrosion and stress slowly grew it deeper.",
+      "When that single link snapped, nothing else could hold the load.",
+      "The bridge had no backup path.",
+      "That's why American bridges now get mandatory inspections."
+    ],
+    "etiketler": [
+      "Silver Bridge",
+      "bridge collapse",
+      "Point Pleasant",
+      "eyebar",
+      "1967"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Silver Bridge",
+        "url": "https://en.wikipedia.org/wiki/Silver_Bridge"
+      },
+      {
+        "ad": "NTSB Highway Accident Report HAR-71-01 — Collapse of U.S. 35 Highway Bridge, Point Pleasant",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR7101.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "i-35w-bridge-2007",
+    "wiki": "I-35W_Mississippi_River_bridge",
+    "commons": "I-35W Mississippi River bridge collapse",
+    "baslik": "The Undersized Steel Plate That Dropped a Freeway",
+    "ad": "the I-35W bridge",
+    "kisa": "I-35W Bridge",
+    "nesne": "Bridge",
+    "yil": 2007,
+    "kume": "bridge-failures",
+    "oncelik": 9,
+    "sonuc": "dropped into the Mississippi River during rush hour",
+    "tetik": "gusset plates designed half as thick as needed",
+    "mekanizma": "undersized gusset plates failing under added dead load and construction materials",
+    "sayi": "13 DEAD",
+    "ders": "gusset plates are now checked in load ratings of truss bridges",
+    "zincir": [
+      "GUSSET PLATES DESIGNED TOO THIN",
+      "DECADES OF ADDED CONCRETE WEIGHT",
+      "CONSTRUCTION LOAD PARKED ON DECK",
+      "PLATE AT U10 GIVES WAY",
+      "MAIN SPAN FALLS"
+    ],
+    "zaman": [
+      {
+        "t": "Aug 1, 2007",
+        "olay": "Evening rush hour; resurfacing work on the deck"
+      }
+    ],
+    "yanilgi": "Corrosion and fatigue were suspected first. Investigators found a design error: key gusset plates were only half the thickness they needed.",
+    "tartisma": "The error sat in the drawings for forty years. How many other bridges carry a mistake nobody rechecks?",
+    "basliklar": [
+      "The Undersized Steel Plate That Dropped a Freeway",
+      "Why the I-35W Bridge Collapsed",
+      "A 40-Year-Old Design Error, Then 13 Dead"
+    ],
+    "kapak": [
+      "HALF THICK",
+      "40-YEAR ERROR"
+    ],
+    "hook": "A plate half too thin",
+    "soru": "Who checks old drawings?",
+    "sahneler": [
+      "During rush hour, a freeway bridge fell into the Mississippi River.",
+      "Cars plunged with it, and thirteen people were killed.",
+      "The cause had been in the drawings for forty years.",
+      "Steel gusset plates were designed only half as thick as needed.",
+      "Over time, extra concrete added weight to the deck.",
+      "That day, construction materials were parked right above a weak plate.",
+      "The plate buckled, and the main span fell.",
+      "Now gusset plates are checked in every truss bridge rating."
+    ],
+    "etiketler": [
+      "I-35W bridge",
+      "Minneapolis",
+      "bridge collapse",
+      "gusset plate",
+      "2007"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — I-35W Mississippi River bridge",
+        "url": "https://en.wikipedia.org/wiki/I-35W_Mississippi_River_bridge"
+      },
+      {
+        "ad": "NTSB Highway Accident Report HAR-08-03 — Collapse of I-35W Highway Bridge",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR0803.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "chernobyl-1986",
+    "wiki": "Chernobyl_disaster",
+    "commons": "Chernobyl reactor 4",
+    "baslik": "The Safety Test That Blew Up a Reactor",
+    "ad": "Chernobyl reactor 4",
+    "kisa": "Chernobyl",
+    "nesne": "Reactor",
+    "yil": 1986,
+    "kume": "nuclear-accidents",
+    "oncelik": 10,
+    "sonuc": "exploded during a safety test",
+    "tetik": "control rods with graphite tips that first increased power",
+    "mekanizma": "positive void coefficient plus graphite-tipped control rods causing a power surge",
+    "sayi": "SAFETY TEST",
+    "ders": "RBMK reactors were modified so control rods can no longer spike power",
+    "zincir": [
+      "SAFETY TEST AT LOW POWER",
+      "UNSTABLE REACTOR STATE",
+      "EMERGENCY SHUTDOWN PRESSED",
+      "GRAPHITE TIPS SPIKE POWER",
+      "STEAM EXPLOSION DESTROYS CORE"
+    ],
+    "zaman": [
+      {
+        "t": "Apr 26, 1986",
+        "olay": "Turbine rundown safety test; emergency shutdown pressed"
+      }
+    ],
+    "yanilgi": "Operators made mistakes, but the reactor design itself made the shutdown button increase power in its first seconds.",
+    "tartisma": "The flaw was known to some designers before 1986. Was this operator error or design error?",
+    "basliklar": [
+      "The Safety Test That Blew Up a Reactor",
+      "Why Chernobyl's Off Switch Made It Worse",
+      "How Pressing Shutdown Destroyed Reactor 4"
+    ],
+    "kapak": [
+      "SAFETY TEST",
+      "OFF SWITCH"
+    ],
+    "hook": "The off switch made it worse",
+    "soru": "Operator error or design error?",
+    "sahneler": [
+      "Reactor four at Chernobyl exploded during a safety test.",
+      "Within seconds, power surged and a steam blast tore off the roof.",
+      "The strangest part is what triggered it.",
+      "Operators pressed the emergency shutdown button.",
+      "But the control rods had graphite tips.",
+      "Entering the core, those tips first pushed power up, not down.",
+      "In an unstable reactor, that spike was enough.",
+      "These reactors were later changed so shutdown can never add power."
+    ],
+    "etiketler": [
+      "Chernobyl",
+      "RBMK",
+      "nuclear accident",
+      "reactor",
+      "1986"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Chernobyl disaster",
+        "url": "https://en.wikipedia.org/wiki/Chernobyl_disaster"
+      },
+      {
+        "ad": "IAEA INSAG-7 — The Chernobyl Accident: Updating of INSAG-1",
+        "url": "https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf"
+      },
+      {
+        "ad": "US NRC — Backgrounder on Chernobyl Nuclear Power Plant Accident",
+        "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/chernobyl-bg.html"
+      }
+    ]
+  },
+  {
+    "slug": "three-mile-island-1979",
+    "wiki": "Three_Mile_Island_accident",
+    "commons": "Three Mile Island",
+    "baslik": "A Stuck Valve and a Misleading Light Melted a Reactor",
+    "ad": "Three Mile Island Unit 2",
+    "kisa": "Three Mile Island",
+    "nesne": "Reactor",
+    "yil": 1979,
+    "kume": "nuclear-accidents",
+    "oncelik": 8,
+    "sonuc": "partially melted down",
+    "tetik": "a relief valve stuck open while its light said closed",
+    "mekanizma": "loss of coolant through a stuck-open pilot-operated relief valve, misread by operators",
+    "sayi": "STUCK OPEN",
+    "ders": "control rooms were redesigned and operator training was overhauled",
+    "zincir": [
+      "FEEDWATER PUMPS TRIP",
+      "RELIEF VALVE OPENS AND STICKS",
+      "INDICATOR SHOWS COMMAND, NOT POSITION",
+      "OPERATORS CUT EMERGENCY COOLING",
+      "CORE PARTIALLY MELTS"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 28, 1979",
+        "olay": "Pumps trip; relief valve sticks open"
+      }
+    ],
+    "yanilgi": "The indicator light didn't lie about the valve — it showed only that the close signal was sent, not where the valve actually was.",
+    "tartisma": "The operators followed their training. Was the failure human, or the control room design?",
+    "basliklar": [
+      "A Stuck Valve and a Misleading Light Melted a Reactor",
+      "Why Three Mile Island Melted Down",
+      "The Light That Said Closed"
+    ],
+    "kapak": [
+      "STUCK OPEN",
+      "LIGHT SAID SHUT"
+    ],
+    "hook": "The light said closed",
+    "soru": "Would you trust the light?",
+    "sahneler": [
+      "Part of the core at Three Mile Island melted down.",
+      "Cooling water escaped for hours through a valve stuck open.",
+      "The operators didn't know.",
+      "Their panel light said the valve was closed.",
+      "It only showed the close signal was sent, not the valve's position.",
+      "Thinking there was too much water, they cut emergency cooling.",
+      "The core overheated and partly melted.",
+      "That's why control rooms and training were rebuilt afterward."
+    ],
+    "etiketler": [
+      "Three Mile Island",
+      "nuclear accident",
+      "meltdown",
+      "relief valve",
+      "1979"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Three Mile Island accident",
+        "url": "https://en.wikipedia.org/wiki/Three_Mile_Island_accident"
+      },
+      {
+        "ad": "US NRC — Backgrounder on the Three Mile Island Accident",
+        "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html"
+      }
+    ]
+  },
+  {
+    "slug": "columbia-2003",
+    "wiki": "Space_Shuttle_Columbia_disaster",
+    "commons": "Space Shuttle Columbia disaster",
+    "baslik": "A Piece of Foam Destroyed Space Shuttle Columbia",
+    "ad": "Space Shuttle Columbia",
+    "kisa": "Columbia",
+    "nesne": "Orbiter",
+    "yil": 2003,
+    "kume": "spaceflight-disasters",
+    "oncelik": 10,
+    "sonuc": "broke apart during re-entry",
+    "tetik": "a suitcase-sized piece of foam hitting the left wing at launch",
+    "mekanizma": "foam strike breaching a reinforced carbon-carbon panel on the wing's leading edge",
+    "sayi": "7 CREW",
+    "ders": "shuttles were inspected in orbit for heat-shield damage on every later flight",
+    "zincir": [
+      "FOAM BREAKS OFF EXTERNAL TANK",
+      "STRIKES LEFT WING LEADING EDGE",
+      "HOLE IN HEAT SHIELD PANEL",
+      "HOT GAS ENTERS WING ON RE-ENTRY",
+      "ORBITER BREAKS APART"
+    ],
+    "zaman": [
+      {
+        "t": "Jan 16, 2003",
+        "olay": "Launch; foam strike on the left wing"
+      },
+      {
+        "t": "Feb 1, 2003",
+        "olay": "Break-up during re-entry over Texas"
+      }
+    ],
+    "yanilgi": "Foam had hit shuttles on earlier flights, so it came to be treated as routine. That normalization is why the damage was never checked in orbit.",
+    "tartisma": "Engineers asked for satellite images of the wing and were turned down. What should happen when a warning is inconvenient?",
+    "basliklar": [
+      "A Piece of Foam Destroyed Space Shuttle Columbia",
+      "Why Columbia Broke Apart on Re-entry",
+      "The Foam Strike Nobody Checked"
+    ],
+    "kapak": [
+      "JUST FOAM",
+      "7 CREW"
+    ],
+    "hook": "It was just foam",
+    "soru": "Would you have checked the wing?",
+    "sahneler": [
+      "Space Shuttle Columbia broke apart as it came home.",
+      "All seven astronauts were killed minutes before landing.",
+      "The damage happened sixteen days earlier, at launch.",
+      "A piece of insulating foam hit the left wing.",
+      "It punched a hole in the heat shield panel.",
+      "On re-entry, superheated gas poured into the wing.",
+      "The structure melted from the inside.",
+      "After that, every shuttle's heat shield was inspected in orbit."
+    ],
+    "etiketler": [
+      "Columbia",
+      "space shuttle",
+      "foam strike",
+      "NASA",
+      "2003"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Space Shuttle Columbia disaster",
+        "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster"
+      },
+      {
+        "ad": "NASA History Office — Columbia Accident Investigation Board Report",
+        "url": "https://history.nasa.gov/columbia/CAIB_reportindex.html"
+      }
+    ]
+  },
+  {
+    "slug": "mars-climate-orbiter-1999",
+    "wiki": "Mars_Climate_Orbiter",
+    "commons": "Mars Climate Orbiter",
+    "baslik": "A Units Mix-Up Crashed a Mars Spacecraft",
+    "ad": "Mars Climate Orbiter",
+    "kisa": "Mars Climate Orbiter",
+    "nesne": "Spacecraft",
+    "yil": 1999,
+    "kume": "software-and-control-failures",
+    "oncelik": 9,
+    "sonuc": "was lost at Mars",
+    "tetik": "ground software reporting thrust in pound-force seconds instead of newton-seconds",
+    "mekanizma": "imperial-to-metric units mismatch in trajectory software",
+    "sayi": "4.45x ERROR",
+    "ders": "interface specifications now state units explicitly and are verified end to end",
+    "zincir": [
+      "SOFTWARE OUTPUTS POUND-FORCE SECONDS",
+      "NAVIGATION EXPECTS NEWTON-SECONDS",
+      "SMALL TRAJECTORY ERRORS ADD UP",
+      "ORBITER FLIES TOO LOW",
+      "LOST IN THE ATMOSPHERE"
+    ],
+    "zaman": [
+      {
+        "t": "Sep 23, 1999",
+        "olay": "Orbit insertion; contact lost"
+      }
+    ],
+    "yanilgi": "It wasn't one big miscalculation. Tiny unit errors in many small thruster firings added up over the months-long cruise.",
+    "tartisma": "Navigators noticed the trajectory drifting but the concern never escalated. How loud should a small anomaly be?",
+    "basliklar": [
+      "A Units Mix-Up Crashed a Mars Spacecraft",
+      "Why Mars Climate Orbiter Was Lost",
+      "Pounds vs. Newtons: The Error That Ended a Mission"
+    ],
+    "kapak": [
+      "POUNDS vs NEWTONS",
+      "WRONG UNITS"
+    ],
+    "hook": "Pounds vs newtons",
+    "soru": "Metric or imperial?",
+    "sahneler": [
+      "A spacecraft reached Mars and vanished.",
+      "It dove too deep into the atmosphere and was destroyed.",
+      "The cause was a units mismatch.",
+      "One team's software reported thrust in pound-force seconds.",
+      "The navigation software expected newton-seconds.",
+      "Each small error pushed the spacecraft slightly off course.",
+      "Over months, they added up to a fatal miss.",
+      "Now interfaces must state their units and be checked end to end."
+    ],
+    "etiketler": [
+      "Mars Climate Orbiter",
+      "NASA",
+      "units error",
+      "software bug",
+      "1999"
+    ],
+    "dogrulanmisSayilar": [
+      4.45
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mars Climate Orbiter",
+        "url": "https://en.wikipedia.org/wiki/Mars_Climate_Orbiter"
+      },
+      {
+        "ad": "NASA — Mars Climate Orbiter Mishap Investigation Board Phase I Report",
+        "url": "https://llis.nasa.gov/llis_lib/pdf/1009464main1_0641-mr.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "ariane-5-flight-501",
+    "wiki": "Ariane_flight_V88",
+    "commons": [
+      "Ariane 501",
+      "Ariane 5 flight 501"
+    ],
+    "baslik": "One Line of Reused Code Blew Up Ariane 5",
+    "ad": "Ariane 5 Flight 501",
+    "kisa": "Ariane 5",
+    "nesne": "Rocket",
+    "yil": 1996,
+    "kume": "software-and-control-failures",
+    "oncelik": 9,
+    "sonuc": "self-destructed about 37 seconds after launch",
+    "tetik": "a 64-bit number squeezed into a 16-bit integer",
+    "mekanizma": "unprotected floating-point to integer conversion overflow in reused Ariane 4 software",
+    "sayi": "37 SECONDS",
+    "ders": "reused software is now re-verified against the new vehicle's real flight profile",
+    "zincir": [
+      "ARIANE 4 CODE REUSED",
+      "FASTER ROCKET, BIGGER VALUE",
+      "CONVERSION OVERFLOWS",
+      "BOTH GUIDANCE COMPUTERS FAIL",
+      "ROCKET VEERS AND SELF-DESTRUCTS"
+    ],
+    "zaman": [
+      {
+        "t": "Jun 4, 1996",
+        "olay": "Maiden flight; overflow and self-destruct"
+      }
+    ],
+    "yanilgi": "The backup computer didn't save it because it ran the same code and failed the same way, just milliseconds earlier.",
+    "tartisma": "The code had worked perfectly on Ariane 4. When is proven code not proven?",
+    "basliklar": [
+      "One Line of Reused Code Blew Up Ariane 5",
+      "Why Ariane 5 Destroyed Itself",
+      "The Number Too Big for 16 Bits"
+    ],
+    "kapak": [
+      "16 BITS",
+      "37 SECONDS"
+    ],
+    "hook": "A number too big",
+    "soru": "Would you reuse proven code?",
+    "sahneler": [
+      "A brand new rocket destroyed itself about thirty seven seconds after launch.",
+      "It veered sideways, began breaking up and then exploded.",
+      "The cause was one number.",
+      "Guidance code copied from Ariane 4 squeezed a value into sixteen bits.",
+      "Ariane 5 flew faster, so the value got too big to fit.",
+      "The conversion overflowed, and both guidance computers shut down.",
+      "The backup failed because it ran the same code.",
+      "Reused software is now retested against the new rocket's real flight."
+    ],
+    "etiketler": [
+      "Ariane 5",
+      "software bug",
+      "integer overflow",
+      "rocket failure",
+      "1996"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Ariane flight V88",
+        "url": "https://en.wikipedia.org/wiki/Ariane_flight_V88"
+      },
+      {
+        "ad": "ESA — Ariane 501 Inquiry Board report (press release)",
+        "url": "https://www.esa.int/Newsroom/Press_Releases/Ariane_501_-_Presentation_of_Inquiry_Board_report"
+      }
+    ]
+  },
+  {
+    "slug": "aloha-airlines-243-1988",
+    "wiki": "Aloha_Airlines_Flight_243",
+    "commons": "Aloha Airlines Flight 243",
+    "baslik": "The Roof Ripped Off a Plane at 24,000 Feet",
+    "ad": "Aloha Airlines Flight 243",
+    "kisa": "Aloha 243",
+    "nesne": "Fuselage",
+    "yil": 1988,
+    "kume": "materials-failures",
+    "oncelik": 9,
+    "sonuc": "lost a large section of its roof in flight",
+    "tetik": "tiny fatigue cracks linking up along a lap joint",
+    "mekanizma": "multiple-site fatigue damage and corrosion in a fuselage lap joint",
+    "sayi": "24,000 FT",
+    "ders": "ageing aircraft now get mandatory inspections for multiple-site fatigue damage",
+    "zincir": [
+      "HUMID SALTY AIR, MANY SHORT FLIGHTS",
+      "LAP JOINT CORRODES AND DISBONDS",
+      "SMALL FATIGUE CRACKS FORM",
+      "CRACKS LINK UP",
+      "ROOF TEARS AWAY"
+    ],
+    "zaman": [
+      {
+        "t": "Apr 28, 1988",
+        "olay": "Explosive decompression near 24,000 ft"
+      }
+    ],
+    "yanilgi": "No single big crack did it. Many tiny cracks along a row of rivets joined into one long tear.",
+    "tartisma": "A passenger reportedly saw a crack while boarding. How should a warning from a passenger be handled?",
+    "basliklar": [
+      "The Roof Ripped Off a Plane at 24,000 Feet",
+      "How Aloha 243 Landed Without a Roof",
+      "The Tiny Cracks That Opened a Jet"
+    ],
+    "kapak": [
+      "NO ROOF",
+      "24,000 FT"
+    ],
+    "hook": "The roof tore off",
+    "soru": "Would you have kept flying?",
+    "sahneler": [
+      "At twenty four thousand feet, the roof of a jet tore away.",
+      "The cabin tore open, and a flight attendant was killed.",
+      "So what ripped open a plane?",
+      "This jet had flown many short, salty island flights.",
+      "Corrosion loosened a joint along a row of rivets.",
+      "Tiny fatigue cracks grew, then linked into one long tear.",
+      "The pilots still landed it safely on Maui.",
+      "Now ageing aircraft are inspected for exactly this damage."
+    ],
+    "etiketler": [
+      "Aloha Airlines 243",
+      "metal fatigue",
+      "Boeing 737",
+      "decompression",
+      "1988"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Aloha Airlines Flight 243",
+        "url": "https://en.wikipedia.org/wiki/Aloha_Airlines_Flight_243"
+      },
+      {
+        "ad": "NTSB Aircraft Accident Report AAR-89-03 — Aloha Airlines Flight 243",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR8903.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "united-232-1989",
+    "wiki": "United_Airlines_Flight_232",
+    "commons": "United Airlines Flight 232",
+    "baslik": "They Steered a Jet With Only the Engines",
+    "ad": "United Airlines Flight 232",
+    "kisa": "United 232",
+    "nesne": "Engine fan disk",
+    "yil": 1989,
+    "kume": "aviation-failures",
+    "oncelik": 9,
+    "sonuc": "lost all flight controls",
+    "tetik": "a hidden flaw in a titanium fan disk",
+    "mekanizma": "fatigue crack from a manufacturing defect shattering the tail engine's fan disk and severing all three hydraulic systems",
+    "sayi": "3 of 3 LOST",
+    "ders": "engine disks now get stricter inspections and hydraulic lines got fuses",
+    "zincir": [
+      "DEFECT IN TITANIUM FORGING",
+      "FATIGUE CRACK GROWS",
+      "FAN DISK SHATTERS",
+      "DEBRIS CUTS ALL THREE HYDRAULICS",
+      "CRASH LANDING AT SIOUX CITY"
+    ],
+    "zaman": [
+      {
+        "t": "Jul 19, 1989",
+        "olay": "Tail engine fan disk fails in cruise"
+      }
+    ],
+    "yanilgi": "The jet had three separate hydraulic systems. Their lines ran close together in the tail, so one burst of debris cut them all.",
+    "tartisma": "Redundancy failed because the backups shared one location. When is a backup not really a backup?",
+    "basliklar": [
+      "They Steered a Jet With Only the Engines",
+      "How United 232 Lost All Three Hydraulic Systems",
+      "The Crack That Took Away Every Control"
+    ],
+    "kapak": [
+      "NO CONTROLS",
+      "3 OF 3 LOST"
+    ],
+    "hook": "Every control gone",
+    "soru": "Could you fly with only throttles?",
+    "sahneler": [
+      "Mid-flight, a jet lost every flight control at once.",
+      "The tail engine exploded, and debris cut all three hydraulic systems.",
+      "The crew steered using only the engine throttles.",
+      "The cause was a hidden flaw inside a titanium fan disk.",
+      "A crack grew from it for years.",
+      "The backups failed because their lines ran side by side.",
+      "The crash landing still left most people alive.",
+      "Engine disks are now inspected far more strictly."
+    ],
+    "etiketler": [
+      "United 232",
+      "Sioux City",
+      "DC-10",
+      "hydraulic failure",
+      "1989"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — United Airlines Flight 232",
+        "url": "https://en.wikipedia.org/wiki/United_Airlines_Flight_232"
+      },
+      {
+        "ad": "NTSB Aircraft Accident Report AAR-90-06 — United Airlines Flight 232",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR9006.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "air-france-447-2009",
+    "wiki": "Air_France_Flight_447",
+    "commons": "Air France Flight 447",
+    "baslik": "Iced Sensors and a Stall Nobody Recognized",
+    "ad": "Air France Flight 447",
+    "kisa": "Air France 447",
+    "nesne": "Airliner",
+    "yil": 2009,
+    "kume": "aviation-failures",
+    "oncelik": 9,
+    "sonuc": "fell into the Atlantic in a stall",
+    "tetik": "ice crystals blocking the airspeed sensors",
+    "mekanizma": "pitot tube icing causing autopilot disconnect, followed by a sustained aerodynamic stall",
+    "sayi": "228 ABOARD",
+    "ders": "pitot probes were replaced and crews now train on high-altitude stall recovery",
+    "zincir": [
+      "ICE BLOCKS PITOT TUBES",
+      "AIRSPEED READINGS DROP",
+      "AUTOPILOT DISCONNECTS",
+      "NOSE HELD UP",
+      "STALL ALL THE WAY DOWN"
+    ],
+    "zaman": [
+      {
+        "t": "Jun 1, 2009",
+        "olay": "Pitot icing over the Atlantic; stall"
+      }
+    ],
+    "yanilgi": "The plane itself was flyable. The airspeed readings came back within about a minute, but the stall had already set in.",
+    "tartisma": "The stall warning went quiet at very low airspeed, then sounded again when the nose lowered. How should a warning behave when data is unreliable?",
+    "basliklar": [
+      "Iced Sensors and a Stall Nobody Recognized",
+      "Why Air France 447 Fell From the Sky",
+      "The Stall That Lasted Minutes"
+    ],
+    "kapak": [
+      "STALL",
+      "ICED SENSORS"
+    ],
+    "hook": "The plane was still flyable",
+    "soru": "Would you push the nose down?",
+    "sahneler": [
+      "An airliner fell into the Atlantic Ocean.",
+      "It dropped for minutes in a deep stall, and all two hundred twenty eight aboard died.",
+      "It began with ice crystals.",
+      "They blocked the tubes that measure airspeed.",
+      "The autopilot disconnected, and the crew lost trusted speed data.",
+      "The nose was held up, and the wings stopped producing lift.",
+      "The stall was never recognized.",
+      "Now crews train for high-altitude stalls, and the sensors were replaced."
+    ],
+    "etiketler": [
+      "Air France 447",
+      "pitot tube",
+      "stall",
+      "Airbus A330",
+      "2009"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Air France Flight 447",
+        "url": "https://en.wikipedia.org/wiki/Air_France_Flight_447"
+      }
+    ]
+  },
+  {
+    "slug": "japan-airlines-123-1985",
+    "wiki": "Japan_Air_Lines_Flight_123",
+    "commons": "Japan Air Lines Flight 123",
+    "baslik": "One Row of Rivets Instead of Two — 520 Died",
+    "ad": "Japan Air Lines Flight 123",
+    "kisa": "JAL 123",
+    "nesne": "Pressure bulkhead",
+    "yil": 1985,
+    "kume": "aviation-failures",
+    "oncelik": 9,
+    "sonuc": "crashed into a mountain after losing its tail fin",
+    "tetik": "a faulty repair with one row of rivets where two were needed",
+    "mekanizma": "fatigue failure of an improperly repaired aft pressure bulkhead",
+    "sayi": "520 DEAD",
+    "ders": "structural repairs are now inspected against the approved repair design",
+    "zincir": [
+      "TAIL STRIKE DAMAGES BULKHEAD",
+      "REPAIR USES ONE ROW OF RIVETS",
+      "FATIGUE CRACKS GROW FOR YEARS",
+      "BULKHEAD BURSTS IN FLIGHT",
+      "FIN AND HYDRAULICS LOST"
+    ],
+    "zaman": [
+      {
+        "t": "Aug 12, 1985",
+        "olay": "Bulkhead failure; crash on Mount Takamagahara"
+      }
+    ],
+    "yanilgi": "The accident began seven years earlier, with a repair after a tail strike on landing.",
+    "tartisma": "The repair looked fine from outside. How do you inspect what a repair crew got wrong inside?",
+    "basliklar": [
+      "One Row of Rivets Instead of Two — 520 Died",
+      "Why Japan Air Lines Flight 123 Lost Its Tail",
+      "The Repair That Failed Seven Years Later"
+    ],
+    "kapak": [
+      "ONE ROW",
+      "520 DEAD"
+    ],
+    "hook": "One row, not two",
+    "soru": "Who checks the repair?",
+    "sahneler": [
+      "A jumbo jet's tail fin blew off in flight.",
+      "Thirty two minutes later, it crashed into a mountain, and five hundred twenty people died.",
+      "The failure started seven years earlier.",
+      "After a tail strike, a pressure bulkhead was repaired.",
+      "The repair used one row of rivets where two were needed.",
+      "Fatigue cracks grew until the bulkhead burst.",
+      "Escaping air tore off the fin and cut the hydraulics.",
+      "Repairs are now checked against their approved design."
+    ],
+    "etiketler": [
+      "JAL 123",
+      "Boeing 747",
+      "pressure bulkhead",
+      "metal fatigue",
+      "1985"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Japan Air Lines Flight 123",
+        "url": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123"
+      },
+      {
+        "ad": "FAA Lessons Learned — Japan Airlines Flight 123, Boeing 747-SR100, JA8119",
+        "url": "https://www.faa.gov/lessons_learned/transport_airplane/accidents/JA8119"
+      }
+    ]
+  },
+  {
+    "slug": "comet-g-alyp-1954",
+    "wiki": "BOAC_Flight_781",
+    "commons": "de Havilland Comet",
+    "baslik": "The First Jetliner Kept Breaking Apart in the Sky",
+    "ad": "the de Havilland Comet",
+    "kisa": "Comet",
+    "nesne": "Fuselage",
+    "yil": 1954,
+    "kume": "materials-failures",
+    "oncelik": 9,
+    "sonuc": "broke apart in flight",
+    "tetik": "fatigue cracks at a corner of a cut-out in the cabin roof",
+    "mekanizma": "metal fatigue from repeated pressurisation concentrated at sharp cut-out corners",
+    "sayi": "35 ABOARD",
+    "ders": "fuselages are now fatigue-tested in water tanks and designed to stop cracks",
+    "zincir": [
+      "CABIN PRESSURISED EVERY FLIGHT",
+      "STRESS PEAKS AT CUT-OUT CORNERS",
+      "FATIGUE CRACK GROWS",
+      "FUSELAGE RUPTURES",
+      "AIRLINER BREAKS UP"
+    ],
+    "zaman": [
+      {
+        "t": "Jan 10, 1954",
+        "olay": "BOAC Flight 781 breaks up near Elba"
+      }
+    ],
+    "yanilgi": "It wasn't a bomb or engine fire. Investigators proved it by pressurising a whole Comet in a water tank until the cabin cracked.",
+    "tartisma": "The Comet was the world's first jet airliner. Can a first design ever be fully safe?",
+    "basliklar": [
+      "The First Jetliner Kept Breaking Apart in the Sky",
+      "Why the de Havilland Comet Failed",
+      "The Water Tank Test That Solved the Comet Crashes"
+    ],
+    "kapak": [
+      "METAL FATIGUE",
+      "FIRST JET"
+    ],
+    "hook": "The first jetliner",
+    "soru": "Would you have flown it?",
+    "sahneler": [
+      "The world's first jet airliner broke apart over the sea.",
+      "All thirty five people aboard died.",
+      "Then another Comet fell from the sky months later.",
+      "Investigators pressurized a whole Comet in a water tank, again and again.",
+      "The cabin split open at a sharp corner in the roof.",
+      "Every flight had stretched the metal, until fatigue cracked it.",
+      "Sharp corners concentrated the stress.",
+      "Since then, jets have rounded windows and fatigue-tested fuselages."
+    ],
+    "etiketler": [
+      "de Havilland Comet",
+      "BOAC 781",
+      "metal fatigue",
+      "jet airliner",
+      "1954"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — BOAC Flight 781",
+        "url": "https://en.wikipedia.org/wiki/BOAC_Flight_781"
+      }
+    ]
+  },
+  {
+    "slug": "grenfell-tower-2017",
+    "wiki": "Grenfell_Tower_fire",
+    "commons": "Grenfell Tower fire",
+    "baslik": "How Cladding Turned a Kitchen Fire Into a Tower Fire",
+    "ad": "Grenfell Tower",
+    "kisa": "Grenfell Tower",
+    "nesne": "Cladding",
+    "yil": 2017,
+    "kume": "fire-and-explosions",
+    "oncelik": 9,
+    "sonuc": "was engulfed by fire from top to bottom",
+    "tetik": "a fridge-freezer fire reaching the outside of the building",
+    "mekanizma": "polyethylene-core aluminium composite cladding and cavity insulation spreading fire up the facade",
+    "sayi": "72 DEAD",
+    "ders": "combustible cladding was banned on tall residential buildings in England",
+    "zincir": [
+      "FRIDGE-FREEZER FIRE",
+      "FLAMES REACH WINDOW FRAME",
+      "CLADDING CORE IGNITES",
+      "FIRE CLIMBS THE FACADE",
+      "STAY-PUT ADVICE FAILS"
+    ],
+    "zaman": [
+      {
+        "t": "Jun 14, 2017",
+        "olay": "Kitchen fire on the fourth floor spreads up the facade"
+      }
+    ],
+    "yanilgi": "The fire didn't spread through the building's interior first. It climbed the outside, through the cladding, and entered flats from there.",
+    "tartisma": "Residents were told to stay in their flats. When should a fire strategy be abandoned?",
+    "basliklar": [
+      "How Cladding Turned a Kitchen Fire Into a Tower Fire",
+      "Why Grenfell Tower Burned So Fast",
+      "The Facade That Carried the Fire"
+    ],
+    "kapak": [
+      "THE CLADDING",
+      "72 DEAD"
+    ],
+    "hook": "The outside burned",
+    "soru": "Stay put, or get out?",
+    "sahneler": [
+      "Fire raced up the outside of a London tower block.",
+      "Within about half an hour it reached the roof, and seventy two people died.",
+      "It began with a fridge-freezer in one flat.",
+      "Flames escaped through the window into the building's cladding.",
+      "Its panels had a plastic core that burned like fuel.",
+      "Fire climbed the facade and entered flats from outside.",
+      "Residents had been told to stay put.",
+      "England then banned combustible cladding on tall homes."
+    ],
+    "etiketler": [
+      "Grenfell Tower",
+      "cladding",
+      "fire safety",
+      "London",
+      "2017"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Grenfell Tower fire",
+        "url": "https://en.wikipedia.org/wiki/Grenfell_Tower_fire"
+      }
+    ]
+  },
+  {
+    "slug": "vajont-dam-1963",
+    "wiki": "Vajont_Dam",
+    "commons": "Vajont Dam",
+    "baslik": "The Dam Survived — the Valley Didn't",
+    "ad": "the Vajont Dam",
+    "kisa": "Vajont Dam",
+    "nesne": "Dam",
+    "yil": 1963,
+    "kume": "infrastructure-failures",
+    "oncelik": 9,
+    "sonuc": "sent a giant wave over its crest",
+    "tetik": "a mountainside sliding into the reservoir",
+    "mekanizma": "a massive landslide displacing reservoir water over the dam",
+    "sayi": "DAM SURVIVED",
+    "ders": "reservoir slopes are now studied as closely as the dam itself",
+    "zincir": [
+      "RESERVOIR FILLED AGAINST WEAK SLOPE",
+      "SLOPE CREEPS FOR YEARS",
+      "LANDSLIDE FALLS INTO LAKE",
+      "WAVE OVERTOPS DAM",
+      "TOWNS BELOW DESTROYED"
+    ],
+    "zaman": [
+      {
+        "t": "Oct 9, 1963",
+        "olay": "Landslide into the reservoir; wave overtops the dam"
+      }
+    ],
+    "yanilgi": "The dam didn't break. It was the mountainside next to it that failed, and the dam survived almost intact.",
+    "tartisma": "Warnings about the slope existed before the reservoir was filled. Who should have stopped it?",
+    "basliklar": [
+      "The Dam Survived — the Valley Didn't",
+      "Why the Vajont Dam Disaster Happened",
+      "The Mountain That Fell Into a Lake"
+    ],
+    "kapak": [
+      "DAM SURVIVED",
+      "THE MOUNTAIN FELL"
+    ],
+    "hook": "The dam held",
+    "soru": "Would you have filled the lake?",
+    "sahneler": [
+      "A mountainside collapsed into a reservoir in the Italian Alps.",
+      "A giant wave rushed over the dam and destroyed the towns below.",
+      "Here's the strange part: the dam itself survived.",
+      "The failure was the slope beside the lake.",
+      "Filling the reservoir soaked and weakened that rock.",
+      "For years it crept, until it slid all at once.",
+      "The dam only guided the wave into the valley.",
+      "Now reservoir slopes are studied as closely as dams."
+    ],
+    "etiketler": [
+      "Vajont Dam",
+      "landslide",
+      "dam disaster",
+      "Italy",
+      "1963"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Vajont Dam",
+        "url": "https://en.wikipedia.org/wiki/Vajont_Dam"
+      },
+      {
+        "ad": "ASDSO Dam Failures and Lessons Learned — Vajont Dam (Italy, 1963)",
+        "url": "https://damfailures.org/case-study/vajont-dam-italy-1963/"
+      }
+    ]
+  },
+  {
+    "slug": "st-francis-dam-1928",
+    "wiki": "St._Francis_Dam",
+    "commons": "St. Francis Dam",
+    "baslik": "The Dam That Failed Hours After Being Declared Safe",
+    "ad": "the St. Francis Dam",
+    "kisa": "St. Francis Dam",
+    "nesne": "Dam",
+    "yil": 1928,
+    "kume": "infrastructure-failures",
+    "oncelik": 9,
+    "sonuc": "burst just before midnight",
+    "tetik": "weak rock foundations softened by the reservoir",
+    "mekanizma": "foundation failure of the dam's abutment rock, with uplift pressure under the dam",
+    "sayi": "HOURS AFTER",
+    "ders": "California created state dam-safety oversight",
+    "zincir": [
+      "DAM BUILT ON WEAK ROCK",
+      "LEAKS APPEAR",
+      "INSPECTED AND DECLARED SAFE",
+      "ABUTMENT GIVES WAY AT NIGHT",
+      "FLOOD SWEEPS THE VALLEY"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 12, 1928",
+        "olay": "Inspection in the morning; failure just before midnight"
+      }
+    ],
+    "yanilgi": "The leak seen that morning looked like normal seepage. The real weakness was the rock the dam stood on.",
+    "tartisma": "The chief engineer inspected it the same day and called it safe. What would you have needed to see?",
+    "basliklar": [
+      "The Dam That Failed Hours After Being Declared Safe",
+      "Why the St. Francis Dam Collapsed",
+      "The Inspection, Then the Flood"
+    ],
+    "kapak": [
+      "DECLARED SAFE",
+      "HOURS LATER"
+    ],
+    "hook": "Declared safe that morning",
+    "soru": "Would you have called it safe?",
+    "sahneler": [
+      "Just before midnight, a California dam burst.",
+      "A wall of water swept down the valley toward the sea, killing hundreds.",
+      "That same morning, it had been inspected and called safe.",
+      "The engineers had seen new leaks.",
+      "They looked like the usual seepage.",
+      "But the rock beneath one side was weak and softening.",
+      "When it gave way, the dam broke apart.",
+      "California then created state oversight for dam safety."
+    ],
+    "etiketler": [
+      "St. Francis Dam",
+      "dam failure",
+      "California",
+      "William Mulholland",
+      "1928"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — St. Francis Dam",
+        "url": "https://en.wikipedia.org/wiki/St._Francis_Dam"
+      },
+      {
+        "ad": "ASDSO Dam Failures and Lessons Learned — St. Francis Dam (California, 1928)",
+        "url": "https://damfailures.org/case-study/st-francis-dam-california-1928/"
+      }
+    ]
+  },
+  {
+    "slug": "quebec-bridge-1907",
+    "wiki": "Quebec_Bridge",
+    "commons": "Quebec Bridge collapse 1907",
+    "baslik": "The Bridge That Collapsed Under Its Own Weight",
+    "ad": "the Quebec Bridge",
+    "kisa": "Quebec Bridge",
+    "nesne": "Bridge",
+    "yil": 1907,
+    "kume": "bridge-failures",
+    "oncelik": 8,
+    "sonuc": "collapsed into the St. Lawrence River during construction",
+    "tetik": "a weight estimate that was never recalculated after the span grew",
+    "mekanizma": "buckling of an overloaded lower compression chord",
+    "sayi": "75 KILLED",
+    "ders": "the collapse is remembered in the Iron Ring ceremony for Canadian engineers",
+    "zincir": [
+      "SPAN LENGTHENED",
+      "DEAD LOAD NOT RECALCULATED",
+      "CHORD BENDS",
+      "WARNINGS DEBATED",
+      "CANTILEVER COLLAPSES"
+    ],
+    "zaman": [
+      {
+        "t": "Aug 29, 1907",
+        "olay": "South cantilever collapses during construction"
+      }
+    ],
+    "yanilgi": "The collapse wasn't sudden and unannounced. Workers had measured a steel chord bending more each day.",
+    "tartisma": "An engineer ordered work stopped, but the message arrived too late. How fast should a warning travel?",
+    "basliklar": [
+      "The Bridge That Collapsed Under Its Own Weight",
+      "Why the Quebec Bridge Fell",
+      "The Warning That Came Too Late"
+    ],
+    "kapak": [
+      "ITS OWN WEIGHT",
+      "75 KILLED"
+    ],
+    "hook": "Crushed by its own weight",
+    "soru": "Would you have stopped work?",
+    "sahneler": [
+      "A giant bridge collapsed into the St. Lawrence River while it was being built.",
+      "Seventy five workers were killed.",
+      "It was crushed by its own weight.",
+      "The span had been lengthened during design.",
+      "But the weight of the steel was never properly recalculated.",
+      "Workers saw a key steel chord bending more each day.",
+      "The order to stop came too late.",
+      "Canadian engineers still recall it in the Iron Ring ceremony."
+    ],
+    "etiketler": [
+      "Quebec Bridge",
+      "bridge collapse",
+      "buckling",
+      "Canada",
+      "1907"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Quebec Bridge",
+        "url": "https://en.wikipedia.org/wiki/Quebec_Bridge"
+      },
+      {
+        "ad": "The Canadian Encyclopedia — Quebec Bridge Disasters",
+        "url": "https://www.thecanadianencyclopedia.ca/en/article/quebec-bridge-disasters"
+      }
+    ]
+  },
+  {
+    "slug": "texas-city-1947",
+    "wiki": "Texas_City_disaster",
+    "commons": "Texas City disaster",
+    "baslik": "A Ship Full of Fertilizer Exploded in a Harbor",
+    "ad": "the SS Grandcamp",
+    "kisa": "Texas City",
+    "nesne": "Ship",
+    "yil": 1947,
+    "kume": "fire-and-explosions",
+    "oncelik": 9,
+    "sonuc": "exploded in the port of Texas City",
+    "tetik": "a fire in a hold full of ammonium nitrate",
+    "mekanizma": "detonation of ammonium nitrate fertilizer heated in a closed, steam-smothered hold",
+    "sayi": "2,300 TONS",
+    "ders": "ammonium nitrate handling and port storage rules were tightened",
+    "zincir": [
+      "FIRE IN THE CARGO HOLD",
+      "HATCHES CLOSED, STEAM PUMPED IN",
+      "AMMONIUM NITRATE HEATS",
+      "SHIP DETONATES",
+      "FIRES SET OFF A SECOND SHIP"
+    ],
+    "zaman": [
+      {
+        "t": "Apr 16, 1947",
+        "olay": "Grandcamp explodes; High Flyer explodes the next day"
+      }
+    ],
+    "yanilgi": "Pumping in steam didn't smother the fire. It helped heat the ammonium nitrate toward detonation.",
+    "tartisma": "Crowds gathered to watch the burning ship. How close is too close to a fire you don't understand?",
+    "basliklar": [
+      "A Ship Full of Fertilizer Exploded in a Harbor",
+      "Why the Texas City Disaster Happened",
+      "The Fire They Tried to Smother With Steam"
+    ],
+    "kapak": [
+      "FERTILIZER",
+      "HARBOR BLAST"
+    ],
+    "hook": "It was carrying fertilizer",
+    "soru": "Would you have watched?",
+    "sahneler": [
+      "A cargo ship exploded in a Texas harbor.",
+      "The blast flattened the waterfront and killed hundreds.",
+      "Its cargo was ammonium nitrate fertilizer.",
+      "A fire had started deep in the hold.",
+      "The crew closed the hatches and pumped in steam to smother it.",
+      "That trapped heat, and the fertilizer detonated.",
+      "The next day, a second ship exploded too.",
+      "Rules for storing and shipping ammonium nitrate were tightened."
+    ],
+    "etiketler": [
+      "Texas City disaster",
+      "ammonium nitrate",
+      "Grandcamp",
+      "explosion",
+      "1947"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Texas City disaster",
+        "url": "https://en.wikipedia.org/wiki/Texas_City_disaster"
+      },
+      {
+        "ad": "Texas State Historical Association — Texas City Disaster",
+        "url": "https://www.tshaonline.org/handbook/entries/texas-city-disaster"
+      }
+    ]
+  },
+  {
+    "slug": "fukushima-daiichi-2011",
+    "wiki": "Fukushima_nuclear_accident",
+    "commons": "Fukushima Daiichi",
+    "baslik": "The Backup Generators Were in the Basement",
+    "ad": "Fukushima Daiichi",
+    "kisa": "Fukushima",
+    "nesne": "Nuclear plant",
+    "yil": 2011,
+    "kume": "nuclear-accidents",
+    "oncelik": 10,
+    "sonuc": "suffered three reactor meltdowns",
+    "tetik": "a tsunami flooding the backup power systems",
+    "mekanizma": "station blackout from flooded emergency diesel generators and switchgear, causing loss of cooling",
+    "sayi": "3 MELTDOWNS",
+    "ders": "plants worldwide added flood protection and portable backup power",
+    "zincir": [
+      "EARTHQUAKE STOPS REACTORS",
+      "TSUNAMI OVERTOPS SEAWALL",
+      "BACKUP GENERATORS FLOOD",
+      "COOLING STOPS",
+      "CORES MELT; HYDROGEN EXPLODES"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 11, 2011",
+        "olay": "Earthquake and tsunami; station blackout"
+      }
+    ],
+    "yanilgi": "The earthquake didn't cause the meltdowns. The reactors shut down safely; it was the tsunami's flooding of backup power that stopped the cooling.",
+    "tartisma": "Studies had warned of taller tsunamis. How rare does a threat have to be before you ignore it?",
+    "basliklar": [
+      "The Backup Generators Were in the Basement",
+      "Why Fukushima Melted Down",
+      "The Tsunami That Killed the Cooling"
+    ],
+    "kapak": [
+      "NO POWER",
+      "3 MELTDOWNS"
+    ],
+    "hook": "The backups flooded",
+    "soru": "Where would you put the generators?",
+    "sahneler": [
+      "Three nuclear reactors at Fukushima melted down.",
+      "Within days, hydrogen explosions destroyed reactor buildings.",
+      "The earthquake didn't do it.",
+      "The reactors had already shut down safely.",
+      "Then a tsunami poured over the seawall.",
+      "It flooded the backup generators and electrical rooms.",
+      "Without power, the cooling pumps stopped.",
+      "Plants worldwide then added flood protection and mobile backup power."
+    ],
+    "etiketler": [
+      "Fukushima",
+      "nuclear accident",
+      "tsunami",
+      "station blackout",
+      "2011"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Fukushima nuclear accident",
+        "url": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident"
+      },
+      {
+        "ad": "IAEA — The Fukushima Daiichi Accident, Report by the Director General",
+        "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1710-ReportByTheDG-Web.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "titanic-1912",
+    "wiki": "Titanic",
+    "commons": "RMS Titanic",
+    "baslik": "Titanic Could Survive Four Flooded Compartments — Not More",
+    "ad": "the Titanic",
+    "kisa": "Titanic",
+    "nesne": "Ship",
+    "yil": 1912,
+    "kume": "maritime-disasters",
+    "oncelik": 10,
+    "sonuc": "sank on her maiden voyage",
+    "tetik": "an iceberg scraping along the starboard side",
+    "mekanizma": "hull breaches across more watertight compartments than the design could survive",
+    "sayi": "4 COMPARTMENTS",
+    "ders": "SOLAS rules made lifeboats for everyone aboard mandatory",
+    "zincir": [
+      "ICEBERG SEEN TOO LATE",
+      "HULL BREACHED ALONG STARBOARD SIDE",
+      "TOO MANY COMPARTMENTS FLOOD",
+      "WATER SPILLS OVER BULKHEADS",
+      "SHIP SINKS"
+    ],
+    "zaman": [
+      {
+        "t": "Apr 15, 1912",
+        "olay": "Collision late on April 14; sinks early April 15"
+      }
+    ],
+    "yanilgi": "Titanic's bulkheads were not open-topped by accident, but they didn't reach high enough. As the bow sank, water spilled over them one by one.",
+    "tartisma": "Titanic carried more lifeboats than the law required. How can a ship meet the rules and still fail?",
+    "basliklar": [
+      "Titanic Could Survive Four Flooded Compartments — Not More",
+      "Why the Titanic Sank So Fast",
+      "The Watertight Walls That Weren't High Enough"
+    ],
+    "kapak": [
+      "4 COMPARTMENTS",
+      "NOT ENOUGH"
+    ],
+    "hook": "Built to float with four",
+    "soru": "Would four have been enough?",
+    "sahneler": [
+      "Titanic sank on her maiden voyage.",
+      "It went down in two hours and forty minutes, and more than fifteen hundred people died.",
+      "It was built to stay afloat with four compartments flooded.",
+      "The iceberg opened more than that along the side.",
+      "As the bow sank lower, water spilled over the watertight walls.",
+      "They weren't high enough to stop it.",
+      "There weren't enough lifeboats for everyone.",
+      "Now international rules require lifeboats for everyone aboard."
+    ],
+    "etiketler": [
+      "Titanic",
+      "iceberg",
+      "watertight compartments",
+      "SOLAS",
+      "1912"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Titanic",
+        "url": "https://en.wikipedia.org/wiki/Titanic"
+      },
+      {
+        "ad": "IMO — International Convention for the Safety of Life at Sea (SOLAS), 1974",
+        "url": "https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Safety-of-Life-at-Sea-(SOLAS),-1974.aspx"
+      }
+    ]
+  }
+]

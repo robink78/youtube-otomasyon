@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Arch Bridge That Fell Onto Fishing Boats",
+  "kaynaklar": [
+    {
+      "ad": "nanfangao-bridge-1.jpg",
+      "wikimedia": "2020. 10.01 總統探視傷者與家屬 (48825920961).jpg"
+    },
+    {
+      "ad": "nanfangao-bridge-2.jpg",
+      "wikimedia": "2020. 10.01 總統視察宜蘭南方澳跨港大橋崩塌搜救進度 (48826076262).jpg"
+    },
+    {
+      "ad": "nanfangao-bridge-3.jpg",
+      "wikimedia": "2020. 10.01 總統探視傷者與家屬 (48825546053).jpg"
+    },
+    {
+      "ad": "nanfangao-bridge-4.jpg",
+      "wikimedia": "2020. 10.01 總統視察宜蘭南方澳跨港大橋崩塌搜救進度 (48825922146).jpg"
+    },
+    {
+      "ad": "nanfangao-bridge-5.jpg",
+      "wikimedia": "Nanfangao Bridge Collapse 20191003f.jpg"
+    },
+    {
+      "ad": "nanfangao-bridge-6.jpg",
+      "wikimedia": "Su'Ao's Nanfangao Aerial Panorama.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A steel arch bridge in a Taiwan fishing port collapsed.",
+      "kaynak": "Footage/nanfangao-bridge-1.jpg"
+    },
+    {
+      "metin": "It crashed onto boats below, and six people were killed.",
+      "kaynak": "Footage/nanfangao-bridge-2.jpg"
+    },
+    {
+      "metin": "A tanker truck was crossing when it fell.",
+      "kaynak": "Footage/nanfangao-bridge-3.jpg"
+    },
+    {
+      "metin": "The deck hung from steel cables.",
+      "kaynak": "Footage/nanfangao-bridge-4.jpg"
+    },
+    {
+      "metin": "Corrosion had eaten away most of their cross-section.",
+      "kaynak": "Footage/nanfangao-bridge-5.jpg"
+    },
+    {
+      "metin": "Only a quarter of the steel was left.",
+      "kaynak": "Footage/nanfangao-bridge-6.jpg"
+    },
+    {
+      "metin": "The bridge had been inspected only once.",
+      "kaynak": "Footage/nanfangao-bridge-1.jpg"
+    },
+    {
+      "metin": "Taiwan reviewed how bridges are inspected.",
+      "kaynak": "Footage/nanfangao-bridge-2.jpg"
+    }
+  ],
+  "aciklama": "Nanfang'ao Bridge collapsed onto fishing boats in the harbour. The cause: corrosion leaving cables with a fraction of their cross-section.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Nanfang'ao Bridge",
+    "2019",
+    "suspension cables",
+    "engineering failure"
+  ],
+  "hook": "It fell on the boats",
+  "soru": "How often should bridges be checked?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Nanfang'ao Bridge",
+    "kisa": "Nanfang'ao Bridge",
+    "nesne": "Suspension cables",
+    "yil": 2019,
+    "sonuc": "collapsed onto fishing boats in the harbour",
+    "tetik": "corroded steel hanger cables",
+    "mekanizma": "corrosion leaving cables with a fraction of their cross-section",
+    "sayi": "SIX DIED",
+    "ders": "Taiwan reviewed bridge inspection and maintenance",
+    "zincir": [
+      "SALT AIR",
+      "CABLES CORRODE",
+      "ONE INSPECTION",
+      "CABLES FAIL",
+      "DECK FALLS ON BOATS"
+    ],
+    "zaman": [],
+    "yanilgi": "The bridge was only about twenty years old. Its cables had lost most of their steel to corrosion.",
+    "tartisma": "It had been inspected once. How often should a bridge be checked?",
+    "basliklar": [
+      "The Arch Bridge That Fell Onto Fishing Boats",
+      "Why the Nanfang'ao Bridge Collapsed",
+      "The Bridge That Fell on Fishing Boats"
+    ],
+    "kapak": [
+      "CORRODED",
+      "SIX DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Nanfang'ao Bridge",
+        "url": "https://en.wikipedia.org/wiki/Nanfang'ao_Bridge"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — taiwan bridge collapse (cited by Wikipedia)",
+        "url": "https://www.nytimes.com/2019/10/01/world/asia/taiwan-bridge-collapse.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-tmp",
+    "wiki": "Nanfang'ao_Bridge",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "2020. 10.01 總統探視傷者與家屬 (48825920961).jpg [CC BY 2.0]",
+      "2020. 10.01 總統視察宜蘭南方澳跨港大橋崩塌搜救進度 (48826076262).jpg [CC BY 2.0]",
+      "2020. 10.01 總統探視傷者與家屬 (48825546053).jpg [CC BY 2.0]",
+      "2020. 10.01 總統視察宜蘭南方澳跨港大橋崩塌搜救進度 (48825922146).jpg [CC BY 2.0]",
+      "Nanfangao Bridge Collapse 20191003f.jpg [CC BY 4.0]",
+      "Su'Ao's Nanfangao Aerial Panorama.jpg [CC BY 4.0]"
+    ]
+  }
+}

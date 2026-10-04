@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Thames Pleasure Boat That Sank Into Sewage",
+  "kaynaklar": [
+    {
+      "ad": "princess-alice-1.jpg",
+      "wikimedia": "Captain William R.H. Grinstead.jpg"
+    },
+    {
+      "ad": "princess-alice-2.jpg",
+      "wikimedia": "Crowd Outside the London Steam-Boat Company's Office in Woolwich.jpg"
+    },
+    {
+      "ad": "princess-alice-3.jpg",
+      "wikimedia": "In the Courtyard of North Woolwich Pier - Reading out the Names of Those Saved.jpg"
+    },
+    {
+      "ad": "princess-alice-4.jpg",
+      "wikimedia": "Offices of the London Steam-Boat Company, Bennet's-Hill, City - Inquiring for Lost Relatives on the Night of the Disaster.jpg"
+    },
+    {
+      "ad": "princess-alice-5.jpg",
+      "wikimedia": "Operations at the Scene of the Disaster - Funnel of Princess Alice in the Barge.jpg"
+    },
+    {
+      "ad": "princess-alice-6.jpg",
+      "wikimedia": "Princess alice collision in thames.jpg"
+    },
+    {
+      "ad": "princess-alice-7.jpg",
+      "wikimedia": "Saloon of the Princess Alice.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A crowded pleasure steamer was cut in two on the River Thames.",
+      "kaynak": "Footage/princess-alice-1.jpg"
+    },
+    {
+      "metin": "Within minutes, it sank and hundreds of people drowned.",
+      "kaynak": "Footage/princess-alice-2.jpg"
+    },
+    {
+      "metin": "A much larger collier had struck it.",
+      "kaynak": "Footage/princess-alice-3.jpg"
+    },
+    {
+      "metin": "The two ships misread each other's passing move.",
+      "kaynak": "Footage/princess-alice-4.jpg"
+    },
+    {
+      "metin": "Raw sewage had just been released into the river nearby.",
+      "kaynak": "Footage/princess-alice-5.jpg"
+    },
+    {
+      "metin": "Survivors struggled in foul water.",
+      "kaynak": "Footage/princess-alice-6.jpg"
+    },
+    {
+      "metin": "It became one of Britain's worst inland disasters.",
+      "kaynak": "Footage/princess-alice-7.jpg"
+    },
+    {
+      "metin": "River rules and London's sewage treatment were reformed.",
+      "kaynak": "Footage/princess-alice-1.jpg"
+    }
+  ],
+  "aciklama": "Princess Alice was cut in two on the Thames. The cause: collision in a busy river with unclear navigation rules, then drowning in polluted water.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Princess Alice",
+    "1878",
+    "paddle steamer",
+    "engineering failure"
+  ],
+  "hook": "Cut in two",
+  "soru": "Who shares the blame?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the Princess Alice",
+    "kisa": "Princess Alice",
+    "nesne": "Paddle steamer",
+    "yil": 1878,
+    "sonuc": "was cut in two on the Thames",
+    "tetik": "a collision with a much larger collier",
+    "mekanizma": "collision in a busy river with unclear navigation rules, then drowning in polluted water",
+    "sayi": "HUNDREDS DIED",
+    "ders": "Thames navigation rules and the treatment of London's sewage were reformed",
+    "zincir": [
+      "CROWDED EVENING TRIP",
+      "CONFUSED PASSING MANOEUVRE",
+      "COLLIER STRIKES AMIDSHIPS",
+      "STEAMER SPLITS IN TWO",
+      "PASSENGERS IN SEWAGE-FILLED WATER"
+    ],
+    "zaman": [],
+    "yanilgi": "Many victims didn't drown from the collision itself. They struggled in water full of raw sewage released minutes before.",
+    "tartisma": "London's sewage outfall had just opened nearby. Should the city share the blame?",
+    "basliklar": [
+      "The Thames Pleasure Boat That Sank Into Sewage",
+      "Why the Princess Alice Sank",
+      "The Collision in London's Sewage"
+    ],
+    "kapak": [
+      "CUT IN TWO",
+      "SEWAGE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SS Princess Alice",
+        "url": "https://en.wikipedia.org/wiki/SS_Princess_Alice"
+      },
+      {
+        "ad": "Academic / engineering journal — vserm0406 (cited by Wikipedia)",
+        "url": "https://sites.scran.ac.uk/voyage_of_the_scotia/scotia/vserm/vserm0406.htm"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "SS_Princess_Alice",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Captain William R.H. Grinstead.jpg [Public domain]",
+      "Crowd Outside the London Steam-Boat Company's Office in Woolwich.jpg [Public domain]",
+      "In the Courtyard of North Woolwich Pier - Reading out the Names of Those Saved.jpg [Public domain]",
+      "Offices of the London Steam-Boat Company, Bennet's-Hill, City - Inquiring for Lost Relatives on the Night of the Disaster.jpg [Public domain]",
+      "Operations at the Scene of the Disaster - Funnel of Princess Alice in the Barge.jpg [Public domain]",
+      "Princess alice collision in thames.jpg [Public domain]",
+      "Saloon of the Princess Alice.jpg [Public domain]"
+    ]
+  }
+}

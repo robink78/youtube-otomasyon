@@ -1,0 +1,252 @@
+{
+  "schema": "research-package/1",
+  "id": "critical-thread:the-hidden-system-behind-bosporus-vessel-transit-system",
+  "channel": "critical-thread",
+  "topicId": "CT-402",
+  "slug": "the-hidden-system-behind-bosporus-vessel-transit-system",
+  "subject": "Bosporus vessel transit system",
+  "cluster": "GLOBAL CHOKEPOINTS",
+  "topicHash": "c4faddcfd0ef+deep0",
+  "createdAt": "2026-09-30T15:48:35.713Z",
+  "reuseCount": 0,
+  "reusableFor": [
+    "long-form",
+    "derived-shorts",
+    "metadata",
+    "fact-check",
+    "visual-sourcing",
+    "follow-up-episodes"
+  ],
+  "sources": [
+    {
+      "name": "International Maritime Organization",
+      "url": "https://www.imo.org/",
+      "tier": "GOVERNMENT_AGENCY",
+      "score": 95
+    },
+    {
+      "name": "UNCTAD transport and trade logistics",
+      "url": "https://unctad.org/topic/transport-and-trade-logistics",
+      "tier": "GOVERNMENT_AGENCY",
+      "score": 95
+    },
+    {
+      "name": "Wikipedia — Bosporus vessel transit system",
+      "url": "https://en.wikipedia.org/wiki/Bosporus_vessel_transit_system",
+      "tier": "ENCYCLOPEDIA",
+      "score": 55
+    }
+  ],
+  "deepResearch": {
+    "article": "Bosporus vessel transit system",
+    "claims": 0,
+    "status": "ARTICLE_NOT_FOUND"
+  },
+  "sourceQuality": 95,
+  "primarySources": 2,
+  "claims": [
+    {
+      "id": "C1",
+      "text": "A grounding or collision can halt transits and queue ships at both ends.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "International Maritime Organization",
+      "role": "consequence"
+    },
+    {
+      "id": "C2",
+      "text": "Ships follow a winding 31 km channel through Istanbul, with long vessels pre-booking passage.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "International Maritime Organization",
+      "role": "mechanism"
+    },
+    {
+      "id": "C3",
+      "text": "The key figure: 700 m.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "International Maritime Organization",
+      "role": "number"
+    },
+    {
+      "id": "C4",
+      "text": "Why Black Sea trade narrows to 700 metres.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C5",
+      "text": "That's the Bosporus at its tightest, inside Istanbul.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C6",
+      "text": "The strait runs 31 kilometres through a city of 17 million.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C7",
+      "text": "Its depth ranges from 13 to 110 metres midstream.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C8",
+      "text": "Ships over 150 metres long must pre-book their passage.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C9",
+      "text": "In 2022, Turkey raised transit dues 500%, the first change since 1983.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C10",
+      "text": "One stalled tanker here can back up a whole sea's exports.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C11",
+      "text": "That's why a city channel controls a sea's access to the world.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C12",
+      "text": "The strait is 31 km (17 nmi) long, with a width of 3,329 m at the northern entrance and 2,826 m at the southern entrance.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — Bosporus",
+      "role": "evidence"
+    },
+    {
+      "id": "C13",
+      "text": "Its maximum width is 3,420 m between Umuryeri and Büyükdere Limanı, and minimum width is 700 m between Kandilli Point and Aşiyan.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — Bosporus",
+      "role": "evidence"
+    },
+    {
+      "id": "C14",
+      "text": "The depth of the Bosporus varies from 13 to 110 m (43 to 361 ft) in midstream with an average of 65 m (213 ft).",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — Bosporus",
+      "role": "evidence"
+    },
+    {
+      "id": "C15",
+      "text": "Ships over 150 metres long or 10 metres deep must pre-book their passage.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — Bosporus",
+      "role": "evidence"
+    },
+    {
+      "id": "C16",
+      "text": "In 2022 the dues levied by Turkey for freight ships increased 500% to US$4 per ton, the first change since 1983.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — Bosporus",
+      "role": "evidence"
+    },
+    {
+      "id": "C17",
+      "text": "The city of Istanbul's metropolitan population of 17 million inhabitants extends inland from both banks.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — Bosporus",
+      "role": "evidence"
+    },
+    {
+      "id": "C18",
+      "text": "Black Sea exports of grain, oil and metals depend on transit through the Bosporus.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "International Maritime Organization",
+      "role": "dependency"
+    },
+    {
+      "id": "C19",
+      "text": "At its narrowest the strait is only 700 m wide, with sharp turns and heavy local ferry traffic.",
+      "class": "MODEL",
+      "layer": "MODEL",
+      "source": "International Maritime Organization",
+      "role": "bottleneck"
+    },
+    {
+      "id": "C20",
+      "text": "Pipelines and rail carry part of the cargo, but most bulk trade has no other sea exit.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "International Maritime Organization",
+      "role": "resilience"
+    }
+  ],
+  "visualLeads": [
+    {
+      "text": "satellite map of the Bosporus through Istanbul",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "narrowest point at Kandilli",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "depth profile of the strait",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "tanker passing between city shores",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "Black Sea export routes",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "ship queue at the strait entrance",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    }
+  ],
+  "footage": [],
+  "gaps": [
+    "2 source(s); long-form needs ≥ 3",
+    "no deep research — long-form depth limited to the Shorts case file"
+  ]
+}

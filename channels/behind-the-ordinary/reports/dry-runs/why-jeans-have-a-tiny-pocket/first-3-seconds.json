@@ -1,0 +1,27 @@
+{
+  "First3SecondPlan": {
+    "narration": "That tiny jeans pocket was not designed for loose change.",
+    "firstFrame": {
+      "description": "jeans fills the frame; one marker isolates tiny pockets",
+      "source": "procedural render",
+      "startAtSeconds": 0,
+      "sourceClass": "REAL_OBJECT",
+      "communicates": "mystery",
+      "rule": "labelled illustration; no logo, no establishing shot"
+    },
+    "visual": "jeans fills the frame; one marker isolates tiny pockets",
+    "onScreenText": "NOT FOR COINS",
+    "motion": "macro push toward the highlighted detail in 0.7 s, then cut to source evidence",
+    "cutTiming": [
+      0,
+      1.5,
+      3
+    ],
+    "soundCue": "one small tactile click synchronized to the highlighted detail",
+    "communicates": "mystery"
+  },
+  "score": 81,
+  "passes": true,
+  "blockers": [],
+  "notes": []
+}

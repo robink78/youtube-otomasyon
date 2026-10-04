@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Schools in Tornado Alley Without Storm Shelters",
+  "kaynaklar": [
+    {
+      "ad": "moore-tornado-1.jpg",
+      "wikimedia": "A wooden cross stands as a monument to one of the students killed at the Plaza Towers Elementary School in Moore, Okla., May 28, 2013 130528-Z-VF620-4060.jpg"
+    },
+    {
+      "ad": "moore-tornado-2.jpg",
+      "wikimedia": "EF5Moore1.jpg"
+    },
+    {
+      "ad": "moore-tornado-3.jpg",
+      "wikimedia": "EF5Moore2.jpg"
+    },
+    {
+      "ad": "moore-tornado-4.jpg",
+      "wikimedia": "EF5damageMoore2013.jpg"
+    },
+    {
+      "ad": "moore-tornado-5.jpg",
+      "wikimedia": "May 20, 2013 Moore, Oklahoma tornado search and rescue.jpg"
+    },
+    {
+      "ad": "moore-tornado-6.jpg",
+      "wikimedia": "Oklahoma Gov. Mary Fallin, second from right, stands with a family that survived the May 20, 2013, tornado in Moore, Okla., May 28, 2013 130528-Z-VF620-4765.jpg"
+    },
+    {
+      "ad": "moore-tornado-7.jpg",
+      "wikimedia": "Shown here May 22, 2013, is an aerial view of homes destroyed by a tornado in Moore, Okla 130522-F-IE715-379.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An EF5 tornado struck Moore, Oklahoma, during the school day.",
+      "kaynak": "Footage/moore-tornado-1.jpg"
+    },
+    {
+      "metin": "Two schools were destroyed, and seven children were killed at one of them.",
+      "kaynak": "Footage/moore-tornado-2.jpg"
+    },
+    {
+      "metin": "Neither school had a storm shelter.",
+      "kaynak": "Footage/moore-tornado-3.jpg"
+    },
+    {
+      "metin": "Children sheltered in hallways and bathrooms.",
+      "kaynak": "Footage/moore-tornado-4.jpg"
+    },
+    {
+      "metin": "The tornado collapsed walls and roofs.",
+      "kaynak": "Footage/moore-tornado-5.jpg"
+    },
+    {
+      "metin": "Only reinforced safe rooms resist a direct hit like that.",
+      "kaynak": "Footage/moore-tornado-6.jpg"
+    },
+    {
+      "metin": "Moore then changed its rules.",
+      "kaynak": "Footage/moore-tornado-7.jpg"
+    },
+    {
+      "metin": "New schools and homes now need storm shelters.",
+      "kaynak": "Footage/moore-tornado-1.jpg"
+    }
+  ],
+  "aciklama": "Moore tornado destroyed two elementary schools. The cause: collapse of school buildings without reinforced storm shelters.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Moore tornado",
+    "2013",
+    "school",
+    "engineering failure"
+  ],
+  "hook": "There was no shelter",
+  "soru": "What is a safe room worth?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the 2013 Moore tornado",
+    "kisa": "Moore tornado",
+    "nesne": "School",
+    "yil": 2013,
+    "sonuc": "destroyed two elementary schools",
+    "tetik": "an EF5 tornado on a school day",
+    "mekanizma": "collapse of school buildings without reinforced storm shelters",
+    "sayi": "NO SHELTERS",
+    "ders": "Moore required storm shelters or safe rooms in new schools and homes",
+    "zincir": [
+      "SCHOOL DAY",
+      "EF5 TORNADO",
+      "NO SAFE ROOM",
+      "WALLS AND ROOF COLLAPSE",
+      "CHILDREN TRAPPED"
+    ],
+    "zaman": [],
+    "yanilgi": "Hallways and interior rooms weren't enough. Only reinforced shelters resist a direct EF5 hit.",
+    "tartisma": "Shelters cost money for every school. What is the price of a safe room?",
+    "basliklar": [
+      "Schools in Tornado Alley Without Storm Shelters",
+      "Why the Moore Tornado Destroyed Schools",
+      "The Schools Without Storm Shelters"
+    ],
+    "kapak": [
+      "NO SHELTERS",
+      "EF5"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2013 Moore tornado",
+        "url": "https://en.wikipedia.org/wiki/2013_Moore_tornado"
+      },
+      {
+        "ad": "NOAA — tgen3 (cited by Wikipedia)",
+        "url": "https://www.spc.noaa.gov/publications/broyles/tgen3.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "2013_Moore_tornado",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "A wooden cross stands as a monument to one of the students killed at the Plaza Towers Elementary School in Moore, Okla., May 28, 2013 130528-Z-VF620-4060.jpg [Public domain]",
+      "EF5Moore1.jpg [Public domain]",
+      "EF5Moore2.jpg [Public domain]",
+      "EF5damageMoore2013.jpg [Public domain]",
+      "May 20, 2013 Moore, Oklahoma tornado search and rescue.jpg [Public domain]",
+      "Oklahoma Gov. Mary Fallin, second from right, stands with a family that survived the May 20, 2013, tornado in Moore, Okla., May 28, 2013 130528-Z-VF620-4765.jpg [Public domain]",
+      "Shown here May 22, 2013, is an aerial view of homes destroyed by a tornado in Moore, Okla 130522-F-IE715-379.jpg [Public domain]"
+    ]
+  }
+}

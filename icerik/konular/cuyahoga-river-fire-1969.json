@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The River So Polluted It Kept Catching Fire",
+  "kaynaklar": [
+    {
+      "ad": "cuyahoga-river-fire-1.jpg",
+      "wikimedia": "Cuyahoga mouth.jpg"
+    },
+    {
+      "ad": "cuyahoga-river-fire-2.jpg",
+      "wikimedia": "City pump station discharges sewage into the Cuyohoga River - NARA - 550206 (Corrected).jpg"
+    },
+    {
+      "ad": "cuyahoga-river-fire-3.jpg",
+      "wikimedia": "Cuyahogadrawbridge.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In Cleveland, the Cuyahoga River caught fire.",
+      "kaynak": "Footage/cuyahoga-river-fire-1.jpg"
+    },
+    {
+      "metin": "Suddenly flames spread across oily debris on the water.",
+      "kaynak": "Footage/cuyahoga-river-fire-2.jpg"
+    },
+    {
+      "metin": "Factories had dumped waste into it for decades.",
+      "kaynak": "Footage/cuyahoga-river-fire-3.jpg"
+    },
+    {
+      "metin": "Oil and debris floated on the surface.",
+      "kaynak": "Footage/cuyahoga-river-fire-1.jpg"
+    },
+    {
+      "metin": "The river had burned at least fourteen times.",
+      "kaynak": "Footage/cuyahoga-river-fire-2.jpg"
+    },
+    {
+      "metin": "This fire drew national attention.",
+      "kaynak": "Footage/cuyahoga-river-fire-3.jpg"
+    },
+    {
+      "metin": "It helped spark the modern environmental movement.",
+      "kaynak": "Footage/cuyahoga-river-fire-1.jpg"
+    },
+    {
+      "metin": "It helped spur the Clean Water Act amendments and the EPA.",
+      "kaynak": "Footage/cuyahoga-river-fire-2.jpg"
+    }
+  ],
+  "aciklama": "Cuyahoga River caught fire in Cleveland. The cause: industrial pollution leaving flammable oil and debris floating on the river.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Cuyahoga River",
+    "1969",
+    "river",
+    "engineering failure"
+  ],
+  "hook": "A river caught fire",
+  "soru": "Why this fire?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Cuyahoga River",
+    "kisa": "Cuyahoga River",
+    "nesne": "River",
+    "yil": 1969,
+    "sonuc": "caught fire in Cleveland",
+    "tetik": "oil-soaked industrial debris on the water",
+    "mekanizma": "industrial pollution leaving flammable oil and debris floating on the river",
+    "sayi": "AT LEAST 14 FIRES",
+    "ders": "it helped spur the Clean Water Act amendments and the EPA",
+    "zincir": [
+      "FACTORIES DUMP WASTE",
+      "OIL AND DEBRIS FLOAT",
+      "SPARK IGNITES SLICK",
+      "RIVER BURNS",
+      "NATION PAYS ATTENTION"
+    ],
+    "zaman": [],
+    "yanilgi": "The 1969 fire wasn't the worst. The river had caught fire at least 14 times.",
+    "tartisma": "A small fire became a national symbol. Why do some disasters change laws and others don't?",
+    "basliklar": [
+      "The River So Polluted It Kept Catching Fire",
+      "Why the Cuyahoga River Caught Fire",
+      "The River That Burned"
+    ],
+    "kapak": [
+      "RIVER ON FIRE",
+      "14 FIRES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Cuyahoga River Fire",
+        "url": "https://en.wikipedia.org/wiki/Cuyahoga_River_Fire"
+      },
+      {
+        "ad": "US EPA — oh 5 3745 1 26 wqs (cited by Wikipedia)",
+        "url": "http://www.epa.gov/waterscience/standards/wqslibrary/oh/oh_5_3745-1-26_wqs.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "Cuyahoga_River_Fire",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Cuyahoga mouth.jpg [Public domain]",
+      "City pump station discharges sewage into the Cuyohoga River - NARA - 550206 (Corrected).jpg [Public domain]",
+      "Cuyahogadrawbridge.JPG [Public domain]"
+    ]
+  }
+}

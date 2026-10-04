@@ -1,0 +1,49 @@
+{
+  "channel": "impossible-brief",
+  "cycles": [
+    {
+      "cycleId": "2026-W40",
+      "channel": "impossible-brief",
+      "startedAt": "2026-09-30T15:48:34.232Z",
+      "status": "QUALITY_BLOCKED",
+      "evaluated": [
+        {
+          "slug": "what-if-we-mined-a-metal-asteroid",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 79,
+          "bucket": "A",
+          "decision": "BLOCK",
+          "score": 86,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~1.9 min; target 8–12 min — not padded"
+          ]
+        },
+        {
+          "slug": "could-earth-survive-one-day-without-earth-s-magnetic-field",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 78,
+          "bucket": "A",
+          "decision": "BLOCK",
+          "score": 84,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~1.9 min; target 8–12 min — not padded"
+          ]
+        },
+        {
+          "slug": "what-if-synthetic-fertilizer-disappeared",
+          "mode": "A_LONG_FIRST",
+          "LongFormPotentialScore": 78,
+          "bucket": "A",
+          "decision": "BLOCK",
+          "score": 86,
+          "hardFails": [
+            "INSUFFICIENT_DEPTH: evidence supports ~1.8 min; target 8–12 min — not padded"
+          ]
+        }
+      ],
+      "selected": null,
+      "reason": "no candidate passed the long-form quality gate; cadence does not override quality",
+      "finishedAt": "2026-09-30T15:48:35.659Z"
+    }
+  ]
+}

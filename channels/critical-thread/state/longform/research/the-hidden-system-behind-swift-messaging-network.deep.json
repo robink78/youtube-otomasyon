@@ -1,0 +1,236 @@
+{
+  "schema": "research-deep/1",
+  "channel": "critical-thread",
+  "slug": "the-hidden-system-behind-swift-messaging-network",
+  "article": "Message",
+  "via": "subject title (exact/redirect match, no fuzzy search)",
+  "fetchedAt": "2026-09-30T15:48:35.713Z",
+  "licence": "CC BY-SA 4.0 — facts only; never narrate verbatim",
+  "claims": [
+    {
+      "text": "A message is a unit of communication that conveys information from a sender to a receiver.",
+      "role": "consequence",
+      "section": "Lead",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "It can be transmitted through various forms, such as spoken or written words, signals, or electronic data, and can range from simple instructions to complex information.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The consumption of the message relies on how the recipient interprets the message, there are times where the recipient contradicts the intention of the message which results in a boomerang effect.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Message fatigue is another outcome recipients can obtain if a message is conveyed too much by the source.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Messages may be addressed to many unidentified recipients.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "One example of such a message is a press release, which may vary from a brief report or statement released by a public agency to commercial publicity material.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Another example of a message is an advertisement.",
+      "role": "event",
+      "section": "Lead",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "In communication between humans, messages can be verbal or nonverbal: A verbal message is an exchange of information using words.",
+      "role": "evidence",
+      "section": "Roles in human communication",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Examples include face-to-face communication, telephone calls, voicemails, emails, etc.",
+      "role": "evidence",
+      "section": "Roles in human communication",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "A nonverbal message is communicated through actions or behaviors rather than words, such as conscious or unconscious body language.",
+      "role": "evidence",
+      "section": "Roles in human communication",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "The phrase \"send a message\" or \"sending a message\" is also used for actions taken by a party to convey that party's attitude towards a certain thing.",
+      "role": "evidence",
+      "section": "Roles in human communication",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "For example, a government that executes people who commit acts of treason is sending a message that treason will not be tolerated.",
+      "role": "evidence",
+      "section": "Roles in human communication",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Conversely, a party that appears through its actions to endorse something that it opposes can be said to be \"sending the wrong message\", while one which appears to simultaneously endorse contradictory things can be said to be sending \"mixed messages\".",
+      "role": "evidence",
+      "section": "Roles in human communication",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "In distributed systems, events represent a fact or state change (e.g., OrderPlaced) and are typically broadcast asynchronously to multiple consumers, promoting loose coupling and scalability.",
+      "role": "event",
+      "section": "Events vs. messages",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "While events generally do not expect an immediate response, acknowledgment mechanisms are often implemented at the infrastructure level (e.g., Kafka commit offsets, SNS delivery statuses) rather than being an inherent part of the event pattern itself.",
+      "role": "event",
+      "section": "Events vs. messages",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "In contrast, messages serve a broader role, encompassing commands (e.g., ProcessPayment), events (e.g., PaymentProcessed), and documents (e.g., DataPayload).",
+      "role": "event",
+      "section": "Events vs. messages",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Both events and messages can support various delivery guarantees, including at-least-once, at-most-once, and exactly-once, depending on the technology stack and implementation.",
+      "role": "event",
+      "section": "Events vs. messages",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "However, exactly-once delivery is often achieved through idempotency mechanisms rather than true, infrastructure-level exactly-once semantics.",
+      "role": "event",
+      "section": "Events vs. messages",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Delivery patterns for both events and messages include publish/subscribe (one-to-many) and point-to-point (one-to-one).",
+      "role": "event",
+      "section": "Events vs. messages",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "While request/reply is technically possible, it is more commonly associated with messaging patterns rather than pure event-driven systems.",
+      "role": "event",
+      "section": "Events vs. messages",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Events excel at state propagation and decoupled notifications, while messages are better suited for command execution, workflow orchestration, and explicit coordination.",
+      "role": "event",
+      "section": "Events vs. messages",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "text": "Modern architectures commonly combine both approaches, leveraging events for distributed state change notifications and messages for targeted command execution and structured workflows based on specific timing, ordering, and delivery requirements.",
+      "role": "event",
+      "section": "Events vs. messages",
+      "source": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "layer": "SECONDARY SOURCE (encyclopedia)",
+      "verbatim": false,
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "images": [
+    "Glaspalast München 1891 062.jpg",
+    "MountScopusHeadstone2.JPG"
+  ],
+  "status": "OK"
+}

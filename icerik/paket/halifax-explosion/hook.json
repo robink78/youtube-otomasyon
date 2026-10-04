@@ -1,0 +1,49 @@
+{
+  "slug": "halifax-explosion",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.460Z",
+  "ekranHook": "Before the atom bomb",
+  "mevcut": {
+    "puan": 85,
+    "pencereler": {
+      "0-5": "Before the atomic bomb, this was the largest explosion humans had ever made. December",
+      "5-12": "sixth, 1917. Halifax Harbour, Canada. A cargo ship packed with wartime explosives collides with another vessel. A fire starts",
+      "12-20": "on deck, and crowds gather at their windows to watch. Then the ship detonates with the force of three kilotons of TNT.",
+      "20-30": "A square mile of the city is flattened in an instant. Nearly two thousand people die, and about nine thousand are injured, many by flying glass. A wall"
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "The Halifax Explosion flattened a square mile of the city."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a collision between two ships."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could a collision between two ships do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is detonation of a burning munitions cargo — and it is why munitions shipping rules and port emergency planning changed."
+      }
+    ],
+    "metin": "The Halifax Explosion flattened a square mile of the city. It took only a collision between two ships. So how could a collision between two ships do this? The answer is detonation of a burning munitions cargo — and it is why munitions shipping rules and port emergency planning changed.",
+    "puan": 95
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

@@ -30,6 +30,8 @@ function env(ad) {
 }
 
 const ANAHTAR = env("ANTHROPIC_API_KEY") || process.env.ANTHROPIC_API_KEY;
+const MODEL = process.env.ANTHROPIC_MODEL || env("ANTHROPIC_MODEL");
+if (!MODEL) { console.error('ANTHROPIC_MODEL ayarlanmali.'); process.exit(1); }
 if (!ANAHTAR) {
   console.error("✗ ANTHROPIC_API_KEY yok.");
   console.error("  Panel > Kaynaklar sekmesine yapistir.");
@@ -44,7 +46,8 @@ function temizle(ham) {
   return String(ham)
     .replace(/\r/g, "")
     .replace(/^\s*[\[(][^\])\n]{0,120}[\])]\s*$/gm, "")     // [B-ROLL: ...] gibi yonergeler
-    .replace(/^#{1,6}\s.*$/gm, "")                           // ## Basliklar
+    // "## BOLUM" basliklari KORUNUR (seslendirilmez; YouTube bolumleri olur). Digerleri silinir.
+    .replace(/^#{1,6}\s.*$/gm, (m) => /^##\s+[A-Z][A-Z /&'-]{2,60}$/.test(m.trim()) ? "\n" + m.trim() + "\n" : "")
     .replace(/^\s*\**\s*(?:title|baslik)\s*:.*$/gim, "")
     .replace(/^\s*(?:HOOK|INTRO|OUTRO|SECTION|PART|CTA|CONCLUSION)\s*\d*\s*[:\-—]?\s*$/gim, "")
     .replace(/^\s*\d{1,2}:\d{2}(?::\d{2})?\s*[-—:]?\s*/gm, "")
@@ -52,7 +55,7 @@ function temizle(ham) {
     .replace(/\*\*/g, "").replace(/[*_`]/g, "")
     .split(/\n\s*\n/)
     .map(p => p.replace(/\s*\n\s*/g, " ").trim())
-    .filter(p => p.length > 25)
+    .filter(p => p.length > 25 || /^##\s/.test(p))
     .join("\n\n")
     .trim();
 }
@@ -84,7 +87,7 @@ function temizle(ham) {
                  : konu.format === "short" ? "YouTube Shorts" : "YouTube uzun video";
   console.log("hedef   : " + formatAd + " · " +
     (hedefSn < 60 ? hedefSn + " sn" : hedefDk.toFixed(1) + " dk") + " (~" + hedefKelime + " kelime)");
-  console.log("model   : claude-opus-5");
+  console.log("model   : " + MODEL);
   console.log("");
 
   const client = new Anthropic({ apiKey: ANAHTAR });
@@ -111,6 +114,14 @@ function temizle(ham) {
     "  no abbreviations the voice would mangle. Write numbers as words when spoken",
     "  naturally ('two thousand' not '2,000') unless it is a year.",
     "- End on an idea, not a summary. No 'in conclusion'.",
+    "",
+    "This is Failure Reconstructed — forensic engineering documentaries. Reconstruct",
+    "exactly why a system failed from the evidence: the mechanism, the chain of",
+    "failures, the human/organisational decisions, and what changed afterwards.",
+    "Documentary voice, not YouTube-explainer voice. Never use these phrases:",
+    "'let's dive in', 'here's the fascinating part', 'but here's where things get",
+    "interesting', 'in today's video', 'welcome to', 'buckle up', 'you won't believe'.",
+    "No fake suspense: every open question you raise must be answered later.",
   ].join("\n");
 
   const istek = kisa
@@ -137,9 +148,12 @@ function temizle(ham) {
         "do not write an outline.",
         "",
         "Structure it as roughly " + Math.round(hedefKelime / 160) + " paragraphs, each a distinct scene that",
-        "moves the argument forward. Go deep: origins and background, then the",
-        "mechanism and concrete specifics, then consequences and honest objections,",
-        "then where it leads. Bring real detail — names, numbers, dates, examples.",
+        "moves the argument forward. Bring real detail — names, numbers, dates, mechanisms.",
+        "",
+        "Mark each section with its own line '## SECTION NAME' (uppercase) before its",
+        "paragraphs. These headings are not spoken; they become YouTube chapters.",
+        "",
+        require("./story-structure").brif(Object.assign({ slug: is }, konu), hedefSn),
         "",
         "Write the whole script now, start to finish.",
       ].join("\n");
@@ -147,7 +161,7 @@ function temizle(ham) {
   process.stdout.write("Claude yaziyor");
   let ham = "";
   const akis = client.messages.stream({
-    model: "claude-opus-5",
+    model: MODEL,
     max_tokens: 32000,
     system: sistem,
     output_config: { effort: "high" },
@@ -189,13 +203,12 @@ function temizle(ham) {
   fs.writeFileSync(hedefDosya, metin + "\n", "utf8");
 
   const u = sonuc.usage || {};
-  const maliyet = ((u.input_tokens || 0) / 1e6 * 5) + ((u.output_tokens || 0) / 1e6 * 25);
 
   console.log("");
   console.log("✓ senaryo yazildi: Voice/SESLENDIRME-TAM-METIN.txt");
   console.log("  " + k + " kelime · ~" + Math.floor(sn / 60) + " dk " + (sn % 60) + " sn · " +
               metin.split(/\n\s*\n/).length + " paragraf");
-  console.log("  maliyet: ~$" + maliyet.toFixed(3));
+  console.log("  token: " + (u.input_tokens || 0) + " giris / " + (u.output_tokens || 0) + " cikis; fiyat modele baglidir.");
   if (sn > hedefSn * 1.15) console.log("  ⚠ hedefi asiyor (" + hedefSn + " sn) — kisalt");
   if (konu.format === "reels" && sn > 180)
     console.log("  ⓘ 3 dakikayi asiyor: Instagram bunu takipcin olmayanlara onermez.");

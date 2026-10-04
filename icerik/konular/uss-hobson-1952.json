@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Unexplained Turn That Sank a Destroyer",
+  "kaynaklar": [
+    {
+      "ad": "uss-hobson-1.jpg",
+      "wikimedia": "Damaged Bow of USS Wasp (CV-18) in 1952.jpg"
+    },
+    {
+      "ad": "uss-hobson-2.jpg",
+      "wikimedia": "USS Wasp (CV-18) receiving new bow in 1952.jpg"
+    },
+    {
+      "ad": "uss-hobson-3.jpg",
+      "wikimedia": "View of crane at Brooklyn Navy Yard in May 1952.jpg"
+    },
+    {
+      "ad": "uss-hobson-4.jpg",
+      "wikimedia": "USS Hobson (DMS-26) underway in 1948.jpg"
+    },
+    {
+      "ad": "uss-hobson-5.jpg",
+      "wikimedia": "USS Hobson Christening NH 53551.jpg"
+    },
+    {
+      "ad": "uss-hobson-6.jpg",
+      "wikimedia": "Uss Hobson DD-464 Normandy.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At night in the Atlantic, the carrier Wasp struck the destroyer Hobson.",
+      "kaynak": "Footage/uss-hobson-1.jpg"
+    },
+    {
+      "metin": "It broke in two and sank quickly, and one hundred seventy six men were killed.",
+      "kaynak": "Footage/uss-hobson-2.jpg"
+    },
+    {
+      "metin": "The carrier was turning to recover aircraft.",
+      "kaynak": "Footage/uss-hobson-3.jpg"
+    },
+    {
+      "metin": "The usual move was to slow down and let it pass.",
+      "kaynak": "Footage/uss-hobson-4.jpg"
+    },
+    {
+      "metin": "Hobson's captain tried to cross in front instead.",
+      "kaynak": "Footage/uss-hobson-5.jpg"
+    },
+    {
+      "metin": "He ordered a hard left turn into the carrier's path.",
+      "kaynak": "Footage/uss-hobson-6.jpg"
+    },
+    {
+      "metin": "An inquiry called it an unexplained left turn.",
+      "kaynak": "Footage/uss-hobson-1.jpg"
+    },
+    {
+      "metin": "The Allied Navy Signal Book was changed.",
+      "kaynak": "Footage/uss-hobson-2.jpg"
+    }
+  ],
+  "aciklama": "USS Hobson sank after colliding with the carrier USS Wasp. The cause: a destroyer attempting to cross ahead of a turning carrier and being struck amidships.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "USS Hobson",
+    "1952",
+    "destroyer",
+    "engineering failure"
+  ],
+  "hook": "It tried to race ahead",
+  "soru": "Should juniors overrule?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "USS Hobson",
+    "kisa": "USS Hobson",
+    "nesne": "Destroyer",
+    "yil": 1952,
+    "sonuc": "sank after colliding with the carrier USS Wasp",
+    "tetik": "a turn across the carrier's path at night",
+    "mekanizma": "a destroyer attempting to cross ahead of a turning carrier and being struck amidships",
+    "sayi": "176 LOST",
+    "ders": "the Allied Navy Signal Book was changed after the inquiry",
+    "zincir": [
+      "CARRIER TURNS INTO WIND",
+      "DESTROYER MUST GIVE WAY",
+      "CAPTAIN TRIES TO CROSS AHEAD",
+      "CARRIER STRIKES",
+      "SHIP BREAKS IN TWO"
+    ],
+    "zaman": [],
+    "yanilgi": "The safe option was simple: slow down. The destroyer tried to race ahead instead.",
+    "tartisma": "An officer on the bridge warned of collision too late. When should juniors overrule the captain?",
+    "basliklar": [
+      "The Unexplained Turn That Sank a Destroyer",
+      "Why USS Hobson Sank",
+      "The Destroyer That Raced Across a Carrier"
+    ],
+    "kapak": [
+      "WRONG TURN",
+      "176 LOST"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Hobson",
+        "url": "https://en.wikipedia.org/wiki/USS_Hobson"
+      },
+      {
+        "ad": "Government source — hobson wasp 1952 pt 1 (cited by Wikipedia)",
+        "url": "http://www.jag.navy.mil/library/investigations/hobson%20wasp%201952%20pt%201.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "USS_Hobson",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Damaged Bow of USS Wasp (CV-18) in 1952.jpg [Public domain]",
+      "USS Wasp (CV-18) receiving new bow in 1952.jpg [Public domain]",
+      "View of crane at Brooklyn Navy Yard in May 1952.jpg [Public domain]",
+      "USS Hobson (DMS-26) underway in 1948.jpg [Public domain]",
+      "USS Hobson Christening NH 53551.jpg [Public domain]",
+      "Uss Hobson DD-464 Normandy.jpg [Public domain]"
+    ]
+  }
+}

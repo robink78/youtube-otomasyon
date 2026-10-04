@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Fighter Jet and an Airliner Met Over the Mountains",
+  "kaynaklar": [
+    {
+      "ad": "hughes-airwest-706-1.jpg",
+      "wikimedia": "19710606-0-C-1 1.jpg"
+    },
+    {
+      "ad": "hughes-airwest-706-2.jpg",
+      "wikimedia": "19710606-0-C-2 1.jpg"
+    },
+    {
+      "ad": "hughes-airwest-706-3.png",
+      "wikimedia": "Hughes Airwest Flight 706 collision area.png"
+    },
+    {
+      "ad": "hughes-airwest-706-4.jpg",
+      "wikimedia": "McDonnell Douglas F4B Phantom II 151458, Da Nang, May 1965.jpg"
+    },
+    {
+      "ad": "hughes-airwest-706-5.jpg",
+      "wikimedia": "N9345 Air West.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Over the San Gabriel Mountains, an airliner and a Marine fighter collided.",
+      "kaynak": "Footage/hughes-airwest-706-1.jpg"
+    },
+    {
+      "metin": "Both crashed, killing all forty nine aboard the DC-9 and the fighter's pilot.",
+      "kaynak": "Footage/hughes-airwest-706-2.jpg"
+    },
+    {
+      "metin": "The fighter was flying under visual flight rules.",
+      "kaynak": "Footage/hughes-airwest-706-3.png"
+    },
+    {
+      "metin": "It wasn't in contact with civilian controllers.",
+      "kaynak": "Footage/hughes-airwest-706-4.jpg"
+    },
+    {
+      "metin": "The airliner was climbing out of Los Angeles.",
+      "kaynak": "Footage/hughes-airwest-706-5.jpg"
+    },
+    {
+      "metin": "Neither crew saw the other in time.",
+      "kaynak": "Footage/hughes-airwest-706-1.jpg"
+    },
+    {
+      "metin": "The fighter's radar officer ejected and survived.",
+      "kaynak": "Footage/hughes-airwest-706-2.jpg"
+    },
+    {
+      "metin": "Military jets were then required to contact civilian controllers.",
+      "kaynak": "Footage/hughes-airwest-706-3.png"
+    }
+  ],
+  "aciklama": "Hughes Airwest 706 collided with a military jet over the San Gabriel Mountains. The cause: midair collision where neither crew saw the other in time and the fighter wasn't under radar control.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Hughes Airwest 706",
+    "1971",
+    "airspace",
+    "engineering failure"
+  ],
+  "hook": "Neither crew saw the other",
+  "soru": "Who owns the airspace?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Hughes Airwest Flight 706",
+    "kisa": "Hughes Airwest 706",
+    "nesne": "Airspace",
+    "yil": 1971,
+    "sonuc": "collided with a military jet over the San Gabriel Mountains",
+    "tetik": "a fighter flying under visual rules through a civilian corridor",
+    "mekanizma": "midair collision where neither crew saw the other in time and the fighter wasn't under radar control",
+    "sayi": "49 ABOARD",
+    "ders": "military jets were required to contact civilian controllers in civil airspace",
+    "zincir": [
+      "FIGHTER FLIES VISUAL RULES",
+      "NO CONTACT WITH CIVIL ATC",
+      "AIRLINER CLIMBS OUT",
+      "NEITHER SEES THE OTHER",
+      "MIDAIR COLLISION"
+    ],
+    "zaman": [],
+    "yanilgi": "The skies weren't crowded. Neither crew saw the other in time.",
+    "tartisma": "Military and civilian traffic shared the same sky with different rules. Who should own the airspace?",
+    "basliklar": [
+      "A Fighter Jet and an Airliner Met Over the Mountains",
+      "Why Hughes Airwest Flight 706 Collided With a Fighter",
+      "The Midair Collision Over the San Gabriels"
+    ],
+    "kapak": [
+      "MIDAIR",
+      "NO CONTACT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Hughes Airwest Flight 706",
+        "url": "https://en.wikipedia.org/wiki/Hughes_Airwest_Flight_706"
+      },
+      {
+        "ad": "NTSB — AAR7226 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR7226.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-16",
+    "wiki": "Hughes_Airwest_Flight_706",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "19710606-0-C-1 1.jpg [Public domain]",
+      "19710606-0-C-2 1.jpg [Public domain]",
+      "Hughes Airwest Flight 706 collision area.png [Public domain]",
+      "McDonnell Douglas F4B Phantom II 151458, Da Nang, May 1965.jpg [Public domain]",
+      "N9345 Air West.jpg [CC BY 4.0]"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "why-elevators-dont-fall",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.921Z",
+  "secilen": "What Happens If Every Elevator Cable Snaps",
+  "secilenPuan": 54,
+  "mevcutPuan": 46.8,
+  "sablonOnerisi": {
+    "baslik": "The Physics of How Elevators Almost Never Fall",
+    "puan": 69.7,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 5,
+  "adaylar": [
+    {
+      "baslik": "The Physics of How Elevators Almost Never Fall",
+      "kalip": "physics-of",
+      "toplam": 69.7,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.9
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "template:physics-of"
+    },
+    {
+      "baslik": "What Happens If Every Elevator Cable Snaps",
+      "kalip": "what",
+      "toplam": 54,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.06,
+        "closest": "What Actually Makes Planes Crash"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why Elevators Almost Never Fall",
+      "kalip": "why",
+      "toplam": 46.8,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.9
+      },
+      "similarity": {
+        "max": 0.1,
+        "closest": "Why a Tiny Gas Leak Levels a Building"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "current"
+    },
+    {
+      "baslik": "The Brake That Stops a Falling Elevator",
+      "kalip": "the-x-that",
+      "toplam": 36,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "The Volcano That Erupted During World War II"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Elevators Explained",
+      "kalip": "explained",
+      "toplam": 15.4,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 8,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 1,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.09,
+        "closest": "Why Glass Explodes for No Reason"
+      },
+      "clickbaitRisk": 4,
+      "supportRatio": 0.5,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "only 50% of title words are supported by the script",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    }
+  ],
+  "yontem": "Heuristic scoring 0-10 per criterion; weighted to /100; minus similarity and clickbait penalties. Not a prediction of CTR."
+}

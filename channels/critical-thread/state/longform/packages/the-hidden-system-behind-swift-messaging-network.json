@@ -1,0 +1,1636 @@
+{
+  "schema": "growth-longform-package/1",
+  "channel": "critical-thread",
+  "channelName": "CriticalThread",
+  "contentType": "long",
+  "createdAt": "2026-09-30T15:48:35.713Z",
+  "topic": {
+    "id": "CT-456",
+    "slug": "the-hidden-system-behind-swift-messaging-network",
+    "title": "The Network That Carries the World's Payment Messages",
+    "subject": "SWIFT messaging network",
+    "cluster": "FINANCIAL INFRASTRUCTURE"
+  },
+  "LongFormPotential": {
+    "channel": "critical-thread",
+    "topicId": "CT-456",
+    "slug": "the-hidden-system-behind-swift-messaging-network",
+    "title": "The Network That Carries the World's Payment Messages",
+    "cluster": "FINANCIAL INFRASTRUCTURE",
+    "LongFormPotentialScore": 76,
+    "bucket": "B",
+    "reasons": [
+      "LongFormPotential 76 ≥ 66"
+    ],
+    "factors": {
+      "DepthPotential": {
+        "value": 90,
+        "basis": "derived+inventory-signal"
+      },
+      "NarrativeDepth": {
+        "value": 41,
+        "basis": "derived"
+      },
+      "SourceDepth": {
+        "value": 73,
+        "basis": "derived",
+        "note": "2 sources, 2 primary"
+      },
+      "VisualDepth": {
+        "value": 96,
+        "basis": "inventory-signal"
+      },
+      "EngineeringOrScientificDepth": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "SearchDemand": {
+        "value": 86,
+        "basis": "inventory-signal",
+        "note": "seed estimate unless measured"
+      },
+      "EvergreenPotential": {
+        "value": 93,
+        "basis": "inventory-signal"
+      },
+      "AudienceFit": {
+        "value": 90,
+        "basis": "inventory-signal"
+      },
+      "ShortsEvidence": {
+        "value": 50,
+        "basis": "derived",
+        "note": "no published Short in this cluster yet — neutral"
+      },
+      "SeriesPotential": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "ViewerJourneyPotential": {
+        "value": 55,
+        "basis": "derived"
+      }
+    },
+    "weights": {
+      "DepthPotential": 1.2,
+      "NarrativeDepth": 1.1,
+      "SourceDepth": 1.2,
+      "VisualDepth": 1,
+      "EngineeringOrScientificDepth": 1.2,
+      "SearchDemand": 0.9,
+      "EvergreenPotential": 0.9,
+      "AudienceFit": 0.8,
+      "ShortsEvidence": 1,
+      "SeriesPotential": 1,
+      "ViewerJourneyPotential": 1
+    },
+    "specificEvidence": 12
+  },
+  "researchPackage": {
+    "id": "critical-thread:the-hidden-system-behind-swift-messaging-network",
+    "sources": [
+      {
+        "name": "Bank for International Settlements",
+        "url": "https://www.bis.org/",
+        "tier": "GOVERNMENT_AGENCY",
+        "score": 95
+      },
+      {
+        "name": "Federal Reserve Financial Services",
+        "url": "https://www.frbservices.org/",
+        "tier": "GOVERNMENT_AGENCY",
+        "score": 95
+      },
+      {
+        "name": "Wikipedia — Message",
+        "url": "https://en.wikipedia.org/wiki/Message",
+        "tier": "ENCYCLOPEDIA",
+        "score": 55
+      }
+    ],
+    "claims": 44,
+    "deepResearch": {
+      "article": "Message",
+      "via": "subject title (exact/redirect match, no fuzzy search)",
+      "claims": 22,
+      "status": "OK",
+      "licence": "CC BY-SA 4.0 — facts only; never narrate verbatim"
+    },
+    "gaps": [
+      "2 source(s); long-form needs ≥ 3"
+    ],
+    "reuseCount": 0
+  },
+  "outline": {
+    "structure": [
+      "COLD_OPEN",
+      "INVISIBLE_SYSTEM",
+      "WHERE_IT_EXISTS",
+      "HOW_IT_WORKS",
+      "WHAT_DEPENDS_ON_IT",
+      "BOTTLENECK",
+      "WHY_THE_BOTTLENECK_EXISTS",
+      "FAILURE_SCENARIO",
+      "CASCADING_CONSEQUENCES",
+      "REDUNDANCY_ALTERNATIVES",
+      "FINAL_SYSTEM_INSIGHT"
+    ],
+    "sections": [
+      {
+        "order": 1,
+        "section": "COLD_OPEN",
+        "question": "What is the unresolved consequence the viewer sees first?",
+        "claimIds": [
+          "C1",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C23"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 2,
+        "section": "INVISIBLE_SYSTEM",
+        "question": "What is it?",
+        "claimIds": [
+          "C11",
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C20",
+          "C30",
+          "C31",
+          "C32",
+          "C33",
+          "C34",
+          "C35"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 3,
+        "section": "WHERE_IT_EXISTS",
+        "question": "Where is it?",
+        "claimIds": [
+          "C24",
+          "C25",
+          "C26",
+          "C27",
+          "C28",
+          "C29",
+          "C36",
+          "C37",
+          "C38",
+          "C39",
+          "C40",
+          "C41",
+          "C42",
+          "C43",
+          "C44"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 4,
+        "section": "HOW_IT_WORKS",
+        "question": "How does it work?",
+        "claimIds": [
+          "C2"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 5,
+        "section": "WHAT_DEPENDS_ON_IT",
+        "question": "What depends on it?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 6,
+        "section": "BOTTLENECK",
+        "question": "Where is the chokepoint?",
+        "claimIds": [
+          "C21"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 7,
+        "section": "WHY_THE_BOTTLENECK_EXISTS",
+        "question": "Why can't it be replaced quickly?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 8,
+        "section": "FAILURE_SCENARIO",
+        "question": "What if it fails?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 9,
+        "section": "CASCADING_CONSEQUENCES",
+        "question": "What fails next?",
+        "claimIds": [
+          "C1",
+          "C23"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 10,
+        "section": "REDUNDANCY_ALTERNATIVES",
+        "question": "What protects the system?",
+        "claimIds": [
+          "C22"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 11,
+        "section": "FINAL_SYSTEM_INSIGHT",
+        "question": "What does this reveal about the modern world?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      }
+    ],
+    "missingSections": [
+      "WHAT_DEPENDS_ON_IT",
+      "WHY_THE_BOTTLENECK_EXISTS",
+      "FAILURE_SCENARIO",
+      "FINAL_SYSTEM_INSIGHT"
+    ],
+    "coverage": 64
+  },
+  "coldOpens": {
+    "candidates": [
+      {
+        "type": "visual_first_reveal",
+        "text": "Why banks depend on one hidden network.",
+        "score": 75,
+        "estimatedSeconds": 2.2
+      },
+      {
+        "type": "impossible_sounding_fact",
+        "text": "As of 2018, around half of all high-value cross-border payments worldwide used the SWIFT network.",
+        "score": 70,
+        "estimatedSeconds": 4.7
+      },
+      {
+        "type": "scarcity_bottleneck",
+        "text": "Replacing SWIFT messaging network is not a simple purchase.",
+        "score": 69,
+        "estimatedSeconds": 2.8
+      },
+      {
+        "type": "question_gap",
+        "text": "What stops if SWIFT messaging network stops?",
+        "score": 68,
+        "estimatedSeconds": 2.2
+      },
+      {
+        "type": "hidden_cause",
+        "text": "Cross-border bank payments depend on standardised SWIFT messages between institutions quietly relies on SWIFT messaging network.",
+        "score": 66,
+        "estimatedSeconds": 5
+      },
+      {
+        "type": "unexpected_chain_reaction",
+        "text": "It never holds the money, only the payment messages.",
+        "score": 66,
+        "estimatedSeconds": 2.8
+      },
+      {
+        "type": "contradiction",
+        "text": "SWIFT does not manage accounts for individuals or institutions and does not hold funds from third parties.",
+        "score": 62,
+        "estimatedSeconds": 5.3
+      },
+      {
+        "type": "shocking_consequence",
+        "text": "A bank cut off from the network can still hold money but struggles to instruct payments abroad, isolating its customers.",
+        "score": 61,
+        "estimatedSeconds": 6.3
+      }
+    ],
+    "selected": {
+      "type": "visual_first_reveal",
+      "text": "Why banks depend on one hidden network.",
+      "score": 75,
+      "estimatedSeconds": 2.2
+    }
+  },
+  "script": {
+    "generator": "deterministic-evidence",
+    "llmError": null,
+    "depthNote": null,
+    "sections": [
+      {
+        "section": "COLD_OPEN",
+        "paragraphs": [
+          {
+            "text": "Why banks depend on one hidden network.",
+            "claims": [],
+            "role": "cold-open"
+          }
+        ]
+      },
+      {
+        "section": "INVISIBLE_SYSTEM",
+        "paragraphs": [
+          {
+            "text": "Most people never see it. In 2015 SWIFT linked more than 11,000 financial institutions in over 200 countries and territories. Its members were exchanging an average of over 32 million messages per day. As of 2018, around half of all high-value cross-border payments worldwide used the SWIFT network. SWIFT is a cooperative established in 1973 in Belgium and owned by its member banks and firms. SWIFT does not manage accounts for individuals or institutions and does not hold funds from third parties. SWIFT was founded in Brussels on 3 May 1973. It was initially supported by 239 banks in 15 countries. After a payment is initiated, it must be settled through a payment system such as T2 in Europe. SWIFT assigns ISO 9362 Business Identifier Codes, popularly known as SWIFT codes. Cross-border bank payments depend on standardised SWIFT messages between institutions.",
+            "claims": [
+              "C11",
+              "C12",
+              "C13",
+              "C14",
+              "C15",
+              "C16",
+              "C17",
+              "C18",
+              "C19",
+              "C20"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "WHERE_IT_EXISTS",
+        "paragraphs": []
+      },
+      {
+        "section": "HOW_IT_WORKS",
+        "paragraphs": [
+          {
+            "text": "Here is how it works. Banks exchange standardised payment instructions over SWIFT; settlement itself happens through accounts held elsewhere.",
+            "claims": [
+              "C2"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "WHAT_DEPENDS_ON_IT",
+        "paragraphs": []
+      },
+      {
+        "section": "BOTTLENECK",
+        "paragraphs": [
+          {
+            "text": "That is the bottleneck. Replacing it means every counterparty adopting another messaging system, identifier scheme and security setup at once.",
+            "claims": [
+              "C21"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "WHY_THE_BOTTLENECK_EXISTS",
+        "paragraphs": []
+      },
+      {
+        "section": "FAILURE_SCENARIO",
+        "paragraphs": []
+      },
+      {
+        "section": "CASCADING_CONSEQUENCES",
+        "paragraphs": [
+          {
+            "text": "The failure would not stay contained. A bank cut off from the network can still hold money but struggles to instruct payments abroad, isolating its customers.",
+            "claims": [
+              "C1"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "REDUNDANCY_ALTERNATIVES",
+        "paragraphs": [
+          {
+            "text": "So what protects the system? Alternative domestic messaging systems, correspondent workarounds and contingency channels exist but cover only part of the traffic.",
+            "claims": [
+              "C22"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "FINAL_SYSTEM_INSIGHT",
+        "paragraphs": []
+      }
+    ],
+    "words": 235,
+    "estimatedMinutes": 1.6,
+    "paragraphs": 6,
+    "secondsPerNewBeat": 16
+  },
+  "claimSourceMap": {
+    "rows": [
+      {
+        "section": "COLD_OPEN",
+        "excerpt": "Why banks depend on one hidden network.",
+        "claims": []
+      },
+      {
+        "section": "INVISIBLE_SYSTEM",
+        "excerpt": "Most people never see it. In 2015 SWIFT linked more than 11,000 financial institutions in ",
+        "claims": [
+          {
+            "id": "C11",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — SWIFT"
+          },
+          {
+            "id": "C12",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — SWIFT"
+          },
+          {
+            "id": "C13",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — SWIFT"
+          },
+          {
+            "id": "C14",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — SWIFT"
+          },
+          {
+            "id": "C15",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — SWIFT"
+          },
+          {
+            "id": "C16",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — SWIFT"
+          },
+          {
+            "id": "C17",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — SWIFT"
+          },
+          {
+            "id": "C18",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — SWIFT"
+          },
+          {
+            "id": "C19",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — SWIFT"
+          },
+          {
+            "id": "C20",
+            "class": "CONFIRMED_FACT",
+            "source": "Bank for International Settlements"
+          }
+        ]
+      },
+      {
+        "section": "HOW_IT_WORKS",
+        "excerpt": "Here is how it works. Banks exchange standardised payment instructions over SWIFT; settlem",
+        "claims": [
+          {
+            "id": "C2",
+            "class": "CONFIRMED_FACT",
+            "source": "Bank for International Settlements"
+          }
+        ]
+      },
+      {
+        "section": "BOTTLENECK",
+        "excerpt": "That is the bottleneck. Replacing it means every counterparty adopting another messaging s",
+        "claims": [
+          {
+            "id": "C21",
+            "class": "MODEL",
+            "source": "Bank for International Settlements"
+          }
+        ]
+      },
+      {
+        "section": "CASCADING_CONSEQUENCES",
+        "excerpt": "The failure would not stay contained. A bank cut off from the network can still hold money",
+        "claims": [
+          {
+            "id": "C1",
+            "class": "CONFIRMED_FACT",
+            "source": "Bank for International Settlements"
+          }
+        ]
+      },
+      {
+        "section": "REDUNDANCY_ALTERNATIVES",
+        "excerpt": "So what protects the system? Alternative domestic messaging systems, correspondent workaro",
+        "claims": [
+          {
+            "id": "C22",
+            "class": "CONFIRMED_FACT",
+            "source": "Bank for International Settlements"
+          }
+        ]
+      }
+    ],
+    "unsupportedParagraphs": 0,
+    "unsupportedNumbers": [],
+    "copyRisks": []
+  },
+  "scenePlan": [
+    {
+      "scene": 1,
+      "narrationSpan": [
+        0,
+        3
+      ],
+      "section": "COLD_OPEN",
+      "visualPurpose": "show evidence",
+      "visualType": "REAL_INFRASTRUCTURE",
+      "subject": "payment message flow between two banks",
+      "asset": "payment message flow between two banks",
+      "sourceRequirement": "government/manufacturer media or licensed industrial footage",
+      "durationEstimateSeconds": 2.8,
+      "motion": "slow push-in to detail",
+      "claimSupported": null,
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 2,
+      "narrationSpan": [
+        3,
+        22
+      ],
+      "section": "INVISIBLE_SYSTEM",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "In 2015 SWIFT linked more than 11,000 financial institutions in over 200 countries and",
+      "asset": "diagram:INVISIBLE_SYSTEM:C11",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 18.8,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C11",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 3,
+      "narrationSpan": [
+        22,
+        40
+      ],
+      "section": "INVISIBLE_SYSTEM",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "Its members were exchanging an average of over 32 million messages per day.",
+      "asset": "diagram:INVISIBLE_SYSTEM:C12",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 18.8,
+      "motion": "lateral reframe / crop to evidence",
+      "claimSupported": "C12",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 4,
+      "narrationSpan": [
+        40,
+        59
+      ],
+      "section": "INVISIBLE_SYSTEM",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "As of 2018, around half of all high-value cross-border payments worldwide used the SWIFT",
+      "asset": "diagram:INVISIBLE_SYSTEM:C13",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 18.8,
+      "motion": "hold, animated highlight on the claimed element",
+      "claimSupported": "C13",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 5,
+      "narrationSpan": [
+        59,
+        67
+      ],
+      "section": "HOW_IT_WORKS",
+      "visualPurpose": "explain mechanism",
+      "visualType": "PROCESS_DIAGRAM",
+      "subject": "Banks exchange standardised payment instructions over SWIFT; settlement itself happens through accounts held elsewhere.",
+      "asset": "diagram:HOW_IT_WORKS:C2",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 7.6,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C2",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 6,
+      "narrationSpan": [
+        67,
+        75
+      ],
+      "section": "BOTTLENECK",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "Replacing it means every counterparty adopting another messaging system, identifier scheme and security setup",
+      "asset": "diagram:BOTTLENECK:C21",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 8,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C21",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 7,
+      "narrationSpan": [
+        75,
+        85
+      ],
+      "section": "CASCADING_CONSEQUENCES",
+      "visualPurpose": "explain mechanism",
+      "visualType": "MAP",
+      "subject": "A bank cut off from the network can still hold money but struggles to",
+      "asset": "diagram:CASCADING_CONSEQUENCES:C1",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 10.4,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C1",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 8,
+      "narrationSpan": [
+        85,
+        94
+      ],
+      "section": "REDUNDANCY_ALTERNATIVES",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "Alternative domestic messaging systems, correspondent workarounds and contingency channels exist but cover only part",
+      "asset": "diagram:REDUNDANCY_ALTERNATIVES:C22",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 8.8,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C22",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    }
+  ],
+  "assetPlan": {
+    "byType": {
+      "REAL_INFRASTRUCTURE": 1,
+      "TECHNICAL_ILLUSTRATION": 5,
+      "PROCESS_DIAGRAM": 1,
+      "MAP": 1
+    },
+    "distinctSubjects": 8,
+    "archivalLeads": 8,
+    "articleImageCandidates": 2,
+    "overused": [],
+    "licensing": "record source, licence and URL per asset in GORSEL-KAYNAKLARI.txt (existing ledger)"
+  },
+  "thumbnails": {
+    "concepts": [
+      {
+        "id": "critical-object",
+        "primarySubject": "SWIFT messaging network",
+        "background": "faint global network",
+        "visualHierarchy": "SWIFT messaging network isolated against a dark technical field",
+        "emotion": "quiet tension / dependency",
+        "text": "ONE NETWORK",
+        "textLength": 11,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 80,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 89
+      },
+      {
+        "id": "system-map",
+        "primarySubject": "SWIFT messaging network",
+        "background": "downstream nodes dimmed",
+        "visualHierarchy": "SWIFT messaging network centered inside a minimal dependency map",
+        "emotion": "quiet tension / dependency",
+        "text": "ONE NETWORK",
+        "textLength": 11,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 80,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 89
+      },
+      {
+        "id": "scale",
+        "primarySubject": "SWIFT messaging network",
+        "background": "small Earth silhouette",
+        "visualHierarchy": "extreme close view of SWIFT messaging network",
+        "emotion": "quiet tension / dependency",
+        "text": "ONE NETWORK",
+        "textLength": 11,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 80,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 89
+      },
+      {
+        "id": "failure",
+        "primarySubject": "SWIFT messaging network",
+        "background": "restrained dark infrastructure",
+        "visualHierarchy": "SWIFT messaging network with one precise break or warning marker",
+        "emotion": "quiet tension / dependency",
+        "text": "ONE NETWORK",
+        "textLength": 11,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 80,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 89
+      },
+      {
+        "id": "replacement",
+        "primarySubject": "SWIFT messaging network",
+        "background": "lead-time clock",
+        "visualHierarchy": "SWIFT messaging network beside an empty replacement outline",
+        "emotion": "quiet tension / dependency",
+        "text": "ONE NETWORK",
+        "textLength": 11,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 80,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 89
+      }
+    ],
+    "selected": {
+      "id": "critical-object",
+      "primarySubject": "SWIFT messaging network",
+      "background": "faint global network",
+      "visualHierarchy": "SWIFT messaging network isolated against a dark technical field",
+      "emotion": "quiet tension / dependency",
+      "text": "ONE NETWORK",
+      "textLength": 11,
+      "textWords": 2,
+      "contrast": "light subject on dark field; single accent colour",
+      "truthfulness": "evidence-consistent",
+      "mobileReadability": 100,
+      "scores": {
+        "Clarity": 95,
+        "Curiosity": 80,
+        "VisualImpact": 75,
+        "TopicRecognition": 90,
+        "MobileReadability": 100,
+        "Truthfulness": 100,
+        "ChannelFit": 86
+      },
+      "total": 89
+    },
+    "meetsMinimum": true
+  },
+  "titles": {
+    "selected": {
+      "title": "What Happens If SWIFT Messaging Network Fails?",
+      "source": "what-if-fails",
+      "pattern": "question",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 84,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 95,
+        "channelIdentity": 62,
+        "ctrPotential": 87,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "total": 88,
+      "adjustedTotal": 88,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 88,
+    "count": 23,
+    "candidates": [
+      {
+        "title": "What Happens If SWIFT Messaging Network Fails?",
+        "source": "what-if-fails",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 87,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 88,
+        "adjustedTotal": 88,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden System Behind SWIFT Messaging Network",
+        "source": "hidden-system",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 84,
+        "adjustedTotal": 84,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How the World Depends on SWIFT Messaging Network",
+        "source": "world-depends",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 87,
+          "channelIdentity": 74,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why SWIFT Messaging Network Is so Hard to Replace",
+        "source": "hard-to-replace",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "SWIFT Messaging Network: Where It Is, How It Works, What Depends on It",
+        "source": "where-how-what",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 90,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 87,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [
+          "where"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Inside SWIFT Messaging Network: The Complete System Map",
+        "source": "system-map",
+        "pattern": "inside",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 82,
+        "adjustedTotal": 82,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How SWIFT Messaging Network Became Critical Infrastructure",
+        "source": "became-critical",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 82,
+        "adjustedTotal": 82,
+        "unsupportedWords": [
+          "became"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why SWIFT Messaging Network Matters More Than You Think",
+        "source": "matters-more",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 82,
+        "adjustedTotal": 82,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Who Makes SWIFT Messaging Network — And Why so Few Can",
+        "source": "who-makes",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Mapping the SWIFT Messaging Network Dependency Chain",
+        "source": "mapping",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 63,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 79,
+        "adjustedTotal": 79,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "SWIFT Messaging Network — A Critical Systems Documentary",
+        "source": "documentary",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 79,
+        "adjustedTotal": 79,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Cascading Failure Hidden in SWIFT Messaging Network",
+        "source": "cascade",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 78,
+        "adjustedTotal": 78,
+        "unsupportedWords": [
+          "cascading"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "SWIFT Messaging Network Explained: Dependency, Bottleneck, Resilience",
+        "source": "explained-dbr",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 63,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 77,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "resilience"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Backup Plan for SWIFT Messaging Network",
+        "source": "backup-plan",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 76,
+        "adjustedTotal": 76,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "SWIFT Messaging Network: The Bottleneck Holding up Modern Life",
+        "source": "bottleneck",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 75,
+        "adjustedTotal": 75,
+        "unsupportedWords": [
+          "holding"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "If SWIFT Messaging Network Stopped Tomorrow",
+        "source": "stopped-tomorrow",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 63,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 75,
+        "adjustedTotal": 75,
+        "unsupportedWords": [
+          "tomorrow"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Invisible Infrastructure of SWIFT Messaging Network",
+        "source": "invisible",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 74,
+        "adjustedTotal": 74,
+        "unsupportedWords": [
+          "invisible"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why SWIFT Never Touches Your Money",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 91,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 50,
+          "channelIdentity": 60,
+          "ctrPotential": 77,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 73,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Single Point of Failure: SWIFT Messaging Network",
+        "source": "single-point",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 63,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 72,
+        "adjustedTotal": 72,
+        "unsupportedWords": [
+          "single",
+          "point"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Global Chain Built on SWIFT Messaging Network",
+        "source": "global-chain",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 70,
+        "adjustedTotal": 70,
+        "unsupportedWords": [
+          "global",
+          "built"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Network Behind Almost Every International Payment",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 68,
+        "adjustedTotal": 68,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Network That Carries the World's Payment Messages",
+        "source": "editorial",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 72,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 65,
+        "adjustedTotal": 65,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "SWIFT Messaging Network: Redundancy, Risk and Recovery",
+        "source": "redundancy",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 69,
+        "adjustedTotal": 69,
+        "unsupportedWords": [
+          "redundancy",
+          "risk",
+          "recovery"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "derivedShorts": {
+    "shorts": [
+      {
+        "angle": "invisible-system",
+        "hook": "SWIFT assigns ISO 9362 Business Identifier Codes, popularly known as SWIFT codes.",
+        "hookFamily": "impossible_sounding_fact",
+        "hookScore": 70,
+        "first3SecondPlan": {
+          "narration": "SWIFT assigns ISO 9362 Business Identifier Codes, popularly known as SWIFT codes.",
+          "firstFrame": {
+            "description": "SWIFT messaging network isolated, dependency lines to what fails without it",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "TECHNICAL_ILLUSTRATION",
+            "communicates": "dependency",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "SWIFT messaging network isolated, dependency lines to what fails without it",
+          "onScreenText": "9362",
+          "motion": "dependency lines draw outward in 0.6 s, then hard cut",
+          "cutTiming": [
+            0,
+            1.5,
+            3
+          ],
+          "soundCue": "single mechanical click on the first cut",
+          "communicates": "dependency"
+        },
+        "miniNarrative": [
+          "In 2015 SWIFT linked more than 11,000 financial institutions in over 200 countries and territories.",
+          "Its members were exchanging an average of over 32 million messages per day.",
+          "As of 2018, around half of all high-value cross-border payments worldwide used the SWIFT network.",
+          "SWIFT is a cooperative established in 1973 in Belgium and owned by its member banks and firms."
+        ],
+        "payoff": "Conversely, a party that appears through its actions to endorse something that it opposes can be said to be \"sending the wrong message\", while one which appears to simultaneously endorse contradictory things can be said to be sending \"mixed messages\".",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "This is only one dependency. The full system is mapped in the linked episode.",
+        "claimIds": [
+          "C11",
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C20",
+          "C30",
+          "C31",
+          "C32",
+          "C33",
+          "C34",
+          "C35"
+        ]
+      },
+      {
+        "angle": "where-it-exists",
+        "hook": "Replacing SWIFT messaging network is not a simple purchase.",
+        "hookFamily": "scarcity_bottleneck",
+        "hookScore": 69,
+        "first3SecondPlan": {
+          "narration": "Replacing SWIFT messaging network is not a simple purchase.",
+          "firstFrame": {
+            "description": "SWIFT messaging network isolated, dependency lines to what fails without it",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "TECHNICAL_ILLUSTRATION",
+            "communicates": "dependency",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "SWIFT messaging network isolated, dependency lines to what fails without it",
+          "onScreenText": "ONE NETWORK",
+          "motion": "dependency lines draw outward in 0.6 s, then hard cut",
+          "cutTiming": [
+            0,
+            1.4,
+            2.8
+          ],
+          "soundCue": "single mechanical click on the first cut",
+          "communicates": "dependency"
+        },
+        "miniNarrative": [
+          "It can be transmitted through various forms, such as spoken or written words, signals, or electronic data, and can range from simple instructions to complex information.",
+          "The consumption of the message relies on how the recipient interprets the message, there are times where the recipient contradicts the intention of the message which results in a boomerang effect.",
+          "Message fatigue is another outcome recipients can obtain if a message is conveyed too much by the source.",
+          "Messages may be addressed to many unidentified recipients."
+        ],
+        "payoff": "Modern architectures commonly combine both approaches, leveraging events for distributed state change notifications and messages for targeted command execution and structured workflows based on specific timing, ordering, and delivery requirements.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "This is only one dependency. The full system is mapped in the linked episode.",
+        "claimIds": [
+          "C24",
+          "C25",
+          "C26",
+          "C27",
+          "C28",
+          "C29",
+          "C36",
+          "C37",
+          "C38",
+          "C39",
+          "C40",
+          "C41",
+          "C42",
+          "C43",
+          "C44"
+        ]
+      },
+      {
+        "angle": "cascading-consequences",
+        "hook": "Replacing SWIFT messaging network is not a simple purchase.",
+        "hookFamily": "scarcity_bottleneck",
+        "hookScore": 69,
+        "first3SecondPlan": {
+          "narration": "Replacing SWIFT messaging network is not a simple purchase.",
+          "firstFrame": {
+            "description": "SWIFT messaging network isolated, dependency lines to what fails without it",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "TECHNICAL_ILLUSTRATION",
+            "communicates": "dependency",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "SWIFT messaging network isolated, dependency lines to what fails without it",
+          "onScreenText": "ONE NETWORK",
+          "motion": "dependency lines draw outward in 0.6 s, then hard cut",
+          "cutTiming": [
+            0,
+            1.4,
+            2.8
+          ],
+          "soundCue": "single mechanical click on the first cut",
+          "communicates": "dependency"
+        },
+        "miniNarrative": [
+          "A bank cut off from the network can still hold money but struggles to instruct payments abroad, isolating its customers.",
+          "A message is a unit of communication that conveys information from a sender to a receiver."
+        ],
+        "payoff": "A message is a unit of communication that conveys information from a sender to a receiver.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "This is only one dependency. The full system is mapped in the linked episode.",
+        "claimIds": [
+          "C1",
+          "C23"
+        ]
+      }
+    ],
+    "count": 3,
+    "meetsMinimum": true
+  },
+  "relatedShorts": [],
+  "nextVideos": {
+    "primary_next_video": {
+      "slug": "why-foreign-exchange-settlement-system-is-so-hard-to-replace",
+      "videoId": null,
+      "title": "The System Settling $15.4 Trillion in a Day",
+      "reason": "same series; subject overlap 0.00, same cluster FINANCIAL INFRASTRUCTURE",
+      "score": 0.42
+    },
+    "secondary_next_video": {
+      "slug": "why-real-time-gross-settlement-system-is-so-hard-to-replace",
+      "videoId": null,
+      "title": "Why real-time gross settlement system Is So Hard to Replace",
+      "reason": "same series; subject overlap 0.00, same cluster FINANCIAL INFRASTRUCTURE",
+      "score": 0.41
+    }
+  },
+  "endScreenPlan": {
+    "primary_next_video": {
+      "slug": "why-foreign-exchange-settlement-system-is-so-hard-to-replace",
+      "videoId": null,
+      "title": "The System Settling $15.4 Trillion in a Day",
+      "reason": "same series; subject overlap 0.00, same cluster FINANCIAL INFRASTRUCTURE",
+      "score": 0.42
+    },
+    "secondary_next_video": {
+      "slug": "why-real-time-gross-settlement-system-is-so-hard-to-replace",
+      "videoId": null,
+      "title": "Why real-time gross settlement system Is So Hard to Replace",
+      "reason": "same series; subject overlap 0.00, same cluster FINANCIAL INFRASTRUCTURE",
+      "score": 0.41
+    },
+    "playlist": "FINANCIAL INFRASTRUCTURE",
+    "subscribe_element": true,
+    "timing": {
+      "startSeconds": 76,
+      "durationSeconds": 20,
+      "note": "final 20 s; narration must not end abruptly"
+    },
+    "final_narration_transition": "And this is only one thread. The System Settling $15.4 Trillion in a Day shows what it connects to.",
+    "apiSupport": "UNSUPPORTED — YouTube Data API v3 has no end-screen write endpoint; configure in Studio (task emitted)."
+  },
+  "cost": {
+    "estimated_production_cost": 0.05,
+    "currency": "USD",
+    "breakdown": {
+      "llmTokens": 0,
+      "ttsMinutes": 1.6,
+      "renderMinutesCpu": 4.8,
+      "assets": 8,
+      "youtubeQuotaUnits": 1650
+    },
+    "note": "approximate; update config/growth-engine.json cost units from invoices"
+  },
+  "readiness": {
+    "LongFormProductionReadinessScore": 85,
+    "decision": "BLOCK",
+    "dimensions": {
+      "TopicDepth": 90,
+      "NarrativeQuality": 71,
+      "Hook": 75,
+      "ResearchQuality": 97,
+      "SourceCoverage": 90,
+      "FactualAccuracy": 100,
+      "ScriptRetention": 49,
+      "VisualCoverage": 90,
+      "AudioQuality": null,
+      "Editing": null,
+      "Thumbnail": 89,
+      "Title": 88,
+      "CopyrightSafety": 90,
+      "Disclosure": 95,
+      "EndScreenPlan": 90,
+      "ShortFunnelPotential": 70
+    },
+    "unmeasured": [
+      "AudioQuality",
+      "Editing"
+    ],
+    "hardFails": [
+      "INSUFFICIENT_DEPTH: evidence supports ~1.6 min; target 8–12 min — not padded"
+    ],
+    "notes": [
+      "22 deep-research claims need the LLM writer (LONGFORM_LLM=1 + ANTHROPIC_API_KEY); the deterministic writer never narrates encyclopedia text verbatim"
+    ],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "targetMinutes": [
+    8,
+    12
+  ],
+  "summary": {
+    "Channel": "CriticalThread",
+    "Content Type": "LONG_FORM",
+    "Topic": "The Network That Carries the World's Payment Messages",
+    "LongFormPotentialScore": 76,
+    "Topic Bucket": "B",
+    "Cold Open": "Why banks depend on one hidden network.",
+    "Target Duration": "8–12 min",
+    "Actual Duration": "~1.6 min (script estimate, deterministic-evidence)",
+    "Scenes": 8,
+    "Thumbnail Score": 89,
+    "Title Score": 88,
+    "LongFormProductionReadinessScore": "85 → BLOCK",
+    "Related Shorts": "none published yet",
+    "Primary Next Video": "The System Settling $15.4 Trillion in a Day"
+  }
+}

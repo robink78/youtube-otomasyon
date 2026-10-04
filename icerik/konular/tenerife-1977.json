@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "Two Jumbo Jets, One Runway, and a Misunderstood Word",
+  "kaynaklar": [
+    {
+      "ad": "tenerife-1.jpg",
+      "wikimedia": "De kisten van de slachtoffers van de ramp, Bestanddeelnr 929-1123.jpg"
+    },
+    {
+      "ad": "tenerife-2.jpg",
+      "wikimedia": "Eén de twee verongelukte toestellen, Bestanddeelnr 929-1006 (cropped).jpg"
+    },
+    {
+      "ad": "tenerife-3.jpg",
+      "wikimedia": "Het verongelukte KLM-toestel De Rijn, Bestanddeelnr 929-1004 (cropped).jpg"
+    },
+    {
+      "ad": "tenerife-4.jpg",
+      "wikimedia": "Het verongelukte KLM-toestel De Rijn, Bestanddeelnr 929-1005 - cropped.jpg"
+    },
+    {
+      "ad": "tenerife-5.jpg",
+      "wikimedia": "Vlaggen halfstok voor het KLM-hoofdkantoor te Amstelveen, Bestanddeelnr 929-0961.jpg"
+    },
+    {
+      "ad": "tenerife-6.jpg",
+      "wikimedia": "1 minuut stilte aan het begin van de herdenking, Bestanddeelnr 929-1118.jpg"
+    },
+    {
+      "ad": "tenerife-7.jpg",
+      "wikimedia": "1 minuut stilte aan het begin van de herdenking, Bestanddeelnr 929-1119.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Two jumbo jets collided on a runway in Tenerife.",
+      "kaynak": "Footage/tenerife-1.jpg"
+    },
+    {
+      "metin": "It was the deadliest accident in aviation history: five hundred eighty three people died.",
+      "kaynak": "Footage/tenerife-2.jpg"
+    },
+    {
+      "metin": "Fog hid the runway, and one jet was still taxiing on it.",
+      "kaynak": "Footage/tenerife-3.jpg"
+    },
+    {
+      "metin": "The other began its take-off without clearance.",
+      "kaynak": "Footage/tenerife-4.jpg"
+    },
+    {
+      "metin": "A vague radio phrase sounded like permission.",
+      "kaynak": "Footage/tenerife-5.jpg"
+    },
+    {
+      "metin": "Two calls overlapped, and the warning was lost in noise.",
+      "kaynak": "Footage/tenerife-6.jpg"
+    },
+    {
+      "metin": "No machine failed that day.",
+      "kaynak": "Footage/tenerife-7.jpg"
+    },
+    {
+      "metin": "Aviation radio phrases were standardized afterward.",
+      "kaynak": "Footage/tenerife-1.jpg"
+    }
+  ],
+  "aciklama": "Tenerife saw two jumbo jets collide on a foggy runway. The cause: ambiguous radio phrasing, blocked transmissions and zero visibility on a single runway.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Tenerife",
+    "1977",
+    "runway",
+    "engineering failure"
+  ],
+  "hook": "Words, not machines",
+  "soru": "Would you question the captain?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the Tenerife runway collision",
+    "kisa": "Tenerife",
+    "nesne": "Runway",
+    "yil": 1977,
+    "sonuc": "saw two jumbo jets collide on a foggy runway",
+    "tetik": "a take-off started without clearance in fog",
+    "mekanizma": "ambiguous radio phrasing, blocked transmissions and zero visibility on a single runway",
+    "sayi": "583 KILLED",
+    "ders": "standard radio phrases were enforced and the word take-off reserved for clearance",
+    "zincir": [
+      "DIVERTED FLIGHTS CROWD SMALL AIRPORT",
+      "THICK FOG ROLLS IN",
+      "AMBIGUOUS RADIO PHRASE",
+      "TRANSMISSIONS BLOCK EACH OTHER",
+      "TAKE-OFF WITH A JET ON THE RUNWAY"
+    ],
+    "zaman": [],
+    "yanilgi": "No machine failed. The disaster was built from words: an ambiguous phrase and two radio calls that cancelled each other out.",
+    "tartisma": "The captain was the airline's most senior pilot. How do you question someone that senior?",
+    "basliklar": [
+      "Two Jumbo Jets, One Runway, and a Misunderstood Word",
+      "Why the Tenerife Disaster Happened",
+      "The Radio Call Nobody Heard"
+    ],
+    "kapak": [
+      "ONE WORD",
+      "583 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Tenerife airport disaster",
+        "url": "https://en.wikipedia.org/wiki/Tenerife_airport_disaster"
+      },
+      {
+        "ad": "Government source — finaldutchreport (cited by Wikipedia)",
+        "url": "https://www.faasafety.gov/files/gslac/courses/content/232/1081/finaldutchreport.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-03",
+    "wiki": "Tenerife_airport_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "De kisten van de slachtoffers van de ramp, Bestanddeelnr 929-1123.jpg [CC0]",
+      "Eén de twee verongelukte toestellen, Bestanddeelnr 929-1006 (cropped).jpg [CC0]",
+      "Het verongelukte KLM-toestel De Rijn, Bestanddeelnr 929-1004 (cropped).jpg [CC0]",
+      "Het verongelukte KLM-toestel De Rijn, Bestanddeelnr 929-1005 - cropped.jpg [CC0]",
+      "Vlaggen halfstok voor het KLM-hoofdkantoor te Amstelveen, Bestanddeelnr 929-0961.jpg [CC0]",
+      "1 minuut stilte aan het begin van de herdenking, Bestanddeelnr 929-1118.jpg [CC0]",
+      "1 minuut stilte aan het begin van de herdenking, Bestanddeelnr 929-1119.jpg [CC0]"
+    ]
+  }
+}

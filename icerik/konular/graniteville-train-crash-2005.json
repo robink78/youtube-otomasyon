@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "One Switch Left in the Wrong Position Released a Chlorine Cloud",
+  "kaynaklar": [
+    {
+      "ad": "graniteville-train-crash-1.jpg",
+      "wikimedia": "GranitevilleSC DerailmentSite.jpg"
+    },
+    {
+      "ad": "graniteville-train-crash-2.jpg",
+      "wikimedia": "Rock of Ages Quarry \"Hercules\" steam locomotive (Baldwin 0-6-2T) (Graniteville, Vermont, USA) 2 (23027973616).jpg"
+    },
+    {
+      "ad": "graniteville-train-crash-3.jpg",
+      "wikimedia": "Granodiorite (Barre Pluton, Devonian, ~380 Ma; Rock of Ages Quarry, Graniteville, Vermont, USA) 15.jpg"
+    },
+    {
+      "ad": "graniteville-train-crash-4.jpg",
+      "wikimedia": "Granodiorite (Barre Pluton, Devonian, ~380 Ma; Rock of Ages Quarry, Graniteville, Vermont, USA) 14.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At night in South Carolina, a freight train was diverted onto a siding.",
+      "kaynak": "Footage/graniteville-train-crash-1.jpg"
+    },
+    {
+      "metin": "It crashed into a parked train, and a chlorine tank car ruptured.",
+      "kaynak": "Footage/graniteville-train-crash-2.jpg"
+    },
+    {
+      "metin": "The switch should have been set for the main line.",
+      "kaynak": "Footage/graniteville-train-crash-3.jpg"
+    },
+    {
+      "metin": "A crew member later said he might have made a mistake.",
+      "kaynak": "Footage/graniteville-train-crash-4.jpg"
+    },
+    {
+      "metin": "No train used the line for hours to reveal it.",
+      "kaynak": "Footage/graniteville-train-crash-1.jpg"
+    },
+    {
+      "metin": "Chlorine gas spread through the town.",
+      "kaynak": "Footage/graniteville-train-crash-2.jpg"
+    },
+    {
+      "metin": "Nine people were killed and hundreds needed treatment.",
+      "kaynak": "Footage/graniteville-train-crash-3.jpg"
+    },
+    {
+      "metin": "The NTSB pushed for switch position warnings.",
+      "kaynak": "Footage/graniteville-train-crash-4.jpg"
+    }
+  ],
+  "aciklama": "Graniteville caused a freight collision and chlorine release. The cause: a misaligned switch diverting a train into a parked train and rupturing a chlorine tank car.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Graniteville",
+    "2005",
+    "rail switch",
+    "engineering failure"
+  ],
+  "hook": "One switch was wrong",
+  "soru": "Who catches one error?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Graniteville train crash",
+    "kisa": "Graniteville",
+    "nesne": "Rail switch",
+    "yil": 2005,
+    "sonuc": "caused a freight collision and chlorine release",
+    "tetik": "a siding switch left set against the main line",
+    "mekanizma": "a misaligned switch diverting a train into a parked train and rupturing a chlorine tank car",
+    "sayi": "NINE DIED",
+    "ders": "the NTSB pushed for switch position indication in dark territory",
+    "zincir": [
+      "TRAIN PARKED ON SIDING",
+      "SWITCH NOT RESET",
+      "NIGHT FREIGHT ARRIVES",
+      "DIVERTED INTO SIDING",
+      "CHLORINE TANK RUPTURES"
+    ],
+    "zaman": [],
+    "yanilgi": "The crash itself killed few. The chlorine gas released afterward killed most of the victims.",
+    "tartisma": "A brakeman said he might have made a mistake. How should one person's error be caught?",
+    "basliklar": [
+      "One Switch Left in the Wrong Position Released a Chlorine Cloud",
+      "Why the Graniteville Train Crash Happened",
+      "The Switch That Released a Chlorine Cloud"
+    ],
+    "kapak": [
+      "WRONG SWITCH",
+      "CHLORINE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Graniteville train crash",
+        "url": "https://en.wikipedia.org/wiki/Graniteville_train_crash"
+      },
+      {
+        "ad": "NTSB — RAR0504 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/RAR0504.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-tmp",
+    "wiki": "Graniteville_train_crash",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "GranitevilleSC DerailmentSite.jpg [Public domain]",
+      "Rock of Ages Quarry \"Hercules\" steam locomotive (Baldwin 0-6-2T) (Graniteville, Vermont, USA) 2 (23027973616).jpg [CC BY 2.0]",
+      "Granodiorite (Barre Pluton, Devonian, ~380 Ma; Rock of Ages Quarry, Graniteville, Vermont, USA) 15.jpg [CC BY 2.0]",
+      "Granodiorite (Barre Pluton, Devonian, ~380 Ma; Rock of Ages Quarry, Graniteville, Vermont, USA) 14.jpg [CC BY 2.0]"
+    ]
+  }
+}

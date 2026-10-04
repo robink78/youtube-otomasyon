@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Solar Storm That Set Telegraph Offices on Fire",
+  "kaynaklar": [
+    {
+      "ad": "carrington-event-1.jpg",
+      "wikimedia": "Carrington Richard drawing of 1859 sunspots.jpeg"
+    },
+    {
+      "ad": "carrington-event-2.png",
+      "wikimedia": "Carrington Event in the New York Times on August 30, 1859.png"
+    },
+    {
+      "ad": "carrington-event-3.png",
+      "wikimedia": "The Carrington Event -- Increased Exposure Variant.png"
+    },
+    {
+      "ad": "carrington-event-4.png",
+      "wikimedia": "The Carrington Event, 4x3.png"
+    },
+    {
+      "ad": "carrington-event-5.png",
+      "wikimedia": "The Carrington Event.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In 1859, the most intense geomagnetic storm on record hit Earth.",
+      "kaynak": "Footage/carrington-event-1.jpg"
+    },
+    {
+      "metin": "Suddenly, telegraph stations sparked, and some caught fire.",
+      "kaynak": "Footage/carrington-event-2.png"
+    },
+    {
+      "metin": "Astronomer Richard Carrington had seen a brilliant flare on the Sun.",
+      "kaynak": "Footage/carrington-event-3.png"
+    },
+    {
+      "metin": "A burst of solar plasma reached Earth in less than a day.",
+      "kaynak": "Footage/carrington-event-4.png"
+    },
+    {
+      "metin": "It slammed into Earth's magnetic field.",
+      "kaynak": "Footage/carrington-event-5.png"
+    },
+    {
+      "metin": "Currents surged through long telegraph wires.",
+      "kaynak": "Footage/carrington-event-1.jpg"
+    },
+    {
+      "metin": "Auroras were so bright miners woke thinking it was morning.",
+      "kaynak": "Footage/carrington-event-2.png"
+    },
+    {
+      "metin": "Today, a storm this strong could damage power grids and satellites.",
+      "kaynak": "Footage/carrington-event-3.png"
+    }
+  ],
+  "aciklama": "Carrington Event caused sparks and fires in telegraph stations worldwide. The cause: a geomagnetic storm inducing currents in long telegraph lines.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Carrington Event",
+    "1859",
+    "telegraph network",
+    "engineering failure"
+  ],
+  "hook": "The Sun set wires on fire",
+  "soru": "Are we ready for the next one?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Carrington Event",
+    "kisa": "Carrington Event",
+    "nesne": "Telegraph network",
+    "yil": 1859,
+    "sonuc": "caused sparks and fires in telegraph stations worldwide",
+    "tetik": "a coronal mass ejection hitting Earth's magnetosphere",
+    "mekanizma": "a geomagnetic storm inducing currents in long telegraph lines",
+    "sayi": "UNDER A DAY",
+    "ders": "a storm of this size today could damage power grids and satellites",
+    "zincir": [
+      "SOLAR FLARE",
+      "FAST CME",
+      "MAGNETOSPHERE HIT",
+      "CURRENTS IN WIRES",
+      "TELEGRAPHS SPARK"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't just a light show. The same storm today could knock out power grids.",
+    "tartisma": "Our world now runs on long wires and satellites. How ready are we for the next one?",
+    "basliklar": [
+      "The Solar Storm That Set Telegraph Offices on Fire",
+      "What the Carrington Event Would Do Today",
+      "The Solar Storm That Sparked Telegraphs"
+    ],
+    "kapak": [
+      "SOLAR STORM",
+      "SPARKS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Carrington Event",
+        "url": "https://en.wikipedia.org/wiki/Carrington_Event"
+      },
+      {
+        "ad": "NASA — 23jul superstorm (cited by Wikipedia)",
+        "url": "https://science.nasa.gov/science-news/science-at-nasa/2014/23jul_superstorm/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-tmp",
+    "wiki": "Carrington_Event",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Carrington Richard drawing of 1859 sunspots.jpeg [Public domain]",
+      "Carrington Event in the New York Times on August 30, 1859.png [Public domain]",
+      "The Carrington Event -- Increased Exposure Variant.png [CC BY 4.0]",
+      "The Carrington Event, 4x3.png [CC BY 4.0]",
+      "The Carrington Event.png [CC BY 4.0]"
+    ]
+  }
+}

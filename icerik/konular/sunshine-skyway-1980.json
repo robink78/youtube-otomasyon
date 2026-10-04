@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Ship in a Storm Knocked Down a Bridge",
+  "kaynaklar": [
+    {
+      "ad": "sunshine-skyway-1.jpg",
+      "wikimedia": "Sunshine Skyway Bridge Disaster Aerial View.jpg"
+    },
+    {
+      "ad": "sunshine-skyway-2.jpg",
+      "wikimedia": "St. Petersburg Times May 10, 1980 front page.jpg"
+    },
+    {
+      "ad": "sunshine-skyway-3.jpg",
+      "wikimedia": "SunshineSkyway4.jpg"
+    },
+    {
+      "ad": "sunshine-skyway-4.jpg",
+      "wikimedia": "SunshineSkywayBridge-4SC 6643-15.jpg"
+    },
+    {
+      "ad": "sunshine-skyway-5.jpg",
+      "wikimedia": "Sunshine Skyway from Tampa Bay.jpeg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A freighter slammed into a support pier of Florida's Sunshine Skyway.",
+      "kaynak": "Footage/sunshine-skyway-1.jpg"
+    },
+    {
+      "metin": "A main span fell into Tampa Bay, and thirty five people were killed.",
+      "kaynak": "Footage/sunshine-skyway-2.jpg"
+    },
+    {
+      "metin": "A sudden squall had blinded the ship's pilot.",
+      "kaynak": "Footage/sunshine-skyway-3.jpg"
+    },
+    {
+      "metin": "The freighter drifted out of the channel.",
+      "kaynak": "Footage/sunshine-skyway-4.jpg"
+    },
+    {
+      "metin": "The piers had no protection against a ship.",
+      "kaynak": "Footage/sunshine-skyway-5.jpg"
+    },
+    {
+      "metin": "In the rain, drivers couldn't see the missing span.",
+      "kaynak": "Footage/sunshine-skyway-1.jpg"
+    },
+    {
+      "metin": "Several vehicles drove straight off the edge.",
+      "kaynak": "Footage/sunshine-skyway-2.jpg"
+    },
+    {
+      "metin": "The new bridge sits behind huge concrete islands that stop ships.",
+      "kaynak": "Footage/sunshine-skyway-3.jpg"
+    }
+  ],
+  "aciklama": "Sunshine Skyway lost a main span when a freighter hit it. The cause: ship impact on an unprotected support pier.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Sunshine Skyway",
+    "1980",
+    "bridge",
+    "engineering failure"
+  ],
+  "hook": "Blinded by a squall",
+  "soru": "Would you have seen the gap?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Sunshine Skyway Bridge",
+    "kisa": "Sunshine Skyway",
+    "nesne": "Bridge",
+    "yil": 1980,
+    "sonuc": "lost a main span when a freighter hit it",
+    "tetik": "a freighter blinded by a squall striking a pier",
+    "mekanizma": "ship impact on an unprotected support pier",
+    "sayi": "35 KILLED",
+    "ders": "the replacement bridge was built with massive pier-protection islands",
+    "zincir": [
+      "SUDDEN SQUALL, ZERO VISIBILITY",
+      "FREIGHTER LEAVES THE CHANNEL",
+      "SHIP HITS A SUPPORT PIER",
+      "SPAN FALLS INTO THE BAY",
+      "CARS DRIVE OFF THE GAP"
+    ],
+    "zaman": [],
+    "yanilgi": "The bridge wasn't weak. Its piers were simply never protected from a ship that left the channel.",
+    "tartisma": "Drivers kept going over the gap because they couldn't see it. How should a bridge warn traffic it has fallen?",
+    "basliklar": [
+      "A Ship in a Storm Knocked Down a Bridge",
+      "Why the Sunshine Skyway Collapsed",
+      "The Freighter That Took Down a Bridge"
+    ],
+    "kapak": [
+      "SHIP STRIKE",
+      "35 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Sunshine Skyway Bridge",
+        "url": "https://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge"
+      },
+      {
+        "ad": "Government source — 302 (cited by Wikipedia)",
+        "url": "https://www.flsenate.gov/Session/Bill/2026/302"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Sunshine_Skyway_Bridge",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Sunshine Skyway Bridge Disaster Aerial View.jpg [Public domain]",
+      "St. Petersburg Times May 10, 1980 front page.jpg [Public domain]",
+      "SunshineSkyway4.jpg [CC BY 2.5]",
+      "SunshineSkywayBridge-4SC 6643-15.jpg [CC BY 2.0]",
+      "Sunshine Skyway from Tampa Bay.jpeg [Public domain]"
+    ]
+  }
+}

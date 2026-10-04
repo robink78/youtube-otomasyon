@@ -1,0 +1,1525 @@
+{
+  "channel": "critical-thread",
+  "records": [
+    {
+      "slug": "inside-the-system-built-around-oil-pipeline-pumping-station",
+      "topic": "The Pipeline Carrying 45% of the East Coast's Fuel",
+      "coreQuestion": "How did one ransomware attack on a pipeline company cause fuel panic along the U.S. East Coast?",
+      "openingLine": "Why 45% of eastern fuel rides one pipe.",
+      "secondBeat": "That's the Colonial Pipeline, and ransomware shut it down.",
+      "dependency": "About 45% of fuel consumed on the U.S. East Coast arrives through the Colonial Pipeline.",
+      "mechanism": "Pumping stations push gasoline, diesel and jet fuel through a long pipeline, scheduled by business and control systems.",
+      "bottleneck": "A single pipeline carries a large share of the region's fuel, with few quick alternatives.",
+      "failureConsequence": "When the operator shut the line after a ransomware attack, shortages and panic buying followed.",
+      "resilience": "Trucks, tankers and emergency waivers moved some fuel while the line restarted.",
+      "expectedConsequence": "gas stations run dry within days of a shutdown",
+      "number": "45%",
+      "thumbnailText": "45% EAST FUEL",
+      "visualScenes": [
+        "pipeline route map from Texas to New York",
+        "pumping station",
+        "ransom note on a screen",
+        "empty gas station pumps",
+        "fuel truck convoy",
+        "emergency declaration map of 17 states"
+      ],
+      "editorialTitles": [
+        "The Hack That Emptied Gas Stations",
+        "Why One Pipeline Fuels the East Coast"
+      ],
+      "facts": [
+        {
+          "claim": "About 45% of all fuel consumed on the East Coast arrives via the pipeline system.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Colonial Pipeline ransomware attack",
+          "url": "https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack"
+        },
+        {
+          "claim": "Reports indicated that within hours of the attack, the company paid a ransom of nearly 75 Bitcoins ($4.4 million USD) in exchange for a decryption tool.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Colonial Pipeline ransomware attack",
+          "url": "https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack"
+        },
+        {
+          "claim": "The Federal Motor Carrier Safety Administration issued a regional emergency declaration for 17 states and Washington, D.C., to keep fuel supply lines open on May 9.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Colonial Pipeline ransomware attack",
+          "url": "https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack"
+        },
+        {
+          "claim": "The attackers stole nearly 100 gigabytes of data and threatened to release it online if the ransom was not paid.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Colonial Pipeline ransomware attack",
+          "url": "https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 45% of eastern fuel rides one pipe.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's the Colonial Pipeline, and ransomware shut it down.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Attackers stole nearly 100 gigabytes of data first.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The company paid about $4.4 million for a decryption tool.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Regulators declared an emergency across 17 states.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Trucks and tankers can't replace a pipeline's volume quickly.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why one company's network can empty gas stations.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-grid-control-room-becomes-the-bottleneck",
+      "topic": "The 11-Minute Blackout That Hit 7 Million People",
+      "coreQuestion": "How did one tripped line cascade into a blackout for nearly seven million people?",
+      "openingLine": "Why one failure blacked out 7 million people.",
+      "secondBeat": "In 2011, it hit San Diego, Arizona and Mexico.",
+      "dependency": "Grid operators depend on real-time awareness of how a single failure will ripple across connected utilities.",
+      "mechanism": "Operators plan for the n-1 rule: the grid must survive any single component failing.",
+      "bottleneck": "Split visibility between utilities left operators unaware of the true margins.",
+      "failureConsequence": "Overloads cascaded faster than anyone could react, and protection systems separated the grid.",
+      "resilience": "Coordination and shared real-time models were strengthened afterwards.",
+      "expectedConsequence": "a local fault becomes a cross-border blackout",
+      "number": "7 million",
+      "thumbnailText": "7 MILLION DARK",
+      "visualScenes": [
+        "dark San Diego skyline",
+        "grid map across California, Arizona and Mexico",
+        "n-1 planning diagram",
+        "control room screens",
+        "transformer tripping",
+        "cascade timeline"
+      ],
+      "editorialTitles": [
+        "How One Line Blacked Out San Diego",
+        "Why Grid Operators Plan for Failure"
+      ],
+      "facts": [
+        {
+          "claim": "The blackout left nearly seven million people without power, including 1.4 million customers in San Diego County and 1.1 million customers in Mexico.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Southwest blackout",
+          "url": "https://en.wikipedia.org/wiki/2011_Southwest_blackout"
+        },
+        {
+          "claim": "It occurred on Thursday, September 8, 2011, beginning at about 3:38pm PDT, and was the largest power failure in California history.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Southwest blackout",
+          "url": "https://en.wikipedia.org/wiki/2011_Southwest_blackout"
+        },
+        {
+          "claim": "Grid managers maintain stability through the n-1 criterion: the system should remain within operating limits even if a single component fails.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Southwest blackout",
+          "url": "https://en.wikipedia.org/wiki/2011_Southwest_blackout"
+        },
+        {
+          "claim": "CAISO incorrectly believed that it would have 30 mins to react in the event of a Path 44 overload.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Southwest blackout",
+          "url": "https://en.wikipedia.org/wiki/2011_Southwest_blackout"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one failure blacked out 7 million people.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2011, it hit San Diego, Arizona and Mexico.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It was the largest power failure in California history.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Grids plan to survive any single failure, the n-1 rule.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "But operators thought they'd have 30 minutes to react.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The cascade moved far faster than that.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "San Diego County alone had 1.4 million customers dark.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why grid safety depends on what operators can see.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-pumped-hydro-storage-plant",
+      "topic": "The Giant Water Battery Storing 24,000 MWh",
+      "coreQuestion": "How does a grid store electricity by pumping water uphill?",
+      "openingLine": "Why 3,003 megawatts flow from pumped water.",
+      "secondBeat": "Bath County pumps water uphill when power is cheap.",
+      "dependency": "Grids depend on large storage to shift power from low-demand hours to peaks.",
+      "mechanism": "Pumps lift water to an upper reservoir when power is cheap; turbines release it when demand peaks.",
+      "bottleneck": "Few sites have the right geography for two large reservoirs at different heights.",
+      "failureConsequence": "Losing a large storage plant forces peaking plants to fill the gap.",
+      "resilience": "Batteries and gas plants can cover part of peak demand.",
+      "expectedConsequence": "peak electricity prices rise",
+      "number": "3,003 MW",
+      "thumbnailText": "A WATER BATTERY",
+      "visualScenes": [
+        "upper and lower reservoirs in Virginia hills",
+        "water flowing up and down animation",
+        "turbine hall",
+        "daily demand curve",
+        "storage capacity comparison chart",
+        "dam 140 m high"
+      ],
+      "editorialTitles": [
+        "The Mountain That Works Like a Battery",
+        "Why Grids Pump Water Uphill"
+      ],
+      "facts": [
+        {
+          "claim": "The Bath County Pumped Storage Station has a maximum generation capacity of 3,003 MW, an average of 2,772 MW, and a total storage capacity of 24,000 MWh.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bath County Pumped Storage Station",
+          "url": "https://en.wikipedia.org/wiki/Bath_County_Pumped_Storage_Station"
+        },
+        {
+          "claim": "The station consists of two reservoirs separated by about 1,260 feet (380 m) in elevation.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bath County Pumped Storage Station",
+          "url": "https://en.wikipedia.org/wiki/Bath_County_Pumped_Storage_Station"
+        },
+        {
+          "claim": "It was the largest pumped-storage power station in the world until 2021, when it was surpassed by the Fengning Pumped Storage Power Station.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bath County Pumped Storage Station",
+          "url": "https://en.wikipedia.org/wiki/Bath_County_Pumped_Storage_Station"
+        },
+        {
+          "claim": "It stores energy for PJM Interconnection, a regional transmission organization in 13 states and the District of Columbia.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bath County Pumped Storage Station",
+          "url": "https://en.wikipedia.org/wiki/Bath_County_Pumped_Storage_Station"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 3,003 megawatts flow from pumped water.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Bath County pumps water uphill when power is cheap.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Its reservoirs sit about 380 metres apart in height.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It stores up to 24,000 megawatt-hours.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It serves a grid spanning 13 states.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It was the world's largest until 2021.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Few places have the geography for two giant reservoirs.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why the biggest batteries on the grid are made of water.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-lng-liquefaction-train",
+      "topic": "The Gas Shrunk 600 Times to Cross Oceans",
+      "coreQuestion": "How does natural gas cross oceans without a pipeline?",
+      "openingLine": "Why gas is shrunk 600 times to travel.",
+      "secondBeat": "Liquefied, it fills 1/600th of its gas volume.",
+      "dependency": "Countries without pipeline access depend on liquefied natural gas shipped by sea.",
+      "mechanism": "Liquefaction trains cool gas to about −162 °C, shrinking it to 1/600th of its volume.",
+      "bottleneck": "Liquefaction plants are huge, costly and slow to build.",
+      "failureConsequence": "An outage at a major export plant removes cargoes from a tight global market.",
+      "resilience": "Other exporters and storage can partly compensate.",
+      "expectedConsequence": "gas prices jump in importing regions",
+      "number": "1/600th",
+      "thumbnailText": "−162 °C GAS",
+      "visualScenes": [
+        "LNG tanker with spherical tanks",
+        "cooling to −162 °C diagram",
+        "volume comparison 600 to 1",
+        "liquefaction train at night",
+        "regasification terminal",
+        "global LNG trade map"
+      ],
+      "editorialTitles": [
+        "How Gas Is Shrunk 600 Times",
+        "Why LNG Plants Shape Energy Prices"
+      ],
+      "facts": [
+        {
+          "claim": "It takes up approximately 1/600th the volume of natural gas in the gaseous state at standard temperature and pressure.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Liquefied natural gas",
+          "url": "https://en.wikipedia.org/wiki/Liquefied_natural_gas"
+        },
+        {
+          "claim": "This is a practical way to store it but the gas must be kept at −260 °F (−162 °C).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Liquefied natural gas",
+          "url": "https://en.wikipedia.org/wiki/Liquefied_natural_gas"
+        },
+        {
+          "claim": "The volumetric energy density of LNG is approximately 2.4 times that of compressed natural gas (CNG), which makes it economical to transport natural gas by ship in the form of LNG.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Liquefied natural gas",
+          "url": "https://en.wikipedia.org/wiki/Liquefied_natural_gas"
+        },
+        {
+          "claim": "Feedstock gas then enters the liquefaction unit where it is cooled to between −145 °C and −163 °C.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Liquefied natural gas",
+          "url": "https://en.wikipedia.org/wiki/Liquefied_natural_gas"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why gas is shrunk 600 times to travel.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Liquefied, it fills 1/600th of its gas volume.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That means cooling it to about −162 °C.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It packs 2.4 times the energy of compressed gas.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Feed gas is chilled to between −145 and −163 °C.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Liquefaction plants are giant, costly and slow to build.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Lose one, and cargoes vanish from a tight market.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a refrigeration plant can set gas prices abroad.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-geothermal-production-well",
+      "topic": "The Steam Field Refilled With Treated Sewage",
+      "coreQuestion": "Why does California's biggest geothermal field inject treated wastewater underground?",
+      "openingLine": "Why 20 million gallons of sewage make steam.",
+      "secondBeat": "California's Geysers inject it underground every day.",
+      "dependency": "Geothermal power at The Geysers depends on keeping enough water in the underground steam reservoir.",
+      "mechanism": "Production wells draw steam to turn turbines; injection wells return water to recharge the reservoir.",
+      "bottleneck": "Steam production declines when the reservoir loses more water than it regains.",
+      "failureConsequence": "Falling pressure cuts power output across the field.",
+      "resilience": "Treated sewage piped from nearby towns now recharges the field.",
+      "expectedConsequence": "output falls unless the reservoir is refilled",
+      "number": "20 million gallons/day",
+      "thumbnailText": "SEWAGE TO STEAM",
+      "visualScenes": [
+        "steam plumes over The Geysers",
+        "production and injection well diagram",
+        "pipeline from Lake County",
+        "turbine hall",
+        "renewable share chart for California",
+        "treated water inflow graphic"
+      ],
+      "editorialTitles": [
+        "The Power Plant Recharged With Wastewater",
+        "Why Geothermal Fields Need Refilling"
+      ],
+      "facts": [
+        {
+          "claim": "Geysers produced about 20% of California's renewable energy in 2019.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — The Geysers",
+          "url": "https://en.wikipedia.org/wiki/The_Geysers"
+        },
+        {
+          "claim": "Since October 16, 1997, The Geysers steam field has been recharged by injection of treated sewage effluent, producing approximately 77 megawatts of capacity in 2004.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — The Geysers",
+          "url": "https://en.wikipedia.org/wiki/The_Geysers"
+        },
+        {
+          "claim": "These projects provide approximately 20 million gallons of reclaimed water daily for injection into The Geysers reservoir, effectively converting wastewater into renewable electricity.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — The Geysers",
+          "url": "https://en.wikipedia.org/wiki/The_Geysers"
+        },
+        {
+          "claim": "In 1960, Pacific Gas and Electric began operation of their 11-megawatt geothermal electric plant at the Geysers.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — The Geysers",
+          "url": "https://en.wikipedia.org/wiki/The_Geysers"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 20 million gallons of sewage make steam.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "California's Geysers inject it underground every day.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The field made about 20% of the state's renewable energy in 2019.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its wells draw steam from hot rock underground.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Since 1997, treated sewage has been injected to recharge it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "By 2004, that water supported about 77 megawatts.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That's why a steam field depends on a town's drains.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-mobile-network-core-is-so-hard-to-replace",
+      "topic": "The Outage That Cut 12 Million Phones and 911",
+      "coreQuestion": "How did one network update knock out phones, payments and 911 for 12 million Canadians?",
+      "openingLine": "Why 12 million Canadians lost service at once.",
+      "secondBeat": "In 2022, Rogers' core network failed nationwide.",
+      "dependency": "Mobile calls, internet, card payments and emergency calls depend on a carrier's core network.",
+      "mechanism": "Core routers direct traffic for all services; a faulty change can spread across the whole network.",
+      "bottleneck": "One carrier's core carried wireless, wireline and payment traffic together.",
+      "failureConsequence": "A single core failure disconnects every service at once.",
+      "resilience": "Roaming agreements and emergency call routing across carriers were strengthened afterwards.",
+      "expectedConsequence": "payments fail and emergency calls can't connect",
+      "number": "12 million",
+      "thumbnailText": "12 MILLION OFFLINE",
+      "visualScenes": [
+        "phone showing no service",
+        "payment terminal offline",
+        "core network diagram",
+        "911 call failing",
+        "economic cost graphic",
+        "network operations centre"
+      ],
+      "editorialTitles": [
+        "The Outage That Silenced 12 Million Phones",
+        "Why One Network Core Can Stop a Country"
+      ],
+      "facts": [
+        {
+          "claim": "Over 12 million subscribers were affected.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 Rogers Communications outage",
+          "url": "https://en.wikipedia.org/wiki/2022_Rogers_Communications_outage"
+        },
+        {
+          "claim": "The outage inhibited the ability to use 911 services from mobile phones on the Rogers network, resulting in at least one reported case of a death.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 Rogers Communications outage",
+          "url": "https://en.wikipedia.org/wiki/2022_Rogers_Communications_outage"
+        },
+        {
+          "claim": "The economic toll to the Canadian economy for the outage period was projected at $142 million.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 Rogers Communications outage",
+          "url": "https://en.wikipedia.org/wiki/2022_Rogers_Communications_outage"
+        },
+        {
+          "claim": "Rebates for customers are estimated to cost Rogers $28 million to $70 million.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 Rogers Communications outage",
+          "url": "https://en.wikipedia.org/wiki/2022_Rogers_Communications_outage"
+        },
+        {
+          "claim": "This followed another major national outage a year prior in April 2021.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 Rogers Communications outage",
+          "url": "https://en.wikipedia.org/wiki/2022_Rogers_Communications_outage"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 12 million Canadians lost service at once.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2022, Rogers' core network failed nationwide.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Mobile phones on the network couldn't reach 911.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The projected cost to the economy was $142 million.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It came barely a year after another national outage, in 2021.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "One core carried calls, internet and payments together.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why a carrier's core is national infrastructure.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-emergency-alert-gateway",
+      "topic": "The False Missile Alert That Lasted 38 Minutes",
+      "coreQuestion": "How did one click send a false missile alert to every phone in Hawaii?",
+      "openingLine": "Why a false missile alert ran 38 minutes.",
+      "secondBeat": "In 2018, every phone in Hawaii warned of a missile.",
+      "dependency": "Public warnings depend on alert gateways that push messages to TV, radio and every phone.",
+      "mechanism": "Authorised operators send alerts through a gateway that broadcasts to all devices in an area.",
+      "bottleneck": "A single operator action could send, and no fast correction path existed.",
+      "failureConsequence": "A drill message went out as a real alert; correcting it took 38 minutes.",
+      "resilience": "Two-person confirmation and pre-written cancellation messages were added.",
+      "expectedConsequence": "panic spreads faster than the correction",
+      "number": "38 minutes",
+      "thumbnailText": "38 MINUTES PANIC",
+      "visualScenes": [
+        "phone alert: ballistic missile threat",
+        "emergency management operations room",
+        "timeline 8:08 to correction",
+        "survey results chart",
+        "people sheltering",
+        "two-person confirmation diagram"
+      ],
+      "editorialTitles": [
+        "The False Missile Alert That Terrified Hawaii",
+        "Why Alert Systems Need an Undo Button"
+      ],
+      "facts": [
+        {
+          "claim": "On the morning of January 13, 2018, an alert was accidentally issued via the Emergency Alert System and Wireless Emergency Alert System over television, radio, and cellular networks.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2018 Hawaii false missile alert",
+          "url": "https://en.wikipedia.org/wiki/2018_Hawaii_false_missile_alert"
+        },
+        {
+          "claim": "38 minutes and 13 seconds later, state officials blamed a miscommunication during a drill at the Hawaii Emergency Management Agency for the first message.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2018 Hawaii false missile alert",
+          "url": "https://en.wikipedia.org/wiki/2018_Hawaii_false_missile_alert"
+        },
+        {
+          "claim": "In a subsequent survey, 28% of respondents initially believed the alert, 45% were unsure, and 27% did not believe it.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2018 Hawaii false missile alert",
+          "url": "https://en.wikipedia.org/wiki/2018_Hawaii_false_missile_alert"
+        },
+        {
+          "claim": "The message was sent at 8:08 a.m.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2018 Hawaii false missile alert",
+          "url": "https://en.wikipedia.org/wiki/2018_Hawaii_false_missile_alert"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a false missile alert ran 38 minutes.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2018, every phone in Hawaii warned of a missile.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It came from a miscommunication during a drill.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Officials took 38 minutes and 13 seconds to explain it.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Afterwards, 28% of people surveyed said they'd believed it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The system made sending easy and correcting slow.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why warning systems need a fast undo.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-cable-landing-station",
+      "topic": "The Volcano That Cut a Country's Only Cable",
+      "coreQuestion": "How did one eruption cut off an entire country's internet?",
+      "openingLine": "Why 1 broken cable cut off Tonga.",
+      "secondBeat": "In 2022, Hunga Tonga's plume rose 58 kilometres.",
+      "dependency": "Tonga's international internet depended on a single submarine cable to Fiji.",
+      "mechanism": "The cable lands on shore and links the islands to the global network; repairs need a specialist ship.",
+      "bottleneck": "With only one international cable, there was no alternative path.",
+      "failureConsequence": "The eruption broke the cable, cutting Tonga off until repairs.",
+      "resilience": "Satellite links restored limited service in the meantime.",
+      "expectedConsequence": "a whole country goes offline for weeks",
+      "number": "37 km",
+      "thumbnailText": "ONE CABLE COUNTRY",
+      "visualScenes": [
+        "eruption plume over the Pacific",
+        "single cable route Tonga to Fiji",
+        "fault location 37 km offshore",
+        "cable repair ship",
+        "satellite dish backup",
+        "ash-covered Nuku'alofa"
+      ],
+      "editorialTitles": [
+        "The Eruption That Cut Tonga Offline",
+        "Why One Cable Is Never Enough"
+      ],
+      "facts": [
+        {
+          "claim": "Southern Cross Cable reported that the eruption may have broken the Tonga Cable System, which connects Tonga to Southern Cross's trans-Pacific cable in Fiji.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2022_Hunga_Tonga–Hunga_Haʻapai_eruption_and_tsunami"
+        },
+        {
+          "claim": "Southern Cross cited a fault in the international cable 37 km (23 mi) from Nukuʻalofa, and a further fault in a domestic cable 47 km (29 mi) from Nukuʻalofa.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2022_Hunga_Tonga–Hunga_Haʻapai_eruption_and_tsunami"
+        },
+        {
+          "claim": "A large eruption commenced on 14 January 2022 at 04:20 local time, sending clouds of ash 20 km into the atmosphere.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2022_Hunga_Tonga–Hunga_Haʻapai_eruption_and_tsunami"
+        },
+        {
+          "claim": "The eruption column from this eruption rose 58 km (36 mi) into the mesosphere.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2022_Hunga_Tonga–Hunga_Haʻapai_eruption_and_tsunami"
+        },
+        {
+          "claim": "Reuters reported that a specialist cable repair ship would arrive at the Tongan archipelago on 30 January.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2022_Hunga_Tonga–Hunga_Haʻapai_eruption_and_tsunami"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 1 broken cable cut off Tonga.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2022, Hunga Tonga's plume rose 58 kilometres.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It broke Tonga's international cable 37 kilometres offshore.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "A domestic cable broke 47 kilometres out as well.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That single cable was Tonga's link to Fiji and the world.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Repairs had to wait for a specialist ship.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why one cable landing is never enough.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-launch-vehicle-payload-fairing",
+      "topic": "The $280 Million Satellite Lost to a Stuck Nose Cone",
+      "coreQuestion": "How can a nose cone that fails to open doom a whole satellite?",
+      "openingLine": "Why 1 stuck fairing lost $280 million.",
+      "secondBeat": "In 2009, a carbon-watching satellite never reached orbit.",
+      "dependency": "Satellites depend on the payload fairing protecting them through the atmosphere, then separating cleanly.",
+      "mechanism": "The fairing shields the payload during ascent and must split away seconds after staging.",
+      "bottleneck": "If the fairing stays on, its extra mass stops the rocket reaching orbit.",
+      "failureConsequence": "The satellite falls back to Earth with the rocket.",
+      "resilience": "Redesigns and investigations aim to catch separation faults, but the loss is total.",
+      "expectedConsequence": "years of work and hundreds of millions are lost in minutes",
+      "number": "$280 million",
+      "thumbnailText": "STUCK NOSE CONE",
+      "visualScenes": [
+        "rocket nose cone separating",
+        "fairing that fails to split",
+        "trajectory falling short of orbit",
+        "carbon observatory satellite",
+        "replacement satellite launch",
+        "two failures timeline"
+      ],
+      "editorialTitles": [
+        "The Nose Cone That Doomed Two Satellites",
+        "Why Rocket Fairings Must Let Go"
+      ],
+      "facts": [
+        {
+          "claim": "The original spacecraft was lost in a launch failure on 24 February 2009, when the payload fairing of the Taurus rocket which was carrying it failed to separate during ascent.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Orbiting Carbon Observatory",
+          "url": "https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory"
+        },
+        {
+          "claim": "The original cost of the mission was US$280 million.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Orbiting Carbon Observatory",
+          "url": "https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory"
+        },
+        {
+          "claim": "The Taurus XL's fairing was intended to separate several seconds after stage 2 ignition.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Orbiting Carbon Observatory",
+          "url": "https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory"
+        },
+        {
+          "claim": "The launch of the Glory satellite took place on 4 March 2011 and ended in failure, like OCO.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Orbiting Carbon Observatory",
+          "url": "https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory"
+        },
+        {
+          "claim": "The FY 2011 NASA budget request included $170 million for NASA to develop and fly a replacement for the Orbiting Carbon Observatory: OCO-2.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Orbiting Carbon Observatory",
+          "url": "https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 1 stuck fairing lost $280 million.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2009, a carbon-watching satellite never reached orbit.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Its rocket's fairing failed to separate during ascent.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The extra mass left the rocket short of orbit.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "In 2011, the same rocket type lost another satellite, Glory.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "A replacement needed another $170 million.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why the simplest part of a rocket can be the deadliest.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-spacecraft-atomic-clock",
+      "topic": "The Satellite Clocks That Started Failing",
+      "coreQuestion": "Why does every navigation satellite carry four atomic clocks?",
+      "openingLine": "Why each Galileo satellite carries 4 atomic clocks.",
+      "secondBeat": "Galileo planned 30 satellites, each timing signals from space.",
+      "dependency": "Satellite navigation depends on atomic clocks aboard each satellite keeping precise time.",
+      "mechanism": "Each satellite broadcasts its time; receivers compare signals to calculate position.",
+      "bottleneck": "Space-qualified atomic clocks come from very few suppliers.",
+      "failureConsequence": "Clock failures can leave a satellite unable to broadcast usable signals.",
+      "resilience": "Each Galileo satellite carries four clocks, two of each type.",
+      "expectedConsequence": "satellites drop out if every clock aboard fails",
+      "number": "4 clocks each",
+      "thumbnailText": "9 CLOCKS FAILED",
+      "visualScenes": [
+        "Galileo satellite in orbit",
+        "hydrogen maser and rubidium clock diagram",
+        "clock failure count graphic",
+        "positioning from timing signals",
+        "redundancy diagram",
+        "supplier map"
+      ],
+      "editorialTitles": [
+        "Why Navigation Satellites Carry Spare Clocks",
+        "The Clock Failures That Worried Galileo"
+      ],
+      "facts": [
+        {
+          "claim": "In January 2017, news agencies reported that six of the passive hydrogen masers (PHM) and three of the rubidium atomic clocks (RAFS) had failed.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Galileo (satellite navigation)",
+          "url": "https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)"
+        },
+        {
+          "claim": "The operation was not affected as each satellite is launched with four clocks (2 PHM and 2 RAFS).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Galileo (satellite navigation)",
+          "url": "https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)"
+        },
+        {
+          "claim": "As of July 2019, there were more than 140 Galileo-enabled smartphones on the market of which 9 were dual-frequency enabled.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Galileo (satellite navigation)",
+          "url": "https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)"
+        },
+        {
+          "claim": "The €10 billion project began offering limited services in 2016.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Galileo (satellite navigation)",
+          "url": "https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)"
+        },
+        {
+          "claim": "As of September 2024, there are 25 launched satellites that operate in the constellation.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Galileo (satellite navigation)",
+          "url": "https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)"
+        },
+        {
+          "claim": "China and India use the same SpectraTime-built atomic clocks in their satellite navigation systems.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Galileo (satellite navigation)",
+          "url": "https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)"
+        },
+        {
+          "claim": "The required satellites (the planned number is 30) were to be launched between 2011 and 2014, with the system up and running and under civilian control from 2019.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Galileo (satellite navigation)",
+          "url": "https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why each Galileo satellite carries 4 atomic clocks.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Galileo planned 30 satellites, each timing signals from space.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "By January 2017, six hydrogen masers had failed.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Three rubidium clocks had failed too.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Service continued, because every satellite had spares.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "China and India fly clocks from the same supplier.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "The €10 billion system now has 25 working satellites.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why satellite navigation is really a clock business.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-airport-satellite-augmentation-station-is-so-hard-to-replace",
+      "topic": "The System Correcting GPS for Landings",
+      "coreQuestion": "How does GPS become precise and trustworthy enough to guide planes onto runways?",
+      "openingLine": "Why pilots get GPS warnings within 6.2 seconds.",
+      "secondBeat": "That's the rule for WAAS, which corrects GPS for aviation.",
+      "dependency": "Satellite-guided approaches depend on augmentation systems that correct GPS and flag errors.",
+      "mechanism": "Ground stations measure GPS errors and broadcast corrections and integrity warnings via geostationary satellites.",
+      "bottleneck": "Aircraft must be warned of bad data within seconds.",
+      "failureConsequence": "Without augmentation, GPS alone can't support precision approaches.",
+      "resilience": "Ground-based landing systems remain at many airports.",
+      "expectedConsequence": "airports without augmentation rely on older landing aids",
+      "number": "6.2 seconds",
+      "thumbnailText": "GPS FOR LANDINGS",
+      "visualScenes": [
+        "aircraft on a GPS approach",
+        "reference stations network map",
+        "correction broadcast via satellite",
+        "accuracy requirement graphic",
+        "error alert timeline",
+        "cockpit approach display"
+      ],
+      "editorialTitles": [
+        "How GPS Gets Good Enough to Land Planes",
+        "The Hidden Corrections Behind GPS Approaches"
+      ],
+      "facts": [
+        {
+          "claim": "The WAAS specification requires it to provide a position accuracy of 7.6 metres (25 ft) or less, at least 95% of the time.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wide Area Augmentation System",
+          "url": "https://en.wikipedia.org/wiki/Wide_Area_Augmentation_System"
+        },
+        {
+          "claim": "The WAAS specification requires the system detect errors in the GPS or WAAS network and notify users within 6.2 seconds.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wide Area Augmentation System",
+          "url": "https://en.wikipedia.org/wiki/Wide_Area_Augmentation_System"
+        },
+        {
+          "claim": "A Category I approach requires an accuracy of 16 metres (52 ft) laterally and 4.0 metres (13.1 ft) vertically.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wide Area Augmentation System",
+          "url": "https://en.wikipedia.org/wiki/Wide_Area_Augmentation_System"
+        },
+        {
+          "claim": "The integrity probability is equivalent to no more than 3 seconds of bad data per year.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wide Area Augmentation System",
+          "url": "https://en.wikipedia.org/wiki/Wide_Area_Augmentation_System"
+        },
+        {
+          "claim": "The space segment currently consists of three commercial satellites: Eutelsat 117 West B, SES-15, and Galaxy 30.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wide Area Augmentation System",
+          "url": "https://en.wikipedia.org/wiki/Wide_Area_Augmentation_System"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why pilots get GPS warnings within 6.2 seconds.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's the rule for WAAS, which corrects GPS for aviation.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It must be accurate to 7.6 metres, 95% of the time.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It allows no more than 3 seconds of bad data a year.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Corrections go out through three geostationary satellites.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Without them, GPS alone can't guide a precision approach.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why landing by satellite depends on a hidden correction layer.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-container-lashing-bridge",
+      "topic": "The Ship That Lost 1,816 Containers in a Storm",
+      "coreQuestion": "How can a single ship lose nearly two thousand containers in one storm?",
+      "openingLine": "Why one ship lost 1,816 containers overboard.",
+      "secondBeat": "In 2020, the ONE Apus rolled heavily in the Pacific.",
+      "dependency": "Container shipping depends on lashing systems holding stacks steady through rough seas.",
+      "mechanism": "Twistlocks and lashing rods secure stacked containers; heavy rolling can overwhelm them.",
+      "bottleneck": "Taller stacks on bigger ships put more force on every lashing.",
+      "failureConsequence": "When stacks collapse, containers fall overboard, some with dangerous goods.",
+      "resilience": "Route planning and lashing standards aim to limit rolling risk.",
+      "expectedConsequence": "lost cargo, damaged containers and hazards at sea",
+      "number": "1,816 containers",
+      "thumbnailText": "1,816 BOXES LOST",
+      "visualScenes": [
+        "collapsed container stacks on deck",
+        "lashing rods and twistlocks close-up",
+        "ship rolling in heavy swell",
+        "containers floating at sea",
+        "damaged boxes offloaded in Kobe",
+        "stack height diagram"
+      ],
+      "editorialTitles": [
+        "The Storm That Toppled 1,816 Containers",
+        "Why Container Stacks Collapse at Sea"
+      ],
+      "facts": [
+        {
+          "claim": "The ONE Apus is a 14,000 TEU container ship.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — ONE Apus",
+          "url": "https://en.wikipedia.org/wiki/ONE_Apus"
+        },
+        {
+          "claim": "In 2020, it lost approximately 1,816 containers overboard in the Pacific Ocean, the largest loss of containers in transport since 2013.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — ONE Apus",
+          "url": "https://en.wikipedia.org/wiki/ONE_Apus"
+        },
+        {
+          "claim": "Heavy rolling caused the loss overboard of approximately 1,816 containers including 64 with dangerous goods.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — ONE Apus",
+          "url": "https://en.wikipedia.org/wiki/ONE_Apus"
+        },
+        {
+          "claim": "The ship arrived at Kobe, Japan, on 8 December, where it offloaded nearly 1000 damaged containers, and resumed its voyage on 16 March 2021.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — ONE Apus",
+          "url": "https://en.wikipedia.org/wiki/ONE_Apus"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one ship lost 1,816 containers overboard.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2020, the ONE Apus rolled heavily in the Pacific.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "64 of the lost containers held dangerous goods.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Nearly 1,000 more arrived damaged in Kobe.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The ship carries up to 14,000 TEU.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Taller stacks load every lashing rod with more force.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why steel rods and twistlocks keep trade on deck.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-rail-signaling-interlocking-is-so-hard-to-replace",
+      "topic": "The Loose Wire Behind a 35-Death Rail Crash",
+      "coreQuestion": "How did one old wire left in place cause a deadly rail crash?",
+      "openingLine": "Why one loose wire killed 35 people.",
+      "secondBeat": "In 1988, a signal near Clapham Junction showed the wrong aspect.",
+      "dependency": "Train safety depends on signals and interlockings showing the correct aspect every time.",
+      "mechanism": "Signalling circuits detect trains and set signals; wiring errors can make a signal show clear wrongly.",
+      "bottleneck": "Signal work relies on careful installation and independent checking.",
+      "failureConsequence": "A wiring fault showed a false clear signal, and one train ran into another.",
+      "resilience": "Independent testing of signalling work became mandatory practice.",
+      "expectedConsequence": "a false signal leads straight to a collision",
+      "number": "35 deaths",
+      "thumbnailText": "ONE LOOSE WIRE",
+      "visualScenes": [
+        "signal box relay room",
+        "old and new wiring side by side",
+        "signal showing green wrongly",
+        "crash scene south of Clapham Junction",
+        "inquiry report",
+        "independent testing checklist"
+      ],
+      "editorialTitles": [
+        "The Wire That Caused the Clapham Rail Crash",
+        "Why Signalling Work Needs a Second Check"
+      ],
+      "facts": [
+        {
+          "claim": "The Clapham Junction rail crash occurred on the morning of 12 December 1988, when a crowded British Rail passenger train crashed into the rear of another train that had stopped at a signal.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Clapham Junction rail crash",
+          "url": "https://en.wikipedia.org/wiki/Clapham_Junction_rail_crash"
+        },
+        {
+          "claim": "The collision was the result of a signal failure caused by a wiring fault.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Clapham Junction rail crash",
+          "url": "https://en.wikipedia.org/wiki/Clapham_Junction_rail_crash"
+        },
+        {
+          "claim": "New wiring had been installed, but the old wiring had been left in place and not adequately secured.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Clapham Junction rail crash",
+          "url": "https://en.wikipedia.org/wiki/Clapham_Junction_rail_crash"
+        },
+        {
+          "claim": "A total of 35 people died in the collision, while 484 were injured.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Clapham Junction rail crash",
+          "url": "https://en.wikipedia.org/wiki/Clapham_Junction_rail_crash"
+        },
+        {
+          "claim": "He had also performed the work during his 13th consecutive seven-day workweek.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Clapham Junction rail crash",
+          "url": "https://en.wikipedia.org/wiki/Clapham_Junction_rail_crash"
+        },
+        {
+          "claim": "British Rail was fined £250,000 for violations of health and safety law in connection with the incident.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Clapham Junction rail crash",
+          "url": "https://en.wikipedia.org/wiki/Clapham_Junction_rail_crash"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one loose wire killed 35 people.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 1988, a signal near Clapham Junction showed the wrong aspect.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Old wiring had been left in place and not secured.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "A crowded train ran into another; 484 people were injured.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The technician was in his 13th straight seven-day week.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "His work had never been independently checked.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why rail safety depends on a second pair of eyes.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-wastewater-screening-system",
+      "topic": "The 130-Tonne Fatberg Under London",
+      "coreQuestion": "How did grease and wet wipes build a 130-tonne blockage under a city?",
+      "openingLine": "Why 130 tonnes of grease clogged London's sewers.",
+      "secondBeat": "In 2017, a 250-metre fatberg was found under Whitechapel.",
+      "dependency": "Sewers and treatment plants depend on screens and flow staying clear of fat and wipes.",
+      "mechanism": "Cooking fat congeals with wipes into hard masses that narrow pipes and clog screens.",
+      "bottleneck": "Old sewers weren't designed for fat and non-flushable wipes.",
+      "failureConsequence": "Blockages cause sewage backups and overflows until crews dig them out.",
+      "resilience": "Screens, public campaigns and grease traps reduce build-up.",
+      "expectedConsequence": "weeks of costly manual removal underground",
+      "number": "130 tonnes",
+      "thumbnailText": "130-TONNE FATBERG",
+      "visualScenes": [
+        "sewer worker cutting a fatberg",
+        "congealed fat and wipes close-up",
+        "250-metre length comparison",
+        "sewer screen clogged",
+        "cost counter",
+        "kitchen sink with grease"
+      ],
+      "editorialTitles": [
+        "The Fatberg That Clogged London",
+        "What Really Blocks City Sewers"
+      ],
+      "facts": [
+        {
+          "claim": "September 2017: A 250-metre-long (820 ft) fatberg weighing over 130 tonnes was found under Whitechapel, London.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Fatberg",
+          "url": "https://en.wikipedia.org/wiki/Fatberg"
+        },
+        {
+          "claim": "Even working seven days a week at a cost of £1 million per month, officials estimated it would take two months to destroy it.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Fatberg",
+          "url": "https://en.wikipedia.org/wiki/Fatberg"
+        },
+        {
+          "claim": "It weighed 400 tonnes (440 short tons) and was 250 metres (820 ft) long.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Fatberg",
+          "url": "https://en.wikipedia.org/wiki/Fatberg"
+        },
+        {
+          "claim": "It took over two months to remove, and the damage it caused cost an estimated £400,000 to repair.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Fatberg",
+          "url": "https://en.wikipedia.org/wiki/Fatberg"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 130 tonnes of grease clogged London's sewers.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2017, a 250-metre fatberg was found under Whitechapel.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Cooking fat hardens around wet wipes into solid masses.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Removing it cost about £1 million a month.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Crews expected the job to take two months.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Victorian sewers were never built for wipes and grease.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why what goes down your sink becomes a city problem.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-controlled-atmosphere-fruit-store",
+      "topic": "The Low-Oxygen Rooms Keeping Apples for Months",
+      "coreQuestion": "How can apples picked in autumn still be crisp months later?",
+      "openingLine": "Why stored apples breathe just 2% oxygen.",
+      "secondBeat": "Normal air is about 21% oxygen.",
+      "dependency": "Year-round fruit supply depends on controlled-atmosphere storage that slows ripening.",
+      "mechanism": "Oxygen is cut to about 1.5–2% and replaced with nitrogen, slowing fruit metabolism.",
+      "bottleneck": "Sealed rooms must hold precise gas levels for months.",
+      "failureConsequence": "If gas control fails, fruit ripens and spoils quickly.",
+      "resilience": "Monitoring and backup nitrogen supply protect stored fruit.",
+      "expectedConsequence": "stored harvests spoil if the atmosphere drifts",
+      "number": "1.5–2% oxygen",
+      "thumbnailText": "2% OXYGEN APPLES",
+      "visualScenes": [
+        "sealed apple storage room",
+        "gas composition comparison chart",
+        "nitrogen generator",
+        "apples ripening timeline",
+        "monitoring panel",
+        "supermarket apples in spring"
+      ],
+      "editorialTitles": [
+        "How Apples Stay Fresh for Months",
+        "The Low-Oxygen Rooms Behind Year-Round Fruit"
+      ],
+      "facts": [
+        {
+          "claim": "In controlled atmosphere the oxygen is reduced to 1.5–2% by replacing it with nitrogen and a little bit of carbon dioxide, which is produced by fruits.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Controlled atmosphere",
+          "url": "https://en.wikipedia.org/wiki/Controlled_atmosphere"
+        },
+        {
+          "claim": "Normal atmosphere consists of approximately 78% nitrogen, 21% oxygen, 0.3% carbon dioxide and smaller amounts of some other gasses.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Controlled atmosphere",
+          "url": "https://en.wikipedia.org/wiki/Controlled_atmosphere"
+        },
+        {
+          "claim": "Most insects cannot survive indefinitely without oxygen or in conditions of raised (>30%) carbon dioxide.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Controlled atmosphere",
+          "url": "https://en.wikipedia.org/wiki/Controlled_atmosphere"
+        },
+        {
+          "claim": "In Afghanistan, northern rural peoples preserve grapes using kangina, mud-straw containers, keeping them fresh for up to 6 months.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Controlled atmosphere",
+          "url": "https://en.wikipedia.org/wiki/Controlled_atmosphere"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why stored apples breathe just 2% oxygen.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Normal air is about 21% oxygen.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Storage rooms cut it to 1.5 to 2%, using nitrogen.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That slows the fruit's ripening almost to a pause.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The rooms must hold that mix for months.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "If gas control slips, fruit ripens and spoils.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why spring apples depend on sealed, airless rooms.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-phosphate-fertilizer-mine",
+      "topic": "The Company With Access to 70% of Phosphate Rock",
+      "coreQuestion": "Why does global farming depend on phosphate from one country?",
+      "openingLine": "Why 70% of phosphate reserves sit in Morocco.",
+      "secondBeat": "Morocco's OCP can reach over 70% of known reserves.",
+      "dependency": "Crop fertilizers depend on phosphate rock, most of it held in Morocco.",
+      "mechanism": "Phosphate rock is mined and processed into fertilizers that replace phosphorus removed by harvests.",
+      "bottleneck": "Most known reserves sit under one state-owned company's access.",
+      "failureConsequence": "Supply disruptions or export limits would tighten fertilizer markets worldwide.",
+      "resilience": "Other producers and recycling of phosphorus cover a small share.",
+      "expectedConsequence": "fertilizer prices rise and yields suffer where farmers cut back",
+      "number": "70%",
+      "thumbnailText": "70% PHOSPHATE",
+      "visualScenes": [
+        "phosphate mine in Morocco",
+        "reserves share map",
+        "fertilizer processing plant",
+        "phosphorus cycle diagram",
+        "crop field with and without phosphate",
+        "market share chart"
+      ],
+      "editorialTitles": [
+        "The Country Holding Most of the World's Phosphate",
+        "Why Farming Depends on Moroccan Rock"
+      ],
+      "facts": [
+        {
+          "claim": "OCP has access to more than 70% of the world's phosphate rock reserves.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — OCP Group",
+          "url": "https://en.wikipedia.org/wiki/OCP_Group"
+        },
+        {
+          "claim": "The company holds a 31% market share of the world phosphate product market.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — OCP Group",
+          "url": "https://en.wikipedia.org/wiki/OCP_Group"
+        },
+        {
+          "claim": "Initially a mining company, OCP diversified in 1965 to become a phosphate processor, making it the world's largest fertilizer manufacturer.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — OCP Group",
+          "url": "https://en.wikipedia.org/wiki/OCP_Group"
+        },
+        {
+          "claim": "Currently 95% of the OCP Group is owned by the Moroccan state and 5% by Banque Centrale Populaire investment funds.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — OCP Group",
+          "url": "https://en.wikipedia.org/wiki/OCP_Group"
+        },
+        {
+          "claim": "In 2024, it generated revenues of US $9.76 billion.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — OCP Group",
+          "url": "https://en.wikipedia.org/wiki/OCP_Group"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 70% of phosphate reserves sit in Morocco.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Morocco's OCP can reach over 70% of known reserves.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It already holds 31% of the phosphate product market.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The state owns 95% of the company.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Crops need phosphorus, and it can't be made from air.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Any supply shock would ripple into food prices.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why global harvests lean on Moroccan rock.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    }
+  ]
+}

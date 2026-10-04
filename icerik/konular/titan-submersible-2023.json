@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Carbon Fibre Hull That Imploded Near the Titanic",
+  "kaynaklar": [
+    {
+      "ad": "titan-submersible-1.jpg",
+      "wikimedia": "U.S. Coast Guard marine safety engineers conduct a survey of the aft titanium endcap from Titan - 231001-G-G0000-1001.jpg"
+    },
+    {
+      "ad": "titan-submersible-2.png",
+      "wikimedia": "Videoframe 125654.png"
+    },
+    {
+      "ad": "titan-submersible-3.png",
+      "wikimedia": "Wreckage of Titan submersible aft section.png"
+    },
+    {
+      "ad": "titan-submersible-4.jpg",
+      "wikimedia": "Titan submersible carbon fiber debris (9057369).jpg"
+    },
+    {
+      "ad": "titan-submersible-5.jpg",
+      "wikimedia": "Titan submersible debris (9057368).jpg"
+    },
+    {
+      "ad": "titan-submersible-6.jpg",
+      "wikimedia": "Titan submersible debris recovery (9057342).jpg"
+    },
+    {
+      "ad": "titan-submersible-7.jpg",
+      "wikimedia": "Titan submersible on the ocean floor.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A small submersible diving to the Titanic imploded.",
+      "kaynak": "Footage/titan-submersible-1.jpg"
+    },
+    {
+      "metin": "It was destroyed instantly, and all five aboard were killed.",
+      "kaynak": "Footage/titan-submersible-2.png"
+    },
+    {
+      "metin": "Its hull was made of carbon fibre.",
+      "kaynak": "Footage/titan-submersible-3.png"
+    },
+    {
+      "metin": "Carbon fibre is superb in tension but less predictable under deep-sea pressure.",
+      "kaynak": "Footage/titan-submersible-4.jpg"
+    },
+    {
+      "metin": "Every dive stressed the hull again.",
+      "kaynak": "Footage/titan-submersible-5.jpg"
+    },
+    {
+      "metin": "Damage built up inside the layers.",
+      "kaynak": "Footage/titan-submersible-6.jpg"
+    },
+    {
+      "metin": "The sub had never been independently certified.",
+      "kaynak": "Footage/titan-submersible-7.jpg"
+    },
+    {
+      "metin": "It renewed calls for certifying every deep submersible.",
+      "kaynak": "Footage/titan-submersible-1.jpg"
+    }
+  ],
+  "aciklama": "Titan imploded on a dive to the Titanic. The cause: cumulative damage and delamination in a carbon fibre composite pressure hull.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Titan",
+    "2023",
+    "hull",
+    "engineering failure"
+  ],
+  "hook": "It imploded instantly",
+  "soru": "Innovation or certification?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "the Titan submersible",
+    "kisa": "Titan",
+    "nesne": "Hull",
+    "yil": 2023,
+    "sonuc": "imploded on a dive to the Titanic",
+    "tetik": "a carbon fibre hull weakened by repeated dives",
+    "mekanizma": "cumulative damage and delamination in a carbon fibre composite pressure hull",
+    "sayi": "5 DIED",
+    "ders": "the case renewed calls for independent certification of deep submersibles",
+    "zincir": [
+      "CARBON FIBRE HULL",
+      "NO INDEPENDENT CERTIFICATION",
+      "DAMAGE ACCUMULATES OVER DIVES",
+      "HULL DELAMINATES",
+      "INSTANT IMPLOSION"
+    ],
+    "zaman": [],
+    "yanilgi": "Carbon fibre is strong in tension, but it behaves very differently under the huge compression of the deep sea.",
+    "tartisma": "Experts had warned about the hull before the dive. Should innovation be allowed to skip certification?",
+    "basliklar": [
+      "The Carbon Fibre Hull That Imploded Near the Titanic",
+      "Why the Titan Submersible Imploded",
+      "The Hull That Skipped Certification"
+    ],
+    "kapak": [
+      "IMPLODED",
+      "UNCERTIFIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Titan submersible implosion",
+        "url": "https://en.wikipedia.org/wiki/Titan_submersible_implosion"
+      },
+      {
+        "ad": "Transportation Safety Board of Canada — m23a0169 (cited by Wikipedia)",
+        "url": "https://www.tsb.gc.ca/eng/enquetes-investigations/marine/2023/m23a0169/m23a0169.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-04",
+    "wiki": "Titan_submersible_implosion",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "U.S. Coast Guard marine safety engineers conduct a survey of the aft titanium endcap from Titan - 231001-G-G0000-1001.jpg [Public domain]",
+      "Videoframe 125654.png [Public domain]",
+      "Wreckage of Titan submersible aft section.png [Public domain]",
+      "Titan submersible carbon fiber debris (9057369).jpg [Public domain]",
+      "Titan submersible debris (9057368).jpg [Public domain]",
+      "Titan submersible debris recovery (9057342).jpg [Public domain]",
+      "Titan submersible on the ocean floor.jpg [Public domain]"
+    ]
+  }
+}

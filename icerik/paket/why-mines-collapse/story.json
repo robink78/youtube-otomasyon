@@ -1,0 +1,56 @@
+{
+  "slug": "why-mines-collapse",
+  "tip": "explainer",
+  "bolumler": [
+    {
+      "id": "COLD_OPEN",
+      "ad": "COLD OPEN"
+    },
+    {
+      "id": "STAKES",
+      "ad": "WHY IT MATTERS TO YOU"
+    },
+    {
+      "id": "NORMAL",
+      "ad": "HOW IT NORMALLY WORKS"
+    },
+    {
+      "id": "FAILURE",
+      "ad": "THE FAILURE"
+    },
+    {
+      "id": "CAUSE",
+      "ad": "THE TECHNICAL CAUSE"
+    },
+    {
+      "id": "CHANGED",
+      "ad": "WHAT CHANGED AFTERWARD"
+    },
+    {
+      "id": "LESSON",
+      "ad": "FINAL LESSON"
+    }
+  ],
+  "acikDonguler": [
+    {
+      "acBolum": "COLD_OPEN",
+      "kapatBolum": "CAUSE",
+      "ac": "The explanation most people know is not quite what the evidence shows.",
+      "kapat": "Mine roofs rarely fail without warning — rock often cracks and pops as the load shifts."
+    },
+    {
+      "acBolum": "FAILURE",
+      "kapatBolum": "CAUSE",
+      "ac": "Removing too much rock should not have been enough. So what turned it into a failure?",
+      "kapat": "The answer was pillar failure."
+    }
+  ],
+  "cta": {
+    "strateji": "none",
+    "neden": "Shorts: a spoken CTA costs retention; the on-screen question + pinned comment convert instead",
+    "noktalar": [],
+    "metin": null,
+    "yasak": "never in the first 30 seconds; never 'like and subscribe' without context"
+  },
+  "brif": "STRUCTURE (explainer; adapt, don't pad — skip a section if the evidence for it doesn't exist):\n1. COLD OPEN\n2. WHY IT MATTERS TO YOU\n3. HOW IT NORMALLY WORKS\n4. THE FAILURE\n5. THE TECHNICAL CAUSE\n6. WHAT CHANGED AFTERWARD\n7. FINAL LESSON\n\nFIRST 30 SECONDS (write it separately from the rest):\n0-5s the event/result · 5-12s an unexpected detail · 12-20s the central problem · 20-30s what the viewer will understand by the end.\nDraft from the case file: A mine is a hole holding up an entire mountain. It took only removing too much rock. So what actually happens inside? The answer is pillar failure — and it is why sensors listen for the rock before it fails.\nNever open with a welcome, the channel name, 'in today's video', a biography or background history.\n\nOPEN LOOPS (open early, resolve exactly where stated; no fake suspense):\n- in COLD OPEN: \"The explanation most people know is not quite what the evidence shows.\" → resolve in THE TECHNICAL CAUSE: Mine roofs rarely fail without warning — rock often cracks and pops as the load shifts.\n- in THE FAILURE: \"Removing too much rock should not have been enough. So what turned it into a failure?\" → resolve in THE TECHNICAL CAUSE: The answer was pillar failure.\n\nCTA: none (Shorts: a spoken CTA costs retention; the on-screen question + pinned comment convert instead)\n\nSTYLE: documentary narration — concrete nouns, numbers with units, named mechanisms. No AI clichés: \"let's dive in\", \"let us dive in\", \"dive into\", \"here's the fascinating part\", \"but here's where things get interesting\", \"in today's video\", \"in this video\", \"welcome to\", \"welcome back\", \"without further ado\", \"buckle up\", \"stay tuned\", \"you won't believe\", \"mind-blowing\"."
+}

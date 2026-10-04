@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Emigrant Ship That Hit a Reef at Full Speed",
+  "kaynaklar": [
+    {
+      "ad": "ss-sirio-1.jpg",
+      "wikimedia": "DC-1906-33-d Sirio.jpg"
+    },
+    {
+      "ad": "ss-sirio-2.jpg",
+      "wikimedia": "Arcebispo do Pará D António Marcondio Homem de Mello.jpg"
+    },
+    {
+      "ad": "ss-sirio-3.jpg",
+      "wikimedia": "Benedito Calixto - Naufrágio do Sírio, 1907.jpg"
+    },
+    {
+      "ad": "ss-sirio-4.jpg",
+      "wikimedia": "Benedito Calixto - Naufrágio do Sírio.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An Italian steamer full of emigrants ran onto a reef off Spain.",
+      "kaynak": "Footage/ss-sirio-1.jpg"
+    },
+    {
+      "metin": "It struck at full speed, and at least two hundred people were killed.",
+      "kaynak": "Footage/ss-sirio-2.jpg"
+    },
+    {
+      "metin": "It was bound for South America.",
+      "kaynak": "Footage/ss-sirio-3.jpg"
+    },
+    {
+      "metin": "Its course ran too close to the coast.",
+      "kaynak": "Footage/ss-sirio-4.jpg"
+    },
+    {
+      "metin": "It hit a reef off Hormigas Island.",
+      "kaynak": "Footage/ss-sirio-1.jpg"
+    },
+    {
+      "metin": "An eyewitness said it was taking a dangerous course.",
+      "kaynak": "Footage/ss-sirio-2.jpg"
+    },
+    {
+      "metin": "Panic broke out, and lifeboats were swamped.",
+      "kaynak": "Footage/ss-sirio-3.jpg"
+    },
+    {
+      "metin": "The disaster shook emigrant communities in Italy.",
+      "kaynak": "Footage/ss-sirio-4.jpg"
+    }
+  ],
+  "aciklama": "Sirio ran aground on a reef off Spain. The cause: grounding at full speed on a reef off Hormigas Island.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "Sirio",
+    "1906",
+    "reef",
+    "engineering failure"
+  ],
+  "hook": "Full speed onto a reef",
+  "soru": "Why do first reports blame so fast?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "the SS Sirio",
+    "kisa": "Sirio",
+    "nesne": "Reef",
+    "yil": 1906,
+    "sonuc": "ran aground on a reef off Spain",
+    "tetik": "a course too close to the coast",
+    "mekanizma": "grounding at full speed on a reef off Hormigas Island",
+    "sayi": "200+ DIED",
+    "ders": "the wreck deeply affected emigrant communities and scrutiny of ship officers",
+    "zincir": [
+      "EMIGRANTS BOUND FOR SOUTH AMERICA",
+      "COURSE CLOSE TO COAST",
+      "FULL SPEED",
+      "REEF STRUCK",
+      "SHIP SINKS"
+    ],
+    "zaman": [],
+    "yanilgi": "The reef was known. The ship was simply on a dangerous course.",
+    "tartisma": "Early reports wrongly accused the captain of fleeing. Why do first reports blame so fast?",
+    "basliklar": [
+      "The Emigrant Ship That Hit a Reef at Full Speed",
+      "Why the SS Sirio Was Wrecked",
+      "The Emigrant Ship on the Reef"
+    ],
+    "kapak": [
+      "REEF",
+      "FULL SPEED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — SS Sirio",
+        "url": "https://en.wikipedia.org/wiki/SS_Sirio"
+      },
+      {
+        "ad": "Academic / engineering journal — 25011898 (cited by Wikipedia)",
+        "url": "https://www.jstor.org/stable/25011898"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-19",
+    "wiki": "SS_Sirio",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "DC-1906-33-d Sirio.jpg [Public domain]",
+      "Arcebispo do Pará D António Marcondio Homem de Mello.jpg [Public domain]",
+      "Benedito Calixto - Naufrágio do Sírio, 1907.jpg [Public domain]",
+      "Benedito Calixto - Naufrágio do Sírio.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Fire Firefighters Fought Without Horses",
+  "kaynaklar": [
+    {
+      "ad": "great-boston-fire-1.jpg",
+      "wikimedia": "1872 AfterFire Boston byJWBlack SmithsonianAmericanArt 1994.91.27 1a.jpg"
+    },
+    {
+      "ad": "great-boston-fire-2.jpg",
+      "wikimedia": "Bird's-eye view, from Robert N. Dennis collection of stereoscopic views.jpg"
+    },
+    {
+      "ad": "great-boston-fire-3.jpg",
+      "wikimedia": "Bird's-eye view of Boston, showing the burned district 01.jpg"
+    },
+    {
+      "ad": "great-boston-fire-4.jpg",
+      "wikimedia": "Boston 1872 fire ruins.jpg"
+    },
+    {
+      "ad": "great-boston-fire-5.jpg",
+      "wikimedia": "Boston Fire from Washington & Bromfield panoramic by Whipple, 1872.jpg"
+    },
+    {
+      "ad": "great-boston-fire-6.jpg",
+      "wikimedia": "Corner Washington and Summer Streets, by Prescott & White.jpg"
+    },
+    {
+      "ad": "great-boston-fire-7.jpg",
+      "wikimedia": "From Milk and Devonshire looking toward Bromfield St, from Robert N. Dennis collection of stereoscopic views.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A warehouse fire spread through downtown Boston.",
+      "kaynak": "Footage/great-boston-fire-1.jpg"
+    },
+    {
+      "metin": "Within hours, the flames destroyed the commercial district.",
+      "kaynak": "Footage/great-boston-fire-2.jpg"
+    },
+    {
+      "metin": "Many buildings had tall wooden mansard roofs.",
+      "kaynak": "Footage/great-boston-fire-3.jpg"
+    },
+    {
+      "metin": "Fire jumped easily from roof to roof.",
+      "kaynak": "Footage/great-boston-fire-4.jpg"
+    },
+    {
+      "metin": "An outbreak of horse flu had sickened the city's horses.",
+      "kaynak": "Footage/great-boston-fire-5.jpg"
+    },
+    {
+      "metin": "Fire engines had to be pulled by men.",
+      "kaynak": "Footage/great-boston-fire-6.jpg"
+    },
+    {
+      "metin": "Hydrants also had low water pressure.",
+      "kaynak": "Footage/great-boston-fire-7.jpg"
+    },
+    {
+      "metin": "Boston then improved its water supply and building codes.",
+      "kaynak": "Footage/great-boston-fire-1.jpg"
+    }
+  ],
+  "aciklama": "Great Boston Fire destroyed Boston's commercial district. The cause: fire spread through wooden mansard roofs, with low water pressure and a horse flu outbreak slowing engines.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Great Boston Fire",
+    "1872",
+    "city district",
+    "engineering failure"
+  ],
+  "hook": "The horses were sick",
+  "soru": "Regulate rooftops?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Great Boston Fire",
+    "kisa": "Great Boston Fire",
+    "nesne": "City district",
+    "yil": 1872,
+    "sonuc": "destroyed Boston's commercial district",
+    "tetik": "a warehouse fire in a dense district of tall buildings",
+    "mekanizma": "fire spread through wooden mansard roofs, with low water pressure and a horse flu outbreak slowing engines",
+    "sayi": "HORSE FLU",
+    "ders": "Boston improved its water supply and building codes",
+    "zincir": [
+      "WAREHOUSE FIRE",
+      "WOODEN MANSARD ROOFS",
+      "HORSES SICK WITH FLU",
+      "LOW HYDRANT PRESSURE",
+      "DISTRICT BURNS"
+    ],
+    "zaman": [],
+    "yanilgi": "Firefighters weren't slow by choice. An outbreak of horse flu meant engines had to be pulled by men.",
+    "tartisma": "Rooftop styles spread the fire from building to building. Should fashion be regulated for safety?",
+    "basliklar": [
+      "The Fire Firefighters Fought Without Horses",
+      "Why the Great Boston Fire Spread So Far",
+      "The Fire Fought Without Horses"
+    ],
+    "kapak": [
+      "NO HORSES",
+      "CITY ABLAZE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Great Boston Fire of 1872",
+        "url": "https://en.wikipedia.org/wiki/Great_Boston_Fire_of_1872"
+      },
+      {
+        "ad": "Government source — fire operations#brief history (cited by Wikipedia)",
+        "url": "https://www.boston.gov/departments/fire-operations#brief-history"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "Great_Boston_Fire_of_1872",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "1872 AfterFire Boston byJWBlack SmithsonianAmericanArt 1994.91.27 1a.jpg [Public domain]",
+      "Bird's-eye view, from Robert N. Dennis collection of stereoscopic views.jpg [Public domain]",
+      "Bird's-eye view of Boston, showing the burned district 01.jpg [Public domain]",
+      "Boston 1872 fire ruins.jpg [Public domain]",
+      "Boston Fire from Washington & Bromfield panoramic by Whipple, 1872.jpg [Public domain]",
+      "Corner Washington and Summer Streets, by Prescott & White.jpg [Public domain]",
+      "From Milk and Devonshire looking toward Bromfield St, from Robert N. Dennis collection of stereoscopic views.jpg [Public domain]"
+    ]
+  }
+}

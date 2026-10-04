@@ -1,0 +1,34 @@
+{
+  "channel": "impossible-brief",
+  "updatedAt": "2026-10-04T17:38:43.994Z",
+  "families": [
+    {
+      "contentType": "short",
+      "cluster": "SPACE",
+      "publications": 3,
+      "measured": 2,
+      "predictedTopicScore": 85.7,
+      "actualGrowthScore": 72.9,
+      "medianViews": 493,
+      "medianAveragePercentageViewed": null,
+      "medianSubscribersPer1000Views": null,
+      "confidence": "insufficient",
+      "mode": "explore",
+      "fatigue": false
+    },
+    {
+      "contentType": "short",
+      "cluster": "FUTURE TECHNOLOGY",
+      "publications": 1,
+      "measured": 0,
+      "predictedTopicScore": null,
+      "actualGrowthScore": null,
+      "medianViews": null,
+      "medianAveragePercentageViewed": null,
+      "medianSubscribersPer1000Views": null,
+      "confidence": "insufficient",
+      "mode": "explore",
+      "fatigue": false
+    }
+  ]
+}

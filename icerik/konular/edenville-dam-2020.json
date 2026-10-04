@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Dam Known to Be Unsafe Failed in a Flood",
+  "kaynaklar": [
+    {
+      "ad": "edenville-dam-1.png",
+      "wikimedia": "NOAA Satellites Capture Flooding from Dam Failure in Midland, Michigan (NESDIS 2020-07-22).png"
+    },
+    {
+      "ad": "edenville-dam-2.jpg",
+      "wikimedia": "Flooding in Michigan (MODIS 2020-05-22).jpg"
+    },
+    {
+      "ad": "edenville-dam-3.png",
+      "wikimedia": "NOAA Satellites Provide Detailed Imagery of Michigan Floods (NESDIS 2020-11-09 olizoomedinmidland).png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "After heavy rain, the Edenville Dam in Michigan collapsed.",
+      "kaynak": "Footage/edenville-dam-1.png"
+    },
+    {
+      "metin": "Within hours, floodwater forced thousands of people to evacuate.",
+      "kaynak": "Footage/edenville-dam-2.jpg"
+    },
+    {
+      "metin": "The flood then overtopped the next dam as well.",
+      "kaynak": "Footage/edenville-dam-3.png"
+    },
+    {
+      "metin": "Edenville had lost its federal licence years before.",
+      "kaynak": "Footage/edenville-dam-1.png"
+    },
+    {
+      "metin": "Regulators worried its spillways couldn't pass a major flood.",
+      "kaynak": "Footage/edenville-dam-2.jpg"
+    },
+    {
+      "metin": "Repairs were delayed by disputes over ownership and cost.",
+      "kaynak": "Footage/edenville-dam-3.png"
+    },
+    {
+      "metin": "The embankment's sandy fill gave way.",
+      "kaynak": "Footage/edenville-dam-1.png"
+    },
+    {
+      "metin": "Michigan then strengthened its dam safety programme.",
+      "kaynak": "Footage/edenville-dam-2.jpg"
+    }
+  ],
+  "aciklama": "Edenville Dam failed and flooded Michigan towns downstream. The cause: embankment failure by static liquefaction of the dam's sandy fill.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Edenville Dam",
+    "2020",
+    "dam",
+    "engineering failure"
+  ],
+  "hook": "It was known to be unsafe",
+  "soru": "Who pays for an old dam?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Edenville Dam",
+    "kisa": "Edenville Dam",
+    "nesne": "Dam",
+    "yil": 2020,
+    "sonuc": "failed and flooded Michigan towns downstream",
+    "tetik": "heavy rain filling the reservoir",
+    "mekanizma": "embankment failure by static liquefaction of the dam's sandy fill",
+    "sayi": "KNOWN RISK",
+    "ders": "Michigan strengthened its dam safety programme",
+    "zincir": [
+      "LICENCE REVOKED FOR SPILLWAY SHORTFALL",
+      "HEAVY RAIN",
+      "RESERVOIR RISES",
+      "EMBANKMENT LIQUEFIES",
+      "DOWNSTREAM DAM OVERTOPPED"
+    ],
+    "zaman": [],
+    "yanilgi": "The dam had already lost its federal licence over spillway capacity concerns years before.",
+    "tartisma": "Regulators knew the risks but ownership disputes delayed repairs. Who fixes a dam nobody wants to pay for?",
+    "basliklar": [
+      "A Dam Known to Be Unsafe Failed in a Flood",
+      "Why the Edenville Dam Failed",
+      "The Dam That Lost Its Licence Years Before"
+    ],
+    "kapak": [
+      "KNOWN RISK",
+      "DAM FAILED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Edenville Dam",
+        "url": "https://en.wikipedia.org/wiki/Edenville_Dam"
+      },
+      {
+        "ad": "Government source — FLTFMeeting04162020 (cited by Wikipedia)",
+        "url": "https://gladwincounty-mi.gov/wp-content/uploads/2020/04/FLTFMeeting04162020.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "Edenville_Dam",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "NOAA Satellites Capture Flooding from Dam Failure in Midland, Michigan (NESDIS 2020-07-22).png [Public domain]",
+      "Flooding in Michigan (MODIS 2020-05-22).jpg [Public domain]",
+      "NOAA Satellites Provide Detailed Imagery of Michigan Floods (NESDIS 2020-11-09 olizoomedinmidland).png [Public domain]"
+    ]
+  }
+}

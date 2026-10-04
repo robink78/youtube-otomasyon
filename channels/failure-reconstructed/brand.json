@@ -1,0 +1,8 @@
+{
+  "name": "Failure Reconstructed",
+  "tagline": "Forensic Engineering Documentaries",
+  "profileIdentity": "FR",
+  "theme": ["forensic", "engineering", "archival", "documentary", "high-contrast"],
+  "colors": { "background": "#10151b", "primary": "#d9e2e8", "accent": "#d88736", "text": "#ffffff" },
+  "avoid": ["sensational gore", "unsupported certainty", "generic AI imagery"]
+}

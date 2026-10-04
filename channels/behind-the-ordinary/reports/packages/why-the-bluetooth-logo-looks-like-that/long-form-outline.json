@@ -1,0 +1,206 @@
+{
+  "format": "long",
+  "targetMinutes": [
+    8,
+    15
+  ],
+  "coldOpen": "The Bluetooth logo is a Viking king's initials.",
+  "centralQuestion": "Why is the Bluetooth logo that angular symbol, and where did the name come from?",
+  "sections": [
+    {
+      "order": 1,
+      "section": "Cold open",
+      "evidence": "VERIFIED FACT"
+    },
+    {
+      "order": 2,
+      "section": "The question",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 3,
+      "section": "Origin and context",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 4,
+      "section": "The design problem",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 5,
+      "section": "The documented explanation",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 6,
+      "section": "The surprising detail",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 7,
+      "section": "Real-world consequence",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 8,
+      "section": "Final payoff",
+      "evidence": "CLAIM IDS REQUIRED"
+    },
+    {
+      "order": 9,
+      "section": "Next curiosity bridge",
+      "evidence": "CLAIM IDS REQUIRED"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/",
+      "type": "standards body (Bluetooth SIG)"
+    },
+    {
+      "name": "Bluetooth SIG — Bluetooth Technology Overview",
+      "url": "https://www.bluetooth.com/learn-about-bluetooth/tech-overview/",
+      "type": "standards body (Bluetooth SIG)"
+    }
+  ],
+  "evidence": [
+    {
+      "role": "origin",
+      "layer": "VERIFIED FACT",
+      "claim": "King Harald Bluetooth Gormsson was known for uniting Denmark and Norway in 958.",
+      "quote": "Uniting Denmark and Norway in 958",
+      "source": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+      "role": "context",
+      "layer": "VERIFIED FACT",
+      "claim": "Harald's nickname came from a dead tooth of a dark blue-grey colour.",
+      "quote": "His dead tooth, which was a dark blue/grey color, and earned him the nickname Bluetooth",
+      "source": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+      "role": "context",
+      "layer": "VERIFIED FACT",
+      "claim": "In 1996 Intel, Ericsson and Nokia met to plan the standardization of a short-range radio technology.",
+      "quote": "In 1996, three industry leaders, Intel, Ericsson, and Nokia, met to plan the standardization of this short-range radio technology",
+      "source": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+      "role": "origin",
+      "layer": "VERIFIED FACT",
+      "claim": "At that meeting Jim Kardach of Intel suggested Bluetooth as a temporary code name.",
+      "quote": "Jim Kardach from Intel suggested Bluetooth as a temporary code name",
+      "source": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+      "role": "explanation",
+      "layer": "VERIFIED FACT",
+      "claim": "Kardach compared Harald uniting Scandinavia with uniting the PC and cellular industries through a short-range wireless link.",
+      "quote": "was famous for uniting Scandinavia just as we intended to unite the PC and cellular industries with a short-range wireless link",
+      "source": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+      "role": "surprising-detail",
+      "layer": "VERIFIED FACT",
+      "claim": "Bluetooth was intended only as a placeholder name.",
+      "quote": "Bluetooth was only intended as a placeholder until marketing could come up with something really cool",
+      "source": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+      "role": "surprising-detail",
+      "layer": "VERIFIED FACT",
+      "claim": "The planned replacement names were RadioWire or PAN (Personal Area Networking).",
+      "quote": "Bluetooth was to be replaced with either RadioWire or PAN (Personal Area Networking)",
+      "source": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+      "role": "problem",
+      "layer": "VERIFIED FACT",
+      "claim": "PAN already had tens of thousands of hits on the internet.",
+      "quote": "PAN was the front runner, but an exhaustive search discovered it already had tens of thousands of hits throughout the internet",
+      "source": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+      "role": "problem",
+      "layer": "VERIFIED FACT",
+      "claim": "A full trademark search on RadioWire could not be completed in time for launch.",
+      "quote": "A full trademark search on RadioWire couldn't be completed in time for launch, making Bluetooth the only choice",
+      "source": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+      "role": "payoff",
+      "layer": "VERIFIED FACT",
+      "claim": "The Bluetooth logo is a bind rune merging the Younger Futhark runes Hagall and Bjarkan, Harald's initials.",
+      "quote": "The Bluetooth logo is a bind rune merging the Younger Futhark runes",
+      "source": "Bluetooth SIG — Origin of the Name",
+      "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+      "role": "context",
+      "layer": "VERIFIED FACT",
+      "claim": "Kardach proposed the code name after seeing a picture of Harald Bluetooth's runestone in a history of the Vikings.",
+      "quote": "Upon discovering a picture of the runestone of Harald Bluetooth in the book A History of the Vikings by Gwyn Jones",
+      "source": "Wikipedia — Bluetooth",
+      "url": "https://en.wikipedia.org/wiki/Bluetooth"
+    }
+  ],
+  "visualPlan": [
+    "the Bluetooth logo on a phone settings screen",
+    "the two runes drawn separately",
+    "the runes sliding together into the logo",
+    "a runestone carving",
+    "a laptop and phone pairing"
+  ],
+  "titleCandidates": [
+    "Why the Bluetooth Logo Looks Like That",
+    "Why the Bluetooth symbol Have its angular rune",
+    "The Hidden Purpose of its angular rune",
+    "What its angular rune Were Actually Made For",
+    "This Detail Wasn't Added by Accident",
+    "The Design Reason Behind its angular rune",
+    "Why This Detail Still Exists on the Bluetooth symbol",
+    "The Original Job of its angular rune",
+    "the Bluetooth symbol: The Detail Everyone Overlooks",
+    "How its angular rune Became Part of the Bluetooth symbol",
+    "What Problem Did its angular rune Solve?",
+    "The Tiny Design Choice on the Bluetooth symbol",
+    "Why the Bluetooth symbol Still Use This Old Detail",
+    "its angular rune: Function or Leftover?",
+    "The Everyday Engineering of the Bluetooth symbol",
+    "Look Closely at the Bluetooth symbol",
+    "The Reason its angular rune Look Like This",
+    "the Bluetooth symbol Hide a Piece of Design History",
+    "Why Designers Kept its angular rune",
+    "the Bluetooth symbol Explained Through One Small Detail"
+  ],
+  "thumbnailConceptRequirement": "one object + one highlighted detail; zero to four words; five concepts",
+  "standaloneShorts": [
+    {
+      "angle": "visual mystery",
+      "hook": "The Bluetooth logo is a Viking king's initials."
+    },
+    {
+      "angle": "documented origin",
+      "hook": "How its angular rune became part of the Bluetooth symbol."
+    },
+    {
+      "angle": "design mechanism",
+      "hook": "The problem its angular rune were designed to solve."
+    },
+    {
+      "angle": "misconception",
+      "hook": "Bluetooth sounds like a technical acronym, but it is a king's nickname that was meant to be a placeholder."
+    }
+  ]
+}

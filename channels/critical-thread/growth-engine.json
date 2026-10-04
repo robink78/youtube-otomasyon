@@ -1,0 +1,36 @@
+{
+  "_comment": "CriticalThread growth overrides: hidden dependency, systemic consequence and real-world relevance dominate; no generic technology explainers.",
+  "identity": "premium systems / infrastructure mini-documentary",
+  "selection": { "_comment": "Exploration stays inside researched topics (A/B). Unresearched records have no sourced facts or narration and fall back to templated scripts.", "exploreBuckets": ["A", "B"] },
+  "lexicon": ["depend", "bottleneck", "supply", "grid", "cable", "satellite", "gps", "port", "shipping", "chip", "semiconductor", "power", "water", "food", "cold chain", "infrastructure", "capacity", "replace", "critical", "chokepoint", "machine", "manufactur", "system", "network", "transformer", "logistics"],
+  "topic": {
+    "weights": {
+      "TopicDemandScore": 1, "CuriosityScore": 1.1, "HookPotentialScore": 1.2, "VisualImpactScore": 0.9,
+      "EmotionalImpactScore": 1.2, "StoryCompressionScore": 1.2, "RewatchPotentialScore": 0.6, "SharePotentialScore": 0.9,
+      "CommentPotentialScore": 0.7, "SubscriberConversionPotential": 0.9, "NoveltyScore": 0.9, "AudienceFitScore": 1,
+      "SourceQualityScore": 1.3, "ChannelFitScore": 1.3
+    },
+    "priorityClusters": ["SEMICONDUCTORS", "ELECTRICAL GRID", "SUBMARINE CABLES", "GPS AND TIMING", "SATELLITES", "PORTS", "SHIPPING", "COLD CHAIN", "WATER", "CRITICAL MINERALS", "GLOBAL CHOKEPOINTS", "PRECISION MACHINERY", "DATA CENTERS"]
+  },
+  "hooks": { "preferredFamilies": ["system_dependency", "scarcity_bottleneck", "impossible_sounding_fact", "hidden_cause", "before_after_consequence", "misconception_reversal"] },
+  "story": {
+    "shorts": ["HIDDEN_SYSTEM", "WHY_IT_MATTERS", "WHAT_DEPENDS_ON_IT", "BOTTLENECK", "FAILURE_CONSEQUENCE", "RESILIENCE"],
+    "longform": ["COLD_OPEN", "INVISIBLE_SYSTEM", "WHERE_IT_EXISTS", "HOW_IT_WORKS", "WHAT_DEPENDS_ON_IT", "BOTTLENECK", "WHY_THE_BOTTLENECK_EXISTS", "FAILURE_SCENARIO", "CASCADING_CONSEQUENCES", "REDUNDANCY_ALTERNATIVES", "FINAL_SYSTEM_INSIGHT"]
+  },
+  "engagement": {
+    "ctas": ["What invisible system should we trace next?", "Which hidden dependency should we map next?"],
+    "longCtas": ["This is only one dependency. The full system is mapped in the linked episode."],
+    "commentPrompt": "What invisible system should we trace next?"
+  },
+  "visualIntegrity": {
+    "classes": ["REAL_INFRASTRUCTURE", "REAL_MAP", "PROCESS_DIAGRAM", "TECHNICAL_ILLUSTRATION", "AI_GENERATED", "LICENSED_STOCK"],
+    "requireLabel": ["TECHNICAL_ILLUSTRATION", "AI_GENERATED"],
+    "forbidden": ["generic futuristic stock", "fake factory", "misleading scale"]
+  },
+  "firstSeconds": { "soundCue": "single mechanical click on the first cut" },
+  "longform": {
+    "potentialWeights": { "SeriesPotential": 1, "ViewerJourneyPotential": 1 },
+    "shortCta": "This is only one dependency. The full system is mapped in the linked episode."
+  },
+  "captions": { "_comment": "Technical documentary: condensed capitals, heavy outline, amber numbers.", "font": "Liberation Sans Narrow", "uppercase": true, "outline": 6, "spacing": 1, "highlightColor": "&H00B0FF&", "maxCharsPerLine": 20 }
+}

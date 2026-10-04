@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Jet That Landed Safely — and Nobody Got Out",
+  "kaynaklar": [
+    {
+      "ad": "saudia-163-1.jpg",
+      "wikimedia": "Saudia Flight 163 aftermath of fire onboard.jpg"
+    },
+    {
+      "ad": "saudia-163-2.png",
+      "wikimedia": "Tail wreckage of HZ-AHK.png"
+    },
+    {
+      "ad": "saudia-163-3.jpg",
+      "wikimedia": "Saudia Flight 163 Wreckage 1984.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An airliner caught fire soon after leaving Riyadh and turned back.",
+      "kaynak": "Footage/saudia-163-1.jpg"
+    },
+    {
+      "metin": "It landed safely, yet all three hundred one people aboard died.",
+      "kaynak": "Footage/saudia-163-2.png"
+    },
+    {
+      "metin": "Smoke came from a fire in the rear cargo hold.",
+      "kaynak": "Footage/saudia-163-3.jpg"
+    },
+    {
+      "metin": "The crew returned slowly and took time to stop.",
+      "kaynak": "Footage/saudia-163-1.jpg"
+    },
+    {
+      "metin": "After landing, the jet taxied off the runway.",
+      "kaynak": "Footage/saudia-163-2.png"
+    },
+    {
+      "metin": "The doors were never opened.",
+      "kaynak": "Footage/saudia-163-3.jpg"
+    },
+    {
+      "metin": "Smoke and fire filled the cabin before rescuers got in.",
+      "kaynak": "Footage/saudia-163-1.jpg"
+    },
+    {
+      "metin": "Airlines now stress immediate evacuation when fire is present.",
+      "kaynak": "Footage/saudia-163-2.png"
+    }
+  ],
+  "aciklama": "Saudia 163 landed after a cargo fire, but no one escaped. The cause: cabin fire and smoke with evacuation never started after landing.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Saudia 163",
+    "1980",
+    "airliner",
+    "engineering failure"
+  ],
+  "hook": "It landed safely",
+  "soru": "Who opens the doors?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "Saudia Flight 163",
+    "kisa": "Saudia 163",
+    "nesne": "Airliner",
+    "yil": 1980,
+    "sonuc": "landed after a cargo fire, but no one escaped",
+    "tetik": "a fire in the aft cargo hold after take-off",
+    "mekanizma": "cabin fire and smoke with evacuation never started after landing",
+    "sayi": "301 DIED",
+    "ders": "airlines stressed immediate evacuation after landing with a fire",
+    "zincir": [
+      "SMOKE WARNING IN CARGO HOLD",
+      "SLOW RETURN TO AIRPORT",
+      "LANDS AND TAXIS",
+      "DOORS NOT OPENED",
+      "FIRE AND SMOKE FILL CABIN"
+    ],
+    "zaman": [],
+    "yanilgi": "The landing wasn't the failure. The aircraft stopped intact, but no evacuation began.",
+    "tartisma": "Minutes passed on the runway with engines running. Who decides to open the doors?",
+    "basliklar": [
+      "The Jet That Landed Safely — and Nobody Got Out",
+      "Why Nobody Escaped Saudia Flight 163",
+      "The Safe Landing That Became a Disaster"
+    ],
+    "kapak": [
+      "NOBODY GOT OUT",
+      "301 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Saudia Flight 163",
+        "url": "https://en.wikipedia.org/wiki/Saudia_Flight_163"
+      },
+      {
+        "ad": "FAA — AircraftAccidentReportSAA (cited by Wikipedia)",
+        "url": "https://www.faa.gov/sites/faa.gov/files/AircraftAccidentReportSAA.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "Saudia_Flight_163",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Saudia Flight 163 aftermath of fire onboard.jpg [Public domain]",
+      "Tail wreckage of HZ-AHK.png [Public domain]",
+      "Saudia Flight 163 Wreckage 1984.jpg [Public domain]"
+    ]
+  }
+}

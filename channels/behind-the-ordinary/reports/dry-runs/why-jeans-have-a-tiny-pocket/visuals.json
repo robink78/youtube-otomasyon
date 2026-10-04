@@ -1,0 +1,65 @@
+[
+  {
+    "scene": 1,
+    "start": 0,
+    "end": 3.6,
+    "sourcePriority": "licensed-object-photography",
+    "subject": "real jeans",
+    "evidenceLabel": "VERIFIED FACT",
+    "changeRequiredWithinSeconds": 3.5
+  },
+  {
+    "scene": 2,
+    "start": 3.6,
+    "end": 6.4,
+    "sourcePriority": "macro-detail-photography",
+    "subject": "macro view of tiny pockets",
+    "evidenceLabel": "VERIFIED FACT",
+    "changeRequiredWithinSeconds": 3.5
+  },
+  {
+    "scene": 3,
+    "start": 6.4,
+    "end": 9.6,
+    "sourcePriority": "manufacturer-archive",
+    "subject": "labelled comparison",
+    "evidenceLabel": "VERIFIED FACT",
+    "changeRequiredWithinSeconds": 3.5
+  },
+  {
+    "scene": 4,
+    "start": 9.6,
+    "end": 13.9,
+    "sourcePriority": "standards-diagram",
+    "subject": "source document or engineering diagram",
+    "evidenceLabel": "VERIFIED FACT",
+    "changeRequiredWithinSeconds": 3.5
+  },
+  {
+    "scene": 5,
+    "start": 13.9,
+    "end": 17.9,
+    "sourcePriority": "labelled-technical-illustration",
+    "subject": "the detail in everyday use",
+    "evidenceLabel": "VERIFIED FACT",
+    "changeRequiredWithinSeconds": 3.5
+  },
+  {
+    "scene": 6,
+    "start": 17.9,
+    "end": 22.5,
+    "sourcePriority": "object-in-use",
+    "subject": "real jeans",
+    "evidenceLabel": "VERIFIED FACT",
+    "changeRequiredWithinSeconds": 3.5
+  },
+  {
+    "scene": 7,
+    "start": 22.5,
+    "end": 27.1,
+    "sourcePriority": "object-in-use",
+    "subject": "macro view of tiny pockets",
+    "evidenceLabel": "VERIFIED FACT",
+    "changeRequiredWithinSeconds": 3.5
+  }
+]

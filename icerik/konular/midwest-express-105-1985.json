@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "An Engine Failure the Crew Made Worse",
+  "kaynaklar": [
+    {
+      "ad": "midwest-express-105-1.jpg",
+      "wikimedia": "Midwest Express 105 crash site.jpg"
+    },
+    {
+      "ad": "midwest-express-105-2.jpg",
+      "wikimedia": "Midwest Express flight 105 memorial.jpg"
+    },
+    {
+      "ad": "midwest-express-105-3.jpg",
+      "wikimedia": "Midwest Express Airlines Douglas DC-9-14 N100ME, @MKE May 1985.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Just after take-off from Milwaukee, a DC-9's engine failed.",
+      "kaynak": "Footage/midwest-express-105-1.jpg"
+    },
+    {
+      "metin": "Seconds later, the jet rolled and crashed, killing all thirty one aboard.",
+      "kaynak": "Footage/midwest-express-105-2.jpg"
+    },
+    {
+      "metin": "A cracked part inside the engine had broken apart.",
+      "kaynak": "Footage/midwest-express-105-3.jpg"
+    },
+    {
+      "metin": "A twin jet can climb on one engine.",
+      "kaynak": "Footage/midwest-express-105-1.jpg"
+    },
+    {
+      "metin": "But the crew's control inputs were wrong for the failure.",
+      "kaynak": "Footage/midwest-express-105-2.jpg"
+    },
+    {
+      "metin": "The jet slowed, rolled and stalled.",
+      "kaynak": "Footage/midwest-express-105-3.jpg"
+    },
+    {
+      "metin": "Both the engine and the response were investigated.",
+      "kaynak": "Footage/midwest-express-105-1.jpg"
+    },
+    {
+      "metin": "Training for engine failures at take-off was emphasized.",
+      "kaynak": "Footage/midwest-express-105-2.jpg"
+    }
+  ],
+  "aciklama": "Midwest Express 105 crashed after an engine failed on take-off. The cause: engine failure followed by improper control inputs leading to a stall.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Midwest Express 105",
+    "1985",
+    "engine",
+    "engineering failure"
+  ],
+  "hook": "One engine should have been enough",
+  "soru": "Fix the part or the training?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Midwest Express Flight 105",
+    "kisa": "Midwest Express 105",
+    "nesne": "Engine",
+    "yil": 1985,
+    "sonuc": "crashed after an engine failed on take-off",
+    "tetik": "an uncontained engine failure from a cracked spacer",
+    "mekanizma": "engine failure followed by improper control inputs leading to a stall",
+    "sayi": "31 KILLED",
+    "ders": "engine-failure training at take-off was emphasized",
+    "zincir": [
+      "COMPRESSOR SPACER CRACKS",
+      "ENGINE FAILS AT TAKE-OFF",
+      "CREW MISJUDGES THE FAILURE",
+      "WRONG CONTROL INPUTS",
+      "STALL AND CRASH"
+    ],
+    "zaman": [],
+    "yanilgi": "A twin jet can climb on one engine. The crash followed from how the failure was handled.",
+    "tartisma": "Both a mechanical failure and a human response were involved. Where should the fix go first?",
+    "basliklar": [
+      "An Engine Failure the Crew Made Worse",
+      "Why Midwest Express Flight 105 Crashed",
+      "When an Engine Failure Became a Stall"
+    ],
+    "kapak": [
+      "ONE ENGINE",
+      "STALL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Midwest Express Airlines Flight 105",
+        "url": "https://en.wikipedia.org/wiki/Midwest_Express_Airlines_Flight_105"
+      },
+      {
+        "ad": "NTSB — AAR8701 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR8701.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-14",
+    "wiki": "Midwest_Express_Airlines_Flight_105",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Midwest Express 105 crash site.jpg [Public domain]",
+      "Midwest Express flight 105 memorial.jpg [CC BY 4.0]",
+      "Midwest Express Airlines Douglas DC-9-14 N100ME, @MKE May 1985.jpg [Public domain]"
+    ]
+  }
+}

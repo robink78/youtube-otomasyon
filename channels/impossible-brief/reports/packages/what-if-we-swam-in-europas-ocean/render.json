@@ -1,0 +1,233 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/impossible-brief/state/production/what-if-we-swam-in-europas-ocean/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "rate": "-6%",
+    "claimDurations": [
+      3.960240963855422,
+      3.575440222428174,
+      4.441241890639482,
+      5.5475440222428185,
+      3.383039851714551,
+      5.451343836886006,
+      3.888090824837813,
+      4.353058387395738
+    ],
+    "durationSeconds": 34.6,
+    "width": null,
+    "height": null,
+    "hasAudio": true,
+    "music": {
+      "mood": "spaceflight-disasters",
+      "profile": {
+        "kok": 70.4,
+        "oran": 2,
+        "trem": 0.181,
+        "renk": "white",
+        "yanki": [
+          637,
+          1075
+        ],
+        "alcak": 916,
+        "ton": "vast"
+      }
+    }
+  },
+  "video": {
+    "file": "channels/impossible-brief/state/production/what-if-we-swam-in-europas-ocean/what-if-we-swam-in-europas-ocean.mp4",
+    "captionsBurned": true,
+    "distinctVisuals": 9,
+    "realImageCount": 7,
+    "numberCardCount": 2,
+    "maxStaticSeconds": 3.28,
+    "visualChanges": 18,
+    "openingHookCovered": true,
+    "cardNumbersValid": true,
+    "opening": "number",
+    "visualQuality": {
+      "decision": "PUBLISH",
+      "reasons": []
+    },
+    "segmentSeconds": [
+      1.319,
+      0.9009999999999998,
+      1.7402409638554213,
+      1.539759036144579,
+      2.035681186283595,
+      2.1353188137164043,
+      1.6460000000000008,
+      0.6599230769230751,
+      2.5410769230769255,
+      3.006467099165892,
+      2.8595329008341075,
+      0.5235069508804422,
+      2.9544930491195593,
+      2.496850787766448,
+      3.280149212233553,
+      0.6079416126042574,
+      2.8140583873957397,
+      1.5389999999999944
+    ],
+    "sources": [
+      {
+        "shot": 1,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Plate Tectonics on Europa.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 2,
+        "claimIndex": 0,
+        "type": "stock-video",
+        "sourceId": "video:nasa-2022-H1_V_EuropaClipper-4",
+        "numbers": []
+      },
+      {
+        "shot": 3,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Europa, Earth & Moon size comparison.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 4,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:Europa PIA2387x - Chaos Transition, Crisscrossing Bands & Chaos Near Agenor Linea.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 5,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:Photo composite of suspected water plumes on Europa.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 6,
+        "claimIndex": 2,
+        "type": "stock-video",
+        "sourceId": "video:27697870",
+        "numbers": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "shot": 7,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:Plate Tectonics on Europa.jpg#2",
+        "numbers": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "shot": 8,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:Europa, Earth & Moon size comparison.jpg#2",
+        "numbers": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "shot": 9,
+        "claimIndex": 3,
+        "type": "number-card",
+        "sourceId": "card:3:913eaf36f57e",
+        "numbers": [
+          "200 metres"
+        ]
+      },
+      {
+        "shot": 10,
+        "claimIndex": 3,
+        "type": "stock-video",
+        "sourceId": "video:29208640",
+        "numbers": [
+          "200 metres"
+        ]
+      },
+      {
+        "shot": 11,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:Europa PIA2387x - Chaos Transition, Crisscrossing Bands & Chaos Near Agenor Linea.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 12,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:Photo composite of suspected water plumes on Europa.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 13,
+        "claimIndex": 5,
+        "type": "number-card",
+        "sourceId": "card:5:61edd740e9ae",
+        "numbers": [
+          "320 kilometres"
+        ]
+      },
+      {
+        "shot": 14,
+        "claimIndex": 5,
+        "type": "licensed-still",
+        "sourceId": "still:Plate Tectonics on Europa.jpg#3",
+        "numbers": [
+          "2022",
+          "320 kilometres"
+        ]
+      },
+      {
+        "shot": 15,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:Europa, Earth & Moon size comparison.jpg#3",
+        "numbers": []
+      },
+      {
+        "shot": 16,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:Europa PIA2387x - Chaos Transition, Crisscrossing Bands & Chaos Near Agenor Linea.jpg#3",
+        "numbers": []
+      },
+      {
+        "shot": 17,
+        "claimIndex": 7,
+        "type": "licensed-still",
+        "sourceId": "still:Photo composite of suspected water plumes on Europa.jpg#3",
+        "numbers": []
+      },
+      {
+        "shot": 18,
+        "claimIndex": 7,
+        "type": "licensed-still",
+        "sourceId": "still:Plate Tectonics on Europa.jpg#4",
+        "numbers": []
+      }
+    ],
+    "durationSeconds": 34.6,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/impossible-brief/state/production/what-if-we-swam-in-europas-ocean/thumbnail.jpg",
+    "bytes": 62445,
+    "sourceType": "licensed-still",
+    "sourceId": "still:Plate Tectonics on Europa.jpg",
+    "textWords": 3,
+    "usesLicensedStill": true
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Pilot Fought the Autopilot — and Lost",
+  "kaynaklar": [
+    {
+      "ad": "china-airlines-140-1.png",
+      "wikimedia": "China Airlines Flight 140 Site Where the Accident Occurred and Its Vicinity.png"
+    },
+    {
+      "ad": "china-airlines-140-2.jpg",
+      "wikimedia": "China Airlines Flight 140 wreckage 2.jpg"
+    },
+    {
+      "ad": "china-airlines-140-3.jpg",
+      "wikimedia": "China Airlines Flight 140 wreckage 3.jpg"
+    },
+    {
+      "ad": "china-airlines-140-4.png",
+      "wikimedia": "China Airlines Flight 140 and Go Lever Alignment with Thrust Lever.png"
+    },
+    {
+      "ad": "china-airlines-140-5.png",
+      "wikimedia": "China Airlines Flight 140 Rescue Activities.png"
+    },
+    {
+      "ad": "china-airlines-140-6.png",
+      "wikimedia": "China Airlines Flight 140 Site Where the Accident Occurred.png"
+    },
+    {
+      "ad": "china-airlines-140-7.png",
+      "wikimedia": "China Airlines Flight 140 Thrust Lever and Go Lever.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On approach to Nagoya, an Airbus pitched up steeply and stalled.",
+      "kaynak": "Footage/china-airlines-140-1.png"
+    },
+    {
+      "metin": "It crashed beside the runway, and two hundred sixty four people died.",
+      "kaynak": "Footage/china-airlines-140-2.jpg"
+    },
+    {
+      "metin": "The first officer had accidentally triggered go-around mode.",
+      "kaynak": "Footage/china-airlines-140-3.jpg"
+    },
+    {
+      "metin": "He pushed the nose down to keep landing.",
+      "kaynak": "Footage/china-airlines-140-4.png"
+    },
+    {
+      "metin": "The autopilot kept trimming the nose up.",
+      "kaynak": "Footage/china-airlines-140-5.png"
+    },
+    {
+      "metin": "The aircraft ended up badly out of trim.",
+      "kaynak": "Footage/china-airlines-140-6.png"
+    },
+    {
+      "metin": "When it pitched up, it stalled.",
+      "kaynak": "Footage/china-airlines-140-7.png"
+    },
+    {
+      "metin": "Airbus changed the autopilot so pilot inputs override it.",
+      "kaynak": "Footage/china-airlines-140-1.png"
+    }
+  ],
+  "aciklama": "China Airlines 140 stalled and crashed on approach to Nagoya. The cause: pilot pushing the nose down while the autopilot trimmed nose up, ending in a stall.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "China Airlines 140",
+    "1994",
+    "autopilot",
+    "engineering failure"
+  ],
+  "hook": "Pilot versus autopilot",
+  "soru": "Who should win?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "China Airlines Flight 140",
+    "kisa": "China Airlines 140",
+    "nesne": "Autopilot",
+    "yil": 1994,
+    "sonuc": "stalled and crashed on approach to Nagoya",
+    "tetik": "an accidentally selected go-around mode",
+    "mekanizma": "pilot pushing the nose down while the autopilot trimmed nose up, ending in a stall",
+    "sayi": "264 DIED",
+    "ders": "Airbus changed the autopilot so pilot inputs override it",
+    "zincir": [
+      "GO-AROUND MODE TRIGGERED",
+      "PILOT PUSHES NOSE DOWN",
+      "AUTOPILOT TRIMS NOSE UP",
+      "EXTREME OUT-OF-TRIM",
+      "STALL AND CRASH"
+    ],
+    "zaman": [],
+    "yanilgi": "The aircraft didn't fail mechanically. Pilot and autopilot were pushing in opposite directions.",
+    "tartisma": "The software change was available before the crash. Should safety updates be mandatory?",
+    "basliklar": [
+      "The Pilot Fought the Autopilot — and Lost",
+      "Why China Airlines Flight 140 Crashed",
+      "When a Pilot and an Autopilot Fought"
+    ],
+    "kapak": [
+      "FIGHTING AUTOPILOT",
+      "264 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — China Airlines Flight 140",
+        "url": "https://en.wikipedia.org/wiki/China_Airlines_Flight_140"
+      },
+      {
+        "ad": "Japan Transport Safety Board / MLIT — B1816 (cited by Wikipedia)",
+        "url": "http://www.mlit.go.jp/jtsb/eng-air_report/B1816.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "China_Airlines_Flight_140",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "China Airlines Flight 140 Site Where the Accident Occurred and Its Vicinity.png [CC BY 4.0]",
+      "China Airlines Flight 140 wreckage 2.jpg [CC BY 4.0]",
+      "China Airlines Flight 140 wreckage 3.jpg [CC BY 4.0]",
+      "China Airlines Flight 140 and Go Lever Alignment with Thrust Lever.png [CC BY 4.0]",
+      "China Airlines Flight 140 Rescue Activities.png [CC BY 4.0]",
+      "China Airlines Flight 140 Site Where the Accident Occurred.png [CC BY 4.0]",
+      "China Airlines Flight 140 Thrust Lever and Go Lever.png [CC BY 4.0]"
+    ]
+  }
+}

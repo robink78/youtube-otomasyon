@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Only Two of Three Gates Opened and the Dam Failed",
+  "kaynaklar": [
+    {
+      "ad": "delhi-dam-1.jpg",
+      "wikimedia": "FEMA - 44887 - Damage caused by dam failure in Iowa.jpg"
+    },
+    {
+      "ad": "delhi-dam-2.jpg",
+      "wikimedia": "FEMA - 44925 - Maquoketa River and damaged dam in Iowa.jpg"
+    },
+    {
+      "ad": "delhi-dam-3.jpg",
+      "wikimedia": "FEMA - 44889 - Flood damaged mobile home and truck in Iowa.jpg"
+    },
+    {
+      "ad": "delhi-dam-4.jpg",
+      "wikimedia": "FEMA - 44924 - Lake Delhi Dam Collapse and cut Highway.jpg"
+    },
+    {
+      "ad": "delhi-dam-5.jpg",
+      "wikimedia": "FEMA - 44900 - Maquoketa becomes a stream at lake Delhi following Dam collapse.jpg"
+    },
+    {
+      "ad": "delhi-dam-6.jpg",
+      "wikimedia": "FEMA - 44888 - Damage caused by dam failure in Iowa.jpg"
+    },
+    {
+      "ad": "delhi-dam-7.jpg",
+      "wikimedia": "FEMA - 44898 - Empty Lake Delhi and boats with no water.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "After torrential rain, an earthen dam in Iowa failed.",
+      "kaynak": "Footage/delhi-dam-1.jpg"
+    },
+    {
+      "metin": "Suddenly the lake behind it drained through the breach.",
+      "kaynak": "Footage/delhi-dam-2.jpg"
+    },
+    {
+      "metin": "About ten inches of rain fell in twelve hours.",
+      "kaynak": "Footage/delhi-dam-3.jpg"
+    },
+    {
+      "metin": "The river upstream reached record levels.",
+      "kaynak": "Footage/delhi-dam-4.jpg"
+    },
+    {
+      "metin": "Only two of the three spillway gates were fully open.",
+      "kaynak": "Footage/delhi-dam-5.jpg"
+    },
+    {
+      "metin": "Water overtopped the embankment.",
+      "kaynak": "Footage/delhi-dam-6.jpg"
+    },
+    {
+      "metin": "The southern side gave way.",
+      "kaynak": "Footage/delhi-dam-7.jpg"
+    },
+    {
+      "metin": "The dam was rebuilt years later.",
+      "kaynak": "Footage/delhi-dam-1.jpg"
+    }
+  ],
+  "aciklama": "Delhi Dam overtopped and failed in Iowa. The cause: overtopping of an earthen embankment when spillway capacity fell short.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Delhi Dam",
+    "2010",
+    "spillway gates",
+    "engineering failure"
+  ],
+  "hook": "One gate stayed shut",
+  "soru": "Who pays for a private dam?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Delhi Dam",
+    "kisa": "Delhi Dam",
+    "nesne": "Spillway gates",
+    "yil": 2010,
+    "sonuc": "overtopped and failed in Iowa",
+    "tetik": "heavy rain with a spillway gate not fully open",
+    "mekanizma": "overtopping of an earthen embankment when spillway capacity fell short",
+    "sayi": "TWO OF THREE",
+    "ders": "the dam was rebuilt and the lake restored in 2016",
+    "zincir": [
+      "HEAVY RAIN",
+      "RIVER AT RECORD",
+      "ONE GATE NOT FULLY OPEN",
+      "WATER OVERTOPS",
+      "EMBANKMENT FAILS"
+    ],
+    "zaman": [],
+    "yanilgi": "The rain was extreme, but the dam didn't use all of its spillway.",
+    "tartisma": "Earlier floods had already damaged the dam. Who should pay for fixing a private dam?",
+    "basliklar": [
+      "Only Two of Three Gates Opened and the Dam Failed",
+      "Why the Delhi Dam Failed",
+      "The Spillway Gate That Wasn't Open"
+    ],
+    "kapak": [
+      "TWO OF THREE",
+      "OVERTOPPED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Delhi Dam",
+        "url": "https://en.wikipedia.org/wiki/Delhi_Dam"
+      },
+      {
+        "ad": "Government source — E8 19687 (cited by Wikipedia)",
+        "url": "http://edocket.access.gpo.gov/2008/pdf/E8-19687.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-22",
+    "wiki": "Delhi_Dam",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "FEMA - 44887 - Damage caused by dam failure in Iowa.jpg [Public domain]",
+      "FEMA - 44925 - Maquoketa River and damaged dam in Iowa.jpg [Public domain]",
+      "FEMA - 44889 - Flood damaged mobile home and truck in Iowa.jpg [Public domain]",
+      "FEMA - 44924 - Lake Delhi Dam Collapse and cut Highway.jpg [Public domain]",
+      "FEMA - 44900 - Maquoketa becomes a stream at lake Delhi following Dam collapse.jpg [Public domain]",
+      "FEMA - 44888 - Damage caused by dam failure in Iowa.jpg [Public domain]",
+      "FEMA - 44898 - Empty Lake Delhi and boats with no water.jpg [Public domain]"
+    ]
+  }
+}

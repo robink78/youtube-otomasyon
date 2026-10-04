@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "Two Neglected Dams and a City Swept to the Sea",
+  "kaynaklar": [
+    {
+      "ad": "derna-dams-1.jpg",
+      "wikimedia": "Storm Daniel on 2023-09-09.jpg"
+    },
+    {
+      "ad": "derna-dams-2.png",
+      "wikimedia": "CAPELLA C06 SP SLC HH 20230911042123 20230911042149 - Thumbnail image.png"
+    },
+    {
+      "ad": "derna-dams-3.jpg",
+      "wikimedia": "سد درنة الصغير بعد الانهيار , Derna Small Dam after the collapse.jpg"
+    },
+    {
+      "ad": "derna-dams-4.jpg",
+      "wikimedia": "Derna, Libya.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At night, two dams above Derna, Libya, collapsed one after another.",
+      "kaynak": "Footage/derna-dams-1.jpg"
+    },
+    {
+      "metin": "Suddenly a wall of water swept through the city, killing thousands.",
+      "kaynak": "Footage/derna-dams-2.png"
+    },
+    {
+      "metin": "Storm Daniel had dropped enormous rainfall.",
+      "kaynak": "Footage/derna-dams-3.jpg"
+    },
+    {
+      "metin": "The dams hadn't been maintained for years.",
+      "kaynak": "Footage/derna-dams-4.jpg"
+    },
+    {
+      "metin": "Cracks had been reported long before.",
+      "kaynak": "Footage/derna-dams-1.jpg"
+    },
+    {
+      "metin": "A researcher warned they needed urgent attention.",
+      "kaynak": "Footage/derna-dams-2.png"
+    },
+    {
+      "metin": "Tens of millions of cubic metres of water rushed downstream.",
+      "kaynak": "Footage/derna-dams-3.jpg"
+    },
+    {
+      "metin": "It became one of the deadliest dam failures in history.",
+      "kaynak": "Footage/derna-dams-4.jpg"
+    }
+  ],
+  "aciklama": "Derna collapsed and flooded the city of Derna. The cause: cascading failure of two embankment dams not maintained for decades.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Derna",
+    "2023",
+    "dams",
+    "engineering failure"
+  ],
+  "hook": "The warnings were ignored",
+  "soru": "Why are warnings ignored?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Derna dams",
+    "kisa": "Derna",
+    "nesne": "Dams",
+    "yil": 2023,
+    "sonuc": "collapsed and flooded the city of Derna",
+    "tetik": "Storm Daniel's rainfall on unmaintained dams",
+    "mekanizma": "cascading failure of two embankment dams not maintained for decades",
+    "sayi": "TWO DAMS",
+    "ders": "the disaster exposed the cost of neglected dam maintenance",
+    "zincir": [
+      "CRACKS REPORTED",
+      "NO MAINTENANCE",
+      "STORM DANIEL",
+      "UPPER DAM FAILS",
+      "LOWER DAM FAILS"
+    ],
+    "zaman": [],
+    "yanilgi": "The storm wasn't the only cause. Cracks were reported years earlier, and warnings were ignored.",
+    "tartisma": "A researcher warned the dams needed urgent attention in 2022. Why are warnings ignored?",
+    "basliklar": [
+      "Two Neglected Dams and a City Swept to the Sea",
+      "Why the Derna Dams Collapsed",
+      "The Warning Nobody Acted On"
+    ],
+    "kapak": [
+      "NEGLECTED",
+      "TWO DAMS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2023 Derna dam collapse",
+        "url": "https://en.wikipedia.org/wiki/2023_Derna_dam_collapse"
+      },
+      {
+        "ad": "Academic / engineering journal — 10.51984/jopas.v21i2 (cited by Wikipedia)",
+        "url": "https://doi.org/10.51984%2Fjopas.v21i2"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-tmp",
+    "wiki": "2023_Derna_dam_collapse",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Storm Daniel on 2023-09-09.jpg [Public domain]",
+      "CAPELLA C06 SP SLC HH 20230911042123 20230911042149 - Thumbnail image.png [CC BY 4.0]",
+      "سد درنة الصغير بعد الانهيار , Derna Small Dam after the collapse.jpg [CC BY 4.0]",
+      "Derna, Libya.jpg [CC0]"
+    ]
+  }
+}

@@ -1,0 +1,1469 @@
+{
+  "channel": "impossible-brief",
+  "records": [
+    {
+      "slug": "what-if-jupiters-great-red-spot-vanished",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If Jupiter's Great Red Spot Vanished?",
+      "hook": "Why Jupiter's 16,350-kilometre storm keeps shrinking.",
+      "openingLine": "Why Jupiter's 16,350-kilometre storm keeps shrinking.",
+      "secondBeat": "It once stretched 40,000 kilometres, three Earths wide.",
+      "scientificMechanism": "a long-lived anticyclone persists because Jupiter has no solid surface to create friction, but it can still shrink",
+      "scenarioChange": "the Great Red Spot kept shrinking until it disappeared",
+      "expectedConsequence": "Jupiter would lose its signature storm while its banded weather carried on",
+      "coreQuestion": "If Jupiter's Great Red Spot vanished, what would it tell us about giant storms?",
+      "misconception": "The Great Red Spot isn't fixed; it has been shrinking for over a century.",
+      "number": "16,350 km",
+      "thumbnailText": "THE SHRINKING STORM",
+      "visualScenes": [
+        "Great Red Spot close-up",
+        "size comparison with Earth over time",
+        "wind speed arrows around the storm",
+        "historical drawings from 1831",
+        "Jupiter's cloud bands",
+        "shrinking timeline chart"
+      ],
+      "editorialTitles": [
+        "Why Jupiter's Great Red Spot Is Shrinking",
+        "What If Jupiter Lost Its Giant Storm"
+      ],
+      "facts": [
+        {
+          "claim": "In 2004 its length was about half that of a century earlier, when it reached a size of 40,000 km (25,000 mi), about three times the diameter of Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Red Spot",
+          "url": "https://en.wikipedia.org/wiki/Great_Red_Spot"
+        },
+        {
+          "claim": "Measuring 16,350 km (10,160 mi) in width as of 3 April 2017, the Great Red Spot is 1.3 times the diameter of Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Red Spot",
+          "url": "https://en.wikipedia.org/wiki/Great_Red_Spot"
+        },
+        {
+          "claim": "Located 22 degrees south of Jupiter's equator, it produces wind speeds up to 496 km/h (308 mph).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Red Spot",
+          "url": "https://en.wikipedia.org/wiki/Great_Red_Spot"
+        },
+        {
+          "claim": "A 2024 study suggests the permanent spot observed from 1665 to 1713 may not be the same as the modern Great Red Spot observed since 1831.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Great Red Spot",
+          "url": "https://en.wikipedia.org/wiki/Great_Red_Spot"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Jupiter's 16,350-kilometre storm keeps shrinking.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It once stretched 40,000 kilometres, three Earths wide.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "That was the Great Red Spot's width in 2017.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That's still 1.3 times Earth's diameter.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its winds reach 496 kilometres per hour.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It's been watched continuously since 1831.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "If it faded, Jupiter would lose its most famous storm, not its weather.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So even a planet-sized storm isn't permanent.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-earth-became-tidally-locked-to-the-moon",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If Earth Became Tidally Locked to the Moon?",
+      "hook": "Earth's day was once only 6 hours long.",
+      "openingLine": "Earth's day was once only 6 hours long.",
+      "secondBeat": "The Moon's tides have been slowing us ever since.",
+      "scientificMechanism": "tidal friction transfers Earth's spin to the Moon's orbit, slowly lengthening the day",
+      "scenarioChange": "Earth's rotation slowed until it matched the Moon's orbit",
+      "expectedConsequence": "days lasting weeks and a Moon fixed over one hemisphere",
+      "coreQuestion": "If Earth became tidally locked to the Moon, how long would a day last?",
+      "misconception": "Tides don't just move oceans; they have been braking Earth's spin for billions of years.",
+      "number": "47× longer days",
+      "thumbnailText": "A 47-DAY DAY",
+      "visualScenes": [
+        "Earth and Moon with tidal bulges",
+        "day length growing from 6 to 24 hours",
+        "Moon's near side facing Earth",
+        "Moon hanging over one hemisphere",
+        "libration animation",
+        "timeline over 4.5 billion years"
+      ],
+      "editorialTitles": [
+        "What If the Moon Stopped Earth's Spin",
+        "Why Earth's Days Keep Getting Longer"
+      ],
+      "facts": [
+        {
+          "claim": "Tidal influence has helped lengthen the Earth day from about 6 hours to the current 24 hours (over about 4.5 billion years).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tidal locking",
+          "url": "https://en.wikipedia.org/wiki/Tidal_locking"
+        },
+        {
+          "claim": "Earth's sidereal day would eventually have the same length as the Moon's orbital period, about 47 times the length of the Earth day at present.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tidal locking",
+          "url": "https://en.wikipedia.org/wiki/Tidal_locking"
+        },
+        {
+          "claim": "About 59 percent of the Moon's total surface may be seen with repeated observations from Earth, due to the phenomena of libration and parallax.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tidal locking",
+          "url": "https://en.wikipedia.org/wiki/Tidal_locking"
+        },
+        {
+          "claim": "Most of the far side of the Moon was not seen until 1959, when photographs were transmitted from the Soviet spacecraft Luna 3.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tidal locking",
+          "url": "https://en.wikipedia.org/wiki/Tidal_locking"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Earth's day was once only 6 hours long.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The Moon's tides have been slowing us ever since.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Over 4.5 billion years, days stretched to 24 hours.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Eventually, Earth's day could match the Moon's orbit.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "That's about 47 times today's day.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Then the Moon would hang over one hemisphere forever.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The Moon already shows us about 59% of its surface.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So tides aren't just ocean motion. They're a brake on the planet.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-space-junk-started-a-chain-reaction",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If Space Junk Started a Chain Reaction?",
+      "hook": "Why one crash in orbit could close space.",
+      "openingLine": "Why one crash in orbit could close space.",
+      "secondBeat": "Scientists call this cascade the Kessler syndrome.",
+      "scientificMechanism": "each collision in orbit creates fragments that raise the odds of further collisions",
+      "scenarioChange": "debris density in low Earth orbit passed a runaway threshold",
+      "expectedConsequence": "a collisional cascade that could make some orbits unusable for years",
+      "coreQuestion": "If space junk started a chain reaction, could we lose access to orbit?",
+      "misconception": "Space isn't empty around Earth; debris counts were long underestimated.",
+      "number": "42% from 19 events",
+      "thumbnailText": "KESSLER CASCADE",
+      "visualScenes": [
+        "debris cloud around Earth",
+        "two satellites colliding",
+        "fragment cascade animation",
+        "radar tracking station",
+        "size of trackable versus untrackable debris",
+        "crowded low Earth orbit map"
+      ],
+      "editorialTitles": [
+        "The Space Junk Chain Reaction",
+        "Why One Collision Could Close an Orbit"
+      ],
+      "facts": [
+        {
+          "claim": "The Kessler syndrome describes a situation in which the density of objects in low Earth orbit becomes so high that collisions between these objects cascade, exponentially increasing the amount of space debris over time.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Kessler syndrome",
+          "url": "https://en.wikipedia.org/wiki/Kessler_syndrome"
+        },
+        {
+          "claim": "In 1978, Kessler found that 42 percent of cataloged debris was the result of 19 events, primarily explosions of spent rocket stages.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Kessler syndrome",
+          "url": "https://en.wikipedia.org/wiki/Kessler_syndrome"
+        },
+        {
+          "claim": "Optical telescopes and short-wavelength radar measurements demonstrated that the published population count was at least 50% too low.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Kessler syndrome",
+          "url": "https://en.wikipedia.org/wiki/Kessler_syndrome"
+        },
+        {
+          "claim": "The list could not easily account for objects under 20 cm (8 in) in size.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Kessler syndrome",
+          "url": "https://en.wikipedia.org/wiki/Kessler_syndrome"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one crash in orbit could close space.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Scientists call this cascade the Kessler syndrome.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Kessler proposed it in 1978.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Then, 42% of tracked debris came from just 19 events.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Radar later showed debris counts were at least 50% too low.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Objects under 20 centimetres were hard to track at all.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "A runaway cascade could make some orbits unusable for years.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the biggest threat to satellites may be other satellites.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-rode-voyager-1",
+      "replaces": "auto",
+      "category": "SPACE",
+      "topic": "What If You Rode Voyager 1?",
+      "hook": "Voyager 1 is 25.6 billion kilometres from Earth.",
+      "openingLine": "Voyager 1 is 25.6 billion kilometres from Earth.",
+      "secondBeat": "Its signals take nearly a day to arrive.",
+      "scientificMechanism": "a probe coasting on its launch and gravity-assist speed keeps receding from the Sun indefinitely",
+      "scenarioChange": "a traveller rode along on Voyager 1",
+      "expectedConsequence": "a view of the Sun shrinking to a bright star, with messages taking nearly a day each way",
+      "coreQuestion": "If you rode Voyager 1, what would you see, and how long would a message home take?",
+      "misconception": "Voyager 1 hasn't left the Solar System's gravity; it has left the Sun's heliosphere.",
+      "number": "25.6 billion km",
+      "thumbnailText": "25.6 BILLION KM",
+      "visualScenes": [
+        "Voyager 1 probe in deep space",
+        "distance scale to the heliopause",
+        "signal travel time animation",
+        "Sun as a bright star",
+        "1977 launch",
+        "interstellar boundary diagram"
+      ],
+      "editorialTitles": [
+        "The Farthest Journey Humans Ever Sent",
+        "Why Voyager's Messages Take Almost a Day"
+      ],
+      "facts": [
+        {
+          "claim": "Voyager 1 is a space probe launched by NASA on September 5, 1977.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Voyager 1",
+          "url": "https://en.wikipedia.org/wiki/Voyager_1"
+        },
+        {
+          "claim": "At a distance of 171.19 AU (25.6 billion km; 15.9 billion mi) as of August 2026, it is the most distant human-made object from Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Voyager 1",
+          "url": "https://en.wikipedia.org/wiki/Voyager_1"
+        },
+        {
+          "claim": "Voyager 1 is projected to reach a distance of one light day from Earth in November 2026.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Voyager 1",
+          "url": "https://en.wikipedia.org/wiki/Voyager_1"
+        },
+        {
+          "claim": "Voyager 1 crossed the heliopause and entered interstellar space on August 25, 2012, making it the first spacecraft to do so.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Voyager 1",
+          "url": "https://en.wikipedia.org/wiki/Voyager_1"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Voyager 1 is 25.6 billion kilometres from Earth.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Its signals take nearly a day to arrive.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It launched on September 5, 1977.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 2012, it became the first craft in interstellar space.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It's the most distant human-made object.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "By November 2026, it will be one light-day away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Riding along, you'd see the Sun as just a bright star.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So our farthest traveller has barely left the Sun's neighbourhood.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-spent-a-summer-in-death-valley",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If You Spent a Summer in Death Valley?",
+      "hook": "Death Valley hit 54.4 °C in 2020.",
+      "openingLine": "Death Valley hit 54.4 °C in 2020.",
+      "secondBeat": "It's the highest reliable temperature recorded there.",
+      "scientificMechanism": "a deep, dry basin traps heat, and nights stay hot, so the body never gets to recover",
+      "scenarioChange": "a person stayed through a Death Valley summer",
+      "expectedConsequence": "relentless day-and-night heat that makes water and shade a matter of survival",
+      "coreQuestion": "If you spent a summer in Death Valley, what would your body face?",
+      "misconception": "The famous 1913 record is disputed; the reliable high is 54.4 °C.",
+      "number": "54.4 °C",
+      "thumbnailText": "54.4 °C",
+      "visualScenes": [
+        "Furnace Creek thermometer",
+        "heat shimmer over salt flats",
+        "night temperature chart",
+        "154-day streak calendar",
+        "sweat evaporation diagram",
+        "desert road warning sign"
+      ],
+      "editorialTitles": [
+        "What a Summer in Death Valley Does to You",
+        "Why Death Valley's Nights Are the Real Danger"
+      ],
+      "facts": [
+        {
+          "claim": "The highest reliable temperature in Death Valley is 130 °F (54.4 °C) recorded at Furnace Creek on August 16, 2020 and July 9, 2021.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Death Valley",
+          "url": "https://en.wikipedia.org/wiki/Death_Valley"
+        },
+        {
+          "claim": "Some modern meteorologists now dispute the accuracy of the 1913 temperature measurement due to regional mismatch and observer issues.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Death Valley",
+          "url": "https://en.wikipedia.org/wiki/Death_Valley"
+        },
+        {
+          "claim": "Summer nights provide little relief: overnight lows may dip just into the 82 to 98 °F (28 to 37 °C) range.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Death Valley",
+          "url": "https://en.wikipedia.org/wiki/Death_Valley"
+        },
+        {
+          "claim": "The greatest number of consecutive days with a maximum temperature of at least 100 °F (38 °C) was 154, in the summer of 2001.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Death Valley",
+          "url": "https://en.wikipedia.org/wiki/Death_Valley"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Death Valley hit 54.4 °C in 2020.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It's the highest reliable temperature recorded there.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The famous 1913 record is now disputed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Summer nights often stay between 28 and 37 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In 2001, it logged 154 straight days of at least 38 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Without shade and water, heat stroke comes quickly.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Your body cools by sweating, and dry air speeds it up.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the danger isn't one hot afternoon. It's heat that never breaks.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-lake-baikal-drained",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If Lake Baikal Drained?",
+      "hook": "One lake holds 19% of unfrozen fresh water.",
+      "openingLine": "One lake holds 19% of unfrozen fresh water.",
+      "secondBeat": "Lake Baikal, in Siberia, is also the world's oldest.",
+      "scientificMechanism": "an active continental rift keeps deepening a basin that has collected water for millions of years",
+      "scenarioChange": "Lake Baikal's water drained away",
+      "expectedConsequence": "a fifth of Earth's unfrozen fresh water gone, and an ancient ecosystem lost",
+      "coreQuestion": "If Lake Baikal drained, how much of the world's fresh water would vanish?",
+      "misconception": "The world's fresh surface water isn't spread evenly; one lake holds about a fifth of it.",
+      "number": "19%",
+      "thumbnailText": "19% FRESH WATER",
+      "visualScenes": [
+        "Lake Baikal from above in winter",
+        "fresh water share pie chart",
+        "rift valley cross-section",
+        "three basin depth profile",
+        "clear ice with bubbles",
+        "Siberian shoreline"
+      ],
+      "editorialTitles": [
+        "The Lake Holding a Fifth of Earth's Fresh Water",
+        "What If Lake Baikal Disappeared"
+      ],
+      "facts": [
+        {
+          "claim": "It is estimated that the lake contains around 19% of the unfrozen fresh water on the planet.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lake Baikal",
+          "url": "https://en.wikipedia.org/wiki/Lake_Baikal"
+        },
+        {
+          "claim": "It is also the world's oldest lake at 25–30 million years, and among the clearest.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lake Baikal",
+          "url": "https://en.wikipedia.org/wiki/Lake_Baikal"
+        },
+        {
+          "claim": "In geological terms, the rift is young and active; it widens about 4 mm (0.16 in) per year.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lake Baikal",
+          "url": "https://en.wikipedia.org/wiki/Lake_Baikal"
+        },
+        {
+          "claim": "The lake is divided into three basins: North, Central, and South, with depths about 900 m, 1,600 m, and 1,400 m, respectively.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lake Baikal",
+          "url": "https://en.wikipedia.org/wiki/Lake_Baikal"
+        },
+        {
+          "claim": "In the deepest parts of the lake, from about 300 m, the temperature is stable at 3.1–3.4 °C with only minor annual variations.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Lake Baikal",
+          "url": "https://en.wikipedia.org/wiki/Lake_Baikal"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One lake holds 19% of unfrozen fresh water.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Lake Baikal, in Siberia, is also the world's oldest.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It formed 25 to 30 million years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its rift still widens about 4 millimetres a year.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its basins reach 900, 1,600 and 1,400 metres deep.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Below 300 metres, it stays at 3.1 to 3.4 °C year-round.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Drain it, and a fifth of Earth's unfrozen fresh water disappears.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So one Siberian rift holds a startling share of our fresh water.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-a-tsunami-crossed-an-entire-ocean",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If a Tsunami Crossed an Entire Ocean?",
+      "hook": "One earthquake ruptured 1,300 kilometres of seafloor.",
+      "openingLine": "One earthquake ruptured 1,300 kilometres of seafloor.",
+      "secondBeat": "The shaking lasted at least ten minutes.",
+      "scientificMechanism": "a megathrust rupture lifts the seafloor along its whole length, launching waves across the ocean basin",
+      "scenarioChange": "a magnitude-9 rupture struck beneath a populous ocean",
+      "expectedConsequence": "waves reaching distant coasts hours later, deadliest where no warning exists",
+      "coreQuestion": "If a tsunami crossed an entire ocean, what would decide how many people survive?",
+      "misconception": "Tsunami deaths depend less on wave height than on whether a warning arrives in time.",
+      "number": "1,300 km rupture",
+      "thumbnailText": "OCEAN-WIDE TSUNAMI",
+      "visualScenes": [
+        "fault rupture along the Sunda megathrust",
+        "wave radiating across the Indian Ocean",
+        "coastal town before and after",
+        "seismic wave crossing the globe",
+        "warning siren tower",
+        "magnitude comparison chart"
+      ],
+      "editorialTitles": [
+        "The Tsunami That Crossed an Ocean",
+        "Why Warning Time Decides Tsunami Deaths"
+      ],
+      "facts": [
+        {
+          "claim": "The northern section of the Sunda megathrust ruptured over a length of 1,300 km (810 mi).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 2004 Indian Ocean earthquake and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"
+        },
+        {
+          "claim": "It had the longest fault rupture ever observed, between 1,200 to 1,300 kilometres, and had the longest duration of faulting ever observed, lasting at least ten minutes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 2004 Indian Ocean earthquake and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"
+        },
+        {
+          "claim": "A 2016 study estimated the magnitude to be Mw9.25, while a 2021 study revised its 2007 estimate of Mw9.1 to a new magnitude of Mw9.2; more recent studies estimate Mw9.3.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 2004 Indian Ocean earthquake and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"
+        },
+        {
+          "claim": "The earthquake caused a massive tsunami with waves up to 30 m (100 ft) high.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 2004 Indian Ocean earthquake and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"
+        },
+        {
+          "claim": "According to the final report of the Tsunami Evaluation Coalition, a total of 227,898 people died.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 2004 Indian Ocean earthquake and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"
+        },
+        {
+          "claim": "The compressional (P) wave takes about 22 minutes to reach the other side of the planet.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — 2004 Indian Ocean earthquake and tsunami",
+          "url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One earthquake ruptured 1,300 kilometres of seafloor.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The shaking lasted at least ten minutes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Its magnitude is estimated at 9.1 to 9.3.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Waves reached up to 30 metres high.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In total, 227,898 people died across the Indian Ocean.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Seismic waves crossed the planet in about 22 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The Indian Ocean had no tsunami warning system then.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the deadliest part of a tsunami is the time without warning.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-continents-merged-again",
+      "replaces": "auto",
+      "category": "EARTH",
+      "topic": "What If the Continents Merged Again?",
+      "hook": "Why the Atlantic may vanish in 250 million years.",
+      "openingLine": "Why the Atlantic may vanish in 250 million years.",
+      "secondBeat": "The continents could fuse into Pangaea Proxima.",
+      "scientificMechanism": "seafloor spreading and subduction move continents in a supercontinent cycle over hundreds of millions of years",
+      "scenarioChange": "the continents reassembled into a new supercontinent",
+      "expectedConsequence": "a closed Atlantic and a vast interior far from any ocean",
+      "coreQuestion": "If the continents merged again, what would the new supercontinent look like?",
+      "misconception": "Today's map isn't permanent; continents have merged and split repeatedly.",
+      "number": "250 million years",
+      "thumbnailText": "PANGAEA RETURNS",
+      "visualScenes": [
+        "animated continents converging",
+        "Atlantic Ocean closing",
+        "subduction zone cross-section",
+        "Pangaea Proxima map",
+        "Amasia alternative map",
+        "supercontinent cycle timeline"
+      ],
+      "editorialTitles": [
+        "What If the Continents Merged Again",
+        "The Supercontinent Waiting in Earth's Future"
+      ],
+      "facts": [
+        {
+          "claim": "In keeping with the supercontinent cycle, Pangaea Proxima could form within the next 250 million years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pangaea Proxima",
+          "url": "https://en.wikipedia.org/wiki/Pangaea_Proxima"
+        },
+        {
+          "claim": "About 125 million years from now, the Atlantic Ocean is predicted to stop widening and to begin to shrink, as seafloor spreading gives way to subduction.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pangaea Proxima",
+          "url": "https://en.wikipedia.org/wiki/Pangaea_Proxima"
+        },
+        {
+          "claim": "Rifts will form, and Pangaea Proxima will split up once more in 400 to 500 million years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pangaea Proxima",
+          "url": "https://en.wikipedia.org/wiki/Pangaea_Proxima"
+        },
+        {
+          "claim": "Research published in 2022 supports an Amasia scenario within 200 to 300 million years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Pangaea Proxima",
+          "url": "https://en.wikipedia.org/wiki/Pangaea_Proxima"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why the Atlantic may vanish in 250 million years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The continents could fuse into Pangaea Proxima.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "In about 125 million years, the Atlantic stops widening.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its seafloor would then start sinking back into Earth.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Another study favours a merger across the Pacific, within 200 to 300 million years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Either way, it could split again after 400 to 500 million years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Its interior would sit thousands of kilometres from any ocean.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the map you know is one frame in a slow cycle.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-glass-really-were-a-slow-liquid",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If Glass Really Were a Slow Liquid?",
+      "hook": "Why glass flows just 1 nanometre per billion years.",
+      "openingLine": "Why glass flows just 1 nanometre per billion years.",
+      "secondBeat": "Old church windows didn't sag because of it.",
+      "scientificMechanism": "glass is an amorphous solid; its viscosity at room temperature is so high that flow is immeasurably slow",
+      "scenarioChange": "window glass flowed noticeably over centuries",
+      "expectedConsequence": "it doesn't: calculated flow is about a nanometre per billion years",
+      "coreQuestion": "If glass were a slow liquid, would old windows sag?",
+      "misconception": "Old windows aren't thicker at the bottom because glass flowed; it was how they were made.",
+      "number": "1 nm per billion years",
+      "thumbnailText": "GLASS DOESN’T FLOW",
+      "visualScenes": [
+        "medieval stained glass window",
+        "amorphous versus crystal structure diagram",
+        "Westminster Abbey window",
+        "viscosity scale chart",
+        "glassblower at a furnace",
+        "uneven pane close-up"
+      ],
+      "editorialTitles": [
+        "Is Glass Really a Liquid?",
+        "Why Old Windows Aren't Melting"
+      ],
+      "facts": [
+        {
+          "claim": "A 2017 study computed the rate of flow of the medieval glass used in Westminster Abbey from the year 1268.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Glass",
+          "url": "https://en.wikipedia.org/wiki/Glass"
+        },
+        {
+          "claim": "The study authors calculated that the maximum flow rate of medieval glass is 1 nm per billion years, making it impossible to observe in a human timescale.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Glass",
+          "url": "https://en.wikipedia.org/wiki/Glass"
+        },
+        {
+          "claim": "Glassmaking dates back at least 6000 years, long before humans had discovered how to smelt iron.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Glass",
+          "url": "https://en.wikipedia.org/wiki/Glass"
+        },
+        {
+          "claim": "Its high melting temperature (1723 °C) and viscosity make it difficult to work with.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Glass",
+          "url": "https://en.wikipedia.org/wiki/Glass"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why glass flows just 1 nanometre per billion years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Old church windows didn't sag because of it.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "A 2017 study checked glass in Westminster Abbey from 1268.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Even at its most fluid, that flow is far too slow to see.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Uneven panes came from how the glass was made and fitted.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Glass-making is at least 6,000 years old.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Pure silica only melts at 1,723 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So glass is a solid, just one without a crystal pattern.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-cooked-pasta-on-a-mountain",
+      "replaces": "auto",
+      "category": "PHYSICS",
+      "topic": "What If You Cooked Pasta on a Mountain?",
+      "hook": "At 2,438 metres, water boils at just 92 °C.",
+      "openingLine": "At 2,438 metres, water boils at just 92 °C.",
+      "secondBeat": "Lower air pressure lets it boil sooner.",
+      "scientificMechanism": "water boils when its vapour pressure matches air pressure, which falls with altitude",
+      "scenarioChange": "a cook boiled water high in the mountains",
+      "expectedConsequence": "water boils below 100 °C, so food cooks more slowly",
+      "coreQuestion": "If you cooked pasta on a mountain, why would it take longer?",
+      "misconception": "Boiling water isn't always 100 °C; at altitude it boils cooler.",
+      "number": "92 °C",
+      "thumbnailText": "BOILS AT 92°C",
+      "visualScenes": [
+        "pot boiling on a mountain stove",
+        "air pressure versus altitude chart",
+        "thermometer in boiling water",
+        "undercooked pasta comparison",
+        "pressure cooker cutaway",
+        "altitude signpost"
+      ],
+      "editorialTitles": [
+        "Why Water Boils Cooler on Mountains",
+        "The Physics of Cooking at Altitude"
+      ],
+      "facts": [
+        {
+          "claim": "At 2,438.4 metres (8,000 ft) in elevation, water boils at just 92 °C (198 °F).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — High-altitude cooking",
+          "url": "https://en.wikipedia.org/wiki/High-altitude_cooking"
+        },
+        {
+          "claim": "For every 152.4-metre (500 ft) increase in elevation, water's boiling point is lowered by approximately 1°F.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — High-altitude cooking",
+          "url": "https://en.wikipedia.org/wiki/High-altitude_cooking"
+        },
+        {
+          "claim": "The effect starts to become relevant at altitudes above approximately 2,000 feet (610 m).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — High-altitude cooking",
+          "url": "https://en.wikipedia.org/wiki/High-altitude_cooking"
+        },
+        {
+          "claim": "Water boils at temperatures significantly below 100 °C and, without the use of a pressure cooker, may leave boiled foods undercooked.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — High-altitude cooking",
+          "url": "https://en.wikipedia.org/wiki/High-altitude_cooking"
+        }
+      ],
+      "narration": [
+        {
+          "text": "At 2,438 metres, water boils at just 92 °C.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Lower air pressure lets it boil sooner.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Boiling drops about 1 °F for every 152.4 metres you climb.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The effect matters above roughly 610 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Water that boils cooler cooks food more slowly.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So pasta and eggs can stay undercooked at altitude.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Pressure cookers fix this by raising the pressure again.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a boiling pot is really a barometer.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-your-brain-used-less-energy",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If Your Brain Used Less Energy?",
+      "hook": "Your brain uses 20% of your body's energy.",
+      "openingLine": "Your brain uses 20% of your body's energy.",
+      "secondBeat": "Yet it's only about 2% of your weight.",
+      "scientificMechanism": "neurons constantly spend energy maintaining the electrical gradients that let them fire",
+      "scenarioChange": "the brain's energy budget were cut",
+      "expectedConsequence": "thinking and attention would suffer first",
+      "coreQuestion": "If your brain used less energy, what would you lose?",
+      "misconception": "The brain isn't idle at rest; it burns energy constantly.",
+      "number": "20% of energy",
+      "thumbnailText": "BRAIN BURNS 20%",
+      "visualScenes": [
+        "brain glowing with activity",
+        "energy share pie chart",
+        "neurons firing close-up",
+        "blood flow to the brain diagram",
+        "glucose molecules entering neurons",
+        "resting person with active brain scan"
+      ],
+      "editorialTitles": [
+        "Why Your Brain Burns So Much Energy",
+        "The Most Expensive Organ in Your Body"
+      ],
+      "facts": [
+        {
+          "claim": "The brain consumes up to 20% of the energy used by the human body, more than any other organ.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human brain",
+          "url": "https://en.wikipedia.org/wiki/Human_brain"
+        },
+        {
+          "claim": "Although the human brain represents only 2% of the body weight, it receives 15% of the cardiac output, 20% of total body oxygen consumption, and 25% of total body glucose utilization.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human brain",
+          "url": "https://en.wikipedia.org/wiki/Human_brain"
+        },
+        {
+          "claim": "There are more than 86 billion neurons in the brain, and a more or less equal number of other cells.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human brain",
+          "url": "https://en.wikipedia.org/wiki/Human_brain"
+        },
+        {
+          "claim": "The human brain consumes approximately 60% of blood glucose in fasted, sedentary individuals.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human brain",
+          "url": "https://en.wikipedia.org/wiki/Human_brain"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Your brain uses 20% of your body's energy.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Yet it's only about 2% of your weight.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "It holds more than 86 billion neurons.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It takes 15% of the heart's output.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "In a fasted, resting body, it consumes about 60% of blood glucose.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Much of that energy keeps neurons ready to fire.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Starve it briefly, and thinking suffers first.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So your most expensive organ is the one doing the thinking.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-you-could-read-your-own-dna",
+      "replaces": "auto",
+      "category": "HUMAN",
+      "topic": "What If You Could Read Your Own DNA?",
+      "hook": "Your genome has 3.1 billion letters.",
+      "openingLine": "Your genome has 3.1 billion letters.",
+      "secondBeat": "Most cells carry two copies, about 6.2 billion.",
+      "scientificMechanism": "the genome is a sequence of base pairs; only a small fraction codes for proteins",
+      "scenarioChange": "a person read their full genome",
+      "expectedConsequence": "billions of letters, of which only a small share are protein-coding genes",
+      "coreQuestion": "If you could read your own DNA, how much of it would be genes?",
+      "misconception": "Most of your DNA isn't protein-coding genes.",
+      "number": "3.1 billion letters",
+      "thumbnailText": "3.1 BILLION LETTERS",
+      "visualScenes": [
+        "DNA double helix unwinding",
+        "letters scrolling A C G T",
+        "gene versus non-coding share chart",
+        "chromosome pairs in a cell",
+        "Y chromosome highlighted",
+        "sequencing machine"
+      ],
+      "editorialTitles": [
+        "What Your DNA Actually Says",
+        "Why Most of Your Genome Isn't Genes"
+      ],
+      "facts": [
+        {
+          "claim": "The total amount of DNA in this reference genome is 3.1 billion base pairs.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human genome",
+          "url": "https://en.wikipedia.org/wiki/Human_genome"
+        },
+        {
+          "claim": "Most human cells are diploid so they contain twice as much DNA (~6.2 billion base pairs).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human genome",
+          "url": "https://en.wikipedia.org/wiki/Human_genome"
+        },
+        {
+          "claim": "The human reference genome contains somewhere between 19,000 and 20,000 protein-coding genes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human genome",
+          "url": "https://en.wikipedia.org/wiki/Human_genome"
+        },
+        {
+          "claim": "These genes contain an average of 10 introns and the average size of an intron is about 6 kb (6,000 bp).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human genome",
+          "url": "https://en.wikipedia.org/wiki/Human_genome"
+        },
+        {
+          "claim": "The human Y chromosome, consisting of 62,460,029 base pairs, was sequenced completely in January 2022.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Human genome",
+          "url": "https://en.wikipedia.org/wiki/Human_genome"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Your genome has 3.1 billion letters.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Most cells carry two copies, about 6.2 billion.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Yet only 19,000 to 20,000 genes make proteins.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "An average gene holds about 10 introns.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The Y chromosome was only fully sequenced in January 2022.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "It holds 62,460,029 base pairs.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Reading it is now routine, but understanding it isn't.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the real mystery is what most of your DNA does.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-knocked-an-asteroid-off-course",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If We Knocked an Asteroid Off Course?",
+      "hook": "Why one crash moved an asteroid by 32 minutes.",
+      "openingLine": "Why one crash moved an asteroid by 32 minutes.",
+      "secondBeat": "NASA's DART hit Dimorphos on purpose in 2022.",
+      "scientificMechanism": "a kinetic impactor transfers momentum to an asteroid, changing its orbit slightly",
+      "scenarioChange": "a spacecraft rammed an asteroid on purpose",
+      "expectedConsequence": "a measurable orbit change that, given years of warning, could steer a threat away",
+      "coreQuestion": "If we knocked an asteroid off course, how much could one spacecraft move it?",
+      "misconception": "Deflection isn't blowing an asteroid up; it's a small nudge applied early.",
+      "number": "32 minutes",
+      "thumbnailText": "ASTEROID MOVED",
+      "visualScenes": [
+        "DART approaching Dimorphos",
+        "impact flash",
+        "orbit period change diagram",
+        "Didymos and Dimorphos pair",
+        "success threshold comparison",
+        "early warning timeline"
+      ],
+      "editorialTitles": [
+        "The Day We Moved an Asteroid",
+        "How DART Proved Planetary Defence Works"
+      ],
+      "facts": [
+        {
+          "claim": "The target asteroid, Dimorphos, is a 525 feet (160 m) wide moonlet of the asteroid Didymos.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Double Asteroid Redirection Test",
+          "url": "https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test"
+        },
+        {
+          "claim": "The DART spacecraft collided with Dimorphos at 14,000 mph (23,000 km/h) on 26 September 2022.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Double Asteroid Redirection Test",
+          "url": "https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test"
+        },
+        {
+          "claim": "The collision shortened Dimorphos's orbit around Didymos by 32 minutes, greatly in excess of the pre-defined success threshold of 73 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Double Asteroid Redirection Test",
+          "url": "https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test"
+        },
+        {
+          "claim": "The spacecraft cost US$330 million by the time it collided with Dimorphos in 2022.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Double Asteroid Redirection Test",
+          "url": "https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one crash moved an asteroid by 32 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "NASA's DART hit Dimorphos on purpose in 2022.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The target was a 160-metre moonlet of Didymos.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "DART struck at about 23,000 kilometres per hour.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Success needed a change of just 73 seconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The mission cost about $330 million.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "A real threat would need years of warning to nudge in time.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So planetary defence works, if we see the asteroid early.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-we-built-a-base-on-the-moon",
+      "replaces": "auto",
+      "category": "FUTURE TECHNOLOGY",
+      "topic": "What If We Built a Base on the Moon?",
+      "hook": "Humans flew around the Moon again in 2026.",
+      "openingLine": "Humans flew around the Moon again in 2026.",
+      "secondBeat": "Artemis II carried four astronauts on a lunar flyby.",
+      "scientificMechanism": "a permanent base needs regular landings to deliver crews, supplies and equipment",
+      "scenarioChange": "humans established a permanent lunar base",
+      "expectedConsequence": "a supply chain stretching to the Moon, rehearsing life beyond Earth",
+      "coreQuestion": "If we built a base on the Moon, what would be the hardest part?",
+      "misconception": "The hardest part of a Moon base isn't landing once; it's supplying it continuously.",
+      "number": "yearly landings",
+      "thumbnailText": "MOON BASE",
+      "visualScenes": [
+        "Orion spacecraft near the Moon",
+        "Artemis mission timeline",
+        "lunar lander on the south pole",
+        "habitat modules on regolith",
+        "supply rocket launch",
+        "Earth rising over a base"
+      ],
+      "editorialTitles": [
+        "What It Takes to Live on the Moon",
+        "Why a Moon Base Is a Supply Chain"
+      ],
+      "facts": [
+        {
+          "claim": "Artemis II sent four astronauts on a lunar flyby in 2026, becoming the only crewed flight beyond low Earth orbit not part of the Apollo program.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Artemis program",
+          "url": "https://en.wikipedia.org/wiki/Artemis_program"
+        },
+        {
+          "claim": "The uncrewed Artemis I mission sent an Orion spacecraft to lunar orbit in 2022.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Artemis program",
+          "url": "https://en.wikipedia.org/wiki/Artemis_program"
+        },
+        {
+          "claim": "Artemis IV, targeted for 2028, is planned to be the first crewed lunar landing since Apollo.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Artemis program",
+          "url": "https://en.wikipedia.org/wiki/Artemis_program"
+        },
+        {
+          "claim": "Beginning with Artemis V, NASA intends yearly lunar landings to develop a permanent lunar base, as a step toward human missions to Mars.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Artemis program",
+          "url": "https://en.wikipedia.org/wiki/Artemis_program"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Humans flew around the Moon again in 2026.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Artemis II carried four astronauts on a lunar flyby.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Artemis IV, targeted for 2028, aims to land a crew.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "From Artemis V, NASA plans yearly landings.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The goal is a permanent base, then Mars.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Every kilogram of supplies must be launched or made on site.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So a Moon base is really a supply chain problem.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The Moon becomes a rehearsal for living farther away.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-gps-went-dark-for-a-day",
+      "replaces": "what-if-global-gps-timing-reversed-between-hemispheres",
+      "category": "OTHER",
+      "topic": "What If GPS Went Dark for a Day?",
+      "hook": "GPS clocks gain 38 microseconds a day from relativity.",
+      "openingLine": "GPS clocks gain 38 microseconds a day from relativity.",
+      "secondBeat": "Without correction, positions would drift quickly.",
+      "scientificMechanism": "GPS receivers compute position from precise satellite clock signals, which also serve as a timing reference",
+      "scenarioChange": "GPS signals stopped for a day",
+      "expectedConsequence": "navigation falls back to other sources, while timing-dependent networks start to drift",
+      "coreQuestion": "If GPS went dark for a day, what would fail besides your maps?",
+      "misconception": "GPS isn't just navigation; many networks use it as a clock.",
+      "number": "38 microseconds/day",
+      "thumbnailText": "GPS GOES DARK",
+      "visualScenes": [
+        "satellite constellation around Earth",
+        "relativity clock drift diagram",
+        "phone map losing signal",
+        "cell tower timing receiver",
+        "trading floor clock",
+        "backup timing sources chart"
+      ],
+      "editorialTitles": [
+        "What Happens If GPS Goes Dark",
+        "Why GPS Is the World's Hidden Clock"
+      ],
+      "facts": [
+        {
+          "claim": "Relativity predicted that the clocks on GPS satellites, as observed by those on Earth, run 38 microseconds faster per day than those on the Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        },
+        {
+          "claim": "The prototype spacecraft was launched in 1978 and the full constellation of 24 satellites became operational in 1993.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        },
+        {
+          "claim": "When Selective Availability was discontinued, GPS was accurate to about 5 meters (16 ft).",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        },
+        {
+          "claim": "As of March 2026, 21 GPS satellites broadcast L5 signals.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        }
+      ],
+      "narration": [
+        {
+          "text": "GPS clocks gain 38 microseconds a day from relativity.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Without correction, positions would drift quickly.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The system became fully operational in 1993.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It was designed around 24 satellites.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Civil accuracy reached about 5 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "If it went dark, phones would lean on cell towers and Wi-Fi.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "But networks and markets that use GPS timing would feel it too.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So GPS isn't just maps. It's the world's shared clock.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    }
+  ]
+}

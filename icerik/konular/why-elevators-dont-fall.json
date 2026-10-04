@@ -1,0 +1,92 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why Elevators Almost Never Fall",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "Cut every cable. It holds.",
+  "soru": "Scared of elevators?",
+  "arama_yedek": "elevator building",
+  "aciklama": "Everyone fears the elevator plunging - but the physics make it almost impossible. Here is why.\n\n#shorts #engineering #science #howitworks #safety",
+  "etiketler": [
+    "elevator",
+    "engineering",
+    "science",
+    "safety",
+    "how it works"
+  ],
+  "sahneler": [
+    {
+      "metin": "Everyone fears the cable snapping and the car dropping.",
+      "arama": "elevator shaft"
+    },
+    {
+      "metin": "But even if every cable snapped at once, it would not fall.",
+      "arama": "elevator mechanism"
+    },
+    {
+      "metin": "So what stops it?",
+      "arama": "steel cable"
+    },
+    {
+      "metin": "Each car hangs from several steel cables, not one.",
+      "arama": "modern elevator"
+    },
+    {
+      "metin": "Any single cable can hold the entire car by itself.",
+      "arama": "elevator interior"
+    },
+    {
+      "metin": "If they all failed, an overspeed brake grips the rails.",
+      "arama": "elevator button"
+    },
+    {
+      "metin": "Springs at the bottom would cushion whatever was left.",
+      "arama": "people elevator"
+    },
+    {
+      "metin": "Physics is quietly protecting you on every floor.",
+      "arama": "skyscraper elevator"
+    }
+  ],
+  "vaka": {
+    "kume": "structural-failures",
+    "tip": "mekanizma",
+    "ad": "Elevators",
+    "nesne": "Elevator",
+    "sonuc": "almost never fall",
+    "tetik": "every cable snapping",
+    "mekanizma": "redundant ropes and an overspeed safety brake",
+    "sayi": "ALL CABLES CUT?",
+    "ders": "redundancy makes free fall almost impossible",
+    "zincir": [
+      "MULTIPLE STEEL ROPES",
+      "ANY ONE HOLDS THE CAR",
+      "OVERSPEED GOVERNOR TRIPS",
+      "SAFETY BRAKES GRIP RAILS",
+      "BUFFERS IN THE PIT"
+    ],
+    "yanilgi": "The elevator safety brake isn't new — Elisha Otis demonstrated it in 1854 by having the rope cut while he stood on the platform.",
+    "tartisma": "Knowing all this, which is riskier: the elevator or the stairs?",
+    "basliklar": [
+      "What Happens If Every Elevator Cable Snaps",
+      "Why Elevators Almost Never Fall",
+      "The Brake That Stops a Falling Elevator"
+    ],
+    "kapak": [
+      "ALL CABLES CUT?",
+      "SAFETY BRAKE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Elevator",
+        "url": "https://en.wikipedia.org/wiki/Elevator"
+      },
+      {
+        "ad": "Wikipedia — Elisha Otis",
+        "url": "https://en.wikipedia.org/wiki/Elisha_Otis"
+      }
+    ]
+  }
+}

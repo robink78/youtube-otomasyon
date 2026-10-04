@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Skipping Corrosion Control Put Lead in a City's Water",
+  "kaynaklar": [
+    {
+      "ad": "flint-water-crisis-1.jpg",
+      "wikimedia": "Flint-water-treatment-plant-tower.jpg"
+    },
+    {
+      "ad": "flint-water-crisis-2.jpg",
+      "wikimedia": "President Obama sips filtered water from Flint.jpg"
+    },
+    {
+      "ad": "flint-water-crisis-3.jpg",
+      "wikimedia": "EPA water quality testing in Flint.jpg"
+    },
+    {
+      "ad": "flint-water-crisis-4.jpg",
+      "wikimedia": "Genesee County Community Action Resource Department (GCCARD) partners with USDA to help Flint, MI - TEFAP and CSFP (20161004-FNS-LSC-0236).jpg"
+    },
+    {
+      "ad": "flint-water-crisis-5.jpg",
+      "wikimedia": "Genesee County Community Action Resource Department (GCCARD) partners with USDA to help Flint, MI - TEFAP and CSFP (20161004-FNS-LSC-0232).jpg"
+    },
+    {
+      "ad": "flint-water-crisis-6.jpg",
+      "wikimedia": "Karen Weaver interviewed by Spectacle TV 2015.jpg"
+    },
+    {
+      "ad": "flint-water-crisis-7.jpg",
+      "wikimedia": "Marc Edwards 2016.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The city of Flint, Michigan, switched its drinking water source.",
+      "kaynak": "Footage/flint-water-crisis-1.jpg"
+    },
+    {
+      "metin": "Within months, lead was pouring from residents' taps.",
+      "kaynak": "Footage/flint-water-crisis-2.jpg"
+    },
+    {
+      "metin": "The new water was more corrosive.",
+      "kaynak": "Footage/flint-water-crisis-3.jpg"
+    },
+    {
+      "metin": "Normally, a corrosion inhibitor protects old pipes.",
+      "kaynak": "Footage/flint-water-crisis-4.jpg"
+    },
+    {
+      "metin": "In Flint, it wasn't added.",
+      "kaynak": "Footage/flint-water-crisis-5.jpg"
+    },
+    {
+      "metin": "The water stripped the protective layer inside lead pipes.",
+      "kaynak": "Footage/flint-water-crisis-6.jpg"
+    },
+    {
+      "metin": "Residents complained for months before action was taken.",
+      "kaynak": "Footage/flint-water-crisis-7.jpg"
+    },
+    {
+      "metin": "Lead pipes were replaced, and national lead rules were revised.",
+      "kaynak": "Footage/flint-water-crisis-1.jpg"
+    }
+  ],
+  "aciklama": "Flint water delivered lead-contaminated water to residents. The cause: corrosive water stripping protective scale from old pipes and leaching lead.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Flint water",
+    "2014",
+    "water pipes",
+    "engineering failure"
+  ],
+  "hook": "One step was skipped",
+  "soru": "Who listens to residents?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Flint water system",
+    "kisa": "Flint water",
+    "nesne": "Water pipes",
+    "yil": 2014,
+    "sonuc": "delivered lead-contaminated water to residents",
+    "tetik": "a new water source used without corrosion control",
+    "mekanizma": "corrosive water stripping protective scale from old pipes and leaching lead",
+    "sayi": "NO CORROSION CONTROL",
+    "ders": "lead service lines in Flint were replaced and federal lead rules were revised",
+    "zincir": [
+      "WATER SOURCE SWITCHED",
+      "NO CORROSION INHIBITOR ADDED",
+      "PIPE SCALE DISSOLVES",
+      "LEAD LEACHES INTO WATER",
+      "RESIDENTS EXPOSED"
+    ],
+    "zaman": [],
+    "yanilgi": "The river water itself wasn't the main problem. Without a corrosion inhibitor, it attacked old lead pipes.",
+    "tartisma": "Residents complained for months before officials acted. Who listens when citizens report a problem?",
+    "basliklar": [
+      "Skipping Corrosion Control Put Lead in a City's Water",
+      "What Caused the Flint Water Crisis",
+      "The Corrosion Control That Was Skipped"
+    ],
+    "kapak": [
+      "LEAD",
+      "SKIPPED STEP"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Flint water crisis",
+        "url": "https://en.wikipedia.org/wiki/Flint_water_crisis"
+      },
+      {
+        "ad": "CDC — tp13 (cited by Wikipedia)",
+        "url": "http://www.atsdr.cdc.gov/toxprofiles/tp13.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "Flint_water_crisis",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Flint-water-treatment-plant-tower.jpg [Public domain]",
+      "President Obama sips filtered water from Flint.jpg [Public domain]",
+      "EPA water quality testing in Flint.jpg [Public domain]",
+      "Genesee County Community Action Resource Department (GCCARD) partners with USDA to help Flint, MI - TEFAP and CSFP (20161004-FNS-LSC-0236).jpg [Public domain]",
+      "Genesee County Community Action Resource Department (GCCARD) partners with USDA to help Flint, MI - TEFAP and CSFP (20161004-FNS-LSC-0232).jpg [Public domain]",
+      "Karen Weaver interviewed by Spectacle TV 2015.jpg [CC BY 3.0]",
+      "Marc Edwards 2016.jpg [Public domain]"
+    ]
+  }
+}

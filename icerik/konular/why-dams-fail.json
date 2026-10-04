@@ -1,0 +1,96 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why Dams Fail Without Warning",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "A wall holding a lake",
+  "soru": "Live below a dam?",
+  "arama_yedek": "dam water",
+  "aciklama": "A dam holds back millions of tons of water - and it only takes one weak spot to unleash it all. Here is how dams fail.\n\n#shorts #engineering #science #disaster #howitworks",
+  "etiketler": [
+    "dam failure",
+    "engineering",
+    "flood",
+    "water",
+    "science"
+  ],
+  "sahneler": [
+    {
+      "metin": "A dam is one wall holding back an entire lake.",
+      "arama": "dam reservoir"
+    },
+    {
+      "metin": "If it breaks, the water races downstream faster than a car.",
+      "arama": "flood water rushing"
+    },
+    {
+      "metin": "The quiet killer is water seeping through it.",
+      "arama": "water seeping"
+    },
+    {
+      "metin": "It slowly carries away soil, carving a hidden tunnel inside.",
+      "arama": "muddy water flow"
+    },
+    {
+      "metin": "Engineers call this piping, and you cannot see it happening.",
+      "arama": "dam wall"
+    },
+    {
+      "metin": "Once a small breach opens, the pressure rips it wide open.",
+      "arama": "dam spillway"
+    },
+    {
+      "metin": "Water pouring over the top erodes a dam in minutes.",
+      "arama": "water overflow dam"
+    },
+    {
+      "metin": "That is why dams are monitored around the clock.",
+      "arama": "dam engineering"
+    }
+  ],
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "mekanizma",
+    "ad": "Dams",
+    "nesne": "Dam",
+    "sonuc": "fail without warning",
+    "tetik": "water seeping through the dam",
+    "mekanizma": "internal erosion (piping)",
+    "sayi": "HIDDEN LEAK",
+    "ders": "dams are monitored with sensors around the clock",
+    "zincir": [
+      "SEEPAGE THROUGH EMBANKMENT",
+      "SOIL CARRIED AWAY",
+      "HIDDEN PIPE FORMS",
+      "BREACH OPENS",
+      "FLOOD WAVE DOWNSTREAM"
+    ],
+    "yanilgi": "Dams rarely fail by cracking like glass. Overtopping and internal erosion — water slowly carving through the fill — are among the most common causes.",
+    "tartisma": "Teton Dam failed in 1976 during its very first filling. Should new dams be filled more slowly?",
+    "basliklar": [
+      "The Hidden Tunnel That Destroys Dams From Inside",
+      "How Water Quietly Eats a Dam",
+      "Why Dams Can Fail With Almost No Warning"
+    ],
+    "kapak": [
+      "HIDDEN LEAK",
+      "PIPING"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Internal erosion",
+        "url": "https://en.wikipedia.org/wiki/Internal_erosion"
+      },
+      {
+        "ad": "Wikipedia — Dam failure",
+        "url": "https://en.wikipedia.org/wiki/Dam_failure"
+      },
+      {
+        "ad": "Wikipedia — Teton Dam",
+        "url": "https://en.wikipedia.org/wiki/Teton_Dam"
+      }
+    ]
+  }
+}

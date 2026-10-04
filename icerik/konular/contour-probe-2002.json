@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Comet Probe That Broke Apart Leaving Earth",
+  "kaynaklar": [
+    {
+      "ad": "contour-probe-1.jpg",
+      "wikimedia": "CONTOUR pre-launch.jpg"
+    },
+    {
+      "ad": "contour-probe-2.jpg",
+      "wikimedia": "NASA SCAPE protective suits.jpg"
+    },
+    {
+      "ad": "contour-probe-3.jpg",
+      "wikimedia": "CONTOUR Launch (19083178100).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A NASA probe bound for comets fired its motor to leave Earth orbit.",
+      "kaynak": "Footage/contour-probe-1.jpg"
+    },
+    {
+      "metin": "Suddenly it went silent and was never heard from again.",
+      "kaynak": "Footage/contour-probe-2.jpg"
+    },
+    {
+      "metin": "The burn happened while it was out of contact.",
+      "kaynak": "Footage/contour-probe-3.jpg"
+    },
+    {
+      "metin": "Telescopes later spotted several fragments.",
+      "kaynak": "Footage/contour-probe-1.jpg"
+    },
+    {
+      "metin": "Its solid rocket motor was embedded in the spacecraft.",
+      "kaynak": "Footage/contour-probe-2.jpg"
+    },
+    {
+      "metin": "The most likely cause was heating from the motor's exhaust plume.",
+      "kaynak": "Footage/contour-probe-3.jpg"
+    },
+    {
+      "metin": "No one had watched the critical event.",
+      "kaynak": "Footage/contour-probe-1.jpg"
+    },
+    {
+      "metin": "NASA stressed testing plume heating for designs like this.",
+      "kaynak": "Footage/contour-probe-2.jpg"
+    }
+  ],
+  "aciklama": "CONTOUR broke apart during its rocket burn out of Earth orbit. The cause: likely structural heating from the solid motor's exhaust plume.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "CONTOUR",
+    "2002",
+    "spacecraft",
+    "engineering failure"
+  ],
+  "hook": "It broke up unseen",
+  "soru": "Fire the motor unobserved?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the CONTOUR probe",
+    "kisa": "CONTOUR",
+    "nesne": "Spacecraft",
+    "yil": 2002,
+    "sonuc": "broke apart during its rocket burn out of Earth orbit",
+    "tetik": "the burn of its embedded solid rocket motor",
+    "mekanizma": "likely structural heating from the solid motor's exhaust plume",
+    "sayi": "PIECES",
+    "ders": "NASA stressed testing plume heating for embedded solid motors",
+    "zincir": [
+      "SOLID MOTOR INSIDE SPACECRAFT",
+      "BURN OUT OF EARTH ORBIT",
+      "PLUME HEATS STRUCTURE",
+      "SPACECRAFT FAILS",
+      "SEVERAL PIECES SEEN"
+    ],
+    "zaman": [],
+    "yanilgi": "Nobody saw it fail; the burn happened out of contact. Telescopes later spotted several pieces.",
+    "tartisma": "The motor was fired with no telemetry link. Should critical events ever happen unobserved?",
+    "basliklar": [
+      "The Comet Probe That Broke Apart Leaving Earth",
+      "Why the CONTOUR Probe Was Lost",
+      "The Probe That Broke Apart Out of Contact"
+    ],
+    "kapak": [
+      "OUT OF CONTACT",
+      "IN PIECES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — CONTOUR",
+        "url": "https://en.wikipedia.org/wiki/CONTOUR"
+      },
+      {
+        "ad": "NASA — contour (cited by Wikipedia)",
+        "url": "http://discovery.nasa.gov/contour.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "CONTOUR",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "CONTOUR pre-launch.jpg [Public domain]",
+      "NASA SCAPE protective suits.jpg [Public domain]",
+      "CONTOUR Launch (19083178100).jpg [Public domain]"
+    ]
+  }
+}

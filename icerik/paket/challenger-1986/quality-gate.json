@@ -1,0 +1,65 @@
+{
+  "slug": "challenger-1986",
+  "asama": "final",
+  "format": "short",
+  "karar": "PUBLISH",
+  "toplam": 94,
+  "esikler": {
+    "publish": 85,
+    "review": 70
+  },
+  "engelleyen": [],
+  "bilesenler": {
+    "title": {
+      "puan": 69,
+      "notlar": [
+        "\"Why Challenger Broke Apart 73 Seconds After Launch\" (engine 54.4)"
+      ]
+    },
+    "thumbnail": {
+      "puan": 96,
+      "notlar": []
+    },
+    "hook": {
+      "puan": 100,
+      "notlar": []
+    },
+    "script": {
+      "puan": 100,
+      "notlar": []
+    },
+    "originality": {
+      "puan": 85,
+      "notlar": []
+    },
+    "visual": {
+      "puan": 100,
+      "notlar": [],
+      "olcum": {
+        "w": 1080,
+        "h": 1920,
+        "sure": 27.533333,
+        "ses": true
+      },
+      "kritik": null
+    },
+    "engineering": {
+      "puan": 100,
+      "notlar": []
+    },
+    "source": {
+      "puan": 100,
+      "notlar": []
+    },
+    "audio": {
+      "puan": 100,
+      "notlar": [],
+      "olcum": {
+        "I": -15.22,
+        "TP": -1.34,
+        "sessiz": 0
+      }
+    }
+  },
+  "tarih": "2026-09-26T12:21:25.217Z"
+}

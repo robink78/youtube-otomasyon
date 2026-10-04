@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Hole for a Sensor Capsized an Offshore Platform",
+  "kaynaklar": [
+    {
+      "ad": "alexander-kielland-1.jpg",
+      "wikimedia": "Alexander L Kielland and Edda 2-7C NOMF-02663-1-650.jpg"
+    },
+    {
+      "ad": "alexander-kielland-2.jpg",
+      "wikimedia": "Alexander L Kielland Column D drifting in the water NOMF-02697-1-172.jpg"
+    },
+    {
+      "ad": "alexander-kielland-3.jpg",
+      "wikimedia": "Alexander L Kielland Column D with fractures NOMF-02663-1-647.jpg"
+    },
+    {
+      "ad": "alexander-kielland-4.jpg",
+      "wikimedia": "Alexander L Kielland Head of Column D after accident NOMF-02693-1-070.jpg"
+    },
+    {
+      "ad": "alexander-kielland-5.jpg",
+      "wikimedia": "Alexander L Kielland nach Bergung NOMF-02643-1-109.jpg"
+    },
+    {
+      "ad": "alexander-kielland-6.jpg",
+      "wikimedia": "Column D of Alexander L Kielland detailsNOMF-02663-1-648.jpg"
+    },
+    {
+      "ad": "alexander-kielland-7.jpg",
+      "wikimedia": "Columns of Alexander L Kielland after capsizing NOMF-02734-1-031.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An accommodation platform in the North Sea suddenly capsized.",
+      "kaynak": "Footage/alexander-kielland-1.jpg"
+    },
+    {
+      "metin": "Most of the men aboard were trapped, and one hundred twenty three died.",
+      "kaynak": "Footage/alexander-kielland-2.jpg"
+    },
+    {
+      "metin": "One of its braces had snapped.",
+      "kaynak": "Footage/alexander-kielland-3.jpg"
+    },
+    {
+      "metin": "A hole had been cut in it to fit a sensor.",
+      "kaynak": "Footage/alexander-kielland-4.jpg"
+    },
+    {
+      "metin": "The weld around that hole was poor.",
+      "kaynak": "Footage/alexander-kielland-5.jpg"
+    },
+    {
+      "metin": "A fatigue crack grew from it, wave after wave.",
+      "kaynak": "Footage/alexander-kielland-6.jpg"
+    },
+    {
+      "metin": "When the brace failed, a leg broke away.",
+      "kaynak": "Footage/alexander-kielland-7.jpg"
+    },
+    {
+      "metin": "Offshore structures must now survive losing one member.",
+      "kaynak": "Footage/alexander-kielland-1.jpg"
+    }
+  ],
+  "aciklama": "Alexander Kielland capsized in the North Sea. The cause: fatigue crack from a poor fillet weld at a hydrophone opening, leading to brace and leg failure.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Alexander Kielland",
+    "1980",
+    "platform brace",
+    "engineering failure"
+  ],
+  "hook": "A hole for a sensor",
+  "soru": "How small can a fatal detail be?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "the Alexander L. Kielland",
+    "kisa": "Alexander Kielland",
+    "nesne": "Platform brace",
+    "yil": 1980,
+    "sonuc": "capsized in the North Sea",
+    "tetik": "a fatigue crack from a weld around a sensor hole in a brace",
+    "mekanizma": "fatigue crack from a poor fillet weld at a hydrophone opening, leading to brace and leg failure",
+    "sayi": "123 DIED",
+    "ders": "offshore structures must now survive the loss of one member",
+    "zincir": [
+      "HOLE CUT FOR A HYDROPHONE",
+      "POOR FILLET WELD",
+      "FATIGUE CRACK GROWS",
+      "BRACE SNAPS, LEG LOST",
+      "PLATFORM CAPSIZES"
+    ],
+    "zaman": [],
+    "yanilgi": "The storm only finished it. A fatigue crack had been growing in one brace since it was built.",
+    "tartisma": "The crack began at a tiny detail added for a sensor. How small can a fatal detail be?",
+    "basliklar": [
+      "A Hole for a Sensor Capsized an Offshore Platform",
+      "Why the Alexander L. Kielland Capsized",
+      "The Sensor Hole That Sank a Platform"
+    ],
+    "kapak": [
+      "ONE HOLE",
+      "123 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Alexander L. Kielland (platform)",
+        "url": "https://en.wikipedia.org/wiki/Alexander_L._Kielland_(platform)"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — c9w58e87lyvo (cited by Wikipedia)",
+        "url": "https://www.bbc.com/news/articles/c9w58e87lyvo"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-04",
+    "wiki": "Alexander_L._Kielland_(platform)",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Alexander L Kielland and Edda 2-7C NOMF-02663-1-650.jpg [CC BY 3.0]",
+      "Alexander L Kielland Column D drifting in the water NOMF-02697-1-172.jpg [CC BY 3.0]",
+      "Alexander L Kielland Column D with fractures NOMF-02663-1-647.jpg [CC BY 3.0]",
+      "Alexander L Kielland Head of Column D after accident NOMF-02693-1-070.jpg [CC BY 3.0]",
+      "Alexander L Kielland nach Bergung NOMF-02643-1-109.jpg [CC BY 3.0]",
+      "Column D of Alexander L Kielland detailsNOMF-02663-1-648.jpg [CC BY 3.0]",
+      "Columns of Alexander L Kielland after capsizing NOMF-02734-1-031.jpg [CC BY 3.0]"
+    ]
+  }
+}

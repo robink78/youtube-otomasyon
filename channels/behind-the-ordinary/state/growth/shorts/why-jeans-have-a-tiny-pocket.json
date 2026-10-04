@@ -1,0 +1,2758 @@
+{
+  "schema": "growth-short-plan/1",
+  "channel": "behind-the-ordinary",
+  "channelName": "The Hidden Logic of Things",
+  "contentType": "short",
+  "createdAt": "2026-10-04T12:28:49.568Z",
+  "topic": {
+    "id": "BTO-016",
+    "slug": "why-jeans-have-a-tiny-pocket",
+    "title": "Why Jeans Have a Tiny Pocket",
+    "cluster": "EVERYDAY MYSTERIES",
+    "subject": "jeans"
+  },
+  "topicScore": {
+    "channel": "behind-the-ordinary",
+    "topicId": "BTO-016",
+    "slug": "why-jeans-have-a-tiny-pocket",
+    "title": "Why Jeans Have a Tiny Pocket",
+    "cluster": "EVERYDAY MYSTERIES",
+    "VideoPotentialScore": 81,
+    "ViralPotentialScore": 69,
+    "SelectionScore": 74,
+    "bucket": "A",
+    "reasons": [
+      "VideoPotential 81 ≥ 80",
+      "hook 77",
+      "sources 85"
+    ],
+    "enrichable": false,
+    "factors": {
+      "TopicDemandScore": {
+        "value": 75,
+        "basis": "derived",
+        "note": "no demand signal; evergreen proxy"
+      },
+      "CuriosityScore": {
+        "value": 98,
+        "basis": "inventory-signal"
+      },
+      "HookPotentialScore": {
+        "value": 77,
+        "basis": "derived",
+        "note": "18 candidates / 7 families"
+      },
+      "VisualImpactScore": {
+        "value": 84,
+        "basis": "inventory-signal"
+      },
+      "EmotionalImpactScore": {
+        "value": 45,
+        "basis": "derived"
+      },
+      "StoryCompressionScore": {
+        "value": 84,
+        "basis": "derived"
+      },
+      "RewatchPotentialScore": {
+        "value": 69,
+        "basis": "derived"
+      },
+      "SharePotentialScore": {
+        "value": 91,
+        "basis": "derived"
+      },
+      "CommentPotentialScore": {
+        "value": 63,
+        "basis": "derived"
+      },
+      "SubscriberConversionPotential": {
+        "value": 74,
+        "basis": "derived+learned",
+        "note": "series depth: 3 topics in EVERYDAY MYSTERIES"
+      },
+      "NoveltyScore": {
+        "value": 78,
+        "basis": "inventory-signal"
+      },
+      "AudienceFitScore": {
+        "value": 75,
+        "basis": "inventory-signal"
+      },
+      "SourceQualityScore": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "ChannelFitScore": {
+        "value": 100,
+        "basis": "derived"
+      }
+    },
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 98,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 70,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 35,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 50,
+        "basis": "inventory-signal"
+      },
+      "surprise": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 84,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 84,
+        "basis": "derived",
+        "note": "4 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 45,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 91,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 3 inventory in cluster"
+      },
+      "source_confidence_risk": {
+        "value": -15,
+        "basis": "penalty",
+        "note": "85/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -40,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "viralWeights": {
+      "curiosity_gap": 1.1,
+      "immediate_stakes": 1.1,
+      "human_consequence": 0.9,
+      "recognizability": 0.9,
+      "surprise": 0.9,
+      "visual_potential": 1,
+      "archival_footage_potential": 0.8,
+      "first_frame_potential": 1,
+      "title_potential": 0.8,
+      "emotional_tension": 0.9,
+      "contradiction": 0.7,
+      "unexpected_cause": 0.9,
+      "numerical_anomaly": 0.6,
+      "didnt_know_factor": 0.8,
+      "shareability": 0.9,
+      "channel_fit": 1,
+      "historical_similarity": 1,
+      "duplicate_risk": 1.2,
+      "saturation_risk": 0.6,
+      "source_confidence_risk": 1.2,
+      "weak_footage_risk": 0.8
+    },
+    "viralCalculation": {
+      "positive": 72.4,
+      "penalty": 3.3,
+      "penaltyScale": 0.25
+    },
+    "weights": {
+      "TopicDemandScore": 1.1,
+      "CuriosityScore": 1.3,
+      "HookPotentialScore": 1.2,
+      "VisualImpactScore": 1.2,
+      "EmotionalImpactScore": 0.5,
+      "StoryCompressionScore": 1.1,
+      "RewatchPotentialScore": 0.7,
+      "SharePotentialScore": 0.9,
+      "CommentPotentialScore": 0.6,
+      "SubscriberConversionPotential": 1,
+      "NoveltyScore": 1,
+      "AudienceFitScore": 1.2,
+      "SourceQualityScore": 1.4,
+      "ChannelFitScore": 1.4
+    },
+    "boilerplate": {
+      "ratio": 0,
+      "templatedFields": [],
+      "checkedFields": 6
+    },
+    "specificEvidence": 19,
+    "sourceQuality": {
+      "score": 85,
+      "tiers": [
+        {
+          "name": "Levi Strauss & Co. Archives — Pockets Full of History",
+          "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/",
+          "tier": "MANUFACTURER",
+          "score": 82
+        },
+        {
+          "name": "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+          "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/",
+          "tier": "MANUFACTURER",
+          "score": 82
+        },
+        {
+          "name": "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts",
+          "url": "https://www.levistrauss.com/2014/04/17/those-oft-forgotten-pant-parts/",
+          "tier": "MANUFACTURER",
+          "score": 82
+        }
+      ],
+      "primaryCount": 3,
+      "notes": []
+    },
+    "selectedHook": {
+      "family": "contradiction",
+      "spoken": "That tiny jeans pocket was not designed for loose change.",
+      "score": 77
+    }
+  },
+  "topicDecision": {
+    "schema": "growth-topic-decision/1",
+    "channel": "behind-the-ordinary",
+    "contentType": "short",
+    "date": "2026-10-04",
+    "createdAt": "2026-10-04T12:23:55.713Z",
+    "mode": "EXPLOIT",
+    "modeRoll": 0.775,
+    "pool": {
+      "minimum": 1,
+      "target": 50,
+      "count": 5,
+      "meetsMinimum": true,
+      "candidates": [
+        {
+          "topicId": "BTO-016",
+          "slug": "why-jeans-have-a-tiny-pocket",
+          "topic": "Why Jeans Have a Tiny Pocket",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "A",
+          "viralScore": 69,
+          "videoPotentialScore": 81,
+          "selectionScore": 74,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 98,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 90,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 84,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 100,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -15,
+              "basis": "penalty",
+              "note": "85/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "contradiction",
+            "spoken": "That tiny jeans pocket was not designed for loose change.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 81 ≥ 80",
+            "hook 77",
+            "sources 85"
+          ]
+        },
+        {
+          "topicId": "BTO-017",
+          "slug": "why-jeans-have-copper-rivets",
+          "topic": "Why Jeans Have Copper Rivets",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "A",
+          "viralScore": 68,
+          "videoPotentialScore": 80,
+          "selectionScore": 73,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 89,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 80,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 87,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 57,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 92,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -18,
+              "basis": "penalty",
+              "note": "82/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Those copper dots on jeans started on horse blankets.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 80",
+            "hook 77",
+            "sources 82"
+          ]
+        },
+        {
+          "topicId": "BTO-301",
+          "slug": "why-qr-codes-have-three-corner-squares",
+          "topic": "Why QR Codes Have Three Corner Squares",
+          "cluster": "STRANGE ORIGINS",
+          "bucket": "A",
+          "viralScore": 67,
+          "videoPotentialScore": 80,
+          "selectionScore": 72,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 89,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 80,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 87,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -18,
+              "basis": "penalty",
+              "note": "82/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Those three QR squares aren't decoration.",
+            "score": 77
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 80",
+            "hook 77",
+            "sources 82"
+          ]
+        },
+        {
+          "topicId": "BTO-226",
+          "slug": "why-some-barcode-bars-are-longer",
+          "topic": "Why Some Barcode Bars Are Longer",
+          "cluster": "STRANGE ORIGINS",
+          "bucket": "B",
+          "viralScore": 69,
+          "videoPotentialScore": 80,
+          "selectionScore": 73,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 87,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 60,
+              "basis": "measured"
+            },
+            "surprise": {
+              "value": 90,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 94,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 53,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 82,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 91,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 88,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -10,
+              "basis": "penalty",
+              "note": "90/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "Some barcode bars are longer, and that's deliberate.",
+            "score": 74
+          },
+          "rejectionReasons": [
+            "VideoPotential 80 ≥ 68",
+            "not A: hook 74 < 75"
+          ]
+        },
+        {
+          "topicId": "BTO-040",
+          "slug": "the-shopping-cart-started-as-a-folding-chair",
+          "topic": "The Shopping Cart Started as a Folding Chair",
+          "cluster": "EVERYDAY MYSTERIES",
+          "bucket": "B",
+          "viralScore": 64,
+          "videoPotentialScore": 76,
+          "selectionScore": 69,
+          "viralComponents": {
+            "curiosity_gap": {
+              "value": 82,
+              "basis": "derived"
+            },
+            "immediate_stakes": {
+              "value": 70,
+              "basis": "derived"
+            },
+            "human_consequence": {
+              "value": 35,
+              "basis": "derived"
+            },
+            "recognizability": {
+              "value": 50,
+              "basis": "inventory-signal"
+            },
+            "surprise": {
+              "value": 60,
+              "basis": "derived"
+            },
+            "visual_potential": {
+              "value": 95,
+              "basis": "inventory-signal"
+            },
+            "archival_footage_potential": {
+              "value": 35,
+              "basis": "inventory-signal"
+            },
+            "first_frame_potential": {
+              "value": 68,
+              "basis": "derived"
+            },
+            "title_potential": {
+              "value": 84,
+              "basis": "derived",
+              "note": "4 source-backed title seeds"
+            },
+            "emotional_tension": {
+              "value": 45,
+              "basis": "derived"
+            },
+            "contradiction": {
+              "value": 85,
+              "basis": "derived"
+            },
+            "unexpected_cause": {
+              "value": 65,
+              "basis": "derived"
+            },
+            "numerical_anomaly": {
+              "value": 95,
+              "basis": "derived"
+            },
+            "didnt_know_factor": {
+              "value": 78,
+              "basis": "derived"
+            },
+            "shareability": {
+              "value": 81,
+              "basis": "derived"
+            },
+            "channel_fit": {
+              "value": 76,
+              "basis": "derived"
+            },
+            "historical_similarity": {
+              "value": 50,
+              "basis": "neutral",
+              "note": "no same-cluster channel evidence yet"
+            },
+            "duplicate_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "no published-title collision"
+            },
+            "saturation_risk": {
+              "value": 0,
+              "basis": "penalty",
+              "note": "0 published / 3 inventory in cluster"
+            },
+            "source_confidence_risk": {
+              "value": -20,
+              "basis": "penalty",
+              "note": "80/100 source quality"
+            },
+            "weak_footage_risk": {
+              "value": -40,
+              "basis": "penalty",
+              "note": "no archival footage confirmed"
+            }
+          },
+          "selectedHook": {
+            "family": "visual_first_reveal",
+            "spoken": "The shopping cart started as a folding chair.",
+            "score": 75
+          },
+          "rejectionReasons": [
+            "VideoPotential 76 ≥ 68"
+          ]
+        }
+      ]
+    },
+    "selected": {
+      "topicId": "BTO-016",
+      "slug": "why-jeans-have-a-tiny-pocket",
+      "topic": "Why Jeans Have a Tiny Pocket",
+      "cluster": "EVERYDAY MYSTERIES",
+      "bucket": "A",
+      "viralScore": 69,
+      "videoPotentialScore": 81,
+      "selectionScore": 74,
+      "viralComponents": {
+        "curiosity_gap": {
+          "value": 98,
+          "basis": "derived"
+        },
+        "immediate_stakes": {
+          "value": 70,
+          "basis": "derived"
+        },
+        "human_consequence": {
+          "value": 35,
+          "basis": "derived"
+        },
+        "recognizability": {
+          "value": 50,
+          "basis": "inventory-signal"
+        },
+        "surprise": {
+          "value": 90,
+          "basis": "derived"
+        },
+        "visual_potential": {
+          "value": 84,
+          "basis": "inventory-signal"
+        },
+        "archival_footage_potential": {
+          "value": 35,
+          "basis": "inventory-signal"
+        },
+        "first_frame_potential": {
+          "value": 68,
+          "basis": "derived"
+        },
+        "title_potential": {
+          "value": 84,
+          "basis": "derived",
+          "note": "4 source-backed title seeds"
+        },
+        "emotional_tension": {
+          "value": 45,
+          "basis": "derived"
+        },
+        "contradiction": {
+          "value": 85,
+          "basis": "derived"
+        },
+        "unexpected_cause": {
+          "value": 65,
+          "basis": "derived"
+        },
+        "numerical_anomaly": {
+          "value": 95,
+          "basis": "derived"
+        },
+        "didnt_know_factor": {
+          "value": 88,
+          "basis": "derived"
+        },
+        "shareability": {
+          "value": 91,
+          "basis": "derived"
+        },
+        "channel_fit": {
+          "value": 100,
+          "basis": "derived"
+        },
+        "historical_similarity": {
+          "value": 50,
+          "basis": "neutral",
+          "note": "no same-cluster channel evidence yet"
+        },
+        "duplicate_risk": {
+          "value": 0,
+          "basis": "penalty",
+          "note": "no published-title collision"
+        },
+        "saturation_risk": {
+          "value": 0,
+          "basis": "penalty",
+          "note": "0 published / 3 inventory in cluster"
+        },
+        "source_confidence_risk": {
+          "value": -15,
+          "basis": "penalty",
+          "note": "85/100 source quality"
+        },
+        "weak_footage_risk": {
+          "value": -40,
+          "basis": "penalty",
+          "note": "no archival footage confirmed"
+        }
+      },
+      "selectedHook": {
+        "family": "contradiction",
+        "spoken": "That tiny jeans pocket was not designed for loose change.",
+        "score": 77
+      },
+      "rejectionReasons": [
+        "VideoPotential 81 ≥ 80",
+        "hook 77",
+        "sources 85"
+      ]
+    },
+    "reason": "EXPLOIT (0.75): best A topic by SelectionScore"
+  },
+  "hooks": {
+    "selected": {
+      "family": "contradiction",
+      "spoken": "That tiny jeans pocket was not designed for loose change.",
+      "onScreen": "NOT FOR COINS",
+      "fields": [
+        "evidence"
+      ],
+      "editorial": false,
+      "words": 10,
+      "estimatedSeconds": 3.1,
+      "scores": {
+        "SwipeStoppingPower": 58,
+        "CuriosityGap": 59,
+        "Clarity": 95,
+        "Specificity": 71,
+        "EmotionalIntensity": 30,
+        "Credibility": 100,
+        "VisualCompatibility": 70,
+        "ChannelFit": 70,
+        "ImmediateComprehension": 100,
+        "RetentionExpectation": 59,
+        "VoiceoverNaturalness": 100,
+        "FirstFrameCompatibility": 70,
+        "FactualDefensibility": 100,
+        "ShortFormSuitability": 97
+      },
+      "total": 77,
+      "blocked": false,
+      "blockers": [],
+      "generic": false,
+      "adjustedTotal": 77,
+      "fitsOpening": false
+    },
+    "selectedScore": 77,
+    "passes": true,
+    "candidateCount": 18,
+    "familyCount": 7,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "family": "contradiction",
+        "spoken": "That tiny jeans pocket was not designed for loose change.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 59,
+          "Clarity": 95,
+          "Specificity": 71,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 70,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 100,
+          "RetentionExpectation": 59,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 70,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 77,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 77,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Levi Strauss and Company calls it the watch pocket.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "countdown",
+        "spoken": "The second back pocket arrived in 1901.",
+        "onScreen": "1901",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 7,
+        "estimatedSeconds": 2.2,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 84,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 44,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 84,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The original trousers were known as waist overalls.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 38,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 50,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The original waist overalls had four pockets in total.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 38,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 50,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Those four pockets were two large front pockets.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 54,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The original waist overalls also used a button fly.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 38,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 50,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 72,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 72,
+        "fitsOpening": true
+      },
+      {
+        "family": "shocking_consequence",
+        "spoken": "The original watch pocket survived as the five-pocket jean design evolved.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "consequence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 35,
+          "Clarity": 90,
+          "Specificity": 46,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 89,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 41,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 89,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 71,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 71,
+        "fitsOpening": false
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "A second back pocket was added in 1901.",
+        "onScreen": "1901",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 35,
+          "Clarity": 100,
+          "Specificity": 55,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 44,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 71,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 71,
+        "fitsOpening": true
+      },
+      {
+        "family": "unexpected_chain_reaction",
+        "spoken": "It is a surviving piece of nineteenth-century workwear.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "secondBeat"
+        ],
+        "editorial": false,
+        "words": 8,
+        "estimatedSeconds": 2.5,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 80,
+          "ChannelFit": 50,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 50,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 80,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 71,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 71,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The watch-pocket rivets were restored after the wartime change.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 9,
+        "estimatedSeconds": 2.8,
+        "scores": {
+          "SwipeStoppingPower": 55,
+          "CuriosityGap": 45,
+          "Clarity": 100,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 50,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 71,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 71,
+        "fitsOpening": true
+      },
+      {
+        "family": "impossible_sounding_fact",
+        "spoken": "It appeared on the original four-pocket riveted waist overalls in 1873.",
+        "onScreen": "1873",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 35,
+          "Clarity": 90,
+          "Specificity": 63,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 74,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 41,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 74,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 70,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 70,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The tiny front pocket is sometimes called the fifth pocket.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 45,
+          "Clarity": 95,
+          "Specificity": 38,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 85,
+          "RetentionExpectation": 46,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 70,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 70,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The watch pocket was intended to hold a pocket watch.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 10,
+        "estimatedSeconds": 3.1,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 45,
+          "Clarity": 95,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 85,
+          "RetentionExpectation": 46,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 69,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 69,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Copper rivets strengthened pocket openings and helped keep them from ripping.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 30,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 60,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 51,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 69,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 69,
+        "fitsOpening": false
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "The watch pocket remains part of the familiar five-pocket jean design.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 11,
+        "estimatedSeconds": 3.4,
+        "scores": {
+          "SwipeStoppingPower": 48,
+          "CuriosityGap": 45,
+          "Clarity": 90,
+          "Specificity": 38,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 73,
+          "RetentionExpectation": 46,
+          "VoiceoverNaturalness": 95,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 69,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 69,
+        "fitsOpening": false
+      },
+      {
+        "family": "question_gap",
+        "spoken": "What is tiny pockets for?",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "subject"
+        ],
+        "editorial": false,
+        "words": 5,
+        "estimatedSeconds": 1.6,
+        "scores": {
+          "SwipeStoppingPower": 65,
+          "CuriosityGap": 63,
+          "Clarity": 100,
+          "Specificity": 18,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 59,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 88,
+          "RetentionExpectation": 64,
+          "VoiceoverNaturalness": 100,
+          "FirstFrameCompatibility": 59,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 97
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": true
+      },
+      {
+        "family": "hidden_cause",
+        "spoken": "Pocket watches were common, so the small pouch carried and protected one.",
+        "onScreen": "NOT FOR COINS",
+        "fields": [
+          "evidence"
+        ],
+        "editorial": false,
+        "words": 12,
+        "estimatedSeconds": 3.8,
+        "scores": {
+          "SwipeStoppingPower": 58,
+          "CuriosityGap": 45,
+          "Clarity": 85,
+          "Specificity": 38,
+          "EmotionalIntensity": 30,
+          "Credibility": 100,
+          "VisualCompatibility": 68,
+          "ChannelFit": 70,
+          "ImmediateComprehension": 70,
+          "RetentionExpectation": 51,
+          "VoiceoverNaturalness": 90,
+          "FirstFrameCompatibility": 68,
+          "FactualDefensibility": 100,
+          "ShortFormSuitability": 82
+        },
+        "total": 68,
+        "blocked": false,
+        "blockers": [],
+        "generic": false,
+        "adjustedTotal": 68,
+        "fitsOpening": false
+      }
+    ]
+  },
+  "first3Seconds": {
+    "First3SecondPlan": {
+      "narration": "That tiny jeans pocket was not designed for loose change.",
+      "firstFrame": {
+        "description": "jeans fills the frame; one marker isolates tiny pockets",
+        "source": "procedural render",
+        "startAtSeconds": 0,
+        "sourceClass": "REAL_OBJECT",
+        "communicates": "mystery",
+        "rule": "labelled illustration; no logo, no establishing shot"
+      },
+      "visual": "jeans fills the frame; one marker isolates tiny pockets",
+      "onScreenText": "NOT FOR COINS",
+      "motion": "macro push toward the highlighted detail in 0.7 s, then cut to source evidence",
+      "cutTiming": [
+        0,
+        1.5,
+        3
+      ],
+      "soundCue": "one small tactile click synchronized to the highlighted detail",
+      "communicates": "mystery"
+    },
+    "score": 81,
+    "passes": true,
+    "blockers": [],
+    "notes": []
+  },
+  "script": {
+    "format": "short",
+    "generator": "editorial (researched record)",
+    "targetSeconds": 27.1,
+    "spoken": "That tiny jeans pocket was not designed for loose change. It is a surviving piece of nineteenth-century workwear. Levi Strauss and Company calls it the watch pocket. Pocket watches were common, so the small pouch carried and protected one. It appeared on the original four-pocket riveted waist overalls in 1873. The second back pocket arrived in 1901, making that the actual fifth pocket. So this tiny pocket is a working trace of the original jeans design.",
+    "claims": [
+      {
+        "start": 0,
+        "end": 3.6,
+        "role": "VISUAL_MYSTERY",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "That tiny jeans pocket was not designed for loose change."
+      },
+      {
+        "start": 3.6,
+        "end": 6.4,
+        "role": "CLEAR_PROMISE",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "It is a surviving piece of nineteenth-century workwear."
+      },
+      {
+        "start": 6.4,
+        "end": 9.6,
+        "role": "EXPLANATION",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Levi Strauss and Company calls it the watch pocket."
+      },
+      {
+        "start": 9.6,
+        "end": 13.9,
+        "role": "EXPLANATION",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "Pocket watches were common, so the small pouch carried and protected one."
+      },
+      {
+        "start": 13.9,
+        "end": 17.9,
+        "role": "ORIGIN",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "It appeared on the original four-pocket riveted waist overalls in 1873."
+      },
+      {
+        "start": 17.9,
+        "end": 22.5,
+        "role": "SURPRISING_DETAIL",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "The second back pocket arrived in 1901, making that the actual fifth pocket."
+      },
+      {
+        "start": 22.5,
+        "end": 27.1,
+        "role": "PAYOFF",
+        "layer": "VERIFIED FACT",
+        "confidence": "VERIFIED FACT",
+        "text": "So this tiny pocket is a working trace of the original jeans design."
+      }
+    ],
+    "lines": [
+      "That tiny jeans pocket was not designed for loose change.",
+      "It is a surviving piece of nineteenth-century workwear.",
+      "Levi Strauss and Company calls it the watch pocket.",
+      "Pocket watches were common, so the small pouch carried and protected one.",
+      "It appeared on the original four-pocket riveted waist overalls in 1873.",
+      "The second back pocket arrived in 1901, making that the actual fifth pocket.",
+      "So this tiny pocket is a working trace of the original jeans design."
+    ],
+    "structure": [
+      "VISUAL_MYSTERY",
+      "CLEAR_PROMISE",
+      "EXPLANATION",
+      "EXPLANATION",
+      "ORIGIN",
+      "SURPRISING_DETAIL",
+      "PAYOFF"
+    ],
+    "forbiddenOpening": false,
+    "sourceIds": [
+      "Levi Strauss & Co. Archives — Pockets Full of History",
+      "Levi Strauss & Co. historian — The Story Behind the Official Fifth Pocket",
+      "Levi Strauss & Co. Archives — Those Oft-Forgotten Pant Parts"
+    ],
+    "retention": {
+      "score": 90,
+      "words": 76,
+      "estimatedSeconds": 27.1,
+      "components": {
+        "hookDelay": 95,
+        "setupDelay": 85,
+        "sentenceLength": 100,
+        "informationDensity": 88,
+        "repetition": 100,
+        "deadSections": 100,
+        "escalation": 90,
+        "unansweredQuestions": 60,
+        "earlyPayoff": 55,
+        "visualOpportunities": 80,
+        "clarity": 100,
+        "duration": 95,
+        "endingStrength": 45
+      },
+      "duplicatePairs": [],
+      "findings": [
+        "final line has no payoff / consequence / lesson"
+      ],
+      "blockers": [],
+      "roles": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "rejectionReason": null,
+      "rewriteSuggested": false,
+      "passes": true
+    },
+    "estimatedSeconds": 27.1
+  },
+  "titles": {
+    "selected": {
+      "title": "Why Jeans Have a Tiny Pocket",
+      "source": "editorial",
+      "pattern": "why",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 95,
+        "channelIdentity": 84,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85,
+        "consequence": 42,
+        "compactness": 100,
+        "recognizability": 80,
+        "nonRedundancy": 100,
+        "factualIntegrity": 100,
+        "historicalPerformanceSimilarity": 50,
+        "patternFreshness": 100
+      },
+      "total": 83,
+      "patternPenalty": 0,
+      "adjustedTotal": 83,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 83,
+    "count": 24,
+    "meetsMinimum": true,
+    "candidates": [
+      {
+        "title": "Why Jeans Have a Tiny Pocket",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 84,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 83,
+        "patternPenalty": 0,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Original Purpose of That Tiny Jeans Pocket",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 96,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 81,
+        "patternPenalty": 0,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "This Tiny Pocket Wasn't Made for Coins",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 84,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 71,
+        "patternPenalty": 0,
+        "adjustedTotal": 71,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Jeans Have Tiny Pockets",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 99,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 82,
+        "patternPenalty": 0,
+        "adjustedTotal": 82,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Tiny Design Choice on Jeans",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 79,
+        "patternPenalty": 0,
+        "adjustedTotal": 79,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Everyday Engineering of Jeans",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 78,
+        "patternPenalty": 0,
+        "adjustedTotal": 78,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "What Tiny Pockets Were Actually Made for",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 74,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why This Detail Still Exists on Jeans",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 87,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "still",
+          "exists"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Jeans Explained Through One Small Detail",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "through"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Purpose of Tiny Pockets",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 86,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 74,
+        "patternPenalty": 0,
+        "adjustedTotal": 74,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Design Reason Behind Tiny Pockets",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 74,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Jeans: The Detail Everyone Overlooks",
+        "source": "legacy-generator",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 72,
+        "patternPenalty": 0,
+        "adjustedTotal": 72,
+        "unsupportedWords": [
+          "everyone",
+          "overlooks"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Jeans Hide a Piece of Design History",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 72,
+        "patternPenalty": 0,
+        "adjustedTotal": 72,
+        "unsupportedWords": [
+          "hide",
+          "history"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "How Tiny Pockets Became Part of Jeans",
+        "source": "legacy-generator",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 87,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 70
+        },
+        "total": 78,
+        "patternPenalty": 7,
+        "adjustedTotal": 71,
+        "unsupportedWords": [
+          "became"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Look Closely at Jeans",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 90,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 83,
+          "channelIdentity": 50,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 71,
+        "patternPenalty": 0,
+        "adjustedTotal": 71,
+        "unsupportedWords": [
+          "look",
+          "closely"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why Designers Kept Tiny Pockets",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 42,
+          "channelIdentity": 86,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 71,
+        "patternPenalty": 0,
+        "adjustedTotal": 71,
+        "unsupportedWords": [
+          "kept"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "What Problem Did Tiny Pockets Solve?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 42,
+          "channelIdentity": 62,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 70,
+        "patternPenalty": 0,
+        "adjustedTotal": 70,
+        "unsupportedWords": [
+          "problem",
+          "solve"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Ordinary Detail With an Older Purpose",
+        "source": "older-purpose",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 41,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 86,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 68,
+        "patternPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [
+          "older"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "This Detail Wasn't Added by Accident",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 67,
+        "patternPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [
+          "accident"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Original Job of Tiny Pockets",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 74,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 67,
+        "patternPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [
+          "job"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Tiny Pockets: Function or Leftover?",
+        "source": "legacy-generator",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 66,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 67,
+        "patternPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [
+          "function",
+          "leftover"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "This Tiny Pockets Wasn't Added by Accident",
+        "source": "not-accident",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 67,
+        "patternPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [
+          "accident"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Reason Tiny Pockets Look Like This",
+        "source": "legacy-generator",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 64,
+        "patternPenalty": 0,
+        "adjustedTotal": 64,
+        "unsupportedWords": [
+          "look",
+          "like"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why Jeans Still Use This Old Detail",
+        "source": "legacy-generator",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [
+          "still",
+          "use",
+          "old"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "cta": {
+    "type": "COMMENT_PROMPT",
+    "text": "Which everyday object are you still curious about?",
+    "delivery": "on-screen",
+    "placement": "after payoff"
+  },
+  "loop": {
+    "LoopPotentialScore": 73,
+    "apply": true,
+    "plan": {
+      "finalVisual": "return to the opening frame (same crop) for the last 0.8 s",
+      "finalLine": "ends on the consequence the opening showed, without repeating it verbatim"
+    }
+  },
+  "integrity": {
+    "score": 70,
+    "scenes": [
+      {
+        "scene": 1,
+        "text": "real jeans",
+        "sourceClass": "REAL_OBJECT",
+        "label": "n/a"
+      },
+      {
+        "scene": 2,
+        "text": "macro view of tiny pockets",
+        "sourceClass": "MACRO_DETAIL",
+        "label": "n/a"
+      },
+      {
+        "scene": 3,
+        "text": "labelled comparison",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 4,
+        "text": "source document or engineering diagram",
+        "sourceClass": "TECHNICAL_ILLUSTRATION",
+        "label": "labelled"
+      },
+      {
+        "scene": 5,
+        "text": "the detail in everyday use",
+        "sourceClass": "MACRO_DETAIL",
+        "label": "n/a"
+      }
+    ],
+    "classes": [
+      "REAL_OBJECT",
+      "MACRO_DETAIL",
+      "TECHNICAL_ILLUSTRATION"
+    ],
+    "hardFails": [],
+    "notes": []
+  },
+  "factual": {
+    "score": 100,
+    "hardFails": [],
+    "notes": [],
+    "claimClasses": {
+      "CONFIRMED_FACT": 16
+    },
+    "unsupportedNumbers": []
+  },
+  "pacing": {
+    "plannedSegments": [
+      1.319,
+      0.901,
+      1.348,
+      1.932,
+      1.784,
+      2.387,
+      1.646,
+      3.201,
+      3.225,
+      2.641,
+      3.478,
+      3.238
+    ],
+    "segments": 12,
+    "cutsInFirst3Seconds": 3,
+    "averageSeconds": 2.26,
+    "longestSeconds": 3.478,
+    "mechanical": false
+  },
+  "captions": {
+    "events": 25,
+    "maxWords": 4,
+    "maxLines": 2,
+    "tooFast": 0,
+    "safeZoneMarginV": 560,
+    "passes": true
+  },
+  "relatedLong": null,
+  "experiment": null,
+  "readiness": {
+    "ProductionReadinessScore": 87,
+    "decision": "PUBLISH",
+    "stage": "final",
+    "dimensions": {
+      "topicPotential": 81,
+      "hook": 77,
+      "title": 83,
+      "script": 90,
+      "firstSeconds": 81,
+      "factual": 100,
+      "visualRelevance": 70,
+      "sources": 85,
+      "metadata": 100,
+      "visualQuality": 82,
+      "audio": 85,
+      "captions": 90,
+      "duration": 100,
+      "pacing": 92,
+      "render": 100
+    },
+    "unmeasured": [],
+    "hardFails": [],
+    "notes": [],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "growthMeta": {
+    "hookType": "contradiction",
+    "hookScore": 77,
+    "selectedHook": "That tiny jeans pocket was not designed for loose change.",
+    "firstLine": "That tiny jeans pocket was not designed for loose change.",
+    "firstSecondsScore": 81,
+    "topicCluster": "EVERYDAY MYSTERIES",
+    "bucket": "A",
+    "viralScore": 69,
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 98,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 70,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 35,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 50,
+        "basis": "inventory-signal"
+      },
+      "surprise": {
+        "value": 90,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 84,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 84,
+        "basis": "derived",
+        "note": "4 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 45,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 85,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 91,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 100,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 3 inventory in cluster"
+      },
+      "source_confidence_risk": {
+        "value": -15,
+        "basis": "penalty",
+        "note": "85/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -40,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "storyStructure": "VISUAL_MYSTERY>CLEAR_PROMISE>FAST_EXPLANATION>SPECIFIC_PAYOFF",
+    "titlePattern": "why",
+    "selectedTitle": "Why Jeans Have a Tiny Pocket",
+    "titleScore": 83,
+    "titleCandidates": 24,
+    "hookCandidates": 18,
+    "topicScore": 81,
+    "popularityScore": null,
+    "ctaStyle": "COMMENT_PROMPT",
+    "durationBucket": "26-35s",
+    "openingVisual": "REAL_OBJECT",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 75,
+      "CuriosityScore": 98,
+      "HookPotentialScore": 77,
+      "VisualImpactScore": 84,
+      "EmotionalImpactScore": 45,
+      "StoryCompressionScore": 84,
+      "RewatchPotentialScore": 69,
+      "SharePotentialScore": 91,
+      "CommentPotentialScore": 63,
+      "SubscriberConversionPotential": 74,
+      "NoveltyScore": 78,
+      "AudienceFitScore": 75,
+      "SourceQualityScore": 85,
+      "ChannelFitScore": 100
+    },
+    "selectionMode": "EXPLOIT"
+  },
+  "summary": {
+    "Channel": "The Hidden Logic of Things",
+    "Content Type": "SHORT",
+    "Topic": "Why Jeans Have a Tiny Pocket",
+    "Topic Score": 81,
+    "Topic Bucket": "A",
+    "Selected Hook": "That tiny jeans pocket was not designed for loose change.",
+    "Hook Type": "contradiction",
+    "Hook Score": 77,
+    "First-3-sec Score": 81,
+    "Duration": "~27.1s (estimated)",
+    "Scenes": 12,
+    "Production Score": "87 (final) → PUBLISH",
+    "Experiment": "none",
+    "Related Long Video": "none yet"
+  }
+}

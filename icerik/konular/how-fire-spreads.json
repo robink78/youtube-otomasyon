@@ -1,0 +1,92 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "How Fire Spreads Faster Than You Can Run",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "The 30-second head start",
+  "soru": "Would you get out in time?",
+  "arama_yedek": "fire flames",
+  "aciklama": "A house fire can go from a spark to deadly in under a minute. Here is the terrifying science of how fire outruns you.\n\n#shorts #science #fire #safety #howitworks",
+  "etiketler": [
+    "fire",
+    "flames",
+    "science",
+    "safety",
+    "how it works"
+  ],
+  "sahneler": [
+    {
+      "metin": "A house fire can turn deadly in as little as two minutes.",
+      "arama": "room engulfed fire"
+    },
+    {
+      "metin": "The room heats until everything in it ignites at once.",
+      "arama": "intense fire"
+    },
+    {
+      "metin": "This is flashover, and it is not survivable.",
+      "arama": "house fire flames"
+    },
+    {
+      "metin": "It starts small, but hot gas rises and spreads.",
+      "arama": "fire smoke rising"
+    },
+    {
+      "metin": "That ceiling layer radiates heat down onto every surface.",
+      "arama": "small fire"
+    },
+    {
+      "metin": "The real killer is not the flames. It is the smoke.",
+      "arama": "thick smoke"
+    },
+    {
+      "metin": "A few breaths of toxic smoke can knock you unconscious.",
+      "arama": "smoke building"
+    },
+    {
+      "metin": "Working smoke alarms cut your risk of dying in half.",
+      "arama": "smoke detector"
+    }
+  ],
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "mekanizma",
+    "ad": "House Fires",
+    "nesne": "Fire",
+    "sonuc": "spread so fast",
+    "tetik": "a small flame",
+    "mekanizma": "flashover",
+    "sayi": "2 MINUTES",
+    "ders": "working smoke alarms roughly halve the risk of dying in a home fire",
+    "zincir": [
+      "SMALL FLAME",
+      "HOT GAS LAYER AT CEILING",
+      "RADIANT HEAT BUILDS",
+      "FLASHOVER: ROOM IGNITES",
+      "TOXIC SMOKE FILLS HOME"
+    ],
+    "yanilgi": "Most fire victims don't die from flames — they die from smoke and toxic gases, often before the fire reaches them.",
+    "tartisma": "Modern furnishings burn far faster than older materials. Should they be regulated harder?",
+    "basliklar": [
+      "Flashover: The Moment a Whole Room Ignites",
+      "Why House Fires Turn Deadly in Minutes",
+      "The Smoke Kills Before the Flames Do"
+    ],
+    "kapak": [
+      "FLASHOVER",
+      "2 MINUTES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Flashover",
+        "url": "https://en.wikipedia.org/wiki/Flashover"
+      },
+      {
+        "ad": "NFPA — Smoke alarms",
+        "url": "https://www.nfpa.org/education-and-research/home-fire-safety/smoke-alarms"
+      }
+    ]
+  }
+}

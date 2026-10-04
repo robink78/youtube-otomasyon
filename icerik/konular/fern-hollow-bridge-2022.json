@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Rusted Legs Under a Pittsburgh Bridge",
+  "kaynaklar": [
+    {
+      "ad": "fern-hollow-bridge-1.jpg",
+      "wikimedia": "Fern Hollow Bridge after collapse on 28 Jan 2022.jpg"
+    },
+    {
+      "ad": "fern-hollow-bridge-2.jpg",
+      "wikimedia": "NTSB investigation of the Fern Hollow Bridge collapse 05.jpg"
+    },
+    {
+      "ad": "fern-hollow-bridge-3.jpg",
+      "wikimedia": "NTSB investigators beneath the Fern Hollow Bridge.jpg"
+    },
+    {
+      "ad": "fern-hollow-bridge-4.jpg",
+      "wikimedia": "Bus video frames Page 2 (52051491612).jpg"
+    },
+    {
+      "ad": "fern-hollow-bridge-5.jpg",
+      "wikimedia": "Fig 1 Bus Surveillance Videos-Forward - Expansion Joint Highlighted (1) (52052542736).jpg"
+    },
+    {
+      "ad": "fern-hollow-bridge-6.jpg",
+      "wikimedia": "NTSB drone at the Fern Hollow Bridge collapse.jpg"
+    },
+    {
+      "ad": "fern-hollow-bridge-7.jpg",
+      "wikimedia": "NTSB investigation of the Fern Hollow Bridge collapse 01.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Early one morning, a Pittsburgh bridge collapsed into a ravine.",
+      "kaynak": "Footage/fern-hollow-bridge-1.jpg"
+    },
+    {
+      "metin": "A bus and cars fell with it, but nobody died.",
+      "kaynak": "Footage/fern-hollow-bridge-2.jpg"
+    },
+    {
+      "metin": "The bridge stood on slender steel legs.",
+      "kaynak": "Footage/fern-hollow-bridge-3.jpg"
+    },
+    {
+      "metin": "Clogged drains had soaked them with water and debris.",
+      "kaynak": "Footage/fern-hollow-bridge-4.jpg"
+    },
+    {
+      "metin": "Over years, the steel rusted through.",
+      "kaynak": "Footage/fern-hollow-bridge-5.jpg"
+    },
+    {
+      "metin": "Inspectors had written it down again and again.",
+      "kaynak": "Footage/fern-hollow-bridge-6.jpg"
+    },
+    {
+      "metin": "Finally one leg buckled, and the frame came down.",
+      "kaynak": "Footage/fern-hollow-bridge-7.jpg"
+    },
+    {
+      "metin": "Now findings like these must trigger a new load rating and repairs.",
+      "kaynak": "Footage/fern-hollow-bridge-1.jpg"
+    }
+  ],
+  "aciklama": "Fern Hollow Bridge collapsed hours before a presidential visit. The cause: section loss from corrosion in the steel legs of a rigid-frame bridge.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Fern Hollow Bridge",
+    "2022",
+    "bridge",
+    "engineering failure"
+  ],
+  "hook": "It was in the reports",
+  "soru": "Why wasn't it fixed?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Fern Hollow Bridge",
+    "kisa": "Fern Hollow Bridge",
+    "nesne": "Bridge",
+    "yil": 2022,
+    "sonuc": "collapsed hours before a presidential visit",
+    "tetik": "legs corroded through after years of clogged drainage",
+    "mekanizma": "section loss from corrosion in the steel legs of a rigid-frame bridge",
+    "sayi": "RUSTED LEGS",
+    "ders": "inspection findings now require load re-rating and follow-up when section loss is found",
+    "zincir": [
+      "DRAINS CLOGGED FOR YEARS",
+      "WATER AND DEBRIS ON LEGS",
+      "STEEL CORRODES THROUGH",
+      "INSPECTIONS NOT ACTED ON",
+      "LEG BUCKLES, BRIDGE FALLS"
+    ],
+    "zaman": [],
+    "yanilgi": "The damage wasn't hidden. Inspectors had recorded the corrosion and clogged drains for years.",
+    "tartisma": "The problem was written down in reports. Why does a known defect stay unfixed?",
+    "basliklar": [
+      "The Rusted Legs Under a Pittsburgh Bridge",
+      "Why the Fern Hollow Bridge Collapsed",
+      "The Corrosion Written Down for Years"
+    ],
+    "kapak": [
+      "RUSTED THROUGH",
+      "ON THE RECORD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Fern Hollow Bridge",
+        "url": "https://en.wikipedia.org/wiki/Fern_Hollow_Bridge"
+      },
+      {
+        "ad": "NTSB — HWY22MH003 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/Pages/HWY22MH003.aspx"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Fern_Hollow_Bridge",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Fern Hollow Bridge after collapse on 28 Jan 2022.jpg [Public domain]",
+      "NTSB investigation of the Fern Hollow Bridge collapse 05.jpg [Public domain]",
+      "NTSB investigators beneath the Fern Hollow Bridge.jpg [Public domain]",
+      "Bus video frames Page 2 (52051491612).jpg [Public domain]",
+      "Fig 1 Bus Surveillance Videos-Forward - Expansion Joint Highlighted (1) (52052542736).jpg [Public domain]",
+      "NTSB drone at the Fern Hollow Bridge collapse.jpg [Public domain]",
+      "NTSB investigation of the Fern Hollow Bridge collapse 01.jpg [Public domain]"
+    ]
+  }
+}

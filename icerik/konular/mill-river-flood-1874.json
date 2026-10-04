@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Cheaply Built Dam That Swept Away Four Villages",
+  "kaynaklar": [
+    {
+      "ad": "mill-river-flood-1.jpg",
+      "wikimedia": "Wistariahurst after the flood, Skinnerville, Williamsburg, Massachusetts.jpg"
+    },
+    {
+      "ad": "mill-river-flood-2.jpg",
+      "wikimedia": "Mill River Calamity memorial - Haydenville, MA - DSC07923.JPG"
+    },
+    {
+      "ad": "mill-river-flood-3.jpg",
+      "wikimedia": "Mill River Disaster memorial - Haydenville, MA - DSC07925.JPG"
+    },
+    {
+      "ad": "mill-river-flood-4.jpg",
+      "wikimedia": "Mill River Flood historic signs, Skinnerville MA.jpg"
+    },
+    {
+      "ad": "mill-river-flood-5.jpg",
+      "wikimedia": "Mill River Northampton 2023.jpg"
+    },
+    {
+      "ad": "mill-river-flood-6.jpg",
+      "wikimedia": "Mill River Northampton c 1910.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A dam above Williamsburg, Massachusetts, burst one morning.",
+      "kaynak": "Footage/mill-river-flood-1.jpg"
+    },
+    {
+      "metin": "Floodwater swept through four villages, and one hundred thirty nine people died.",
+      "kaynak": "Footage/mill-river-flood-2.jpg"
+    },
+    {
+      "metin": "The dam had been built about a decade earlier.",
+      "kaynak": "Footage/mill-river-flood-3.jpg"
+    },
+    {
+      "metin": "It powered local mills.",
+      "kaynak": "Footage/mill-river-flood-4.jpg"
+    },
+    {
+      "metin": "Its design had been changed to save money.",
+      "kaynak": "Footage/mill-river-flood-5.jpg"
+    },
+    {
+      "metin": "Seepage weakened the embankment until it slid away.",
+      "kaynak": "Footage/mill-river-flood-6.jpg"
+    },
+    {
+      "metin": "A dam keeper rode to warn people downstream.",
+      "kaynak": "Footage/mill-river-flood-1.jpg"
+    },
+    {
+      "metin": "Massachusetts then passed laws requiring dam inspections.",
+      "kaynak": "Footage/mill-river-flood-2.jpg"
+    }
+  ],
+  "aciklama": "Mill River failed and flooded four Massachusetts villages. The cause: failure of an earthen dam built with cost-cutting changes to its core wall.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Mill River",
+    "1874",
+    "dam",
+    "engineering failure"
+  ],
+  "hook": "It was built cheap",
+  "soru": "Who pays when a private dam fails?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Williamsburg Dam",
+    "kisa": "Mill River",
+    "nesne": "Dam",
+    "yil": 1874,
+    "sonuc": "failed and flooded four Massachusetts villages",
+    "tetik": "leakage through a poorly built embankment",
+    "mekanizma": "failure of an earthen dam built with cost-cutting changes to its core wall",
+    "sayi": "139 DIED",
+    "ders": "Massachusetts passed laws requiring inspection of dams",
+    "zincir": [
+      "DESIGN CHANGED TO SAVE MONEY",
+      "WEAK CORE WALL",
+      "SEEPAGE",
+      "EMBANKMENT SLIDES",
+      "FLOOD SWEEPS VALLEY"
+    ],
+    "zaman": [],
+    "yanilgi": "The dam wasn't old. It had been built cheaply only about a decade before.",
+    "tartisma": "Mill owners built it to power their factories. Who is responsible for a private dam's failure?",
+    "basliklar": [
+      "The Cheaply Built Dam That Swept Away Four Villages",
+      "Why the Mill River Dam Failed",
+      "The Cheap Dam That Flooded Four Villages"
+    ],
+    "kapak": [
+      "BUILT CHEAP",
+      "139 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mill River Flood of 1874",
+        "url": "https://en.wikipedia.org/wiki/Mill_River_Flood_of_1874"
+      },
+      {
+        "ad": "USGS — report (cited by Wikipedia)",
+        "url": "https://pubs.usgs.gov/wsp/0798/report.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15",
+    "wiki": "Mill_River_Flood_of_1874",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Wistariahurst after the flood, Skinnerville, Williamsburg, Massachusetts.jpg [Public domain]",
+      "Mill River Calamity memorial - Haydenville, MA - DSC07923.JPG [CC0]",
+      "Mill River Disaster memorial - Haydenville, MA - DSC07925.JPG [CC0]",
+      "Mill River Flood historic signs, Skinnerville MA.jpg [CC BY 4.0]",
+      "Mill River Northampton 2023.jpg [CC0]",
+      "Mill River Northampton c 1910.jpg [Public domain]"
+    ]
+  }
+}

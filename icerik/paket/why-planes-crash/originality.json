@@ -1,0 +1,63 @@
+{
+  "slug": "why-planes-crash",
+  "olusturuldu": "2026-09-24T16:22:42.012Z",
+  "originality": 83,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.39,
+      "kim": "how-volcanoes-erupt"
+    },
+    "hook": {
+      "deger": 0.26,
+      "kim": "hindenburg"
+    },
+    "structure": {
+      "deger": 0.89,
+      "kim": "hindenburg"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0.11,
+      "kim": "how-lightning-destroys"
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.52,
+      "kim": "why-concrete-crumbles"
+    },
+    "cta": {
+      "deger": 0.13,
+      "kim": "why-mines-collapse"
+    },
+    "description": {
+      "deger": 0.08,
+      "kim": "why-elevators-dont-fall"
+    },
+    "music": {
+      "deger": 0.69,
+      "kim": "halifax-explosion"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.39,
+    "HOOK_SIMILARITY": 0.26,
+    "STRUCTURE_SIMILARITY": 0.89,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0.11,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.52,
+    "CTA_SIMILARITY": 0.13,
+    "DESCRIPTION_SIMILARITY": 0.08,
+    "MUSIC_SIMILARITY": 0.69
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

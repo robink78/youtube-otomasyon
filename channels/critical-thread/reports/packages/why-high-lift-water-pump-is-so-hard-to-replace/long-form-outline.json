@@ -1,0 +1,132 @@
+{
+  "format": "long",
+  "targetMinutes": [
+    8,
+    18
+  ],
+  "coldOpen": "Why 150,000 people lost safe water in 2022.",
+  "centralDependencyQuestion": "How did failing pumps leave a state capital without safe water?",
+  "sections": [
+    {
+      "order": 1,
+      "section": "Cold open",
+      "evidence": "VERIFIED FACT"
+    },
+    {
+      "order": 2,
+      "section": "Central dependency question",
+      "evidence": "VERIFIED FACT"
+    },
+    {
+      "order": 3,
+      "section": "Technical explanation",
+      "evidence": "VERIFIED FACT"
+    },
+    {
+      "order": 4,
+      "section": "Supply chain and system map",
+      "evidence": "VERIFIED FACT"
+    },
+    {
+      "order": 5,
+      "section": "Bottleneck",
+      "evidence": "MODEL"
+    },
+    {
+      "order": 6,
+      "section": "Failure consequences",
+      "evidence": "MODEL"
+    },
+    {
+      "order": 7,
+      "section": "Resilience and alternatives",
+      "evidence": "MODEL"
+    },
+    {
+      "order": 8,
+      "section": "Conclusion and sources",
+      "evidence": "VERIFIED FACT"
+    }
+  ],
+  "sources": [
+    {
+      "name": "U.S. Environmental Protection Agency — Water",
+      "url": "https://www.epa.gov/water-research"
+    },
+    {
+      "name": "World Health Organization — Water",
+      "url": "https://www.who.int/health-topics/water-sanitation-and-hygiene-wash"
+    }
+  ],
+  "evidence": [
+    {
+      "layer": "VERIFIED FACT",
+      "claim": "A public health crisis in and around the city of Jackson, Mississippi, began in late August 2022 after the Pearl River flooded due to severe storms in the state.",
+      "source": "Wikipedia — Jackson, Mississippi water crisis"
+    },
+    {
+      "layer": "VERIFIED FACT",
+      "claim": "This resulted in approximately 150,000 residents of the city being left without access to safe drinking water.",
+      "source": "Wikipedia — Jackson, Mississippi water crisis"
+    },
+    {
+      "layer": "VERIFIED FACT",
+      "claim": "City leaders asked the state for $47 million for sewer repairs, but received only $3 million.",
+      "source": "Wikipedia — Jackson, Mississippi water crisis"
+    },
+    {
+      "layer": "VERIFIED FACT",
+      "claim": "In December 2021, the Environmental Protection Agency announced an allocation of $74.9 million from the Infrastructure Investment and Jobs Act to Mississippi for water infrastructure improvements.",
+      "source": "Wikipedia — Jackson, Mississippi water crisis"
+    }
+  ],
+  "visualPlan": [
+    "dry kitchen tap",
+    "treatment plant pumps",
+    "flooded Pearl River",
+    "bottled water distribution lines",
+    "funding gap chart",
+    "pressure drop in pipes diagram"
+  ],
+  "titleCandidates": [
+    "The Pumps That Left 150,000 People Without Water",
+    "Why high-lift water pump Is So Hard to Replace",
+    "The World Quietly Depends on high-lift water pump",
+    "Inside high-lift water pump: The Hidden Bottleneck",
+    "What Fails When high-lift water pump Stops",
+    "The Critical System Behind high-lift water pump",
+    "How high-lift water pump Holds Modern Infrastructure Together",
+    "high-lift water pump: The Replacement Problem",
+    "The Fragile Chain Built Around high-lift water pump",
+    "Why There Is No Quick Substitute for high-lift water pump",
+    "The Hidden Dependency Inside water",
+    "How high-lift water pump Became Critical Infrastructure",
+    "The Bottleneck Nobody Sees: high-lift water pump",
+    "What Modern Life Needs from high-lift water pump",
+    "The System That Cannot Pause: high-lift water pump",
+    "Where high-lift water pump Fits in the Global Supply Chain",
+    "Can We Replace high-lift water pump Fast Enough?",
+    "high-lift water pump: Failure, Recovery and Redundancy",
+    "The Capacity Constraint Hidden in high-lift water pump",
+    "Why high-lift water pump Matters More Than It Looks"
+  ],
+  "thumbnailConceptRequirement": "five distinct concepts in thumbnail.json",
+  "standaloneShorts": [
+    {
+      "angle": "hidden dependency",
+      "hook": "Why 150,000 people lost safe water in 2022."
+    },
+    {
+      "angle": "mechanism",
+      "hook": "How high-lift water pump actually works inside water."
+    },
+    {
+      "angle": "bottleneck",
+      "hook": "Why replacing high-lift water pump is not a simple procurement problem."
+    },
+    {
+      "angle": "resilience",
+      "hook": "The backup plan for high-lift water pump starts long before failure."
+    }
+  ]
+}

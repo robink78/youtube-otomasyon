@@ -1,0 +1,132 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Car Whose Fuel Tank Burst in Rear-End Crashes",
+  "kaynaklar": [
+    {
+      "ad": "ford-pinto-1.jpg",
+      "wikimedia": "'80 Ford Pinto Hatchback (Orange Julep).jpg"
+    },
+    {
+      "ad": "ford-pinto-2.jpg",
+      "wikimedia": "'75 Ford Pinto Hatchback (Orange Julep).jpg"
+    },
+    {
+      "ad": "ford-pinto-3.jpg",
+      "wikimedia": "'79 Ford Pinto Hatchback (MIAS).JPG"
+    },
+    {
+      "ad": "ford-pinto-4.jpg",
+      "wikimedia": "1976 Ford Pinto (9912822385).jpg"
+    },
+    {
+      "ad": "ford-pinto-5.jpg",
+      "wikimedia": "Ford Pinto runabout (1).jpg"
+    },
+    {
+      "ad": "ford-pinto-6.jpg",
+      "wikimedia": "Turbo Pinto (14430994634).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In some rear-end crashes, Ford Pinto cars burst into flames.",
+      "kaynak": "Footage/ford-pinto-1.jpg"
+    },
+    {
+      "metin": "Several drivers and passengers were killed.",
+      "kaynak": "Footage/ford-pinto-2.jpg"
+    },
+    {
+      "metin": "The fuel tank sat behind the rear axle.",
+      "kaynak": "Footage/ford-pinto-3.jpg"
+    },
+    {
+      "metin": "In a collision, it could be pushed into sharp parts.",
+      "kaynak": "Footage/ford-pinto-4.jpg"
+    },
+    {
+      "metin": "The tank or its filler neck could split and leak fuel.",
+      "kaynak": "Footage/ford-pinto-5.jpg"
+    },
+    {
+      "metin": "A spark then ignited it.",
+      "kaynak": "Footage/ford-pinto-6.jpg"
+    },
+    {
+      "metin": "The case became a landmark in product liability.",
+      "kaynak": "Footage/ford-pinto-1.jpg"
+    },
+    {
+      "metin": "Ford recalled the car to reinforce the fuel system.",
+      "kaynak": "Footage/ford-pinto-2.jpg"
+    }
+  ],
+  "aciklama": "Ford Pinto caught fire in some rear-end collisions. The cause: fuel tank puncture and filler-neck failure in rear impacts, releasing fuel.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Ford Pinto",
+    "1978",
+    "fuel tank",
+    "engineering failure"
+  ],
+  "hook": "The tank was behind the axle",
+  "soru": "Price safety in dollars?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "the Ford Pinto",
+    "kisa": "Ford Pinto",
+    "nesne": "Fuel tank",
+    "yil": 1978,
+    "sonuc": "caught fire in some rear-end collisions",
+    "tetik": "a fuel tank placed behind the rear axle",
+    "mekanizma": "fuel tank puncture and filler-neck failure in rear impacts, releasing fuel",
+    "sayi": "RECALLED",
+    "ders": "Ford recalled the car and US rear-impact fuel system standards were enforced",
+    "zincir": [
+      "TANK BEHIND REAR AXLE",
+      "REAR-END IMPACT",
+      "TANK PUNCTURED BY BOLTS",
+      "FUEL LEAKS",
+      "FIRE"
+    ],
+    "zaman": [],
+    "yanilgi": "The Pinto's safety record overall was debated. The specific rear-impact fuel leak problem is what drove the recall.",
+    "tartisma": "A cost-benefit memo became infamous. Should safety ever be priced in dollars per life?",
+    "basliklar": [
+      "The Car Whose Fuel Tank Burst in Rear-End Crashes",
+      "Why the Ford Pinto's Fuel Tank Became Infamous",
+      "The Rear-End Crash Problem"
+    ],
+    "kapak": [
+      "FUEL TANK",
+      "RECALLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Ford Pinto",
+        "url": "https://en.wikipedia.org/wiki/Ford_Pinto"
+      },
+      {
+        "ad": "Government source — PINTO (cited by Wikipedia)",
+        "url": "https://www.nhtsa.gov/vehicle/1975/FORD/PINTO"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "Ford_Pinto",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "'80 Ford Pinto Hatchback (Orange Julep).jpg [Public domain]",
+      "'75 Ford Pinto Hatchback (Orange Julep).jpg [Public domain]",
+      "'79 Ford Pinto Hatchback (MIAS).JPG [Public domain]",
+      "1976 Ford Pinto (9912822385).jpg [CC BY 2.0]",
+      "Ford Pinto runabout (1).jpg [CC BY 2.0]",
+      "Turbo Pinto (14430994634).jpg [CC BY 2.0]"
+    ]
+  }
+}

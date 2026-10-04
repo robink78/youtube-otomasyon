@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Bridge That Was Cracking Before It Fell",
+  "kaynaklar": [
+    {
+      "ad": "fiu-pedestrian-bridge-1.jpg",
+      "wikimedia": "FIU Bridge NTSB inspection.jpg"
+    },
+    {
+      "ad": "fiu-pedestrian-bridge-2.jpg",
+      "wikimedia": "Elevation of pedestrian bridge used at the 3-16 press conference (40210711664).jpg"
+    },
+    {
+      "ad": "fiu-pedestrian-bridge-3.png",
+      "wikimedia": "FIU bridge collapse suspect tensioning rod 1.png"
+    },
+    {
+      "ad": "fiu-pedestrian-bridge-4.png",
+      "wikimedia": "FIU bridge collapse suspect tensioning rod 2.png"
+    },
+    {
+      "ad": "fiu-pedestrian-bridge-5.jpg",
+      "wikimedia": "FIU pedestrain bridge collapse NTSB investigation.jpg"
+    },
+    {
+      "ad": "fiu-pedestrian-bridge-6.jpg",
+      "wikimedia": "Img 0115-1 40847502441 o.jpg"
+    },
+    {
+      "ad": "fiu-pedestrian-bridge-7.jpg",
+      "wikimedia": "Img 0134 40847494611 o.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A new pedestrian bridge in Miami collapsed onto busy traffic.",
+      "kaynak": "Footage/fiu-pedestrian-bridge-1.jpg"
+    },
+    {
+      "metin": "Cars were crushed beneath it, and six people were killed.",
+      "kaynak": "Footage/fiu-pedestrian-bridge-2.jpg"
+    },
+    {
+      "metin": "Days earlier, cracks had appeared at one end.",
+      "kaynak": "Footage/fiu-pedestrian-bridge-3.png"
+    },
+    {
+      "metin": "They were reported, then judged not to be a safety issue.",
+      "kaynak": "Footage/fiu-pedestrian-bridge-4.png"
+    },
+    {
+      "metin": "The connection there had been designed too weak.",
+      "kaynak": "Footage/fiu-pedestrian-bridge-5.jpg"
+    },
+    {
+      "metin": "Workers re-tensioned a rod in that spot, above open lanes.",
+      "kaynak": "Footage/fiu-pedestrian-bridge-6.jpg"
+    },
+    {
+      "metin": "The cracked node broke, and the span fell.",
+      "kaynak": "Footage/fiu-pedestrian-bridge-7.jpg"
+    },
+    {
+      "metin": "Now cracks like these are supposed to stop work and close the road.",
+      "kaynak": "Footage/fiu-pedestrian-bridge-1.jpg"
+    }
+  ],
+  "aciklama": "FIU Bridge collapsed onto traffic days after being lifted into place. The cause: design error at a diagonal-to-deck connection, overstressed during re-tensioning.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "FIU Bridge",
+    "2018",
+    "bridge",
+    "engineering failure"
+  ],
+  "hook": "It was already cracking",
+  "soru": "Would you close the road?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the FIU pedestrian bridge",
+    "kisa": "FIU Bridge",
+    "nesne": "Bridge",
+    "yil": 2018,
+    "sonuc": "collapsed onto traffic days after being lifted into place",
+    "tetik": "cracks at one truss node while workers re-tensioned a rod",
+    "mekanizma": "design error at a diagonal-to-deck connection, overstressed during re-tensioning",
+    "sayi": "SIX DAYS",
+    "ders": "engineers must act on structural cracks before letting work continue above traffic",
+    "zincir": [
+      "CONNECTION UNDER-DESIGNED",
+      "CRACKS APPEAR AT ONE NODE",
+      "CRACKS JUDGED NOT A SAFETY ISSUE",
+      "ROD RE-TENSIONED ABOVE TRAFFIC",
+      "NODE FAILS, SPAN FALLS"
+    ],
+    "zaman": [],
+    "yanilgi": "The cracks were seen and reported before the collapse. They were judged not to be a safety concern.",
+    "tartisma": "The road below stayed open while work continued. When should cracks close a road?",
+    "basliklar": [
+      "The Bridge That Was Cracking Before It Fell",
+      "Why the FIU Pedestrian Bridge Collapsed",
+      "The Cracks They Saw and Kept Working"
+    ],
+    "kapak": [
+      "IT WAS CRACKING",
+      "ROAD STAYED OPEN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Florida International University pedestrian bridge collapse",
+        "url": "https://en.wikipedia.org/wiki/Florida_International_University_pedestrian_bridge_collapse"
+      },
+      {
+        "ad": "NTSB — HWY18MH009 investigative update (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/HWY18MH009-investigative-update.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Florida_International_University_pedestrian_bridge_collapse",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "FIU Bridge NTSB inspection.jpg [Public domain]",
+      "Elevation of pedestrian bridge used at the 3-16 press conference (40210711664).jpg [Public domain]",
+      "FIU bridge collapse suspect tensioning rod 1.png [Public domain]",
+      "FIU bridge collapse suspect tensioning rod 2.png [Public domain]",
+      "FIU pedestrain bridge collapse NTSB investigation.jpg [Public domain]",
+      "Img 0115-1 40847502441 o.jpg [Public domain]",
+      "Img 0134 40847494611 o.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_comment": "The Hidden Logic of Things overrides. The shared engine, analytics, fatigue, experiments and memory remain channel-scoped.",
+  "identity": "smart everyday-design and hidden-engineering explainer",
+  "candidatePool": { "minimum": 1, "evidenceGated": true },
+  "selection": { "exploreBuckets": ["A", "B"] },
+  "lexicon": ["why", "design", "detail", "ordinary", "everyday", "object", "purpose", "origin", "shape", "material", "standard", "mechanism", "hidden", "small", "tiny", "inside", "works", "made", "pattern", "symbol"],
+  "topic": {
+    "weights": {
+      "TopicDemandScore": 1.1,
+      "CuriosityScore": 1.3,
+      "HookPotentialScore": 1.2,
+      "VisualImpactScore": 1.2,
+      "EmotionalImpactScore": 0.5,
+      "StoryCompressionScore": 1.1,
+      "RewatchPotentialScore": 0.7,
+      "SharePotentialScore": 0.9,
+      "CommentPotentialScore": 0.6,
+      "SubscriberConversionPotential": 1,
+      "NoveltyScore": 1,
+      "AudienceFitScore": 1.2,
+      "SourceQualityScore": 1.4,
+      "ChannelFitScore": 1.4
+    },
+    "priorityClusters": ["EVERYDAY MYSTERIES", "HIDDEN ENGINEERING", "STRANGE ORIGINS", "DESIGN DECISIONS", "ORDINARY SYSTEMS"]
+  },
+  "hooks": { "preferredFamilies": ["hidden_cause", "misconception_reversal", "visual_first_reveal", "mechanism_reveal", "question_gap", "before_after_consequence"] },
+  "story": {
+    "shorts": ["VISUAL_MYSTERY", "CLEAR_PROMISE", "FAST_EXPLANATION", "SPECIFIC_PAYOFF"],
+    "longform": ["COLD_OPEN", "THE_QUESTION", "ORIGIN_CONTEXT", "THE_PROBLEM", "THE_EXPLANATION", "SURPRISING_DETAIL", "REAL_WORLD_CONSEQUENCE", "FINAL_PAYOFF", "NEXT_CURIOSITY_BRIDGE"]
+  },
+  "engagement": {
+    "ctas": ["What ordinary detail should we investigate next?", "Which everyday object are you still curious about?"],
+    "longCtas": ["That detail is only one part of the design. The full explanation is in the linked episode."],
+    "commentPrompt": "What ordinary detail should we investigate next?"
+  },
+  "visualIntegrity": {
+    "classes": ["REAL_OBJECT", "MACRO_DETAIL", "MANUFACTURER_DIAGRAM", "STANDARD_DIAGRAM", "MUSEUM_ARCHIVE", "TECHNICAL_ILLUSTRATION", "LICENSED_STOCK"],
+    "requireLabel": ["TECHNICAL_ILLUSTRATION"],
+    "forbidden": ["generic futuristic stock", "unrelated lifestyle footage", "fake historical image", "misleading scale"]
+  },
+  "firstSeconds": { "soundCue": "one small tactile click synchronized to the highlighted detail" },
+  "longform": {
+    "targetMinutes": [8, 15],
+    "potentialWeights": { "EvergreenPotential": 1.2, "SearchDemand": 1, "ShortsEvidence": 1.2, "SeriesPotential": 0.7, "ViewerJourneyPotential": 0.8 },
+    "derivedShorts": [3, 5],
+    "shortCta": "That detail is only one part of the design. The full explanation is in the linked episode."
+  },
+  "captions": { "font": "Liberation Sans", "uppercase": false, "outline": 6, "spacing": 0, "highlightColor": "&H45ADF2&", "maxCharsPerLine": 20 }
+}

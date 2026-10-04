@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Rudder Inputs That Snapped Off a Tail",
+  "kaynaklar": [
+    {
+      "ad": "american-587-1.png",
+      "wikimedia": "American Airlines Flight 587 vertical stabilizer.png"
+    },
+    {
+      "ad": "american-587-2.jpg",
+      "wikimedia": "Belleh loz 137-3713 IMG.jpg"
+    },
+    {
+      "ad": "american-587-3.jpg",
+      "wikimedia": "American Airlines 587 before takeoff.jpg"
+    },
+    {
+      "ad": "american-587-4.jpg",
+      "wikimedia": "American Airlines Flight 587 accident site.jpg"
+    },
+    {
+      "ad": "american-587-5.jpg",
+      "wikimedia": "Belleh loz 137-3705 IMG.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Moments after take-off from New York, an Airbus lost its tail fin.",
+      "kaynak": "Footage/american-587-1.png"
+    },
+    {
+      "metin": "It crashed in Queens, killing everyone aboard and five on the ground.",
+      "kaynak": "Footage/american-587-2.jpg"
+    },
+    {
+      "metin": "It had flown into another jet's wake turbulence.",
+      "kaynak": "Footage/american-587-3.jpg"
+    },
+    {
+      "metin": "The first officer pushed the rudder hard, left then right.",
+      "kaynak": "Footage/american-587-4.jpg"
+    },
+    {
+      "metin": "Each swing built up huge sideways loads on the tail.",
+      "kaynak": "Footage/american-587-5.jpg"
+    },
+    {
+      "metin": "That exceeded the fin's design strength.",
+      "kaynak": "Footage/american-587-1.png"
+    },
+    {
+      "metin": "The fin snapped off, and the jet went out of control.",
+      "kaynak": "Footage/american-587-2.jpg"
+    },
+    {
+      "metin": "Pilot training changed to warn against aggressive rudder reversals.",
+      "kaynak": "Footage/american-587-3.jpg"
+    }
+  ],
+  "aciklama": "American 587 lost its tail fin shortly after take-off. The cause: aerodynamic loads from alternating rudder inputs exceeding the vertical stabilizer's strength.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "American 587",
+    "2001",
+    "vertical stabilizer",
+    "engineering failure"
+  ],
+  "hook": "The tail snapped off",
+  "soru": "Was it the pilot or the training?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "American Airlines Flight 587",
+    "kisa": "American 587",
+    "nesne": "Vertical stabilizer",
+    "yil": 2001,
+    "sonuc": "lost its tail fin shortly after take-off",
+    "tetik": "repeated full rudder inputs in wake turbulence",
+    "mekanizma": "aerodynamic loads from alternating rudder inputs exceeding the vertical stabilizer's strength",
+    "sayi": "TAIL SNAPPED",
+    "ders": "airline pilot training changed to warn against aggressive rudder reversals",
+    "zincir": [
+      "WAKE TURBULENCE ENCOUNTER",
+      "PILOT PUSHES RUDDER HARD",
+      "RUDDER REVERSED AGAIN AND AGAIN",
+      "LOADS EXCEED FIN LIMIT",
+      "FIN BREAKS OFF"
+    ],
+    "zaman": [],
+    "yanilgi": "The composite tail wasn't defective. It broke under loads beyond what it was designed to carry.",
+    "tartisma": "The pilot's training had encouraged rudder use in upsets. When training is wrong, who is at fault?",
+    "basliklar": [
+      "The Rudder Inputs That Snapped Off a Tail",
+      "Why American Airlines Flight 587 Lost Its Tail",
+      "The Rudder Pedal That Broke an Airliner"
+    ],
+    "kapak": [
+      "TAIL SNAPPED",
+      "RUDDER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — American Airlines Flight 587",
+        "url": "https://en.wikipedia.org/wiki/American_Airlines_Flight_587"
+      },
+      {
+        "ad": "NTSB — AAR0404 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0404.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-03",
+    "wiki": "American_Airlines_Flight_587",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "American Airlines Flight 587 vertical stabilizer.png [Public domain]",
+      "Belleh loz 137-3713 IMG.jpg [CC BY 4.0]",
+      "American Airlines 587 before takeoff.jpg [Public domain]",
+      "American Airlines Flight 587 accident site.jpg [Public domain]",
+      "Belleh loz 137-3705 IMG.jpg [CC BY 4.0]"
+    ]
+  }
+}

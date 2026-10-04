@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Hot Exhaust Cooked a Rocket on a Carrier Deck",
+  "kaynaklar": [
+    {
+      "ad": "uss-enterprise-fire-1.jpg",
+      "wikimedia": "USS Enterprise (CVN-65) burning, stern view.jpg"
+    },
+    {
+      "ad": "uss-enterprise-fire-2.jpg",
+      "wikimedia": "USS Rogers (DD-876) alongside burning USS Enterprise (CVN-65).jpg"
+    },
+    {
+      "ad": "uss-enterprise-fire-3.jpg",
+      "wikimedia": "USS Enterprise (CVAN-65) 1969 fire crew fire fighting.jpeg"
+    },
+    {
+      "ad": "uss-enterprise-fire-4.jpg",
+      "wikimedia": "USS Enterprise (CVAN-65) 1969 fire ending.jpeg"
+    },
+    {
+      "ad": "uss-enterprise-fire-5.jpg",
+      "wikimedia": "USS Enterprise (CVAN-65) 1969 fire flight deck aft.jpeg"
+    },
+    {
+      "ad": "uss-enterprise-fire-6.jpg",
+      "wikimedia": "USS Enterprise (CVAN-65) 1969 fire flight deck port.jpeg"
+    },
+    {
+      "ad": "uss-enterprise-fire-7.jpg",
+      "wikimedia": "USS Enterprise (CVAN-65) burning off Hawaii 1969.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "On the carrier Enterprise off Hawaii, a rocket exploded under a jet's wing.",
+      "kaynak": "Footage/uss-enterprise-fire-1.jpg"
+    },
+    {
+      "metin": "Fire and explosions ripped across the deck, and twenty eight sailors died.",
+      "kaynak": "Footage/uss-enterprise-fire-2.jpg"
+    },
+    {
+      "metin": "A tractor unit used to start aircraft was parked nearby.",
+      "kaynak": "Footage/uss-enterprise-fire-3.jpg"
+    },
+    {
+      "metin": "Its exhaust heated a Zuni rocket.",
+      "kaynak": "Footage/uss-enterprise-fire-4.jpg"
+    },
+    {
+      "metin": "The warhead exploded, igniting jet fuel.",
+      "kaynak": "Footage/uss-enterprise-fire-5.jpg"
+    },
+    {
+      "metin": "More rockets exploded, blowing holes in the deck.",
+      "kaynak": "Footage/uss-enterprise-fire-6.jpg"
+    },
+    {
+      "metin": "Burning fuel poured into the levels below.",
+      "kaynak": "Footage/uss-enterprise-fire-7.jpg"
+    },
+    {
+      "metin": "Training after an earlier carrier fire helped limit the damage.",
+      "kaynak": "Footage/uss-enterprise-fire-1.jpg"
+    }
+  ],
+  "aciklama": "USS Enterprise exploded and burned off Hawaii. The cause: a Zuni rocket cooking off, igniting fuel and setting off further munitions.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "USS Enterprise",
+    "1969",
+    "zuni rocket",
+    "engineering failure"
+  ],
+  "hook": "Exhaust set off a rocket",
+  "soru": "What matters in the first minute?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the USS Enterprise fire",
+    "kisa": "USS Enterprise",
+    "nesne": "Zuni rocket",
+    "yil": 1969,
+    "sonuc": "exploded and burned off Hawaii",
+    "tetik": "a starter unit's exhaust heating a rocket warhead",
+    "mekanizma": "a Zuni rocket cooking off, igniting fuel and setting off further munitions",
+    "sayi": "28 DIED",
+    "ders": "training introduced after the Forrestal fire helped limit the damage",
+    "zincir": [
+      "STARTER UNIT PARKED BEHIND JET",
+      "EXHAUST HEATS ROCKET",
+      "WARHEAD EXPLODES",
+      "FUEL IGNITES",
+      "MORE MUNITIONS BLOW"
+    ],
+    "zaman": [],
+    "yanilgi": "Nothing was fired. Exhaust from ground equipment heated the rocket until it exploded.",
+    "tartisma": "The captain kept turning to blow smoke away. What decisions matter in the first minute?",
+    "basliklar": [
+      "Hot Exhaust Cooked a Rocket on a Carrier Deck",
+      "Why the USS Enterprise Caught Fire in 1969",
+      "The Rocket Cooked by Exhaust"
+    ],
+    "kapak": [
+      "COOKED OFF",
+      "28 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1969 USS Enterprise fire",
+        "url": "https://en.wikipedia.org/wiki/1969_USS_Enterprise_fire"
+      },
+      {
+        "ad": "Government source — BASIC FIRE ON USS ENTERPRISE 14 JAN 1969 (cited by Wikipedia)",
+        "url": "http://www.jag.navy.mil/library/investigations/BASIC%20FIRE%20ON%20USS%20ENTERPRISE%2014%20JAN%201969.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "1969_USS_Enterprise_fire",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "USS Enterprise (CVN-65) burning, stern view.jpg [Public domain]",
+      "USS Rogers (DD-876) alongside burning USS Enterprise (CVN-65).jpg [Public domain]",
+      "USS Enterprise (CVAN-65) 1969 fire crew fire fighting.jpeg [Public domain]",
+      "USS Enterprise (CVAN-65) 1969 fire ending.jpeg [Public domain]",
+      "USS Enterprise (CVAN-65) 1969 fire flight deck aft.jpeg [Public domain]",
+      "USS Enterprise (CVAN-65) 1969 fire flight deck port.jpeg [Public domain]",
+      "USS Enterprise (CVAN-65) burning off Hawaii 1969.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": -5,
+  "baslik": "How Tsunamis Grow Into 100-Foot Walls",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "The wave you cannot outrun",
+  "soru": "Beach or high ground?",
+  "arama_yedek": "ocean wave tsunami",
+  "aciklama": "A tsunami crosses an ocean at the speed of a jet and rises into a wall of water near shore. Here is the science.\n\n#shorts #science #tsunami #ocean #nature",
+  "etiketler": [
+    "tsunami",
+    "ocean wave",
+    "science",
+    "nature",
+    "earthquake"
+  ],
+  "sahneler": [
+    {
+      "metin": "A tsunami is a wall of ocean moving faster than you can run.",
+      "arama": "huge wave crashing"
+    },
+    {
+      "metin": "It can race across the sea as fast as a jet.",
+      "arama": "open ocean"
+    },
+    {
+      "metin": "Yet in deep water, a boat wouldn't even feel it pass.",
+      "arama": "boat ocean"
+    },
+    {
+      "metin": "So what gives it that power?",
+      "arama": "ocean surface"
+    },
+    {
+      "metin": "An earthquake jerks the seafloor up, shoving huge volumes of water.",
+      "arama": "big ocean waves"
+    },
+    {
+      "metin": "Near shore it slows and piles up into a towering wall.",
+      "arama": "coastline waves"
+    },
+    {
+      "metin": "The sea often pulls back first, exposing the seabed.",
+      "arama": "empty beach"
+    },
+    {
+      "metin": "If the sea retreats, run for high ground.",
+      "arama": "tsunami wave shore"
+    }
+  ],
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "mekanizma",
+    "ad": "Tsunamis",
+    "nesne": "Wave",
+    "sonuc": "grow into walls of water",
+    "tetik": "an undersea earthquake",
+    "mekanizma": "seafloor displacement and wave shoaling",
+    "sayi": "JET SPEED",
+    "ders": "if the sea suddenly retreats, go to high ground",
+    "zincir": [
+      "SEAFLOOR THRUSTS UP",
+      "WATER COLUMN LIFTED",
+      "WAVE RACES AT JET SPEED",
+      "SLOWS IN SHALLOWS",
+      "ENERGY PILES UP"
+    ],
+    "yanilgi": "A tsunami isn't a giant curling surf wave — it behaves more like a fast-rising tide that doesn't stop.",
+    "tartisma": "In 2011 some Japanese sea walls were overtopped. Build higher walls, or move people to high ground?",
+    "basliklar": [
+      "The Wave You Can't Feel at Sea",
+      "Why the Sea Pulls Back Before a Tsunami",
+      "How a Low Wave Becomes a Wall of Water"
+    ],
+    "kapak": [
+      "RUN UPHILL",
+      "JET SPEED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Tsunami",
+        "url": "https://en.wikipedia.org/wiki/Tsunami"
+      }
+    ]
+  }
+}

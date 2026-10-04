@@ -1,0 +1,164 @@
+name: Deploy independent production watchdog
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      WRANGLER_VERSION: '4.45.3'
+      WORKER_NAME: youtube-production-watchdog
+      WATCHDOG_CRON: '35 16 * * *'
+      PRODUCTION_DEADLINE_UTC: ${{ vars.PRODUCTION_DEADLINE_UTC || '16:30' }}
+    defaults:
+      run:
+        working-directory: ops/production-watchdog-worker
+    steps:
+      - name: Verify required deployment secrets exist
+        working-directory: .
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          WATCHDOG_GITHUB_TOKEN: ${{ secrets.WATCHDOG_GITHUB_TOKEN }}
+        run: |
+          missing=0
+          if [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "::error title=Missing deployment secret::CLOUDFLARE_ACCOUNT_ID is required (Cloudflare account ID)."
+            missing=1
+          fi
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "::error title=Missing deployment secret::CLOUDFLARE_API_TOKEN is required (Workers Scripts: Edit)."
+            missing=1
+          fi
+          if [ -z "$WATCHDOG_GITHUB_TOKEN" ]; then
+            echo "::error title=Missing deployment secret::WATCHDOG_GITHUB_TOKEN is required (fine-grained token for this repository with Contents: Read and write)."
+            missing=1
+          fi
+          test "$missing" = "0" || exit 2
+
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verify cron is five minutes after the SLA deadline
+        run: |
+          node - <<'NODE'
+          const deadline = process.env.PRODUCTION_DEADLINE_UTC;
+          const cron = process.env.WATCHDOG_CRON;
+          if (!/^(?:[01]\d|2[0-3]):[0-5]\d$/.test(deadline)) throw new Error(`Invalid PRODUCTION_DEADLINE_UTC: ${deadline}`);
+          const parts = cron.trim().split(/\s+/);
+          if (parts.length !== 5 || !/^\d+$/.test(parts[0]) || !/^\d+$/.test(parts[1])) throw new Error(`Unsupported WATCHDOG_CRON: ${cron}`);
+          const [hour, minute] = deadline.split(":").map(Number);
+          const delay = Number(parts[1]) * 60 + Number(parts[0]) - (hour * 60 + minute);
+          if (delay !== 5) throw new Error(`WATCHDOG_CRON ${cron} must be exactly five minutes after deadline ${deadline} UTC; got ${delay} minutes`);
+          console.log(`SLA timing verified: ${deadline} UTC deadline -> ${cron} (five-minute delay).`);
+          NODE
+
+      - name: Store GitHub dispatch token in the Worker
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          WATCHDOG_GITHUB_TOKEN: ${{ secrets.WATCHDOG_GITHUB_TOKEN }}
+        run: printf '%s' "$WATCHDOG_GITHUB_TOKEN" | npx --yes "wrangler@$WRANGLER_VERSION" secret put WATCHDOG_GITHUB_TOKEN
+
+      - name: Deploy Worker and independent cron trigger
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          set -o pipefail
+          mkdir -p "$RUNNER_TEMP/watchdog-deployment-evidence"
+          WATCHDOG_VERSION="github-actions-${GITHUB_RUN_NUMBER}.${GITHUB_RUN_ATTEMPT}"
+          npx --yes "wrangler@$WRANGLER_VERSION" deploy \
+            --var "GITHUB_REPOSITORY:$GITHUB_REPOSITORY" \
+            --var "PRODUCTION_DEADLINE_UTC:$PRODUCTION_DEADLINE_UTC" \
+            --var "WATCHDOG_CRON:$WATCHDOG_CRON" \
+            --var "WATCHDOG_VERSION:$WATCHDOG_VERSION" \
+            --var "WATCHDOG_COMMIT:$GITHUB_SHA" \
+            | tee "$RUNNER_TEMP/watchdog-deployment-evidence/deploy.log"
+
+      - name: Verify deployed version, cron, secret and health endpoint
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          npx --yes "wrangler@$WRANGLER_VERSION" deployments list --json > "$RUNNER_TEMP/watchdog-deployment-evidence/deployments.json"
+          jq -e 'type == "array" and length > 0' "$RUNNER_TEMP/watchdog-deployment-evidence/deployments.json" >/dev/null
+
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/scripts/$WORKER_NAME/schedules" \
+            > "$RUNNER_TEMP/watchdog-deployment-evidence/schedules.json"
+          jq -e --arg cron "$WATCHDOG_CRON" '.success == true and any(.result.schedules[]; .cron == $cron)' \
+            "$RUNNER_TEMP/watchdog-deployment-evidence/schedules.json" >/dev/null || {
+              echo "::error::Cloudflare did not report the expected cron trigger: $WATCHDOG_CRON"
+              exit 3
+            }
+
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/scripts/$WORKER_NAME/subdomain" \
+            > "$RUNNER_TEMP/watchdog-deployment-evidence/script-subdomain.json"
+          jq -e '.success == true and .result.enabled == true' \
+            "$RUNNER_TEMP/watchdog-deployment-evidence/script-subdomain.json" >/dev/null || {
+              echo "::error::Worker is not enabled on its workers.dev subdomain."
+              exit 4
+            }
+
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/subdomain" \
+            > "$RUNNER_TEMP/watchdog-deployment-evidence/subdomain.json"
+          SUBDOMAIN=$(jq -er 'select(.success == true) | .result.subdomain' "$RUNNER_TEMP/watchdog-deployment-evidence/subdomain.json")
+          HEALTH_URL="https://$WORKER_NAME.$SUBDOMAIN.workers.dev/health"
+
+          for attempt in 1 2 3 4 5; do
+            if curl --fail --silent --show-error "$HEALTH_URL" > "$RUNNER_TEMP/watchdog-deployment-evidence/health.json"; then break; fi
+            if [ "$attempt" = "5" ]; then echo "::error::Worker health endpoint did not become reachable: $HEALTH_URL"; exit 5; fi
+            sleep $((attempt * 2))
+          done
+          jq -e \
+            --arg repository "$GITHUB_REPOSITORY" \
+            --arg cron "$WATCHDOG_CRON" \
+            --arg deadline "$PRODUCTION_DEADLINE_UTC" \
+            --arg commit "$GITHUB_SHA" \
+            '.ok == true and .tokenConfigured == true and .repository == $repository and .cron == $cron and .deadlineUtc == $deadline and .commit == $commit' \
+            "$RUNNER_TEMP/watchdog-deployment-evidence/health.json" >/dev/null || {
+              echo "::error::Worker /health metadata does not match this deployment."
+              jq '{ok,tokenConfigured,repository,cron,deadlineUtc,version,commit}' "$RUNNER_TEMP/watchdog-deployment-evidence/health.json"
+              exit 6
+            }
+
+          jq -n \
+            --arg deployedAt "$(date -u +%FT%TZ)" \
+            --arg healthUrl "$HEALTH_URL" \
+            --arg repository "$GITHUB_REPOSITORY" \
+            --arg cron "$WATCHDOG_CRON" \
+            --arg deadline "$PRODUCTION_DEADLINE_UTC" \
+            --arg commit "$GITHUB_SHA" \
+            '{ok:true,deployedAt:$deployedAt,healthUrl:$healthUrl,repository:$repository,cron:$cron,deadlineUtc:$deadline,commit:$commit}' \
+            > "$RUNNER_TEMP/watchdog-deployment-evidence/summary.json"
+          {
+            echo "## Independent watchdog deployment verified"
+            echo ""
+            echo "- Health: $HEALTH_URL"
+            echo "- Repository: $GITHUB_REPOSITORY"
+            echo "- SLA deadline: $PRODUCTION_DEADLINE_UTC UTC"
+            echo "- Cron: $WATCHDOG_CRON"
+            echo "- Commit: $GITHUB_SHA"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload deployment evidence
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: watchdog-deployment-evidence
+          path: ${{ runner.temp }}/watchdog-deployment-evidence
+          if-no-files-found: ignore
+          retention-days: 90

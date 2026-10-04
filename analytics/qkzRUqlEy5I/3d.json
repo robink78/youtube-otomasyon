@@ -1,0 +1,639 @@
+{
+  "videoId": "qkzRUqlEy5I",
+  "baslik": "Why the Tacoma Narrows Bridge Tore Itself Apart",
+  "yayin": "2026-09-22",
+  "yasGun": 4,
+  "sureSn": 33,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 183,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 5,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 2,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": 33,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewDuration": {
+      "deger": 21,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewPercentage": {
+      "deger": 65.2,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "subscribersGained": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "Analytics API (net)"
+    },
+    "shares": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "first30sRetention": {
+      "deger": 0.3953,
+      "durum": "ok",
+      "kaynak": "Analytics API (retention at 91% of video)"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "derived"
+    },
+    "likeRate": {
+      "deger": 2.7,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 1.09,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": [
+    {
+      "kaynak": "SHORTS",
+      "ad": "Shorts feed",
+      "views": 94,
+      "oran": 0.5402298850574713
+    },
+    {
+      "kaynak": "YT_SEARCH",
+      "ad": "Search",
+      "views": 74,
+      "oran": 0.42528735632183906
+    },
+    {
+      "kaynak": "YT_CHANNEL",
+      "ad": "Channel page",
+      "views": 3,
+      "oran": 0.017241379310344827
+    },
+    {
+      "kaynak": "NO_LINK_OTHER",
+      "ad": "Direct/unknown",
+      "views": 1,
+      "oran": 0.005747126436781609
+    },
+    {
+      "kaynak": "YT_OTHER_PAGE",
+      "ad": "Browse/other YouTube",
+      "views": 1,
+      "oran": 0.005747126436781609
+    },
+    {
+      "kaynak": "EXT_URL",
+      "ad": "External",
+      "views": 1,
+      "oran": 0.005747126436781609
+    }
+  ],
+  "tutma": [
+    {
+      "oran": 0.01,
+      "izleme": 1.1395,
+      "goreceli": 0.62955
+    },
+    {
+      "oran": 0.02,
+      "izleme": 1.1279000000000001,
+      "goreceli": 0.61805
+    },
+    {
+      "oran": 0.03,
+      "izleme": 1.1279000000000001,
+      "goreceli": 0.60635
+    },
+    {
+      "oran": 0.04,
+      "izleme": 1.1279000000000001,
+      "goreceli": 0.5952999999999999
+    },
+    {
+      "oran": 0.05,
+      "izleme": 1.0814,
+      "goreceli": 0.58535
+    },
+    {
+      "oran": 0.06,
+      "izleme": 1.0698,
+      "goreceli": 0.5768
+    },
+    {
+      "oran": 0.07,
+      "izleme": 1.0581,
+      "goreceli": 0.5695
+    },
+    {
+      "oran": 0.08,
+      "izleme": 1.0581,
+      "goreceli": 0.56335
+    },
+    {
+      "oran": 0.09,
+      "izleme": 1.0581,
+      "goreceli": 0.5581
+    },
+    {
+      "oran": 0.1,
+      "izleme": 1.0465,
+      "goreceli": 0.55355
+    },
+    {
+      "oran": 0.11,
+      "izleme": 1.0349,
+      "goreceli": 0.5495
+    },
+    {
+      "oran": 0.12,
+      "izleme": 1.0349,
+      "goreceli": 0.54595
+    },
+    {
+      "oran": 0.13,
+      "izleme": 1.0349,
+      "goreceli": 0.5428
+    },
+    {
+      "oran": 0.14,
+      "izleme": 1.0232999999999999,
+      "goreceli": 0.53995
+    },
+    {
+      "oran": 0.15,
+      "izleme": 1,
+      "goreceli": 0.53745
+    },
+    {
+      "oran": 0.16,
+      "izleme": 0.9767,
+      "goreceli": 0.5351
+    },
+    {
+      "oran": 0.17,
+      "izleme": 0.9419,
+      "goreceli": 0.53295
+    },
+    {
+      "oran": 0.18,
+      "izleme": 0.9419,
+      "goreceli": 0.5309
+    },
+    {
+      "oran": 0.19,
+      "izleme": 0.9301999999999999,
+      "goreceli": 0.52875
+    },
+    {
+      "oran": 0.2,
+      "izleme": 0.9301999999999999,
+      "goreceli": 0.52655
+    },
+    {
+      "oran": 0.21,
+      "izleme": 0.907,
+      "goreceli": 0.52405
+    },
+    {
+      "oran": 0.22,
+      "izleme": 0.8721,
+      "goreceli": 0.5212
+    },
+    {
+      "oran": 0.23,
+      "izleme": 0.8604999999999999,
+      "goreceli": 0.51785
+    },
+    {
+      "oran": 0.24,
+      "izleme": 0.8371999999999999,
+      "goreceli": 0.51395
+    },
+    {
+      "oran": 0.25,
+      "izleme": 0.8371999999999999,
+      "goreceli": 0.50935
+    },
+    {
+      "oran": 0.26,
+      "izleme": 0.8371999999999999,
+      "goreceli": 0.50405
+    },
+    {
+      "oran": 0.27,
+      "izleme": 0.8140000000000001,
+      "goreceli": 0.49795
+    },
+    {
+      "oran": 0.28,
+      "izleme": 0.8023,
+      "goreceli": 0.4911
+    },
+    {
+      "oran": 0.29,
+      "izleme": 0.7791,
+      "goreceli": 0.48365
+    },
+    {
+      "oran": 0.3,
+      "izleme": 0.7674,
+      "goreceli": 0.4757
+    },
+    {
+      "oran": 0.31,
+      "izleme": 0.7558,
+      "goreceli": 0.46745000000000003
+    },
+    {
+      "oran": 0.32,
+      "izleme": 0.7674,
+      "goreceli": 0.45915
+    },
+    {
+      "oran": 0.33,
+      "izleme": 0.7442,
+      "goreceli": 0.4511
+    },
+    {
+      "oran": 0.34,
+      "izleme": 0.7209,
+      "goreceli": 0.4435
+    },
+    {
+      "oran": 0.35,
+      "izleme": 0.6977,
+      "goreceli": 0.4366
+    },
+    {
+      "oran": 0.36,
+      "izleme": 0.7093,
+      "goreceli": 0.43055
+    },
+    {
+      "oran": 0.37,
+      "izleme": 0.6977,
+      "goreceli": 0.42545
+    },
+    {
+      "oran": 0.38,
+      "izleme": 0.6859999999999999,
+      "goreceli": 0.42145
+    },
+    {
+      "oran": 0.39,
+      "izleme": 0.6744,
+      "goreceli": 0.4185
+    },
+    {
+      "oran": 0.4,
+      "izleme": 0.6744,
+      "goreceli": 0.41655
+    },
+    {
+      "oran": 0.41,
+      "izleme": 0.6744,
+      "goreceli": 0.41555
+    },
+    {
+      "oran": 0.42,
+      "izleme": 0.6744,
+      "goreceli": 0.4154
+    },
+    {
+      "oran": 0.43,
+      "izleme": 0.6744,
+      "goreceli": 0.416
+    },
+    {
+      "oran": 0.44,
+      "izleme": 0.6744,
+      "goreceli": 0.41725
+    },
+    {
+      "oran": 0.45,
+      "izleme": 0.6628000000000001,
+      "goreceli": 0.41905
+    },
+    {
+      "oran": 0.46,
+      "izleme": 0.6395000000000001,
+      "goreceli": 0.42135
+    },
+    {
+      "oran": 0.47,
+      "izleme": 0.6395000000000001,
+      "goreceli": 0.42405
+    },
+    {
+      "oran": 0.48,
+      "izleme": 0.6279,
+      "goreceli": 0.42715000000000003
+    },
+    {
+      "oran": 0.49,
+      "izleme": 0.6163000000000001,
+      "goreceli": 0.4306
+    },
+    {
+      "oran": 0.5,
+      "izleme": 0.6047,
+      "goreceli": 0.4344
+    },
+    {
+      "oran": 0.51,
+      "izleme": 0.6047,
+      "goreceli": 0.4386
+    },
+    {
+      "oran": 0.52,
+      "izleme": 0.6163000000000001,
+      "goreceli": 0.4432
+    },
+    {
+      "oran": 0.53,
+      "izleme": 0.6163000000000001,
+      "goreceli": 0.4482
+    },
+    {
+      "oran": 0.54,
+      "izleme": 0.6163000000000001,
+      "goreceli": 0.4537
+    },
+    {
+      "oran": 0.55,
+      "izleme": 0.6163000000000001,
+      "goreceli": 0.45965
+    },
+    {
+      "oran": 0.56,
+      "izleme": 0.6047,
+      "goreceli": 0.46615
+    },
+    {
+      "oran": 0.57,
+      "izleme": 0.6047,
+      "goreceli": 0.4732
+    },
+    {
+      "oran": 0.58,
+      "izleme": 0.6047,
+      "goreceli": 0.48085
+    },
+    {
+      "oran": 0.59,
+      "izleme": 0.5814,
+      "goreceli": 0.4891
+    },
+    {
+      "oran": 0.6,
+      "izleme": 0.5814,
+      "goreceli": 0.4979
+    },
+    {
+      "oran": 0.61,
+      "izleme": 0.5814,
+      "goreceli": 0.5073
+    },
+    {
+      "oran": 0.62,
+      "izleme": 0.5698,
+      "goreceli": 0.51715
+    },
+    {
+      "oran": 0.63,
+      "izleme": 0.5698,
+      "goreceli": 0.5273
+    },
+    {
+      "oran": 0.64,
+      "izleme": 0.5581,
+      "goreceli": 0.53765
+    },
+    {
+      "oran": 0.65,
+      "izleme": 0.5581,
+      "goreceli": 0.54795
+    },
+    {
+      "oran": 0.66,
+      "izleme": 0.5581,
+      "goreceli": 0.5579
+    },
+    {
+      "oran": 0.67,
+      "izleme": 0.5465,
+      "goreceli": 0.5673
+    },
+    {
+      "oran": 0.68,
+      "izleme": 0.5465,
+      "goreceli": 0.5759
+    },
+    {
+      "oran": 0.69,
+      "izleme": 0.5349,
+      "goreceli": 0.58345
+    },
+    {
+      "oran": 0.7,
+      "izleme": 0.5233,
+      "goreceli": 0.5899
+    },
+    {
+      "oran": 0.71,
+      "izleme": 0.5233,
+      "goreceli": 0.5952
+    },
+    {
+      "oran": 0.72,
+      "izleme": 0.5233,
+      "goreceli": 0.59935
+    },
+    {
+      "oran": 0.73,
+      "izleme": 0.5115999999999999,
+      "goreceli": 0.6025
+    },
+    {
+      "oran": 0.74,
+      "izleme": 0.5115999999999999,
+      "goreceli": 0.6047
+    },
+    {
+      "oran": 0.75,
+      "izleme": 0.5115999999999999,
+      "goreceli": 0.60615
+    },
+    {
+      "oran": 0.76,
+      "izleme": 0.5115999999999999,
+      "goreceli": 0.6069
+    },
+    {
+      "oran": 0.77,
+      "izleme": 0.5,
+      "goreceli": 0.60705
+    },
+    {
+      "oran": 0.78,
+      "izleme": 0.5,
+      "goreceli": 0.6066
+    },
+    {
+      "oran": 0.79,
+      "izleme": 0.48840000000000006,
+      "goreceli": 0.6055
+    },
+    {
+      "oran": 0.8,
+      "izleme": 0.48840000000000006,
+      "goreceli": 0.60375
+    },
+    {
+      "oran": 0.81,
+      "izleme": 0.46509999999999996,
+      "goreceli": 0.60135
+    },
+    {
+      "oran": 0.82,
+      "izleme": 0.4535,
+      "goreceli": 0.59815
+    },
+    {
+      "oran": 0.83,
+      "izleme": 0.44189999999999996,
+      "goreceli": 0.5943
+    },
+    {
+      "oran": 0.84,
+      "izleme": 0.41859999999999997,
+      "goreceli": 0.5898
+    },
+    {
+      "oran": 0.85,
+      "izleme": 0.41859999999999997,
+      "goreceli": 0.5848
+    },
+    {
+      "oran": 0.86,
+      "izleme": 0.41859999999999997,
+      "goreceli": 0.5793
+    },
+    {
+      "oran": 0.87,
+      "izleme": 0.40700000000000003,
+      "goreceli": 0.57355
+    },
+    {
+      "oran": 0.88,
+      "izleme": 0.3953,
+      "goreceli": 0.56765
+    },
+    {
+      "oran": 0.89,
+      "izleme": 0.3953,
+      "goreceli": 0.56175
+    },
+    {
+      "oran": 0.9,
+      "izleme": 0.3953,
+      "goreceli": 0.5559
+    },
+    {
+      "oran": 0.91,
+      "izleme": 0.3953,
+      "goreceli": 0.55025
+    },
+    {
+      "oran": 0.92,
+      "izleme": 0.3837,
+      "goreceli": 0.5448
+    },
+    {
+      "oran": 0.93,
+      "izleme": 0.3837,
+      "goreceli": 0.5395
+    },
+    {
+      "oran": 0.94,
+      "izleme": 0.3837,
+      "goreceli": 0.53435
+    },
+    {
+      "oran": 0.95,
+      "izleme": 0.3721,
+      "goreceli": 0.52935
+    },
+    {
+      "oran": 0.96,
+      "izleme": 0.3488,
+      "goreceli": 0.52455
+    },
+    {
+      "oran": 0.97,
+      "izleme": 0.314,
+      "goreceli": 0.52
+    },
+    {
+      "oran": 0.98,
+      "izleme": 0.26739999999999997,
+      "goreceli": 0.5159
+    },
+    {
+      "oran": 0.99,
+      "izleme": 0.26739999999999997,
+      "goreceli": 0.5123
+    },
+    {
+      "oran": 1,
+      "izleme": 0.26739999999999997,
+      "goreceli": 0.5093
+    }
+  ],
+  "analitikDurumu": "ok",
+  "toplandi": "2026-09-26T12:21:34.460Z",
+  "checkpoint": "3d",
+  "teshis": [
+    {
+      "kod": "HEALTHY",
+      "guven": "low",
+      "aciklama": "No problem pattern detected with available data.",
+      "oneri": "Keep; revisit at the next checkpoint."
+    }
+  ]
+}

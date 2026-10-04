@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Wingless Aircraft That Crashed on Landing",
+  "kaynaklar": [
+    {
+      "ad": "m2-f2-crash-1.jpg",
+      "wikimedia": "M2-F2 Crash on Rogers Dry Lake - GPN-2000-000089.jpg"
+    },
+    {
+      "ad": "m2-f2-crash-2.jpg",
+      "wikimedia": "Doohan James NASA 19670413.jpg"
+    },
+    {
+      "ad": "m2-f2-crash-3.jpg",
+      "wikimedia": "Star Trek Cast and Crew Visit NASA Dryden in 1967 (Doohan).jpg"
+    },
+    {
+      "ad": "m2-f2-crash-4.jpg",
+      "wikimedia": "M2-F2 with test pilot Bruce A. Peterson.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A wingless NASA test aircraft slammed into a dry lake bed on landing.",
+      "kaynak": "Footage/m2-f2-crash-1.jpg"
+    },
+    {
+      "metin": "Suddenly it tumbled over and over across the desert floor.",
+      "kaynak": "Footage/m2-f2-crash-2.jpg"
+    },
+    {
+      "metin": "It was a lifting body, using its shape to fly.",
+      "kaynak": "Footage/m2-f2-crash-3.jpg"
+    },
+    {
+      "metin": "Near the ground, it began rolling side to side.",
+      "kaynak": "Footage/m2-f2-crash-4.jpg"
+    },
+    {
+      "metin": "The pilot regained control.",
+      "kaynak": "Footage/m2-f2-crash-1.jpg"
+    },
+    {
+      "metin": "Then a helicopter seemed to threaten a collision.",
+      "kaynak": "Footage/m2-f2-crash-2.jpg"
+    },
+    {
+      "metin": "He drifted to an unmarked area where height was hard to judge.",
+      "kaynak": "Footage/m2-f2-crash-3.jpg"
+    },
+    {
+      "metin": "The craft was rebuilt with a centre fin.",
+      "kaynak": "Footage/m2-f2-crash-4.jpg"
+    }
+  ],
+  "aciklama": "M2-F2 tumbled across the lake bed on landing. The cause: a hard-to-control wingless body, a distraction, and poor height cues on an unmarked surface.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "M2-F2",
+    "1967",
+    "lifting body",
+    "engineering failure"
+  ],
+  "hook": "It had no wings",
+  "soru": "Does fame change the lesson?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the M2-F2 lifting body",
+    "kisa": "M2-F2",
+    "nesne": "Lifting body",
+    "yil": 1967,
+    "sonuc": "tumbled across the lake bed on landing",
+    "tetik": "a pilot-induced oscillation and a distraction",
+    "mekanizma": "a hard-to-control wingless body, a distraction, and poor height cues on an unmarked surface",
+    "sayi": "NO WINGS",
+    "ders": "the craft was rebuilt with a centre fin for stability",
+    "zincir": [
+      "WINGLESS DESIGN",
+      "OSCILLATION NEAR GROUND",
+      "HELICOPTER DISTRACTS",
+      "DRIFTS TO UNMARKED AREA",
+      "HARD CRASH"
+    ],
+    "zaman": [],
+    "yanilgi": "The pilot survived the crash but lost vision in one eye from an infection.",
+    "tartisma": "The crash footage became famous on television. Does fame change what we learn from failure?",
+    "basliklar": [
+      "The Wingless Aircraft That Crashed on Landing",
+      "Why the M2-F2 Crashed",
+      "The Wingless Aircraft That Tumbled"
+    ],
+    "kapak": [
+      "NO WINGS",
+      "TUMBLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — M2-F2",
+        "url": "https://en.wikipedia.org/wiki/M2-F2"
+      },
+      {
+        "ad": "NASA — 19980169231 1998082126 (cited by Wikipedia)",
+        "url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980169231_1998082126.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-22",
+    "wiki": "M2-F2",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "M2-F2 Crash on Rogers Dry Lake - GPN-2000-000089.jpg [Public domain]",
+      "Doohan James NASA 19670413.jpg [Public domain]",
+      "Star Trek Cast and Crew Visit NASA Dryden in 1967 (Doohan).jpg [Public domain]",
+      "M2-F2 with test pilot Bruce A. Peterson.jpg [Public domain]"
+    ]
+  }
+}

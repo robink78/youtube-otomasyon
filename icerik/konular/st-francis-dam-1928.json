@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Dam That Failed Hours After Being Declared Safe",
+  "kaynaklar": [
+    {
+      "ad": "st-francis-dam-1.jpg",
+      "wikimedia": "316177006-p.jpg"
+    },
+    {
+      "ad": "st-francis-dam-2.jpg",
+      "wikimedia": "Man pointing at crack in Saint Francis Dam after its collapse.jpg"
+    },
+    {
+      "ad": "st-francis-dam-3.jpg",
+      "wikimedia": "St. Francis Dam after the 1928 failure.jpg"
+    },
+    {
+      "ad": "st-francis-dam-4.jpg",
+      "wikimedia": "St. Francis abutment.jpg"
+    },
+    {
+      "ad": "st-francis-dam-5.jpg",
+      "wikimedia": "Standing section.jpg"
+    },
+    {
+      "ad": "st-francis-dam-6.jpg",
+      "wikimedia": "Twisted Tracks.jpg"
+    },
+    {
+      "ad": "st-francis-dam-7.jpg",
+      "wikimedia": "California - Sacramento Valley through St. Francis - NARA - 23935035.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Just before midnight, a California dam burst.",
+      "kaynak": "Footage/st-francis-dam-1.jpg"
+    },
+    {
+      "metin": "A wall of water swept down the valley toward the sea, killing hundreds.",
+      "kaynak": "Footage/st-francis-dam-2.jpg"
+    },
+    {
+      "metin": "That same morning, it had been inspected and called safe.",
+      "kaynak": "Footage/st-francis-dam-3.jpg"
+    },
+    {
+      "metin": "The engineers had seen new leaks.",
+      "kaynak": "Footage/st-francis-dam-4.jpg"
+    },
+    {
+      "metin": "They looked like the usual seepage.",
+      "kaynak": "Footage/st-francis-dam-5.jpg"
+    },
+    {
+      "metin": "But the rock beneath one side was weak and softening.",
+      "kaynak": "Footage/st-francis-dam-6.jpg"
+    },
+    {
+      "metin": "When it gave way, the dam broke apart.",
+      "kaynak": "Footage/st-francis-dam-7.jpg"
+    },
+    {
+      "metin": "California then created state oversight for dam safety.",
+      "kaynak": "Footage/st-francis-dam-1.jpg"
+    }
+  ],
+  "aciklama": "St. Francis Dam burst just before midnight. The cause: foundation failure of the dam's abutment rock, with uplift pressure under the dam.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "St. Francis Dam",
+    "dam failure",
+    "California",
+    "William Mulholland",
+    "1928"
+  ],
+  "hook": "Declared safe that morning",
+  "soru": "Would you have called it safe?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the St. Francis Dam",
+    "kisa": "St. Francis Dam",
+    "nesne": "Dam",
+    "yil": 1928,
+    "sonuc": "burst just before midnight",
+    "tetik": "weak rock foundations softened by the reservoir",
+    "mekanizma": "foundation failure of the dam's abutment rock, with uplift pressure under the dam",
+    "sayi": "HOURS AFTER",
+    "ders": "California created state dam-safety oversight",
+    "zincir": [
+      "DAM BUILT ON WEAK ROCK",
+      "LEAKS APPEAR",
+      "INSPECTED AND DECLARED SAFE",
+      "ABUTMENT GIVES WAY AT NIGHT",
+      "FLOOD SWEEPS THE VALLEY"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 12, 1928",
+        "olay": "Inspection in the morning; failure just before midnight"
+      }
+    ],
+    "yanilgi": "The leak seen that morning looked like normal seepage. The real weakness was the rock the dam stood on.",
+    "tartisma": "The chief engineer inspected it the same day and called it safe. What would you have needed to see?",
+    "basliklar": [
+      "The Dam That Failed Hours After Being Declared Safe",
+      "Why the St. Francis Dam Collapsed",
+      "The Inspection, Then the Flood"
+    ],
+    "kapak": [
+      "DECLARED SAFE",
+      "HOURS LATER"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — St. Francis Dam",
+        "url": "https://en.wikipedia.org/wiki/St._Francis_Dam"
+      },
+      {
+        "ad": "ASDSO Dam Failures and Lessons Learned — St. Francis Dam (California, 1928)",
+        "url": "https://damfailures.org/case-study/st-francis-dam-california-1928/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "St._Francis_Dam",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "316177006-p.jpg [Public domain]",
+      "Man pointing at crack in Saint Francis Dam after its collapse.jpg [CC BY 4.0]",
+      "St. Francis Dam after the 1928 failure.jpg [Public domain]",
+      "St. Francis abutment.jpg [Public domain]",
+      "Standing section.jpg [Public domain]",
+      "Twisted Tracks.jpg [CC BY 2.0]",
+      "California - Sacramento Valley through St. Francis - NARA - 23935035.jpg [Public domain]"
+    ]
+  }
+}

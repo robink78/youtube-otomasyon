@@ -1,0 +1,49 @@
+{
+  "slug": "vesuvius-1944",
+  "format": "short",
+  "olusturuldu": "2026-09-28T15:20:21.134Z",
+  "ekranHook": "It erupted in WWII",
+  "mevcut": {
+    "puan": 85,
+    "pencereler": {
+      "0-5": "This volcano erupted in the middle of World War Two. Lava swallowed whole villages",
+      "5-12": "while Allied troops looked on. March 1944. Vesuvius, the volcano that buried Pompeii, wakes up. Rivers of lava crawl",
+      "12-20": "down its slopes into the towns. Falling ash wrecks dozens of American bombers at a nearby airfield. Families flee, carrying whatever they",
+      "20-30": "can. Two villages are wiped off the map. It was the last time Vesuvius erupted. It is only sleeping."
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 4 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Mount Vesuvius wrecked a wartime bomber base."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a new eruption."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So how could a new eruption do this?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is heavy ash fall and lava flows — and it is why ash load is now treated as a structural hazard for roofs and aircraft."
+      }
+    ],
+    "metin": "Mount Vesuvius wrecked a wartime bomber base. It took only a new eruption. So how could a new eruption do this? The answer is heavy ash fall and lava flows — and it is why ash load is now treated as a structural hazard for roofs and aircraft.",
+    "puan": 75
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

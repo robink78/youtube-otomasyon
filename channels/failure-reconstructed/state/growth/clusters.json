@@ -1,0 +1,102 @@
+{
+  "channel": "failure-reconstructed",
+  "updatedAt": "2026-09-30T20:12:22.543Z",
+  "clusters": {
+    "maritime-disasters": {
+      "n": 1,
+      "medianViews": 517,
+      "median24hViews": null,
+      "median48hViews": null,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.02901,
+      "medianRetention": null,
+      "breakoutFrequency": 0
+    },
+    "nuclear-accidents": {
+      "n": 1,
+      "medianViews": 1351,
+      "median24hViews": 124,
+      "median48hViews": 1366,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.01184,
+      "medianRetention": 59.31999999999999,
+      "breakoutFrequency": 0
+    },
+    "natural-hazards": {
+      "n": 3,
+      "medianViews": 976,
+      "median24hViews": 945,
+      "median48hViews": 976,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.03752,
+      "medianRetention": 63.455,
+      "breakoutFrequency": 0
+    },
+    "aviation-failures": {
+      "n": 1,
+      "medianViews": 1033,
+      "median24hViews": 978,
+      "median48hViews": 1035,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.03679,
+      "medianRetention": 75.19,
+      "breakoutFrequency": 0
+    },
+    "industrial-disasters": {
+      "n": 1,
+      "medianViews": 423,
+      "median24hViews": 255,
+      "median48hViews": 421,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.01418,
+      "medianRetention": 67.77,
+      "breakoutFrequency": 0
+    },
+    "spaceflight-disasters": {
+      "n": 2,
+      "medianViews": 1456,
+      "median24hViews": 1420,
+      "median48hViews": 1704,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.04074,
+      "medianRetention": 93.43,
+      "breakoutFrequency": 0
+    },
+    "bridge-failures": {
+      "n": 1,
+      "medianViews": 186,
+      "median24hViews": 176,
+      "median48hViews": 186,
+      "medianSubscriberConversion": null,
+      "medianEngagementRate": 0.03763,
+      "medianRetention": 65.29,
+      "breakoutFrequency": 0
+    },
+    "infrastructure-failures": {
+      "id": "infrastructure-failures",
+      "anchorLong": null,
+      "longs": [],
+      "shorts": [
+        {
+          "slug": "lower-van-norman-dam-1971",
+          "videoId": "WlZ2z90pqx8",
+          "title": "Inside Van Norman Dam: The Failure Chain"
+        }
+      ],
+      "futureLongs": []
+    },
+    "structural-failures": {
+      "id": "structural-failures",
+      "anchorLong": null,
+      "longs": [],
+      "shorts": [
+        {
+          "slug": "rana-plaza-2013",
+          "videoId": "4Mo58FxCr4A",
+          "title": "Why Rana Plaza Collapsed With Garment Workers Inside"
+        }
+      ],
+      "futureLongs": []
+    }
+  }
+}

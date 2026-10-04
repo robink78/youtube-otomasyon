@@ -1,0 +1,219 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/impossible-brief/state/production/what-if-you-put-saturn-in-a-bathtub/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "rate": "+6%",
+    "claimDurations": [
+      3.7655028462998104,
+      3.645199240986717,
+      5.521935483870967,
+      4.3188994307400375,
+      3.5970777988614797,
+      3.2361669829222013,
+      3.5970777988614797,
+      4.018140417457305
+    ],
+    "durationSeconds": 31.7,
+    "width": null,
+    "height": null,
+    "hasAudio": true,
+    "music": {
+      "mood": "spaceflight-disasters",
+      "profile": {
+        "kok": 58.9,
+        "oran": 1.5,
+        "trem": 0.16,
+        "renk": "white",
+        "yanki": [
+          681,
+          1150
+        ],
+        "alcak": 864,
+        "ton": "vast"
+      }
+    }
+  },
+  "video": {
+    "file": "channels/impossible-brief/state/production/what-if-you-put-saturn-in-a-bathtub/what-if-you-put-saturn-in-a-bathtub.mp4",
+    "captionsBurned": true,
+    "distinctVisuals": 12,
+    "realImageCount": 11,
+    "numberCardCount": 1,
+    "maxStaticSeconds": 3.597,
+    "visualChanges": 16,
+    "openingHookCovered": true,
+    "cardNumbersValid": true,
+    "opening": "number",
+    "visualQuality": {
+      "decision": "PUBLISH",
+      "reasons": []
+    },
+    "segmentSeconds": [
+      1.319,
+      0.9009999999999998,
+      1.5455028462998102,
+      1.73449715370019,
+      1.910702087286527,
+      2.2602979127134724,
+      1.6460000000000008,
+      1.6156375711574942,
+      1.5853624288425063,
+      2.733537001897531,
+      0.4914629981024703,
+      3.1056148007590103,
+      3.2361669829221995,
+      3.5970777988614806,
+      1.9571404174573104,
+      2.060999999999993
+    ],
+    "sources": [
+      {
+        "shot": 1,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:NASA PIA01969 - Saturn and its Rings.jpg",
+        "numbers": [
+          "95"
+        ]
+      },
+      {
+        "shot": 2,
+        "claimIndex": 0,
+        "type": "stock-video",
+        "sourceId": "video:nasa-GSFC_20181217_Saturn_m12672_Rings",
+        "numbers": [
+          "95"
+        ]
+      },
+      {
+        "shot": 3,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:NASA PIA01973 - Saturn Atmosphere.jpg",
+        "numbers": [
+          "95"
+        ]
+      },
+      {
+        "shot": 4,
+        "claimIndex": 1,
+        "type": "number-card",
+        "sourceId": "card:1:aa57740dea17",
+        "numbers": [
+          "30%"
+        ]
+      },
+      {
+        "shot": 5,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:NASA PIA03152 - Saturn Atmospheric Changes.jpg",
+        "numbers": [
+          "30%"
+        ]
+      },
+      {
+        "shot": 6,
+        "claimIndex": 2,
+        "type": "stock-video",
+        "sourceId": "video:14113561",
+        "numbers": [
+          "0.69"
+        ]
+      },
+      {
+        "shot": 7,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:NASA PIA06423 - Bold Saturn.jpg",
+        "numbers": [
+          "0.69"
+        ]
+      },
+      {
+        "shot": 8,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:Solar system.jpg",
+        "numbers": [
+          "0.69"
+        ]
+      },
+      {
+        "shot": 9,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:Enceladus geysers June 2009.jpg",
+        "numbers": [
+          "9"
+        ]
+      },
+      {
+        "shot": 10,
+        "claimIndex": 3,
+        "type": "stock-video",
+        "sourceId": "video:20464846",
+        "numbers": [
+          "9"
+        ]
+      },
+      {
+        "shot": 11,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:Saturn compared to Earth and the Moon.png",
+        "numbers": []
+      },
+      {
+        "shot": 12,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:Saturn's Rings PIA03550.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 13,
+        "claimIndex": 5,
+        "type": "licensed-still",
+        "sourceId": "still:NASA PIA01969 - Saturn and its Rings.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 14,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:NASA PIA01973 - Saturn Atmosphere.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 15,
+        "claimIndex": 7,
+        "type": "licensed-still",
+        "sourceId": "still:NASA PIA03152 - Saturn Atmospheric Changes.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 16,
+        "claimIndex": 7,
+        "type": "licensed-still",
+        "sourceId": "still:NASA PIA01969 - Saturn and its Rings.jpg#loop",
+        "numbers": []
+      }
+    ],
+    "durationSeconds": 31.7,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/impossible-brief/state/production/what-if-you-put-saturn-in-a-bathtub/thumbnail.jpg",
+    "bytes": 32415,
+    "sourceType": "licensed-still",
+    "sourceId": "still:NASA PIA01969 - Saturn and its Rings.jpg",
+    "textWords": 2,
+    "usesLicensedStill": true
+  }
+}

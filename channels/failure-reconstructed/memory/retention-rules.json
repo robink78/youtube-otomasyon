@@ -1,0 +1,168 @@
+{
+  "channel": "failure-reconstructed",
+  "status": "sample-floor-met",
+  "minimumSample": 5,
+  "sampleSize": 10,
+  "learnedRules": [
+    {
+      "key": "hookType",
+      "value": "statement",
+      "weakValue": "consequence",
+      "evidenceVideos": 10,
+      "confidence": "SUPPORTED",
+      "aggregates": [
+        {
+          "value": "statement",
+          "sample": 7,
+          "averagePercentageViewed": 75.97
+        },
+        {
+          "value": "consequence",
+          "sample": 3,
+          "averagePercentageViewed": 75.12
+        }
+      ]
+    },
+    {
+      "key": "durationRange",
+      "value": "over-35s",
+      "weakValue": "25-35s",
+      "evidenceVideos": 10,
+      "confidence": "SUPPORTED",
+      "aggregates": [
+        {
+          "value": "over-35s",
+          "sample": 2,
+          "averagePercentageViewed": 92.3
+        },
+        {
+          "value": "25-35s",
+          "sample": 8,
+          "averagePercentageViewed": 71.57
+        }
+      ]
+    },
+    {
+      "key": "secondBeat",
+      "value": "event",
+      "weakValue": "countdown",
+      "evidenceVideos": 10,
+      "confidence": "SUPPORTED",
+      "aggregates": [
+        {
+          "value": "emergency",
+          "sample": 1,
+          "averagePercentageViewed": 92.45
+        },
+        {
+          "value": "context",
+          "sample": 1,
+          "averagePercentageViewed": 75.19
+        },
+        {
+          "value": "event",
+          "sample": 6,
+          "averagePercentageViewed": 73.81
+        },
+        {
+          "value": "countdown",
+          "sample": 2,
+          "averagePercentageViewed": 73.33
+        }
+      ]
+    },
+    {
+      "key": "visualChangeFrequency",
+      "value": "fast",
+      "weakValue": "measured",
+      "evidenceVideos": 10,
+      "confidence": "SUPPORTED",
+      "aggregates": [
+        {
+          "value": "fast",
+          "sample": 4,
+          "averagePercentageViewed": 81.55
+        },
+        {
+          "value": "measured",
+          "sample": 6,
+          "averagePercentageViewed": 71.82
+        }
+      ]
+    },
+    {
+      "key": "questionStyle",
+      "value": "question",
+      "weakValue": null,
+      "evidenceVideos": 10,
+      "confidence": "SUPPORTED",
+      "aggregates": [
+        {
+          "value": "question",
+          "sample": 10,
+          "averagePercentageViewed": 75.72
+        }
+      ]
+    },
+    {
+      "key": "category",
+      "value": "spaceflight-disasters",
+      "weakValue": "natural-hazards",
+      "evidenceVideos": 10,
+      "confidence": "SUPPORTED",
+      "aggregates": [
+        {
+          "value": "nuclear-accidents",
+          "sample": 1,
+          "averagePercentageViewed": 109.41
+        },
+        {
+          "value": "maritime-disasters",
+          "sample": 1,
+          "averagePercentageViewed": 92.31
+        },
+        {
+          "value": "aviation-failures",
+          "sample": 1,
+          "averagePercentageViewed": 75.19
+        },
+        {
+          "value": "spaceflight-disasters",
+          "sample": 2,
+          "averagePercentageViewed": 73.4
+        },
+        {
+          "value": "industrial-disasters",
+          "sample": 1,
+          "averagePercentageViewed": 67.77
+        },
+        {
+          "value": "natural-hazards",
+          "sample": 3,
+          "averagePercentageViewed": 66.79
+        },
+        {
+          "value": "bridge-failures",
+          "sample": 1,
+          "averagePercentageViewed": 65.29
+        }
+      ]
+    },
+    {
+      "key": "ctaStyle",
+      "value": "adaptive after payoff",
+      "weakValue": null,
+      "evidenceVideos": 10,
+      "confidence": "SUPPORTED",
+      "aggregates": [
+        {
+          "value": "adaptive after payoff",
+          "sample": 10,
+          "averagePercentageViewed": 75.72
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-10-04T17:38:41.836Z",
+  "caveat": "Observed associations only; topic, timing and packaging can confound retention. No causal claim."
+}

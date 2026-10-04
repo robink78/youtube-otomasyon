@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Rocket Skin Too Thin to Carry a Capsule",
+  "kaynaklar": [
+    {
+      "ad": "mercury-atlas-1-1.jpg",
+      "wikimedia": "Mercury-Atlas 1 liftoff.jpg"
+    },
+    {
+      "ad": "mercury-atlas-1-2.jpg",
+      "wikimedia": "MA-1 Capsule Reassembled After Explosion - GPN-2002-000043.jpg"
+    },
+    {
+      "ad": "mercury-atlas-1-3.jpg",
+      "wikimedia": "First Mercury-Atlas Attempted Launch - GPN-2003-00039.jpg"
+    },
+    {
+      "ad": "mercury-atlas-1-4.jpg",
+      "wikimedia": "Atlas D with Mercury-Atlas 5 (Nov. 29 1961).jpg"
+    },
+    {
+      "ad": "mercury-atlas-1-5.jpg",
+      "wikimedia": "Atlas D with MA-4 (Sep. 13, 1961) 1.jpg"
+    },
+    {
+      "ad": "mercury-atlas-1-6.jpg",
+      "wikimedia": "Mercury-Atlas 4 launch - cropped.jpg"
+    },
+    {
+      "ad": "mercury-atlas-1-7.jpg",
+      "wikimedia": "Launch of Mercury-Atlas - GPN-2003-00036.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "The first launch of a Mercury capsule on an Atlas rocket failed.",
+      "kaynak": "Footage/mercury-atlas-1-1.jpg"
+    },
+    {
+      "metin": "After fifty eight seconds, the rocket suddenly broke up.",
+      "kaynak": "Footage/mercury-atlas-1-2.jpg"
+    },
+    {
+      "metin": "Rain and clouds hid it from view.",
+      "kaynak": "Footage/mercury-atlas-1-3.jpg"
+    },
+    {
+      "metin": "Engineers had objected to launching in that weather.",
+      "kaynak": "Footage/mercury-atlas-1-4.jpg"
+    },
+    {
+      "metin": "Salvage crews recovered parts from the ocean floor.",
+      "kaynak": "Footage/mercury-atlas-1-5.jpg"
+    },
+    {
+      "metin": "The thin skin below the capsule had likely buckled.",
+      "kaynak": "Footage/mercury-atlas-1-6.jpg"
+    },
+    {
+      "metin": "Drag, acceleration, and bending loads were too much.",
+      "kaynak": "Footage/mercury-atlas-1-7.jpg"
+    },
+    {
+      "metin": "NASA added doublers to the skin and made the trajectory shallower.",
+      "kaynak": "Footage/mercury-atlas-1-1.jpg"
+    }
+  ],
+  "aciklama": "Mercury-Atlas 1 broke up in flight a minute after launch. The cause: buckling of the pressure-stabilized skin under combined drag, acceleration and bending loads.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Mercury-Atlas 1",
+    "1960",
+    "rocket skin",
+    "engineering failure"
+  ],
+  "hook": "Nobody saw it happen",
+  "soru": "When should objections stop a launch?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Mercury-Atlas 1",
+    "kisa": "Mercury-Atlas 1",
+    "nesne": "Rocket skin",
+    "yil": 1960,
+    "sonuc": "broke up in flight a minute after launch",
+    "tetik": "loads exceeding the thin skin below the capsule",
+    "mekanizma": "buckling of the pressure-stabilized skin under combined drag, acceleration and bending loads",
+    "sayi": "58 SECONDS",
+    "ders": "NASA added doublers to the skin and made the trajectory shallower",
+    "zincir": [
+      "THIN SKIN BELOW CAPSULE",
+      "RAIN HIDES THE ROCKET",
+      "MAX Q LOADS",
+      "SKIN BUCKLES",
+      "BOOSTER BREAKS UP"
+    ],
+    "zaman": [],
+    "yanilgi": "Nobody saw the failure. Clouds hid the rocket, so engineers had to rebuild the story from the sea floor.",
+    "tartisma": "Engineers objected to launching in bad weather. When should objections stop a launch?",
+    "basliklar": [
+      "The Rocket Skin Too Thin to Carry a Capsule",
+      "Why Mercury-Atlas 1 Failed",
+      "The Skin That Buckled at Max Q"
+    ],
+    "kapak": [
+      "TOO THIN",
+      "58 SECONDS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mercury-Atlas 1",
+        "url": "https://en.wikipedia.org/wiki/Mercury-Atlas_1"
+      },
+      {
+        "ad": "NASA — OEM 4 21 99 (cited by Wikipedia)",
+        "url": "http://www.jsc.nasa.gov/history/oral_histories/MaynardOE/OEM_4-21-99.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "Mercury-Atlas_1",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Mercury-Atlas 1 liftoff.jpg [Public domain]",
+      "MA-1 Capsule Reassembled After Explosion - GPN-2002-000043.jpg [Public domain]",
+      "First Mercury-Atlas Attempted Launch - GPN-2003-00039.jpg [Public domain]",
+      "Atlas D with Mercury-Atlas 5 (Nov. 29 1961).jpg [Public domain]",
+      "Atlas D with MA-4 (Sep. 13, 1961) 1.jpg [Public domain]",
+      "Mercury-Atlas 4 launch - cropped.jpg [Public domain]",
+      "Launch of Mercury-Atlas - GPN-2003-00036.jpg [Public domain]"
+    ]
+  }
+}

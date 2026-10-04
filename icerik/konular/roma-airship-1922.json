@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Airship Crash That Made America Switch to Helium",
+  "kaynaklar": [
+    {
+      "ad": "roma-airship-1.jpg",
+      "wikimedia": "Roma-burning.jpg"
+    },
+    {
+      "ad": "roma-airship-2.jpg",
+      "wikimedia": "Roma Tragedy.jpg"
+    },
+    {
+      "ad": "roma-airship-3.jpg",
+      "wikimedia": "T-34 Airship Roma Crash.jpg"
+    },
+    {
+      "ad": "roma-airship-4.jpg",
+      "wikimedia": "Luchtschepen, SFA022812300.jpg"
+    },
+    {
+      "ad": "roma-airship-5.jpg",
+      "wikimedia": "Luchtschepen, SFA022812301.jpg"
+    },
+    {
+      "ad": "roma-airship-6.jpg",
+      "wikimedia": "Ansaldo V-12 from the \"Roma\" airship.jpg"
+    },
+    {
+      "ad": "roma-airship-7.jpg",
+      "wikimedia": "Italian airship Roma over Norfolk VA 1922.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An army airship crashed into power lines in Norfolk, Virginia.",
+      "kaynak": "Footage/roma-airship-1.jpg"
+    },
+    {
+      "metin": "It exploded in flames, and thirty four men died.",
+      "kaynak": "Footage/roma-airship-2.jpg"
+    },
+    {
+      "metin": "Its rudder had failed.",
+      "kaynak": "Footage/roma-airship-3.jpg"
+    },
+    {
+      "metin": "The ship lost control and descended.",
+      "kaynak": "Footage/roma-airship-4.jpg"
+    },
+    {
+      "metin": "It struck high-voltage lines.",
+      "kaynak": "Footage/roma-airship-5.jpg"
+    },
+    {
+      "metin": "Sparks ignited its hydrogen.",
+      "kaynak": "Footage/roma-airship-6.jpg"
+    },
+    {
+      "metin": "It was the deadliest US airship accident at the time.",
+      "kaynak": "Footage/roma-airship-7.jpg"
+    },
+    {
+      "metin": "America then stopped filling its airships with hydrogen.",
+      "kaynak": "Footage/roma-airship-1.jpg"
+    }
+  ],
+  "aciklama": "Roma airship hit power lines and exploded. The cause: loss of control leading to contact with high-voltage lines, igniting its hydrogen.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Roma airship",
+    "1922",
+    "airship",
+    "engineering failure"
+  ],
+  "hook": "It hit power lines",
+  "soru": "Is the safer option worth it?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the airship Roma",
+    "kisa": "Roma airship",
+    "nesne": "Airship",
+    "yil": 1922,
+    "sonuc": "hit power lines and exploded",
+    "tetik": "a rudder failure sending it toward the ground",
+    "mekanizma": "loss of control leading to contact with high-voltage lines, igniting its hydrogen",
+    "sayi": "34 DIED",
+    "ders": "the US military stopped using hydrogen in airships",
+    "zincir": [
+      "RUDDER PROBLEM",
+      "SHIP DESCENDS",
+      "HITS POWER LINES",
+      "SPARKS IGNITE HYDROGEN",
+      "SHIP BURNS"
+    ],
+    "zaman": [],
+    "yanilgi": "The rudder failure alone might have been survivable. Hydrogen turned contact with power lines into an inferno.",
+    "tartisma": "Helium was scarce and expensive. When is the safer option worth the cost?",
+    "basliklar": [
+      "The Airship Crash That Made America Switch to Helium",
+      "Why the Airship Roma Exploded",
+      "The Crash That Ended Hydrogen Airships in America"
+    ],
+    "kapak": [
+      "HYDROGEN",
+      "34 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Roma (airship)",
+        "url": "https://en.wikipedia.org/wiki/Roma_(airship)"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — 98988897 (cited by Wikipedia)",
+        "url": "https://timesmachine.nytimes.com/timesmachine/1922/02/22/98988897.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "Roma_(airship)",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Roma-burning.jpg [Public domain]",
+      "Roma Tragedy.jpg [Public domain]",
+      "T-34 Airship Roma Crash.jpg [Public domain]",
+      "Luchtschepen, SFA022812300.jpg [Public domain]",
+      "Luchtschepen, SFA022812301.jpg [Public domain]",
+      "Ansaldo V-12 from the \"Roma\" airship.jpg [Public domain]",
+      "Italian airship Roma over Norfolk VA 1922.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why Rockets Explode on the Launch Pad",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "Sitting on a bomb",
+  "soru": "Would you ride one?",
+  "arama_yedek": "rocket launch",
+  "aciklama": "A rocket is a controlled explosion pointed at the sky - and the line between launch and disaster is razor thin. Here is why they blow up.\n\n#shorts #space #engineering #science #rockets",
+  "etiketler": [
+    "rocket launch",
+    "space",
+    "engineering",
+    "explosion",
+    "science"
+  ],
+  "sahneler": [
+    {
+      "metin": "A rocket is a controlled explosion. Lose control, and it explodes.",
+      "arama": "rocket launch fire"
+    },
+    {
+      "metin": "A tiny crack can turn it into a fireball in one second.",
+      "arama": "explosion fireball"
+    },
+    {
+      "metin": "So why is the balance so fragile?",
+      "arama": "rocket engine"
+    },
+    {
+      "metin": "Inside are hundreds of tons of fuel and oxidizer.",
+      "arama": "rocket flames"
+    },
+    {
+      "metin": "They must burn together in precise balance.",
+      "arama": "rocket engine fire"
+    },
+    {
+      "metin": "A stuck valve, and the fuel ignites all at once.",
+      "arama": "rocket explosion"
+    },
+    {
+      "metin": "The thin metal tanks simply burst.",
+      "arama": "rocket sky"
+    },
+    {
+      "metin": "Every explosion teaches engineers how to fly the next one.",
+      "arama": "rocket launch success"
+    }
+  ],
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "mekanizma",
+    "ad": "Rockets",
+    "nesne": "Rocket",
+    "sonuc": "explode",
+    "tetik": "a tiny crack or a stuck valve",
+    "mekanizma": "uncontrolled propellant ignition and tank overpressure",
+    "sayi": "1 STUCK VALVE",
+    "ders": "every failure feeds the next design",
+    "zincir": [
+      "TINY LEAK OR STUCK VALVE",
+      "PROPELLANTS MIX WRONG",
+      "UNCONTROLLED IGNITION",
+      "TANK OVERPRESSURE",
+      "VEHICLE BREAKS UP"
+    ],
+    "yanilgi": "Many launch failures aren't explosions at first — the vehicle breaks up, or range safety destroys it on purpose.",
+    "tartisma": "Is it better to fly early and fail often, or test exhaustively on the ground first?",
+    "basliklar": [
+      "Every Rocket Is a Controlled Explosion",
+      "Why Rockets Fail in Seconds",
+      "The Stuck Valve That Destroys a Rocket"
+    ],
+    "kapak": [
+      "ONE STUCK VALVE",
+      "CONTROLLED BOMB"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Range safety",
+        "url": "https://en.wikipedia.org/wiki/Range_safety"
+      },
+      {
+        "ad": "Wikipedia — Flight termination system",
+        "url": "https://en.wikipedia.org/wiki/Flight_termination_system"
+      }
+    ]
+  }
+}

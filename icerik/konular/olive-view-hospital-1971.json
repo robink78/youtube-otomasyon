@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Brand-New Hospital an Earthquake Tore Apart",
+  "kaynaklar": [
+    {
+      "ad": "olive-view-hospital-1.jpg",
+      "wikimedia": "LAD 12 Binder3 026 - USACE-p15141coll5-17951.jpeg"
+    },
+    {
+      "ad": "olive-view-hospital-2.jpg",
+      "wikimedia": "LAD 4 Binder2 002 - USACE-p15141coll5-18832.jpeg"
+    },
+    {
+      "ad": "olive-view-hospital-3.jpg",
+      "wikimedia": "USGS - 1971 San Fernando earthquake - Olive View Hospital - Detached stairways.jpg"
+    },
+    {
+      "ad": "olive-view-hospital-4.jpg",
+      "wikimedia": "USGS - 1971 San Fernando earthquake - Olive View Hospital - Partially detached stairway.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An earthquake wrecked a brand-new hospital near Los Angeles.",
+      "kaynak": "Footage/olive-view-hospital-1.jpg"
+    },
+    {
+      "metin": "Its stair towers collapsed, and ground-floor columns were crushed.",
+      "kaynak": "Footage/olive-view-hospital-2.jpg"
+    },
+    {
+      "metin": "The hospital had opened only weeks earlier.",
+      "kaynak": "Footage/olive-view-hospital-3.jpg"
+    },
+    {
+      "metin": "Its upper floors were stiff and heavy.",
+      "kaynak": "Footage/olive-view-hospital-4.jpg"
+    },
+    {
+      "metin": "The ground floor was flexible and weak.",
+      "kaynak": "Footage/olive-view-hospital-1.jpg"
+    },
+    {
+      "metin": "All the movement concentrated there.",
+      "kaynak": "Footage/olive-view-hospital-2.jpg"
+    },
+    {
+      "metin": "The building had to be demolished.",
+      "kaynak": "Footage/olive-view-hospital-3.jpg"
+    },
+    {
+      "metin": "California then required hospitals to stay operational after earthquakes.",
+      "kaynak": "Footage/olive-view-hospital-4.jpg"
+    }
+  ],
+  "aciklama": "Olive View hospital was wrecked by an earthquake weeks after opening. The cause: soft-storey failure of columns under a much stiffer upper structure.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Olive View hospital",
+    "1971",
+    "hospital",
+    "engineering failure"
+  ],
+  "hook": "It was weeks old",
+  "soru": "Should hospitals be stronger?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Olive View hospital",
+    "kisa": "Olive View hospital",
+    "nesne": "Hospital",
+    "yil": 1971,
+    "sonuc": "was wrecked by an earthquake weeks after opening",
+    "tetik": "a flexible ground storey under a stiff building",
+    "mekanizma": "soft-storey failure of columns under a much stiffer upper structure",
+    "sayi": "WEEKS OLD",
+    "ders": "California passed a law requiring hospitals to stay operational after earthquakes",
+    "zincir": [
+      "NEW HOSPITAL OPENS",
+      "WEAK, FLEXIBLE GROUND FLOOR",
+      "EARTHQUAKE HITS",
+      "COLUMNS DEFORM",
+      "STAIR TOWERS FALL AWAY"
+    ],
+    "zaman": [],
+    "yanilgi": "The hospital had just been built to code. The code didn't yet prevent its weak ground storey.",
+    "tartisma": "A hospital must work after a disaster. Should hospitals meet a higher standard than homes?",
+    "basliklar": [
+      "The Brand-New Hospital an Earthquake Tore Apart",
+      "Why the Olive View Hospital Failed",
+      "The New Hospital an Earthquake Wrecked"
+    ],
+    "kapak": [
+      "WEAK FLOOR",
+      "WEEKS OLD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Olive View–UCLA Medical Center",
+        "url": "https://en.wikipedia.org/wiki/Olive_View–UCLA_Medical_Center"
+      },
+      {
+        "ad": "Government source — 106191231 (cited by Wikipedia)",
+        "url": "http://gis.oshpd.ca.gov/atlas/places/facility/106191231"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-10",
+    "wiki": "Olive_View–UCLA_Medical_Center",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "LAD 12 Binder3 026 - USACE-p15141coll5-17951.jpeg [Public domain]",
+      "LAD 4 Binder2 002 - USACE-p15141coll5-18832.jpeg [Public domain]",
+      "USGS - 1971 San Fernando earthquake - Olive View Hospital - Detached stairways.jpg [Public domain]",
+      "USGS - 1971 San Fernando earthquake - Olive View Hospital - Partially detached stairway.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The City Destroyed in Minutes by a Glowing Cloud",
+  "kaynaklar": [
+    {
+      "ad": "mount-pelee-1.png",
+      "wikimedia": "PSM V61 D364 Victims of the eruption in st pierre martinique 2.png"
+    },
+    {
+      "ad": "mount-pelee-2.jpg",
+      "wikimedia": "Руины Сен-Пьера.jpg"
+    },
+    {
+      "ad": "mount-pelee-3.png",
+      "wikimedia": "Batterie d'Esnotz 1902.png"
+    },
+    {
+      "ad": "mount-pelee-4.png",
+      "wikimedia": "Batterie Sainte-Marthe 1902.png"
+    },
+    {
+      "ad": "mount-pelee-5.jpg",
+      "wikimedia": "Desastre Saint Pierre Montagne Pelee Martinique Petit Journal.jpg"
+    },
+    {
+      "ad": "mount-pelee-6.jpg",
+      "wikimedia": "Façade de la cathédrale en 1902.jpg"
+    },
+    {
+      "ad": "mount-pelee-7.png",
+      "wikimedia": "Hôtel de l'Intendance de Saint-Pierre.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Mount Pelée erupted above the city of Saint-Pierre in Martinique.",
+      "kaynak": "Footage/mount-pelee-1.png"
+    },
+    {
+      "metin": "Within minutes, a glowing cloud destroyed the city and killed almost everyone.",
+      "kaynak": "Footage/mount-pelee-2.jpg"
+    },
+    {
+      "metin": "It wasn't lava.",
+      "kaynak": "Footage/mount-pelee-3.png"
+    },
+    {
+      "metin": "It was a pyroclastic flow of superheated gas and ash.",
+      "kaynak": "Footage/mount-pelee-4.png"
+    },
+    {
+      "metin": "The volcano had rumbled for weeks.",
+      "kaynak": "Footage/mount-pelee-5.jpg"
+    },
+    {
+      "metin": "Officials downplayed the danger ahead of an election.",
+      "kaynak": "Footage/mount-pelee-6.jpg"
+    },
+    {
+      "metin": "Residents stayed.",
+      "kaynak": "Footage/mount-pelee-7.png"
+    },
+    {
+      "metin": "The eruption made pyroclastic flows central to volcano science.",
+      "kaynak": "Footage/mount-pelee-1.png"
+    }
+  ],
+  "aciklama": "Mount Pelée was destroyed by a pyroclastic flow. The cause: a pyroclastic density current reaching the city in minutes.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Mount Pelée",
+    "1902",
+    "city",
+    "engineering failure"
+  ],
+  "hook": "A cloud, not lava",
+  "soru": "Do politics shape evacuations?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "Saint-Pierre",
+    "kisa": "Mount Pelée",
+    "nesne": "City",
+    "yil": 1902,
+    "sonuc": "was destroyed by a pyroclastic flow",
+    "tetik": "an eruption sending a superheated cloud down the mountain",
+    "mekanizma": "a pyroclastic density current reaching the city in minutes",
+    "sayi": "MINUTES",
+    "ders": "the eruption made pyroclastic flows a central focus of volcano science",
+    "zincir": [
+      "VOLCANO RUMBLES FOR WEEKS",
+      "RESIDENTS STAY",
+      "GLOWING CLOUD RELEASED",
+      "CLOUD SWEEPS THE CITY",
+      "CITY DESTROYED"
+    ],
+    "zaman": [],
+    "yanilgi": "Lava wasn't the killer. A fast, superheated cloud of gas and ash swept the city.",
+    "tartisma": "An election was coming, and officials downplayed the danger. How do politics shape evacuations?",
+    "basliklar": [
+      "The City Destroyed in Minutes by a Glowing Cloud",
+      "Why Saint-Pierre Was Destroyed",
+      "The Glowing Cloud That Erased a City",
+      "How Mount Pelée Killed a City in Minutes"
+    ],
+    "kapak": [
+      "GLOWING CLOUD",
+      "IN MINUTES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1902 eruption of Mount Pelée",
+        "url": "https://en.wikipedia.org/wiki/1902_eruption_of_Mount_Pelée"
+      },
+      {
+        "ad": "Academic / engineering journal — volcano.cfm?vn=360120&vtab=Eruptions (cited by Wikipedia)",
+        "url": "https://volcano.si.edu/volcano.cfm?vn=360120&vtab=Eruptions"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-10",
+    "wiki": "1902_eruption_of_Mount_Pelée",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "PSM V61 D364 Victims of the eruption in st pierre martinique 2.png [Public domain]",
+      "Руины Сен-Пьера.jpg [Public domain]",
+      "Batterie d'Esnotz 1902.png [Public domain]",
+      "Batterie Sainte-Marthe 1902.png [Public domain]",
+      "Desastre Saint Pierre Montagne Pelee Martinique Petit Journal.jpg [Public domain]",
+      "Façade de la cathédrale en 1902.jpg [Public domain]",
+      "Hôtel de l'Intendance de Saint-Pierre.png [Public domain]"
+    ]
+  }
+}

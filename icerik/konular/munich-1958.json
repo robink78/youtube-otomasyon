@@ -1,0 +1,125 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 3.5,
+  "baslik": "Munich 1958: The Slush That Brought Down Manchester United's Plane",
+  "kaynaklar": [
+    {
+      "ad": "munich.ogv",
+      "wikimedia": "1958-02-10 Britain Mourns. Soccer Champs Die In Plane Crash.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Slush on a runway killed 23 people, including eight Manchester United players.",
+      "kaynak": "Footage/munich.ogv",
+      "baslangic": 27.5
+    },
+    {
+      "metin": "The plane crashed through a fence and into a house.",
+      "kaynak": "Footage/munich.ogv",
+      "baslangic": 10.7
+    },
+    {
+      "metin": "It was the pilots' third takeoff attempt.",
+      "kaynak": "Footage/munich.ogv",
+      "baslangic": 30
+    },
+    {
+      "metin": "So why couldn't it get into the air?",
+      "kaynak": "Footage/munich.ogv",
+      "baslangic": 16.8
+    },
+    {
+      "metin": "Slush at the end of the runway acted like a brake.",
+      "kaynak": "Footage/munich.ogv",
+      "baslangic": 26
+    },
+    {
+      "metin": "The plane lost speed just as it needed it most.",
+      "kaynak": "Footage/munich.ogv",
+      "baslangic": 12.2
+    },
+    {
+      "metin": "Investigators blamed ice and the captain for years.",
+      "kaynak": "Footage/munich.ogv",
+      "baslangic": 21.4
+    },
+    {
+      "metin": "He was cleared in 1969: slush, not ice, was the killer.",
+      "kaynak": "Footage/munich.ogv",
+      "baslangic": 24.5
+    }
+  ],
+  "aciklama": "On February 6, 1958, British European Airways Flight 609 failed to take off from Munich, killing 23 people including eight Manchester United players. Slush on the runway, not wing ice, was later found to be the cause.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Munich air disaster",
+    "1958",
+    "Manchester United",
+    "Busby Babes",
+    "runway slush",
+    "Airspeed Ambassador",
+    "aviation"
+  ],
+  "hook": "Slush, not ice",
+  "soru": "Should the third try have happened?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "the Munich air disaster",
+    "kisa": "Munich",
+    "nesne": "Airspeed Ambassador",
+    "yil": 1958,
+    "sonuc": "failed to take off, killing 23",
+    "tetik": "slush at the end of the runway",
+    "mekanizma": "slush drag slowing the aircraft below takeoff speed",
+    "sayi": "23 DEAD",
+    "ders": "runway contamination limits for takeoff were introduced",
+    "zincir": [
+      "TWO ABORTED TAKEOFFS",
+      "SNOW TURNS TO SLUSH ON RUNWAY",
+      "SLUSH DRAG SLOWS THE PLANE",
+      "SPEED DROPS BELOW TAKEOFF SPEED",
+      "OVERRUN INTO FENCE AND HOUSE"
+    ],
+    "zaman": [
+      {
+        "t": "Feb 6, 1958 14:19",
+        "olay": "First takeoff aborted (engine surging)"
+      },
+      {
+        "t": "14:31",
+        "olay": "Second attempt aborted"
+      },
+      {
+        "t": "15:03",
+        "olay": "Third attempt: aircraft overruns into a house"
+      },
+      {
+        "t": "1969",
+        "olay": "UK inquiry clears Captain Thain: slush, not ice"
+      }
+    ],
+    "yanilgi": "For a decade the crash was blamed on ice on the wings and the captain. Slush drag on the runway was the real reason the plane couldn't reach flying speed.",
+    "tartisma": "The crew made a third attempt after two aborted takeoffs. Where should the line be between persistence and pressure?",
+    "basliklar": [
+      "Munich 1958: The Slush That Brought Down Manchester United's Plane",
+      "Why the Busby Babes' Plane Couldn't Take Off",
+      "It Wasn't Ice: The Real Cause of the Munich Air Disaster",
+      "The Runway That Acted Like a Brake"
+    ],
+    "kapak": [
+      "SLUSH",
+      "3RD ATTEMPT",
+      "NOT ICE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Munich air disaster",
+        "url": "https://en.wikipedia.org/wiki/Munich_air_disaster"
+      }
+    ]
+  }
+}

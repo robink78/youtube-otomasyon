@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Lost Barge Bent a Rail Bridge Minutes Before a Train",
+  "kaynaklar": [
+    {
+      "ad": "big-bayou-canot-1.png",
+      "wikimedia": "Sunset Limited Big Bayout Canot.png"
+    },
+    {
+      "ad": "big-bayou-canot-2.jpg",
+      "wikimedia": "Derailment of the Sunset Limited on September 22, 1993 - \"Figure 1. - \"Times relevant to accident.\" on page 1 of Railroad-Marine Accident Report, NTSB-RAR 94-01 (PB94 916301) (page 7 crop).jpg"
+    },
+    {
+      "ad": "big-bayou-canot-3.jpg",
+      "wikimedia": "Derailment of the Sunset Limited on September 22, 1993 - \"Figure 4. - MAUVILLA tow configuration and Big Bayou Canoe bridge.\" on page 6 of Railroad-Marine Accident Report, NTSB-RAR 94-01 (PB94 916301) (page 12 crop).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An Amtrak train plunged off a bridge into an Alabama bayou.",
+      "kaynak": "Footage/big-bayou-canot-1.png"
+    },
+    {
+      "metin": "Carriages sank and burned, and forty seven people died.",
+      "kaynak": "Footage/big-bayou-canot-2.jpg"
+    },
+    {
+      "metin": "Minutes earlier, a barge had hit the bridge in thick fog.",
+      "kaynak": "Footage/big-bayou-canot-3.jpg"
+    },
+    {
+      "metin": "The towboat pilot didn't realize it was a railway bridge.",
+      "kaynak": "Footage/big-bayou-canot-1.png"
+    },
+    {
+      "metin": "The impact bent the track out of line.",
+      "kaynak": "Footage/big-bayou-canot-2.jpg"
+    },
+    {
+      "metin": "But the rails didn't break, so the signals stayed green.",
+      "kaynak": "Footage/big-bayou-canot-3.jpg"
+    },
+    {
+      "metin": "The train reached the kink at full speed.",
+      "kaynak": "Footage/big-bayou-canot-1.png"
+    },
+    {
+      "metin": "Towboat crews then had to be trained to use their radar.",
+      "kaynak": "Footage/big-bayou-canot-2.jpg"
+    }
+  ],
+  "aciklama": "Big Bayou Canot derailed a passenger train into a bayou. The cause: barge impact displacing a span and kinking the track without breaking the signal circuit.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Big Bayou Canot",
+    "1993",
+    "rail bridge",
+    "engineering failure"
+  ],
+  "hook": "The signals stayed green",
+  "soru": "How do you detect a bent rail?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Big Bayou Canot bridge",
+    "kisa": "Big Bayou Canot",
+    "nesne": "Rail bridge",
+    "yil": 1993,
+    "sonuc": "derailed a passenger train into a bayou",
+    "tetik": "a towboat lost in fog pushing a barge into the bridge",
+    "mekanizma": "barge impact displacing a span and kinking the track without breaking the signal circuit",
+    "sayi": "47 DEAD",
+    "ders": "towboats got radar training requirements and bridges near waterways got better protection",
+    "zincir": [
+      "TOWBOAT LOST IN FOG",
+      "BARGE HITS THE BRIDGE",
+      "TRACK KINKED, RAILS NOT BROKEN",
+      "SIGNALS STAY GREEN",
+      "TRAIN DERAILS INTO BAYOU"
+    ],
+    "zaman": [],
+    "yanilgi": "The signal system didn't fail to detect a broken rail. The rail was bent, not broken, so the circuit stayed complete.",
+    "tartisma": "The pilot didn't know he had hit a bridge. How do you report an accident you don't know happened?",
+    "basliklar": [
+      "A Lost Barge Bent a Rail Bridge Minutes Before a Train",
+      "Why the Sunset Limited Crashed at Big Bayou Canot",
+      "The Bent Rail the Signals Couldn't See"
+    ],
+    "kapak": [
+      "BENT, NOT BROKEN",
+      "47 DEAD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Big Bayou Canot rail accident",
+        "url": "https://en.wikipedia.org/wiki/Big_Bayou_Canot_rail_accident"
+      },
+      {
+        "ad": "NTSB — RAR9401 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Pages/RAR9401.aspx"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Big_Bayou_Canot_rail_accident",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Sunset Limited Big Bayout Canot.png [Public domain]",
+      "Derailment of the Sunset Limited on September 22, 1993 - \"Figure 1. - \"Times relevant to accident.\" on page 1 of Railroad-Marine Accident Report, NTSB-RAR 94-01 (PB94 916301) (page 7 crop).jpg [Public domain]",
+      "Derailment of the Sunset Limited on September 22, 1993 - \"Figure 4. - MAUVILLA tow configuration and Big Bayou Canoe bridge.\" on page 6 of Railroad-Marine Accident Report, NTSB-RAR 94-01 (PB94 916301) (page 12 crop).jpg [Public domain]"
+    ]
+  }
+}

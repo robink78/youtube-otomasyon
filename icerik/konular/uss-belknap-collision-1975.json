@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Cruiser Whose Aluminum Superstructure Collapsed in Fire",
+  "kaynaklar": [
+    {
+      "ad": "uss-belknap-collision-1.jpg",
+      "wikimedia": "USS Belknap collision damage.jpg"
+    },
+    {
+      "ad": "uss-belknap-collision-2.jpg",
+      "wikimedia": "DN-SN-87-07295 USS Belknap damaged superstructure after collision.JPEG"
+    },
+    {
+      "ad": "uss-belknap-collision-3.jpg",
+      "wikimedia": "DN-SN-87-07314 USS Belknap burned wardroom after fire.jpeg"
+    },
+    {
+      "ad": "uss-belknap-collision-4.jpg",
+      "wikimedia": "DN-SN-87-07315 USS Belknap distorted beds by collision.jpeg"
+    },
+    {
+      "ad": "uss-belknap-collision-5.jpg",
+      "wikimedia": "DN-SN-87-07316 USS Belknap burned roomlamps.jpeg"
+    },
+    {
+      "ad": "uss-belknap-collision-6.jpg",
+      "wikimedia": "DN-SN-87-07317 USS Belknap damaged interior by collision.jpeg"
+    },
+    {
+      "ad": "uss-belknap-collision-7.jpg",
+      "wikimedia": "DN-SN-87-07318 USS Belknap distorted hatches by collision.jpeg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Off Sicily at night, the cruiser Belknap collided with the carrier John F. Kennedy.",
+      "kaynak": "Footage/uss-belknap-collision-1.jpg"
+    },
+    {
+      "metin": "Fire engulfed the cruiser, and eight sailors were killed.",
+      "kaynak": "Footage/uss-belknap-collision-2.jpg"
+    },
+    {
+      "metin": "Seven died on Belknap and one on the carrier.",
+      "kaynak": "Footage/uss-belknap-collision-3.jpg"
+    },
+    {
+      "metin": "The cruiser's superstructure was aluminum.",
+      "kaynak": "Footage/uss-belknap-collision-4.jpg"
+    },
+    {
+      "metin": "It saved weight.",
+      "kaynak": "Footage/uss-belknap-collision-5.jpg"
+    },
+    {
+      "metin": "But heat weakened it quickly.",
+      "kaynak": "Footage/uss-belknap-collision-6.jpg"
+    },
+    {
+      "metin": "The superstructure collapsed in the fire.",
+      "kaynak": "Footage/uss-belknap-collision-7.jpg"
+    },
+    {
+      "metin": "The Navy moved back toward steel.",
+      "kaynak": "Footage/uss-belknap-collision-1.jpg"
+    }
+  ],
+  "aciklama": "USS Belknap collided with a carrier and burned. The cause: fuel fire weakening an aluminum superstructure until it collapsed.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "USS Belknap",
+    "1975",
+    "aluminum superstructure",
+    "engineering failure"
+  ],
+  "hook": "The superstructure collapsed",
+  "soru": "How do you price fire risk?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "USS Belknap",
+    "kisa": "USS Belknap",
+    "nesne": "Aluminum superstructure",
+    "yil": 1975,
+    "sonuc": "collided with a carrier and burned",
+    "tetik": "a night collision with USS John F. Kennedy",
+    "mekanizma": "fuel fire weakening an aluminum superstructure until it collapsed",
+    "sayi": "COLLAPSED",
+    "ders": "the Navy moved back toward steel superstructures",
+    "zincir": [
+      "NIGHT MANOEUVRES",
+      "COLLISION WITH CARRIER",
+      "FUEL FIRE",
+      "ALUMINUM WEAKENS",
+      "SUPERSTRUCTURE COLLAPSES"
+    ],
+    "zaman": [],
+    "yanilgi": "Aluminum saved weight but lost strength in fire.",
+    "tartisma": "Lighter ships are faster and cheaper. How do you price fire risk into design?",
+    "basliklar": [
+      "The Cruiser Whose Aluminum Superstructure Collapsed in Fire",
+      "Why USS Belknap's Superstructure Collapsed",
+      "The Aluminum Warship That Melted"
+    ],
+    "kapak": [
+      "ALUMINUM",
+      "COLLAPSED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Belknap (CG-26)",
+        "url": "https://en.wikipedia.org/wiki/USS_Belknap_(CG-26)"
+      },
+      {
+        "ad": "Government source — belknap ii (cited by Wikipedia)",
+        "url": "http://www.history.navy.mil/research/histories/ship-histories/danfs/b/belknap-ii.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "USS_Belknap_(CG-26)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "USS Belknap collision damage.jpg [Public domain]",
+      "DN-SN-87-07295 USS Belknap damaged superstructure after collision.JPEG [Public domain]",
+      "DN-SN-87-07314 USS Belknap burned wardroom after fire.jpeg [Public domain]",
+      "DN-SN-87-07315 USS Belknap distorted beds by collision.jpeg [Public domain]",
+      "DN-SN-87-07316 USS Belknap burned roomlamps.jpeg [Public domain]",
+      "DN-SN-87-07317 USS Belknap damaged interior by collision.jpeg [Public domain]",
+      "DN-SN-87-07318 USS Belknap distorted hatches by collision.jpeg [Public domain]"
+    ]
+  }
+}

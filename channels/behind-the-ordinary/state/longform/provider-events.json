@@ -1,0 +1,332 @@
+[
+  {
+    "at": "2026-10-03T18:44:15.478Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "narrative-angle",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T18:44:15.478Z",
+    "channel": "behind-the-ordinary",
+    "event": "success",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "narrative-angle",
+    "attempt": 1,
+    "usage": {
+      "input_tokens": 5086,
+      "output_tokens": 1222
+    }
+  },
+  {
+    "at": "2026-10-03T18:44:15.478Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:THE_QUESTION",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T18:44:15.478Z",
+    "channel": "behind-the-ordinary",
+    "event": "success",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:THE_QUESTION",
+    "attempt": 1,
+    "usage": {
+      "input_tokens": 740,
+      "output_tokens": 1105
+    }
+  },
+  {
+    "at": "2026-10-03T18:44:15.478Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:ORIGIN_CONTEXT",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T18:44:15.478Z",
+    "channel": "behind-the-ordinary",
+    "event": "deferred",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:ORIGIN_CONTEXT",
+    "attempt": 1,
+    "code": "RATE_LIMIT",
+    "status": 429,
+    "retryable": true,
+    "retryAfterMs": 5000
+  },
+  {
+    "at": "2026-10-03T18:44:15.478Z",
+    "channel": "behind-the-ordinary",
+    "event": "retry_scheduled",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:ORIGIN_CONTEXT",
+    "attempt": 2,
+    "delayMs": 5000,
+    "code": "RATE_LIMIT"
+  },
+  {
+    "at": "2026-10-03T18:44:15.478Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:ORIGIN_CONTEXT",
+    "attempt": 2
+  },
+  {
+    "at": "2026-10-03T18:44:15.478Z",
+    "channel": "behind-the-ordinary",
+    "event": "deferred",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:ORIGIN_CONTEXT",
+    "attempt": 2,
+    "code": "RATE_LIMIT",
+    "status": 429,
+    "retryable": true,
+    "retryAfterMs": 6000
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:ORIGIN_CONTEXT",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "success",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:ORIGIN_CONTEXT",
+    "attempt": 1,
+    "usage": {
+      "input_tokens": 753,
+      "output_tokens": 715
+    }
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:THE_PROBLEM",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "success",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:THE_PROBLEM",
+    "attempt": 1,
+    "usage": {
+      "input_tokens": 581,
+      "output_tokens": 434
+    }
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:THE_EXPLANATION",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "success",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:THE_EXPLANATION",
+    "attempt": 1,
+    "usage": {
+      "input_tokens": 3316,
+      "output_tokens": 2973
+    }
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:SURPRISING_DETAIL",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "deferred",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:SURPRISING_DETAIL",
+    "attempt": 1,
+    "code": "RATE_LIMIT",
+    "status": 429,
+    "retryable": true,
+    "retryAfterMs": 7000
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "retry_scheduled",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:SURPRISING_DETAIL",
+    "attempt": 2,
+    "delayMs": 7000,
+    "code": "RATE_LIMIT"
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:SURPRISING_DETAIL",
+    "attempt": 2
+  },
+  {
+    "at": "2026-10-03T19:06:46.870Z",
+    "channel": "behind-the-ordinary",
+    "event": "deferred",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:SURPRISING_DETAIL",
+    "attempt": 2,
+    "code": "RATE_LIMIT",
+    "status": 429,
+    "retryable": true,
+    "retryAfterMs": 19000
+  },
+  {
+    "at": "2026-10-03T19:22:31.354Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:SURPRISING_DETAIL",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T19:22:31.354Z",
+    "channel": "behind-the-ordinary",
+    "event": "success",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:SURPRISING_DETAIL",
+    "attempt": 1,
+    "usage": {
+      "input_tokens": 949,
+      "output_tokens": 431
+    }
+  },
+  {
+    "at": "2026-10-03T19:22:31.354Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:REAL_WORLD_CONSEQUENCE",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T19:22:31.354Z",
+    "channel": "behind-the-ordinary",
+    "event": "success",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:REAL_WORLD_CONSEQUENCE",
+    "attempt": 1,
+    "usage": {
+      "input_tokens": 516,
+      "output_tokens": 623
+    }
+  },
+  {
+    "at": "2026-10-03T19:22:31.354Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:FINAL_PAYOFF",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T19:22:31.354Z",
+    "channel": "behind-the-ordinary",
+    "event": "success",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "section:FINAL_PAYOFF",
+    "attempt": 1,
+    "usage": {
+      "input_tokens": 470,
+      "output_tokens": 489
+    }
+  },
+  {
+    "at": "2026-10-03T19:22:31.354Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "narrative-angle",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T19:22:31.354Z",
+    "channel": "behind-the-ordinary",
+    "event": "failed",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "narrative-angle",
+    "attempt": 1,
+    "code": "REQUEST",
+    "status": 413,
+    "retryable": false,
+    "retryAfterMs": null
+  },
+  {
+    "at": "2026-10-03T19:22:31.354Z",
+    "channel": "behind-the-ordinary",
+    "event": "request",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "narrative-angle",
+    "attempt": 1
+  },
+  {
+    "at": "2026-10-03T19:22:31.354Z",
+    "channel": "behind-the-ordinary",
+    "event": "failed",
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "stage": "narrative-angle",
+    "attempt": 1,
+    "code": "REQUEST",
+    "status": 413,
+    "retryable": false,
+    "retryAfterMs": null
+  }
+]

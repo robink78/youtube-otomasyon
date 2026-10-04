@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Jet That Slid Off a Snowy Runway Into a Street",
+  "kaynaklar": [
+    {
+      "ad": "southwest-1248-1.jpg",
+      "wikimedia": "SWA1248 aftermath image.jpg"
+    },
+    {
+      "ad": "southwest-1248-2.jpg",
+      "wikimedia": "Southwest Airlines Flight 1248 -1.jpg"
+    },
+    {
+      "ad": "southwest-1248-3.jpg",
+      "wikimedia": "Southwest Airlines Flight 1248 after accident.jpg"
+    },
+    {
+      "ad": "southwest-1248-4.jpg",
+      "wikimedia": "Mdwild31c.JPG"
+    },
+    {
+      "ad": "southwest-1248-5.jpg",
+      "wikimedia": "N286WN - Boeing 737-7H4 - Southwest Airlines.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In a snowstorm, a Boeing 737 slid off the end of a runway at Chicago Midway.",
+      "kaynak": "Footage/southwest-1248-1.jpg"
+    },
+    {
+      "metin": "It crashed through a fence into a street, and a child in a car was killed.",
+      "kaynak": "Footage/southwest-1248-2.jpg"
+    },
+    {
+      "metin": "The runway was covered in snow.",
+      "kaynak": "Footage/southwest-1248-3.jpg"
+    },
+    {
+      "metin": "There was a tailwind component.",
+      "kaynak": "Footage/southwest-1248-4.jpg"
+    },
+    {
+      "metin": "The thrust reversers were deployed late.",
+      "kaynak": "Footage/southwest-1248-5.jpg"
+    },
+    {
+      "metin": "The jet needed more distance than it had.",
+      "kaynak": "Footage/southwest-1248-1.jpg"
+    },
+    {
+      "metin": "Midway has little space beyond its runways.",
+      "kaynak": "Footage/southwest-1248-2.jpg"
+    },
+    {
+      "metin": "Landing distance procedures were revised afterward.",
+      "kaynak": "Footage/southwest-1248-3.jpg"
+    }
+  ],
+  "aciklama": "Southwest 1248 slid off the runway into a Chicago street. The cause: runway overrun from contaminated runway, tailwind and late reverse thrust.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Southwest 1248",
+    "2005",
+    "runway",
+    "engineering failure"
+  ],
+  "hook": "It ended in the street",
+  "soru": "How much runway margin?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Southwest Airlines Flight 1248",
+    "kisa": "Southwest 1248",
+    "nesne": "Runway",
+    "yil": 2005,
+    "sonuc": "slid off the runway into a Chicago street",
+    "tetik": "a delayed use of thrust reversers on a snowy runway",
+    "mekanizma": "runway overrun from contaminated runway, tailwind and late reverse thrust",
+    "sayi": "INTO THE STREET",
+    "ders": "landing distance assessments and reverser procedures were revised",
+    "zincir": [
+      "SNOW ON RUNWAY",
+      "TAILWIND COMPONENT",
+      "REVERSERS DEPLOYED LATE",
+      "OVERRUN",
+      "HITS A CAR"
+    ],
+    "zaman": [],
+    "yanilgi": "The brakes worked. The jet needed more stopping distance than the crew's calculation assumed.",
+    "tartisma": "A child in a car outside the airport was killed. How much safety area should urban airports have?",
+    "basliklar": [
+      "The Jet That Slid Off a Snowy Runway Into a Street",
+      "Why Southwest Flight 1248 Overran the Runway",
+      "The Snowy Landing That Ended in a Street"
+    ],
+    "kapak": [
+      "OFF THE RUNWAY",
+      "SNOW"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Southwest Airlines Flight 1248",
+        "url": "https://en.wikipedia.org/wiki/Southwest_Airlines_Flight_1248"
+      },
+      {
+        "ad": "NTSB — AAR0706 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0706.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-14",
+    "wiki": "Southwest_Airlines_Flight_1248",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "SWA1248 aftermath image.jpg [Public domain]",
+      "Southwest Airlines Flight 1248 -1.jpg [Public domain]",
+      "Southwest Airlines Flight 1248 after accident.jpg [Public domain]",
+      "Mdwild31c.JPG [Public domain]",
+      "N286WN - Boeing 737-7H4 - Southwest Airlines.jpg [CC BY 2.0]"
+    ]
+  }
+}

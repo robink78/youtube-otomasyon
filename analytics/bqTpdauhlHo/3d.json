@@ -1,0 +1,646 @@
+{
+  "videoId": "bqTpdauhlHo",
+  "baslik": "Why Challenger Broke Apart 73 Seconds After Launch",
+  "yayin": "2026-09-26",
+  "yasGun": 3,
+  "sureSn": 28,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 1691,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 77,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 3,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": 281,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewDuration": {
+      "deger": 26,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewPercentage": {
+      "deger": 93.43,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "subscribersGained": {
+      "deger": 3,
+      "durum": "ok",
+      "kaynak": "Analytics API (net)"
+    },
+    "shares": {
+      "deger": 1,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "first30sRetention": {
+      "deger": 0.6778,
+      "durum": "ok",
+      "kaynak": "Analytics API (retention at 100% of video)"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": 1.8,
+      "durum": "ok",
+      "kaynak": "derived"
+    },
+    "likeRate": {
+      "deger": 4.6,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 0.18,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": [
+    {
+      "kaynak": "SHORTS",
+      "ad": "Shorts feed",
+      "views": 1300,
+      "oran": 0.8766014834794336
+    },
+    {
+      "kaynak": "YT_SEARCH",
+      "ad": "Search",
+      "views": 160,
+      "oran": 0.1078894133513149
+    },
+    {
+      "kaynak": "YT_OTHER_PAGE",
+      "ad": "Browse/other YouTube",
+      "views": 12,
+      "oran": 0.008091706001348618
+    },
+    {
+      "kaynak": "YT_CHANNEL",
+      "ad": "Channel page",
+      "views": 10,
+      "oran": 0.006743088334457181
+    },
+    {
+      "kaynak": "NOTIFICATION",
+      "ad": "Notifications",
+      "views": 1,
+      "oran": 0.0006743088334457181
+    },
+    {
+      "kaynak": "NO_LINK_OTHER",
+      "ad": "Direct/unknown",
+      "views": 0,
+      "oran": 0
+    }
+  ],
+  "tutma": [
+    {
+      "oran": 0.01,
+      "izleme": 1.6661000000000001,
+      "goreceli": 0.67015
+    },
+    {
+      "oran": 0.02,
+      "izleme": 1.6543999999999999,
+      "goreceli": 0.66065
+    },
+    {
+      "oran": 0.03,
+      "izleme": 1.6194,
+      "goreceli": 0.6514
+    },
+    {
+      "oran": 0.04,
+      "izleme": 1.5743,
+      "goreceli": 0.64275
+    },
+    {
+      "oran": 0.05,
+      "izleme": 1.5275,
+      "goreceli": 0.63495
+    },
+    {
+      "oran": 0.06,
+      "izleme": 1.5025,
+      "goreceli": 0.6282
+    },
+    {
+      "oran": 0.07,
+      "izleme": 1.4741,
+      "goreceli": 0.6227
+    },
+    {
+      "oran": 0.08,
+      "izleme": 1.4424000000000001,
+      "goreceli": 0.6184000000000001
+    },
+    {
+      "oran": 0.09,
+      "izleme": 1.419,
+      "goreceli": 0.6152
+    },
+    {
+      "oran": 0.1,
+      "izleme": 1.4106999999999998,
+      "goreceli": 0.61305
+    },
+    {
+      "oran": 0.11,
+      "izleme": 1.3957,
+      "goreceli": 0.6117
+    },
+    {
+      "oran": 0.12,
+      "izleme": 1.3756,
+      "goreceli": 0.6111
+    },
+    {
+      "oran": 0.13,
+      "izleme": 1.3706,
+      "goreceli": 0.611
+    },
+    {
+      "oran": 0.14,
+      "izleme": 1.3606,
+      "goreceli": 0.6113500000000001
+    },
+    {
+      "oran": 0.15,
+      "izleme": 1.3506,
+      "goreceli": 0.612
+    },
+    {
+      "oran": 0.16,
+      "izleme": 1.3138999999999998,
+      "goreceli": 0.6129
+    },
+    {
+      "oran": 0.17,
+      "izleme": 1.2738,
+      "goreceli": 0.614
+    },
+    {
+      "oran": 0.18,
+      "izleme": 1.2454,
+      "goreceli": 0.6153500000000001
+    },
+    {
+      "oran": 0.19,
+      "izleme": 1.2087,
+      "goreceli": 0.6168
+    },
+    {
+      "oran": 0.2,
+      "izleme": 1.1903,
+      "goreceli": 0.6184499999999999
+    },
+    {
+      "oran": 0.21,
+      "izleme": 1.1703000000000001,
+      "goreceli": 0.6203
+    },
+    {
+      "oran": 0.22,
+      "izleme": 1.1569,
+      "goreceli": 0.6223
+    },
+    {
+      "oran": 0.23,
+      "izleme": 1.1436,
+      "goreceli": 0.6245499999999999
+    },
+    {
+      "oran": 0.24,
+      "izleme": 1.1401999999999999,
+      "goreceli": 0.62695
+    },
+    {
+      "oran": 0.25,
+      "izleme": 1.1269,
+      "goreceli": 0.62965
+    },
+    {
+      "oran": 0.26,
+      "izleme": 1.1018000000000001,
+      "goreceli": 0.63255
+    },
+    {
+      "oran": 0.27,
+      "izleme": 1.0835,
+      "goreceli": 0.63575
+    },
+    {
+      "oran": 0.28,
+      "izleme": 1.0735,
+      "goreceli": 0.63925
+    },
+    {
+      "oran": 0.29,
+      "izleme": 1.0618,
+      "goreceli": 0.64305
+    },
+    {
+      "oran": 0.3,
+      "izleme": 1.0451000000000001,
+      "goreceli": 0.64725
+    },
+    {
+      "oran": 0.31,
+      "izleme": 1.0334,
+      "goreceli": 0.65175
+    },
+    {
+      "oran": 0.32,
+      "izleme": 1.025,
+      "goreceli": 0.6567000000000001
+    },
+    {
+      "oran": 0.33,
+      "izleme": 1.01,
+      "goreceli": 0.6621
+    },
+    {
+      "oran": 0.34,
+      "izleme": 1.0033,
+      "goreceli": 0.66795
+    },
+    {
+      "oran": 0.35,
+      "izleme": 0.9833,
+      "goreceli": 0.67435
+    },
+    {
+      "oran": 0.36,
+      "izleme": 0.9765999999999999,
+      "goreceli": 0.6812
+    },
+    {
+      "oran": 0.37,
+      "izleme": 0.9682999999999999,
+      "goreceli": 0.68865
+    },
+    {
+      "oran": 0.38,
+      "izleme": 0.9533,
+      "goreceli": 0.6967
+    },
+    {
+      "oran": 0.39,
+      "izleme": 0.9416,
+      "goreceli": 0.7052499999999999
+    },
+    {
+      "oran": 0.4,
+      "izleme": 0.9331999999999999,
+      "goreceli": 0.71445
+    },
+    {
+      "oran": 0.41,
+      "izleme": 0.9198999999999999,
+      "goreceli": 0.72415
+    },
+    {
+      "oran": 0.42,
+      "izleme": 0.9081999999999999,
+      "goreceli": 0.7344
+    },
+    {
+      "oran": 0.43,
+      "izleme": 0.8981999999999999,
+      "goreceli": 0.74505
+    },
+    {
+      "oran": 0.44,
+      "izleme": 0.8898,
+      "goreceli": 0.75615
+    },
+    {
+      "oran": 0.45,
+      "izleme": 0.8848,
+      "goreceli": 0.7675000000000001
+    },
+    {
+      "oran": 0.46,
+      "izleme": 0.8748,
+      "goreceli": 0.7789999999999999
+    },
+    {
+      "oran": 0.47,
+      "izleme": 0.8664000000000001,
+      "goreceli": 0.79055
+    },
+    {
+      "oran": 0.48,
+      "izleme": 0.8564,
+      "goreceli": 0.802
+    },
+    {
+      "oran": 0.49,
+      "izleme": 0.8514,
+      "goreceli": 0.81325
+    },
+    {
+      "oran": 0.5,
+      "izleme": 0.8497,
+      "goreceli": 0.8240999999999999
+    },
+    {
+      "oran": 0.51,
+      "izleme": 0.8481000000000001,
+      "goreceli": 0.83445
+    },
+    {
+      "oran": 0.52,
+      "izleme": 0.8447,
+      "goreceli": 0.8442000000000001
+    },
+    {
+      "oran": 0.53,
+      "izleme": 0.8397,
+      "goreceli": 0.8532500000000001
+    },
+    {
+      "oran": 0.54,
+      "izleme": 0.8347,
+      "goreceli": 0.8615999999999999
+    },
+    {
+      "oran": 0.55,
+      "izleme": 0.8331000000000001,
+      "goreceli": 0.86915
+    },
+    {
+      "oran": 0.56,
+      "izleme": 0.8331000000000001,
+      "goreceli": 0.8759
+    },
+    {
+      "oran": 0.57,
+      "izleme": 0.8264,
+      "goreceli": 0.8818999999999999
+    },
+    {
+      "oran": 0.58,
+      "izleme": 0.8214,
+      "goreceli": 0.8872500000000001
+    },
+    {
+      "oran": 0.59,
+      "izleme": 0.818,
+      "goreceli": 0.8918999999999999
+    },
+    {
+      "oran": 0.6,
+      "izleme": 0.818,
+      "goreceli": 0.896
+    },
+    {
+      "oran": 0.61,
+      "izleme": 0.813,
+      "goreceli": 0.8996
+    },
+    {
+      "oran": 0.62,
+      "izleme": 0.8097,
+      "goreceli": 0.9027499999999999
+    },
+    {
+      "oran": 0.63,
+      "izleme": 0.8079999999999999,
+      "goreceli": 0.9056
+    },
+    {
+      "oran": 0.64,
+      "izleme": 0.8029999999999999,
+      "goreceli": 0.9081
+    },
+    {
+      "oran": 0.65,
+      "izleme": 0.8029999999999999,
+      "goreceli": 0.9104
+    },
+    {
+      "oran": 0.66,
+      "izleme": 0.7963,
+      "goreceli": 0.91245
+    },
+    {
+      "oran": 0.67,
+      "izleme": 0.7896,
+      "goreceli": 0.91435
+    },
+    {
+      "oran": 0.68,
+      "izleme": 0.7879999999999999,
+      "goreceli": 0.9160999999999999
+    },
+    {
+      "oran": 0.69,
+      "izleme": 0.7863,
+      "goreceli": 0.9177500000000001
+    },
+    {
+      "oran": 0.7,
+      "izleme": 0.7813,
+      "goreceli": 0.9192499999999999
+    },
+    {
+      "oran": 0.71,
+      "izleme": 0.773,
+      "goreceli": 0.9207000000000001
+    },
+    {
+      "oran": 0.72,
+      "izleme": 0.7746,
+      "goreceli": 0.92205
+    },
+    {
+      "oran": 0.73,
+      "izleme": 0.7679,
+      "goreceli": 0.9233
+    },
+    {
+      "oran": 0.74,
+      "izleme": 0.7646,
+      "goreceli": 0.9245000000000001
+    },
+    {
+      "oran": 0.75,
+      "izleme": 0.7613,
+      "goreceli": 0.92565
+    },
+    {
+      "oran": 0.76,
+      "izleme": 0.7595999999999999,
+      "goreceli": 0.92675
+    },
+    {
+      "oran": 0.77,
+      "izleme": 0.7595999999999999,
+      "goreceli": 0.92775
+    },
+    {
+      "oran": 0.78,
+      "izleme": 0.7495999999999999,
+      "goreceli": 0.92875
+    },
+    {
+      "oran": 0.79,
+      "izleme": 0.7495999999999999,
+      "goreceli": 0.9297
+    },
+    {
+      "oran": 0.8,
+      "izleme": 0.7495999999999999,
+      "goreceli": 0.93055
+    },
+    {
+      "oran": 0.81,
+      "izleme": 0.7479,
+      "goreceli": 0.9314
+    },
+    {
+      "oran": 0.82,
+      "izleme": 0.7429000000000001,
+      "goreceli": 0.93225
+    },
+    {
+      "oran": 0.83,
+      "izleme": 0.7345999999999999,
+      "goreceli": 0.933
+    },
+    {
+      "oran": 0.84,
+      "izleme": 0.7345999999999999,
+      "goreceli": 0.9337
+    },
+    {
+      "oran": 0.85,
+      "izleme": 0.7312000000000001,
+      "goreceli": 0.9343999999999999
+    },
+    {
+      "oran": 0.86,
+      "izleme": 0.7279000000000001,
+      "goreceli": 0.93505
+    },
+    {
+      "oran": 0.87,
+      "izleme": 0.7279000000000001,
+      "goreceli": 0.9357
+    },
+    {
+      "oran": 0.88,
+      "izleme": 0.7245,
+      "goreceli": 0.93625
+    },
+    {
+      "oran": 0.89,
+      "izleme": 0.7229000000000001,
+      "goreceli": 0.9368000000000001
+    },
+    {
+      "oran": 0.9,
+      "izleme": 0.7179000000000001,
+      "goreceli": 0.9373
+    },
+    {
+      "oran": 0.91,
+      "izleme": 0.7112,
+      "goreceli": 0.93775
+    },
+    {
+      "oran": 0.92,
+      "izleme": 0.7095,
+      "goreceli": 0.9381999999999999
+    },
+    {
+      "oran": 0.93,
+      "izleme": 0.7078,
+      "goreceli": 0.9386
+    },
+    {
+      "oran": 0.94,
+      "izleme": 0.6962,
+      "goreceli": 0.9390000000000001
+    },
+    {
+      "oran": 0.95,
+      "izleme": 0.6928,
+      "goreceli": 0.9393
+    },
+    {
+      "oran": 0.96,
+      "izleme": 0.6861,
+      "goreceli": 0.9396
+    },
+    {
+      "oran": 0.97,
+      "izleme": 0.6811,
+      "goreceli": 0.9398500000000001
+    },
+    {
+      "oran": 0.98,
+      "izleme": 0.6795,
+      "goreceli": 0.9400999999999999
+    },
+    {
+      "oran": 0.99,
+      "izleme": 0.6778,
+      "goreceli": 0.9403
+    },
+    {
+      "oran": 1,
+      "izleme": 0.6778,
+      "goreceli": 0.9404999999999999
+    }
+  ],
+  "analitikDurumu": "ok",
+  "toplandi": "2026-09-29T18:18:16.185Z",
+  "checkpoint": "3d",
+  "teshis": [
+    {
+      "kod": "HEALTHY",
+      "guven": "low",
+      "aciklama": "No problem pattern detected with available data.",
+      "oneri": "Keep; revisit at the next checkpoint."
+    }
+  ],
+  "retentionDrop": {
+    "second": 1,
+    "magnitude": 0.1268999999999998,
+    "sceneIndex": 0,
+    "sentence": "Seventy-three seconds after launch, Challenger broke apart.",
+    "visualType": "REAL ARCHIVAL/LICENCED FOOTAGE"
+  }
+}

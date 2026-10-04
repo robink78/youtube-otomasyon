@@ -1,0 +1,160 @@
+{
+  "channel": "impossible-brief",
+  "updatedAt": "2026-10-04T17:38:43.994Z",
+  "calibration": {
+    "short": {
+      "topicScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "viralScore": {
+        "n": 2,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "hookScore": {
+        "n": 2,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "titleScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "readiness": {
+        "n": 2,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "popularityScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      }
+    },
+    "long": {
+      "topicScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "viralScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "hookScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "titleScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "readiness": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "popularityScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      }
+    }
+  },
+  "rows": [
+    {
+      "videoId": "NobEECFBrwo",
+      "slug": "what-if-sunlight-could-push-a-spaceship",
+      "contentType": "short",
+      "cluster": "FUTURE TECHNOLOGY",
+      "publishAt": "2026-09-30T18:00:00.000Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": 81,
+        "titleScore": null,
+        "readiness": 91,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": null,
+        "views": null,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": null
+      }
+    },
+    {
+      "videoId": "5yPoQCElJuk",
+      "slug": "what-if-we-swam-in-europas-ocean",
+      "contentType": "short",
+      "cluster": "SPACE",
+      "publishAt": "2026-10-02T18:00:21Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": 80,
+        "hookScore": 76,
+        "titleScore": null,
+        "readiness": 89,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 72.9,
+        "views": 493,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "24h"
+      }
+    },
+    {
+      "videoId": "Vuvx5nEqcaY",
+      "slug": "what-if-you-put-saturn-in-a-bathtub",
+      "contentType": "short",
+      "cluster": "SPACE",
+      "publishAt": "2026-10-04T22:00:00.000Z",
+      "predicted": {
+        "topicScore": 88,
+        "viralScore": 79,
+        "hookScore": 84,
+        "titleScore": 78,
+        "readiness": 91,
+        "popularityScore": 80
+      },
+      "outcome": {
+        "growthScore": null,
+        "views": null,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": null
+      }
+    },
+    {
+      "videoId": "u0iftg8gF5w",
+      "slug": "what-if-the-dinosaur-killing-asteroid-hit-today",
+      "contentType": "short",
+      "cluster": "SPACE",
+      "publishAt": "2026-10-03T22:00:01Z",
+      "predicted": {
+        "topicScore": 89,
+        "viralScore": 80,
+        "hookScore": 81,
+        "titleScore": 76,
+        "readiness": 89,
+        "popularityScore": 81
+      },
+      "outcome": {
+        "growthScore": 27.1,
+        "views": 167,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "1h"
+      }
+    }
+  ]
+}

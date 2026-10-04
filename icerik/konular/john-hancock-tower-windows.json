@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Skyscraper Whose Windows Fell Out",
+  "kaynaklar": [
+    {
+      "ad": "john-hancock-tower-windo-1.jpg",
+      "wikimedia": "John Hancock Building with wind damage, by Ernst Halberstadt, January 31, 1973, from the Digital Commonwealth - commonwealth k069bs06k.jpg"
+    },
+    {
+      "ad": "john-hancock-tower-windo-2.jpg",
+      "wikimedia": "Boston skyline (8610212310).jpg"
+    },
+    {
+      "ad": "john-hancock-tower-windo-3.jpg",
+      "wikimedia": "Wind damage John Hancock, Boston, by Ernst Halberstadt, April 11, 1973, from the Digital Commonwealth - commonwealth tb09mn99f.jpg"
+    },
+    {
+      "ad": "john-hancock-tower-windo-4.jpg",
+      "wikimedia": "Boston skyline (8657140963).jpg"
+    },
+    {
+      "ad": "john-hancock-tower-windo-5.jpg",
+      "wikimedia": "THE OLD JOHN HANCOCK BUILDING IS REFLECTED IN THE GLASS FRONT OF THE NEW JOHN HANCOCK BUILDING - NARA - 549997.jpg"
+    },
+    {
+      "ad": "john-hancock-tower-windo-6.jpg",
+      "wikimedia": "2007-0925-Boston-JohnHancockTower.jpg"
+    },
+    {
+      "ad": "john-hancock-tower-windo-7.jpg",
+      "wikimedia": "Hancock Tower (8495206437).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Boston's new blue glass skyscraper began losing its windows.",
+      "kaynak": "Footage/john-hancock-tower-windo-1.jpg"
+    },
+    {
+      "metin": "Suddenly huge panes fell from the tower to the street below.",
+      "kaynak": "Footage/john-hancock-tower-windo-2.jpg"
+    },
+    {
+      "metin": "Each window had two layers of glass bonded together.",
+      "kaynak": "Footage/john-hancock-tower-windo-3.jpg"
+    },
+    {
+      "metin": "The bond was too stiff to flex.",
+      "kaynak": "Footage/john-hancock-tower-windo-4.jpg"
+    },
+    {
+      "metin": "Repeated heating and cooling cracked the panes.",
+      "kaynak": "Footage/john-hancock-tower-windo-5.jpg"
+    },
+    {
+      "metin": "Plywood covered the gaps, earning the name Plywood Palace.",
+      "kaynak": "Footage/john-hancock-tower-windo-6.jpg"
+    },
+    {
+      "metin": "All ten thousand three hundred forty four panes were replaced.",
+      "kaynak": "Footage/john-hancock-tower-windo-7.jpg"
+    },
+    {
+      "metin": "A tuned mass damper was added to stop the sway.",
+      "kaynak": "Footage/john-hancock-tower-windo-1.jpg"
+    }
+  ],
+  "aciklama": "Hancock Tower lost window panes that fell to the street. The cause: repeated thermal stress and oscillation cracking over-stiff bonded window units.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Hancock Tower",
+    "1973",
+    "window panes",
+    "engineering failure"
+  ],
+  "hook": "Its windows fell out",
+  "soru": "How many flaws can one building hide?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "the John Hancock Tower",
+    "kisa": "Hancock Tower",
+    "nesne": "Window panes",
+    "yil": 1973,
+    "sonuc": "lost window panes that fell to the street",
+    "tetik": "thermal stress in stiffly bonded double glazing",
+    "mekanizma": "repeated thermal stress and oscillation cracking over-stiff bonded window units",
+    "sayi": "10,344 PANES",
+    "ders": "every pane was replaced and a tuned mass damper was installed",
+    "zincir": [
+      "DOUBLE-GLAZED PANELS",
+      "BOND TOO STIFF",
+      "THERMAL STRESS REPEATS",
+      "PANES CRACK AND FALL",
+      "PLYWOOD REPLACES GLASS"
+    ],
+    "zaman": [],
+    "yanilgi": "The wind didn't blow them out. The bond inside each window was too stiff to flex.",
+    "tartisma": "Engineers later found the tower could also have toppled in some winds. How many flaws can one building hide?",
+    "basliklar": [
+      "The Skyscraper Whose Windows Fell Out",
+      "Why the Hancock Tower Windows Fell Out",
+      "The Plywood Palace of Boston"
+    ],
+    "kapak": [
+      "FALLING GLASS",
+      "PLYWOOD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — John Hancock Tower",
+        "url": "https://en.wikipedia.org/wiki/John_Hancock_Tower"
+      },
+      {
+        "ad": "Government source — sh2014000822 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/sh2014000822"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "John_Hancock_Tower",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "John Hancock Building with wind damage, by Ernst Halberstadt, January 31, 1973, from the Digital Commonwealth - commonwealth k069bs06k.jpg [Public domain]",
+      "Boston skyline (8610212310).jpg [CC BY 2.0]",
+      "Wind damage John Hancock, Boston, by Ernst Halberstadt, April 11, 1973, from the Digital Commonwealth - commonwealth tb09mn99f.jpg [Public domain]",
+      "Boston skyline (8657140963).jpg [CC BY 2.0]",
+      "THE OLD JOHN HANCOCK BUILDING IS REFLECTED IN THE GLASS FRONT OF THE NEW JOHN HANCOCK BUILDING - NARA - 549997.jpg [Public domain]",
+      "2007-0925-Boston-JohnHancockTower.jpg [CC BY 3.0]",
+      "Hancock Tower (8495206437).jpg [CC BY 2.0]"
+    ]
+  }
+}

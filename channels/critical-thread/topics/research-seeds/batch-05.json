@@ -1,0 +1,1480 @@
+{
+  "channel": "critical-thread",
+  "records": [
+    {
+      "slug": "what-quietly-depends-on-grain-elevator",
+      "topic": "The Silos Holding 25 Billion Bushels",
+      "coreQuestion": "Where does a harvest wait between the field and your bread, and why does it matter?",
+      "openingLine": "Why 25 billion bushels wait in silos.",
+      "secondBeat": "That's America's grain storage capacity, as of 2017.",
+      "dependency": "Farmers, millers and exporters depend on grain elevators to store and move harvests year-round.",
+      "mechanism": "Elevators receive grain at harvest, dry and store it, then load it onto trains, barges and ships.",
+      "bottleneck": "Storage has consolidated into far fewer, larger elevators.",
+      "failureConsequence": "An elevator outage at harvest leaves grain piled in fields or unsold.",
+      "resilience": "On-farm bins and temporary piles cover some shortfalls, with spoilage risk.",
+      "expectedConsequence": "prices at the farm gate drop when storage runs short",
+      "number": "25 billion bushels",
+      "thumbnailText": "25 BILLION BUSHELS",
+      "visualScenes": [
+        "prairie grain elevator at harvest",
+        "grain pouring into bins",
+        "trucks queuing at the elevator",
+        "consolidation chart 1961 to 2010",
+        "rail cars loading grain",
+        "storage capacity map"
+      ],
+      "editorialTitles": [
+        "The Silos Between the Field and Your Bread",
+        "Why Grain Storage Is a Hidden Chokepoint"
+      ],
+      "facts": [
+        {
+          "claim": "In 2017, the United States had 0.88 cubic kilometres (25 billion US bushels) of storage capacity, a growth of 25% over the previous decade.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Grain elevator",
+          "url": "https://en.wikipedia.org/wiki/Grain_elevator"
+        },
+        {
+          "claim": "In 1961, 1,642 country elevators were in Alberta, holding 3,452,240 tonnes of grain.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Grain elevator",
+          "url": "https://en.wikipedia.org/wiki/Grain_elevator"
+        },
+        {
+          "claim": "By 2010, only 79 primary elevators remained, holding 1,613,960 tonnes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Grain elevator",
+          "url": "https://en.wikipedia.org/wiki/Grain_elevator"
+        },
+        {
+          "claim": "It had a capacity of 40,000 tons and its automatic conveying and spouting system could distribute grain into 226 bins.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Grain elevator",
+          "url": "https://en.wikipedia.org/wiki/Grain_elevator"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 25 billion bushels wait in silos.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's America's grain storage capacity, as of 2017.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Elevators hold harvests until mills and ships are ready.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "In 1961, Alberta had 1,642 country elevators.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "By 2010, only 79 primary elevators remained.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "US storage capacity grew 25% in a decade.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Lose one at harvest, and grain has nowhere to go.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a few big silos steady the price of bread.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-blood-bank-cold-storage-becomes-the-bottleneck",
+      "topic": "Why Donated Blood Expires in 42 Days",
+      "coreQuestion": "Why can't hospitals stockpile blood, and what happens when cold storage fails?",
+      "openingLine": "Why donated red cells expire in 42 days.",
+      "secondBeat": "They're refrigerated at 1 to 6 °C.",
+      "dependency": "Surgery, trauma care and cancer treatment depend on a steady supply of stored blood components.",
+      "mechanism": "Red cells are refrigerated, platelets kept at room temperature, and plasma frozen, each with its own shelf life.",
+      "bottleneck": "Short shelf lives mean supply must be replenished constantly by donors.",
+      "failureConsequence": "A refrigeration failure can force blood banks to discard stock.",
+      "resilience": "Regional networks can ship units between hospitals.",
+      "expectedConsequence": "elective surgeries are postponed when stocks run low",
+      "number": "42 days",
+      "thumbnailText": "42-DAY EXPIRY",
+      "visualScenes": [
+        "blood bags in a refrigerator",
+        "shelf-life comparison chart by component",
+        "platelet agitator at room temperature",
+        "plasma freezer at −30 °C",
+        "donor giving blood",
+        "courier moving units between hospitals"
+      ],
+      "editorialTitles": [
+        "Why Blood Can't Be Stockpiled",
+        "The Cold Chain Behind Every Transfusion"
+      ],
+      "facts": [
+        {
+          "claim": "Units of whole blood and red blood cells are kept refrigerated at 1.0 to 6.0 °C, with maximum permitted storage periods of 35 and 42 days respectively.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Blood bank",
+          "url": "https://en.wikipedia.org/wiki/Blood_bank"
+        },
+        {
+          "claim": "Platelets can be stored at room temperature for up to 5–7 days.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Blood bank",
+          "url": "https://en.wikipedia.org/wiki/Blood_bank"
+        },
+        {
+          "claim": "Fresh frozen plasma can be stored at a very low temperature of −30 °C for up to 12 months.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Blood bank",
+          "url": "https://en.wikipedia.org/wiki/Blood_bank"
+        },
+        {
+          "claim": "Further extending the shelf life of stored blood up to 42 days was an anticoagulant preservative, CPDA-1, introduced in 1979.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Blood bank",
+          "url": "https://en.wikipedia.org/wiki/Blood_bank"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why donated red cells expire in 42 days.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "They're refrigerated at 1 to 6 °C.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Platelets last only 5 to 7 days at room temperature.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Plasma, frozen at −30 °C, keeps for 12 months.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "A 1979 preservative stretched red-cell life to 42 days.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "One failed fridge can force a hospital to discard its stock.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why blood supply depends on donors every single week.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-securities-central-depository-becomes-the-bottleneck",
+      "topic": "The Company That Settled $2.5 Quadrillion",
+      "coreQuestion": "Who actually records that you own a share, and how much flows through them?",
+      "openingLine": "Why $2.5 quadrillion flowed through one company.",
+      "secondBeat": "That's what DTCC settled in 2022.",
+      "dependency": "Most U.S. securities trades settle through DTCC's depository and clearing subsidiaries.",
+      "mechanism": "Securities are immobilised in a central depository and ownership changes by book entry.",
+      "bottleneck": "One organisation settles the vast majority of U.S. securities transactions.",
+      "failureConsequence": "An outage would freeze settlement across the market.",
+      "resilience": "Backup sites and settlement cycles are designed to absorb disruptions.",
+      "expectedConsequence": "trades would stall unsettled and margin calls would spread",
+      "number": "$2.5 quadrillion",
+      "thumbnailText": "$2.5 QUADRILLION",
+      "visualScenes": [
+        "stock certificate vault from the 1970s",
+        "book-entry ledger animation",
+        "settlement flow diagram",
+        "value processed comparison chart",
+        "trading floor screens",
+        "backup data centre"
+      ],
+      "editorialTitles": [
+        "The Company That Settles the Stock Market",
+        "Why Your Shares Live in One Depository"
+      ],
+      "facts": [
+        {
+          "claim": "In 2022, DTCC settled the vast majority of securities transactions in the United States and $2.50 quadrillion in value worldwide, making it by far the highest financial value processor in the world.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Depository Trust & Clearing Corporation",
+          "url": "https://en.wikipedia.org/wiki/Depository_Trust_%26_Clearing_Corporation"
+        },
+        {
+          "claim": "DTCC was established in 1999 as a holding company to combine the Depository Trust Company (DTC) and National Securities Clearing Corporation (NSCC).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Depository Trust & Clearing Corporation",
+          "url": "https://en.wikipedia.org/wiki/Depository_Trust_%26_Clearing_Corporation"
+        },
+        {
+          "claim": "Established in 1973, DTC was created to reduce costs and provide efficiencies by immobilizing securities and making book-entry changes to show ownership of the securities.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Depository Trust & Clearing Corporation",
+          "url": "https://en.wikipedia.org/wiki/Depository_Trust_%26_Clearing_Corporation"
+        },
+        {
+          "claim": "On March 3, 2022, DTCC blocked Russian securities from the Bank of Russia and The Ministry of Finance of the Russian Federation.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Depository Trust & Clearing Corporation",
+          "url": "https://en.wikipedia.org/wiki/Depository_Trust_%26_Clearing_Corporation"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why $2.5 quadrillion flowed through one company.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's what DTCC settled in 2022.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It settles the vast majority of U.S. securities trades.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Since 1973, shares have sat immobilised in its depository.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Ownership changes by book entry, not paper certificates.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "If it stopped, trades would pile up unsettled.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why owning a share means trusting one ledger.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-uninterruptible-power-supply",
+      "topic": "The Batteries Buying Data Centres 15 Minutes",
+      "coreQuestion": "What keeps servers running in the seconds after the grid fails?",
+      "openingLine": "The grid fails. The batteries have 15 minutes.",
+      "secondBeat": "That's typical battery runtime for an uninterruptible power supply.",
+      "dependency": "Data centres, telecom sites and hospitals depend on UPS systems to bridge power cuts.",
+      "mechanism": "Batteries supply power instantly while generators start or equipment shuts down safely.",
+      "bottleneck": "Battery runtime is short, so the generator handover must work every time.",
+      "failureConsequence": "If the UPS or the handover fails, servers drop instantly.",
+      "resilience": "Redundant UPS modules and generators reduce single points of failure.",
+      "expectedConsequence": "a failed handover turns a brief outage into a full crash",
+      "number": "5–15 minutes",
+      "thumbnailText": "15 MINUTES POWER",
+      "visualScenes": [
+        "battery strings in a UPS room",
+        "power cut timeline with handover",
+        "diesel generator starting",
+        "server racks blinking",
+        "switch-over milliseconds graphic",
+        "48 V telecom power plant"
+      ],
+      "editorialTitles": [
+        "What Happens to Data Centres When the Grid Fails?",
+        "The Batteries Behind Every Data Centre",
+        "Why Servers Survive a Blackout"
+      ],
+      "facts": [
+        {
+          "claim": "The on-battery run-time of most uninterruptible power sources is relatively short (typically ranging from 5 to 15 minutes) but sufficient to start a standby power source or properly shut down the protected equipment.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Uninterruptible power supply",
+          "url": "https://en.wikipedia.org/wiki/Uninterruptible_power_supply"
+        },
+        {
+          "claim": "The switch-over time can be as long as 25 milliseconds depending on the amount of time it takes the standby UPS to detect the lost utility voltage.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Uninterruptible power supply",
+          "url": "https://en.wikipedia.org/wiki/Uninterruptible_power_supply"
+        },
+        {
+          "claim": "Many ferroresonant UPSs are 82–88% efficient (AC/DC-AC) and offer excellent isolation.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Uninterruptible power supply",
+          "url": "https://en.wikipedia.org/wiki/Uninterruptible_power_supply"
+        },
+        {
+          "claim": "Many systems used in telecommunications use an extra-low voltage common battery 48 V DC power.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Uninterruptible power supply",
+          "url": "https://en.wikipedia.org/wiki/Uninterruptible_power_supply"
+        }
+      ],
+      "narration": [
+        {
+          "text": "The grid fails. The batteries have 15 minutes.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's typical battery runtime for an uninterruptible power supply.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It's enough to start generators or shut down safely.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Some standby units take up to 25 milliseconds to switch over.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "If the generator doesn't start in time, everything drops.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Telecom sites often run on 48-volt battery plants.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why the internet's uptime rests on a few minutes of batteries.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-lead-service-line-replacement-program",
+      "topic": "The Pipes Behind the Flint Water Crisis",
+      "coreQuestion": "How did a change in water treatment expose a city to lead from its own pipes?",
+      "openingLine": "Why 100,000 people drank from leaching pipes.",
+      "secondBeat": "Flint skipped corrosion inhibitors, and old lead lines leached.",
+      "dependency": "Cities with old lead service lines depend on corrosion control to keep lead out of tap water.",
+      "mechanism": "Corrosion inhibitors form a protective layer inside pipes; without them, lead leaches into water.",
+      "bottleneck": "Lead lines run to individual homes and are slow and costly to replace.",
+      "failureConsequence": "Without corrosion control, lead exposure spreads through the network.",
+      "resilience": "Replacement programmes remove lead lines, one street at a time.",
+      "expectedConsequence": "residents rely on bottled water while pipes are dug up",
+      "number": "100,000 residents",
+      "thumbnailText": "LEAD IN PIPES",
+      "visualScenes": [
+        "corroded lead service line cross-section",
+        "Flint river intake",
+        "corrosion inhibitor layer diagram",
+        "bottled water distribution",
+        "street excavation for pipe replacement",
+        "timeline 2014 to 2019"
+      ],
+      "editorialTitles": [
+        "How Old Pipes Poisoned Flint's Water",
+        "Why Lead Lines Are So Hard to Replace"
+      ],
+      "facts": [
+        {
+          "claim": "The Flint water crisis was a public health crisis from 2014 to 2019 which involved the drinking water for the city of Flint, Michigan, being contaminated with lead.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Flint water crisis",
+          "url": "https://en.wikipedia.org/wiki/Flint_water_crisis"
+        },
+        {
+          "claim": "Officials failed to apply corrosion inhibitors to the water, which resulted in lead from aging pipes leaching into the water supply, exposing around 100,000 residents to elevated lead levels.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Flint water crisis",
+          "url": "https://en.wikipedia.org/wiki/Flint_water_crisis"
+        },
+        {
+          "claim": "Between 6,000 and 12,000 children were exposed to drinking water with high levels of lead.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Flint water crisis",
+          "url": "https://en.wikipedia.org/wiki/Flint_water_crisis"
+        },
+        {
+          "claim": "On August 20, 2020, the victims of the water crisis were awarded a combined settlement of $600 million; by November, the settlement grew to $641 million.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Flint water crisis",
+          "url": "https://en.wikipedia.org/wiki/Flint_water_crisis"
+        },
+        {
+          "claim": "An extensive lead service pipe replacement effort has been underway since 2016.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Flint water crisis",
+          "url": "https://en.wikipedia.org/wiki/Flint_water_crisis"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 100,000 people drank from leaching pipes.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Flint skipped corrosion inhibitors, and old lead lines leached.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Between 6,000 and 12,000 children were exposed.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The crisis ran from 2014 to 2019.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Settlements began at $600 million and grew to $641 million.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Replacing the lead pipes has been underway since 2016.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why a treatment chemical matters as much as the pipes.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-desalination-reverse-osmosis-membrane",
+      "topic": "The Membranes Pushing Seawater at 82 Bar",
+      "coreQuestion": "Why does turning seawater into drinking water take so much pressure and power?",
+      "openingLine": "Why seawater must be pushed at 82 bar.",
+      "secondBeat": "Reverse osmosis forces water through salt-blocking membranes.",
+      "dependency": "Coastal cities in dry regions depend on reverse-osmosis desalination for drinking water.",
+      "mechanism": "Pumps force seawater through membranes that let water pass and hold salt back.",
+      "bottleneck": "Overcoming seawater's natural osmotic pressure takes high pressure and energy.",
+      "failureConsequence": "Membrane fouling or power loss cuts water output directly.",
+      "resilience": "Storage reservoirs and parallel trains cover short outages.",
+      "expectedConsequence": "water supply drops as soon as the pumps stop",
+      "number": "27 bar",
+      "thumbnailText": "82 BAR PRESSURE",
+      "visualScenes": [
+        "spiral-wound membrane cutaway",
+        "high-pressure pumps",
+        "osmotic pressure diagram",
+        "energy per cubic metre chart",
+        "coastal desalination plant",
+        "fouled membrane close-up"
+      ],
+      "editorialTitles": [
+        "How Seawater Becomes Drinking Water",
+        "Why Desalination Needs So Much Pressure"
+      ],
+      "facts": [
+        {
+          "claim": "RO requires pressure between 2–17 bar (30–250 psi) for fresh and brackish water, and 40–82 bar (600–1200 psi) for seawater.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Reverse osmosis",
+          "url": "https://en.wikipedia.org/wiki/Reverse_osmosis"
+        },
+        {
+          "claim": "Seawater has around 27 bar (390 psi) natural osmotic pressure that must be overcome.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Reverse osmosis",
+          "url": "https://en.wikipedia.org/wiki/Reverse_osmosis"
+        },
+        {
+          "claim": "Seawater RO systems typically require 2.9-5.5 kWh/m3, although state-of-the-art systems are around 2.3 kWh/m3.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Reverse osmosis",
+          "url": "https://en.wikipedia.org/wiki/Reverse_osmosis"
+        },
+        {
+          "claim": "By 1985, rapid growth led the city to operate the world's largest low-pressure RO plant, producing 56.8 million liters per day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Reverse osmosis",
+          "url": "https://en.wikipedia.org/wiki/Reverse_osmosis"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why seawater must be pushed at 82 bar.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Reverse osmosis forces water through salt-blocking membranes.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Seawater's natural osmotic pressure is about 27 bar.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Plants run at 40 to 82 bar to beat it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That takes 2.9 to 5.5 kilowatt-hours per cubic metre.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Cut the power, and the fresh water stops.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why coastal cities' water is really an energy problem.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-electronic-waste-smelter",
+      "topic": "The 62 Million Tonnes of E-Waste a Year",
+      "coreQuestion": "Where do the world's discarded electronics go, and how much is actually recycled?",
+      "openingLine": "Why only 22.3% of e-waste gets recycled.",
+      "secondBeat": "The world generated about 62 million tonnes in 2022.",
+      "dependency": "Recovery of copper, gold and rare metals from old electronics depends on specialised smelters and collection.",
+      "mechanism": "Collected devices are dismantled and shredded, then smelted to recover metals.",
+      "bottleneck": "Only a fraction of e-waste is formally collected and recycled.",
+      "failureConsequence": "Uncollected e-waste ends up in landfills or informal burning.",
+      "resilience": "Take-back rules and urban mining can raise collection rates.",
+      "expectedConsequence": "valuable metals are lost and toxins leak into landfills",
+      "number": "62 million tonnes",
+      "thumbnailText": "62M TONNES",
+      "visualScenes": [
+        "mountain of discarded electronics",
+        "shredder and sorting line",
+        "smelter pouring recovered metal",
+        "collection rate pie chart",
+        "landfill toxic share graphic",
+        "projection to 2030"
+      ],
+      "editorialTitles": [
+        "Where the World's E-Waste Goes",
+        "Why Most Old Electronics Aren't Recycled"
+      ],
+      "facts": [
+        {
+          "claim": "In 2022, approximately 62 million tonnes of electronic waste were generated globally; only 22.3% were formally collected and recycled.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Electronic waste",
+          "url": "https://en.wikipedia.org/wiki/Electronic_waste"
+        },
+        {
+          "claim": "Global e-waste generation is projected to reach 82 million tonnes by 2030.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Electronic waste",
+          "url": "https://en.wikipedia.org/wiki/Electronic_waste"
+        },
+        {
+          "claim": "Around 70% of toxic waste in landfills is electronic waste, even though e-waste accounts for only 3% of the waste in landfills.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Electronic waste",
+          "url": "https://en.wikipedia.org/wiki/Electronic_waste"
+        },
+        {
+          "claim": "A 2011 report found that of 215,000 tons of electronics imported to Ghana, 30% was brand new and 70% was used.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Electronic waste",
+          "url": "https://en.wikipedia.org/wiki/Electronic_waste"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why only 22.3% of e-waste gets recycled.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The world generated about 62 million tonnes in 2022.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That's projected to reach 82 million tonnes by 2030.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "E-waste is 3% of landfill waste, but 70% of its toxic waste.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Smelters can recover metals only from what gets collected.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Everything else leaks value and toxins.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why collection, not technology, limits e-waste recycling.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-titanium-dioxide-pigment-plant",
+      "topic": "The White Pigment in Two-Thirds of Everything",
+      "coreQuestion": "Why is one white powder in most paints, plastics and papers, and who makes it?",
+      "openingLine": "Why China makes 6.0 of 9.9 million tonnes.",
+      "secondBeat": "That's the world's titanium dioxide pigment capacity.",
+      "dependency": "Paints, plastics, paper and coatings depend on titanium dioxide for whiteness and opacity.",
+      "mechanism": "Titanium ores are processed chemically into fine TiO2 pigment particles.",
+      "bottleneck": "China holds most of the world's pigment capacity.",
+      "failureConsequence": "Plant outages or trade limits raise prices for paints and plastics.",
+      "resilience": "Producers in other regions can raise output, but capacity is limited.",
+      "expectedConsequence": "paint and coating prices rise",
+      "number": "9.9 million tonnes",
+      "thumbnailText": "TITANIUM WHITE",
+      "visualScenes": [
+        "white paint being mixed",
+        "TiO2 particle close-up",
+        "pigment plant kiln",
+        "capacity share chart with China",
+        "ilmenite and rutile ore",
+        "coated products montage"
+      ],
+      "editorialTitles": [
+        "The White Powder in Almost Everything",
+        "Why China Dominates Titanium Dioxide"
+      ],
+      "facts": [
+        {
+          "claim": "World TiO2 pigment capacity was estimated at 9.9 million tonnes per year in 2025, of which China accounted for 6.0 million tonnes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Titanium dioxide",
+          "url": "https://en.wikipedia.org/wiki/Titanium_dioxide"
+        },
+        {
+          "claim": "It has been estimated that titanium dioxide is used in two-thirds of all pigments, and pigments based on the oxide have been valued at a price of $13.2 billion.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Titanium dioxide",
+          "url": "https://en.wikipedia.org/wiki/Titanium_dioxide"
+        },
+        {
+          "claim": "World production in 2014 exceeded 9 million tonnes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Titanium dioxide",
+          "url": "https://en.wikipedia.org/wiki/Titanium_dioxide"
+        },
+        {
+          "claim": "Rutile is the next most abundant and contains around 98% titanium dioxide in the ore.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Titanium dioxide",
+          "url": "https://en.wikipedia.org/wiki/Titanium_dioxide"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why China makes 6.0 of 9.9 million tonnes.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's the world's titanium dioxide pigment capacity.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It goes into about two-thirds of all pigments.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Those pigments are worth about $13.2 billion.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Paint, plastic and paper get their bright white from it.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Plant outages there ripple into paint prices everywhere.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why one white powder is a supply-chain story.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-ethylene-cracker",
+      "topic": "The Chemical Made in Bigger Volumes Than Any Other",
+      "coreQuestion": "Why is ethylene the most produced organic chemical, and what depends on it?",
+      "openingLine": "Why 225 million tonnes of one gas matter.",
+      "secondBeat": "No organic compound is made in greater volume.",
+      "dependency": "Plastics, antifreeze, solvents and packaging depend on ethylene from steam crackers.",
+      "mechanism": "Steam cracking breaks hydrocarbons into ethylene, which is converted into polymers and intermediates.",
+      "bottleneck": "Output is concentrated in large, capital-intensive crackers.",
+      "failureConsequence": "A cracker outage tightens supply of plastics feedstock across a region.",
+      "resilience": "Global trade in derivatives and spare cracker capacity absorb some shocks.",
+      "expectedConsequence": "plastic resin prices rise",
+      "number": "225 million tonnes",
+      "thumbnailText": "225M TONNES",
+      "visualScenes": [
+        "steam cracker furnace",
+        "ethylene molecule model",
+        "polyethylene pellets",
+        "production volume comparison chart",
+        "pipeline to derivative plants",
+        "packaging made from polyethylene"
+      ],
+      "editorialTitles": [
+        "The Chemical Behind Most Plastics",
+        "Why Ethylene Crackers Matter So Much"
+      ],
+      "facts": [
+        {
+          "claim": "Ethylene's worldwide production (over 225 million tonnes in 2022) exceeds that of any other organic compound.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ethylene",
+          "url": "https://en.wikipedia.org/wiki/Ethylene"
+        },
+        {
+          "claim": "By 2013, ethylene was produced by at least 117 companies in 32 countries.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ethylene",
+          "url": "https://en.wikipedia.org/wiki/Ethylene"
+        },
+        {
+          "claim": "In the United States and Europe, approximately 90% of ethylene is used to produce ethylene oxide, ethylene dichloride, ethylbenzene and polyethylene.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ethylene",
+          "url": "https://en.wikipedia.org/wiki/Ethylene"
+        },
+        {
+          "claim": "Ethylene is widely used in the chemical industry.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ethylene",
+          "url": "https://en.wikipedia.org/wiki/Ethylene"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 225 million tonnes of one gas matter.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "No organic compound is made in greater volume.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "About 90% becomes polyethylene and a few key chemicals.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "By 2013, 117 companies in 32 countries made it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It comes from giant steam crackers that take years to build.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "One outage can tighten plastic supply for a whole region.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why so much packaging traces back to one molecule.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-center-pivot-irrigation-system",
+      "topic": "The Circles Draining America's Biggest Aquifer",
+      "coreQuestion": "Why do the Great Plains look like green circles, and what water feeds them?",
+      "openingLine": "Why one aquifer needs 6,000 years to refill.",
+      "secondBeat": "The Ogallala feeds the Great Plains' crop circles.",
+      "dependency": "Much of U.S. irrigated farming depends on groundwater from the Ogallala Aquifer.",
+      "mechanism": "Center-pivot sprinklers rotate around a well, watering circular fields.",
+      "bottleneck": "The aquifer refills far more slowly than farms pump it.",
+      "failureConsequence": "As water tables fall, wells run dry and fields revert to dryland farming.",
+      "resilience": "Efficiency upgrades and crop switching slow depletion.",
+      "expectedConsequence": "farm output drops where wells fail",
+      "number": "30% of irrigation groundwater",
+      "thumbnailText": "6,000-YEAR REFILL",
+      "visualScenes": [
+        "aerial view of green crop circles",
+        "center-pivot sprinkler arm",
+        "Ogallala Aquifer map across eight states",
+        "falling water table chart",
+        "dry well",
+        "Kansas irrigation growth chart"
+      ],
+      "editorialTitles": [
+        "The Aquifer Behind America's Crop Circles",
+        "Why the Ogallala Can't Refill in Time"
+      ],
+      "facts": [
+        {
+          "claim": "It underlies an area of approximately 174,000 sq mi (450,000 km2) in portions of eight states.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ogallala Aquifer",
+          "url": "https://en.wikipedia.org/wiki/Ogallala_Aquifer"
+        },
+        {
+          "claim": "About 27% of the irrigated land in the entire United States lies over the aquifer, which yields about 30% of the ground water used for irrigation in the United States.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ogallala Aquifer",
+          "url": "https://en.wikipedia.org/wiki/Ogallala_Aquifer"
+        },
+        {
+          "claim": "Since 1950, agricultural irrigation has reduced the saturated volume of the aquifer by an estimated 9%.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ogallala Aquifer",
+          "url": "https://en.wikipedia.org/wiki/Ogallala_Aquifer"
+        },
+        {
+          "claim": "Once depleted, the aquifer will take over 6,000 years to replenish naturally through rainfall.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Ogallala Aquifer",
+          "url": "https://en.wikipedia.org/wiki/Ogallala_Aquifer"
+        },
+        {
+          "claim": "Center-pivot irrigation was invented in 1940 by the farmer Frank Zybach, who lived in Strasburg, Colorado.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Center-pivot irrigation",
+          "url": "https://en.wikipedia.org/wiki/Center-pivot_irrigation"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one aquifer needs 6,000 years to refill.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The Ogallala feeds the Great Plains' crop circles.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It supplies about 30% of America's irrigation groundwater.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Center-pivot sprinklers, invented in 1940, pump it up.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Since 1950, irrigation has drained an estimated 9% of it.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Where wells run dry, farms fall back to rain alone.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why those green circles are borrowing ancient water.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-pallet-pooling-network-becomes-the-bottleneck",
+      "topic": "The 500 Million Pallets Moving Europe's Goods",
+      "coreQuestion": "Why does Europe's freight sit on one standard wooden pallet?",
+      "openingLine": "Why 500 million pallets share one size.",
+      "secondBeat": "European railways standardised the EUR-pallet in 1961.",
+      "dependency": "Warehouses, trucks and retailers depend on interchangeable standard pallets.",
+      "mechanism": "A shared pallet standard lets loads move between companies without restacking.",
+      "bottleneck": "Pallet supply and repair must keep pace with freight volumes.",
+      "failureConsequence": "A pallet shortage slows loading and raises costs across supply chains.",
+      "resilience": "Pooling companies and repair networks recycle pallets continuously.",
+      "expectedConsequence": "loading slows and pallet prices spike",
+      "number": "450–500 million",
+      "thumbnailText": "500M PALLETS",
+      "visualScenes": [
+        "stack of EUR-pallets",
+        "forklift loading a truck",
+        "pallet dimensions diagram",
+        "load capacity graphic",
+        "pallet repair yard",
+        "1961 railway standardisation archive"
+      ],
+      "editorialTitles": [
+        "The Wooden Standard Behind Europe's Freight",
+        "Why One Pallet Size Rules Logistics"
+      ],
+      "facts": [
+        {
+          "claim": "Around 450-500 million EUR-pallets are in circulation.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — EUR-pallet",
+          "url": "https://en.wikipedia.org/wiki/EUR-pallet"
+        },
+        {
+          "claim": "The weight of a EUR/EPAL-pallet (EPAL 1) is approximately 25 kg.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — EUR-pallet",
+          "url": "https://en.wikipedia.org/wiki/EUR-pallet"
+        },
+        {
+          "claim": "The safe working load of a EUR/EPAL-pallet is 1,500 kg.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — EUR-pallet",
+          "url": "https://en.wikipedia.org/wiki/EUR-pallet"
+        },
+        {
+          "claim": "The maximum additional load can be up to 4,000 kg when stacking.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — EUR-pallet",
+          "url": "https://en.wikipedia.org/wiki/EUR-pallet"
+        },
+        {
+          "claim": "In 1961 the European railways commissioned the standardization of a common pallet type under the auspices of the UIC.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — EUR-pallet",
+          "url": "https://en.wikipedia.org/wiki/EUR-pallet"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 500 million pallets share one size.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "European railways standardised the EUR-pallet in 1961.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Each weighs about 25 kilograms.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It safely carries 1,500 kilograms.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Stacked, it can bear up to 4,000 kilograms more.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Around 450 to 500 million are in circulation.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "When pallets run short, loading docks slow down.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a wooden standard keeps Europe's freight moving.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-card-payment-authorization-network",
+      "topic": "The Network Approving 257.5 Billion Card Payments",
+      "coreQuestion": "What happens in the seconds between tapping your card and the approval beep?",
+      "openingLine": "Why 257.5 billion payments ran through one network.",
+      "secondBeat": "That's VisaNet's transaction count for 2025.",
+      "dependency": "Merchants and cardholders worldwide depend on card networks to authorise payments in real time.",
+      "mechanism": "Each payment request travels from the merchant to the card network to the issuing bank and back for approval.",
+      "bottleneck": "A few networks carry most card transactions.",
+      "failureConsequence": "An outage stops card payments at shops across countries at once.",
+      "resilience": "Offline limits, redundant data centres and other networks absorb some disruptions.",
+      "expectedConsequence": "shoppers switch to cash or abandon purchases",
+      "number": "257.5 billion",
+      "thumbnailText": "257.5B PAYMENTS",
+      "visualScenes": [
+        "card tapped at a terminal",
+        "authorisation message path diagram",
+        "data centre servers",
+        "transaction volume chart",
+        "shop queue during an outage",
+        "global network map"
+      ],
+      "editorialTitles": [
+        "What Happens When You Tap Your Card",
+        "The Network Behind Billions of Payments"
+      ],
+      "facts": [
+        {
+          "claim": "In 2025, Visa's global network (known as VisaNet) processed 257.5 billion transactions worth US$14.2 trillion.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Visa Inc.",
+          "url": "https://en.wikipedia.org/wiki/Visa_Inc."
+        },
+        {
+          "claim": "By 1972, licenses had been granted in 15 countries.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Visa Inc.",
+          "url": "https://en.wikipedia.org/wiki/Visa_Inc."
+        },
+        {
+          "claim": "Visa sold 406 million shares at US$44 per share, raising US$17.9 billion in what was then the largest initial public offering in U.S. history.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Visa Inc.",
+          "url": "https://en.wikipedia.org/wiki/Visa_Inc."
+        },
+        {
+          "claim": "During the late 1960s, BofA also licensed the BankAmericard program to banks in several other countries.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Visa Inc.",
+          "url": "https://en.wikipedia.org/wiki/Visa_Inc."
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 257.5 billion payments ran through one network.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's VisaNet's transaction count for 2025.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Those payments were worth $14.2 trillion.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Each tap travels to the network, then the bank, then back.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "All of it happens in the seconds before the beep.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "An outage stops card payments in shops across countries.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why cash registers depend on a few data centres.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-stock-exchange-matching-engine",
+      "topic": "The 36 Minutes When $1 Trillion Vanished",
+      "coreQuestion": "How did $1 trillion in market value disappear and return in about half an hour?",
+      "openingLine": "Why $1 trillion vanished in 36 minutes.",
+      "secondBeat": "It was the flash crash of May 6, 2010.",
+      "dependency": "Investors depend on exchange matching engines and liquidity providers to trade at fair prices.",
+      "mechanism": "Matching engines pair buy and sell orders in microseconds; algorithms supply much of the liquidity.",
+      "bottleneck": "When algorithms pull back at once, liquidity can vanish instantly.",
+      "failureConsequence": "Prices can plunge far below fair value in minutes.",
+      "resilience": "Circuit breakers now pause trading during extreme moves.",
+      "expectedConsequence": "orders fill at absurd prices before the market recovers",
+      "number": "$1 trillion",
+      "thumbnailText": "$1 TRILLION GONE",
+      "visualScenes": [
+        "stock index plunging on a screen",
+        "order book emptying animation",
+        "timeline of 36 minutes",
+        "circuit breaker pause graphic",
+        "algorithmic trading servers",
+        "recovery curve"
+      ],
+      "editorialTitles": [
+        "The Day $1 Trillion Vanished in Minutes",
+        "What the 2010 Flash Crash Revealed"
+      ],
+      "facts": [
+        {
+          "claim": "The flash crash of May 6, 2010 was a United States trillion-dollar flash crash; temporarily, $1 trillion in market value disappeared.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2010 flash crash",
+          "url": "https://en.wikipedia.org/wiki/2010_flash_crash"
+        },
+        {
+          "claim": "The crash lasted for approximately 36 minutes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2010 flash crash",
+          "url": "https://en.wikipedia.org/wiki/2010_flash_crash"
+        },
+        {
+          "claim": "It was also the second-largest intraday point swing up to that point, at 1,010.14 points.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2010 flash crash",
+          "url": "https://en.wikipedia.org/wiki/2010_flash_crash"
+        },
+        {
+          "claim": "Twenty minutes later, by 3:07 p.m., the market had regained most of the 600-point drop.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2010 flash crash",
+          "url": "https://en.wikipedia.org/wiki/2010_flash_crash"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why $1 trillion vanished in 36 minutes.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It was the flash crash of May 6, 2010.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The market swung 1,010.14 points in a day.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Most of the 600-point drop came back within minutes.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Matching engines pair orders, but algorithms supply the liquidity.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "When they pulled back together, prices fell through the floor.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why markets now have circuit breakers built in.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-hospital-information-system",
+      "topic": "The Ransomware That Turned Away NHS Patients",
+      "coreQuestion": "How did one piece of ransomware force hospitals to divert ambulances?",
+      "openingLine": "Why ransomware diverted British ambulances in 2017.",
+      "secondBeat": "WannaCry hit more than 300,000 computers in 150 countries.",
+      "dependency": "Hospitals depend on networked computers for records, imaging, scheduling and admissions.",
+      "mechanism": "Clinical systems share data across a hospital network; malware can spread across the same network.",
+      "bottleneck": "Old, unpatched systems left many trusts exposed.",
+      "failureConsequence": "When systems lock up, hospitals divert patients and cancel care.",
+      "resilience": "Paper fallbacks and network segmentation limit the damage.",
+      "expectedConsequence": "ambulances divert and appointments are cancelled",
+      "number": "300,000 computers",
+      "thumbnailText": "HOSPITALS LOCKED OUT",
+      "visualScenes": [
+        "ransom screen on a hospital PC",
+        "ambulance diverted to another hospital",
+        "worm spreading across a network diagram",
+        "unpatched Windows XP machine",
+        "map of 150 affected countries",
+        "paper records used as backup"
+      ],
+      "editorialTitles": [
+        "When Ransomware Hit Britain's Hospitals",
+        "Why Hospital IT Is Critical Infrastructure"
+      ],
+      "facts": [
+        {
+          "claim": "The attack was estimated to have affected more than 300,000 computers across 150 countries, with total damages ranging from hundreds of millions to billions of dollars.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — WannaCry ransomware attack",
+          "url": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
+        },
+        {
+          "claim": "On 12 May, some NHS services had to turn away non-critical emergencies, and some ambulances were diverted.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — WannaCry ransomware attack",
+          "url": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
+        },
+        {
+          "claim": "In 2016, thousands of computers in 42 separate NHS trusts in England were reported to be still running Windows XP.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — WannaCry ransomware attack",
+          "url": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
+        },
+        {
+          "claim": "In 2018 a report by Members of Parliament concluded that all 200 NHS hospitals or other organisations checked in the wake of the WannaCry attack still failed cybersecurity checks.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — WannaCry ransomware attack",
+          "url": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why ransomware diverted British ambulances in 2017.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "WannaCry hit more than 300,000 computers in 150 countries.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Some NHS services turned away non-critical emergencies.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "In 2016, 42 NHS trusts still ran Windows XP machines.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "A year later, all 200 organisations checked still failed security reviews.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "When records and scans lock up, care slows immediately.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why hospital IT is as critical as its oxygen supply.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-emergency-medical-dispatch-network",
+      "topic": "The Three Digits That Took 30 Years to Reach Everyone",
+      "coreQuestion": "Why did it take decades for 911 to reach almost every American?",
+      "openingLine": "Why 911 reached only 26% by 1979.",
+      "secondBeat": "The first 911 system went live in 1968.",
+      "dependency": "Emergency response depends on a universal number routing calls to local dispatch centres.",
+      "mechanism": "Calls to 911 are routed to a public safety answering point that dispatches police, fire or ambulance.",
+      "bottleneck": "Each local area had to build its own answering and routing infrastructure.",
+      "failureConsequence": "Where 911 is down, callers can't reach help through the usual number.",
+      "resilience": "Backup centres and text-to-911 add redundancy.",
+      "expectedConsequence": "response slows when routing or dispatch centres fail",
+      "number": "98.9%",
+      "thumbnailText": "911 FOR EVERYONE",
+      "visualScenes": [
+        "dispatcher at a console",
+        "first 911 call in 1968",
+        "coverage map growing over decades",
+        "call routing diagram",
+        "backup answering centre",
+        "coverage chart 26% to 98.9%"
+      ],
+      "editorialTitles": [
+        "How 911 Reached Almost Everyone",
+        "The Slow Rollout of America's Emergency Number"
+      ],
+      "facts": [
+        {
+          "claim": "AT&T made its first implementation in Huntington, Indiana on March 1, 1968.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 9-1-1",
+          "url": "https://en.wikipedia.org/wiki/9-1-1"
+        },
+        {
+          "claim": "Regarding national US coverage, by 1979, 26% of the US population could dial the number.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 9-1-1",
+          "url": "https://en.wikipedia.org/wiki/9-1-1"
+        },
+        {
+          "claim": "This increased to 50% by 1987 and 93% by 2000.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 9-1-1",
+          "url": "https://en.wikipedia.org/wiki/9-1-1"
+        },
+        {
+          "claim": "As of March 2022, 98.9% of the US population has access.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 9-1-1",
+          "url": "https://en.wikipedia.org/wiki/9-1-1"
+        },
+        {
+          "claim": "As of 2008, each year Canadians make twelve million calls to 911.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 9-1-1",
+          "url": "https://en.wikipedia.org/wiki/9-1-1"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 911 reached only 26% by 1979.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The first 911 system went live in 1968.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Each area had to build its own answering centre.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Coverage hit 50% by 1987 and 93% by 2000.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "By 2022, 98.9% of Americans had access.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "When a centre goes down, calls must reroute fast.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why three simple digits sit on a patchwork of local systems.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-vaccine-ultra-low-freezer",
+      "topic": "The Vaccine That Needed −80 °C Freezers",
+      "coreQuestion": "Why did one COVID-19 vaccine need freezers colder than Antarctica?",
+      "openingLine": "Why one vaccine needed −80 °C freezers.",
+      "secondBeat": "It shipped in containers held at −80 to −60 °C.",
+      "dependency": "mRNA vaccine distribution depended on ultra-low-temperature freezers and shipping containers.",
+      "mechanism": "The vaccine was shipped in special containers holding −80 to −60 °C, then thawed for use.",
+      "bottleneck": "Many countries' cold chains handle only 2 to 8 °C.",
+      "failureConsequence": "Without ultra-cold storage, doses spoil before reaching patients.",
+      "resilience": "Dry-ice shippers and later formulations eased storage requirements.",
+      "expectedConsequence": "rollout slows where ultra-cold storage is missing",
+      "number": "−80 °C",
+      "thumbnailText": "−80 °C VACCINE",
+      "visualScenes": [
+        "ultra-low freezer at −80 °C",
+        "vaccine vials in a shipper",
+        "cold chain map with gaps",
+        "temperature range comparison 2–8 °C versus −80 °C",
+        "dry-ice packing",
+        "vaccination clinic"
+      ],
+      "editorialTitles": [
+        "Why One Vaccine Needed −80 °C Freezers",
+        "The Cold Chain Behind mRNA Vaccines"
+      ],
+      "facts": [
+        {
+          "claim": "During distribution the vaccine is stored in special containers that maintain temperatures between −80 and −60 °C (−112 and −76 °F).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Pfizer–BioNTech COVID-19 vaccine",
+          "url": "https://en.wikipedia.org/wiki/Pfizer–BioNTech_COVID-19_vaccine"
+        },
+        {
+          "claim": "India's existing cold chain network can handle only temperatures between 2 and 8 °C (36 and 46 °F), far above the requirements of the vaccine.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Pfizer–BioNTech COVID-19 vaccine",
+          "url": "https://en.wikipedia.org/wiki/Pfizer–BioNTech_COVID-19_vaccine"
+        },
+        {
+          "claim": "In February 2021, Pfizer revealed that the entire sequence initially took about 110 days on average from start to finish.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Pfizer–BioNTech COVID-19 vaccine",
+          "url": "https://en.wikipedia.org/wiki/Pfizer–BioNTech_COVID-19_vaccine"
+        },
+        {
+          "claim": "Initial guidance recommended a two-dose regimen, given 21 days apart.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Pfizer–BioNTech COVID-19 vaccine",
+          "url": "https://en.wikipedia.org/wiki/Pfizer–BioNTech_COVID-19_vaccine"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one vaccine needed −80 °C freezers.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "It shipped in containers held at −80 to −60 °C.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "India's cold chain handled only 2 to 8 °C.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Making each batch took about 110 days start to finish.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Without ultra-cold storage, doses spoil on the way.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "So rollout was fastest where freezers already existed.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a freezer can decide how fast a vaccine reaches people.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    }
+  ]
+}

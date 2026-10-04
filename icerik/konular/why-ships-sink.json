@@ -1,0 +1,93 @@
+{
+  "kanal": "Failure Reconstructed",
+  "baslik": "Why Do Massive Ships Sink?",
+  "tur": "stok",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "hook": "When the sea always wins",
+  "soru": "Titanic or modern ship?",
+  "arama_yedek": "ocean ship storm",
+  "aciklama": "A ship floats because of a delicate balance - and the ocean is always trying to break it. Here is why even unsinkable ships go down.\n\n#shorts #engineering #ocean #science #ships",
+  "etiketler": [
+    "ship sinking",
+    "ocean",
+    "engineering",
+    "maritime",
+    "science",
+    "titanic"
+  ],
+  "sahneler": [
+    {
+      "metin": "A ship floats on a knife edge, and it can sink in minutes.",
+      "arama": "cargo ship ocean"
+    },
+    {
+      "metin": "Let water inside, and it can suddenly roll over.",
+      "arama": "sinking ship"
+    },
+    {
+      "metin": "But how can a little water tip a giant ship?",
+      "arama": "stormy sea waves"
+    },
+    {
+      "metin": "It floats while it pushes away more water than it weighs.",
+      "arama": "ship hull water"
+    },
+    {
+      "metin": "Loose water rushes to one side, and the ship tilts.",
+      "arama": "ship deck storm"
+    },
+    {
+      "metin": "More water pours in, and the tilt feeds itself.",
+      "arama": "rough ocean waves"
+    },
+    {
+      "metin": "Engineers call this loss of stability.",
+      "arama": "ship engine room"
+    },
+    {
+      "metin": "The ocean does not need to be violent, just patient.",
+      "arama": "dark ocean water"
+    }
+  ],
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "mekanizma",
+    "ad": "Ships",
+    "nesne": "Ship",
+    "sonuc": "sink",
+    "tetik": "water entering the hull",
+    "mekanizma": "loss of stability and the free surface effect",
+    "sayi": "MINUTES",
+    "ders": "watertight subdivision and stability rules were rewritten after each loss",
+    "zincir": [
+      "HULL BREACHED",
+      "WATER FLOODS IN",
+      "SLOSHING SHIFTS WEIGHT",
+      "SHIP HEELS OVER",
+      "CAPSIZE"
+    ],
+    "yanilgi": "Ships often don't sink simply by filling up — many capsize first, when loose water inside destroys their stability.",
+    "tartisma": "The Herald of Free Enterprise capsized in minutes with its bow doors open. Should open car decks have been redesigned sooner?",
+    "basliklar": [
+      "Ships Don't Just Sink — Many Roll Over",
+      "The Moment a Ship Can No Longer Right Itself",
+      "Why Massive Ships Capsize in Minutes"
+    ],
+    "kapak": [
+      "LOSS OF STABILITY",
+      "MINUTES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Free surface effect",
+        "url": "https://en.wikipedia.org/wiki/Free_surface_effect"
+      },
+      {
+        "ad": "Wikipedia — MS Herald of Free Enterprise",
+        "url": "https://en.wikipedia.org/wiki/MS_Herald_of_Free_Enterprise"
+      }
+    ]
+  }
+}

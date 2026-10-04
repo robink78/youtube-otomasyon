@@ -1,0 +1,62 @@
+{
+  "slug": "impossible-brief",
+  "name": "ImpossibleBrief",
+  "enabled": true,
+  "youtubeChannelId": "",
+  "credentialsPrefix": "IB",
+  "credentialEnv": {
+    "clientId": ["IB_CLIENT_ID", "IB_YT_CLIENT_ID"],
+    "clientSecret": ["IB_CLIENT_SECRET", "IB_YT_CLIENT_SECRET"],
+    "refreshToken": ["IB_YT_REFRESH_TOKEN", "IB_REFRESH_TOKEN"],
+    "channelId": ["IB_YT_CHANNEL_ID"]
+  },
+  "allowLegacyYouTubeEnv": false,
+  "pathMode": "isolated",
+  "timezone": "Europe/Istanbul",
+  "publishTime": "21:00",
+  "publishTimeZone": "Europe/Istanbul",
+  "publishTimeUtc": "18:00",
+  "publishingCadence": {
+    "shorts": { "everyDays": 1, "productionTime": "09:30", "targetDurationSeconds": [18, 42] },
+    "longForm": { "everyDays": 7, "targetDurationMinutes": [8, 12], "qualityOverCadence": true }
+  },
+  "voice": { "provider": "edge-tts", "voice": "en-US-AndrewMultilingualNeural", "rate": "+6%", "style": "clear cinematic science" },
+  "brandStyle": "cinematic science, space, physics, future, dark cosmic, clean, modern, premium, high contrast",
+  "contentNiche": "what-if science, space, physics, Earth, humanity and future technology",
+  "topicRules": {
+    "requiresMechanism": true,
+    "requiresSources": true,
+    "avoidDuplicates": true,
+    "claimConfidence": ["VERIFIED", "SUPPORTED", "ESTIMATED", "SPECULATIVE"],
+    "distinguishKnownEstimatedSpeculative": true
+  },
+  "qualityThresholds": {
+    "publish": 86,
+    "review": 74,
+    "scientificCredibilityMinimum": 80,
+    "sourceQualityMinimum": 75,
+    "hookMinimum": 75,
+    "noveltyMinimum": 65,
+    "visualPotentialMinimum": 70
+  },
+  "retentionRules": {
+    "memoryScope": "channel",
+    "learnAfterVideos": 5,
+    "doNotShareAcrossChannels": true,
+    "openingMaxSeconds": 3,
+    "secondBeatMaxSeconds": 8,
+    "hookVoiceMaxSeconds": 5.5,
+    "secondBeatVoiceMaxSeconds": 11,
+    "visualChangeTargetSeconds": [1.5, 3.5]
+  },
+  "ctaStrategy": "optional curiosity bridge after the scientific payoff",
+  "thumbnailStyle": "one impossible visual, one subject, high contrast, zero to three words",
+  "titleStyle": "question, consequence, countdown or conditional; rotate structures and avoid repetitive What If openings",
+  "analytics": {
+    "checkpointsDays": [1, 3, 7, 14, 30],
+    "minSample": 5,
+    "topGeography": true,
+    "metrics": ["views", "watchTime", "averageViewDuration", "averagePercentageViewed", "subscriberGain", "subscriberConversion", "shortsFeed", "browse", "suggested", "search", "retention", "trafficSources"]
+  },
+  "platforms": { "youtube": { "enabled": true }, "instagram": { "enabled": false }, "tiktok": { "enabled": false } }
+}

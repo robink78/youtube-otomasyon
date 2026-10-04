@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Colliery That Exploded Again as Rescuers Went In",
+  "kaynaklar": [
+    {
+      "ad": "oaks-explosion-1.jpg",
+      "wikimedia": "Cage thrown up into the Head-Gear at the Pit's Mouth by the Explosion at the Oaks Colliery, Barnsley ILN-1866-1229-0001.jpg"
+    },
+    {
+      "ad": "oaks-explosion-2.jpg",
+      "wikimedia": "The Second Explosion at the Oaks Colliery, Barnsley. ILN-1866-1222-0012.jpg"
+    },
+    {
+      "ad": "oaks-explosion-3.jpg",
+      "wikimedia": "Britannia at Barnsley - DPLA - e03c2b0106587f567986b8de71f4709c.jpg"
+    },
+    {
+      "ad": "oaks-explosion-4.jpg",
+      "wikimedia": "1866 Parkin Jeffcock, Esq. C.E. Sketch from The Illustrated London News.jpeg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A coal mine near Barnsley exploded.",
+      "kaynak": "Footage/oaks-explosion-1.jpg"
+    },
+    {
+      "metin": "Within hours, three hundred sixty one men and boys were dead.",
+      "kaynak": "Footage/oaks-explosion-2.jpg"
+    },
+    {
+      "metin": "Methane gas had built up in the workings.",
+      "kaynak": "Footage/oaks-explosion-3.jpg"
+    },
+    {
+      "metin": "After the first blast, rescuers went down.",
+      "kaynak": "Footage/oaks-explosion-4.jpg"
+    },
+    {
+      "metin": "Then the mine exploded again.",
+      "kaynak": "Footage/oaks-explosion-1.jpg"
+    },
+    {
+      "metin": "Many of the dead were rescuers.",
+      "kaynak": "Footage/oaks-explosion-2.jpg"
+    },
+    {
+      "metin": "The mine had to be sealed.",
+      "kaynak": "Footage/oaks-explosion-3.jpg"
+    },
+    {
+      "metin": "It remains England's worst mining disaster.",
+      "kaynak": "Footage/oaks-explosion-4.jpg"
+    }
+  ],
+  "aciklama": "Oaks explosion exploded, then exploded again during the rescue. The cause: methane explosions repeated as fires reignited gas.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Oaks explosion",
+    "1866",
+    "coal mine",
+    "engineering failure"
+  ],
+  "hook": "It exploded again",
+  "soru": "How much risk for rescuers?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Oaks Colliery",
+    "kisa": "Oaks explosion",
+    "nesne": "Coal mine",
+    "yil": 1866,
+    "sonuc": "exploded, then exploded again during the rescue",
+    "tetik": "firedamp ignited in the workings",
+    "mekanizma": "methane explosions repeated as fires reignited gas",
+    "sayi": "361 KILLED",
+    "ders": "it remains England's worst mining disaster",
+    "zincir": [
+      "FIREDAMP BUILDS UP",
+      "FIRST EXPLOSION",
+      "RESCUERS GO IN",
+      "MORE EXPLOSIONS",
+      "MINE SEALED"
+    ],
+    "zaman": [],
+    "yanilgi": "Many victims were rescuers. Further explosions struck while they searched for survivors.",
+    "tartisma": "Rescuers went in knowing the danger. How should rescue risk be judged?",
+    "basliklar": [
+      "The Colliery That Exploded Again as Rescuers Went In",
+      "Why the Oaks Colliery Exploded",
+      "The Explosions That Killed the Rescuers"
+    ],
+    "kapak": [
+      "IT EXPLODED AGAIN",
+      "361 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Oaks explosion",
+        "url": "https://en.wikipedia.org/wiki/Oaks_explosion"
+      },
+      {
+        "ad": "Academic / engineering journal — 0000003a (cited by Wikipedia)",
+        "url": "http://public-art.shu.ac.uk/pmsa/barnsley/0000003a.htm"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-12",
+    "wiki": "Oaks_explosion",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Cage thrown up into the Head-Gear at the Pit's Mouth by the Explosion at the Oaks Colliery, Barnsley ILN-1866-1229-0001.jpg [Public domain]",
+      "The Second Explosion at the Oaks Colliery, Barnsley. ILN-1866-1222-0012.jpg [Public domain]",
+      "Britannia at Barnsley - DPLA - e03c2b0106587f567986b8de71f4709c.jpg [Public domain]",
+      "1866 Parkin Jeffcock, Esq. C.E. Sketch from The Illustrated London News.jpeg [Public domain]"
+    ]
+  }
+}

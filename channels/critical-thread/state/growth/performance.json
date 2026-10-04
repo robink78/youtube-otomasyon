@@ -1,0 +1,1364 @@
+[
+  {
+    "checkpoints": {},
+    "hookType": "visual_first_reveal",
+    "hookScore": 82,
+    "topicCluster": "WATER",
+    "bucket": "A",
+    "storyStructure": "HIDDEN_SYSTEM>WHY_IT_MATTERS>WHAT_DEPENDS_ON_IT>BOTTLENECK>FAILURE_CONSEQUENCE>RESILIENCE",
+    "titlePattern": "inside",
+    "ctaStyle": "NONE",
+    "durationBucket": "under-25s",
+    "openingVisual": "TECHNICAL_ILLUSTRATION",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 69,
+      "CuriosityScore": 82,
+      "HookPotentialScore": 82,
+      "VisualImpactScore": 82,
+      "EmotionalImpactScore": 97,
+      "StoryCompressionScore": 84,
+      "RewatchPotentialScore": 69,
+      "SharePotentialScore": 77,
+      "CommentPotentialScore": 53,
+      "SubscriberConversionPotential": 88,
+      "NoveltyScore": 90,
+      "AudienceFitScore": 90,
+      "SourceQualityScore": 95,
+      "ChannelFitScore": 100
+    },
+    "videoId": "7q3E09HMIGI",
+    "slug": "why-high-lift-water-pump-is-so-hard-to-replace",
+    "channel": "critical-thread",
+    "contentType": "short",
+    "title": "Inside High-lift Water Pump: The Hidden Dependency",
+    "publishAt": "2026-09-30T18:00:00.000Z",
+    "publishHourUTC": 18,
+    "readiness": 91,
+    "normalized": {
+      "ageHours": 95.65,
+      "viewsPerHour": null,
+      "recentViewVelocity": null,
+      "likeRate": null,
+      "commentRate": null,
+      "shareRate": null,
+      "engagementRate": null,
+      "engagedViewRate": null,
+      "subscriberConversion": null,
+      "subscribersPer1000Views": null
+    },
+    "performance": {
+      "growthScore": null,
+      "classification": "NORMAL",
+      "percentiles": {
+        "viewVelocity": null,
+        "retention": null,
+        "engagement": null,
+        "subscriberConversion": null,
+        "views": null
+      },
+      "baselines": {
+        "views": 476,
+        "viewsPerHour": 20.125,
+        "averagePercentageViewed": null,
+        "engagementRate": 0.045309999999999996,
+        "subscriberConversion": null
+      },
+      "missing": [
+        "viewVelocity",
+        "retention",
+        "engagement",
+        "subscriberConversion",
+        "views"
+      ],
+      "plateau": null,
+      "breakout": null,
+      "probableCauses": [],
+      "caveat": "Classification is channel-relative correlation, not proof of YouTube recommendation causality."
+    }
+  },
+  {
+    "checkpoints": {
+      "1h": {
+        "collectedAt": "2026-10-02T19:23:09.098Z",
+        "metrics": {
+          "views": {
+            "value": 90,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "likes": {
+            "value": 2,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "comments": {
+            "value": 0,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "shares": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_gained": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_lost": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "net_subscribers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_view_duration": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_percentage_viewed": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "watch_time_minutes": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "impressions": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "ctr": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "returning_viewers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed per video by the public API"
+          },
+          "first_30s_retention": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "engaged_views": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "net_subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "engagement_per_1000_views": {
+            "value": 22.22,
+            "status": "DERIVED",
+            "from": "likes+comments+shares / views"
+          },
+          "watch_hours_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          }
+        },
+        "traffic": [],
+        "retention": [],
+        "analyticsStatus": "ok"
+      },
+      "12h": {
+        "collectedAt": "2026-10-03T11:41:33.587Z",
+        "metrics": {
+          "views": {
+            "value": 937,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "likes": {
+            "value": 14,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "comments": {
+            "value": 3,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "shares": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_gained": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_lost": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "net_subscribers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_view_duration": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_percentage_viewed": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "watch_time_minutes": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "impressions": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "ctr": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "returning_viewers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed per video by the public API"
+          },
+          "first_30s_retention": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "engaged_views": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "net_subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "engagement_per_1000_views": {
+            "value": 18.14,
+            "status": "DERIVED",
+            "from": "likes+comments+shares / views"
+          },
+          "watch_hours_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          }
+        },
+        "traffic": [],
+        "retention": [],
+        "analyticsStatus": "ok"
+      },
+      "6h": {
+        "collectedAt": "2026-10-03T11:52:16.152Z",
+        "metrics": {
+          "views": {
+            "value": 937,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "likes": {
+            "value": 14,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "comments": {
+            "value": 3,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "shares": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_gained": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_lost": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "net_subscribers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_view_duration": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_percentage_viewed": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "watch_time_minutes": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "impressions": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "ctr": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "returning_viewers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed per video by the public API"
+          },
+          "first_30s_retention": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "engaged_views": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "net_subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "engagement_per_1000_views": {
+            "value": 18.14,
+            "status": "DERIVED",
+            "from": "likes+comments+shares / views"
+          },
+          "watch_hours_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          }
+        },
+        "traffic": [],
+        "retention": [],
+        "analyticsStatus": "ok"
+      },
+      "24h": {
+        "collectedAt": "2026-10-03T18:00:41.169Z",
+        "metrics": {
+          "views": {
+            "value": 938,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "likes": {
+            "value": 15,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "comments": {
+            "value": 3,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "shares": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_gained": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_lost": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "net_subscribers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_view_duration": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_percentage_viewed": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "watch_time_minutes": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "impressions": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "ctr": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "returning_viewers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed per video by the public API"
+          },
+          "first_30s_retention": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "engaged_views": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "net_subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "engagement_per_1000_views": {
+            "value": 19.19,
+            "status": "DERIVED",
+            "from": "likes+comments+shares / views"
+          },
+          "watch_hours_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          }
+        },
+        "traffic": [],
+        "retention": [],
+        "analyticsStatus": "ok"
+      }
+    },
+    "hookType": "visual_first_reveal",
+    "hookScore": 81,
+    "selectedHook": "A truck fire shut Mont Blanc until 2002.",
+    "firstLine": "A truck fire shut Mont Blanc until 2002.",
+    "firstSecondsScore": 89,
+    "topicCluster": "ROADS AND BRIDGES",
+    "bucket": "A",
+    "viralScore": 77,
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 74,
+        "basis": "inventory-signal"
+      },
+      "surprise": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 94,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 85,
+        "basis": "derived",
+        "note": "4 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 50,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 93,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 82,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 18 inventory in cluster"
+      },
+      "source_confidence_risk": {
+        "value": -5,
+        "basis": "penalty",
+        "note": "95/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -33,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "storyStructure": "HIDDEN_SYSTEM>WHY_IT_MATTERS>WHAT_DEPENDS_ON_IT>BOTTLENECK>FAILURE_CONSEQUENCE>RESILIENCE",
+    "titlePattern": "the-x-that",
+    "selectedTitle": "The Tunnel Fire That Closed the Alps for 3 Years",
+    "ctaStyle": "NONE",
+    "durationBucket": "18-25s",
+    "openingVisual": "TECHNICAL_ILLUSTRATION",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 74,
+      "CuriosityScore": 94,
+      "HookPotentialScore": 81,
+      "VisualImpactScore": 94,
+      "EmotionalImpactScore": 97,
+      "StoryCompressionScore": 84,
+      "RewatchPotentialScore": 69,
+      "SharePotentialScore": 82,
+      "CommentPotentialScore": 53,
+      "SubscriberConversionPotential": 78,
+      "NoveltyScore": 91,
+      "AudienceFitScore": 90,
+      "SourceQualityScore": 95,
+      "ChannelFitScore": 88
+    },
+    "selectionMode": "EXPLOIT",
+    "videoId": "fGE8kZOaQZ4",
+    "slug": "inside-the-system-built-around-road-tunnel-ventilation-system",
+    "channel": "critical-thread",
+    "contentType": "short",
+    "title": "The Tunnel Fire That Closed the Alps for 3 Years",
+    "publishAt": "2026-10-02T18:00:34Z",
+    "publishHourUTC": 18,
+    "readiness": 90,
+    "normalized": {
+      "ageHours": 24,
+      "viewsPerHour": 39.08,
+      "recentViewVelocity": 0.08,
+      "likeRate": 0.01599,
+      "commentRate": 0.0032,
+      "shareRate": null,
+      "engagementRate": 0.01919,
+      "engagedViewRate": null,
+      "subscriberConversion": null,
+      "subscribersPer1000Views": null
+    },
+    "performance": {
+      "growthScore": 72.9,
+      "classification": "STRONG",
+      "percentiles": {
+        "viewVelocity": 100,
+        "retention": null,
+        "engagement": 0,
+        "subscriberConversion": null,
+        "views": 100
+      },
+      "baselines": {
+        "views": 476,
+        "viewsPerHour": 20.125,
+        "averagePercentageViewed": null,
+        "engagementRate": 0.045309999999999996,
+        "subscriberConversion": null
+      },
+      "missing": [
+        "retention",
+        "subscriberConversion"
+      ],
+      "plateau": null,
+      "breakout": null,
+      "probableCauses": [],
+      "caveat": "Classification is channel-relative correlation, not proof of YouTube recommendation causality."
+    },
+    "durationSeconds": 35,
+    "registeredBy": "analytics-pass",
+    "metrics": {
+      "views": 938,
+      "averagePercentageViewed": null,
+      "averageViewDuration": null,
+      "likes": 15,
+      "comments": 3,
+      "shares": null,
+      "subscribersGained": null,
+      "engagedViews": null,
+      "subscribersLost": null,
+      "netSubscribers": null,
+      "subscribersPer1000Views": null,
+      "netSubscribersPer1000Views": null,
+      "engagementPer1000Views": 19.19,
+      "watchHoursPer1000Views": null,
+      "ctr": null,
+      "first30sRetention": null,
+      "shortsFeedShare": null,
+      "searchShare": null
+    },
+    "latestCheckpoint": "24h"
+  },
+  {
+    "checkpoints": {},
+    "hookType": "visual_first_reveal",
+    "hookScore": 85,
+    "selectedHook": "Why 6% leftover heat nearly melted a reactor.",
+    "firstLine": "Why 6% leftover heat nearly melted a reactor.",
+    "firstSecondsScore": 93,
+    "topicCluster": "ENERGY",
+    "bucket": "A",
+    "viralScore": 74,
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 89,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 77,
+        "basis": "measured"
+      },
+      "surprise": {
+        "value": 50,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 89,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 85,
+        "basis": "derived",
+        "note": "4 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 50,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 92,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 72,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 82,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 18 inventory in cluster"
+      },
+      "source_confidence_risk": {
+        "value": -7,
+        "basis": "penalty",
+        "note": "93/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -33,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "storyStructure": "HIDDEN_SYSTEM>WHY_IT_MATTERS>WHAT_DEPENDS_ON_IT>BOTTLENECK>FAILURE_CONSEQUENCE>RESILIENCE",
+    "titlePattern": "statement",
+    "selectedTitle": "The Stuck Valve Behind Three Mile Island",
+    "titleScore": 72,
+    "titleCandidates": 36,
+    "hookCandidates": 14,
+    "topicScore": 83,
+    "popularityScore": 77,
+    "ctaStyle": "COMMENT_PROMPT",
+    "durationBucket": "18-25s",
+    "openingVisual": "TECHNICAL_ILLUSTRATION",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 77,
+      "CuriosityScore": 89,
+      "HookPotentialScore": 85,
+      "VisualImpactScore": 89,
+      "EmotionalImpactScore": 97,
+      "StoryCompressionScore": 84,
+      "RewatchPotentialScore": 69,
+      "SharePotentialScore": 72,
+      "CommentPotentialScore": 53,
+      "SubscriberConversionPotential": 70,
+      "NoveltyScore": 94,
+      "AudienceFitScore": 90,
+      "SourceQualityScore": 93,
+      "ChannelFitScore": 82
+    },
+    "selectionMode": "EXPLOIT",
+    "videoId": "rAZ4cE4A0DE",
+    "slug": "why-nuclear-reactor-coolant-pump-is-so-hard-to-replace",
+    "channel": "critical-thread",
+    "contentType": "short",
+    "title": "The Stuck Valve Behind Three Mile Island",
+    "publishAt": "2026-10-04T22:00:00.000Z",
+    "publishHourUTC": 22,
+    "publishSlot": "18:00 New York",
+    "popularityBand": "unknown",
+    "readiness": 89,
+    "normalized": {
+      "ageHours": 1,
+      "viewsPerHour": null,
+      "recentViewVelocity": null,
+      "likeRate": null,
+      "commentRate": null,
+      "shareRate": null,
+      "engagementRate": null,
+      "engagedViewRate": null,
+      "subscriberConversion": null,
+      "subscribersPer1000Views": null
+    },
+    "performance": {
+      "growthScore": null,
+      "classification": "NORMAL",
+      "percentiles": {
+        "viewVelocity": null,
+        "retention": null,
+        "engagement": null,
+        "subscriberConversion": null,
+        "views": null
+      },
+      "baselines": {
+        "views": 476,
+        "viewsPerHour": 20.125,
+        "averagePercentageViewed": null,
+        "engagementRate": 0.045309999999999996,
+        "subscriberConversion": null
+      },
+      "missing": [
+        "viewVelocity",
+        "retention",
+        "engagement",
+        "subscriberConversion",
+        "views"
+      ],
+      "plateau": null,
+      "breakout": null,
+      "probableCauses": [],
+      "caveat": "Classification is channel-relative correlation, not proof of YouTube recommendation causality."
+    }
+  },
+  {
+    "checkpoints": {
+      "12h": {
+        "collectedAt": "2026-10-04T12:29:04.096Z",
+        "metrics": {
+          "views": {
+            "value": 14,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "likes": {
+            "value": 0,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "comments": {
+            "value": 1,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "shares": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_gained": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_lost": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "net_subscribers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_view_duration": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_percentage_viewed": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "watch_time_minutes": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "impressions": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "ctr": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "returning_viewers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed per video by the public API"
+          },
+          "first_30s_retention": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "engaged_views": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "net_subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "engagement_per_1000_views": {
+            "value": 71.43,
+            "status": "DERIVED",
+            "from": "likes+comments+shares / views"
+          },
+          "watch_hours_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          }
+        },
+        "traffic": [],
+        "retention": [],
+        "analyticsStatus": "ok"
+      },
+      "6h": {
+        "collectedAt": "2026-10-04T12:38:26.885Z",
+        "metrics": {
+          "views": {
+            "value": 14,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "likes": {
+            "value": 0,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "comments": {
+            "value": 1,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "shares": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_gained": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_lost": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "net_subscribers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_view_duration": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_percentage_viewed": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "watch_time_minutes": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "impressions": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "ctr": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "returning_viewers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed per video by the public API"
+          },
+          "first_30s_retention": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "engaged_views": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "net_subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "engagement_per_1000_views": {
+            "value": 71.43,
+            "status": "DERIVED",
+            "from": "likes+comments+shares / views"
+          },
+          "watch_hours_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          }
+        },
+        "traffic": [],
+        "retention": [],
+        "analyticsStatus": "ok"
+      },
+      "1h": {
+        "collectedAt": "2026-10-04T13:02:22.663Z",
+        "metrics": {
+          "views": {
+            "value": 14,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "likes": {
+            "value": 0,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "comments": {
+            "value": 1,
+            "status": "DIRECTLY_MEASURED",
+            "source": "Data API"
+          },
+          "shares": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_gained": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_lost": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "net_subscribers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_view_duration": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "average_percentage_viewed": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "watch_time_minutes": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "impressions": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "ctr": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+          },
+          "returning_viewers": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "not exposed per video by the public API"
+          },
+          "first_30s_retention": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "engaged_views": {
+            "value": null,
+            "status": "UNAVAILABLE",
+            "reason": "analytics unavailable"
+          },
+          "subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "net_subscribers_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          },
+          "engagement_per_1000_views": {
+            "value": 71.43,
+            "status": "DERIVED",
+            "from": "likes+comments+shares / views"
+          },
+          "watch_hours_per_1000_views": {
+            "value": null,
+            "status": "UNAVAILABLE"
+          }
+        },
+        "traffic": [],
+        "retention": [],
+        "analyticsStatus": "ok"
+      }
+    },
+    "hookType": "countdown",
+    "hookScore": 77,
+    "selectedHook": "Why servers get only 5 to 15 minutes.",
+    "firstLine": "Why servers get only 5 to 15 minutes.",
+    "firstSecondsScore": 81,
+    "topicCluster": "DATA CENTERS",
+    "bucket": "A",
+    "viralScore": 76,
+    "viralComponents": {
+      "curiosity_gap": {
+        "value": 91,
+        "basis": "derived"
+      },
+      "immediate_stakes": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "human_consequence": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "recognizability": {
+        "value": 62,
+        "basis": "measured"
+      },
+      "surprise": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "visual_potential": {
+        "value": 91,
+        "basis": "inventory-signal"
+      },
+      "archival_footage_potential": {
+        "value": 35,
+        "basis": "inventory-signal"
+      },
+      "first_frame_potential": {
+        "value": 68,
+        "basis": "derived"
+      },
+      "title_potential": {
+        "value": 85,
+        "basis": "derived",
+        "note": "4 source-backed title seeds"
+      },
+      "emotional_tension": {
+        "value": 97,
+        "basis": "derived"
+      },
+      "contradiction": {
+        "value": 50,
+        "basis": "derived"
+      },
+      "unexpected_cause": {
+        "value": 65,
+        "basis": "derived"
+      },
+      "numerical_anomaly": {
+        "value": 95,
+        "basis": "derived"
+      },
+      "didnt_know_factor": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "shareability": {
+        "value": 82,
+        "basis": "derived"
+      },
+      "channel_fit": {
+        "value": 94,
+        "basis": "derived"
+      },
+      "historical_similarity": {
+        "value": 50,
+        "basis": "neutral",
+        "note": "no same-cluster channel evidence yet"
+      },
+      "duplicate_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "no published-title collision"
+      },
+      "saturation_risk": {
+        "value": 0,
+        "basis": "penalty",
+        "note": "0 published / 18 inventory in cluster"
+      },
+      "source_confidence_risk": {
+        "value": -5,
+        "basis": "penalty",
+        "note": "95/100 source quality"
+      },
+      "weak_footage_risk": {
+        "value": -33,
+        "basis": "penalty",
+        "note": "no archival footage confirmed"
+      }
+    },
+    "storyStructure": "HIDDEN_SYSTEM>WHY_IT_MATTERS>WHAT_DEPENDS_ON_IT>BOTTLENECK>FAILURE_CONSEQUENCE>RESILIENCE",
+    "titlePattern": "why",
+    "selectedTitle": "Why Servers Survive a Blackout",
+    "titleScore": 73,
+    "titleCandidates": 36,
+    "hookCandidates": 11,
+    "topicScore": 84,
+    "popularityScore": 62,
+    "ctaStyle": "NONE",
+    "durationBucket": "18-25s",
+    "openingVisual": "TECHNICAL_ILLUSTRATION",
+    "experimentVariant": null,
+    "factors": {
+      "TopicDemandScore": 62,
+      "CuriosityScore": 91,
+      "HookPotentialScore": 77,
+      "VisualImpactScore": 91,
+      "EmotionalImpactScore": 97,
+      "StoryCompressionScore": 84,
+      "RewatchPotentialScore": 69,
+      "SharePotentialScore": 82,
+      "CommentPotentialScore": 53,
+      "SubscriberConversionPotential": 88,
+      "NoveltyScore": 84,
+      "AudienceFitScore": 90,
+      "SourceQualityScore": 95,
+      "ChannelFitScore": 94
+    },
+    "selectionMode": "EXPLOIT",
+    "videoId": "hsuWhB8lCvU",
+    "slug": "what-quietly-depends-on-uninterruptible-power-supply",
+    "channel": "critical-thread",
+    "contentType": "short",
+    "title": "Why Servers Survive a Blackout",
+    "publishAt": "2026-10-03T22:00:22Z",
+    "publishHourUTC": 22,
+    "publishSlot": "18:00 New York",
+    "popularityBand": "unknown",
+    "readiness": 88,
+    "normalized": {
+      "ageHours": 12,
+      "viewsPerHour": 1.17,
+      "recentViewVelocity": 0,
+      "likeRate": 0,
+      "commentRate": 0.07143,
+      "shareRate": null,
+      "engagementRate": 0.07143,
+      "engagedViewRate": null,
+      "subscriberConversion": null,
+      "subscribersPer1000Views": null
+    },
+    "performance": {
+      "growthScore": 27.1,
+      "classification": "WEAK",
+      "percentiles": {
+        "viewVelocity": 0,
+        "retention": null,
+        "engagement": 100,
+        "subscriberConversion": null,
+        "views": 0
+      },
+      "baselines": {
+        "views": 476,
+        "viewsPerHour": 20.125,
+        "averagePercentageViewed": null,
+        "engagementRate": 0.045309999999999996,
+        "subscriberConversion": null
+      },
+      "missing": [
+        "retention",
+        "subscriberConversion"
+      ],
+      "plateau": null,
+      "breakout": null,
+      "probableCauses": [],
+      "caveat": "Classification is channel-relative correlation, not proof of YouTube recommendation causality."
+    },
+    "durationSeconds": 30,
+    "registeredBy": "analytics-pass",
+    "metrics": {
+      "views": 14,
+      "averagePercentageViewed": null,
+      "averageViewDuration": null,
+      "likes": 0,
+      "comments": 1,
+      "shares": null,
+      "subscribersGained": null,
+      "engagedViews": null,
+      "subscribersLost": null,
+      "netSubscribers": null,
+      "subscribersPer1000Views": null,
+      "netSubscribersPer1000Views": null,
+      "engagementPer1000Views": 71.43,
+      "watchHoursPer1000Views": null,
+      "ctr": null,
+      "first30sRetention": null,
+      "shortsFeedShare": null,
+      "searchShare": null
+    },
+    "latestCheckpoint": "1h"
+  }
+]

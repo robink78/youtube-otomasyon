@@ -1,0 +1,87 @@
+{
+  "channel": "failure-reconstructed",
+  "slug": "rana-plaza-2013",
+  "allowedChannels": [
+    "failure-reconstructed"
+  ],
+  "createdAt": "2026-10-03T11:30:28.966Z",
+  "assets": [
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (CC BY 2.0)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helping_Khaleda%2C_one_of_the_survivors_of_Rana_Plaza_(14008308964).jpg",
+      "licence": "CC BY 2.0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Helping_Khaleda%2C_one_of_the_survivors_of_Rana_Plaza_(14008308964).jpg",
+      "attribution": null,
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (CC BY 2.5)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2013_savar_building_collapse02.jpg",
+      "licence": "CC BY 2.5",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:2013_savar_building_collapse02.jpg",
+      "attribution": null,
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (CC BY 2.5)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2013_savar_building_collapse_-_missing_photos_01.jpg",
+      "licence": "CC BY 2.5",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:2013_savar_building_collapse_-_missing_photos_01.jpg",
+      "attribution": null,
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikimedia-commons",
+      "title": "Archival film: Wikimedia Commons (CC BY 2.5)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2013_savar_building_collapse_-_survivor.jpg",
+      "licence": "CC BY 2.5",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:2013_savar_building_collapse_-_survivor.jpg",
+      "attribution": null,
+      "attributionRequired": true,
+      "expiry": null
+    },
+    {
+      "kind": "audio",
+      "source": "Microsoft Edge neural TTS (en-US-AndrewNeural)",
+      "title": "narration",
+      "licence": "generated — synthetic voice, disclosed in the description",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "audio",
+      "source": "procedural synthesis (ffmpeg)",
+      "title": "music bed",
+      "licence": "original — generated per video",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "image",
+      "source": "generated graphics (captions, number cards, diagrams)",
+      "title": "on-screen graphics",
+      "licence": "original",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Mislabelled Boxes That Burned ValuJet 592",
+  "kaynaklar": [
+    {
+      "ad": "valujet-592-1.jpg",
+      "wikimedia": "ValuJet Flight 592 Crashsite 2.jpg"
+    },
+    {
+      "ad": "valujet-592-2.jpg",
+      "wikimedia": "Wreckage from ValuJet Flight 592.jpg"
+    },
+    {
+      "ad": "valujet-592-3.jpg",
+      "wikimedia": "ValuJet Flight 592 Crashsite 3.jpg"
+    },
+    {
+      "ad": "valujet-592-4.jpg",
+      "wikimedia": "Mauro Ociel Valenzuela-Reyes-Poster FBI.jpg"
+    },
+    {
+      "ad": "valujet-592-5.jpg",
+      "wikimedia": "Flight 592 memorial stone.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A passenger jet dove into the Florida Everglades.",
+      "kaynak": "Footage/valujet-592-1.jpg"
+    },
+    {
+      "metin": "A cargo fire burned into the cabin, and everyone aboard died.",
+      "kaynak": "Footage/valujet-592-2.jpg"
+    },
+    {
+      "metin": "The fuel for that fire was in boxes of oxygen generators.",
+      "kaynak": "Footage/valujet-592-3.jpg"
+    },
+    {
+      "metin": "They had been labelled as empty.",
+      "kaynak": "Footage/valujet-592-4.jpg"
+    },
+    {
+      "metin": "In fact they were expired but still live, with no safety caps.",
+      "kaynak": "Footage/valujet-592-5.jpg"
+    },
+    {
+      "metin": "When one activated, it made heat and pure oxygen.",
+      "kaynak": "Footage/valujet-592-1.jpg"
+    },
+    {
+      "metin": "The hold had no smoke detector and no way to fight fire.",
+      "kaynak": "Footage/valujet-592-2.jpg"
+    },
+    {
+      "metin": "Cargo holds now carry detectors and fire suppression.",
+      "kaynak": "Footage/valujet-592-3.jpg"
+    }
+  ],
+  "aciklama": "ValuJet 592 crashed into the Everglades after a cargo fire. The cause: chemical oxygen generators activating in a cargo hold with no fire detection or suppression.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "ValuJet 592",
+    "1996",
+    "cargo hold",
+    "engineering failure"
+  ],
+  "hook": "Labelled as empty",
+  "soru": "Who checks the cargo?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "ValuJet Flight 592",
+    "kisa": "ValuJet 592",
+    "nesne": "Cargo hold",
+    "yil": 1996,
+    "sonuc": "crashed into the Everglades after a cargo fire",
+    "tetik": "expired oxygen generators loaded as cargo without safety caps",
+    "mekanizma": "chemical oxygen generators activating in a cargo hold with no fire detection or suppression",
+    "sayi": "NO SMOKE DETECTOR",
+    "ders": "cargo holds got smoke detectors and fire suppression, and oxygen generators were banned as cargo",
+    "zincir": [
+      "OLD OXYGEN GENERATORS REMOVED",
+      "SAFETY CAPS NOT FITTED",
+      "LABELLED AS EMPTY",
+      "ONE ACTIVATES IN THE HOLD",
+      "FIRE BURNS THROUGH THE FLOOR"
+    ],
+    "zaman": [],
+    "yanilgi": "The generators were not empty canisters. They were expired but still able to produce oxygen and intense heat.",
+    "tartisma": "Several companies handled the boxes and nobody caught the error. Who owns a hazard that passes through many hands?",
+    "basliklar": [
+      "The Mislabelled Boxes That Burned ValuJet 592",
+      "Why ValuJet Flight 592 Crashed",
+      "The Cargo That Fed Its Own Fire"
+    ],
+    "kapak": [
+      "LABELLED EMPTY",
+      "NO DETECTOR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — ValuJet Flight 592",
+        "url": "https://en.wikipedia.org/wiki/ValuJet_Flight_592"
+      },
+      {
+        "ad": "NTSB — AAR9706 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR9706.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-03",
+    "wiki": "ValuJet_Flight_592",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "ValuJet Flight 592 Crashsite 2.jpg [Public domain]",
+      "Wreckage from ValuJet Flight 592.jpg [Public domain]",
+      "ValuJet Flight 592 Crashsite 3.jpg [Public domain]",
+      "Mauro Ociel Valenzuela-Reyes-Poster FBI.jpg [Public domain]",
+      "Flight 592 memorial stone.jpg [CC0]"
+    ]
+  }
+}

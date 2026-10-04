@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Wind Shear Warning That Went to the Wrong Frequency",
+  "kaynaklar": [
+    {
+      "ad": "usair-1016-1.jpg",
+      "wikimedia": "USAir Flight 1016 Wreckage.jpg"
+    },
+    {
+      "ad": "usair-1016-2.jpg",
+      "wikimedia": "USAir Flight 1016 (1).jpg"
+    },
+    {
+      "ad": "usair-1016-3.jpg",
+      "wikimedia": "USAir Flight 1016 (2).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A DC-9 crashed into trees and a house near Charlotte airport.",
+      "kaynak": "Footage/usair-1016-1.jpg"
+    },
+    {
+      "metin": "It burst into flames, and thirty seven people were killed.",
+      "kaynak": "Footage/usair-1016-2.jpg"
+    },
+    {
+      "metin": "A thunderstorm sat over the airport.",
+      "kaynak": "Footage/usair-1016-3.jpg"
+    },
+    {
+      "metin": "The tower issued a wind shear warning, but on a different frequency.",
+      "kaynak": "Footage/usair-1016-1.jpg"
+    },
+    {
+      "metin": "On final approach, a microburst hit the jet.",
+      "kaynak": "Footage/usair-1016-2.jpg"
+    },
+    {
+      "metin": "The crew tried to go around, but the plane kept sinking.",
+      "kaynak": "Footage/usair-1016-3.jpg"
+    },
+    {
+      "metin": "An alert system error also delayed its warning.",
+      "kaynak": "Footage/usair-1016-1.jpg"
+    },
+    {
+      "metin": "Wind shear detection and crew training were improved.",
+      "kaynak": "Footage/usair-1016-2.jpg"
+    }
+  ],
+  "aciklama": "USAir 1016 crashed into trees and a house near Charlotte. The cause: microburst wind shear on approach, with alerts that came late or on another frequency.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "USAir 1016",
+    "1994",
+    "wind shear alert",
+    "engineering failure"
+  ],
+  "hook": "The warning never reached them",
+  "soru": "How many layers must fail?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "USAir Flight 1016",
+    "kisa": "USAir 1016",
+    "nesne": "Wind shear alert",
+    "yil": 1994,
+    "sonuc": "crashed into trees and a house near Charlotte",
+    "tetik": "a microburst during a go-around in a thunderstorm",
+    "mekanizma": "microburst wind shear on approach, with alerts that came late or on another frequency",
+    "sayi": "37 DIED",
+    "ders": "wind shear detection and crew recognition training were improved",
+    "zincir": [
+      "STORM OVER THE AIRPORT",
+      "WARNING ON ANOTHER FREQUENCY",
+      "MICROBURST ON APPROACH",
+      "GO-AROUND TOO LATE",
+      "JET HITS TREES AND HOUSE"
+    ],
+    "zaman": [],
+    "yanilgi": "A wind shear warning was issued. It went out on a frequency the crew wasn't listening to.",
+    "tartisma": "An alert system software error also delayed its warning. How many layers must fail at once?",
+    "basliklar": [
+      "The Wind Shear Warning That Went to the Wrong Frequency",
+      "Why USAir Flight 1016 Crashed",
+      "The Warning the Crew Never Heard"
+    ],
+    "kapak": [
+      "WRONG FREQUENCY",
+      "MICROBURST"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USAir Flight 1016",
+        "url": "https://en.wikipedia.org/wiki/USAir_Flight_1016"
+      },
+      {
+        "ad": "NTSB — AAR9503 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR9503.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-16",
+    "wiki": "USAir_Flight_1016",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "USAir Flight 1016 Wreckage.jpg [Public domain]",
+      "USAir Flight 1016 (1).jpg [Public domain]",
+      "USAir Flight 1016 (2).jpg [Public domain]"
+    ]
+  }
+}

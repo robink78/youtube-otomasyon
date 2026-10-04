@@ -1,0 +1,63 @@
+{
+  "slug": "why-dams-fail",
+  "olusturuldu": "2026-09-24T16:22:41.916Z",
+  "originality": 93,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.22,
+      "kim": "why-rockets-explode"
+    },
+    "hook": {
+      "deger": 0.24,
+      "kim": "why-mines-collapse"
+    },
+    "structure": {
+      "deger": 0.67,
+      "kim": "the-science-of-sinkholes"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0.11,
+      "kim": "how-floods-destroy-cities"
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.5,
+      "kim": "halifax-explosion"
+    },
+    "cta": {
+      "deger": 0.17,
+      "kim": "how-volcanoes-erupt"
+    },
+    "description": {
+      "deger": 0.09,
+      "kim": "how-blackouts-spread"
+    },
+    "music": {
+      "deger": 0.72,
+      "kim": "how-hurricanes-destroy"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.22,
+    "HOOK_SIMILARITY": 0.24,
+    "STRUCTURE_SIMILARITY": 0.67,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0.11,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.5,
+    "CTA_SIMILARITY": 0.17,
+    "DESCRIPTION_SIMILARITY": 0.09,
+    "MUSIC_SIMILARITY": 0.72
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

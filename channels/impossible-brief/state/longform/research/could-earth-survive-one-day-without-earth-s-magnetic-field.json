@@ -1,0 +1,271 @@
+{
+  "schema": "research-package/1",
+  "id": "impossible-brief:could-earth-survive-one-day-without-earth-s-magnetic-field",
+  "channel": "impossible-brief",
+  "topicId": "IB-EAR-019",
+  "slug": "could-earth-survive-one-day-without-earth-s-magnetic-field",
+  "subject": "Could Earth survive one day without Earth's magnetic field",
+  "cluster": "EARTH",
+  "topicHash": "fcf3125e67aa+deep0",
+  "createdAt": "2026-09-30T15:48:34.232Z",
+  "reuseCount": 0,
+  "reusableFor": [
+    "long-form",
+    "derived-shorts",
+    "metadata",
+    "fact-check",
+    "visual-sourcing",
+    "follow-up-episodes"
+  ],
+  "sources": [
+    {
+      "name": "NOAA",
+      "url": "https://www.noaa.gov/science",
+      "tier": "GOVERNMENT_AGENCY",
+      "score": 95
+    },
+    {
+      "name": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/science",
+      "tier": "GOVERNMENT_AGENCY",
+      "score": 95
+    },
+    {
+      "name": "NASA Science",
+      "url": "https://science.nasa.gov/",
+      "tier": "GOVERNMENT_AGENCY",
+      "score": 95
+    },
+    {
+      "name": "IPCC",
+      "url": "https://www.ipcc.ch/reports/",
+      "tier": "GOVERNMENT_AGENCY",
+      "score": 95
+    },
+    {
+      "name": "Wikipedia — Could Earth survive one day without Earth's magnetic field",
+      "url": "https://en.wikipedia.org/wiki/Could_Earth_survive_one_day_without_Earth's_magnetic_field",
+      "tier": "ENCYCLOPEDIA",
+      "score": 55
+    }
+  ],
+  "deepResearch": {
+    "article": "Could Earth survive one day without Earth's magnetic field",
+    "claims": 0,
+    "status": "ARTICLE_NOT_FOUND"
+  },
+  "sourceQuality": 98,
+  "primarySources": 4,
+  "claims": [
+    {
+      "id": "C1",
+      "text": "One day without it would expose satellites and power grids to more charged particles; the atmosphere would not vanish in a day.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "NOAA",
+      "role": "consequence"
+    },
+    {
+      "id": "C2",
+      "text": "Assume earth's magnetic field switched off for one day.",
+      "class": "SPECULATION",
+      "layer": "SPECULATIVE SCENARIO",
+      "source": "NOAA",
+      "role": "trigger"
+    },
+    {
+      "id": "C3",
+      "text": "The governing physics: the geodynamo in Earth's liquid outer core generates a field that deflects the solar wind.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "NOAA",
+      "role": "mechanism"
+    },
+    {
+      "id": "C4",
+      "text": "The key figure: 780,000 years.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "NOAA",
+      "role": "number"
+    },
+    {
+      "id": "C5",
+      "text": "Losing the field for a day would not strip the atmosphere; that takes far longer.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "NOAA",
+      "role": "misconception"
+    },
+    {
+      "id": "C6",
+      "text": "Earth's magnetic field is already weakening.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C7",
+      "text": "Its main dipole has faded about 6.3% per century.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C8",
+      "text": "Fields have flipped 183 times in 83 million years.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C9",
+      "text": "The last flip was 780,000 years ago.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C10",
+      "text": "Now switch it off completely, for just one day.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C11",
+      "text": "Satellites and power grids would take more charged particles.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C12",
+      "text": "But the air wouldn't vanish in a day; that takes far longer.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C13",
+      "text": "So we'd survive, but our technology would feel it first.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C14",
+      "text": "Over the last two centuries the dipole strength has been decreasing at a rate of about 6.3% per century.",
+      "class": "CONFIRMED_FACT",
+      "layer": "KNOWN SCIENCE",
+      "source": "Wikipedia — Earth's magnetic field",
+      "role": "evidence"
+    },
+    {
+      "id": "C15",
+      "text": "Measurements since Gauss in 1832 show a relative decay of about 10% over the last 150 years.",
+      "class": "CONFIRMED_FACT",
+      "layer": "KNOWN SCIENCE",
+      "source": "Wikipedia — Earth's magnetic field",
+      "role": "evidence"
+    },
+    {
+      "id": "C16",
+      "text": "There have been at least 183 reversals over the last 83 million years, on average once every ~450,000 years.",
+      "class": "CONFIRMED_FACT",
+      "layer": "KNOWN SCIENCE",
+      "source": "Wikipedia — Geomagnetic reversal",
+      "role": "evidence"
+    },
+    {
+      "id": "C17",
+      "text": "The latest, the Brunhes–Matuyama reversal, occurred 780,000 years ago.",
+      "class": "CONFIRMED_FACT",
+      "layer": "KNOWN SCIENCE",
+      "source": "Wikipedia — Geomagnetic reversal",
+      "role": "evidence"
+    },
+    {
+      "id": "C18",
+      "text": "Some sources estimate the four most recent reversals took on average 7,000 years.",
+      "class": "CONFIRMED_FACT",
+      "layer": "KNOWN SCIENCE",
+      "source": "Wikipedia — Geomagnetic reversal",
+      "role": "evidence"
+    },
+    {
+      "id": "C19",
+      "text": "The geodynamo in Earth's liquid outer core generates a field that deflects the solar wind.",
+      "class": "CONFIRMED_FACT",
+      "layer": "KNOWN SCIENCE",
+      "source": "NOAA",
+      "role": "evidence"
+    },
+    {
+      "id": "C20",
+      "text": "Earth's magnetic field switched off for one day.",
+      "class": "SPECULATION",
+      "layer": "SPECULATIVE SCENARIO",
+      "source": "NOAA",
+      "role": "evidence"
+    },
+    {
+      "id": "C21",
+      "text": "The exact timeline depends on how the impossible change happens; the order of effects is what established physics constrains.",
+      "class": "SPECULATION",
+      "layer": "SPECULATIVE SCENARIO",
+      "source": "ImpossibleBrief claim framework",
+      "role": "limits"
+    }
+  ],
+  "visualLeads": [
+    {
+      "text": "magnetosphere deflecting solar wind",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "field strength decline chart",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "magnetic reversal timeline",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "compass needle drifting",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "satellite hit by particles",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "aurora spreading to lower latitudes",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    }
+  ],
+  "footage": [],
+  "gaps": [
+    "no deep research — long-form depth limited to the Shorts case file"
+  ]
+}

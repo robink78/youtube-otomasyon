@@ -1,0 +1,299 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/critical-thread/state/production/what-quietly-depends-on-uninterruptible-power-supply/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "rate": "+6%",
+    "claimDurations": [
+      4.696879875195007,
+      4.624804992199688,
+      3.8560062402496103,
+      4.817004680187207,
+      4.240405616224649,
+      4.480655226209048,
+      4.084243369734789
+    ],
+    "durationSeconds": 30.8,
+    "width": null,
+    "height": null,
+    "hasAudio": true,
+    "music": {
+      "mood": "infrastructure-failures",
+      "profile": {
+        "kok": 70.2,
+        "oran": 1.335,
+        "trem": 0.116,
+        "renk": "pink",
+        "yanki": [
+          531,
+          775
+        ],
+        "alcak": 918,
+        "ton": "tense"
+      }
+    }
+  },
+  "video": {
+    "file": "channels/critical-thread/state/production/what-quietly-depends-on-uninterruptible-power-supply/what-quietly-depends-on-uninterruptible-power-supply.mp4",
+    "captionsBurned": true,
+    "distinctVisuals": 7,
+    "realImageCount": 5,
+    "numberCardCount": 2,
+    "maxStaticSeconds": 3.477,
+    "visualChanges": 16,
+    "openingHookCovered": true,
+    "cardNumbersValid": true,
+    "openingSemantic": {
+      "measured": true,
+      "relevant": true,
+      "decision": "PUBLISH",
+      "assetType": "stock-video",
+      "asset": "Pexels video 28709421 pexels battery strings in a UPS room",
+      "topicTerms": [
+        "uninterruptible",
+        "supply",
+        "ups",
+        "battery",
+        "backup",
+        "batteries",
+        "instantly",
+        "while",
+        "generators",
+        "start",
+        "equipment",
+        "shuts",
+        "down",
+        "safely",
+        "grid",
+        "fails",
+        "have",
+        "minutes"
+      ],
+      "matchedTerms": [
+        "ups",
+        "battery"
+      ],
+      "strongTerms": [
+        "ups",
+        "battery"
+      ],
+      "genericTermsIgnored": [],
+      "subjectMatch": true,
+      "mechanismMatch": false,
+      "designDetailMatch": false,
+      "claimMatch": false,
+      "rejectionReasons": [],
+      "reason": "opening asset matches distinctive evidence: ups, battery"
+    },
+    "opening": "motion",
+    "visualQuality": {
+      "decision": "PUBLISH",
+      "score": 100,
+      "reasons": [],
+      "semanticEvidence": {
+        "measured": true,
+        "relevant": true,
+        "decision": "PUBLISH",
+        "assetType": "stock-video",
+        "asset": "Pexels video 28709421 pexels battery strings in a UPS room",
+        "topicTerms": [
+          "uninterruptible",
+          "supply",
+          "ups",
+          "battery",
+          "backup",
+          "batteries",
+          "instantly",
+          "while",
+          "generators",
+          "start",
+          "equipment",
+          "shuts",
+          "down",
+          "safely",
+          "grid",
+          "fails",
+          "have",
+          "minutes"
+        ],
+        "matchedTerms": [
+          "ups",
+          "battery"
+        ],
+        "strongTerms": [
+          "ups",
+          "battery"
+        ],
+        "genericTermsIgnored": [],
+        "subjectMatch": true,
+        "mechanismMatch": false,
+        "designDetailMatch": false,
+        "claimMatch": false,
+        "rejectionReasons": [],
+        "reason": "opening asset matches distinctive evidence: ups, battery"
+      }
+    },
+    "segmentSeconds": [
+      1.319,
+      0.9009999999999998,
+      1.3479999999999999,
+      1.1288798751950084,
+      2.5871201248049918,
+      2.037684867394696,
+      1.9953151326053042,
+      1.860691107644307,
+      1.3403088923556936,
+      3.4766957878315132,
+      2.3893042121684864,
+      1.8511014040561626,
+      1.626898595943839,
+      2.8537566302652095,
+      2.9232433697347915,
+      1.1609999999999978
+    ],
+    "sources": [
+      {
+        "shot": 1,
+        "claimIndex": 0,
+        "type": "stock-video",
+        "sourceId": "video:28709421",
+        "numbers": [
+          "15 minutes"
+        ]
+      },
+      {
+        "shot": 2,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:500kVA-UPS.jpg",
+        "numbers": [
+          "15 minutes"
+        ]
+      },
+      {
+        "shot": 3,
+        "claimIndex": 0,
+        "type": "number-card",
+        "sourceId": "card:0:2f18bc2a00e7",
+        "numbers": [
+          "15 minutes"
+        ]
+      },
+      {
+        "shot": 4,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:MGE Uninterruptible Power Supply at NERSC.jpg",
+        "numbers": [
+          "15 minutes"
+        ]
+      },
+      {
+        "shot": 5,
+        "claimIndex": 1,
+        "type": "stock-video",
+        "sourceId": "video:30730779",
+        "numbers": []
+      },
+      {
+        "shot": 6,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:500kVA-UPS.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 7,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:MGE Uninterruptible Power Supply at NERSC.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 8,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:500kVA-UPS.jpg#3",
+        "numbers": []
+      },
+      {
+        "shot": 9,
+        "claimIndex": 3,
+        "type": "stock-video",
+        "sourceId": "video:32115649",
+        "numbers": [
+          "25"
+        ]
+      },
+      {
+        "shot": 10,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:MGE Uninterruptible Power Supply at NERSC.jpg#3",
+        "numbers": [
+          "25"
+        ]
+      },
+      {
+        "shot": 11,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:500kVA-UPS.jpg#4",
+        "numbers": []
+      },
+      {
+        "shot": 12,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:MGE Uninterruptible Power Supply at NERSC.jpg#4",
+        "numbers": []
+      },
+      {
+        "shot": 13,
+        "claimIndex": 5,
+        "type": "number-card",
+        "sourceId": "card:5:9aaf6fd4b2d6",
+        "numbers": [
+          "48-v"
+        ]
+      },
+      {
+        "shot": 14,
+        "claimIndex": 5,
+        "type": "licensed-still",
+        "sourceId": "still:500kVA-UPS.jpg#5",
+        "numbers": [
+          "48-v"
+        ]
+      },
+      {
+        "shot": 15,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:MGE Uninterruptible Power Supply at NERSC.jpg#5",
+        "numbers": []
+      },
+      {
+        "shot": 16,
+        "claimIndex": 6,
+        "type": "stock-video",
+        "sourceId": "video:28709421#loop",
+        "numbers": []
+      }
+    ],
+    "durationSeconds": 30.8,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/critical-thread/state/production/what-quietly-depends-on-uninterruptible-power-supply/thumbnail.jpg",
+    "bytes": 61292,
+    "sourceType": "licensed-still",
+    "sourceId": "still:500kVA-UPS.jpg",
+    "textWords": 3,
+    "usesLicensedStill": true
+  }
+}

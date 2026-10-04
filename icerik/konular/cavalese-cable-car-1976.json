@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Cable That Sheared the Cable Car's Lifeline",
+  "kaynaklar": [
+    {
+      "ad": "cavalese-cable-car-1.jpg",
+      "wikimedia": "Cermis disaster 1976.jpg"
+    },
+    {
+      "ad": "cavalese-cable-car-2.jpg",
+      "wikimedia": "Cermis disaster 1976 b.jpg"
+    },
+    {
+      "ad": "cavalese-cable-car-3.jpg",
+      "wikimedia": "Cermis disaster 1976 c.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A full cable car descending from Mount Cermis suddenly fell.",
+      "kaynak": "Footage/cavalese-cable-car-1.jpg"
+    },
+    {
+      "metin": "It plunged down the mountainside, and forty two people were killed.",
+      "kaynak": "Footage/cavalese-cable-car-2.jpg"
+    },
+    {
+      "metin": "Its cables had overlapped near the first pylon.",
+      "kaynak": "Footage/cavalese-cable-car-3.jpg"
+    },
+    {
+      "metin": "The moving cable sheared the support cable.",
+      "kaynak": "Footage/cavalese-cable-car-1.jpg"
+    },
+    {
+      "metin": "The cabin dropped about seventy metres.",
+      "kaynak": "Footage/cavalese-cable-car-2.jpg"
+    },
+    {
+      "metin": "The heavy carriage fell on top of it.",
+      "kaynak": "Footage/cavalese-cable-car-3.jpg"
+    },
+    {
+      "metin": "Only a fourteen-year-old girl survived.",
+      "kaynak": "Footage/cavalese-cable-car-1.jpg"
+    },
+    {
+      "metin": "It remains the deadliest cable car crash in history.",
+      "kaynak": "Footage/cavalese-cable-car-2.jpg"
+    }
+  ],
+  "aciklama": "Cavalese 1976 fell down a mountainside when its support cable broke. The cause: the moving carrier cable shearing the support cable near a pylon.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Cavalese 1976",
+    "1976",
+    "cable",
+    "engineering failure"
+  ],
+  "hook": "One cable cut another",
+  "soru": "How to fail safely?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Cavalese cable car",
+    "kisa": "Cavalese 1976",
+    "nesne": "Cable",
+    "yil": 1976,
+    "sonuc": "fell down a mountainside when its support cable broke",
+    "tetik": "the carrier cable overlapping the support cable",
+    "mekanizma": "the moving carrier cable shearing the support cable near a pylon",
+    "sayi": "42 DIED",
+    "ders": "the crash is still the deadliest cable car disaster",
+    "zincir": [
+      "FULL CABIN DESCENDS",
+      "CABLES OVERLAP",
+      "SUPPORT CABLE SHEARED",
+      "CABIN FALLS",
+      "CARRIAGE CRUSHES CAR"
+    ],
+    "zaman": [],
+    "yanilgi": "The fall wasn't the only killer. Many victims suffocated after the car was crushed.",
+    "tartisma": "Only one passenger survived. How do you make a single-cable system fail safely?",
+    "basliklar": [
+      "The Cable That Sheared the Cable Car's Lifeline",
+      "Why the Cavalese Cable Car Fell",
+      "The Cable That Cut Another Cable"
+    ],
+    "kapak": [
+      "CABLE CUT",
+      "ONE SURVIVOR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Cavalese cable-car disaster (1976)",
+        "url": "https://en.wikipedia.org/wiki/Cavalese_cable-car_disaster_(1976)"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — 4213355.stm (cited by Wikipedia)",
+        "url": "http://news.bbc.co.uk/onthisday/hi/dates/stories/march/9/newsid_4213000/4213355.stm"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-17",
+    "wiki": "Cavalese_cable-car_disaster_(1976)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Cermis disaster 1976.jpg [Public domain]",
+      "Cermis disaster 1976 b.jpg [Public domain]",
+      "Cermis disaster 1976 c.jpg [Public domain]"
+    ]
+  }
+}

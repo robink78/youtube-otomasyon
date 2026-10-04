@@ -1,0 +1,49 @@
+{
+  "slug": "why-glass-shatters",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.942Z",
+  "ekranHook": "The bomb inside your window",
+  "mevcut": {
+    "puan": 85,
+    "pencereler": {
+      "0-5": "Some glass can explode all by itself, with no impact. Strong tempered glass is",
+      "5-12": "cooled fast to lock in stress. The outside is squeezed while the inside is stretched. That tension is what",
+      "12-20": "makes it so tough - until it is not. A microscopic impurity inside can slowly grow. When it reaches the stretched core,",
+      "20-30": "all that energy releases. The whole panel bursts into thousands of pieces at once. It can happen days or years after the glass was made. The flaw was"
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: a central question/problem is raised",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Some glass can explode all by itself, with no impact."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only a microscopic impurity."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is an inclusion growing into the tensioned core — and it is why glass for high-rise facades can be heat-soak tested."
+      }
+    ],
+    "metin": "Some glass can explode all by itself, with no impact. It took only a microscopic impurity. So what actually happens inside? The answer is an inclusion growing into the tensioned core — and it is why glass for high-rise facades can be heat-soak tested.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

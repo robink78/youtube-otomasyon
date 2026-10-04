@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "Cargo Broke Loose and Crushed the Controls of a 747",
+  "kaynaklar": [
+    {
+      "ad": "national-airlines-102-1.jpg",
+      "wikimedia": "MRAP being loaded onto National Airlines Flight 102.jpg"
+    },
+    {
+      "ad": "national-airlines-102-2.jpg",
+      "wikimedia": "NTSB Boardmeeting on the Bagram, Afghanistan aviation accident (19506891530).jpg"
+    },
+    {
+      "ad": "national-airlines-102-3.jpg",
+      "wikimedia": "N949CA Crash Site Aerial View (cropped).jpg"
+    },
+    {
+      "ad": "national-airlines-102-4.jpg",
+      "wikimedia": "National Airlines Flight 102 Flight Data Recorder.jpg"
+    },
+    {
+      "ad": "national-airlines-102-5.jpg",
+      "wikimedia": "N949CA Crash Site Aerial View.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Seconds after take-off from Bagram, a Boeing 747 pitched up steeply.",
+      "kaynak": "Footage/national-airlines-102-1.jpg"
+    },
+    {
+      "metin": "It stalled and crashed, killing all seven crew.",
+      "kaynak": "Footage/national-airlines-102-2.jpg"
+    },
+    {
+      "metin": "It was carrying heavy armoured vehicles.",
+      "kaynak": "Footage/national-airlines-102-3.jpg"
+    },
+    {
+      "metin": "Their straps had not been secured correctly.",
+      "kaynak": "Footage/national-airlines-102-4.jpg"
+    },
+    {
+      "metin": "As the jet climbed, a vehicle broke loose and rolled backward.",
+      "kaynak": "Footage/national-airlines-102-5.jpg"
+    },
+    {
+      "metin": "It damaged hydraulics and the tail's control system.",
+      "kaynak": "Footage/national-airlines-102-1.jpg"
+    },
+    {
+      "metin": "The pilots could not lower the nose.",
+      "kaynak": "Footage/national-airlines-102-2.jpg"
+    },
+    {
+      "metin": "Cargo restraint procedures were overhauled afterward.",
+      "kaynak": "Footage/national-airlines-102-3.jpg"
+    }
+  ],
+  "aciklama": "National 102 stalled and crashed just after take-off. The cause: shifting cargo damaging hydraulics and the horizontal stabilizer drive, causing an unrecoverable pitch-up.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "National 102",
+    "2013",
+    "cargo restraints",
+    "engineering failure"
+  ],
+  "hook": "The cargo broke loose",
+  "soru": "Who approves the straps?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "National Airlines Flight 102",
+    "kisa": "National 102",
+    "nesne": "Cargo restraints",
+    "yil": 2013,
+    "sonuc": "stalled and crashed just after take-off",
+    "tetik": "armoured vehicles breaking free of their straps",
+    "mekanizma": "shifting cargo damaging hydraulics and the horizontal stabilizer drive, causing an unrecoverable pitch-up",
+    "sayi": "CARGO SHIFT",
+    "ders": "cargo restraint procedures for heavy vehicles were overhauled",
+    "zincir": [
+      "HEAVY VEHICLES AS CARGO",
+      "STRAPS SECURED INCORRECTLY",
+      "VEHICLE ROLLS AFT ON TAKE-OFF",
+      "CONTROLS DAMAGED",
+      "STALL AND CRASH"
+    ],
+    "zaman": [],
+    "yanilgi": "The engines and airframe were fine. Loose cargo destroyed the systems that control pitch.",
+    "tartisma": "The restraint method wasn't in the approved manual. Who approves how unusual cargo is tied down?",
+    "basliklar": [
+      "Cargo Broke Loose and Crushed the Controls of a 747",
+      "Why National Airlines Flight 102 Crashed",
+      "The Cargo That Broke Loose at Take-Off"
+    ],
+    "kapak": [
+      "CARGO SHIFT",
+      "BROKE LOOSE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — National Airlines Flight 102",
+        "url": "https://en.wikipedia.org/wiki/National_Airlines_Flight_102"
+      },
+      {
+        "ad": "NTSB — AAR1501 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1501.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-14",
+    "wiki": "National_Airlines_Flight_102",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "MRAP being loaded onto National Airlines Flight 102.jpg [Public domain]",
+      "NTSB Boardmeeting on the Bagram, Afghanistan aviation accident (19506891530).jpg [Public domain]",
+      "N949CA Crash Site Aerial View (cropped).jpg [Public domain]",
+      "National Airlines Flight 102 Flight Data Recorder.jpg [Public domain]",
+      "N949CA Crash Site Aerial View.jpg [Public domain]"
+    ]
+  }
+}

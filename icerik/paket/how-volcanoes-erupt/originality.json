@@ -1,0 +1,63 @@
+{
+  "slug": "how-volcanoes-erupt",
+  "olusturuldu": "2026-09-24T16:22:41.727Z",
+  "originality": 88,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.39,
+      "kim": "why-planes-crash"
+    },
+    "hook": {
+      "deger": 0.12,
+      "kim": "why-mines-collapse"
+    },
+    "structure": {
+      "deger": 0.67,
+      "kim": "the-physics-of-explosions"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.5,
+      "kim": "how-hurricanes-destroy"
+    },
+    "cta": {
+      "deger": 0.17,
+      "kim": "why-dams-fail"
+    },
+    "description": {
+      "deger": 0.12,
+      "kim": "how-lightning-destroys"
+    },
+    "music": {
+      "deger": 0.85,
+      "kim": "how-ground-turns-to-liquid"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.39,
+    "HOOK_SIMILARITY": 0.12,
+    "STRUCTURE_SIMILARITY": 0.67,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.5,
+    "CTA_SIMILARITY": 0.17,
+    "DESCRIPTION_SIMILARITY": 0.12,
+    "MUSIC_SIMILARITY": 0.85
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

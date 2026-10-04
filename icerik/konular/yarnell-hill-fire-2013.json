@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Hotshot Crew Trapped in a Box Canyon",
+  "kaynaklar": [
+    {
+      "ad": "yarnell-hill-fire-1.jpg",
+      "wikimedia": "Memorial (9254509517).jpg"
+    },
+    {
+      "ad": "yarnell-hill-fire-2.jpg",
+      "wikimedia": "Memorial (9257289338).jpg"
+    },
+    {
+      "ad": "yarnell-hill-fire-3.jpg",
+      "wikimedia": "VP Joe Biden (9257287052).jpg"
+    },
+    {
+      "ad": "yarnell-hill-fire-4.jpg",
+      "wikimedia": "Yarnell hill fire from the south.jpg"
+    },
+    {
+      "ad": "yarnell-hill-fire-5.jpg",
+      "wikimedia": "Yarnell Hill Fire with firefighters.jpg"
+    },
+    {
+      "ad": "yarnell-hill-fire-6.jpg",
+      "wikimedia": "Yarnell Hill Fire with firefighters in the foreground.jpg"
+    },
+    {
+      "ad": "yarnell-hill-fire-7.jpg",
+      "wikimedia": "Yarnell Fire Procession.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Near Yarnell, Arizona, a wildfire overran a crew of elite firefighters.",
+      "kaynak": "Footage/yarnell-hill-fire-1.jpg"
+    },
+    {
+      "metin": "In minutes, nineteen members of the Granite Mountain Hotshots were killed.",
+      "kaynak": "Footage/yarnell-hill-fire-2.jpg"
+    },
+    {
+      "metin": "Only one member of the crew survived.",
+      "kaynak": "Footage/yarnell-hill-fire-3.jpg"
+    },
+    {
+      "metin": "He was serving as a lookout elsewhere.",
+      "kaynak": "Footage/yarnell-hill-fire-4.jpg"
+    },
+    {
+      "metin": "A sudden wind shift turned the fire.",
+      "kaynak": "Footage/yarnell-hill-fire-5.jpg"
+    },
+    {
+      "metin": "Terrain likely blocked their view of it.",
+      "kaynak": "Footage/yarnell-hill-fire-6.jpg"
+    },
+    {
+      "metin": "Radio problems left their position unclear.",
+      "kaynak": "Footage/yarnell-hill-fire-7.jpg"
+    },
+    {
+      "metin": "Their fire shelters couldn't withstand the heat.",
+      "kaynak": "Footage/yarnell-hill-fire-1.jpg"
+    }
+  ],
+  "aciklama": "Yarnell Hill overran the Granite Mountain Hotshots. The cause: a weather shift intensifying the fire while terrain blocked the crew's view and radios faltered.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Yarnell Hill",
+    "2013",
+    "escape route",
+    "engineering failure"
+  ],
+  "hook": "The wind changed in minutes",
+  "soru": "How do you track who you can't see?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Yarnell Hill Fire",
+    "kisa": "Yarnell Hill",
+    "nesne": "Escape route",
+    "yil": 2013,
+    "sonuc": "overran the Granite Mountain Hotshots",
+    "tetik": "a sudden wind shift cutting off their route",
+    "mekanizma": "a weather shift intensifying the fire while terrain blocked the crew's view and radios faltered",
+    "sayi": "19 DIED",
+    "ders": "the tragedy prompted reviews of communication and situational awareness",
+    "zincir": [
+      "CREW LEAVES SAFE AREA",
+      "WIND SHIFTS",
+      "FIRE TURNS",
+      "VIEW BLOCKED BY TERRAIN",
+      "SHELTERS DEPLOYED"
+    ],
+    "zaman": [],
+    "yanilgi": "Fire shelters were deployed, but the heat soared beyond what they could survive.",
+    "tartisma": "Radio problems left the crew's position unclear. How do you track people you can't see?",
+    "basliklar": [
+      "The Hotshot Crew Trapped in a Box Canyon",
+      "What Happened at Yarnell Hill",
+      "The Hotshots Trapped by a Wind Shift"
+    ],
+    "kapak": [
+      "19 DIED",
+      "WIND SHIFT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Yarnell Hill Fire",
+        "url": "https://en.wikipedia.org/wiki/Yarnell_Hill_Fire"
+      },
+      {
+        "ad": "FEMA — PDA Report Appeal Denial Arizona 091313 (cited by Wikipedia)",
+        "url": "https://www.fema.gov/sites/default/files/2020-09/PDA_Report_Appeal_Denial_Arizona-091313.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "Yarnell_Hill_Fire",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Memorial (9254509517).jpg [CC BY 2.0]",
+      "Memorial (9257289338).jpg [CC BY 2.0]",
+      "VP Joe Biden (9257287052).jpg [CC BY 2.0]",
+      "Yarnell hill fire from the south.jpg [CC BY 2.0]",
+      "Yarnell Hill Fire with firefighters.jpg [Public domain]",
+      "Yarnell Hill Fire with firefighters in the foreground.jpg [Public domain]",
+      "Yarnell Fire Procession.jpg [Public domain]"
+    ]
+  }
+}

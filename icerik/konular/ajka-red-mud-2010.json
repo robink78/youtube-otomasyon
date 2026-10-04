@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Wall That Released a Flood of Caustic Red Mud",
+  "kaynaklar": [
+    {
+      "ad": "ajka-red-mud-1.jpg",
+      "wikimedia": "Devecser, 10.10.2010 - panoramio.jpg"
+    },
+    {
+      "ad": "ajka-red-mud-2.jpg",
+      "wikimedia": "Marcal 2010 10 12.JPG"
+    },
+    {
+      "ad": "ajka-red-mud-3.jpg",
+      "wikimedia": "Toxic Sludge in Hungary 2010.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A reservoir wall at a Hungarian alumina plant suddenly broke.",
+      "kaynak": "Footage/ajka-red-mud-1.jpg"
+    },
+    {
+      "metin": "A flood of red mud swept through nearby villages, and ten people were killed.",
+      "kaynak": "Footage/ajka-red-mud-2.jpg"
+    },
+    {
+      "metin": "The mud was waste from making aluminium.",
+      "kaynak": "Footage/ajka-red-mud-3.jpg"
+    },
+    {
+      "metin": "It was strongly alkaline.",
+      "kaynak": "Footage/ajka-red-mud-1.jpg"
+    },
+    {
+      "metin": "It caused chemical burns to people and animals.",
+      "kaynak": "Footage/ajka-red-mud-2.jpg"
+    },
+    {
+      "metin": "It flowed into rivers and reached the Danube.",
+      "kaynak": "Footage/ajka-red-mud-3.jpg"
+    },
+    {
+      "metin": "The reservoir had been inspected shortly before.",
+      "kaynak": "Footage/ajka-red-mud-1.jpg"
+    },
+    {
+      "metin": "Hungary then tightened rules for industrial waste reservoirs.",
+      "kaynak": "Footage/ajka-red-mud-2.jpg"
+    }
+  ],
+  "aciklama": "Ajka flooded villages with caustic red mud. The cause: structural failure of a reservoir dyke holding highly alkaline bauxite residue.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Ajka",
+    "2010",
+    "reservoir wall",
+    "engineering failure"
+  ],
+  "hook": "The mud burned",
+  "soru": "What do inspections check?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Ajka alumina reservoir",
+    "kisa": "Ajka",
+    "nesne": "Reservoir wall",
+    "yil": 2010,
+    "sonuc": "flooded villages with caustic red mud",
+    "tetik": "a corner of a waste reservoir wall giving way",
+    "mekanizma": "structural failure of a reservoir dyke holding highly alkaline bauxite residue",
+    "sayi": "10 KILLED",
+    "ders": "Hungary tightened industrial waste reservoir regulation",
+    "zincir": [
+      "RED MUD STORED BEHIND DYKE",
+      "WALL WEAKENS",
+      "CORNER BREACHES",
+      "CAUSTIC MUD FLOODS VILLAGES",
+      "RIVERS CONTAMINATED"
+    ],
+    "zaman": [],
+    "yanilgi": "The mud wasn't just dirty water. It was strongly alkaline and caused chemical burns.",
+    "tartisma": "The reservoir had been inspected shortly before. What are inspections actually checking?",
+    "basliklar": [
+      "The Wall That Released a Flood of Caustic Red Mud",
+      "Why the Ajka Red Mud Reservoir Failed",
+      "The Caustic Flood in Hungary"
+    ],
+    "kapak": [
+      "CAUSTIC MUD",
+      "10 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Ajka alumina plant accident",
+        "url": "https://en.wikipedia.org/wiki/Ajka_alumina_plant_accident"
+      },
+      {
+        "ad": "Government source — 20966220 (cited by Wikipedia)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20966220"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Ajka_alumina_plant_accident",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Devecser, 10.10.2010 - panoramio.jpg [CC BY 3.0]",
+      "Marcal 2010 10 12.JPG [Public domain]",
+      "Toxic Sludge in Hungary 2010.jpg [Public domain]"
+    ]
+  }
+}

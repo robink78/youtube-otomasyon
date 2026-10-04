@@ -1,0 +1,1592 @@
+{
+  "channel": "critical-thread",
+  "records": [
+    {
+      "slug": "the-critical-role-of-bab-el-mandeb-shipping-route",
+      "topic": "The 26-Kilometre Strait Guarding the Red Sea",
+      "coreQuestion": "Why can a strait just 26 kilometres wide reroute a share of the world's oil?",
+      "openingLine": "Why 9% of seaborne oil needs one strait.",
+      "secondBeat": "Bab el-Mandeb is just 26 kilometres wide at its narrowest.",
+      "dependency": "Tankers and container ships between the Indian Ocean, the Red Sea and Suez depend on passage through Bab el-Mandeb.",
+      "mechanism": "Traffic is confined to two narrow inbound and outbound lanes through a strait 26 km wide at its narrowest.",
+      "bottleneck": "There is no alternative sea route into the Red Sea from the south.",
+      "failureConsequence": "A closure forces ships around the Cape of Good Hope, adding time, fuel and insurance cost.",
+      "resilience": "Pipelines and rerouting around Africa absorb part of the flow at higher cost.",
+      "expectedConsequence": "freight and insurance costs rise first as ships divert",
+      "number": "26 km",
+      "thumbnailText": "26 KM",
+      "visualScenes": [
+        "satellite map of Bab el-Mandeb",
+        "two tanker lanes through the strait",
+        "Red Sea to Suez route line",
+        "Cape of Good Hope diversion map",
+        "oil flow share graphic",
+        "tanker traffic density animation"
+      ],
+      "editorialTitles": [
+        "The Narrow Strait at the Red Sea's Gate",
+        "Why Bab el-Mandeb Can Reroute World Trade"
+      ],
+      "facts": [
+        {
+          "claim": "The Bab al-Mandab Strait is 26 kilometres (14 nautical miles) wide at its narrowest point, limiting tanker traffic to two 2-mile-wide channels for inbound and outbound shipments.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bab-el-Mandeb",
+          "url": "https://en.wikipedia.org/wiki/Bab-el-Mandeb"
+        },
+        {
+          "claim": "In 2006, an estimated 3.3 million barrels of oil passed through the strait per day, out of a world total of about 43 million barrels per day moved by tankers.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bab-el-Mandeb",
+          "url": "https://en.wikipedia.org/wiki/Bab-el-Mandeb"
+        },
+        {
+          "claim": "In 2017, total petroleum flows through the Bab al-Mandab Strait accounted for about 9% of total seaborne-traded petroleum.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bab-el-Mandeb",
+          "url": "https://en.wikipedia.org/wiki/Bab-el-Mandeb"
+        },
+        {
+          "claim": "In April 2026, Houthi official Hussein al-Ezzi warned that the Bab al-Mandab strait could be closed.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bab-el-Mandeb",
+          "url": "https://en.wikipedia.org/wiki/Bab-el-Mandeb"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 9% of seaborne oil needs one strait.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Bab el-Mandeb is just 26 kilometres wide at its narrowest.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Tankers use two lanes, each about 2 miles wide.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "It links the Indian Ocean to the Red Sea and Suez.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Back in 2006, about 3.3 million barrels a day passed through.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Close it, and ships must detour around Africa.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a gap this narrow can reprice global freight.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-bosporus-vessel-transit-system",
+      "topic": "The 700-Metre Strait Running Through Istanbul",
+      "coreQuestion": "Why does a whole sea's shipping depend on a channel 700 metres wide inside a city?",
+      "openingLine": "Why Black Sea trade narrows to 700 metres.",
+      "secondBeat": "That's the Bosporus at its tightest, inside Istanbul.",
+      "dependency": "Black Sea exports of grain, oil and metals depend on transit through the Bosporus.",
+      "mechanism": "Ships follow a winding 31 km channel through Istanbul, with long vessels pre-booking passage.",
+      "bottleneck": "At its narrowest the strait is only 700 m wide, with sharp turns and heavy local ferry traffic.",
+      "failureConsequence": "A grounding or collision can halt transits and queue ships at both ends.",
+      "resilience": "Pipelines and rail carry part of the cargo, but most bulk trade has no other sea exit.",
+      "expectedConsequence": "queues form at both ends of the strait within hours",
+      "number": "700 m",
+      "thumbnailText": "700 METRES",
+      "visualScenes": [
+        "satellite map of the Bosporus through Istanbul",
+        "narrowest point at Kandilli",
+        "depth profile of the strait",
+        "tanker passing between city shores",
+        "Black Sea export routes",
+        "ship queue at the strait entrance"
+      ],
+      "editorialTitles": [
+        "The City Strait That Controls a Sea",
+        "Why the Bosporus Is a Global Chokepoint"
+      ],
+      "facts": [
+        {
+          "claim": "The strait is 31 km (17 nmi) long, with a width of 3,329 m at the northern entrance and 2,826 m at the southern entrance.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bosporus",
+          "url": "https://en.wikipedia.org/wiki/Bosporus"
+        },
+        {
+          "claim": "Its maximum width is 3,420 m between Umuryeri and Büyükdere Limanı, and minimum width is 700 m between Kandilli Point and Aşiyan.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bosporus",
+          "url": "https://en.wikipedia.org/wiki/Bosporus"
+        },
+        {
+          "claim": "The depth of the Bosporus varies from 13 to 110 m (43 to 361 ft) in midstream with an average of 65 m (213 ft).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bosporus",
+          "url": "https://en.wikipedia.org/wiki/Bosporus"
+        },
+        {
+          "claim": "Ships over 150 metres long or 10 metres deep must pre-book their passage.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bosporus",
+          "url": "https://en.wikipedia.org/wiki/Bosporus"
+        },
+        {
+          "claim": "In 2022 the dues levied by Turkey for freight ships increased 500% to US$4 per ton, the first change since 1983.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bosporus",
+          "url": "https://en.wikipedia.org/wiki/Bosporus"
+        },
+        {
+          "claim": "The city of Istanbul's metropolitan population of 17 million inhabitants extends inland from both banks.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Bosporus",
+          "url": "https://en.wikipedia.org/wiki/Bosporus"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why Black Sea trade narrows to 700 metres.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's the Bosporus at its tightest, inside Istanbul.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The strait runs 31 kilometres through a city of 17 million.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its depth ranges from 13 to 110 metres midstream.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Ships over 150 metres long must pre-book their passage.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "In 2022, Turkey raised transit dues 500%, the first change since 1983.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "One stalled tanker here can back up a whole sea's exports.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a city channel controls a sea's access to the world.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-alpine-freight-tunnel",
+      "topic": "The 57-Kilometre Tunnel Carrying Freight Under the Alps",
+      "coreQuestion": "What happens to Europe's north–south freight when one flat tunnel under the Alps shuts?",
+      "openingLine": "One derailment shut the Gotthard for a year.",
+      "secondBeat": "The tunnel runs 57 kilometres beneath the Alps.",
+      "dependency": "Freight between northern Europe and Italy relies on the flat Gotthard Base Tunnel route.",
+      "mechanism": "A 57 km low-level tunnel lets heavy freight trains cross the Alps without steep mountain grades.",
+      "bottleneck": "Two single-track tubes and crossover stations concentrate capacity in one structure.",
+      "failureConsequence": "A derailment in 2023 damaged the tunnel and closed one tube for over a year.",
+      "resilience": "The older mountain line and other Alpine corridors absorb traffic at lower capacity.",
+      "expectedConsequence": "trains divert to slower, steeper routes and capacity drops",
+      "number": "57 km",
+      "thumbnailText": "57 KM TUNNEL",
+      "visualScenes": [
+        "cross-section of the Alps with the tunnel",
+        "freight train in a tunnel tube",
+        "depth comparison with deep mines",
+        "derailment damage at the crossover",
+        "European freight corridor map",
+        "old mountain line gradient comparison"
+      ],
+      "editorialTitles": [
+        "The Tunnel That Flattened the Alps",
+        "What One Derailment Did to Alpine Freight"
+      ],
+      "facts": [
+        {
+          "claim": "With a route length of 57.09 km (35.47 mi), it is the world's longest railway and deepest traffic tunnel and the first flat, low-level route through the Alps.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gotthard Base Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel"
+        },
+        {
+          "claim": "It is the deepest railway tunnel in the world, with a maximum depth of 2,450 m (8,040 ft).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gotthard Base Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel"
+        },
+        {
+          "claim": "Since the GBT is in full service, standard freight trains of up to 3,600 t are able to pass this natural barrier.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gotthard Base Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel"
+        },
+        {
+          "claim": "Completed in 2016, the final cost was reported to be CHF 12.2 billion (US$12 billion).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gotthard Base Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel"
+        },
+        {
+          "claim": "A freight train derailment in August 2023 forced the tunnel's closure for over a year before reopening in September 2024.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gotthard Base Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel"
+        },
+        {
+          "claim": "The derailed wagon pulled more than 20 following wagons off the tracks.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gotthard Base Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel"
+        },
+        {
+          "claim": "Freight trains were allowed to use the east tunnel from 23 August whilst passenger services remained rerouted.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gotthard Base Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One derailment shut the Gotthard for a year.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The tunnel runs 57 kilometres beneath the Alps.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It's the world's longest railway tunnel, up to 2,450 metres deep.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its flat route lets 3,600-tonne freight trains cross the mountains.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It cost 12.2 billion Swiss francs and opened in 2016.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "In 2023, one derailed wagon pulled over 20 more off the tracks.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Freight squeezed into one tube while passenger trains detoured.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why one flat tunnel carries so much of Europe's freight.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-rotterdam-port-complex",
+      "topic": "The 40-Kilometre Port Supplying 500 Million Consumers",
+      "coreQuestion": "Why does one Dutch port matter to a hinterland of 500 million people?",
+      "openingLine": "One port serves a hinterland of 500 million.",
+      "secondBeat": "Rotterdam's port stretches 40 kilometres to the sea.",
+      "dependency": "Industries and consumers across Europe depend on cargo moving through Rotterdam into rivers, rail and pipelines.",
+      "mechanism": "A 40 km chain of port areas links deep-sea shipping to inland barges, rail and road.",
+      "bottleneck": "Much of Europe's inland distribution is organised around this single gateway.",
+      "failureConsequence": "Disruption delays supplies to factories and shops far inland.",
+      "resilience": "Antwerp, Hamburg and other North Sea ports can absorb some diverted cargo.",
+      "expectedConsequence": "inland deliveries slip as cargo waits for another gateway",
+      "number": "500 million",
+      "thumbnailText": "500M CONSUMERS",
+      "visualScenes": [
+        "aerial map of Rotterdam port areas",
+        "container terminals at Maasvlakte",
+        "barges heading up the Rhine",
+        "freight rail line to Germany",
+        "Europe hinterland reach map",
+        "port ranking timeline"
+      ],
+      "editorialTitles": [
+        "The Port Behind Europe's Supply Chains",
+        "Why Rotterdam Matters More Than Its Ranking"
+      ],
+      "facts": [
+        {
+          "claim": "From 1962 until 2004, it was the world's busiest port by annual cargo tonnage.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Rotterdam",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Rotterdam"
+        },
+        {
+          "claim": "In 2020, Rotterdam was the world's tenth-largest container port in terms of twenty-foot equivalent units (TEU) handled.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Rotterdam",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Rotterdam"
+        },
+        {
+          "claim": "Covering 105 square kilometres (41 sq mi), the port of Rotterdam stretches over a distance of 40 kilometres (25 mi).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Rotterdam",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Rotterdam"
+        },
+        {
+          "claim": "Rotterdam consists of five distinct port areas and three distribution parks that facilitate the needs of a hinterland with over 500 million consumers throughout the continent of Europe.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Rotterdam",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Rotterdam"
+        }
+      ],
+      "narration": [
+        {
+          "text": "One port serves a hinterland of 500 million.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Rotterdam's port stretches 40 kilometres to the sea.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It covers 105 square kilometres of docks and terminals.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "From 1962 to 2004, it was the world's busiest port.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "In 2020, it ranked tenth for containers.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Its value is the reach inland, into Europe's river and rail network.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "A disruption here ripples through factories hundreds of kilometres away.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why Rotterdam matters more than its ranking suggests.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-singapore-transshipment-hub-becomes-the-bottleneck",
+      "topic": "The Port Where 90% of Boxes Just Switch Ships",
+      "coreQuestion": "What happens when the port where most boxes only change ships slows down?",
+      "openingLine": "Why 90% of Singapore's boxes just switch ships.",
+      "secondBeat": "Singapore is less a destination than a switchyard.",
+      "dependency": "Shipping lines connecting Asia, Europe and Oceania rely on Singapore to swap containers between services.",
+      "mechanism": "Containers arrive on one vessel and leave on another, feeding dozens of regional routes.",
+      "bottleneck": "Transshipment concentrates connections: a delay in one hub spreads to every linked route.",
+      "failureConsequence": "Congestion strands containers bound for many other ports, not just Singapore.",
+      "resilience": "Nearby hubs such as Port Klang and Tanjung Pelepas can absorb some transfers.",
+      "expectedConsequence": "missed connections ripple across regional shipping schedules",
+      "number": "90%",
+      "thumbnailText": "90% SWITCH SHIPS",
+      "visualScenes": [
+        "container crane swapping boxes between ships",
+        "hub-and-spoke shipping route map",
+        "Tuas mega port aerial view",
+        "bunkering tanker alongside a ship",
+        "container yard stacking",
+        "ship queue at anchorage"
+      ],
+      "editorialTitles": [
+        "The Port That's Mostly a Switchyard",
+        "Why Singapore's Delays Travel So Far"
+      ],
+      "facts": [
+        {
+          "claim": "Around 90% of its container throughput was transshipment traffic in 2024.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Singapore",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Singapore"
+        },
+        {
+          "claim": "Marine fuel sales also reached 56.77 million tons, up 3.4% from the previous year.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Singapore",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Singapore"
+        },
+        {
+          "claim": "Operations at the Tuas mega port began in September 2021, and officially opened on 1 September 2022, with three berths fully operational.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Singapore",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Singapore"
+        },
+        {
+          "claim": "Eight more berths commenced service by February 2025.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Singapore",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Singapore"
+        },
+        {
+          "claim": "It was ranked as the world's busiest port in terms of total cargo tonnage handled until 2010, when it was surpassed by the Port of Shanghai.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Port of Singapore",
+          "url": "https://en.wikipedia.org/wiki/Port_of_Singapore"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 90% of Singapore's boxes just switch ships.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Singapore is less a destination than a switchyard.",
+          "layer": "MODEL",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "In 2024, around 90% of its container traffic was transshipment.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It also sold 56.77 million tons of marine fuel.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its new Tuas mega port opened in 2022 with 3 berths.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "8 more berths entered service by February 2025.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "If Singapore stalls, cargo for dozens of ports waits offshore.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a city-state's port sets the pace for Asian shipping.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-uranium-enrichment-centrifuge",
+      "topic": "The 50,000-RPM Machine Behind Nuclear Fuel",
+      "coreQuestion": "Why does nuclear power depend on a machine that only a few countries can build?",
+      "openingLine": "Nuclear fuel depends on tubes spinning 50,000 rpm.",
+      "secondBeat": "Gas centrifuges separate uranium-235 from uranium-238.",
+      "dependency": "Most nuclear reactors need fuel enriched in uranium-235 by gas centrifuges.",
+      "mechanism": "Uranium hexafluoride gas spins at high speed; slightly lighter U-235 molecules concentrate toward the centre.",
+      "bottleneck": "Each machine enriches only slightly, so fuel needs long cascades of precision centrifuges.",
+      "failureConsequence": "Loss of enrichment capacity leaves reactors without new fuel loads.",
+      "resilience": "Stockpiles and a few international suppliers buffer shortages for a time.",
+      "expectedConsequence": "fuel lead times stretch as enrichment capacity tightens",
+      "number": "50,000 rpm",
+      "thumbnailText": "50,000 RPM",
+      "visualScenes": [
+        "centrifuge rotor cross-section",
+        "gas separating by mass diagram",
+        "cascade hall of centrifuges",
+        "uranium-235 versus uranium-238 comparison",
+        "fuel pellet and assembly",
+        "enrichment supply map"
+      ],
+      "editorialTitles": [
+        "The Spinning Machine Behind Nuclear Fuel",
+        "Why So Few Countries Can Enrich Uranium"
+      ],
+      "facts": [
+        {
+          "claim": "A prominent use of gas centrifuges is for the separation of uranium-235 (235U) from uranium-238 (238U).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gas centrifuge",
+          "url": "https://en.wikipedia.org/wiki/Gas_centrifuge"
+        },
+        {
+          "claim": "Centrifuges are ramped up to the required speed, generally in excess of 50,000 rpm.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gas centrifuge",
+          "url": "https://en.wikipedia.org/wiki/Gas_centrifuge"
+        },
+        {
+          "claim": "The early units were typically around 2 metres long; the present generation are over 4 metres in length.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gas centrifuge",
+          "url": "https://en.wikipedia.org/wiki/Gas_centrifuge"
+        },
+        {
+          "claim": "This process yields higher concentrations of 235U while using significantly less energy compared to the gaseous diffusion process.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gas centrifuge",
+          "url": "https://en.wikipedia.org/wiki/Gas_centrifuge"
+        },
+        {
+          "claim": "The stream that is slightly enriched in 235U is withdrawn and fed into the next higher stage, while the slightly depleted stream is recycled back into the next lower stage.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Gas centrifuge",
+          "url": "https://en.wikipedia.org/wiki/Gas_centrifuge"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Nuclear fuel depends on tubes spinning 50,000 rpm.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Gas centrifuges separate uranium-235 from uranium-238.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Heavier molecules drift outward. Slightly lighter ones collect inward.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Each stage enriches only slightly, so machines are chained in cascades.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Modern units are over 4 metres long.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "They replaced gaseous diffusion, using far less energy.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Few countries can build them, and the know-how is tightly controlled.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why nuclear power runs on a machine few can make.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-strategic-petroleum-storage-cavern-becomes-the-bottleneck",
+      "topic": "Why America's Emergency Oil Drains So Slowly",
+      "coreQuestion": "Why can't America's emergency oil reserve replace imports, even when it's full?",
+      "openingLine": "Why 285.4 million barrels can't flow fast.",
+      "secondBeat": "Its maximum withdrawal is 2.7 million barrels a day.",
+      "dependency": "U.S. energy security in a supply shock depends on oil stored in underground caverns in Louisiana and Texas.",
+      "mechanism": "Oil is pumped out of underground storage at a maximum combined rate of 2.7 million barrels a day.",
+      "bottleneck": "The withdrawal rate, not the stockpile size, limits how much the reserve can cover.",
+      "failureConsequence": "In a large disruption, the reserve covers only part of daily demand and runs down over months.",
+      "resilience": "Commercial inventories and international stock releases add to the buffer.",
+      "expectedConsequence": "the reserve slows a price spike but cannot fully replace lost supply",
+      "number": "2.7M barrels/day",
+      "thumbnailText": "2.7M BARRELS/DAY",
+      "visualScenes": [
+        "salt cavern cross-section",
+        "map of reserve sites in Louisiana and Texas",
+        "inventory level chart",
+        "pump rate versus demand bar",
+        "tanker loading at a terminal",
+        "106-day drawdown timeline"
+      ],
+      "editorialTitles": [
+        "The Emergency Oil That Can't Flow Fast",
+        "Why the Petroleum Reserve Buys Time, Not Supply"
+      ],
+      "facts": [
+        {
+          "claim": "Its underground tanks in Louisiana and Texas have capacity for 714 million barrels (113,500,000 m3).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strategic Petroleum Reserve (United States)",
+          "url": "https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States)"
+        },
+        {
+          "claim": "As of September 4, 2026, the inventory was 285.4 million barrels (45,370,000 m3).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strategic Petroleum Reserve (United States)",
+          "url": "https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States)"
+        },
+        {
+          "claim": "This equates to about 14 days' worth of oil at 2026 daily U.S. consumption levels of 20.1 million barrels per day.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strategic Petroleum Reserve (United States)",
+          "url": "https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States)"
+        },
+        {
+          "claim": "The maximum total withdrawal capability from the SPR is only 2.7 million barrels per day, so it would take about 106 days to use the entire inventory.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Strategic Petroleum Reserve (United States)",
+          "url": "https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States)"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 285.4 million barrels can't flow fast.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Its maximum withdrawal is 2.7 million barrels a day.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Underground caverns in Louisiana and Texas hold up to 714 million barrels.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That was the stock in September 2026.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's about 14 days of American consumption.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "But draining it fully would take about 106 days.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "So the reserve buys time. It can't replace imports.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why the pump rate matters as much as the stockpile.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-instrument-landing-system",
+      "topic": "The Radio Beams That Land Planes in Fog",
+      "coreQuestion": "How do planes land when pilots can't see the runway?",
+      "openingLine": "Why fog landings depend on 2 radio beams.",
+      "secondBeat": "One steers left-right. The other sets the descent.",
+      "dependency": "Low-visibility landings at major airports depend on the instrument landing system's radio beams.",
+      "mechanism": "A localizer gives horizontal guidance and a glideslope gives vertical guidance down to the runway.",
+      "bottleneck": "Precision approaches need calibrated transmitters that shut down quickly on any fault.",
+      "failureConsequence": "Without ILS in fog, flights divert or hold, cutting airport capacity.",
+      "resilience": "Satellite-based LPV approaches now cover many airports as a backup.",
+      "expectedConsequence": "arrivals divert or hold when visibility drops",
+      "number": "108–112 MHz",
+      "thumbnailText": "LANDING BLIND",
+      "visualScenes": [
+        "aircraft on approach in fog",
+        "localizer beam diagram",
+        "glideslope angle to runway",
+        "antenna array at runway end",
+        "cockpit ILS needles",
+        "CAT I versus CAT III minimums chart"
+      ],
+      "editorialTitles": [
+        "How Planes Land When Pilots Can't See",
+        "The Radio Beams Behind Fog Landings"
+      ],
+      "facts": [
+        {
+          "claim": "ILS uses two directional radio signals, the localizer (108 to 112 MHz frequency), which provides horizontal guidance, and the glideslope (329.15 to 335 MHz frequency) for vertical guidance.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Instrument landing system",
+          "url": "https://en.wikipedia.org/wiki/Instrument_landing_system"
+        },
+        {
+          "claim": "A CAT I localizer must shut down within 10 seconds of detecting a fault, but a CAT III localizer must shut down in less than 2 seconds.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Instrument landing system",
+          "url": "https://en.wikipedia.org/wiki/Instrument_landing_system"
+        },
+        {
+          "claim": "After the formation of ICAO in 1947, ILS was selected as the first international standard precision approach system and was published in ICAO Annex 10 in 1950.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Instrument landing system",
+          "url": "https://en.wikipedia.org/wiki/Instrument_landing_system"
+        },
+        {
+          "claim": "By 2015, the number of US airports supporting ILS-like LPV approaches exceeded the number of ILS installations.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Instrument landing system",
+          "url": "https://en.wikipedia.org/wiki/Instrument_landing_system"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why fog landings depend on 2 radio beams.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "One steers left-right. The other sets the descent.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The localizer transmits between 108 and 112 megahertz.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The glideslope uses 329.15 to 335 megahertz.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "A CAT III localizer must shut down within 2 seconds of a fault.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "A wrong beam is worse than no beam at all.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "ICAO made ILS the first international precision approach standard.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That's why decades-old radio still guides the final approach.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-automatic-identification-system-is-so-hard-to-replace",
+      "topic": "The Radio Signal Every Big Ship Must Broadcast",
+      "coreQuestion": "How do thousands of ships share one radio channel to announce where they are?",
+      "openingLine": "Why ships share 2,250 radio slots every minute.",
+      "secondBeat": "That's how AIS packs thousands of position reports together.",
+      "dependency": "Collision avoidance, vessel traffic services and port planning depend on AIS position reports.",
+      "mechanism": "Transponders broadcast position reports in shared time slots on VHF frequencies.",
+      "bottleneck": "Coastal reception is limited to VHF range; open-ocean coverage relies on satellites.",
+      "failureConsequence": "When a transponder is switched off, the ship disappears from shared traffic pictures.",
+      "resilience": "Radar, satellite imagery and patrols can partly fill gaps.",
+      "expectedConsequence": "dark ships create blind spots for traffic control and safety",
+      "number": "2,250 slots/min",
+      "thumbnailText": "2,250 SLOTS",
+      "visualScenes": [
+        "ship icons on a live traffic map",
+        "VHF antenna on a ship mast",
+        "time-slot diagram on a radio frequency",
+        "coastal station range circle",
+        "satellite picking up signals over ocean",
+        "ship vanishing from the map"
+      ],
+      "editorialTitles": [
+        "The Radio Signal That Maps Every Big Ship",
+        "Why a Ship Can Vanish With One Switch"
+      ],
+      "facts": [
+        {
+          "claim": "Recent regulations have mandated the installation of AIS systems on all Safety Of Life At Sea (SOLAS) vessels and vessels over 300 tons.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Automatic identification system",
+          "url": "https://en.wikipedia.org/wiki/Automatic_identification_system"
+        },
+        {
+          "claim": "This was the first mandate for the use of AIS equipment and affected approximately 100,000 vessels.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Automatic identification system",
+          "url": "https://en.wikipedia.org/wiki/Automatic_identification_system"
+        },
+        {
+          "claim": "A position report from one station fits into one of 2,250 time slots established every 60 seconds on each frequency.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Automatic identification system",
+          "url": "https://en.wikipedia.org/wiki/Automatic_identification_system"
+        },
+        {
+          "claim": "Shore reception is limited to the VHF range, about 10–20 nautical miles.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Automatic identification system",
+          "url": "https://en.wikipedia.org/wiki/Automatic_identification_system"
+        },
+        {
+          "claim": "In late 2011 and early 2012, ORBCOMM and Luxspace launched the Vesselsat AIS microsatellites.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Automatic identification system",
+          "url": "https://en.wikipedia.org/wiki/Automatic_identification_system"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why ships share 2,250 radio slots every minute.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "That's how AIS packs thousands of position reports together.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It's mandatory on SOLAS vessels and ships over 300 tons.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The first mandate covered about 100,000 vessels.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Ground stations hear it only 10 to 20 nautical miles out.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Satellites now pick it up across open oceans.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Switch it off, and a ship vanishes from traffic pictures.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why sea traffic depends on ships announcing themselves.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-positive-train-control-network",
+      "topic": "The Train Safety System That Arrived 5 Years Late",
+      "coreQuestion": "Why did a train-stopping safety system take twelve years to install across U.S. railroads?",
+      "openingLine": "America's train safety system arrived 5 years late.",
+      "secondBeat": "Congress set a 2015 deadline. It finished in 2020.",
+      "dependency": "Passenger and freight trains on required U.S. routes depend on positive train control to prevent certain crashes.",
+      "mechanism": "Onboard, wayside and office systems share data so the train can be stopped automatically before an overspeed or signal violation.",
+      "bottleneck": "Every railroad sharing the same tracks had to install interoperable equipment.",
+      "failureConsequence": "Where PTC is missing or fails, safety falls back on crews alone.",
+      "resilience": "Signals and operating rules remain as the base safety layer.",
+      "expectedConsequence": "trains run slower or under restrictions when PTC is unavailable",
+      "number": "100% by 2020",
+      "thumbnailText": "5 YEARS LATE",
+      "visualScenes": [
+        "locomotive cab display",
+        "wayside signal and radio mast",
+        "railroad map of required routes",
+        "deadline timeline 2008 to 2020",
+        "automatic braking diagram",
+        "interoperability diagram between railroads"
+      ],
+      "editorialTitles": [
+        "The Safety System U.S. Railroads Couldn't Rush",
+        "Why Positive Train Control Took 12 Years"
+      ],
+      "facts": [
+        {
+          "claim": "In September 2008, Congress considered a new law that set a deadline of December 15, 2015 for implementation of PTC technology across most of the US rail network.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Positive train control",
+          "url": "https://en.wikipedia.org/wiki/Positive_train_control"
+        },
+        {
+          "claim": "As of June 2015, only seven commuter systems (29 percent of those represented by APTA) were expecting to make the deadline.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Positive train control",
+          "url": "https://en.wikipedia.org/wiki/Positive_train_control"
+        },
+        {
+          "claim": "In October 2015, Congress passed a bill extending the compliance deadline by three years, to December 31, 2018.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Positive train control",
+          "url": "https://en.wikipedia.org/wiki/Positive_train_control"
+        },
+        {
+          "claim": "Only four railroads met the December 2018 deadline; the other 37 got extensions to December 2020.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Positive train control",
+          "url": "https://en.wikipedia.org/wiki/Positive_train_control"
+        },
+        {
+          "claim": "PTC was installed and operational on 100% of the statutory-required trackage by December 29, 2020.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Positive train control",
+          "url": "https://en.wikipedia.org/wiki/Positive_train_control"
+        }
+      ],
+      "narration": [
+        {
+          "text": "America's train safety system arrived 5 years late.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Congress set a 2015 deadline. It finished in 2020.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The system can override a crew and stop a train.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "By June 2015, only 29 percent of APTA commuter systems expected to comply.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Congress extended the deadline to December 31, 2018.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Only 4 railroads made it. 37 more needed extensions.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "It reached 100% of required track on December 29, 2020.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That's why rail safety tech is a coordination problem, not a gadget.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-cement-kiln",
+      "topic": "The 1,450 °C Kiln Behind Every Road and Bridge",
+      "coreQuestion": "Why are cement kilns so hard to decarbonise, even with clean fuel?",
+      "openingLine": "Every bridge starts in a 1,450 °C kiln.",
+      "secondBeat": "Cement kilns emit about 2.5% of human-made carbon.",
+      "dependency": "Concrete for roads, bridges and buildings depends on clinker made in cement kilns.",
+      "mechanism": "Limestone and clay are heated until calcium carbonate releases CO2 and minerals partly melt into clinker.",
+      "bottleneck": "Part of the emissions comes from the rock chemistry itself, not the fuel.",
+      "failureConsequence": "A kiln outage cuts regional cement supply, delaying construction.",
+      "resilience": "Imports of cement and clinker, and alternative binders, cover part of demand.",
+      "expectedConsequence": "construction schedules slip when regional clinker supply drops",
+      "number": "1,450 °C",
+      "thumbnailText": "1,450 °C",
+      "visualScenes": [
+        "rotating cement kiln",
+        "temperature zones along the kiln",
+        "limestone releasing CO2 diagram",
+        "clinker nodules close-up",
+        "clinker cooler",
+        "bridge under construction with concrete"
+      ],
+      "editorialTitles": [
+        "The Furnace Behind Every Bridge",
+        "Why Cement's Emissions Are So Hard to Cut"
+      ],
+      "facts": [
+        {
+          "claim": "Emissions from cement kilns are a major source of greenhouse gas emissions, accounting for around 2.5% of non-natural carbon emissions worldwide.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cement kiln",
+          "url": "https://en.wikipedia.org/wiki/Cement_kiln"
+        },
+        {
+          "claim": "The emissions come from two sources: the fuel and the waste CO2 created from heating the silicate rocks.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cement kiln",
+          "url": "https://en.wikipedia.org/wiki/Cement_kiln"
+        },
+        {
+          "claim": "900 to 1050 °C – the remaining calcium carbonate decomposes to calcium oxide (CaO) and CO2.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cement kiln",
+          "url": "https://en.wikipedia.org/wiki/Cement_kiln"
+        },
+        {
+          "claim": "Typically, a peak temperature of 1400–1450 °C is required to complete the reaction.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cement kiln",
+          "url": "https://en.wikipedia.org/wiki/Cement_kiln"
+        },
+        {
+          "claim": "The hot clinker next falls into a cooler which recovers most of its heat, and cools the clinker to around 100 °C.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Cement kiln",
+          "url": "https://en.wikipedia.org/wiki/Cement_kiln"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Every bridge starts in a 1,450 °C kiln.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Cement kilns emit about 2.5% of human-made carbon.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Limestone releases CO2 as it breaks down near 900 °C.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "So even clean fuel can't remove all the emissions.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "At 1,400 to 1,450 °C, the minerals partly melt into clinker.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "A cooler then brings clinker down to around 100 °C.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Stop the kiln, and concrete supply for whole regions stalls.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why the hardest emissions to cut are chemical, not fuel.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-plant-germplasm-seed-bank",
+      "topic": "The Arctic Vault Backing Up the World's Crops",
+      "coreQuestion": "What happens to a country's crop varieties when its own seed bank is lost?",
+      "openingLine": "Why 4.5 million seed samples need a mountain.",
+      "secondBeat": "Svalbard's vault lies 130 metres inside sandstone.",
+      "dependency": "Plant breeders and national genebanks depend on duplicate seed collections as a last backup.",
+      "mechanism": "Seeds are dried, sealed and stored at −18 °C inside permafrost rock to keep them viable for decades.",
+      "bottleneck": "A single backup site holds duplicates for much of the world's crop diversity.",
+      "failureConsequence": "If a national collection is destroyed and has no duplicate, those varieties can be lost for good.",
+      "resilience": "Depositors can withdraw their duplicates to rebuild collections.",
+      "expectedConsequence": "breeders lose traits they may need for future climates",
+      "number": "4.5 million samples",
+      "thumbnailText": "SEED BACKUP",
+      "visualScenes": [
+        "entrance of the Svalbard vault in snow",
+        "tunnel 130 metres into the mountain",
+        "sealed seed boxes on shelves",
+        "cold room at −18 °C",
+        "map of depositing genebanks",
+        "seed samples being withdrawn"
+      ],
+      "editorialTitles": [
+        "The Arctic Vault Backing Up Our Crops",
+        "Why the World's Seeds Sleep in a Mountain"
+      ],
+      "facts": [
+        {
+          "claim": "The seed bank is 130 m (430 ft) inside a sandstone mountain on Spitsbergen Island, and employs robust security systems.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Svalbard Global Seed Vault",
+          "url": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
+        },
+        {
+          "claim": "The facility has a storage capacity of 4.5 million seed samples.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Svalbard Global Seed Vault",
+          "url": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
+        },
+        {
+          "claim": "Locally mined coal provides power for refrigeration units that further cool the seeds to the internationally recommended standard of −18 °C (−0.4 °F).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Svalbard Global Seed Vault",
+          "url": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
+        },
+        {
+          "claim": "It being 130 m (430 ft) above sea level will keep the site dry even if the ice caps melt.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Svalbard Global Seed Vault",
+          "url": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
+        },
+        {
+          "claim": "In 2015, researchers started sending seeds from the Middle East for safeguarding in Svalbard due to ongoing conflicts.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Svalbard Global Seed Vault",
+          "url": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 4.5 million seed samples need a mountain.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Svalbard's vault lies 130 metres inside sandstone.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It sits on Spitsbergen, deep in the Arctic.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Local coal power keeps them at minus 18 °C.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Sitting 130 metres above sea level, it stays dry if ice melts.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Since 2015, conflict has pushed Middle Eastern seeds into safekeeping here.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "If a national genebank is lost, this is the fallback.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why crop diversity depends on one cold room in the Arctic.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-potash-processing-plant",
+      "topic": "The Canadian Mineral Feeding the World's Crops",
+      "coreQuestion": "Why does global farming depend on potash mined in so few places?",
+      "openingLine": "Why farms need 71.9 million tonnes of potash.",
+      "secondBeat": "Canada is the largest producer of potash fertiliser.",
+      "dependency": "Crop yields depend on potassium fertiliser, most of it mined and processed as potash.",
+      "mechanism": "Buried potash deposits are mined, refined into fertiliser and shipped by rail and sea to farms worldwide.",
+      "bottleneck": "Potassium cannot be synthesised from air like nitrogen fertiliser; it must be mined from rare deposits.",
+      "failureConsequence": "Sanctions, strikes or rail outages at major producers tighten fertiliser supply.",
+      "resilience": "Farmers can draw down soil potassium for a season, at a yield cost later.",
+      "expectedConsequence": "fertiliser prices rise before yields fall",
+      "number": "71.9 million tonnes",
+      "thumbnailText": "POTASH POWER",
+      "visualScenes": [
+        "underground potash mine",
+        "Saskatchewan deposit map",
+        "fertiliser granules close-up",
+        "rail cars of potash",
+        "global production share chart",
+        "crop field comparison with and without potassium"
+      ],
+      "editorialTitles": [
+        "The Mineral Behind the World's Harvests",
+        "Why Potash Can't Be Made, Only Mined"
+      ],
+      "facts": [
+        {
+          "claim": "In 2021, the worldwide production of potash exceeded 71.9 million tonnes (~45.4 million tonnes K2O equivalent), and Canada is the largest producer of potash as fertilizer.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Potash",
+          "url": "https://en.wikipedia.org/wiki/Potash"
+        },
+        {
+          "claim": "In 1943, potash was discovered in Saskatchewan, Canada, during oil drilling.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Potash",
+          "url": "https://en.wikipedia.org/wiki/Potash"
+        },
+        {
+          "claim": "In 1958, the Potash Company of America became the first potash producer in Canada with the commissioning of an underground potash mine at Patience Lake.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Potash",
+          "url": "https://en.wikipedia.org/wiki/Potash"
+        },
+        {
+          "claim": "By 1811, 70% of the total 19.6 million lbs of potash imports to Britain came from Canada.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Potash",
+          "url": "https://en.wikipedia.org/wiki/Potash"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why farms need 71.9 million tonnes of potash.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Canada is the largest producer of potash fertiliser.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "That was the world's output in 2021.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Saskatchewan's deposits were found in 1943, during oil drilling.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Canada's first mine opened at Patience Lake in 1958.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Potassium can't be pulled from air like nitrogen. It must be mined.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Sanctions or rail strikes can squeeze farm supply fast.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a few mines shape the price of food.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-chlor-alkali-plant-is-so-hard-to-replace",
+      "topic": "The Salt-Splitting Plant Behind Clean Water",
+      "coreQuestion": "Why do clean water, PVC and paper all depend on splitting salt with electricity?",
+      "openingLine": "Clean water depends on splitting salt with electricity.",
+      "secondBeat": "The chlor-alkali process makes chlorine and caustic soda.",
+      "dependency": "Water treatment, PVC, paper and many chemicals depend on chlorine and caustic soda from chlor-alkali plants.",
+      "mechanism": "Electrolysis splits brine into chlorine, sodium hydroxide and hydrogen.",
+      "bottleneck": "The process is power-hungry, and chlorine is hazardous to transport, so plants sit near users.",
+      "failureConsequence": "An outage can hit water treatment and plastics production at the same time.",
+      "resilience": "Stored chemicals and supply from other plants cover short outages.",
+      "expectedConsequence": "water utilities and plastics makers compete for the same chemicals",
+      "number": "2,500 kWh/tonne",
+      "thumbnailText": "SPLITTING SALT",
+      "visualScenes": [
+        "membrane electrolysis cell diagram",
+        "brine feed to cells",
+        "chlorine and caustic soda outputs",
+        "water treatment chlorination",
+        "PVC pipe production",
+        "power demand bar per tonne"
+      ],
+      "editorialTitles": [
+        "The Salt-Splitting Plant Behind Clean Water",
+        "Why Chlorine Plants Are So Hard to Replace"
+      ],
+      "facts": [
+        {
+          "claim": "35 million tons of chlorine were prepared by this process in 1987.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Chloralkali process",
+          "url": "https://en.wikipedia.org/wiki/Chloralkali_process"
+        },
+        {
+          "claim": "In 2022, this had increased to about 97 million tonnes.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Chloralkali process",
+          "url": "https://en.wikipedia.org/wiki/Chloralkali_process"
+        },
+        {
+          "claim": "The process has a high energy consumption, for example around 2,500 kWh (9,000 MJ) of electricity per tonne of sodium hydroxide produced.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Chloralkali process",
+          "url": "https://en.wikipedia.org/wiki/Chloralkali_process"
+        },
+        {
+          "claim": "The caustic soda must usually be concentrated to 50% and the salt removed.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Chloralkali process",
+          "url": "https://en.wikipedia.org/wiki/Chloralkali_process"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Clean water depends on splitting salt with electricity.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The chlor-alkali process makes chlorine and caustic soda.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Chlorine output reached about 97 million tonnes in 2022.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "In 1987, it was 35 million tons.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Each tonne of caustic soda uses around 2,500 kilowatt-hours.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Chlorine is hard to ship, so plants sit near their customers.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "A plant outage can hit water treatment and plastics at once.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why one electrolysis step sits under so many industries.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-neodymium-magnet-factory",
+      "topic": "Why China Makes 76% of Rare-Earth Magnets",
+      "coreQuestion": "Why does one country make three-quarters of the world's strongest magnets?",
+      "openingLine": "Why 76% of rare-earth magnets come from China.",
+      "secondBeat": "Neodymium magnets are the strongest permanent magnets sold.",
+      "dependency": "Electric motors, generators and electronics depend on neodymium-iron-boron magnets.",
+      "mechanism": "Rare-earth oxides are refined, alloyed with iron and boron, then sintered and magnetised.",
+      "bottleneck": "Refining and magnet making are concentrated in China, with small output elsewhere.",
+      "failureConsequence": "Export restrictions would stall motor and electronics production outside China.",
+      "resilience": "New magnet plants in Japan, Vietnam and elsewhere add capacity slowly.",
+      "expectedConsequence": "motor makers face longer lead times and higher prices",
+      "number": "76%",
+      "thumbnailText": "76% FROM CHINA",
+      "visualScenes": [
+        "neodymium magnet lifting steel",
+        "rare-earth refining line",
+        "sintered magnet blocks",
+        "global production share chart",
+        "electric motor rotor with magnets",
+        "coercivity versus temperature chart"
+      ],
+      "editorialTitles": [
+        "The Magnet Supply Chain China Controls",
+        "Why Rare-Earth Magnets Are a Chokepoint"
+      ],
+      "facts": [
+        {
+          "claim": "Developed independently in 1984 by General Motors and Sumitomo Special Metals, neodymium magnets are the strongest type of permanent magnet available commercially.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Neodymium magnet",
+          "url": "https://en.wikipedia.org/wiki/Neodymium_magnet"
+        },
+        {
+          "claim": "This magnetic energy value is about 18 times greater than ordinary ferrite magnets by volume and 12 times by mass.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Neodymium magnet",
+          "url": "https://en.wikipedia.org/wiki/Neodymium_magnet"
+        },
+        {
+          "claim": "As the temperature rises above 100 °C (212 °F), the coercivity decreases drastically until the Curie temperature (around 320 °C or 608 °F).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Neodymium magnet",
+          "url": "https://en.wikipedia.org/wiki/Neodymium_magnet"
+        },
+        {
+          "claim": "China produces more than 95% of rare earth elements and produces about 76% of the world's total rare-earth magnets.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Neodymium magnet",
+          "url": "https://en.wikipedia.org/wiki/Neodymium_magnet"
+        },
+        {
+          "claim": "Japan is the second-largest producer with about 7% of the global market.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Neodymium magnet",
+          "url": "https://en.wikipedia.org/wiki/Neodymium_magnet"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 76% of rare-earth magnets come from China.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Neodymium magnets are the strongest permanent magnets sold.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "By volume, they store about 18 times a ferrite magnet's energy.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Above 100 °C, their resistance to demagnetising drops drastically.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "China also produces more than 95% of rare earth elements.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Japan, the next producer, holds about 7%.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Export limits on magnets would stall motor factories worldwide.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why a small magnet is a big strategic chokepoint.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-system-behind-leap-second-coordination-process",
+      "topic": "The 27 Extra Seconds Added to World Time",
+      "coreQuestion": "Why has the world's official time had to add 27 extra seconds?",
+      "openingLine": "Why clocks worldwide have added 27 hidden seconds.",
+      "secondBeat": "Since 1972, leap seconds have kept UTC near Earth's rotation.",
+      "dependency": "Networks, satellites, markets and power grids depend on a shared UTC timescale.",
+      "mechanism": "When Earth's rotation drifts from atomic time, a leap second is inserted into UTC.",
+      "bottleneck": "Every system must apply the same extra second at the same instant.",
+      "failureConsequence": "Systems that handle the leap second differently can disagree on the time.",
+      "resilience": "Some operators smear the extra second over hours to avoid a jump.",
+      "expectedConsequence": "mismatched clocks cause errors in time-sensitive systems",
+      "number": "27 seconds",
+      "thumbnailText": "+27 SECONDS",
+      "visualScenes": [
+        "atomic clock versus Earth rotation diagram",
+        "UTC clock showing 23:59:60",
+        "timeline of leap seconds since 1972",
+        "UTC and TAI offset chart",
+        "Earth spin variation graph",
+        "network servers synchronising"
+      ],
+      "editorialTitles": [
+        "The Extra Seconds Hidden in World Time",
+        "Why Earth's Spin Forces Clocks to Pause"
+      ],
+      "facts": [
+        {
+          "claim": "The leap second was introduced in 1972 (at that time UTC already lagged behind TAI by 10 seconds).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Leap second",
+          "url": "https://en.wikipedia.org/wiki/Leap_second"
+        },
+        {
+          "claim": "Since then, 27 leap seconds have been added to UTC, with the most recent occurring on 31 December 2016; thus the difference between UTC and TAI is now 37 seconds.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Leap second",
+          "url": "https://en.wikipedia.org/wiki/Leap_second"
+        },
+        {
+          "claim": "Glacial rebound shortens the solar day by 0.6 ms/century and the 2004 Indian Ocean earthquake is thought to have shortened it by 2.68 microseconds.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Leap second",
+          "url": "https://en.wikipedia.org/wiki/Leap_second"
+        },
+        {
+          "claim": "Earth was spinning faster in 2020 and experienced the 28 shortest days since 1960, each of which lasted less than 86399.999 seconds.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Leap second",
+          "url": "https://en.wikipedia.org/wiki/Leap_second"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why clocks worldwide have added 27 hidden seconds.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Since 1972, leap seconds have kept UTC near Earth's rotation.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The most recent was added on 31 December 2016.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "UTC now runs 37 seconds behind atomic time, TAI.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Earth's spin varies. Glacial rebound shortens the day 0.6 milliseconds per century.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "In 2020, Earth logged its 28 shortest days since 1960.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Every clock network must insert each extra second in sync.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why one second of drift is a global coordination job.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    }
+  ]
+}

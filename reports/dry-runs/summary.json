@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-10-03T13:35:21.269Z",
+  "sandbox": "GROWTH_STATE_ROOT (temporary)",
+  "results": [
+    {
+      "channel": "failure-reconstructed",
+      "short": {
+        "topic": "i-95-philadelphia-collapse-2023",
+        "qualified": true,
+        "score": 89,
+        "decision": "PUBLISH",
+        "hook": "The I-95 collapse collapsed after a tanker fire underneath."
+      },
+      "long": {
+        "topic": "challenger-1986",
+        "potential": 83,
+        "score": 83,
+        "decision": "BLOCK",
+        "hardFails": [
+          "INSUFFICIENT_DEPTH: evidence supports ~2.2 min; target 8–12 min — not padded"
+        ],
+        "minutes": 2.2,
+        "deepClaims": 160
+      }
+    },
+    {
+      "channel": "impossible-brief",
+      "short": {
+        "topic": "what-if-we-tried-to-drill-through-the-earth",
+        "qualified": true,
+        "score": 90,
+        "decision": "PUBLISH",
+        "hook": "Humanity's deepest hole stopped at 12,262 metres."
+      },
+      "long": {
+        "topic": "what-if-we-mined-a-metal-asteroid",
+        "potential": 79,
+        "score": 87,
+        "decision": "BLOCK",
+        "hardFails": [
+          "INSUFFICIENT_DEPTH: evidence supports ~1.9 min; target 8–12 min — not padded"
+        ],
+        "minutes": 1.9,
+        "deepClaims": 160
+      }
+    },
+    {
+      "channel": "critical-thread",
+      "short": {
+        "topic": "what-quietly-depends-on-uninterruptible-power-supply",
+        "qualified": true,
+        "score": 87,
+        "decision": "PUBLISH",
+        "hook": "Why servers get only 5 to 15 minutes."
+      },
+      "long": {
+        "topic": "the-critical-role-of-urban-traffic-control-network",
+        "potential": 77,
+        "score": 83,
+        "decision": "BLOCK",
+        "hardFails": [
+          "INSUFFICIENT_DEPTH: evidence supports ~1 min; target 8–12 min — not padded"
+        ],
+        "minutes": 1,
+        "deepClaims": 2
+      }
+    },
+    {
+      "channel": "behind-the-ordinary",
+      "short": {
+        "topic": "why-jeans-have-a-tiny-pocket",
+        "qualified": false,
+        "score": 85,
+        "decision": "PUBLISH",
+        "hook": "That tiny jeans pocket was not designed for loose change."
+      },
+      "long": {
+        "topic": "why-jeans-have-a-tiny-pocket",
+        "potential": 71,
+        "score": 87,
+        "decision": "BLOCK",
+        "hardFails": [
+          "INSUFFICIENT_DEPTH: evidence supports ~2.7 min; target 8–15 min — not padded"
+        ],
+        "minutes": 2.7,
+        "deepClaims": 160
+      }
+    }
+  ]
+}

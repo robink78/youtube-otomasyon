@@ -1,0 +1,63 @@
+{
+  "slug": "how-avalanches-start",
+  "olusturuldu": "2026-10-02T19:23:04.157Z",
+  "originality": 89,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.06,
+      "kim": "vesuvius-1944"
+    },
+    "hook": {
+      "deger": 0.07,
+      "kim": "general-slocum-1904"
+    },
+    "structure": {
+      "deger": 0.75,
+      "kim": "tacoma-narrows"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.5,
+      "kim": "tacoma-narrows"
+    },
+    "cta": {
+      "deger": 0,
+      "kim": null
+    },
+    "description": {
+      "deger": 0,
+      "kim": null
+    },
+    "music": {
+      "deger": 0.82,
+      "kim": "general-slocum-1904"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.06,
+    "HOOK_SIMILARITY": 0.07,
+    "STRUCTURE_SIMILARITY": 0.75,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.5,
+    "CTA_SIMILARITY": 0,
+    "DESCRIPTION_SIMILARITY": 0,
+    "MUSIC_SIMILARITY": 0.82
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

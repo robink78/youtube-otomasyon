@@ -1,0 +1,1478 @@
+{
+  "schema": "growth-longform-package/1",
+  "channel": "critical-thread",
+  "channelName": "CriticalThread",
+  "contentType": "long",
+  "createdAt": "2026-09-30T15:48:35.713Z",
+  "topic": {
+    "id": "CT-402",
+    "slug": "the-hidden-system-behind-bosporus-vessel-transit-system",
+    "title": "The 700-Metre Strait Running Through Istanbul",
+    "subject": "Bosporus vessel transit system",
+    "cluster": "GLOBAL CHOKEPOINTS"
+  },
+  "LongFormPotential": {
+    "channel": "critical-thread",
+    "topicId": "CT-402",
+    "slug": "the-hidden-system-behind-bosporus-vessel-transit-system",
+    "title": "The 700-Metre Strait Running Through Istanbul",
+    "cluster": "GLOBAL CHOKEPOINTS",
+    "LongFormPotentialScore": 76,
+    "bucket": "B",
+    "reasons": [
+      "LongFormPotential 76 ≥ 66"
+    ],
+    "factors": {
+      "DepthPotential": {
+        "value": 86,
+        "basis": "derived+inventory-signal"
+      },
+      "NarrativeDepth": {
+        "value": 41,
+        "basis": "derived"
+      },
+      "SourceDepth": {
+        "value": 73,
+        "basis": "derived",
+        "note": "2 sources, 2 primary"
+      },
+      "VisualDepth": {
+        "value": 94,
+        "basis": "inventory-signal"
+      },
+      "EngineeringOrScientificDepth": {
+        "value": 88,
+        "basis": "derived"
+      },
+      "SearchDemand": {
+        "value": 86,
+        "basis": "inventory-signal",
+        "note": "seed estimate unless measured"
+      },
+      "EvergreenPotential": {
+        "value": 94,
+        "basis": "inventory-signal"
+      },
+      "AudienceFit": {
+        "value": 90,
+        "basis": "inventory-signal"
+      },
+      "ShortsEvidence": {
+        "value": 50,
+        "basis": "derived",
+        "note": "no published Short in this cluster yet — neutral"
+      },
+      "SeriesPotential": {
+        "value": 80,
+        "basis": "derived"
+      },
+      "ViewerJourneyPotential": {
+        "value": 55,
+        "basis": "derived"
+      }
+    },
+    "weights": {
+      "DepthPotential": 1.2,
+      "NarrativeDepth": 1.1,
+      "SourceDepth": 1.2,
+      "VisualDepth": 1,
+      "EngineeringOrScientificDepth": 1.2,
+      "SearchDemand": 0.9,
+      "EvergreenPotential": 0.9,
+      "AudienceFit": 0.8,
+      "ShortsEvidence": 1,
+      "SeriesPotential": 1,
+      "ViewerJourneyPotential": 1
+    },
+    "specificEvidence": 9
+  },
+  "researchPackage": {
+    "id": "critical-thread:the-hidden-system-behind-bosporus-vessel-transit-system",
+    "sources": [
+      {
+        "name": "International Maritime Organization",
+        "url": "https://www.imo.org/",
+        "tier": "GOVERNMENT_AGENCY",
+        "score": 95
+      },
+      {
+        "name": "UNCTAD transport and trade logistics",
+        "url": "https://unctad.org/topic/transport-and-trade-logistics",
+        "tier": "GOVERNMENT_AGENCY",
+        "score": 95
+      },
+      {
+        "name": "Wikipedia — Bosporus vessel transit system",
+        "url": "https://en.wikipedia.org/wiki/Bosporus_vessel_transit_system",
+        "tier": "ENCYCLOPEDIA",
+        "score": 55
+      }
+    ],
+    "claims": 20,
+    "deepResearch": {
+      "article": "Bosporus vessel transit system",
+      "claims": 0,
+      "status": "ARTICLE_NOT_FOUND"
+    },
+    "gaps": [
+      "2 source(s); long-form needs ≥ 3",
+      "no deep research — long-form depth limited to the Shorts case file"
+    ],
+    "reuseCount": 0
+  },
+  "outline": {
+    "structure": [
+      "COLD_OPEN",
+      "INVISIBLE_SYSTEM",
+      "WHERE_IT_EXISTS",
+      "HOW_IT_WORKS",
+      "WHAT_DEPENDS_ON_IT",
+      "BOTTLENECK",
+      "WHY_THE_BOTTLENECK_EXISTS",
+      "FAILURE_SCENARIO",
+      "CASCADING_CONSEQUENCES",
+      "REDUNDANCY_ALTERNATIVES",
+      "FINAL_SYSTEM_INSIGHT"
+    ],
+    "sections": [
+      {
+        "order": 1,
+        "section": "COLD_OPEN",
+        "question": "What is the unresolved consequence the viewer sees first?",
+        "claimIds": [
+          "C1",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 2,
+        "section": "INVISIBLE_SYSTEM",
+        "question": "What is it?",
+        "claimIds": [
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 3,
+        "section": "WHERE_IT_EXISTS",
+        "question": "Where is it?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 4,
+        "section": "HOW_IT_WORKS",
+        "question": "How does it work?",
+        "claimIds": [
+          "C2"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 5,
+        "section": "WHAT_DEPENDS_ON_IT",
+        "question": "What depends on it?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 6,
+        "section": "BOTTLENECK",
+        "question": "Where is the chokepoint?",
+        "claimIds": [
+          "C19"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 7,
+        "section": "WHY_THE_BOTTLENECK_EXISTS",
+        "question": "Why can't it be replaced quickly?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 8,
+        "section": "FAILURE_SCENARIO",
+        "question": "What if it fails?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 9,
+        "section": "CASCADING_CONSEQUENCES",
+        "question": "What fails next?",
+        "claimIds": [
+          "C1"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 10,
+        "section": "REDUNDANCY_ALTERNATIVES",
+        "question": "What protects the system?",
+        "claimIds": [
+          "C20"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 11,
+        "section": "FINAL_SYSTEM_INSIGHT",
+        "question": "What does this reveal about the modern world?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      }
+    ],
+    "missingSections": [
+      "WHERE_IT_EXISTS",
+      "WHAT_DEPENDS_ON_IT",
+      "WHY_THE_BOTTLENECK_EXISTS",
+      "FAILURE_SCENARIO",
+      "FINAL_SYSTEM_INSIGHT"
+    ],
+    "coverage": 55
+  },
+  "coldOpens": {
+    "candidates": [
+      {
+        "type": "impossible_sounding_fact",
+        "text": "Ships over 150 metres long must pre-book their passage.",
+        "score": 70,
+        "estimatedSeconds": 2.8
+      },
+      {
+        "type": "visual_first_reveal",
+        "text": "Why Black Sea trade narrows to 700 metres.",
+        "score": 69,
+        "estimatedSeconds": 2.5
+      },
+      {
+        "type": "scarcity_bottleneck",
+        "text": "Replacing Bosporus vessel transit system is not a simple purchase.",
+        "score": 68,
+        "estimatedSeconds": 3.1
+      },
+      {
+        "type": "question_gap",
+        "text": "What stops if Bosporus vessel transit system stops?",
+        "score": 68,
+        "estimatedSeconds": 2.5
+      },
+      {
+        "type": "unexpected_chain_reaction",
+        "text": "That's the Bosporus at its tightest, inside Istanbul.",
+        "score": 67,
+        "estimatedSeconds": 2.5
+      },
+      {
+        "type": "hidden_cause",
+        "text": "Black Sea exports of grain, oil and metals depend on transit through the Bosporus quietly relies on Bosporus vessel transit system.",
+        "score": 65,
+        "estimatedSeconds": 6.6
+      },
+      {
+        "type": "shocking_consequence",
+        "text": "A grounding or collision can halt transits and queue ships at both ends.",
+        "score": 58,
+        "estimatedSeconds": 4.1
+      }
+    ],
+    "selected": {
+      "type": "impossible_sounding_fact",
+      "text": "Ships over 150 metres long must pre-book their passage.",
+      "score": 70,
+      "estimatedSeconds": 2.8
+    }
+  },
+  "script": {
+    "generator": "deterministic-evidence",
+    "llmError": null,
+    "depthNote": null,
+    "sections": [
+      {
+        "section": "COLD_OPEN",
+        "paragraphs": [
+          {
+            "text": "Ships over 150 metres long must pre-book their passage.",
+            "claims": [],
+            "role": "cold-open"
+          }
+        ]
+      },
+      {
+        "section": "INVISIBLE_SYSTEM",
+        "paragraphs": [
+          {
+            "text": "Most people never see it. The strait is 31 km (17 nmi) long, with a width of 3,329 m at the northern entrance and 2,826 m at the southern entrance. Its maximum width is 3,420 m between Umuryeri and Büyükdere Limanı, and minimum width is 700 m between Kandilli Point and Aşiyan. The depth of the Bosporus varies from 13 to 110 m (43 to 361 ft) in midstream with an average of 65 m (213 ft). Ships over 150 metres long or 10 metres deep must pre-book their passage. In 2022 the dues levied by Turkey for freight ships increased 500% to US$4 per ton, the first change since 1983. The city of Istanbul's metropolitan population of 17 million inhabitants extends inland from both banks. Black Sea exports of grain, oil and metals depend on transit through the Bosporus.",
+            "claims": [
+              "C12",
+              "C13",
+              "C14",
+              "C15",
+              "C16",
+              "C17",
+              "C18"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "WHERE_IT_EXISTS",
+        "paragraphs": []
+      },
+      {
+        "section": "HOW_IT_WORKS",
+        "paragraphs": [
+          {
+            "text": "Here is how it works. Ships follow a winding 31 km channel through Istanbul, with long vessels pre-booking passage.",
+            "claims": [
+              "C2"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "WHAT_DEPENDS_ON_IT",
+        "paragraphs": []
+      },
+      {
+        "section": "BOTTLENECK",
+        "paragraphs": [
+          {
+            "text": "That is the bottleneck. At its narrowest the strait is only 700 m wide, with sharp turns and heavy local ferry traffic.",
+            "claims": [
+              "C19"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "WHY_THE_BOTTLENECK_EXISTS",
+        "paragraphs": []
+      },
+      {
+        "section": "FAILURE_SCENARIO",
+        "paragraphs": []
+      },
+      {
+        "section": "CASCADING_CONSEQUENCES",
+        "paragraphs": [
+          {
+            "text": "The failure would not stay contained. A grounding or collision can halt transits and queue ships at both ends.",
+            "claims": [
+              "C1"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "REDUNDANCY_ALTERNATIVES",
+        "paragraphs": [
+          {
+            "text": "So what protects the system? Pipelines and rail carry part of the cargo, but most bulk trade has no other sea exit.",
+            "claims": [
+              "C20"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "FINAL_SYSTEM_INSIGHT",
+        "paragraphs": []
+      }
+    ],
+    "words": 231,
+    "estimatedMinutes": 1.5,
+    "paragraphs": 6,
+    "secondsPerNewBeat": 15
+  },
+  "claimSourceMap": {
+    "rows": [
+      {
+        "section": "COLD_OPEN",
+        "excerpt": "Ships over 150 metres long must pre-book their passage.",
+        "claims": []
+      },
+      {
+        "section": "INVISIBLE_SYSTEM",
+        "excerpt": "Most people never see it. The strait is 31 km (17 nmi) long, with a width of 3,329 m at th",
+        "claims": [
+          {
+            "id": "C12",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Bosporus"
+          },
+          {
+            "id": "C13",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Bosporus"
+          },
+          {
+            "id": "C14",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Bosporus"
+          },
+          {
+            "id": "C15",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Bosporus"
+          },
+          {
+            "id": "C16",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Bosporus"
+          },
+          {
+            "id": "C17",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Bosporus"
+          },
+          {
+            "id": "C18",
+            "class": "CONFIRMED_FACT",
+            "source": "International Maritime Organization"
+          }
+        ]
+      },
+      {
+        "section": "HOW_IT_WORKS",
+        "excerpt": "Here is how it works. Ships follow a winding 31 km channel through Istanbul, with long ves",
+        "claims": [
+          {
+            "id": "C2",
+            "class": "CONFIRMED_FACT",
+            "source": "International Maritime Organization"
+          }
+        ]
+      },
+      {
+        "section": "BOTTLENECK",
+        "excerpt": "That is the bottleneck. At its narrowest the strait is only 700 m wide, with sharp turns a",
+        "claims": [
+          {
+            "id": "C19",
+            "class": "MODEL",
+            "source": "International Maritime Organization"
+          }
+        ]
+      },
+      {
+        "section": "CASCADING_CONSEQUENCES",
+        "excerpt": "The failure would not stay contained. A grounding or collision can halt transits and queue",
+        "claims": [
+          {
+            "id": "C1",
+            "class": "CONFIRMED_FACT",
+            "source": "International Maritime Organization"
+          }
+        ]
+      },
+      {
+        "section": "REDUNDANCY_ALTERNATIVES",
+        "excerpt": "So what protects the system? Pipelines and rail carry part of the cargo, but most bulk tra",
+        "claims": [
+          {
+            "id": "C20",
+            "class": "CONFIRMED_FACT",
+            "source": "International Maritime Organization"
+          }
+        ]
+      }
+    ],
+    "unsupportedParagraphs": 0,
+    "unsupportedNumbers": [],
+    "copyRisks": []
+  },
+  "scenePlan": [
+    {
+      "scene": 1,
+      "narrationSpan": [
+        0,
+        4
+      ],
+      "section": "COLD_OPEN",
+      "visualPurpose": "show evidence",
+      "visualType": "REAL_INFRASTRUCTURE",
+      "subject": "satellite map of the Bosporus through Istanbul",
+      "asset": "satellite map of the Bosporus through Istanbul",
+      "sourceRequirement": "government/manufacturer media or licensed industrial footage",
+      "durationEstimateSeconds": 3.6,
+      "motion": "slow push-in to detail",
+      "claimSupported": null,
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 2,
+      "narrationSpan": [
+        4,
+        22
+      ],
+      "section": "INVISIBLE_SYSTEM",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "The strait is 31 km (17 nmi) long, with a width of 3,329 m",
+      "asset": "diagram:INVISIBLE_SYSTEM:C12",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 18.7,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C12",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 3,
+      "narrationSpan": [
+        22,
+        41
+      ],
+      "section": "INVISIBLE_SYSTEM",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "Its maximum width is 3,420 m between Umuryeri and Büyükdere Limanı, and minimum width",
+      "asset": "diagram:INVISIBLE_SYSTEM:C13",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 18.7,
+      "motion": "lateral reframe / crop to evidence",
+      "claimSupported": "C13",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 4,
+      "narrationSpan": [
+        41,
+        60
+      ],
+      "section": "INVISIBLE_SYSTEM",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "The depth of the Bosporus varies from 13 to 110 m (43 to 361",
+      "asset": "diagram:INVISIBLE_SYSTEM:C14",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 18.7,
+      "motion": "hold, animated highlight on the claimed element",
+      "claimSupported": "C14",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 5,
+      "narrationSpan": [
+        60,
+        67
+      ],
+      "section": "HOW_IT_WORKS",
+      "visualPurpose": "explain mechanism",
+      "visualType": "PROCESS_DIAGRAM",
+      "subject": "Ships follow a winding 31 km channel through Istanbul, with long vessels pre-booking passage.",
+      "asset": "diagram:HOW_IT_WORKS:C2",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 7.6,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C2",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 6,
+      "narrationSpan": [
+        67,
+        76
+      ],
+      "section": "BOTTLENECK",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "At its narrowest the strait is only 700 m wide, with sharp turns and",
+      "asset": "diagram:BOTTLENECK:C19",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 8.8,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C19",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 7,
+      "narrationSpan": [
+        76,
+        84
+      ],
+      "section": "CASCADING_CONSEQUENCES",
+      "visualPurpose": "explain mechanism",
+      "visualType": "MAP",
+      "subject": "A grounding or collision can halt transits and queue ships at both ends.",
+      "asset": "diagram:CASCADING_CONSEQUENCES:C1",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 7.6,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C1",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 8,
+      "narrationSpan": [
+        84,
+        92
+      ],
+      "section": "REDUNDANCY_ALTERNATIVES",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "Pipelines and rail carry part of the cargo, but most bulk trade has no",
+      "asset": "diagram:REDUNDANCY_ALTERNATIVES:C20",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 8.8,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C20",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    }
+  ],
+  "assetPlan": {
+    "byType": {
+      "REAL_INFRASTRUCTURE": 1,
+      "TECHNICAL_ILLUSTRATION": 5,
+      "PROCESS_DIAGRAM": 1,
+      "MAP": 1
+    },
+    "distinctSubjects": 8,
+    "archivalLeads": 6,
+    "articleImageCandidates": 0,
+    "overused": [],
+    "licensing": "record source, licence and URL per asset in GORSEL-KAYNAKLARI.txt (existing ledger)"
+  },
+  "thumbnails": {
+    "concepts": [
+      {
+        "id": "critical-object",
+        "primarySubject": "Bosporus vessel transit system",
+        "background": "faint global network",
+        "visualHierarchy": "Bosporus vessel transit system isolated against a dark technical field",
+        "emotion": "quiet tension / dependency",
+        "text": "700 METRES",
+        "textLength": 10,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 87
+      },
+      {
+        "id": "system-map",
+        "primarySubject": "Bosporus vessel transit system",
+        "background": "downstream nodes dimmed",
+        "visualHierarchy": "Bosporus vessel transit system centered inside a minimal dependency map",
+        "emotion": "quiet tension / dependency",
+        "text": "700 METRES",
+        "textLength": 10,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 87
+      },
+      {
+        "id": "scale",
+        "primarySubject": "Bosporus vessel transit system",
+        "background": "small Earth silhouette",
+        "visualHierarchy": "extreme close view of Bosporus vessel transit system",
+        "emotion": "quiet tension / dependency",
+        "text": "700 METRES",
+        "textLength": 10,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 87
+      },
+      {
+        "id": "failure",
+        "primarySubject": "Bosporus vessel transit system",
+        "background": "restrained dark infrastructure",
+        "visualHierarchy": "Bosporus vessel transit system with one precise break or warning marker",
+        "emotion": "quiet tension / dependency",
+        "text": "700 METRES",
+        "textLength": 10,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 87
+      },
+      {
+        "id": "replacement",
+        "primarySubject": "Bosporus vessel transit system",
+        "background": "lead-time clock",
+        "visualHierarchy": "Bosporus vessel transit system beside an empty replacement outline",
+        "emotion": "quiet tension / dependency",
+        "text": "700 METRES",
+        "textLength": 10,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 87
+      }
+    ],
+    "selected": {
+      "id": "critical-object",
+      "primarySubject": "Bosporus vessel transit system",
+      "background": "faint global network",
+      "visualHierarchy": "Bosporus vessel transit system isolated against a dark technical field",
+      "emotion": "quiet tension / dependency",
+      "text": "700 METRES",
+      "textLength": 10,
+      "textWords": 2,
+      "contrast": "light subject on dark field; single accent colour",
+      "truthfulness": "evidence-consistent",
+      "mobileReadability": 100,
+      "scores": {
+        "Clarity": 95,
+        "Curiosity": 65,
+        "VisualImpact": 75,
+        "TopicRecognition": 90,
+        "MobileReadability": 100,
+        "Truthfulness": 100,
+        "ChannelFit": 86
+      },
+      "total": 87
+    },
+    "meetsMinimum": true
+  },
+  "titles": {
+    "selected": {
+      "title": "What Happens If Bosporus Vessel Transit System Fails?",
+      "source": "what-if-fails",
+      "pattern": "question",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 84,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 95,
+        "channelIdentity": 62,
+        "ctrPotential": 87,
+        "novelty": 100,
+        "evergreenPotential": 85
+      },
+      "total": 88,
+      "adjustedTotal": 88,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 88,
+    "count": 23,
+    "candidates": [
+      {
+        "title": "What Happens If Bosporus Vessel Transit System Fails?",
+        "source": "what-if-fails",
+        "pattern": "question",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 84,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 87,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 88,
+        "adjustedTotal": 88,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden System Behind Bosporus Vessel Transit System",
+        "source": "hidden-system",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 79,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How the World Depends on Bosporus Vessel Transit System",
+        "source": "world-depends",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 87,
+          "channelIdentity": 74,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Bosporus Vessel Transit System Is so Hard to Replace",
+        "source": "hard-to-replace",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 83,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "How Bosporus Vessel Transit System Became Critical Infrastructure",
+        "source": "became-critical",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 82,
+        "adjustedTotal": 82,
+        "unsupportedWords": [
+          "became"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why Bosporus Vessel Transit System Matters More Than You Think",
+        "source": "matters-more",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 82,
+        "adjustedTotal": 82,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Inside Bosporus Vessel Transit System: The Complete System Map",
+        "source": "system-map",
+        "pattern": "inside",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 81,
+        "adjustedTotal": 81,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Bosporus Vessel Transit System: Where It Is, How It Works, What Depends on It",
+        "source": "where-how-what",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 75,
+          "curiosity": 76,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 77,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [
+          "where"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Who Makes Bosporus Vessel Transit System — And Why so Few Can",
+        "source": "who-makes",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 95,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 80,
+        "adjustedTotal": 80,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Mapping the Bosporus Vessel Transit System Dependency Chain",
+        "source": "mapping",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 63,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 79,
+        "adjustedTotal": 79,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Cascading Failure Hidden in Bosporus Vessel Transit System",
+        "source": "cascade",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 75,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 78,
+        "adjustedTotal": 78,
+        "unsupportedWords": [
+          "cascading"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Bosporus Vessel Transit System — A Critical Systems Documentary",
+        "source": "documentary",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 78,
+        "adjustedTotal": 78,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Backup Plan for Bosporus Vessel Transit System",
+        "source": "backup-plan",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 76,
+        "adjustedTotal": 76,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Bosporus Vessel Transit System: The Bottleneck Holding up Modern Life",
+        "source": "bottleneck",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 75,
+        "adjustedTotal": 75,
+        "unsupportedWords": [
+          "holding"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Bosporus Vessel Transit System Explained: Dependency, Bottleneck, Resilience",
+        "source": "explained-dbr",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 91,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 53,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 75,
+        "adjustedTotal": 75,
+        "unsupportedWords": [
+          "resilience"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "If Bosporus Vessel Transit System Stopped Tomorrow",
+        "source": "stopped-tomorrow",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 63,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 75,
+        "adjustedTotal": 75,
+        "unsupportedWords": [
+          "tomorrow"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Single Point of Failure: Bosporus Vessel Transit System",
+        "source": "single-point",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 63,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 74,
+        "adjustedTotal": 74,
+        "unsupportedWords": [
+          "single"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Invisible Infrastructure of Bosporus Vessel Transit System",
+        "source": "invisible",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 74,
+        "adjustedTotal": 74,
+        "unsupportedWords": [
+          "invisible"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Global Chain Built on Bosporus Vessel Transit System",
+        "source": "global-chain",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 73,
+        "adjustedTotal": 73,
+        "unsupportedWords": [
+          "built"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why the Bosporus Is a Global Chokepoint",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 99,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 50,
+          "channelIdentity": 72,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 71,
+        "adjustedTotal": 71,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The 700-Metre Strait Running Through Istanbul",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 62,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 60,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 67,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The City Strait That Controls a Sea",
+        "source": "editorial",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 93,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 60,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75
+        },
+        "total": 63,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Bosporus Vessel Transit System: Redundancy, Risk and Recovery",
+        "source": "redundancy",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 55,
+          "searchIntent": 83,
+          "channelIdentity": 62,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85
+        },
+        "total": 69,
+        "adjustedTotal": 69,
+        "unsupportedWords": [
+          "redundancy",
+          "risk",
+          "recovery"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "derivedShorts": {
+    "shorts": [
+      {
+        "angle": "invisible-system",
+        "hook": "The strait is 31 km (17 nmi) long.",
+        "hookFamily": "impossible_sounding_fact",
+        "hookScore": 68,
+        "first3SecondPlan": {
+          "narration": "The strait is 31 km (17 nmi) long.",
+          "firstFrame": {
+            "description": "Bosporus vessel transit system isolated, dependency lines to what fails without it",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "TECHNICAL_ILLUSTRATION",
+            "communicates": "dependency",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "Bosporus vessel transit system isolated, dependency lines to what fails without it",
+          "onScreenText": "31 KM",
+          "motion": "dependency lines draw outward in 0.6 s, then hard cut",
+          "cutTiming": [
+            0,
+            1.3,
+            2.5
+          ],
+          "soundCue": "single mechanical click on the first cut",
+          "communicates": "dependency"
+        },
+        "miniNarrative": [
+          "The strait is 31 km (17 nmi) long, with a width of 3,329 m at the northern entrance and 2,826 m at the southern entrance.",
+          "Its maximum width is 3,420 m between Umuryeri and Büyükdere Limanı, and minimum width is 700 m between Kandilli Point and Aşiyan.",
+          "The depth of the Bosporus varies from 13 to 110 m (43 to 361 ft) in midstream with an average of 65 m (213 ft).",
+          "Ships over 150 metres long or 10 metres deep must pre-book their passage."
+        ],
+        "payoff": "Black Sea exports of grain, oil and metals depend on transit through the Bosporus.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "This is only one dependency. The full system is mapped in the linked episode.",
+        "claimIds": [
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18"
+        ]
+      }
+    ],
+    "count": 1,
+    "meetsMinimum": false
+  },
+  "relatedShorts": [],
+  "nextVideos": {
+    "primary_next_video": {
+      "slug": "inside-the-system-built-around-strait-of-malacca-navigation-route",
+      "videoId": null,
+      "title": "The 2.8-Kilometre Channel Asia's Oil Must Pass",
+      "reason": "same series; subject overlap 0.00, same cluster GLOBAL CHOKEPOINTS",
+      "score": 0.48
+    },
+    "secondary_next_video": {
+      "slug": "why-suez-canal-traffic-system-is-so-hard-to-replace",
+      "videoId": null,
+      "title": "The 193-Kilometre Shortcut Europe and Asia Can't Replace",
+      "reason": "same series; subject overlap 0.14, same cluster GLOBAL CHOKEPOINTS",
+      "score": 0.44
+    }
+  },
+  "endScreenPlan": {
+    "primary_next_video": {
+      "slug": "inside-the-system-built-around-strait-of-malacca-navigation-route",
+      "videoId": null,
+      "title": "The 2.8-Kilometre Channel Asia's Oil Must Pass",
+      "reason": "same series; subject overlap 0.00, same cluster GLOBAL CHOKEPOINTS",
+      "score": 0.48
+    },
+    "secondary_next_video": {
+      "slug": "why-suez-canal-traffic-system-is-so-hard-to-replace",
+      "videoId": null,
+      "title": "The 193-Kilometre Shortcut Europe and Asia Can't Replace",
+      "reason": "same series; subject overlap 0.14, same cluster GLOBAL CHOKEPOINTS",
+      "score": 0.44
+    },
+    "playlist": "GLOBAL CHOKEPOINTS",
+    "subscribe_element": true,
+    "timing": {
+      "startSeconds": 70,
+      "durationSeconds": 20,
+      "note": "final 20 s; narration must not end abruptly"
+    },
+    "final_narration_transition": "And this is only one thread. The 2.8-Kilometre Channel Asia's Oil Must Pass shows what it connects to.",
+    "apiSupport": "UNSUPPORTED — YouTube Data API v3 has no end-screen write endpoint; configure in Studio (task emitted)."
+  },
+  "cost": {
+    "estimated_production_cost": 0.05,
+    "currency": "USD",
+    "breakdown": {
+      "llmTokens": 0,
+      "ttsMinutes": 1.5,
+      "renderMinutesCpu": 4.5,
+      "assets": 8,
+      "youtubeQuotaUnits": 1650
+    },
+    "note": "approximate; update config/growth-engine.json cost units from invoices"
+  },
+  "readiness": {
+    "LongFormProductionReadinessScore": 82,
+    "decision": "BLOCK",
+    "dimensions": {
+      "TopicDepth": 86,
+      "NarrativeQuality": 64,
+      "Hook": 70,
+      "ResearchQuality": 87,
+      "SourceCoverage": 90,
+      "FactualAccuracy": 100,
+      "ScriptRetention": 48,
+      "VisualCoverage": 90,
+      "AudioQuality": null,
+      "Editing": null,
+      "Thumbnail": 87,
+      "Title": 88,
+      "CopyrightSafety": 90,
+      "Disclosure": 95,
+      "EndScreenPlan": 90,
+      "ShortFunnelPotential": 50
+    },
+    "unmeasured": [
+      "AudioQuality",
+      "Editing"
+    ],
+    "hardFails": [
+      "INSUFFICIENT_DEPTH: evidence supports ~1.5 min; target 8–12 min — not padded"
+    ],
+    "notes": [],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "targetMinutes": [
+    8,
+    12
+  ],
+  "summary": {
+    "Channel": "CriticalThread",
+    "Content Type": "LONG_FORM",
+    "Topic": "The 700-Metre Strait Running Through Istanbul",
+    "LongFormPotentialScore": 76,
+    "Topic Bucket": "B",
+    "Cold Open": "Ships over 150 metres long must pre-book their passage.",
+    "Target Duration": "8–12 min",
+    "Actual Duration": "~1.5 min (script estimate, deterministic-evidence)",
+    "Scenes": 8,
+    "Thumbnail Score": 87,
+    "Title Score": 88,
+    "LongFormProductionReadinessScore": "82 → BLOCK",
+    "Related Shorts": "none published yet",
+    "Primary Next Video": "The 2.8-Kilometre Channel Asia's Oil Must Pass"
+  }
+}

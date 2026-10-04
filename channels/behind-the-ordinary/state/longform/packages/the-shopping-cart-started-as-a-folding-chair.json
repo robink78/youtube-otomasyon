@@ -1,0 +1,2052 @@
+{
+  "schema": "growth-longform-package/1",
+  "channel": "behind-the-ordinary",
+  "channelName": "The Hidden Logic of Things",
+  "contentType": "long",
+  "createdAt": "2026-10-03T19:22:31.354Z",
+  "topic": {
+    "id": "BTO-040",
+    "slug": "the-shopping-cart-started-as-a-folding-chair",
+    "title": "The Shopping Cart Started as a Folding Chair",
+    "subject": "shopping carts",
+    "cluster": "EVERYDAY MYSTERIES"
+  },
+  "LongFormPotential": {
+    "channel": "behind-the-ordinary",
+    "topicId": "BTO-040",
+    "slug": "the-shopping-cart-started-as-a-folding-chair",
+    "title": "The Shopping Cart Started as a Folding Chair",
+    "cluster": "EVERYDAY MYSTERIES",
+    "LongFormPotentialScore": 67,
+    "bucket": "B",
+    "reasons": [
+      "LongFormPotential 67 ≥ 66"
+    ],
+    "factors": {
+      "DepthPotential": {
+        "value": 85,
+        "basis": "derived+inventory-signal"
+      },
+      "NarrativeDepth": {
+        "value": 41,
+        "basis": "derived"
+      },
+      "SourceDepth": {
+        "value": 64,
+        "basis": "derived",
+        "note": "2 sources, 2 primary"
+      },
+      "VisualDepth": {
+        "value": 92,
+        "basis": "inventory-signal"
+      },
+      "EngineeringOrScientificDepth": {
+        "value": 78,
+        "basis": "inventory-signal"
+      },
+      "SearchDemand": {
+        "value": 55,
+        "basis": "derived",
+        "note": "seed estimate unless measured"
+      },
+      "EvergreenPotential": {
+        "value": 88,
+        "basis": "inventory-signal"
+      },
+      "AudienceFit": {
+        "value": 74,
+        "basis": "inventory-signal"
+      },
+      "ShortsEvidence": {
+        "value": 50,
+        "basis": "derived",
+        "note": "no published Short in this cluster yet — neutral"
+      },
+      "SeriesPotential": {
+        "value": 49,
+        "basis": "derived"
+      },
+      "ViewerJourneyPotential": {
+        "value": 45,
+        "basis": "derived"
+      }
+    },
+    "weights": {
+      "DepthPotential": 1.2,
+      "NarrativeDepth": 1.1,
+      "SourceDepth": 1.2,
+      "VisualDepth": 1,
+      "EngineeringOrScientificDepth": 1.2,
+      "SearchDemand": 1,
+      "EvergreenPotential": 1.2,
+      "AudienceFit": 0.8,
+      "ShortsEvidence": 1.2,
+      "SeriesPotential": 0.7,
+      "ViewerJourneyPotential": 0.8
+    },
+    "specificEvidence": 12
+  },
+  "researchPackage": {
+    "id": "behind-the-ordinary:the-shopping-cart-started-as-a-folding-chair",
+    "sources": [
+      {
+        "name": "Oklahoma Historical Society — Goldman, Sylvan Nathan",
+        "url": "https://www.okhistory.org/publications/enc/entry?entry=GO004",
+        "tier": "MUSEUM_ARCHIVE",
+        "score": 80
+      },
+      {
+        "name": "Gateway to Oklahoma History — Shopping Cart at Humpty Dumpty (photograph)",
+        "url": "https://gateway.okhistory.org/ark:/67531/metadc1119921/",
+        "tier": "MUSEUM_ARCHIVE",
+        "score": 80
+      },
+      {
+        "name": "Wikipedia — Shopping cart",
+        "url": "https://en.wikipedia.org/wiki/Shopping_cart",
+        "tier": "ENCYCLOPEDIA",
+        "score": 55
+      }
+    ],
+    "claims": 146,
+    "deepResearch": {
+      "article": "Shopping cart",
+      "via": "subject title (exact/redirect match, no fuzzy search)",
+      "claims": 126,
+      "status": "OK",
+      "licence": "CC BY-SA 4.0 — facts only; never narrate verbatim"
+    },
+    "gaps": [
+      "2 source(s); long-form needs ≥ 3"
+    ],
+    "reuseCount": 0
+  },
+  "outline": {
+    "structure": [
+      "COLD_OPEN",
+      "THE_QUESTION",
+      "ORIGIN_CONTEXT",
+      "THE_PROBLEM",
+      "THE_EXPLANATION",
+      "SURPRISING_DETAIL",
+      "REAL_WORLD_CONSEQUENCE",
+      "FINAL_PAYOFF",
+      "NEXT_CURIOSITY_BRIDGE"
+    ],
+    "sections": [
+      {
+        "order": 1,
+        "section": "COLD_OPEN",
+        "question": "What is the unresolved consequence the viewer sees first?",
+        "claimIds": [
+          "C1",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11",
+          "C19"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 2,
+        "section": "THE_QUESTION",
+        "question": "What familiar detail are we actually explaining?",
+        "claimIds": [
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 3,
+        "section": "ORIGIN_CONTEXT",
+        "question": "Where did this design come from?",
+        "claimIds": [
+          "C12",
+          "C14",
+          "C15",
+          "C18",
+          "C20"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 4,
+        "section": "THE_PROBLEM",
+        "question": "What practical problem shaped it?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 5,
+        "section": "THE_EXPLANATION",
+        "question": "What does the documented evidence show?",
+        "claimIds": [
+          "C2",
+          "C13",
+          "C17",
+          "C82",
+          "C83",
+          "C84",
+          "C85",
+          "C86",
+          "C87",
+          "C88",
+          "C89",
+          "C90",
+          "C91",
+          "C92",
+          "C93",
+          "C94",
+          "C95",
+          "C96",
+          "C97",
+          "C98",
+          "C99",
+          "C100",
+          "C101",
+          "C102",
+          "C103",
+          "C104",
+          "C108",
+          "C109",
+          "C110",
+          "C111",
+          "C112",
+          "C113",
+          "C114",
+          "C115",
+          "C116",
+          "C117",
+          "C118",
+          "C119",
+          "C120",
+          "C121",
+          "C122",
+          "C123",
+          "C124",
+          "C125",
+          "C126",
+          "C127",
+          "C128",
+          "C129",
+          "C130",
+          "C131",
+          "C132",
+          "C133",
+          "C134",
+          "C135",
+          "C136",
+          "C137",
+          "C138",
+          "C139",
+          "C140",
+          "C141",
+          "C142",
+          "C143",
+          "C144",
+          "C145",
+          "C146"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 6,
+        "section": "SURPRISING_DETAIL",
+        "question": "Which detail changes the obvious explanation?",
+        "claimIds": [
+          "C3",
+          "C16"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 7,
+        "section": "REAL_WORLD_CONSEQUENCE",
+        "question": "How did the design persist or change?",
+        "claimIds": [
+          "C1",
+          "C19"
+        ],
+        "evidence": "available"
+      },
+      {
+        "order": 8,
+        "section": "FINAL_PAYOFF",
+        "question": "What is the precise answer to the opening question?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      },
+      {
+        "order": 9,
+        "section": "NEXT_CURIOSITY_BRIDGE",
+        "question": "Which related ordinary detail follows naturally?",
+        "claimIds": [],
+        "evidence": "MISSING"
+      }
+    ],
+    "missingSections": [
+      "THE_PROBLEM",
+      "FINAL_PAYOFF",
+      "NEXT_CURIOSITY_BRIDGE"
+    ],
+    "coverage": 67
+  },
+  "coldOpens": {
+    "candidates": [
+      {
+        "type": "visual_first_reveal",
+        "text": "The shopping cart started as a folding chair.",
+        "score": 75,
+        "estimatedSeconds": 2.5
+      },
+      {
+        "type": "impossible_sounding_fact",
+        "text": "One of the first shopping carts was introduced on June 4.",
+        "score": 74,
+        "estimatedSeconds": 3.4
+      },
+      {
+        "type": "shocking_consequence",
+        "text": "After demonstrations by hired models, shopping carts became extremely popular.",
+        "score": 73,
+        "estimatedSeconds": 3.1
+      },
+      {
+        "type": "unexpected_chain_reaction",
+        "text": "And shoppers first refused to push it.",
+        "score": 73,
+        "estimatedSeconds": 2.2
+      },
+      {
+        "type": "hidden_cause",
+        "text": "So Goldman hired models to push the carts around his store.",
+        "score": 71,
+        "estimatedSeconds": 3.4
+      },
+      {
+        "type": "question_gap",
+        "text": "What is folding-chair origin for?",
+        "score": 68,
+        "estimatedSeconds": 1.6
+      },
+      {
+        "type": "contradiction",
+        "text": "The cart seems like an obvious idea, but shoppers initially resisted it.",
+        "score": 67,
+        "estimatedSeconds": 3.8
+      }
+    ],
+    "selected": {
+      "type": "visual_first_reveal",
+      "text": "The shopping cart started as a folding chair.",
+      "score": 75,
+      "estimatedSeconds": 2.5
+    }
+  },
+  "script": {
+    "generator": "deterministic-evidence",
+    "provider": "groq",
+    "model": null,
+    "status": "FAILED",
+    "pipeline": null,
+    "blueprint": null,
+    "quality": null,
+    "checkpoint": "generation/the-shopping-cart-started-as-a-folding-chair.json",
+    "llmError": "groq request failed (HTTP 413)",
+    "llmErrorCode": "REQUEST",
+    "llmErrorStage": "narrative-angle",
+    "depthNote": null,
+    "sections": [
+      {
+        "section": "COLD_OPEN",
+        "paragraphs": [
+          {
+            "text": "The shopping cart started as a folding chair.",
+            "claims": [],
+            "role": "cold-open"
+          }
+        ]
+      },
+      {
+        "section": "THE_QUESTION",
+        "paragraphs": [
+          {
+            "text": "Start with the detail itself. The shopping cart started as a folding chair. And shoppers first refused to push it. In 1936, grocer Sylvan Goldman wondered how customers could move more groceries. He put a basket on a folding chair's seat and wheels on its legs. His Humpty Dumpty stores introduced these folding basket carriers in 1937. One offended woman told him she had pushed her last baby. So Goldman hired models to push the carts around his store. After that, the folding chair on wheels became extremely popular.",
+            "claims": [
+              "C4",
+              "C5",
+              "C6",
+              "C7",
+              "C8",
+              "C9",
+              "C10",
+              "C11"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "ORIGIN_CONTEXT",
+        "paragraphs": [
+          {
+            "text": "Its history begins with a practical problem. In 1936 Sylvan Goldman wondered how customers might move more groceries. Because they were inspired by a folding chair, Goldman called them folding basket carriers. One of the first shopping carts was introduced on June 4, 1937, by Goldman, owner of the Humpty Dumpty supermarket chain in Oklahoma. Goldman and his mechanic Fred Young began tinkering with the design. Goldman established the Folding Basket Carrier Company to manufacture his invention.",
+            "claims": [
+              "C12",
+              "C14",
+              "C15",
+              "C18",
+              "C20"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "THE_PROBLEM",
+        "paragraphs": []
+      },
+      {
+        "section": "THE_EXPLANATION",
+        "paragraphs": [
+          {
+            "text": "The documentation makes the purpose clearer. The governing physics: Sylvan Goldman put a basket on a folding chair's seat and wheels on its legs to let customers move more groceries. Goldman put a basket on the seat of a wooden folding chair and wheels on its legs. Goldman hired male and female models to push carts around the store, and carts then became extremely popular.",
+            "claims": [
+              "C2",
+              "C13",
+              "C17"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "SURPRISING_DETAIL",
+        "paragraphs": [
+          {
+            "text": "But one detail complicates the familiar story. The cart seems like an obvious idea, but shoppers initially resisted it. An offended woman told Goldman she had pushed her last baby.",
+            "claims": [
+              "C3",
+              "C16"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "REAL_WORLD_CONSEQUENCE",
+        "paragraphs": [
+          {
+            "text": "The design did not stop changing there. After demonstrations by hired models, shopping carts became extremely popular. Orla Watson invented the swinging rear door that allows carts to nest, in 1946.",
+            "claims": [
+              "C1",
+              "C19"
+            ],
+            "role": "evidence"
+          }
+        ]
+      },
+      {
+        "section": "FINAL_PAYOFF",
+        "paragraphs": []
+      },
+      {
+        "section": "NEXT_CURIOSITY_BRIDGE",
+        "paragraphs": []
+      }
+    ],
+    "words": 300,
+    "estimatedMinutes": 2,
+    "paragraphs": 6,
+    "secondsPerNewBeat": 20
+  },
+  "claimSourceMap": {
+    "rows": [
+      {
+        "section": "COLD_OPEN",
+        "excerpt": "The shopping cart started as a folding chair.",
+        "claims": []
+      },
+      {
+        "section": "THE_QUESTION",
+        "excerpt": "Start with the detail itself. The shopping cart started as a folding chair. And shoppers f",
+        "claims": [
+          {
+            "id": "C4",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C5",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C6",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C7",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C8",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C9",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C10",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          },
+          {
+            "id": "C11",
+            "class": "CONFIRMED_FACT",
+            "source": "editorial narration (case file)"
+          }
+        ]
+      },
+      {
+        "section": "ORIGIN_CONTEXT",
+        "excerpt": "Its history begins with a practical problem. In 1936 Sylvan Goldman wondered how customers",
+        "claims": [
+          {
+            "id": "C12",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Shopping cart"
+          },
+          {
+            "id": "C14",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Shopping cart"
+          },
+          {
+            "id": "C15",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Shopping cart"
+          },
+          {
+            "id": "C18",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Shopping cart"
+          },
+          {
+            "id": "C20",
+            "class": "CONFIRMED_FACT",
+            "source": "Oklahoma Historical Society — Goldman, Sylvan Nathan"
+          }
+        ]
+      },
+      {
+        "section": "THE_EXPLANATION",
+        "excerpt": "The documentation makes the purpose clearer. The governing physics: Sylvan Goldman put a b",
+        "claims": [
+          {
+            "id": "C2",
+            "class": "CONFIRMED_FACT",
+            "source": "Oklahoma Historical Society — Goldman, Sylvan Nathan"
+          },
+          {
+            "id": "C13",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Shopping cart"
+          },
+          {
+            "id": "C17",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Shopping cart"
+          }
+        ]
+      },
+      {
+        "section": "SURPRISING_DETAIL",
+        "excerpt": "But one detail complicates the familiar story. The cart seems like an obvious idea, but sh",
+        "claims": [
+          {
+            "id": "C3",
+            "class": "CONFIRMED_FACT",
+            "source": "Oklahoma Historical Society — Goldman, Sylvan Nathan"
+          },
+          {
+            "id": "C16",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Shopping cart"
+          }
+        ]
+      },
+      {
+        "section": "REAL_WORLD_CONSEQUENCE",
+        "excerpt": "The design did not stop changing there. After demonstrations by hired models, shopping car",
+        "claims": [
+          {
+            "id": "C1",
+            "class": "CONFIRMED_FACT",
+            "source": "Oklahoma Historical Society — Goldman, Sylvan Nathan"
+          },
+          {
+            "id": "C19",
+            "class": "CONFIRMED_FACT",
+            "source": "Wikipedia — Shopping cart"
+          }
+        ]
+      }
+    ],
+    "unsupportedParagraphs": 0,
+    "unsupportedNumbers": [],
+    "copyRisks": [
+      {
+        "section": "ORIGIN_CONTEXT",
+        "overlap": "one of the first shopping carts was introduced on"
+      }
+    ]
+  },
+  "scenePlan": [
+    {
+      "scene": 1,
+      "narrationSpan": [
+        0,
+        3
+      ],
+      "section": "COLD_OPEN",
+      "visualPurpose": "visualise scenario",
+      "visualType": "REAL_OBJECT",
+      "subject": "a modern shopping cart in an aisle",
+      "asset": "a modern shopping cart in an aisle",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 3.2,
+      "motion": "slow push-in to detail",
+      "claimSupported": null,
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 2,
+      "narrationSpan": [
+        3,
+        21
+      ],
+      "section": "THE_QUESTION",
+      "visualPurpose": "visualise scenario",
+      "visualType": "REAL_OBJECT",
+      "subject": "a wooden folding chair",
+      "asset": "a wooden folding chair",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 17.8,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C4",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 3,
+      "narrationSpan": [
+        21,
+        39
+      ],
+      "section": "THE_QUESTION",
+      "visualPurpose": "visualise scenario",
+      "visualType": "REAL_OBJECT",
+      "subject": "a basket placed on the chair seat with wheels on the legs",
+      "asset": "a basket placed on the chair seat with wheels on the legs",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 17.8,
+      "motion": "lateral reframe / crop to evidence",
+      "claimSupported": "C5",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 4,
+      "narrationSpan": [
+        39,
+        54
+      ],
+      "section": "ORIGIN_CONTEXT",
+      "visualPurpose": "visualise scenario",
+      "visualType": "MUSEUM_ARCHIVE",
+      "subject": "the 1930s folding basket carrier",
+      "asset": "the 1930s folding basket carrier",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 15.4,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C12",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 5,
+      "narrationSpan": [
+        54,
+        70
+      ],
+      "section": "ORIGIN_CONTEXT",
+      "visualPurpose": "visualise scenario",
+      "visualType": "MUSEUM_ARCHIVE",
+      "subject": "a row of carts nested together",
+      "asset": "a row of carts nested together",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 15.4,
+      "motion": "lateral reframe / crop to evidence",
+      "claimSupported": "C14",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 6,
+      "narrationSpan": [
+        70,
+        83
+      ],
+      "section": "THE_EXPLANATION",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "The governing physics: Sylvan Goldman put a basket on a folding chair's seat and",
+      "asset": "diagram:THE_EXPLANATION:C2",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 13,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C2",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 7,
+      "narrationSpan": [
+        83,
+        96
+      ],
+      "section": "THE_EXPLANATION",
+      "visualPurpose": "visualise scenario",
+      "visualType": "TECHNICAL_ILLUSTRATION",
+      "subject": "Goldman put a basket on the seat of a wooden folding chair and wheels",
+      "asset": "diagram:THE_EXPLANATION:C13",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 13,
+      "motion": "lateral reframe / crop to evidence",
+      "claimSupported": "C13",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": "on-screen label required"
+    },
+    {
+      "scene": 8,
+      "narrationSpan": [
+        96,
+        108
+      ],
+      "section": "SURPRISING_DETAIL",
+      "visualPurpose": "visualise scenario",
+      "visualType": "REAL_OBJECT",
+      "subject": "Carrinho",
+      "asset": "Commons: Carrinho.JPG",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 12,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C3",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    },
+    {
+      "scene": 9,
+      "narrationSpan": [
+        108,
+        120
+      ],
+      "section": "REAL_WORLD_CONSEQUENCE",
+      "visualPurpose": "visualise scenario",
+      "visualType": "MACRO_DETAIL",
+      "subject": "Cherry Point commissary features Caroline’s Cart 140715 M XX000 000 (cropped)",
+      "asset": "Commons: Cherry Point commissary features Caroline’s Cart 140715-M-XX000-000 (cropped).jpg",
+      "sourceRequirement": "procedural render, labelled on screen",
+      "durationEstimateSeconds": 12.4,
+      "motion": "slow push-in to detail",
+      "claimSupported": "C1",
+      "fallbackAssetStrategy": "labelled procedural diagram",
+      "disclosure": null
+    }
+  ],
+  "assetPlan": {
+    "byType": {
+      "REAL_OBJECT": 4,
+      "MUSEUM_ARCHIVE": 2,
+      "TECHNICAL_ILLUSTRATION": 2,
+      "MACRO_DETAIL": 1
+    },
+    "distinctSubjects": 9,
+    "archivalLeads": 19,
+    "articleImageCandidates": 14,
+    "overused": [],
+    "licensing": "record source, licence and URL per asset in GORSEL-KAYNAKLARI.txt (existing ledger)"
+  },
+  "thumbnails": {
+    "concepts": [
+      {
+        "id": "purpose-callout",
+        "primarySubject": "shopping carts",
+        "background": "clean cutaway",
+        "visualHierarchy": "one teal arrow to the functional element",
+        "emotion": "explanation",
+        "text": "WHY THIS?",
+        "textLength": 9,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 80,
+          "VisualImpact": 85,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 92
+        },
+        "total": 92
+      },
+      {
+        "id": "single-object-detail",
+        "primarySubject": "shopping carts",
+        "background": "warm charcoal field",
+        "visualHierarchy": "one object, one amber marker on folding-chair origin",
+        "emotion": "curiosity",
+        "text": "A FOLDING CHAIR",
+        "textLength": 15,
+        "textWords": 3,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 97,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 97,
+          "Truthfulness": 100,
+          "ChannelFit": 92
+        },
+        "total": 88
+      },
+      {
+        "id": "then-now",
+        "primarySubject": "shopping carts",
+        "background": "restrained historical-modern split",
+        "visualHierarchy": "same detail aligned across both halves",
+        "emotion": "continuity",
+        "text": "STILL HERE",
+        "textLength": 10,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 86
+        },
+        "total": 87
+      },
+      {
+        "id": "macro-detail",
+        "primarySubject": "folding-chair origin",
+        "background": "softly blurred object",
+        "visualHierarchy": "macro detail fills 70% of frame",
+        "emotion": "discovery",
+        "text": "LOOK CLOSER",
+        "textLength": 11,
+        "textWords": 2,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 100,
+        "scores": {
+          "Clarity": 95,
+          "Curiosity": 65,
+          "VisualImpact": 75,
+          "TopicRecognition": 65,
+          "MobileReadability": 100,
+          "Truthfulness": 100,
+          "ChannelFit": 92
+        },
+        "total": 85
+      },
+      {
+        "id": "misconception",
+        "primarySubject": "shopping carts",
+        "background": "warm neutral surface",
+        "visualHierarchy": "assumed use dimmed; documented purpose highlighted",
+        "emotion": "reversal",
+        "text": "NOT WHAT YOU THINK",
+        "textLength": 18,
+        "textWords": 4,
+        "contrast": "light subject on dark field; single accent colour",
+        "truthfulness": "evidence-consistent",
+        "mobileReadability": 68,
+        "scores": {
+          "Clarity": 83,
+          "Curiosity": 80,
+          "VisualImpact": 75,
+          "TopicRecognition": 90,
+          "MobileReadability": 68,
+          "Truthfulness": 100,
+          "ChannelFit": 92
+        },
+        "total": 84
+      }
+    ],
+    "selected": {
+      "id": "purpose-callout",
+      "primarySubject": "shopping carts",
+      "background": "clean cutaway",
+      "visualHierarchy": "one teal arrow to the functional element",
+      "emotion": "explanation",
+      "text": "WHY THIS?",
+      "textLength": 9,
+      "textWords": 2,
+      "contrast": "light subject on dark field; single accent colour",
+      "truthfulness": "evidence-consistent",
+      "mobileReadability": 100,
+      "scores": {
+        "Clarity": 95,
+        "Curiosity": 80,
+        "VisualImpact": 85,
+        "TopicRecognition": 90,
+        "MobileReadability": 100,
+        "Truthfulness": 100,
+        "ChannelFit": 92
+      },
+      "total": 92
+    },
+    "meetsMinimum": true
+  },
+  "titles": {
+    "selected": {
+      "title": "Inside Shopping Carts: The Purpose of Folding-chair Origin",
+      "source": "inside-purpose",
+      "pattern": "inside",
+      "scores": {
+        "clarity": 100,
+        "curiosity": 58,
+        "specificity": 77,
+        "truthfulness": 100,
+        "searchIntent": 83,
+        "channelIdentity": 86,
+        "ctrPotential": 67,
+        "novelty": 100,
+        "evergreenPotential": 85,
+        "consequence": 57,
+        "compactness": 100,
+        "recognizability": 80,
+        "nonRedundancy": 100,
+        "factualIntegrity": 100,
+        "historicalPerformanceSimilarity": 50,
+        "patternFreshness": 100
+      },
+      "total": 83,
+      "patternPenalty": 0,
+      "adjustedTotal": 83,
+      "unsupportedWords": [],
+      "misleading": false
+    },
+    "selectedScore": 83,
+    "count": 23,
+    "candidates": [
+      {
+        "title": "Inside Shopping Carts: The Purpose of Folding-chair Origin",
+        "source": "inside-purpose",
+        "pattern": "inside",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 83,
+        "patternPenalty": 0,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Shopping Carts: Origin, Design and Hidden Purpose",
+        "source": "origin-design-purpose",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 100,
+          "searchIntent": 83,
+          "channelIdentity": 86,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 83,
+        "patternPenalty": 0,
+        "adjustedTotal": 83,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Shopping Carts Have Folding-chair Origin",
+        "source": "why",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 95,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 81,
+        "patternPenalty": 0,
+        "adjustedTotal": 81,
+        "unsupportedWords": [
+          "have"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Hidden Design History of Shopping Carts",
+        "source": "design-history",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 78,
+        "patternPenalty": 0,
+        "adjustedTotal": 78,
+        "unsupportedWords": [
+          "history"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "What Folding-chair Origin Reveal About Shopping Carts",
+        "source": "detail-reveals",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 87,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 78,
+        "patternPenalty": 0,
+        "adjustedTotal": 78,
+        "unsupportedWords": [
+          "reveal"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why This Old Detail Survived on Modern Shopping Carts",
+        "source": "survived",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 87,
+          "channelIdentity": 74,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 77,
+        "patternPenalty": 0,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "old",
+          "survived"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "How Shopping Carts Got Their Most Overlooked Detail",
+        "source": "how-got-detail",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 95,
+          "channelIdentity": 62,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 77,
+        "patternPenalty": 0,
+        "adjustedTotal": 77,
+        "unsupportedWords": [
+          "got",
+          "overlooked"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "What Changed — And What Stayed — In Shopping Carts",
+        "source": "changed-stayed",
+        "pattern": "two-beat",
+        "scores": {
+          "clarity": 90,
+          "curiosity": 58,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 87,
+          "channelIdentity": 50,
+          "ctrPotential": 67,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "stayed"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Shopping Carts and the Design Detail We Stopped Noticing",
+        "source": "stopped-noticing",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 83,
+          "channelIdentity": 74,
+          "ctrPotential": 63,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 95,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 76,
+        "patternPenalty": 0,
+        "adjustedTotal": 76,
+        "unsupportedWords": [
+          "noticing"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "From Original Purpose to Modern Shopping Carts",
+        "source": "origin-to-modern",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 85,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 74,
+        "patternPenalty": 0,
+        "adjustedTotal": 74,
+        "unsupportedWords": [
+          "original"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Why Shoppers First Refused the Shopping Cart",
+        "source": "editorial",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 76,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 42,
+          "channelIdentity": 72,
+          "ctrPotential": 69,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 73,
+        "patternPenalty": 0,
+        "adjustedTotal": 73,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Small Choice That Shaped Shopping Carts",
+        "source": "small-choice",
+        "pattern": "the-x-that",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 77,
+          "truthfulness": 70,
+          "searchIntent": 75,
+          "channelIdentity": 74,
+          "ctrPotential": 55,
+          "novelty": 100,
+          "evergreenPotential": 85,
+          "consequence": 57,
+          "compactness": 100,
+          "recognizability": 80,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 72,
+        "patternPenalty": 0,
+        "adjustedTotal": 72,
+        "unsupportedWords": [
+          "small",
+          "shaped"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "How Folding-chair Origin Became an Everyday Standard",
+        "source": "became-standard",
+        "pattern": "how",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 42,
+          "channelIdentity": 86,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 68,
+        "patternPenalty": 0,
+        "adjustedTotal": 68,
+        "unsupportedWords": [
+          "standard"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Folding Chair Behind Every Shopping Cart",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 60,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 67,
+        "patternPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Engineering Behind One Ordinary Detail",
+        "source": "ordinary-engineering",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 35,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 74,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 67,
+        "patternPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "Why Folding-chair Origin Are Still There",
+        "source": "still-there",
+        "pattern": "why",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 42,
+          "channelIdentity": 74,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 67,
+        "patternPenalty": 0,
+        "adjustedTotal": 67,
+        "unsupportedWords": [
+          "still"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Everyday Object Designed Around Folding-chair Origin",
+        "source": "designed-around",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 86,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 66,
+        "patternPenalty": 0,
+        "adjustedTotal": 66,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Shopping Cart Started as a Folding Chair",
+        "source": "editorial",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 100,
+          "searchIntent": 38,
+          "channelIdentity": 60,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 65,
+        "patternPenalty": 0,
+        "adjustedTotal": 65,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "The Evidence Behind Folding-chair Origin",
+        "source": "evidence-behind",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 58,
+          "specificity": 47,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 57,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 65,
+        "patternPenalty": 0,
+        "adjustedTotal": 65,
+        "unsupportedWords": [
+          "evidence"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Complete Story of Folding-chair Origin",
+        "source": "complete-story",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 41,
+          "truthfulness": 100,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 100,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 63,
+        "patternPenalty": 0,
+        "adjustedTotal": 63,
+        "unsupportedWords": [],
+        "misleading": false
+      },
+      {
+        "title": "One Familiar Object, One Unexpected Design Story",
+        "source": "object-story",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 41,
+          "truthfulness": 85,
+          "searchIntent": 30,
+          "channelIdentity": 74,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 85,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 61,
+        "patternPenalty": 0,
+        "adjustedTotal": 61,
+        "unsupportedWords": [
+          "unexpected"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "The Problem Folding-chair Origin Were Designed to Solve",
+        "source": "problem-solved",
+        "pattern": "statement",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 70,
+          "searchIntent": 30,
+          "channelIdentity": 74,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 70,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 59,
+        "patternPenalty": 0,
+        "adjustedTotal": 59,
+        "unsupportedWords": [
+          "problem",
+          "solve"
+        ],
+        "misleading": false
+      },
+      {
+        "title": "Folding-chair Origin: Function, History and Modern Use",
+        "source": "function-history-use",
+        "pattern": "label-colon",
+        "scores": {
+          "clarity": 100,
+          "curiosity": 40,
+          "specificity": 47,
+          "truthfulness": 55,
+          "searchIntent": 30,
+          "channelIdentity": 62,
+          "ctrPotential": 45,
+          "novelty": 100,
+          "evergreenPotential": 75,
+          "consequence": 42,
+          "compactness": 100,
+          "recognizability": 38,
+          "nonRedundancy": 100,
+          "factualIntegrity": 55,
+          "historicalPerformanceSimilarity": 50,
+          "patternFreshness": 100
+        },
+        "total": 56,
+        "patternPenalty": 0,
+        "adjustedTotal": 56,
+        "unsupportedWords": [
+          "function",
+          "history",
+          "use"
+        ],
+        "misleading": true
+      }
+    ]
+  },
+  "derivedShorts": {
+    "shorts": [
+      {
+        "angle": "the-question",
+        "hook": "The shopping cart started as a folding chair.",
+        "hookFamily": "visual_first_reveal",
+        "hookScore": 75,
+        "first3SecondPlan": {
+          "narration": "The shopping cart started as a folding chair.",
+          "firstFrame": {
+            "description": "shopping carts fills the frame; one marker isolates folding-chair origin",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "REAL_OBJECT",
+            "communicates": "mystery",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "shopping carts fills the frame; one marker isolates folding-chair origin",
+          "onScreenText": "A FOLDING CHAIR",
+          "motion": "macro push toward the highlighted detail in 0.7 s, then cut to source evidence",
+          "cutTiming": [
+            0,
+            1.3,
+            2.5
+          ],
+          "soundCue": "one small tactile click synchronized to the highlighted detail",
+          "communicates": "mystery"
+        },
+        "miniNarrative": [
+          "The shopping cart started as a folding chair.",
+          "And shoppers first refused to push it.",
+          "In 1936, grocer Sylvan Goldman wondered how customers could move more groceries.",
+          "He put a basket on a folding chair's seat and wheels on its legs."
+        ],
+        "payoff": "After that, the folding chair on wheels became extremely popular.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That detail is only one part of the design. The full explanation is in the linked episode.",
+        "claimIds": [
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11"
+        ]
+      },
+      {
+        "angle": "origin-context",
+        "hook": "One of the first shopping carts was introduced on June 4.",
+        "hookFamily": "impossible_sounding_fact",
+        "hookScore": 74,
+        "first3SecondPlan": {
+          "narration": "One of the first shopping carts was introduced on June 4.",
+          "firstFrame": {
+            "description": "shopping carts fills the frame; one marker isolates folding-chair origin",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "REAL_OBJECT",
+            "communicates": "mystery",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "shopping carts fills the frame; one marker isolates folding-chair origin",
+          "onScreenText": "A FOLDING CHAIR",
+          "motion": "macro push toward the highlighted detail in 0.7 s, then cut to source evidence",
+          "cutTiming": [
+            0,
+            1.5,
+            3
+          ],
+          "soundCue": "one small tactile click synchronized to the highlighted detail",
+          "communicates": "mystery"
+        },
+        "miniNarrative": [
+          "In 1936 Sylvan Goldman wondered how customers might move more groceries.",
+          "Because they were inspired by a folding chair, Goldman called them folding basket carriers.",
+          "One of the first shopping carts was introduced on June 4, 1937, by Goldman, owner of the Humpty Dumpty supermarket chain in Oklahoma.",
+          "Goldman and his mechanic Fred Young began tinkering with the design."
+        ],
+        "payoff": "Goldman established the Folding Basket Carrier Company to manufacture his invention.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That detail is only one part of the design. The full explanation is in the linked episode.",
+        "claimIds": [
+          "C12",
+          "C14",
+          "C15",
+          "C18",
+          "C20"
+        ]
+      },
+      {
+        "angle": "the-explanation",
+        "hook": "Merchandising companies also offer branded shopping tokens.",
+        "hookFamily": "hidden_cause",
+        "hookScore": 74,
+        "first3SecondPlan": {
+          "narration": "Merchandising companies also offer branded shopping tokens.",
+          "firstFrame": {
+            "description": "shopping carts fills the frame; one marker isolates folding-chair origin",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "REAL_OBJECT",
+            "communicates": "mystery",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "shopping carts fills the frame; one marker isolates folding-chair origin",
+          "onScreenText": "A FOLDING CHAIR",
+          "motion": "macro push toward the highlighted detail in 0.7 s, then cut to source evidence",
+          "cutTiming": [
+            0,
+            1.1,
+            2.2
+          ],
+          "soundCue": "one small tactile click synchronized to the highlighted detail",
+          "communicates": "mystery"
+        },
+        "miniNarrative": [
+          "The governing physics: Sylvan Goldman put a basket on a folding chair's seat and wheels on its legs to let customers move more groceries.",
+          "Goldman put a basket on the seat of a wooden folding chair and wheels on its legs.",
+          "Goldman hired male and female models to push carts around the store, and carts then became extremely popular.",
+          "Past studies determined that retailers who did not offer shopping carts such as Sears suffered lower sales in comparison to retailers who did use shopping carts."
+        ],
+        "payoff": "By far, most stolen shopping carts that are not returned and left outside their location, however, are misappropriated by occasional subsequent and secondary users without any artistic or cultural-critical readymade intentions as emergency solutions.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That detail is only one part of the design. The full explanation is in the linked episode.",
+        "claimIds": [
+          "C2",
+          "C13",
+          "C17",
+          "C82",
+          "C83",
+          "C84",
+          "C85",
+          "C86",
+          "C87",
+          "C88",
+          "C89",
+          "C90",
+          "C91",
+          "C92",
+          "C93",
+          "C94",
+          "C95",
+          "C96",
+          "C97",
+          "C98",
+          "C99",
+          "C100",
+          "C101",
+          "C102",
+          "C103",
+          "C104",
+          "C108",
+          "C109",
+          "C110",
+          "C111",
+          "C112",
+          "C113",
+          "C114",
+          "C115",
+          "C116",
+          "C117",
+          "C118",
+          "C119",
+          "C120",
+          "C121",
+          "C122",
+          "C123",
+          "C124",
+          "C125",
+          "C126",
+          "C127",
+          "C128",
+          "C129",
+          "C130",
+          "C131",
+          "C132",
+          "C133",
+          "C134",
+          "C135",
+          "C136",
+          "C137",
+          "C138",
+          "C139",
+          "C140",
+          "C141",
+          "C142",
+          "C143",
+          "C144",
+          "C145",
+          "C146"
+        ]
+      },
+      {
+        "angle": "surprising-detail",
+        "hook": "After demonstrations by hired models, shopping carts became extremely popular.",
+        "hookFamily": "shocking_consequence",
+        "hookScore": 73,
+        "first3SecondPlan": {
+          "narration": "After demonstrations by hired models, shopping carts became extremely popular.",
+          "firstFrame": {
+            "description": "shopping carts fills the frame; one marker isolates folding-chair origin",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "REAL_OBJECT",
+            "communicates": "mystery",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "shopping carts fills the frame; one marker isolates folding-chair origin",
+          "onScreenText": "A FOLDING CHAIR",
+          "motion": "macro push toward the highlighted detail in 0.7 s, then cut to source evidence",
+          "cutTiming": [
+            0,
+            1.5,
+            3
+          ],
+          "soundCue": "one small tactile click synchronized to the highlighted detail",
+          "communicates": "mystery"
+        },
+        "miniNarrative": [
+          "The cart seems like an obvious idea, but shoppers initially resisted it.",
+          "An offended woman told Goldman she had pushed her last baby."
+        ],
+        "payoff": "An offended woman told Goldman she had pushed her last baby.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That detail is only one part of the design. The full explanation is in the linked episode.",
+        "claimIds": [
+          "C3",
+          "C16"
+        ]
+      },
+      {
+        "angle": "real-world-consequence",
+        "hook": "After demonstrations by hired models, shopping carts became extremely popular.",
+        "hookFamily": "shocking_consequence",
+        "hookScore": 73,
+        "first3SecondPlan": {
+          "narration": "After demonstrations by hired models, shopping carts became extremely popular.",
+          "firstFrame": {
+            "description": "shopping carts fills the frame; one marker isolates folding-chair origin",
+            "source": "procedural render",
+            "startAtSeconds": 0,
+            "sourceClass": "REAL_OBJECT",
+            "communicates": "mystery",
+            "rule": "labelled illustration; no logo, no establishing shot"
+          },
+          "visual": "shopping carts fills the frame; one marker isolates folding-chair origin",
+          "onScreenText": "A FOLDING CHAIR",
+          "motion": "macro push toward the highlighted detail in 0.7 s, then cut to source evidence",
+          "cutTiming": [
+            0,
+            1.5,
+            3
+          ],
+          "soundCue": "one small tactile click synchronized to the highlighted detail",
+          "communicates": "mystery"
+        },
+        "miniNarrative": [
+          "After demonstrations by hired models, shopping carts became extremely popular.",
+          "Orla Watson invented the swinging rear door that allows carts to nest, in 1946."
+        ],
+        "payoff": "Orla Watson invented the swinging rear door that allows carts to nest, in 1946.",
+        "captionPlan": "semantic 2–3 word chunks, ≤ 2 lines, raised above Shorts UI (config.captions)",
+        "visualRhythm": "cut ≤ 1.4 s in the first 3 s, 1.6–2.4 s to 10 s, then 2.6–3.5 s",
+        "standalone": true,
+        "longformBridge": "That detail is only one part of the design. The full explanation is in the linked episode.",
+        "claimIds": [
+          "C1",
+          "C19"
+        ]
+      }
+    ],
+    "count": 5,
+    "meetsMinimum": true
+  },
+  "relatedShorts": [],
+  "nextVideos": {
+    "primary_next_video": {
+      "slug": "why-jeans-have-a-tiny-pocket",
+      "videoId": null,
+      "title": "Why Jeans Have a Tiny Pocket",
+      "reason": "same series; subject overlap 0.00, same cluster EVERYDAY MYSTERIES",
+      "score": 0.4
+    },
+    "secondary_next_video": {
+      "slug": "why-jeans-have-copper-rivets",
+      "videoId": null,
+      "title": "Why Jeans Have Copper Rivets",
+      "reason": "same series; subject overlap 0.00, same cluster EVERYDAY MYSTERIES",
+      "score": 0.4
+    }
+  },
+  "endScreenPlan": {
+    "primary_next_video": {
+      "slug": "why-jeans-have-a-tiny-pocket",
+      "videoId": null,
+      "title": "Why Jeans Have a Tiny Pocket",
+      "reason": "same series; subject overlap 0.00, same cluster EVERYDAY MYSTERIES",
+      "score": 0.4
+    },
+    "secondary_next_video": {
+      "slug": "why-jeans-have-copper-rivets",
+      "videoId": null,
+      "title": "Why Jeans Have Copper Rivets",
+      "reason": "same series; subject overlap 0.00, same cluster EVERYDAY MYSTERIES",
+      "score": 0.4
+    },
+    "playlist": "EVERYDAY MYSTERIES",
+    "subscribe_element": true,
+    "timing": {
+      "startSeconds": 100,
+      "durationSeconds": 20,
+      "note": "final 20 s; narration must not end abruptly"
+    },
+    "final_narration_transition": "That is one ordinary detail explained. Why Jeans Have a Tiny Pocket hides the next reason in plain sight.",
+    "apiSupport": "UNSUPPORTED — YouTube Data API v3 has no end-screen write endpoint; configure in Studio (task emitted)."
+  },
+  "cost": {
+    "estimated_production_cost": 0.06,
+    "currency": "USD",
+    "breakdown": {
+      "llmTokens": 0,
+      "ttsMinutes": 2,
+      "renderMinutesCpu": 6,
+      "assets": 9,
+      "youtubeQuotaUnits": 1650
+    },
+    "note": "approximate; update config/growth-engine.json cost units from invoices"
+  },
+  "readiness": {
+    "LongFormProductionReadinessScore": 85,
+    "decision": "BLOCK",
+    "dimensions": {
+      "TopicDepth": 85,
+      "NarrativeQuality": 74,
+      "Hook": 75,
+      "ResearchQuality": 86,
+      "SourceCoverage": 90,
+      "FactualAccuracy": 100,
+      "ScriptRetention": 52,
+      "VisualCoverage": 90,
+      "AudioQuality": null,
+      "Editing": null,
+      "Thumbnail": 92,
+      "Title": 83,
+      "CopyrightSafety": 90,
+      "Disclosure": 95,
+      "EndScreenPlan": 90,
+      "ShortFunnelPotential": 90
+    },
+    "unmeasured": [
+      "AudioQuality",
+      "Editing"
+    ],
+    "hardFails": [
+      "COPY_RISK: 1 paragraph(s) reproduce encyclopedia wording (e.g. \"one of the first shopping carts was introduced on\")",
+      "INSUFFICIENT_DEPTH: evidence supports ~2 min; target 8–15 min — not padded",
+      "LLM generation failed safely (REQUEST); deterministic evidence draft retained"
+    ],
+    "notes": [
+      "126 deep-research claims need the LLM writer via a configured long-form provider (LONGFORM_LLM_PROVIDER + provider key); the deterministic writer never narrates encyclopedia text verbatim"
+    ],
+    "thresholds": {
+      "publish": 85,
+      "review": 70
+    }
+  },
+  "targetMinutes": [
+    8,
+    15
+  ],
+  "summary": {
+    "Channel": "The Hidden Logic of Things",
+    "Content Type": "LONG_FORM",
+    "Topic": "The Shopping Cart Started as a Folding Chair",
+    "LongFormPotentialScore": 67,
+    "Topic Bucket": "B",
+    "Cold Open": "The shopping cart started as a folding chair.",
+    "Target Duration": "8–15 min",
+    "Actual Duration": "~2 min (script estimate, deterministic-evidence)",
+    "Scenes": 9,
+    "Thumbnail Score": 92,
+    "Title Score": 83,
+    "LongFormProductionReadinessScore": "85 → BLOCK",
+    "Related Shorts": "none published yet",
+    "Primary Next Video": "Why Jeans Have a Tiny Pocket"
+  }
+}

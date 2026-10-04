@@ -1,0 +1,63 @@
+{
+  "slug": "rana-plaza-2013",
+  "olusturuldu": "2026-10-03T11:30:29.252Z",
+  "originality": 86,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.09,
+      "kim": "lower-van-norman-dam-1971"
+    },
+    "hook": {
+      "deger": 0.08,
+      "kim": "deepwater-horizon-2010"
+    },
+    "structure": {
+      "deger": 0.88,
+      "kim": "eastern-212-1974"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.52,
+      "kim": "general-slocum-1904"
+    },
+    "cta": {
+      "deger": 0.08,
+      "kim": "general-slocum-1904"
+    },
+    "description": {
+      "deger": 0.03,
+      "kim": "eastern-212-1974"
+    },
+    "music": {
+      "deger": 0.71,
+      "kim": "eastern-212-1974"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.09,
+    "HOOK_SIMILARITY": 0.08,
+    "STRUCTURE_SIMILARITY": 0.88,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.52,
+    "CTA_SIMILARITY": 0.08,
+    "DESCRIPTION_SIMILARITY": 0.03,
+    "MUSIC_SIMILARITY": 0.71
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

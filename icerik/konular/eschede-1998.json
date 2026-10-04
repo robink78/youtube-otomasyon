@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "One Cracked Wheel Rim Derailed a High-Speed Train",
+  "kaynaklar": [
+    {
+      "ad": "eschede-1.jpg",
+      "wikimedia": "401 551 AW Nürnberg.jpg"
+    },
+    {
+      "ad": "eschede-2.jpg",
+      "wikimedia": "Gedenkst Eschede1.JPG"
+    },
+    {
+      "ad": "eschede-3.jpg",
+      "wikimedia": "Gedenkst Eschede2.JPG"
+    },
+    {
+      "ad": "eschede-4.jpg",
+      "wikimedia": "Gedenkstätte Eschede Stein links.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A German high-speed train derailed and slammed into a road bridge.",
+      "kaynak": "Footage/eschede-1.jpg"
+    },
+    {
+      "metin": "The bridge collapsed onto the carriages, and one hundred one people were killed.",
+      "kaynak": "Footage/eschede-2.jpg"
+    },
+    {
+      "metin": "It began with a single wheel.",
+      "kaynak": "Footage/eschede-3.jpg"
+    },
+    {
+      "metin": "The wheels had a steel tyre cushioned by rubber.",
+      "kaynak": "Footage/eschede-4.jpg"
+    },
+    {
+      "metin": "That design came from trams, not high-speed trains.",
+      "kaynak": "Footage/eschede-1.jpg"
+    },
+    {
+      "metin": "A fatigue crack grew until the tyre broke free.",
+      "kaynak": "Footage/eschede-2.jpg"
+    },
+    {
+      "metin": "It jammed into the points and derailed the train.",
+      "kaynak": "Footage/eschede-3.jpg"
+    },
+    {
+      "metin": "German high-speed trains switched to solid steel wheels.",
+      "kaynak": "Footage/eschede-4.jpg"
+    }
+  ],
+  "aciklama": "Eschede derailed and crashed into a bridge. The cause: fatigue fracture of a rubber-cushioned wheel's outer tyre, which then struck the points.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Eschede",
+    "1998",
+    "wheel tyre",
+    "engineering failure"
+  ],
+  "hook": "One wheel rim broke",
+  "soru": "Stop on a passenger's word?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the ICE at Eschede",
+    "kisa": "Eschede",
+    "nesne": "Wheel tyre",
+    "yil": 1998,
+    "sonuc": "derailed and crashed into a bridge",
+    "tetik": "a fatigue crack in a steel wheel tyre",
+    "mekanizma": "fatigue fracture of a rubber-cushioned wheel's outer tyre, which then struck the points",
+    "sayi": "101 DIED",
+    "ders": "resilient wheels were replaced with solid monobloc wheels on German high-speed trains",
+    "zincir": [
+      "RUBBER-CUSHIONED WHEEL DESIGN",
+      "TYRE WEARS THIN",
+      "FATIGUE CRACK",
+      "TYRE BREAKS, HITS POINTS",
+      "CARRIAGES SLAM INTO BRIDGE"
+    ],
+    "zaman": [],
+    "yanilgi": "The wheel design came from trams, which run at much lower speed. It had not been tested for high-speed fatigue.",
+    "tartisma": "A passenger reported noise and vibration before the crash. When should a train stop on a passenger's word?",
+    "basliklar": [
+      "One Cracked Wheel Rim Derailed a High-Speed Train",
+      "Why the Eschede Train Crashed",
+      "The Wheel Design Borrowed From Trams"
+    ],
+    "kapak": [
+      "ONE WHEEL",
+      "101 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Eschede train disaster",
+        "url": "https://en.wikipedia.org/wiki/Eschede_train_disaster"
+      },
+      {
+        "ad": "Academic / engineering journal — 10.1002/mawe.200700151 (cited by Wikipedia)",
+        "url": "https://doi.org/10.1002%2Fmawe.200700151"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "Eschede_train_disaster",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "401 551 AW Nürnberg.jpg [CC BY 3.0]",
+      "Gedenkst Eschede1.JPG [CC BY 2.5]",
+      "Gedenkst Eschede2.JPG [CC BY 2.5]",
+      "Gedenkstätte Eschede Stein links.jpg [CC BY 3.0]"
+    ]
+  }
+}

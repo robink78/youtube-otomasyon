@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "A Ship Lost Power — and a Bridge Fell in Seconds",
+  "kaynaklar": [
+    {
+      "ad": "francis-scott-key-bridge-1.jpg",
+      "wikimedia": "Francis Scott Key Bridge and Cargo Ship Dali NTSB view (cropped).jpg"
+    },
+    {
+      "ad": "francis-scott-key-bridge-2.jpg",
+      "wikimedia": "Lt Governor Miller Tours the Dali Site (53690706199).jpg"
+    },
+    {
+      "ad": "francis-scott-key-bridge-3.jpg",
+      "wikimedia": "Wreckage from Key Bridge Collapse (240326-A-SE916-9511).jpg"
+    },
+    {
+      "ad": "francis-scott-key-bridge-4.jpg",
+      "wikimedia": "Aerial view of the Dail-bridge-allision-credit-USCG-Petty-Officer-3rd-class-Kimberly-Reeves.jpeg"
+    },
+    {
+      "ad": "francis-scott-key-bridge-5.jpg",
+      "wikimedia": "Boat Tour (53733860072).jpg"
+    },
+    {
+      "ad": "francis-scott-key-bridge-6.jpg",
+      "wikimedia": "Boat Tour (53733862212).jpg"
+    },
+    {
+      "ad": "francis-scott-key-bridge-7.jpg",
+      "wikimedia": "Coast Guard Site Tour (53616852344).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In Baltimore, a container ship struck a pier of the Key Bridge.",
+      "kaynak": "Footage/francis-scott-key-bridge-1.jpg"
+    },
+    {
+      "metin": "Within seconds the main spans collapsed into the river.",
+      "kaynak": "Footage/francis-scott-key-bridge-2.jpg"
+    },
+    {
+      "metin": "The ship had lost electrical power as it left port.",
+      "kaynak": "Footage/francis-scott-key-bridge-3.jpg"
+    },
+    {
+      "metin": "Without power, it drifted toward a support pier.",
+      "kaynak": "Footage/francis-scott-key-bridge-4.jpg"
+    },
+    {
+      "metin": "That pier held up a continuous steel truss.",
+      "kaynak": "Footage/francis-scott-key-bridge-5.jpg"
+    },
+    {
+      "metin": "Once it was hit, the whole structure unzipped.",
+      "kaynak": "Footage/francis-scott-key-bridge-6.jpg"
+    },
+    {
+      "metin": "A mayday call let police stop traffic just in time.",
+      "kaynak": "Footage/francis-scott-key-bridge-7.jpg"
+    },
+    {
+      "metin": "Ports began rechecking how bridge piers are protected from ships.",
+      "kaynak": "Footage/francis-scott-key-bridge-1.jpg"
+    }
+  ],
+  "aciklama": "Key Bridge collapsed after a container ship hit a pier. The cause: ship impact on an unprotected main-span pier of a continuous truss.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Key Bridge",
+    "2024",
+    "bridge",
+    "engineering failure"
+  ],
+  "hook": "The ship went dark",
+  "soru": "Should every pier be protected?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Francis Scott Key Bridge",
+    "kisa": "Key Bridge",
+    "nesne": "Bridge",
+    "yil": 2024,
+    "sonuc": "collapsed after a container ship hit a pier",
+    "tetik": "a container ship losing electrical power in the channel",
+    "mekanizma": "ship impact on an unprotected main-span pier of a continuous truss",
+    "sayi": "SECONDS",
+    "ders": "US ports began reassessing pier protection on bridges over shipping channels",
+    "zincir": [
+      "SHIP LOSES ELECTRICAL POWER",
+      "RUDDER AND ENGINE CONTROL LOST",
+      "SHIP DRIFTS TOWARD PIER",
+      "PIER HIT, TRUSS UNZIPS",
+      "WORKERS ON DECK SWEPT AWAY"
+    ],
+    "zaman": [],
+    "yanilgi": "The bridge didn't fail by being old or weak. A continuous truss can't survive losing a main pier, and nothing kept the ship away from it.",
+    "tartisma": "The ship's mayday gave police time to stop traffic. How much warning does a bridge need?",
+    "basliklar": [
+      "A Ship Lost Power — and a Bridge Fell in Seconds",
+      "Why the Key Bridge Collapsed",
+      "The Blackout on a Ship That Dropped a Bridge"
+    ],
+    "kapak": [
+      "SHIP BLACKOUT",
+      "IN SECONDS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Francis Scott Key Bridge collapse",
+        "url": "https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_collapse"
+      },
+      {
+        "ad": "NTSB — DCA24MM031 PreliminaryReport 3 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/Documents/DCA24MM031_PreliminaryReport%203.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Francis_Scott_Key_Bridge_collapse",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Francis Scott Key Bridge and Cargo Ship Dali NTSB view (cropped).jpg [Public domain]",
+      "Lt Governor Miller Tours the Dali Site (53690706199).jpg [CC BY 2.0]",
+      "Wreckage from Key Bridge Collapse (240326-A-SE916-9511).jpg [Public domain]",
+      "Aerial view of the Dail-bridge-allision-credit-USCG-Petty-Officer-3rd-class-Kimberly-Reeves.jpeg [Public domain]",
+      "Boat Tour (53733860072).jpg [CC BY 2.0]",
+      "Boat Tour (53733862212).jpg [CC BY 2.0]",
+      "Coast Guard Site Tour (53616852344).jpg [CC BY 2.0]"
+    ]
+  }
+}

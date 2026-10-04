@@ -1,0 +1,180 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/behind-the-ordinary/state/production/why-jeans-have-a-tiny-pocket/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "rate": "+4%",
+    "claimDurations": [
+      3.9289733840304186,
+      3.7126996197718634,
+      3.352243346007605,
+      4.770038022813687,
+      6.163802281368821,
+      5.346768060836502,
+      4.325475285171104
+    ],
+    "durationSeconds": 31.6,
+    "width": null,
+    "height": null,
+    "hasAudio": true,
+    "music": {
+      "mood": "everyday-curious",
+      "profile": {
+        "kok": 46.6,
+        "oran": 1.26,
+        "trem": 0.165,
+        "renk": "pink",
+        "yanki": [
+          578,
+          925
+        ],
+        "alcak": 1052,
+        "ton": "curious"
+      }
+    }
+  },
+  "video": {
+    "file": "channels/behind-the-ordinary/state/production/why-jeans-have-a-tiny-pocket/why-jeans-have-a-tiny-pocket.mp4",
+    "captionsBurned": true,
+    "distinctVisuals": 5,
+    "realImageCount": 5,
+    "numberCardCount": 0,
+    "maxStaticSeconds": 3.524,
+    "visualChanges": 13,
+    "openingHookCovered": true,
+    "cardNumbersValid": true,
+    "opening": "motion",
+    "visualQuality": {
+      "decision": "PUBLISH",
+      "reasons": []
+    },
+    "segmentSeconds": [
+      1.319,
+      0.9009999999999998,
+      1.7089733840304189,
+      1.5710266159695814,
+      2.141673003802282,
+      3.3522433460076044,
+      3.5240836501901143,
+      3.2250000000000014,
+      2.6409999999999982,
+      3.4780000000000015,
+      3.412524714828894,
+      2.364475285171107,
+      1.9609999999999985
+    ],
+    "sources": [
+      {
+        "shot": 1,
+        "claimIndex": 0,
+        "type": "stock-video",
+        "sourceId": "video:6764158",
+        "numbers": []
+      },
+      {
+        "shot": 2,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Closeup of copper rivet on jeans.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 3,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Manifattura genovese, abito da festa in tela di genova (jeans), 1850-1900 ca..JPG",
+        "numbers": []
+      },
+      {
+        "shot": 4,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:Blue jeans fading.png",
+        "numbers": []
+      },
+      {
+        "shot": 5,
+        "claimIndex": 1,
+        "type": "stock-video",
+        "sourceId": "video:6764160",
+        "numbers": []
+      },
+      {
+        "shot": 6,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:Closeup of copper rivet on jeans.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 7,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:Manifattura genovese, abito da festa in tela di genova (jeans), 1850-1900 ca..JPG#2",
+        "numbers": []
+      },
+      {
+        "shot": 8,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:Blue jeans fading.png#2",
+        "numbers": []
+      },
+      {
+        "shot": 9,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:Closeup of copper rivet on jeans.jpg#3",
+        "numbers": [
+          "1873"
+        ]
+      },
+      {
+        "shot": 10,
+        "claimIndex": 4,
+        "type": "licensed-still",
+        "sourceId": "still:Manifattura genovese, abito da festa in tela di genova (jeans), 1850-1900 ca..JPG#3",
+        "numbers": [
+          "1873"
+        ]
+      },
+      {
+        "shot": 11,
+        "claimIndex": 5,
+        "type": "licensed-still",
+        "sourceId": "still:Blue jeans fading.png#3",
+        "numbers": [
+          "1901"
+        ]
+      },
+      {
+        "shot": 12,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:Closeup of copper rivet on jeans.jpg#4",
+        "numbers": []
+      },
+      {
+        "shot": 13,
+        "claimIndex": 6,
+        "type": "stock-video",
+        "sourceId": "video:6764158#loop",
+        "numbers": []
+      }
+    ],
+    "durationSeconds": 31.6,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/behind-the-ordinary/state/production/why-jeans-have-a-tiny-pocket/thumbnail.jpg",
+    "bytes": 90792,
+    "sourceType": "licensed-still",
+    "sourceId": "still:Closeup of copper rivet on jeans.jpg",
+    "textWords": 3,
+    "usesLicensedStill": true
+  }
+}

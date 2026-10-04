@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Blob of Paint Sank a New Submarine",
+  "kaynaklar": [
+    {
+      "ad": "hms-thetis-1.jpg",
+      "wikimedia": "After Initial Disaster - British Submarine 'thunderbolt's' Record of Success. 7 February 1943, Malta. Starting Her Life With a Terrible Mishap, HMS Thunderbolt - Ex-'thetis' - Has Had a Glor A14720.jpg"
+    },
+    {
+      "ad": "hms-thetis-2.jpg",
+      "wikimedia": "After Initial Disaster - British Submarine 'thunderbolt's' Record of Success. 7 February 1943, Malta. Starting Her Life With a Terrible Mishap, HMS Thunderbolt - Ex-'thetis' - Has Had a Glor A14719.jpg"
+    },
+    {
+      "ad": "hms-thetis-3.jpg",
+      "wikimedia": "HMS Thetis Jolly Roger.jpg"
+    },
+    {
+      "ad": "hms-thetis-4.jpg",
+      "wikimedia": "HM Submarine Thunderbolt, Formerly HMS Thetis, on Her Return To Harbour After a Patrol. 1940. A2585.jpg"
+    },
+    {
+      "ad": "hms-thetis-5.jpg",
+      "wikimedia": "HMSM Thunderbolt.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A brand-new British submarine sank during its first dive.",
+      "kaynak": "Footage/hms-thetis-1.jpg"
+    },
+    {
+      "metin": "Within hours, ninety nine men were dead.",
+      "kaynak": "Footage/hms-thetis-2.jpg"
+    },
+    {
+      "metin": "A torpedo tube was opened from inside.",
+      "kaynak": "Footage/hms-thetis-3.jpg"
+    },
+    {
+      "metin": "Its outer door was already open to the sea.",
+      "kaynak": "Footage/hms-thetis-4.jpg"
+    },
+    {
+      "metin": "A small test hole should have shown water in the tube.",
+      "kaynak": "Footage/hms-thetis-5.jpg"
+    },
+    {
+      "metin": "It had been blocked by paint.",
+      "kaynak": "Footage/hms-thetis-1.jpg"
+    },
+    {
+      "metin": "The sea flooded the bow, and only four men escaped.",
+      "kaynak": "Footage/hms-thetis-2.jpg"
+    },
+    {
+      "metin": "Torpedo tube interlocks and tests were changed.",
+      "kaynak": "Footage/hms-thetis-3.jpg"
+    }
+  ],
+  "aciklama": "HMS Thetis sank during her diving trials. The cause: a test cock blocked by paint, hiding that the outer bow cap was open.\n\n#shorts #engineering #maritime",
+  "etiketler": [
+    "HMS Thetis",
+    "1939",
+    "torpedo tube",
+    "engineering failure"
+  ],
+  "hook": "Paint blocked the check",
+  "soru": "Why couldn't more be saved?",
+  "vaka": {
+    "kume": "maritime-disasters",
+    "tip": "vaka",
+    "ad": "HMS Thetis",
+    "kisa": "HMS Thetis",
+    "nesne": "Torpedo tube",
+    "yil": 1939,
+    "sonuc": "sank during her diving trials",
+    "tetik": "a torpedo tube opened while its outer door was open",
+    "mekanizma": "a test cock blocked by paint, hiding that the outer bow cap was open",
+    "sayi": "99 DIED",
+    "ders": "torpedo tube interlocks and test procedures were changed",
+    "zincir": [
+      "OUTER BOW CAP LEFT OPEN",
+      "TEST COCK BLOCKED BY PAINT",
+      "INNER DOOR OPENED",
+      "SEA FLOODS BOW",
+      "SUB SINKS NOSE-DOWN"
+    ],
+    "zaman": [],
+    "yanilgi": "The crew checked whether the tube was flooded. The check failed because paint blocked the test hole.",
+    "tartisma": "Part of the stern stayed above water for hours. Why couldn't more men be saved?",
+    "basliklar": [
+      "A Blob of Paint Sank a New Submarine",
+      "Why HMS Thetis Sank",
+      "The Paint That Hid an Open Door"
+    ],
+    "kapak": [
+      "PAINT",
+      "99 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — HMS Thetis (N25)",
+        "url": "https://en.wikipedia.org/wiki/HMS_Thetis_(N25)"
+      },
+      {
+        "ad": "Archive / museum — hms thetis memorial unveiled (cited by Wikipedia)",
+        "url": "https://www.liverpoolmuseums.org.uk/stories/hms-thetis-memorial-unveiled"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "HMS_Thetis_(N25)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "After Initial Disaster - British Submarine 'thunderbolt's' Record of Success. 7 February 1943, Malta. Starting Her Life With a Terrible Mishap, HMS Thunderbolt - Ex-'thetis' - Has Had a Glor A14720.jpg [Public domain]",
+      "After Initial Disaster - British Submarine 'thunderbolt's' Record of Success. 7 February 1943, Malta. Starting Her Life With a Terrible Mishap, HMS Thunderbolt - Ex-'thetis' - Has Had a Glor A14719.jpg [Public domain]",
+      "HMS Thetis Jolly Roger.jpg [Public domain]",
+      "HM Submarine Thunderbolt, Formerly HMS Thetis, on Her Return To Harbour After a Patrol. 1940. A2585.jpg [Public domain]",
+      "HMSM Thunderbolt.jpg [Public domain]"
+    ]
+  }
+}

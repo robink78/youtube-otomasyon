@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Candle Started a Fire Inside a Nuclear Plant",
+  "kaynaklar": [
+    {
+      "ad": "browns-ferry-fire-1.jpg",
+      "wikimedia": "Browns ferry NPP.jpg"
+    },
+    {
+      "ad": "browns-ferry-fire-2.jpg",
+      "wikimedia": "Browns Ferry Nuclear Power Plant 2.jpg"
+    },
+    {
+      "ad": "browns-ferry-fire-3.jpg",
+      "wikimedia": "Browns Ferry Nuclear Power Plant.jpg"
+    },
+    {
+      "ad": "browns-ferry-fire-4.jpg",
+      "wikimedia": "HD.6B.386 (11856908206).jpg"
+    },
+    {
+      "ad": "browns-ferry-fire-5.jpg",
+      "wikimedia": "Puf.jpg"
+    },
+    {
+      "ad": "browns-ferry-fire-6.jpg",
+      "wikimedia": "Puf cement plant.jpg"
+    },
+    {
+      "ad": "browns-ferry-fire-7.jpg",
+      "wikimedia": "Puf pt tupper.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A fire broke out inside the Browns Ferry nuclear plant.",
+      "kaynak": "Footage/browns-ferry-fire-1.jpg"
+    },
+    {
+      "metin": "The fire spread for hours and knocked out key safety systems.",
+      "kaynak": "Footage/browns-ferry-fire-2.jpg"
+    },
+    {
+      "metin": "It was started by a candle.",
+      "kaynak": "Footage/browns-ferry-fire-3.jpg"
+    },
+    {
+      "metin": "A worker used it to check for air leaks.",
+      "kaynak": "Footage/browns-ferry-fire-4.jpg"
+    },
+    {
+      "metin": "The flame ignited foam sealing a cable passage.",
+      "kaynak": "Footage/browns-ferry-fire-5.jpg"
+    },
+    {
+      "metin": "Fire spread along the cables and cut power to controls.",
+      "kaynak": "Footage/browns-ferry-fire-6.jpg"
+    },
+    {
+      "metin": "Operators improvised to keep the reactors cooled.",
+      "kaynak": "Footage/browns-ferry-fire-7.jpg"
+    },
+    {
+      "metin": "US plants then adopted strict fire protection rules.",
+      "kaynak": "Footage/browns-ferry-fire-1.jpg"
+    }
+  ],
+  "aciklama": "Browns Ferry had a cable fire that knocked out safety systems. The cause: candle flame igniting polyurethane foam sealant in a cable penetration.\n\n#shorts #engineering #nuclear",
+  "etiketler": [
+    "Browns Ferry",
+    "1975",
+    "cable tray",
+    "engineering failure"
+  ],
+  "hook": "A candle did this",
+  "soru": "How do risky habits become normal?",
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "the Browns Ferry nuclear plant",
+    "kisa": "Browns Ferry",
+    "nesne": "Cable tray",
+    "yil": 1975,
+    "sonuc": "had a cable fire that knocked out safety systems",
+    "tetik": "a candle used to check for air leaks",
+    "mekanizma": "candle flame igniting polyurethane foam sealant in a cable penetration",
+    "sayi": "ONE CANDLE",
+    "ders": "US nuclear plants adopted strict fire protection and cable separation rules",
+    "zincir": [
+      "CANDLE USED TO FIND AIR LEAKS",
+      "FOAM SEALANT IGNITES",
+      "FIRE SPREADS ALONG CABLES",
+      "SAFETY SYSTEMS LOSE POWER",
+      "OPERATORS IMPROVISE COOLING"
+    ],
+    "zaman": [],
+    "yanilgi": "No reactor fault started it. A worker's candle ignited the foam sealing a cable passage.",
+    "tartisma": "Using a candle to find leaks was common practice. How do risky habits become normal?",
+    "basliklar": [
+      "A Candle Started a Fire Inside a Nuclear Plant",
+      "The Candle That Set a Nuclear Plant on Fire",
+      "Why the Browns Ferry Fire Happened"
+    ],
+    "kapak": [
+      "ONE CANDLE",
+      "CABLE FIRE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Browns Ferry Nuclear Plant",
+        "url": "https://en.wikipedia.org/wiki/Browns_Ferry_Nuclear_Plant"
+      },
+      {
+        "ad": "US Nuclear Regulatory Commission — ML050210124 (cited by Wikipedia)",
+        "url": "https://www.nrc.gov/docs/ML0502/ML050210124.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "Browns_Ferry_Nuclear_Plant",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Browns ferry NPP.jpg [Public domain]",
+      "Browns Ferry Nuclear Power Plant 2.jpg [Public domain]",
+      "Browns Ferry Nuclear Power Plant.jpg [Public domain]",
+      "HD.6B.386 (11856908206).jpg [Public domain]",
+      "Puf.jpg [Public domain]",
+      "Puf cement plant.jpg [CC BY 3.0]",
+      "Puf pt tupper.jpg [CC BY 3.0]"
+    ]
+  }
+}

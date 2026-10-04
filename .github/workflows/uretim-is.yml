@@ -1,0 +1,199 @@
+name: Shorts uretim (is)
+
+# YENIDEN KULLANILABILIR uretim isi. Kendi basina zamanlanmaz; iki ayri is akisi
+# cagirir (bkz. uretim.yml ve yayin-kontrol.yml). Neden: GitHub zamanlanmis
+# calismalari ATLIYOR — 27 Eylul'de uretim.yml'in 6 zamanlanmis denemesinin
+# HICBIRI tetiklenmedi, ayni gun yayin-kontrol.yml'inkiler calisti. Tek bir is
+# akisinin zamanlamasina guvenmek yerine, birbirinden bagimsiz iki is akisi da
+# ayni uretimi calistirabiliyor; takvim adimi gunde tek video garantisini korur.
+
+on:
+  workflow_call:
+    inputs:
+      hepsi:
+        type: boolean
+        default: false
+      kuru:
+        type: boolean
+        default: false
+      slug:
+        type: string
+        default: ''
+      force:
+        description: 'SLA recovery: bypass the normal schedule pre-check'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  # UCUZ TAKVIM ADIMI: gunun videosu zaten uretildiyse (ya da vakti gelmediyse)
+  # burada durulur. Boylece gunde 9 bosa deneme ~20 sn surer (ffmpeg/npm kurulmaz).
+  takvim:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      uygun: ${{ steps.k.outputs.uygun }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - id: k
+        run: |
+          # Normal manual production may intentionally bypass the calendar.
+          # SLA recovery may not: it must re-check the calendar while holding
+          # the shared concurrency lock, so a late primary scheduler cannot
+          # fill the day and then be followed by a second upload.
+          if [ "${{ inputs.force }}" != "true" ] && [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Elle tetiklendi — takvim atlandi."; echo "uygun=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          # Cikis kodu: 0 = vakti geldi, 3 = bugunun videosu zaten var, digeri = BEKLENMEDIK HATA.
+          # Beklenmedik hatada uretim ATLANMAZ (yoksa takvim betigindeki bir sorun butun
+          # yayini sessizce durdururdu); uretim denenir, orada da hata olursa bildirim gider.
+          set +e
+          node yayin-plani.js --kontrol short
+          KOD=$?
+          set -e
+          if [ "$KOD" = "3" ]; then
+            echo "Bugunun videosu zaten var — uretim atlandi."
+            echo "uygun=false" >> "$GITHUB_OUTPUT"
+          else
+            [ "$KOD" = "0" ] || echo "⚠ yayin-plani beklenmedik cikis kodu $KOD — yine de uretim denenecek"
+            echo "uygun=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  uret:
+    needs: takvim
+    if: needs.takvim.outputs.uygun == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      # Yukleme kimlik bilgileri — repo Secrets (yoksa yukleme atlanir).
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      FR_YT_CLIENT_ID: ${{ secrets.FR_YT_CLIENT_ID }}
+      FR_YT_CLIENT_SECRET: ${{ secrets.FR_YT_CLIENT_SECRET }}
+      FR_YT_REFRESH_TOKEN: ${{ secrets.FR_YT_REFRESH_TOKEN }}
+      FR_YT_CHANNEL_ID: ${{ vars.FR_YT_CHANNEL_ID }}
+      # if the refresh token later points at a different creator account.
+      # Stok konular (tur: stok) icin Pexels anahtari — yoksa stok-bul.js calismaz.
+      PEXELS_KEY: ${{ secrets.PEXELS_KEY }}
+      # Yukleme yalnizca PUBLISH=1 iken (repo Variables). Yoksa uretir, yuklemez.
+      PUBLISH: ${{ vars.PUBLISH }}
+      # Altyazi fontu (ubuntu'da kurulu bir font).
+      SHORTS_FONT: 'DejaVu Sans'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: ffmpeg + font kur
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core fonts-liberation
+
+      - name: Bagimliliklar
+        run: npm install --no-audit --no-fund
+
+      # Saglik: YouTube yetkisi (bitmek uzere mi?), kapsamlar, Pexels, kutuphane.
+      # Sorun varsa bildirim adimi "Sistem uyarisi" issue'su acar; yetki gecersizse
+      # shorts-sira hicbir konu harcamadan durur.
+      - name: Saglik kontrolu
+        run: |
+          node saglik.js || echo "saglik kontrolu - yukleme yapilamaz (ayrintilar yukarida)"
+
+      - name: Sonraki Shorts'u uret
+        if: ${{ !inputs.kuru }}
+        env:
+          PRODUCTION_RESULT_PATH: ${{ runner.temp }}/production-result.json
+        run: |
+          if [ "${{ inputs.hepsi }}" = "true" ]; then
+            node shorts-sira.js --hepsi
+          elif [ -n "${{ inputs.slug }}" ]; then
+            node shorts-sira.js "${{ inputs.slug }}"
+          else
+            node shorts-sira.js
+          fi
+
+      # KURU CALISMA: gercek secret'lar ve gercek indirme/render ile uctan uca, ama yuklemesiz.
+      - name: Kuru calisma (uctan uca, yuklemesiz)
+        if: ${{ inputs.kuru }}
+        env:
+          PUBLISH: '0'
+        run: |
+          SLUG="${{ inputs.slug }}"
+          if [ -z "$SLUG" ]; then SLUG=$(node -pe 'require("./lib/kutuphane").kuyruk()[0].slug'); fi
+          echo "Kuru calisma: $SLUG"
+          node shorts-sira.js "$SLUG"
+          node e2e-kontrol.js "$SLUG"
+          node bildirim.js --kuru
+
+      - name: Bildirim (her adim -> GitHub issue/yorum)
+        if: ${{ always() && !inputs.kuru }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node bildirim.js || echo "bildirim atlandi"
+
+      - name: Yayin sonrasi analiz (24s/72s/7g/14g/30g checkpoint'leri)
+        if: always()
+        run: node post-publish-analyzer.js --due || echo "analiz atlandi (kimlik/kapsam yok) — veri uydurulmaz"
+
+      - name: Teknik tartisma sabit yorumlari (public olan videolar)
+        if: ${{ always() && !inputs.kuru }}
+        run: node pinned-comment.js --post-pending || echo "sabit yorum atlandi"
+
+      - name: Kume + ic baglanti plani, deney degerlendirmesi
+        if: always()
+        run: |
+          node channel-plan.js || echo "kanal plani atlandi"
+          node experiments.js degerlendir || echo "deneyler atlandi"
+          node daily-operations-report.js || echo "gunluk operasyon raporu atlandi"
+
+      - name: Haftalik mevcut video optimizasyonu (Pazartesi)
+        if: always() && github.event_name == 'schedule'
+        run: |
+          if [ "$(date -u +%u)" = "1" ]; then
+            node existing-video-optimizer.js --all || echo "optimizer atlandi"
+          else
+            echo "Pazartesi degil — optimizer atlandi"
+          fi
+
+      - name: Uretilen videoyu artifact olarak yukle (onizleme)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: shorts-video
+          path: uretim/*/Videos/*.mp4
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Uretim durumunu geri commit et
+        if: ${{ always() && !inputs.kuru }}
+        run: |
+          git config user.name  "uretim-bot"
+          git config user.email "actions@users.noreply.github.com"
+          # Durum + analiz dosyalari (sir icermez; .env ve medya .gitignore'da)
+          git add icerik channel analysis analytics experiments migration reports || true
+          if git diff --cached --quiet; then echo "Uretimde degisiklik yok."; exit 0; fi
+          git commit -m "chore: uretim ilerlemesi + analiz (otomatik)"
+          # Yaris (baska bir commit araya girdiyse) icin 5 deneme: kayit kaybolursa ayni konu
+          # ikinci kez yuklenebilirdi (ek koruma: youtube-yukle.js kanalda ayni basligi arar).
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "push denemesi $i basarisiz — tekrar"; sleep $((i * 5))
+          done
+          exit 1
+
+      - name: Hata bildirimi (is akisi coktu)
+        if: ${{ failure() && !inputs.kuru }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node bildirim.js --is-hatasi "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"

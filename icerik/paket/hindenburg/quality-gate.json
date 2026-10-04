@@ -1,0 +1,64 @@
+{
+  "slug": "hindenburg",
+  "asama": "pre",
+  "format": "short",
+  "karar": "REVIEW",
+  "toplam": 87,
+  "esikler": {
+    "publish": 85,
+    "review": 70
+  },
+  "engelleyen": [],
+  "bilesenler": {
+    "title": {
+      "puan": 70,
+      "notlar": [
+        "\"34 Seconds That Ended the Airship Age\" (engine 54.8)"
+      ]
+    },
+    "thumbnail": {
+      "puan": 96,
+      "notlar": []
+    },
+    "hook": {
+      "puan": 80,
+      "notlar": [
+        "5-12s: missing an unexpected detail",
+        "12-20s: no central mystery or problem is posed"
+      ]
+    },
+    "script": {
+      "puan": 100,
+      "notlar": []
+    },
+    "originality": {
+      "puan": 80,
+      "notlar": [
+        "structure 1 ≥ 0.9 (vs vesuvius-1944)"
+      ]
+    },
+    "visual": {
+      "puan": 80,
+      "notlar": [
+        "not rendered yet — source plan only"
+      ],
+      "olculmedi": true
+    },
+    "engineering": {
+      "puan": 100,
+      "notlar": []
+    },
+    "source": {
+      "puan": 100,
+      "notlar": []
+    },
+    "audio": {
+      "puan": 75,
+      "notlar": [
+        "not rendered yet — measured at the final gate"
+      ],
+      "olculmedi": true
+    }
+  },
+  "tarih": "2026-09-24T16:22:41.500Z"
+}

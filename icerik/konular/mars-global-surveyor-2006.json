@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Software Update Killed a Mars Orbiter",
+  "kaynaklar": [
+    {
+      "ad": "mars-global-surveyor-1.jpg",
+      "wikimedia": "Mars Observer - MOC2 cb.jpg"
+    },
+    {
+      "ad": "mars-global-surveyor-2.jpg",
+      "wikimedia": "Boulders from MGS.JPG"
+    },
+    {
+      "ad": "mars-global-surveyor-3.jpg",
+      "wikimedia": "Gullies in Gorgonum.jpg"
+    },
+    {
+      "ad": "mars-global-surveyor-4.jpg",
+      "wikimedia": "Mantle on Cliff.JPG"
+    },
+    {
+      "ad": "mars-global-surveyor-5.jpg",
+      "wikimedia": "Pavonis Mons mgs.jpg"
+    },
+    {
+      "ad": "mars-global-surveyor-6.jpg",
+      "wikimedia": "Swiss Cheese Terrain close-up.JPG"
+    },
+    {
+      "ad": "mars-global-surveyor-7.jpg",
+      "wikimedia": "PIA05229 label.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "After years mapping Mars, NASA's Global Surveyor stopped answering.",
+      "kaynak": "Footage/mars-global-surveyor-1.jpg"
+    },
+    {
+      "metin": "Suddenly it went silent, and every attempt to reach it failed.",
+      "kaynak": "Footage/mars-global-surveyor-2.jpg"
+    },
+    {
+      "metin": "The orbiter had been working well.",
+      "kaynak": "Footage/mars-global-surveyor-3.jpg"
+    },
+    {
+      "metin": "Two operators had updated separate copies of its software with different values.",
+      "kaynak": "Footage/mars-global-surveyor-4.jpg"
+    },
+    {
+      "metin": "A corrective update was sent later.",
+      "kaynak": "Footage/mars-global-surveyor-5.jpg"
+    },
+    {
+      "metin": "It included a memory fault nobody caught.",
+      "kaynak": "Footage/mars-global-surveyor-6.jpg"
+    },
+    {
+      "metin": "That fault caused the loss of the spacecraft.",
+      "kaynak": "Footage/mars-global-surveyor-7.jpg"
+    },
+    {
+      "metin": "NASA tightened control of software uploads.",
+      "kaynak": "Footage/mars-global-surveyor-1.jpg"
+    }
+  ],
+  "aciklama": "Mars Global Surveyor went silent after nearly a decade at Mars. The cause: operators uploading differing parameters, then a correction that wrote to the wrong memory.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "Mars Global Surveyor",
+    "2006",
+    "software update",
+    "engineering failure"
+  ],
+  "hook": "The update killed it",
+  "soru": "How do you test a remote patch?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "Mars Global Surveyor",
+    "kisa": "Mars Global Surveyor",
+    "nesne": "Software update",
+    "yil": 2006,
+    "sonuc": "went silent after nearly a decade at Mars",
+    "tetik": "a corrective software update containing a memory fault",
+    "mekanizma": "operators uploading differing parameters, then a correction that wrote to the wrong memory",
+    "sayi": "SILENT",
+    "ders": "NASA tightened configuration control for spacecraft software uploads",
+    "zincir": [
+      "TWO OPERATORS",
+      "DIFFERENT PARAMETERS",
+      "CORRECTIVE UPDATE",
+      "HIDDEN MEMORY FAULT",
+      "SPACECRAFT LOST"
+    ],
+    "zaman": [],
+    "yanilgi": "The spacecraft didn't wear out. A software update caused its loss.",
+    "tartisma": "The fix for one error created the fatal one. How do you test a patch to a machine millions of miles away?",
+    "basliklar": [
+      "A Software Update Killed a Mars Orbiter",
+      "Why NASA Lost Mars Global Surveyor",
+      "The Update That Ended a Mars Mission"
+    ],
+    "kapak": [
+      "BAD UPDATE",
+      "SILENT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Mars Global Surveyor",
+        "url": "https://en.wikipedia.org/wiki/Mars_Global_Surveyor"
+      },
+      {
+        "ad": "NASA — 174244main mgs white paper 20070413 (cited by Wikipedia)",
+        "url": "http://www.nasa.gov/pdf/174244main_mgs_white_paper_20070413.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-18",
+    "wiki": "Mars_Global_Surveyor",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Mars Observer - MOC2 cb.jpg [Public domain]",
+      "Boulders from MGS.JPG [Public domain]",
+      "Gullies in Gorgonum.jpg [Public domain]",
+      "Mantle on Cliff.JPG [Public domain]",
+      "Pavonis Mons mgs.jpg [Public domain]",
+      "Swiss Cheese Terrain close-up.JPG [Public domain]",
+      "PIA05229 label.jpg [Public domain]"
+    ]
+  }
+}

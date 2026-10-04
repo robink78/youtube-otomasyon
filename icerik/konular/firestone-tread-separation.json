@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Tyres Whose Treads Peeled Off at Highway Speed",
+  "kaynaklar": [
+    {
+      "ad": "firestone-tread-separati-1.png",
+      "wikimedia": "Cumulative failure frequencies. Recalled and focus tires by model, size, and plant vs Goodyear Wrangler RTS.png"
+    },
+    {
+      "ad": "firestone-tread-separati-2.png",
+      "wikimedia": "Radial Tire Construction.png"
+    },
+    {
+      "ad": "firestone-tread-separati-3.png",
+      "wikimedia": "Belt Separation of a Firestone P235 75R15 Wilderness AT tire.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At highway speed, tyres on Ford Explorers began shedding their treads.",
+      "kaynak": "Footage/firestone-tread-separati-1.png"
+    },
+    {
+      "metin": "Suddenly the SUVs lost control, and many rolled over.",
+      "kaynak": "Footage/firestone-tread-separati-2.png"
+    },
+    {
+      "metin": "The tread separated from the tyre's body.",
+      "kaynak": "Footage/firestone-tread-separati-3.png"
+    },
+    {
+      "metin": "Heat, speed and low pressure made it worse.",
+      "kaynak": "Footage/firestone-tread-separati-1.png"
+    },
+    {
+      "metin": "Ford and Firestone blamed each other.",
+      "kaynak": "Footage/firestone-tread-separati-2.png"
+    },
+    {
+      "metin": "Millions of tyres were recalled.",
+      "kaynak": "Footage/firestone-tread-separati-3.png"
+    },
+    {
+      "metin": "Congress passed the TREAD Act.",
+      "kaynak": "Footage/firestone-tread-separati-1.png"
+    },
+    {
+      "metin": "New vehicles gained tyre pressure monitors.",
+      "kaynak": "Footage/firestone-tread-separati-2.png"
+    }
+  ],
+  "aciklama": "Firestone tires shed their treads, causing rollovers. The cause: separation of the tread and belt from the tyre casing, worsened by low pressure and heat.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "Firestone tires",
+    "2000",
+    "tyre",
+    "engineering failure"
+  ],
+  "hook": "The tread peeled off",
+  "soru": "Tyre or vehicle?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "Firestone tyres on Ford Explorers",
+    "kisa": "Firestone tires",
+    "nesne": "Tyre",
+    "yil": 2000,
+    "sonuc": "shed their treads, causing rollovers",
+    "tetik": "tread separation at high speed and heat",
+    "mekanizma": "separation of the tread and belt from the tyre casing, worsened by low pressure and heat",
+    "sayi": "MILLIONS RECALLED",
+    "ders": "the US passed the TREAD Act requiring defect reporting and tyre pressure monitors",
+    "zincir": [
+      "LOW RECOMMENDED PRESSURE",
+      "HOT CLIMATES AND HIGH SPEED",
+      "TREAD SEPARATES",
+      "SUV LOSES CONTROL",
+      "ROLLOVER"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't just the tyre or just the vehicle. The interaction between tyre, pressure and SUV mattered.",
+    "tartisma": "Ford and Firestone blamed each other. When two products fail together, who is responsible?",
+    "basliklar": [
+      "Tyres Whose Treads Peeled Off at Highway Speed",
+      "Why Firestone Tyres Shed Their Treads",
+      "The Tyre Failures Behind the TREAD Act"
+    ],
+    "kapak": [
+      "TREAD PEELED",
+      "ROLLOVERS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Firestone and Ford tire controversy",
+        "url": "https://en.wikipedia.org/wiki/Firestone_and_Ford_tire_controversy"
+      },
+      {
+        "ad": "Government source — firestonereport (cited by Wikipedia)",
+        "url": "https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/firestonereport.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-10",
+    "wiki": "Firestone_and_Ford_tire_controversy",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Cumulative failure frequencies. Recalled and focus tires by model, size, and plant vs Goodyear Wrangler RTS.png [Public domain]",
+      "Radial Tire Construction.png [Public domain]",
+      "Belt Separation of a Firestone P235 75R15 Wilderness AT tire.png [Public domain]"
+    ]
+  }
+}

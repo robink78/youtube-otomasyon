@@ -1,0 +1,121 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 2.5,
+  "baslik": "Flopnik: Why America's Answer to Sputnik Failed Twice",
+  "kaynaklar": [
+    {
+      "ad": "vanguard.ogv",
+      "wikimedia": "1958-02-06 Vanguard Fails in Second Launching.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "This is America's answer to Sputnik, breaking apart for the second time.",
+      "kaynak": "Footage/vanguard.ogv",
+      "baslangic": 49
+    },
+    {
+      "metin": "The first try, just two months earlier, rose only four feet and exploded.",
+      "kaynak": "Footage/vanguard.ogv",
+      "baslangic": 25
+    },
+    {
+      "metin": "The press called it Flopnik.",
+      "kaynak": "Footage/vanguard.ogv",
+      "baslangic": 10
+    },
+    {
+      "metin": "So what went wrong on the pad?",
+      "kaynak": "Footage/vanguard.ogv",
+      "baslangic": 17
+    },
+    {
+      "metin": "Fuel pressure was too low, so fire leaked back through the injector.",
+      "kaynak": "Footage/vanguard.ogv",
+      "baslangic": 22
+    },
+    {
+      "metin": "This second rocket flew, but its control system failed at 57 seconds.",
+      "kaynak": "Footage/vanguard.ogv",
+      "baslangic": 52
+    },
+    {
+      "metin": "A month later, the next Vanguard reached orbit.",
+      "kaynak": "Footage/vanguard.ogv",
+      "baslangic": 5.5
+    },
+    {
+      "metin": "It's still up there, the oldest satellite in space.",
+      "kaynak": "Footage/vanguard.ogv",
+      "baslangic": 40
+    }
+  ],
+  "aciklama": "On December 6, 1957, Vanguard TV3 rose four feet and exploded on the pad; the backup broke up in flight in February 1958. The third attempt put Vanguard 1 in orbit, where it remains today.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Vanguard",
+    "Vanguard TV3",
+    "Flopnik",
+    "Sputnik",
+    "1957",
+    "space race",
+    "rocket failure"
+  ],
+  "hook": "Flopnik",
+  "soru": "Launch again next month?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Project Vanguard",
+    "kisa": "Vanguard",
+    "nesne": "Satellite launcher",
+    "yil": 1957,
+    "sonuc": "exploded on the pad, then failed again in flight",
+    "tetik": "low fuel-tank pressure",
+    "mekanizma": "hot gas leaking back through the injector into the fuel system at low tank pressure",
+    "sayi": "4 FEET",
+    "ders": "rocket feed pressures are now margin-tested before every launch",
+    "zincir": [
+      "FUEL TANK PRESSURE TOO LOW",
+      "HOT GAS LEAKS THROUGH INJECTOR",
+      "THRUST LOST AT 4 FT",
+      "ROCKET FALLS AND EXPLODES",
+      "BACKUP FAILS AT 57 s"
+    ],
+    "zaman": [
+      {
+        "t": "Dec 6, 1957",
+        "olay": "TV3 rises ~4 ft, loses thrust and explodes"
+      },
+      {
+        "t": "Feb 5, 1958",
+        "olay": "Backup rocket breaks up 57 s after launch"
+      },
+      {
+        "t": "Mar 17, 1958",
+        "olay": "Vanguard 1 reaches orbit — still there today"
+      }
+    ],
+    "yanilgi": "Vanguard wasn't a failed program: its third launch placed Vanguard 1 in orbit, and it is still the oldest human-made object in space.",
+    "tartisma": "The first launch was broadcast live after Sputnik raised the stakes. Should test flights ever happen in front of the world?",
+    "basliklar": [
+      "Flopnik: Why America's Answer to Sputnik Failed Twice",
+      "The Rocket That Rose Four Feet",
+      "Why Vanguard Exploded on the Pad",
+      "America's Most Public Rocket Failure"
+    ],
+    "kapak": [
+      "4 FEET",
+      "FLOPNIK",
+      "TWICE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Vanguard TV-3",
+        "url": "https://en.wikipedia.org/wiki/Vanguard_TV-3"
+      }
+    ]
+  }
+}

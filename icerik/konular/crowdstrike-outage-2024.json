@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "One Faulty Update Crashed Millions of Computers at Once",
+  "kaynaklar": [
+    {
+      "ad": "crowdstrike-outage-1.jpg",
+      "wikimedia": "CrowdStrike outage at Woolworths in Palmerston North.jpg"
+    },
+    {
+      "ad": "crowdstrike-outage-2.jpg",
+      "wikimedia": "Ngurah Rai Microsoft Outage 2024.jpg"
+    },
+    {
+      "ad": "crowdstrike-outage-3.jpg",
+      "wikimedia": "Carrfour self checkout affected by the 2024 CrowdStrike incident.jpg"
+    },
+    {
+      "ad": "crowdstrike-outage-4.png",
+      "wikimedia": "CrowdStrike blue screen of death.png"
+    },
+    {
+      "ad": "crowdstrike-outage-5.jpg",
+      "wikimedia": "CrowdStrike outage at ASB in Palmerston North.jpg"
+    },
+    {
+      "ad": "crowdstrike-outage-6.jpg",
+      "wikimedia": "CrowdStrike outage at Whitcoulls in Palmerston North.jpg"
+    },
+    {
+      "ad": "crowdstrike-outage-7.png",
+      "wikimedia": "Generali Česká pojišťovna during 2024 CrowdStrike incident.png"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "One morning, millions of Windows computers crashed at the same time.",
+      "kaynak": "Footage/crowdstrike-outage-1.jpg"
+    },
+    {
+      "metin": "Suddenly airlines, banks and hospitals around the world went dark.",
+      "kaynak": "Footage/crowdstrike-outage-2.jpg"
+    },
+    {
+      "metin": "A security company had pushed out a small configuration file.",
+      "kaynak": "Footage/crowdstrike-outage-3.jpg"
+    },
+    {
+      "metin": "Its software ran deep inside the operating system.",
+      "kaynak": "Footage/crowdstrike-outage-4.png"
+    },
+    {
+      "metin": "The file caused an out-of-bounds memory read.",
+      "kaynak": "Footage/crowdstrike-outage-5.jpg"
+    },
+    {
+      "metin": "About eight and a half million machines crashed and couldn't restart properly.",
+      "kaynak": "Footage/crowdstrike-outage-6.jpg"
+    },
+    {
+      "metin": "A fix came within hours, but many needed manual repair.",
+      "kaynak": "Footage/crowdstrike-outage-7.png"
+    },
+    {
+      "metin": "It pushed calls for staged rollouts and better testing.",
+      "kaynak": "Footage/crowdstrike-outage-1.jpg"
+    }
+  ],
+  "aciklama": "CrowdStrike crashed millions of Windows computers worldwide. The cause: an out-of-bounds memory read in kernel-level security software causing crashes on boot.\n\n#shorts #engineering #software",
+  "etiketler": [
+    "CrowdStrike",
+    "2024",
+    "software update",
+    "engineering failure"
+  ],
+  "hook": "One file crashed millions",
+  "soru": "How much power should security software have?",
+  "vaka": {
+    "kume": "software-and-control-failures",
+    "tip": "vaka",
+    "ad": "the CrowdStrike outage",
+    "kisa": "CrowdStrike",
+    "nesne": "Software update",
+    "yil": 2024,
+    "sonuc": "crashed millions of Windows computers worldwide",
+    "tetik": "a faulty configuration file pushed to every machine at once",
+    "mekanizma": "an out-of-bounds memory read in kernel-level security software causing crashes on boot",
+    "sayi": "8.5 MILLION",
+    "ders": "the outage pushed staged rollouts and better testing of security updates",
+    "zincir": [
+      "CONFIG FILE UPDATED",
+      "PUSHED TO ALL AT ONCE",
+      "KERNEL DRIVER READS OUT OF BOUNDS",
+      "MACHINES CRASH ON BOOT",
+      "MANUAL FIXES NEEDED"
+    ],
+    "zaman": [],
+    "yanilgi": "The fix came within hours. Many machines had to be repaired by hand, so outages lingered for days.",
+    "tartisma": "Security software runs deep inside the system. Should it be allowed that much power?",
+    "basliklar": [
+      "One Faulty Update Crashed Millions of Computers at Once",
+      "How One CrowdStrike Update Crashed the World",
+      "The File That Broke 8.5 Million Computers"
+    ],
+    "kapak": [
+      "ONE FILE",
+      "8.5 MILLION"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2024 CrowdStrike-related IT outages",
+        "url": "https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — delta flight cancellations dot investigation crowdstrike outage (cited by Wikipedia)",
+        "url": "https://www.washingtonpost.com/transportation/2024/07/23/delta-flight-cancellations-dot-investigation-crowdstrike-outage/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-18",
+    "wiki": "2024_CrowdStrike-related_IT_outages",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "CrowdStrike outage at Woolworths in Palmerston North.jpg [CC0]",
+      "Ngurah Rai Microsoft Outage 2024.jpg [CC BY 4.0]",
+      "Carrfour self checkout affected by the 2024 CrowdStrike incident.jpg [CC0]",
+      "CrowdStrike blue screen of death.png [Public domain]",
+      "CrowdStrike outage at ASB in Palmerston North.jpg [CC0]",
+      "CrowdStrike outage at Whitcoulls in Palmerston North.jpg [CC0]",
+      "Generali Česká pojišťovna during 2024 CrowdStrike incident.png [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,1107 @@
+{
+  "channel": "critical-thread",
+  "records": [
+    {
+      "slug": "what-quietly-depends-on-single-source-component-approval",
+      "topic": "The Chip Shortage That Cost Carmakers $210 Billion",
+      "coreQuestion": "How did a shortage of cheap chips stall car factories worldwide?",
+      "openingLine": "Why a chip shortage cost carmakers $210 billion.",
+      "secondBeat": "Cars need dozens of small microcontrollers each.",
+      "dependency": "Carmakers depend on microcontrollers qualified from a few approved suppliers.",
+      "mechanism": "Each chip is qualified for a specific car part; switching suppliers takes long testing and approval.",
+      "bottleneck": "One supplier held about 30% of the automotive microcontroller market.",
+      "failureConsequence": "When a key fab burned and demand shifted, car lines stopped for missing chips.",
+      "resilience": "Dual sourcing and larger chip stockpiles became priorities.",
+      "expectedConsequence": "finished cars sat waiting for a few dollars of chips",
+      "number": "$210 billion",
+      "thumbnailText": "$210B CHIP SHORTAGE",
+      "visualScenes": [
+        "unfinished cars parked waiting for chips",
+        "microcontroller on a circuit board",
+        "fab cleanroom fire aftermath",
+        "lead time chart rising to 22 weeks",
+        "supplier qualification diagram",
+        "car price increase graphic"
+      ],
+      "editorialTitles": [
+        "How a Chip Shortage Stalled the Car Industry",
+        "Why Carmakers Can't Just Switch Chip Suppliers"
+      ],
+      "facts": [
+        {
+          "claim": "The chip shortage was expected to cost the global automotive industry US$210 billion in revenue in 2021.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2020–2023 global chip shortage",
+          "url": "https://en.wikipedia.org/wiki/2020–2023_global_chip_shortage"
+        },
+        {
+          "claim": "Another Japanese factory owned by Renesas Electronics, which supplies 30% of the global market for microcontroller units used in cars, caught fire in March 2021.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2020–2023 global chip shortage",
+          "url": "https://en.wikipedia.org/wiki/2020–2023_global_chip_shortage"
+        },
+        {
+          "claim": "Lead times had extended to 22.2 weeks, up from 12.2 weeks in February 2020.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2020–2023 global chip shortage",
+          "url": "https://en.wikipedia.org/wiki/2020–2023_global_chip_shortage"
+        },
+        {
+          "claim": "The price of some cars increased as much as 10% in Q1.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2020–2023 global chip shortage",
+          "url": "https://en.wikipedia.org/wiki/2020–2023_global_chip_shortage"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a chip shortage cost carmakers $210 billion.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Cars need dozens of small microcontrollers each.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Renesas alone supplied 30% of automotive microcontrollers.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "In March 2021, one of its factories caught fire.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Chip lead times stretched to 22.2 weeks.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Every chip must be requalified before a new supplier can step in.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why a few-dollar part can stop a car factory.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-contract-manufacturing-network",
+      "topic": "The Floods That Caused a Global Hard Drive Shortage",
+      "coreQuestion": "How did floods in Thailand make hard drives scarce around the world?",
+      "openingLine": "Why floods in Thailand emptied hard drive shelves.",
+      "secondBeat": "In 2011, water swamped 930 factories in 28 provinces.",
+      "dependency": "Electronics makers depend on contract factories clustered in a few industrial estates.",
+      "mechanism": "Suppliers concentrate in industrial parks near each other to cut costs and lead times.",
+      "bottleneck": "Many component makers shared the same flood-prone estates.",
+      "failureConsequence": "Floodwaters shut hundreds of factories at once.",
+      "resilience": "Firms later spread production across more locations.",
+      "expectedConsequence": "global prices jump for products that depend on those parts",
+      "number": "930 factories",
+      "thumbnailText": "930 FACTORIES FLOODED",
+      "visualScenes": [
+        "flooded industrial estate",
+        "hard drive assembly line",
+        "factory cluster map near Bangkok",
+        "hard drive price chart",
+        "car assembly slowdown",
+        "supplier diversification map"
+      ],
+      "editorialTitles": [
+        "The Flood That Emptied Hard Drive Shelves",
+        "Why Factory Clusters Are a Hidden Risk"
+      ],
+      "facts": [
+        {
+          "claim": "A large part of the damage stemmed from the effect on the manufacturing industry, with 930 factories in 28 provinces affected.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Thailand floods",
+          "url": "https://en.wikipedia.org/wiki/2011_Thailand_floods"
+        },
+        {
+          "claim": "Seven major industrial estates were inundated in water as much as 3 meters (9.8 feet) deep during the floods.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Thailand floods",
+          "url": "https://en.wikipedia.org/wiki/2011_Thailand_floods"
+        },
+        {
+          "claim": "Disruptions to manufacturing supply chains affected regional automobile production and caused a global shortage of hard disk drives which lasted throughout 2012.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Thailand floods",
+          "url": "https://en.wikipedia.org/wiki/2011_Thailand_floods"
+        },
+        {
+          "claim": "The World Bank has estimated 1.425 trillion baht (US$46.5 billion) in economic losses due to flooding, as of 1 December 2011.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Thailand floods",
+          "url": "https://en.wikipedia.org/wiki/2011_Thailand_floods"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why floods in Thailand emptied hard drive shelves.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2011, water swamped 930 factories in 28 provinces.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Seven major industrial estates flooded up to 3 metres deep.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "A global hard drive shortage lasted through 2012.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Economic losses reached about $46.5 billion.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Suppliers had clustered in the same low-lying parks.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why efficient clusters can become single points of failure.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-export-licensing-process",
+      "topic": "The 42 Countries Deciding Who Gets Dual-Use Tech",
+      "coreQuestion": "Who decides which sensitive technologies can be exported, and how?",
+      "openingLine": "Why 42 countries vet each other's tech exports.",
+      "secondBeat": "The Wassenaar Arrangement began in 1996.",
+      "dependency": "Exporters of chips, sensors and machine tools depend on licences governed by shared control lists.",
+      "mechanism": "Participating states agree lists of dual-use goods and require licences to export them.",
+      "bottleneck": "Licences can delay or block shipments of critical technology.",
+      "failureConsequence": "Tightened controls cut off buyers from key equipment overnight.",
+      "resilience": "Companies plan around control lists and seek licences early.",
+      "expectedConsequence": "shipments stall awaiting approval",
+      "number": "42 states",
+      "thumbnailText": "42 GATEKEEPERS",
+      "visualScenes": [
+        "export licence document",
+        "map of participating states",
+        "dual-use chip and sensor",
+        "Cold War CoCom archive",
+        "customs hold on a shipment",
+        "control list binder"
+      ],
+      "editorialTitles": [
+        "The Agreement Controlling Sensitive Exports",
+        "Why Some Machines Need Permission to Ship"
+      ],
+      "facts": [
+        {
+          "claim": "It was established on 12 July 1996 in Wassenaar, Netherlands, as the successor to the Cold War–era Coordinating Committee for Multilateral Export Controls (CoCom).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wassenaar Arrangement",
+          "url": "https://en.wikipedia.org/wiki/Wassenaar_Arrangement"
+        },
+        {
+          "claim": "There are 42 participating states, including many former Comecon (Warsaw Pact) countries such as Russia.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wassenaar Arrangement",
+          "url": "https://en.wikipedia.org/wiki/Wassenaar_Arrangement"
+        },
+        {
+          "claim": "India joined as the 42nd participating state on 7 December 2017.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wassenaar Arrangement",
+          "url": "https://en.wikipedia.org/wiki/Wassenaar_Arrangement"
+        },
+        {
+          "claim": "CoCom restricted certain goods to the Eastern Bloc.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Wassenaar Arrangement",
+          "url": "https://en.wikipedia.org/wiki/Wassenaar_Arrangement"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 42 countries vet each other's tech exports.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The Wassenaar Arrangement began in 1996.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It replaced a Cold War system that blocked the Eastern Bloc.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "India became the 42nd member in 2017.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Members agree lists of dual-use goods that need licences.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "A new listing can halt shipments of chips or tools overnight.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why paperwork shapes the global tech supply chain.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-food-safety-management-standard",
+      "topic": "The Sprouts That Sickened 3,950 People",
+      "coreQuestion": "How did contaminated sprouts cause one of Europe's deadliest E. coli outbreaks?",
+      "openingLine": "Why contaminated sprouts sickened 3,950 people.",
+      "secondBeat": "An E. coli strain spread through Germany and beyond.",
+      "dependency": "Food safety depends on traceability systems that find a contaminated source fast.",
+      "mechanism": "Investigators trace cases back through supply chains to a common food and producer.",
+      "bottleneck": "Early suspicion fell on the wrong foods, delaying the real source.",
+      "failureConsequence": "Cases spread for weeks before sprouts were identified.",
+      "resilience": "Traceability rules and faster outbreak investigation were strengthened.",
+      "expectedConsequence": "wrong blame devastates innocent producers while cases continue",
+      "number": "3,950 cases",
+      "thumbnailText": "SPROUTS OUTBREAK",
+      "visualScenes": [
+        "bean sprouts in a market",
+        "outbreak case chart",
+        "trace-back diagram through suppliers",
+        "hospital kidney care",
+        "cucumbers dumped by farmers",
+        "lab culturing bacteria"
+      ],
+      "editorialTitles": [
+        "The Outbreak Hidden in Sprouts",
+        "Why Food Traceability Saves Lives"
+      ],
+      "facts": [
+        {
+          "claim": "In all, 3,950 people were affected and 53 died, 51 of whom were in Germany.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Germany E. coli O104:H4 outbreak",
+          "url": "https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak"
+        },
+        {
+          "claim": "800 people suffered hemolytic–uremic syndrome (HUS), which can lead to kidney failure.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Germany E. coli O104:H4 outbreak",
+          "url": "https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak"
+        },
+        {
+          "claim": "Over 100 cases of EHEC gastroenteritis and/or HUS were being reported each day by 16 May.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Germany E. coli O104:H4 outbreak",
+          "url": "https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak"
+        },
+        {
+          "claim": "In the five years before the outbreak Germany experienced an average of 218 cases of EHEC gastroenteritis and 13 cases of hemolytic–uremic syndrome each year.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — 2011 Germany E. coli O104:H4 outbreak",
+          "url": "https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why contaminated sprouts sickened 3,950 people.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "An E. coli strain spread through Germany and beyond.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "53 people died, and 800 suffered kidney complications.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "By mid-May, over 100 new cases arrived each day.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Normally, Germany saw about 13 such kidney cases a year.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Tracing the source through supply chains took weeks.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why food safety depends on knowing where food came from.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-medical-device-quality-standard-becomes-the-bottleneck",
+      "topic": "The Implants Filled With Industrial Silicone",
+      "coreQuestion": "How did breast implants made with unapproved silicone reach patients in many countries?",
+      "openingLine": "Why 25,000 British patients got unapproved implants.",
+      "secondBeat": "From 2001, PIP used industrial-grade silicone.",
+      "dependency": "Patients depend on device quality systems and audits to ensure implants match approved designs.",
+      "mechanism": "Manufacturers certify materials and processes; auditors check they're followed.",
+      "bottleneck": "Audits missed a manufacturer secretly swapping in unapproved material.",
+      "failureConsequence": "High rupture rates exposed the fraud years later.",
+      "resilience": "Unannounced audits and tighter device regulation followed in Europe.",
+      "expectedConsequence": "mass recalls and removals of implants",
+      "number": "25,000 UK patients",
+      "thumbnailText": "INDUSTRIAL SILICONE",
+      "visualScenes": [
+        "breast implant samples",
+        "medical versus industrial silicone comparison",
+        "audit paperwork",
+        "export map to many countries",
+        "recall announcement 2010",
+        "surgeons reviewing ruptures"
+      ],
+      "editorialTitles": [
+        "The Implant Scandal That Exposed Weak Audits",
+        "Why Medical Devices Need Surprise Inspections"
+      ],
+      "facts": [
+        {
+          "claim": "Poly Implant Prothèse (PIP) was a French company founded in 1991 that produced silicone gel breast implants.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Poly Implant Prothèse",
+          "url": "https://en.wikipedia.org/wiki/Poly_Implant_Prothèse"
+        },
+        {
+          "claim": "2001: PIP began to use unapproved in-house manufactured industrial-grade instead of medical grade silicone in the majority of its implants.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Poly Implant Prothèse",
+          "url": "https://en.wikipedia.org/wiki/Poly_Implant_Prothèse"
+        },
+        {
+          "claim": "The implants were exported to Latin American countries, Western European markets including Britain (25,000), Germany, Spain and Italy, as well as Australia (8900).",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Poly Implant Prothèse",
+          "url": "https://en.wikipedia.org/wiki/Poly_Implant_Prothèse"
+        },
+        {
+          "claim": "The scandal prompted a full recall of the company's implants by the French health ministry in 2010.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Poly Implant Prothèse",
+          "url": "https://en.wikipedia.org/wiki/Poly_Implant_Prothèse"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 25,000 British patients got unapproved implants.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "From 2001, PIP used industrial-grade silicone.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It swapped materials in most of its breast implants.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Australia received about 8,900 of them too.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "The company had been making implants since 1991.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Audits checked paperwork, not what was actually inside.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "France recalled the implants in 2010.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why device safety depends on surprise inspections.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-clinical-laboratory-analyzer",
+      "topic": "The Blood-Testing Startup Worth $9 Billion",
+      "coreQuestion": "How did a blood-testing company reach a $9 billion valuation without working technology?",
+      "openingLine": "Why a blood-test startup hit $9 billion.",
+      "secondBeat": "Theranos raised more than $700 million from investors.",
+      "dependency": "Medical decisions depend on clinical lab analyzers that are validated and regulated.",
+      "mechanism": "Lab tests must be accurate and reproducible, verified by inspection and proficiency testing.",
+      "bottleneck": "Investors relied on claims instead of independent validation.",
+      "failureConsequence": "Unreliable results reached patients before regulators intervened.",
+      "resilience": "Lab regulation and inspections eventually exposed the failures.",
+      "expectedConsequence": "patients receive wrong results and the company collapses",
+      "number": "$9 billion",
+      "thumbnailText": "$9B BLOOD TEST",
+      "visualScenes": [
+        "finger-prick blood sample",
+        "lab analyzer machines",
+        "valuation chart rising and collapsing",
+        "regulator inspection report",
+        "courtroom sketch",
+        "validated versus unvalidated test diagram"
+      ],
+      "editorialTitles": [
+        "The Blood Test That Fooled Investors",
+        "Why Lab Machines Need Independent Proof"
+      ],
+      "facts": [
+        {
+          "claim": "Founded in 2003 by then–19-year-old Elizabeth Holmes, Theranos raised more than US$700 million, resulting in a $9 billion valuation at its peak in 2013 and 2014.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Theranos",
+          "url": "https://en.wikipedia.org/wiki/Theranos"
+        },
+        {
+          "claim": "By June 2016, Forbes estimated that Holmes' personal net worth had dropped from $4.5 billion to nothing.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Theranos",
+          "url": "https://en.wikipedia.org/wiki/Theranos"
+        },
+        {
+          "claim": "After several years of struggle, lawsuits, and sanctions from CMS, what remained of the company was dissolved in September 2018.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Theranos",
+          "url": "https://en.wikipedia.org/wiki/Theranos"
+        },
+        {
+          "claim": "Theranos, Holmes, and former company president Sunny Balwani were charged with fraud by the SEC in 2018.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Theranos",
+          "url": "https://en.wikipedia.org/wiki/Theranos"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why a blood-test startup hit $9 billion.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Theranos raised more than $700 million from investors.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Doctors act on lab results as if they're exact.",
+          "layer": "MODEL",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its machines were never independently proven.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Regulators imposed sanctions, and it dissolved in 2018.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "The SEC charged its leaders with fraud that year.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why lab machines need proof before patients.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-optical-interferometer-is-so-hard-to-replace",
+      "topic": "The Instrument Measuring Less Than a Proton",
+      "coreQuestion": "How can mirrors 4 kilometres apart detect a ripple smaller than a proton?",
+      "openingLine": "Why 4-kilometre arms measure less than a proton.",
+      "secondBeat": "LIGO bounces lasers along two long vacuum arms.",
+      "dependency": "Gravitational-wave astronomy depends on laser interferometers of extraordinary precision.",
+      "mechanism": "Laser light bounces along two long arms; a passing wave changes their lengths by a tiny amount.",
+      "bottleneck": "Only a handful of such detectors exist, each a decade-scale project.",
+      "failureConsequence": "Losing one detector reduces the ability to locate sources in the sky.",
+      "resilience": "Detectors in the U.S., Italy and Japan cross-check each other.",
+      "expectedConsequence": "fewer detections and poorer sky localisation",
+      "number": "4 km arms",
+      "thumbnailText": "SMALLER THAN PROTON",
+      "visualScenes": [
+        "L-shaped observatory from above",
+        "laser interferometer diagram",
+        "mirror suspension system",
+        "gravitational wave signal",
+        "world map of detectors",
+        "vacuum tube inside an arm"
+      ],
+      "editorialTitles": [
+        "The Most Precise Ruler Ever Built",
+        "How LIGO Hears Colliding Black Holes"
+      ],
+      "facts": [
+        {
+          "claim": "The two LIGO observatories use mirrors spaced 4 kilometres apart to measure changes in length, over an effective span of 1,120 kilometres, of less than one ten-thousandth the charge diameter of a proton.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — LIGO",
+          "url": "https://en.wikipedia.org/wiki/LIGO"
+        },
+        {
+          "claim": "The first run, O1, which ran from September 12, 2015, to January 19, 2016, made the first three detections, all black hole mergers.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — LIGO",
+          "url": "https://en.wikipedia.org/wiki/LIGO"
+        },
+        {
+          "claim": "In mid-September 2015, the world's largest gravitational-wave facility completed a five-year US$200-million overhaul, bringing the total cost to $620 million.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — LIGO",
+          "url": "https://en.wikipedia.org/wiki/LIGO"
+        },
+        {
+          "claim": "Virgo in Italy and KAGRA in Japan both use interferometer arms 3 kilometres long.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — LIGO",
+          "url": "https://en.wikipedia.org/wiki/LIGO"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 4-kilometre arms measure less than a proton.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "LIGO bounces lasers along two long vacuum arms.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The light travels an effective 1,120 kilometres.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It senses changes under a ten-thousandth of a proton.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Its first run in 2015 caught three black hole mergers.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "The facility's total cost reached $620 million.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Italy's Virgo and Japan's KAGRA use 3-kilometre arms.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "That's why a few giant rulers opened a new window on the universe.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-system-built-around-single-crystal-growth-furnace",
+      "topic": "The Crystals Behind 90% of Chips",
+      "coreQuestion": "How is almost every chip's silicon grown as a single crystal?",
+      "openingLine": "Why 90% of chips start as one crystal.",
+      "secondBeat": "Silicon is pulled slowly from a molten bath.",
+      "dependency": "Semiconductor devices depend on ultra-pure single-crystal silicon ingots.",
+      "mechanism": "A seed crystal is slowly pulled and rotated from molten silicon, growing one continuous crystal.",
+      "bottleneck": "Ingot growth is slow, precise and concentrated among a few wafer makers.",
+      "failureConsequence": "Defects in the crystal ruin every chip cut from that ingot.",
+      "resilience": "Multiple wafer suppliers and inventory buffer short disruptions.",
+      "expectedConsequence": "wafer shortages ripple into chip output",
+      "number": "90%",
+      "thumbnailText": "90% OF CHIPS",
+      "visualScenes": [
+        "crystal ingot being pulled from melt",
+        "Czochralski puller diagram",
+        "ingot 2 metres long",
+        "wafer slicing",
+        "300 mm wafer in a cleanroom",
+        "defect inspection"
+      ],
+      "editorialTitles": [
+        "The Giant Crystal Inside Every Chip",
+        "How Silicon Ingots Are Grown"
+      ],
+      "facts": [
+        {
+          "claim": "Roughly 90% of all modern-day semiconductor devices use material derived from this method.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Czochralski method",
+          "url": "https://en.wikipedia.org/wiki/Czochralski_method"
+        },
+        {
+          "claim": "With advanced technology, high-end device manufacturers use 200 mm and 300 mm diameter wafers.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Czochralski method",
+          "url": "https://en.wikipedia.org/wiki/Czochralski_method"
+        },
+        {
+          "claim": "The crystal ingots from which wafers are sliced can be up to 2 metres in length, weighing several hundred kilograms.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Czochralski method",
+          "url": "https://en.wikipedia.org/wiki/Czochralski_method"
+        },
+        {
+          "claim": "The next step up, 450 mm, was scheduled for introduction in 2018 but was stopped in 2016.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Czochralski method",
+          "url": "https://en.wikipedia.org/wiki/Czochralski_method"
+        },
+        {
+          "claim": "Silicon wafers are typically about 0.2–0.75 mm thick.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Czochralski method",
+          "url": "https://en.wikipedia.org/wiki/Czochralski_method"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 90% of chips start as one crystal.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "Silicon is pulled slowly from a molten bath.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Ingots can reach 2 metres long, weighing hundreds of kilograms.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "They're sliced into 300-millimetre wafers.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "A move to 450 millimetres was stopped in 2016.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "A crystal defect ruins every chip cut from it.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why the chip age still depends on growing crystals.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-quietly-depends-on-radiation-hardened-flight-computer",
+      "topic": "The Space Computer Built to Survive Radiation",
+      "coreQuestion": "Why do spacecraft use slow, expensive computers instead of the latest chips?",
+      "openingLine": "Why space computers run at just 200 MHz.",
+      "secondBeat": "The RAD750 was released in 2001 for spacecraft.",
+      "dependency": "Satellites and planetary missions depend on computers that survive radiation for years.",
+      "mechanism": "Radiation-hardened chips are designed and tested to resist upsets and damage from particles.",
+      "bottleneck": "Few such processors exist, and each takes years to qualify.",
+      "failureConsequence": "A radiation upset can crash a spacecraft's only computer.",
+      "resilience": "Redundant computers and safe modes protect missions.",
+      "expectedConsequence": "missions fly decades-old processor designs",
+      "number": "10,000 grays",
+      "thumbnailText": "BUILT FOR RADIATION",
+      "visualScenes": [
+        "circuit board in a spacecraft",
+        "radiation particles hitting a chip",
+        "clock speed comparison with a phone",
+        "temperature range graphic",
+        "Mars rover",
+        "redundant computer diagram"
+      ],
+      "editorialTitles": [
+        "Why Spacecraft Use Slow Computers",
+        "The Computer That Survives Radiation"
+      ],
+      "facts": [
+        {
+          "claim": "The RAD750 is a radiation-hardened single-board computer manufactured by BAE Systems.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — RAD750",
+          "url": "https://en.wikipedia.org/wiki/RAD750"
+        },
+        {
+          "claim": "The RAD750 was released in 2001, with the first units launched into space in 2005.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — RAD750",
+          "url": "https://en.wikipedia.org/wiki/RAD750"
+        },
+        {
+          "claim": "It has a core clock of 110 to 200 MHz and can process at 266 MIPS or more.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — RAD750",
+          "url": "https://en.wikipedia.org/wiki/RAD750"
+        },
+        {
+          "claim": "The CPU can withstand an absorbed radiation dose of 2,000 to 10,000 grays, temperatures between −55 °C and 125 °C, and requires 5 watts of power.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — RAD750",
+          "url": "https://en.wikipedia.org/wiki/RAD750"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why space computers run at just 200 MHz.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "The RAD750 was released in 2001 for spacecraft.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "It survives 2,000 to 10,000 grays of radiation.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "It works from −55 to 125 °C on 5 watts.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Few processors can be qualified to that level.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "One radiation upset can crash an unprotected computer.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why reliability beats speed beyond Earth.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "why-freight-car-roller-bearing-is-so-hard-to-replace",
+      "topic": "The Overheated Bearing Behind a Toxic Derailment",
+      "coreQuestion": "How did one overheating wheel bearing derail a train carrying hazardous materials?",
+      "openingLine": "Why one hot bearing derailed 38 cars.",
+      "secondBeat": "In 2023, a train carrying hazardous materials crashed in Ohio.",
+      "dependency": "Freight rail safety depends on bearings running cool and on detectors catching those that don't.",
+      "mechanism": "Trackside hotbox detectors measure bearing temperature and alert crews to stop.",
+      "bottleneck": "Detectors are spaced miles apart, leaving gaps for a failing bearing.",
+      "failureConsequence": "A bearing overheated and failed, derailing 38 cars.",
+      "resilience": "More detectors and acoustic bearing monitoring have been proposed.",
+      "expectedConsequence": "hazardous cargo spills and a town evacuates",
+      "number": "38 cars",
+      "thumbnailText": "ONE HOT BEARING",
+      "visualScenes": [
+        "derailed tanker cars",
+        "wheel bearing cutaway",
+        "trackside hotbox detector",
+        "detector spacing map",
+        "evacuation zone map",
+        "acoustic bearing detector"
+      ],
+      "editorialTitles": [
+        "The Wheel Bearing That Derailed East Palestine",
+        "Why Rail Safety Depends on Bearing Detectors"
+      ],
+      "facts": [
+        {
+          "claim": "The train was carrying hazardous materials when 38 cars derailed.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — East Palestine, Ohio, train derailment",
+          "url": "https://en.wikipedia.org/wiki/East_Palestine,_Ohio,_train_derailment"
+        },
+        {
+          "claim": "The NTSB preliminary report, released on February 13, noted that an overheated wheel bearing had likely caused the derailment.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — East Palestine, Ohio, train derailment",
+          "url": "https://en.wikipedia.org/wiki/East_Palestine,_Ohio,_train_derailment"
+        },
+        {
+          "claim": "The Washington Post reported that there are about 6,000 hotbox detectors spaced every 15 to 30 miles across North American railways.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — East Palestine, Ohio, train derailment",
+          "url": "https://en.wikipedia.org/wiki/East_Palestine,_Ohio,_train_derailment"
+        },
+        {
+          "claim": "Residents within a 1-mile (1.6-kilometer) radius were evacuated.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — East Palestine, Ohio, train derailment",
+          "url": "https://en.wikipedia.org/wiki/East_Palestine,_Ohio,_train_derailment"
+        },
+        {
+          "claim": "On February 3, 2023, at 8:55 p.m., the derailment occurred.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — East Palestine, Ohio, train derailment",
+          "url": "https://en.wikipedia.org/wiki/East_Palestine,_Ohio,_train_derailment"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why one hot bearing derailed 38 cars.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2023, a train carrying hazardous materials crashed in Ohio.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Investigators pointed to an overheated wheel bearing.",
+          "layer": "VERIFIED FACT",
+          "role": "FAILURE"
+        },
+        {
+          "text": "North America has about 6,000 hotbox detectors.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "They're spaced every 15 to 30 miles.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "A bearing can fail between two checkpoints.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "That's why rail safety depends on how often we look.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "when-seed-breeding-program-becomes-the-bottleneck",
+      "topic": "The Wheat That Doubled Harvests in Five Years",
+      "coreQuestion": "How did new wheat varieties nearly double harvests in India and Pakistan?",
+      "openingLine": "Why wheat yields nearly doubled in 5 years.",
+      "secondBeat": "From 1965 to 1970, it happened in India and Pakistan.",
+      "dependency": "Food supply depends on breeding programmes that deliver higher-yielding, disease-resistant seed.",
+      "mechanism": "Breeders cross varieties for yield and resistance, then pair them with fertilizer and irrigation.",
+      "bottleneck": "New varieties take years to breed and must be multiplied and distributed.",
+      "failureConsequence": "Without new resistant seed, yields stall and diseases spread.",
+      "resilience": "International breeding centres share seed and data.",
+      "expectedConsequence": "harvests fall behind population growth",
+      "number": "doubled in 5 years",
+      "thumbnailText": "HARVESTS DOUBLED",
+      "visualScenes": [
+        "dwarf wheat field",
+        "wheat breeding plots",
+        "yield chart for India and Pakistan",
+        "Mexican wheat export 1963",
+        "Nobel Prize 1970",
+        "seed distribution trucks"
+      ],
+      "editorialTitles": [
+        "The Wheat That Changed Asia's Harvests",
+        "Why Seed Breeding Feeds the World"
+      ],
+      "facts": [
+        {
+          "claim": "Between 1965 and 1970, wheat yields nearly doubled in Pakistan and India, greatly improving the food security in those nations.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Norman Borlaug",
+          "url": "https://en.wikipedia.org/wiki/Norman_Borlaug"
+        },
+        {
+          "claim": "As a result, Mexico became a net exporter of wheat by 1963.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Norman Borlaug",
+          "url": "https://en.wikipedia.org/wiki/Norman_Borlaug"
+        },
+        {
+          "claim": "He was awarded the 1970 Nobel Peace Prize in recognition of his contributions to world peace through increasing food supply.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Norman Borlaug",
+          "url": "https://en.wikipedia.org/wiki/Norman_Borlaug"
+        },
+        {
+          "claim": "In 2009, Josette Sheeran, then the Executive Director of the World Food Programme, stated that Borlaug saved more lives than any man in human history.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Norman Borlaug",
+          "url": "https://en.wikipedia.org/wiki/Norman_Borlaug"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why wheat yields nearly doubled in 5 years.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "From 1965 to 1970, it happened in India and Pakistan.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Norman Borlaug's high-yield wheat made it possible.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "Mexico had become a net wheat exporter by 1963.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "He won the 1970 Nobel Peace Prize for it.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Each new variety takes years to breed and spread.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why the food supply depends on patient plant breeders.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "the-critical-role-of-tantalum-capacitor-powder-plant",
+      "topic": "The Metal in Your Phone From Central Africa",
+      "coreQuestion": "Why does the tantalum in phones and pacemakers trace back to Central Africa?",
+      "openingLine": "Why 50% of tantalum came from Rwanda.",
+      "secondBeat": "In 2016, Rwanda produced half the world's supply.",
+      "dependency": "Compact capacitors in phones, pacemakers and car electronics depend on tantalum from coltan ore.",
+      "mechanism": "Coltan is mined, refined into tantalum powder and pressed into tiny high-capacity capacitors.",
+      "bottleneck": "Supply is concentrated in a few Central African countries.",
+      "failureConsequence": "Conflict and smuggling disrupt supply and taint sourcing.",
+      "resilience": "Due-diligence rules and certified smelters aim to clean up supply.",
+      "expectedConsequence": "electronics makers face supply and ethics risks",
+      "number": "50%",
+      "thumbnailText": "CONFLICT METAL",
+      "visualScenes": [
+        "coltan ore in a miner's hand",
+        "tantalum capacitor on a circuit board",
+        "map of Central African mines",
+        "production share chart",
+        "pacemaker X-ray",
+        "smelter certification audit"
+      ],
+      "editorialTitles": [
+        "The Conflict Metal Inside Your Phone",
+        "Why Tantalum Supply Is So Fragile"
+      ],
+      "facts": [
+        {
+          "claim": "In 2016, Rwanda accounted for 50% of global tantalum production.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Coltan",
+          "url": "https://en.wikipedia.org/wiki/Coltan"
+        },
+        {
+          "claim": "In 2009, Rwanda had 9% of the world's tantalum production.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Coltan",
+          "url": "https://en.wikipedia.org/wiki/Coltan"
+        },
+        {
+          "claim": "Tantalum is used in capacitors for small electronic devices such as hearing aids, pacemakers, and MP3 players, as well as in computer hard drives and automobile electronics.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Coltan",
+          "url": "https://en.wikipedia.org/wiki/Coltan"
+        },
+        {
+          "claim": "A Rwandan official said that Canada had 4% of global production in 2009; but in rock so hard that the ore is too expensive to extract.",
+          "layer": "VERIFIED FACT",
+          "source": "Wikipedia — Coltan",
+          "url": "https://en.wikipedia.org/wiki/Coltan"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Why 50% of tantalum came from Rwanda.",
+          "layer": "VERIFIED FACT",
+          "role": "HIDDEN_SYSTEM"
+        },
+        {
+          "text": "In 2016, Rwanda produced half the world's supply.",
+          "layer": "VERIFIED FACT",
+          "role": "WHY_IT_MATTERS"
+        },
+        {
+          "text": "Tantalum capacitors sit in phones and pacemakers.",
+          "layer": "VERIFIED FACT",
+          "role": "WHAT_DEPENDS_ON_IT"
+        },
+        {
+          "text": "In 2009, Rwanda's share was only 9%.",
+          "layer": "VERIFIED FACT",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "Much of the region's ore has been linked to conflict and smuggling.",
+          "layer": "MODEL",
+          "role": "FAILURE"
+        },
+        {
+          "text": "Few other sources are cheap enough to mine.",
+          "layer": "MODEL",
+          "role": "BOTTLENECK"
+        },
+        {
+          "text": "That's why your phone's parts carry a geopolitical story.",
+          "layer": "MODEL",
+          "role": "PAYOFF"
+        }
+      ]
+    }
+  ]
+}

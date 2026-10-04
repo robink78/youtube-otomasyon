@@ -1,0 +1,122 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Mine Fire That Filled the Tunnels With Carbon Monoxide",
+  "kaynaklar": [
+    {
+      "ad": "soma-mine-1.jpg",
+      "wikimedia": "Soma mine disaster1.JPG"
+    },
+    {
+      "ad": "soma-mine-2.jpg",
+      "wikimedia": "Soma mine disaster12.JPG"
+    },
+    {
+      "ad": "soma-mine-3.jpg",
+      "wikimedia": "Konak Ferry Terminal, October 2015 (1).jpg"
+    },
+    {
+      "ad": "soma-mine-4.jpg",
+      "wikimedia": "Konak Ferry Terminal, October 2015 (2).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A fire broke out deep inside a coal mine in Soma, Turkey.",
+      "kaynak": "Footage/soma-mine-1.jpg"
+    },
+    {
+      "metin": "Toxic gas spread through the tunnels, and three hundred one miners died.",
+      "kaynak": "Footage/soma-mine-2.jpg"
+    },
+    {
+      "metin": "Most weren't killed by flames.",
+      "kaynak": "Footage/soma-mine-3.jpg"
+    },
+    {
+      "metin": "The fire produced carbon monoxide.",
+      "kaynak": "Footage/soma-mine-4.jpg"
+    },
+    {
+      "metin": "The ventilation system carried it through the mine.",
+      "kaynak": "Footage/soma-mine-1.jpg"
+    },
+    {
+      "metin": "Many miners couldn't reach safety in time.",
+      "kaynak": "Footage/soma-mine-2.jpg"
+    },
+    {
+      "metin": "It was the deadliest mining disaster in Turkey's history.",
+      "kaynak": "Footage/soma-mine-3.jpg"
+    },
+    {
+      "metin": "Mining safety rules were tightened afterward.",
+      "kaynak": "Footage/soma-mine-4.jpg"
+    }
+  ],
+  "aciklama": "Soma caught fire, filling its tunnels with toxic gas. The cause: mine fire producing carbon monoxide that spread through the ventilation network.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Soma",
+    "2014",
+    "coal mine",
+    "engineering failure"
+  ],
+  "hook": "The gas killed them",
+  "soru": "What should every miner carry?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Soma coal mine",
+    "kisa": "Soma",
+    "nesne": "Coal mine",
+    "yil": 2014,
+    "sonuc": "caught fire, filling its tunnels with toxic gas",
+    "tetik": "an underground fire spreading carbon monoxide",
+    "mekanizma": "mine fire producing carbon monoxide that spread through the ventilation network",
+    "sayi": "301 MINERS",
+    "ders": "Turkey tightened mining safety regulations",
+    "zincir": [
+      "FIRE UNDERGROUND",
+      "CARBON MONOXIDE FORMS",
+      "VENTILATION CARRIES IT",
+      "TOO FEW REFUGE OPTIONS",
+      "MINERS OVERCOME"
+    ],
+    "zaman": [],
+    "yanilgi": "Most miners weren't killed by flames. They were overcome by carbon monoxide carried through the tunnels.",
+    "tartisma": "Many victims lacked adequate escape equipment. What is the minimum a miner should carry?",
+    "basliklar": [
+      "The Mine Fire That Filled the Tunnels With Carbon Monoxide",
+      "Why the Soma Mine Disaster Happened",
+      "The Gas That Spread Through the Tunnels"
+    ],
+    "kapak": [
+      "TOXIC GAS",
+      "301 MINERS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Soma mine disaster",
+        "url": "https://en.wikipedia.org/wiki/Soma_mine_disaster"
+      },
+      {
+        "ad": "Government source — HsvNg+TKI 2012yillikfaaliyetraporu (cited by Wikipedia)",
+        "url": "http://www.sp.gov.tr/upload/xSPRapor/files/HsvNg+TKI_2012yillikfaaliyetraporu.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-07",
+    "wiki": "Soma_mine_disaster",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Soma mine disaster1.JPG [CC BY 3.0]",
+      "Soma mine disaster12.JPG [CC BY 3.0]",
+      "Konak Ferry Terminal, October 2015 (1).jpg [CC0]",
+      "Konak Ferry Terminal, October 2015 (2).jpg [CC0]"
+    ]
+  }
+}

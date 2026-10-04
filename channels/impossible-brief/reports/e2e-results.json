@@ -1,0 +1,241 @@
+{
+  "channel": "impossible-brief",
+  "dryRun": true,
+  "uploadAttempted": false,
+  "rendered": true,
+  "generatedAt": "2026-09-27T15:45:59.418Z",
+  "pass": true,
+  "results": [
+    {
+      "topicId": "IB-SPA-001",
+      "slug": "what-if-the-moon-disappeared-tonight",
+      "category": "SPACE",
+      "outputDirectory": "channels/impossible-brief/reports/dry-runs/what-if-the-moon-disappeared-tonight",
+      "qualityGate": {
+        "decision": "PUBLISH",
+        "blockers": [],
+        "checked": [
+          "science",
+          "hook",
+          "clarity",
+          "retention",
+          "visuals",
+          "novelty",
+          "sources",
+          "confidence",
+          "titles",
+          "thumbnail",
+          "repetition",
+          "metadata"
+        ]
+      },
+      "render": {
+        "requested": true,
+        "completed": true,
+        "audio": {
+          "file": "channels/impossible-brief/reports/dry-runs/what-if-the-moon-disappeared-tonight/narration.m4a",
+          "provider": "macOS say dry-run voice (claim-timed)",
+          "syntheticVoice": true,
+          "claimDurations": [
+            1.329,
+            1.879,
+            5.879,
+            7.101,
+            3.515
+          ],
+          "durationSeconds": 19.784,
+          "width": null,
+          "height": null,
+          "hasAudio": true
+        },
+        "video": {
+          "file": "channels/impossible-brief/reports/dry-runs/what-if-the-moon-disappeared-tonight/what-if-the-moon-disappeared-tonight.mp4",
+          "captionsBurned": true,
+          "visualChanges": 8,
+          "illustrationLabel": true,
+          "scenarioSpecific": true,
+          "durationSeconds": 19.784,
+          "width": 1080,
+          "height": 1920,
+          "hasAudio": true
+        },
+        "thumbnail": {
+          "file": "channels/impossible-brief/reports/dry-runs/what-if-the-moon-disappeared-tonight/thumbnail.jpg",
+          "bytes": 60472,
+          "scenarioSpecific": true,
+          "textWords": 2
+        }
+      },
+      "validations": {
+        "script": true,
+        "science": true,
+        "sources": true,
+        "hook": true,
+        "timing": true,
+        "audio": true,
+        "captions": true,
+        "visuals": true,
+        "video": true,
+        "titles": true,
+        "thumbnail": true,
+        "description": true,
+        "qualityGate": true,
+        "metadata": true
+      }
+    },
+    {
+      "topicId": "IB-EAR-001",
+      "slug": "what-if-earth-stopped-spinning-for-one-second",
+      "category": "EARTH",
+      "outputDirectory": "channels/impossible-brief/reports/dry-runs/what-if-earth-stopped-spinning-for-one-second",
+      "qualityGate": {
+        "decision": "PUBLISH",
+        "blockers": [],
+        "checked": [
+          "science",
+          "hook",
+          "clarity",
+          "retention",
+          "visuals",
+          "novelty",
+          "sources",
+          "confidence",
+          "titles",
+          "thumbnail",
+          "repetition",
+          "metadata"
+        ]
+      },
+      "render": {
+        "requested": true,
+        "completed": true,
+        "audio": {
+          "file": "channels/impossible-brief/reports/dry-runs/what-if-earth-stopped-spinning-for-one-second/narration.m4a",
+          "provider": "macOS say dry-run voice (claim-timed)",
+          "syntheticVoice": true,
+          "claimDurations": [
+            1.279,
+            1.951,
+            5.329,
+            6.497,
+            3.515
+          ],
+          "durationSeconds": 18.623,
+          "width": null,
+          "height": null,
+          "hasAudio": true
+        },
+        "video": {
+          "file": "channels/impossible-brief/reports/dry-runs/what-if-earth-stopped-spinning-for-one-second/what-if-earth-stopped-spinning-for-one-second.mp4",
+          "captionsBurned": true,
+          "visualChanges": 8,
+          "illustrationLabel": true,
+          "scenarioSpecific": true,
+          "durationSeconds": 18.625,
+          "width": 1080,
+          "height": 1920,
+          "hasAudio": true
+        },
+        "thumbnail": {
+          "file": "channels/impossible-brief/reports/dry-runs/what-if-earth-stopped-spinning-for-one-second/thumbnail.jpg",
+          "bytes": 62005,
+          "scenarioSpecific": true,
+          "textWords": 2
+        }
+      },
+      "validations": {
+        "script": true,
+        "science": true,
+        "sources": true,
+        "hook": true,
+        "timing": true,
+        "audio": true,
+        "captions": true,
+        "visuals": true,
+        "video": true,
+        "titles": true,
+        "thumbnail": true,
+        "description": true,
+        "qualityGate": true,
+        "metadata": true
+      }
+    },
+    {
+      "topicId": "IB-PHY-001",
+      "slug": "what-if-gravity-doubled-tomorrow",
+      "category": "PHYSICS",
+      "outputDirectory": "channels/impossible-brief/reports/dry-runs/what-if-gravity-doubled-tomorrow",
+      "qualityGate": {
+        "decision": "PUBLISH",
+        "blockers": [],
+        "checked": [
+          "science",
+          "hook",
+          "clarity",
+          "retention",
+          "visuals",
+          "novelty",
+          "sources",
+          "confidence",
+          "titles",
+          "thumbnail",
+          "repetition",
+          "metadata"
+        ]
+      },
+      "render": {
+        "requested": true,
+        "completed": true,
+        "audio": {
+          "file": "channels/impossible-brief/reports/dry-runs/what-if-gravity-doubled-tomorrow/narration.m4a",
+          "provider": "macOS say dry-run voice (claim-timed)",
+          "syntheticVoice": true,
+          "claimDurations": [
+            1.566,
+            1.822,
+            5.346,
+            6.737,
+            3.515
+          ],
+          "durationSeconds": 19.134,
+          "width": null,
+          "height": null,
+          "hasAudio": true
+        },
+        "video": {
+          "file": "channels/impossible-brief/reports/dry-runs/what-if-gravity-doubled-tomorrow/what-if-gravity-doubled-tomorrow.mp4",
+          "captionsBurned": true,
+          "visualChanges": 8,
+          "illustrationLabel": true,
+          "scenarioSpecific": true,
+          "durationSeconds": 19.134,
+          "width": 1080,
+          "height": 1920,
+          "hasAudio": true
+        },
+        "thumbnail": {
+          "file": "channels/impossible-brief/reports/dry-runs/what-if-gravity-doubled-tomorrow/thumbnail.jpg",
+          "bytes": 56443,
+          "scenarioSpecific": true,
+          "textWords": 2
+        }
+      },
+      "validations": {
+        "script": true,
+        "science": true,
+        "sources": true,
+        "hook": true,
+        "timing": true,
+        "audio": true,
+        "captions": true,
+        "visuals": true,
+        "video": true,
+        "titles": true,
+        "thumbnail": true,
+        "description": true,
+        "qualityGate": true,
+        "metadata": true
+      }
+    }
+  ]
+}

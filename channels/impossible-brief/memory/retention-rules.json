@@ -1,0 +1,66 @@
+{
+  "channel": "impossible-brief",
+  "status": "insufficient-data",
+  "minimumSample": 5,
+  "sampleSize": 0,
+  "learnedRules": [
+    {
+      "key": "hookType",
+      "value": null,
+      "weakValue": null,
+      "evidenceVideos": 0,
+      "confidence": "INSUFFICIENT_DATA",
+      "aggregates": []
+    },
+    {
+      "key": "durationRange",
+      "value": null,
+      "weakValue": null,
+      "evidenceVideos": 0,
+      "confidence": "INSUFFICIENT_DATA",
+      "aggregates": []
+    },
+    {
+      "key": "secondBeat",
+      "value": null,
+      "weakValue": null,
+      "evidenceVideos": 0,
+      "confidence": "INSUFFICIENT_DATA",
+      "aggregates": []
+    },
+    {
+      "key": "visualChangeFrequency",
+      "value": null,
+      "weakValue": null,
+      "evidenceVideos": 0,
+      "confidence": "INSUFFICIENT_DATA",
+      "aggregates": []
+    },
+    {
+      "key": "questionStyle",
+      "value": null,
+      "weakValue": null,
+      "evidenceVideos": 0,
+      "confidence": "INSUFFICIENT_DATA",
+      "aggregates": []
+    },
+    {
+      "key": "category",
+      "value": null,
+      "weakValue": null,
+      "evidenceVideos": 0,
+      "confidence": "INSUFFICIENT_DATA",
+      "aggregates": []
+    },
+    {
+      "key": "ctaStyle",
+      "value": null,
+      "weakValue": null,
+      "evidenceVideos": 0,
+      "confidence": "INSUFFICIENT_DATA",
+      "aggregates": []
+    }
+  ],
+  "lastUpdated": "2026-10-04T17:38:44.088Z",
+  "caveat": "Observed associations only; topic, timing and packaging can confound retention. No causal claim."
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "how-hurricanes-destroy",
+  "olusturuldu": "2026-09-24T16:22:43.372Z",
+  "not": "durations estimated from word count until render",
+  "plan": [
+    {
+      "sira": 0,
+      "rol": "hook",
+      "tempo": "fast",
+      "cekimAraligi": [
+        1.4,
+        2.4
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        2.3636363636363638,
+        2.3636363636363638
+      ],
+      "hareket": "punch",
+      "gecis": {
+        "tip": "cut",
+        "sure": 0
+      },
+      "ustKatman": null,
+      "gorselStil": "most striking frame of the event"
+    },
+    {
+      "sira": 1,
+      "rol": "technical",
+      "tempo": "slow",
+      "cekimAraligi": [
+        3.2,
+        5.5
+      ],
+      "cekimSayisi": 1,
+      "cekimler": [
+        3.6363636363636362
+      ],
+      "hareket": "drift",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.8
+      },
+      "ustKatman": "failure-chain",
+      "gorselStil": "diagram or close-up of the failing component"
+    },
+    {
+      "sira": 2,
+      "rol": "event",
+      "tempo": "fast",
+      "cekimAraligi": [
+        1.4,
+        2.4
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        2,
+        2
+      ],
+      "hareket": "punch",
+      "gecis": {
+        "tip": "cut",
+        "sure": 0
+      },
+      "ustKatman": null,
+      "gorselStil": "archival motion / impact footage"
+    },
+    {
+      "sira": 3,
+      "rol": "context",
+      "tempo": "medium",
+      "cekimAraligi": [
+        2.4,
+        3.6
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        1.8181818181818181,
+        1.8181818181818181
+      ],
+      "hareket": "push",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.45
+      },
+      "ustKatman": "date-location-stamp",
+      "gorselStil": "establishing shot of place and era"
+    },
+    {
+      "sira": 4,
+      "rol": "technical",
+      "tempo": "slow",
+      "cekimAraligi": [
+        3.2,
+        5.5
+      ],
+      "cekimSayisi": 1,
+      "cekimler": [
+        3.6363636363636362
+      ],
+      "hareket": "drift",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.8
+      },
+      "ustKatman": "failure-chain",
+      "gorselStil": "diagram or close-up of the failing component"
+    },
+    {
+      "sira": 5,
+      "rol": "context",
+      "tempo": "medium",
+      "cekimAraligi": [
+        2.4,
+        3.6
+      ],
+      "cekimSayisi": 1,
+      "cekimler": [
+        3.272727272727273
+      ],
+      "hareket": "push",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.45
+      },
+      "ustKatman": "date-location-stamp",
+      "gorselStil": "establishing shot of place and era"
+    },
+    {
+      "sira": 6,
+      "rol": "context",
+      "tempo": "medium",
+      "cekimAraligi": [
+        2.4,
+        3.6
+      ],
+      "cekimSayisi": 2,
+      "cekimler": [
+        2,
+        2
+      ],
+      "hareket": "push",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.45
+      },
+      "ustKatman": "date-location-stamp",
+      "gorselStil": "establishing shot of place and era"
+    },
+    {
+      "sira": 7,
+      "rol": "lesson",
+      "tempo": "slow",
+      "cekimAraligi": [
+        3.2,
+        5.5
+      ],
+      "cekimSayisi": 1,
+      "cekimler": [
+        4.363636363636363
+      ],
+      "hareket": "drift",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.8
+      },
+      "ustKatman": "what-changed",
+      "gorselStil": "modern equivalent / what changed"
+    },
+    {
+      "sira": 8,
+      "rol": "lesson",
+      "tempo": "slow",
+      "cekimAraligi": [
+        3.2,
+        5.5
+      ],
+      "cekimSayisi": 1,
+      "cekimler": [
+        4
+      ],
+      "hareket": "drift",
+      "gecis": {
+        "tip": "dissolve",
+        "sure": 0.8
+      },
+      "ustKatman": "what-changed",
+      "gorselStil": "modern equivalent / what changed"
+    }
+  ]
+}

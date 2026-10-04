@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Nuclear Bomb One Switch Away From Detonating",
+  "kaynaklar": [
+    {
+      "ad": "goldsboro-b52-1.jpg",
+      "wikimedia": "Goldsboro-B-52 buried bomb.jpg"
+    },
+    {
+      "ad": "goldsboro-b52-2.jpg",
+      "wikimedia": "MC-772 Weapon No. 2 Goldsboro.jpg"
+    },
+    {
+      "ad": "goldsboro-b52-3.jpg",
+      "wikimedia": "Mk 39 Mod 2 - Normal Trajectory Sequence.jpg"
+    },
+    {
+      "ad": "goldsboro-b52-4.jpg",
+      "wikimedia": "Mk 39 Mod 2 - Probable Trajectory Sequence, Weapon No 1, Goldsboro Accident.jpg"
+    },
+    {
+      "ad": "goldsboro-b52-5.jpg",
+      "wikimedia": "1961 Goldsboro B-52 Crash Easement.jpg"
+    },
+    {
+      "ad": "goldsboro-b52-6.jpg",
+      "wikimedia": "Mk 39 Mod 2 - Probable Trajectory Sequence, Weapon No 2, Goldsboro Accident.jpg"
+    },
+    {
+      "ad": "goldsboro-b52-7.jpg",
+      "wikimedia": "Goldsboro nuclear bomb.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A B-52 carrying two nuclear bombs broke apart over North Carolina.",
+      "kaynak": "Footage/goldsboro-b52-1.jpg"
+    },
+    {
+      "metin": "Suddenly both bombs fell toward the ground.",
+      "kaynak": "Footage/goldsboro-b52-2.jpg"
+    },
+    {
+      "metin": "A tanker crew had spotted a fuel leak in its wing.",
+      "kaynak": "Footage/goldsboro-b52-3.jpg"
+    },
+    {
+      "metin": "The bomber lost structural integrity.",
+      "kaynak": "Footage/goldsboro-b52-4.jpg"
+    },
+    {
+      "metin": "Three crew members died.",
+      "kaynak": "Footage/goldsboro-b52-5.jpg"
+    },
+    {
+      "metin": "Some safety devices on one bomb activated during the fall.",
+      "kaynak": "Footage/goldsboro-b52-6.jpg"
+    },
+    {
+      "metin": "Engineers later judged it one switch away from detonation.",
+      "kaynak": "Footage/goldsboro-b52-7.jpg"
+    },
+    {
+      "metin": "It pushed improvements in weapon safety design.",
+      "kaynak": "Footage/goldsboro-b52-1.jpg"
+    }
+  ],
+  "aciklama": "Goldsboro dropped two nuclear bombs over North Carolina. The cause: structural breakup releasing weapons whose safety devices partially activated.\n\n#shorts #engineering #nuclear",
+  "etiketler": [
+    "Goldsboro",
+    "1961",
+    "nuclear bombs",
+    "engineering failure"
+  ],
+  "hook": "One switch stopped it",
+  "soru": "Was the risk worth it?",
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "the Goldsboro B-52 crash",
+    "kisa": "Goldsboro",
+    "nesne": "Nuclear bombs",
+    "yil": 1961,
+    "sonuc": "dropped two nuclear bombs over North Carolina",
+    "tetik": "a fuel leak that broke up the bomber",
+    "mekanizma": "structural breakup releasing weapons whose safety devices partially activated",
+    "sayi": "ONE SWITCH",
+    "ders": "the accident drove improvements in nuclear weapon safety design",
+    "zincir": [
+      "FUEL LEAK IN WING",
+      "BOMBER BREAKS UP",
+      "BOMBS FALL",
+      "SAFETY STEPS ACTIVATE",
+      "ONE SWITCH HOLDS"
+    ],
+    "zaman": [],
+    "yanilgi": "The bombs weren't fully safe. One was judged a single switch away from detonation.",
+    "tartisma": "Planes carried nuclear weapons on constant alert. Was the risk worth it?",
+    "basliklar": [
+      "The Nuclear Bomb One Switch Away From Detonating",
+      "The Day a Nuclear Bomb Almost Went Off in North Carolina",
+      "The Goldsboro B-52 Crash"
+    ],
+    "kapak": [
+      "ONE SWITCH",
+      "NUCLEAR"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1961 Goldsboro B-52 crash",
+        "url": "https://en.wikipedia.org/wiki/1961_Goldsboro_B-52_crash"
+      },
+      {
+        "ad": "US DOE OSTI — 1116535 (cited by Wikipedia)",
+        "url": "https://www.osti.gov/opennet/servlets/purl/1116535.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "1961_Goldsboro_B-52_crash",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Goldsboro-B-52 buried bomb.jpg [Public domain]",
+      "MC-772 Weapon No. 2 Goldsboro.jpg [Public domain]",
+      "Mk 39 Mod 2 - Normal Trajectory Sequence.jpg [Public domain]",
+      "Mk 39 Mod 2 - Probable Trajectory Sequence, Weapon No 1, Goldsboro Accident.jpg [Public domain]",
+      "1961 Goldsboro B-52 Crash Easement.jpg [CC0]",
+      "Mk 39 Mod 2 - Probable Trajectory Sequence, Weapon No 2, Goldsboro Accident.jpg [Public domain]",
+      "Goldsboro nuclear bomb.jpg [Public domain]"
+    ]
+  }
+}

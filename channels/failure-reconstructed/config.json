@@ -1,0 +1,34 @@
+{
+  "slug": "failure-reconstructed",
+  "name": "Failure Reconstructed",
+  "enabled": true,
+  "youtubeChannelId": "",
+  "credentialsPrefix": "FR",
+  "credentialEnv": {
+    "clientId": ["FR_YT_CLIENT_ID", "YT_CLIENT_ID"],
+    "clientSecret": ["FR_YT_CLIENT_SECRET", "YT_CLIENT_SECRET"],
+    "refreshToken": ["FR_YT_REFRESH_TOKEN", "YT_REFRESH_TOKEN"],
+    "channelId": ["FR_YT_CHANNEL_ID", "YT_CHANNEL_ID"]
+  },
+  "allowLegacyYouTubeEnv": true,
+  "pathMode": "legacy-adapter",
+  "timezone": "Europe/Istanbul",
+  "publishTime": "21:00",
+  "publishTimeZone": "Europe/Istanbul",
+  "publishTimeUtc": "18:00",
+  "publishingCadence": {
+    "shorts": { "everyDays": 1, "productionTime": "09:00", "targetDurationSeconds": [20, 60] },
+    "longForm": { "everyDays": 7, "targetDurationMinutes": [8, 12], "qualityOverCadence": true }
+  },
+  "voice": { "provider": "edge-tts", "voice": "en-US-GuyNeural", "style": "measured documentary" },
+  "brandStyle": "forensic engineering documentary, archival, restrained, evidence-led",
+  "contentNiche": "engineering failures, disasters, mechanisms and lessons",
+  "topicRules": { "requiresMechanism": true, "requiresSources": true, "avoidDuplicates": true },
+  "qualityThresholds": { "publish": 85, "review": 70, "sourceMinimum": 40, "originalityMinimum": 40 },
+  "retentionRules": { "memoryScope": "channel", "learnAfterVideos": 5, "doNotShareAcrossChannels": true },
+  "ctaStrategy": "adaptive after payoff",
+  "thumbnailStyle": "single failure subject, archival or technical, restrained text",
+  "titleStyle": "specific mechanism and consequence; no unsupported claim",
+  "analytics": { "checkpointsDays": [1, 3, 7, 14, 30], "minSample": 5, "topGeography": true },
+  "platforms": { "youtube": { "enabled": true }, "instagram": { "enabled": false }, "tiktok": { "enabled": false } }
+}

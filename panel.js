@@ -73,12 +73,19 @@ function isDurumu(ad) {
   return {
     ad, baslik: (konu && konu.baslik_en) || ad,
     format: (konu && konu.format) === "reels" ? "reels"
+          : (konu && konu.format) === "tiktok" ? "tiktok"
           : (konu && konu.aspect) === "9:16" ? "short" : "long",
     konuVar: !!konu, senaryo, trAlt, kelime,
     dakika: kelime ? Math.round((kelime / 151 + 0.5) * 10) / 10 : 0,
     gorsel, sesParca, video
   };
 }
+
+// --- bir script bu kurulumda var mi ---
+// Depo YouTube + Instagram video uretimine odakli; DJ mix araclari
+// (mix-pro.js, ton-analiz.js) kapsam disi birakildi. Bunlari cagiran
+// bir dugmeye basilirsa spawn "Cannot find module" ile cokuyordu.
+const scriptVar = k => fs.existsSync(path.join(KOK, k));
 
 // --- script calistir ---
 function calistir(komut, argv) {
@@ -216,6 +223,21 @@ const server = http.createServer(async (req, res) => {
   const u = new URL(req.url, "http://x");
   const yol = u.pathname;
 
+  if (yol === "/api/ozellikler") {
+    // Panel bunu acilista sorar ve olmayan araclarin sekmesini gizler.
+    return json(res, 200, {
+      muzik: scriptVar("mix-pro.js") && scriptVar("ton-analiz.js"),
+      indirici: fs.existsSync(path.join(KOK, "video-indirici", "server.js")),
+    });
+  }
+
+  // Kanal buyume paneli verisi (panel-public/buyume.html). Yalnizca olculmus veri.
+  if (yol === "/api/buyume") {
+    try { delete require.cache[require.resolve("./dashboard-veri")]; return json(res, 200, require("./dashboard-veri").topla()); }
+    catch (e) { return json(res, 500, { hata: e.message }); }
+  }
+  if (yol === "/buyume") { res.writeHead(302, { Location: "/buyume.html" }); return res.end(); }
+
   if (yol === "/api/isler") {
     let liste = [];
     try {
@@ -246,12 +268,14 @@ const server = http.createServer(async (req, res) => {
     const dir = path.join(URETIM, ad);
     if (fs.existsSync(dir)) return json(res, 409, { hata: "bu isim zaten var" });
     fs.mkdirSync(path.join(dir, "Voice"), { recursive: true });
-    // long  = YouTube uzun video, 16:9, en az 15 dk
-    // short = YouTube Shorts,     9:16, en fazla 45 sn
-    // reels = Instagram Reels,    9:16, sure serbest (varsayilan 3 dk)
+    // long   = YouTube uzun video, 16:9, en az 15 dk
+    // short  = YouTube Shorts,     9:16, en fazla 45 sn
+    // reels  = Instagram Reels,    9:16, varsayilan 3 dk
+    // tiktok = TikTok,             9:16, varsayilan 60 sn
     const reels = b.format === "reels";
+    const tiktok = b.format === "tiktok";
     const short = b.format === "short";
-    const dikey = short || reels;
+    const dikey = short || reels || tiktok;
     const ay = ayarOku();
 
     // Sahne / arama kelimesi TANIMLANMAZ — gorsel-bul.js bunlari
@@ -259,20 +283,22 @@ const server = http.createServer(async (req, res) => {
     const konu = {
       baslik_en: b.baslik || ad,
       kanal: b.kanal || ay.kanal || "KANALIM",
-      format: reels ? "reels" : short ? "short" : "long",
+      format: reels ? "reels" : tiktok ? "tiktok" : short ? "short" : "long",
       aspect: dikey ? "9:16" : "16:9",
       geriSayim: dikey ? 0 : (b.geriSayim === false ? 0 : 5),
       intro: dikey ? 1.5 : 10,
       konuKarti: dikey ? 0 : 3,
       // Reels'te abone-ol kapanisi yok — Instagram'da anlamsiz
-      outro: reels ? 0 : short ? 3 : 12,
-      muzikSeviyesi: 0.25,
+      outro: (reels || tiktok) ? 0 : short ? 3 : 12,
+      // 0.40 olculen deger: muzik orta bandi sesin 6.5 dB altinda kaliyor.
+      // 0.25'te muzik duyulmuyordu (bkz. video-yap.js muzik bolumu).
+      muzikSeviyesi: 0.40,
       // Sureyi kullanici belirler. Varsayilanlar:
       //   Shorts 40 sn  — YouTube 45 sn siniri
       //   Reels 180 sn  — Instagram 3 dk ustunu takipcisi olmayanlara onermiyor
-      //   Uzun  15 dk   — Osman'in standardi, altina dusmez
+      //   Uzun  15 dk   — varsayilan alt sinir, altina dusmez
       hedefSaniye: Math.round(60 * (Number(b.sureDk) > 0 ? Number(b.sureDk)
-                                  : reels ? 3 : short ? 0.67 : 15)),
+                                  : reels ? 3 : tiktok ? 1 : short ? 0.67 : 15)),
       _not: String(b.nis || "").trim() || undefined,
     };
 
@@ -310,6 +336,13 @@ const server = http.createServer(async (req, res) => {
       prompt:  ["prompt-kart.js", [b.is]],
       ses:     ["seslendir.js",   [b.is]],
       video:   ["video-yap.js",   [b.is]],
+      trend:   ["trend-ara.js",   [String(b.konu || ""),
+                                   "--dil", String(b.dil || "en"),
+                                   "--min", String(b.min || 200000),
+                                   ...(b.siki ? ["--siki"] : [])]],
+      viral:   ["viral-analiz.js", [String(b.konu || ""),
+                                   String(b.dil || "en"),
+                                   String(b.min || 10000000)]],
       tonMuzik:["ton-analiz.js",  [b.klasor]],
       mix:     ["mix-pro.js",     [b.klasor, b.mixAd || "DJ MIX"]],
     };
@@ -329,6 +362,12 @@ const server = http.createServer(async (req, res) => {
 
     const g = izin[b.tur];
     if (!g) return json(res, 400, { hata: "gecersiz islem" });
+    if (!scriptVar(g[0]))
+      return json(res, 400, {
+        hata: g[0] + " bu kurulumda yok.\n\n" +
+              "Bu arac deponun kapsami disinda birakildi " +
+              "(depo YouTube + Instagram video uretimine odakli)."
+      });
     return json(res, 200, { id: calistir(g[0], g[1]) });
   }
 
@@ -512,10 +551,25 @@ const server = http.createServer(async (req, res) => {
   });
 });
 
+// --- Video Indirici modulu: panel ile birlikte ayaga kalkar (port 4190) ---
+// Ayrica BASLAT.bat ile tek basina da calisir; port doluysa (zaten acik
+// demektir) cocuk surec sessizce cikar, panel etkilenmez.
+function indiriciBaslat() {
+  const dosya = path.join(KOK, "video-indirici", "server.js");
+  if (!fs.existsSync(dosya)) return false;
+  const p = spawn(process.execPath, [dosya], {
+    cwd: path.dirname(dosya), windowsHide: true, stdio: "ignore",
+  });
+  p.on("error", () => {});
+  return true;
+}
+
 server.listen(PORT, () => {
+  const indirici = indiriciBaslat();
   console.log("\n  ============================================");
   console.log("   YOUTUBE OTOMASYON PANELI");
   console.log("  ============================================\n");
-  console.log("   http://localhost:" + PORT + "\n");
-  console.log("   Kapatmak icin bu pencereyi kapat.\n");
+  console.log("   Panel          : http://localhost:" + PORT);
+  if (indirici) console.log("   Video Indirici : http://localhost:4190");
+  console.log("\n   Kapatmak icin bu pencereyi kapat.\n");
 });

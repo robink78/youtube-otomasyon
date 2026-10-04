@@ -1,0 +1,98 @@
+{
+  "channel": "critical-thread",
+  "slug": "what-quietly-depends-on-uninterruptible-power-supply",
+  "allowedChannels": [
+    "critical-thread"
+  ],
+  "createdAt": "2026-10-04T17:55:03.099Z",
+  "assets": [
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "500kVA-UPS.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:500kVA-UPS.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:500kVA-UPS.jpg",
+      "attribution": " Cgxke ",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "commons-category",
+      "title": "MGE Uninterruptible Power Supply at NERSC.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MGE_Uninterruptible_Power_Supply_at_NERSC.jpg",
+      "licence": "CC0",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:MGE_Uninterruptible_Power_Supply_at_NERSC.jpg",
+      "attribution": " Derrick Coetzee from Berkeley, CA, USA",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 28709421",
+      "sourceUrl": "https://www.pexels.com/video/digital-data-display-on-screen-28709421/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/digital-data-display-on-screen-28709421/",
+      "attribution": "Kuiyibo Campos",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 30730779",
+      "sourceUrl": "https://www.pexels.com/video/hands-on-mirrorless-camera-battery-change-guide-30730779/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/hands-on-mirrorless-camera-battery-change-guide-30730779/",
+      "attribution": "Cemrecan Yurtman",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 32115649",
+      "sourceUrl": "https://www.pexels.com/video/adjusting-gym-equipment-for-workout-sessions-32115649/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/adjusting-gym-equipment-for-workout-sessions-32115649/",
+      "attribution": "Gaurav Kumar",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "audio",
+      "source": "Microsoft Edge neural TTS (claim-timed)",
+      "title": "narration",
+      "licence": "generated — synthetic voice, disclosed in the description",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "audio",
+      "source": "procedural synthesis (ffmpeg)",
+      "title": "music bed",
+      "licence": "original — generated per video",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "image",
+      "source": "generated graphics (captions, number cards, diagrams)",
+      "title": "on-screen graphics",
+      "licence": "original",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "eastern-212-1974",
+  "asama": "final",
+  "format": "short",
+  "karar": "PUBLISH",
+  "toplam": 89,
+  "esikler": {
+    "publish": 85,
+    "review": 70
+  },
+  "engelleyen": [],
+  "bilesenler": {
+    "title": {
+      "puan": 56,
+      "notlar": [
+        "\"Eastern 212: What Failed First\" (engine 48.1)"
+      ]
+    },
+    "thumbnail": {
+      "puan": 100,
+      "notlar": []
+    },
+    "hook": {
+      "puan": 70,
+      "notlar": [
+        "5-12s: missing an unexpected detail",
+        "12-20s: no central mystery or problem is posed"
+      ]
+    },
+    "script": {
+      "puan": 100,
+      "notlar": []
+    },
+    "originality": {
+      "puan": 91,
+      "notlar": []
+    },
+    "visual": {
+      "puan": 95,
+      "notlar": [
+        "no engineering overlay rendered"
+      ],
+      "olcum": {
+        "w": 1080,
+        "h": 1920,
+        "sure": 20.533333,
+        "ses": true
+      },
+      "kritik": null
+    },
+    "engineering": {
+      "puan": 100,
+      "notlar": []
+    },
+    "source": {
+      "puan": 100,
+      "notlar": []
+    },
+    "audio": {
+      "puan": 100,
+      "notlar": [],
+      "olcum": {
+        "I": -15.48,
+        "TP": -1.37,
+        "sessiz": 0
+      }
+    }
+  },
+  "tarih": "2026-10-01T14:37:39.590Z"
+}

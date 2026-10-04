@@ -1,0 +1,48 @@
+{
+  "slug": "the-science-of-sinkholes",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:41.800Z",
+  "ekranHook": "The hole that was always there",
+  "mevcut": {
+    "puan": 75,
+    "pencereler": {
+      "0-5": "Sometimes the ground just opens and swallows a house. The collapse is sudden, but",
+      "5-12": "it was centuries in the making. Underground, slightly acidic water slowly dissolves soft rock. Over time it carves out",
+      "12-20": "a hidden cavern beneath the surface. The soil on top keeps the ground looking completely normal. But the cavern keeps growing, and",
+      "20-30": "the roof gets thinner. When it can no longer hold the weight, everything drops at once. Rain and burst pipes can speed the collapse dramatically. The hole did"
+    },
+    "bulgular": [
+      "0-5s: lands the event/result immediately",
+      "5-12s: missing an unexpected detail",
+      "12-20s: a central question/problem is raised"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "Sometimes the ground just opens and swallows a house."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only slightly acidic groundwater."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is karst dissolution and cover collapse — and it is why karst regions need ground surveys before building."
+      }
+    ],
+    "metin": "Sometimes the ground just opens and swallows a house. It took only slightly acidic groundwater. So what actually happens inside? The answer is karst dissolution and cover collapse — and it is why karst regions need ground surveys before building.",
+    "puan": 100
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

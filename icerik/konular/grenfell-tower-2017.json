@@ -1,0 +1,143 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "How Cladding Turned a Kitchen Fire Into a Tower Fire",
+  "kaynaklar": [
+    {
+      "ad": "grenfell-tower-1.jpg",
+      "wikimedia": "Grenfell Flowers (35220521981).jpg"
+    },
+    {
+      "ad": "grenfell-tower-2.jpg",
+      "wikimedia": "Grenfell Tower (35651730645).jpg"
+    },
+    {
+      "ad": "grenfell-tower-3.jpg",
+      "wikimedia": "Grenfell Tower fire (wider view).jpg"
+    },
+    {
+      "ad": "grenfell-tower-4.jpg",
+      "wikimedia": "Grenfell Tower fire morning.jpg"
+    },
+    {
+      "ad": "grenfell-tower-5.jpg",
+      "wikimedia": "Grenfell Tower remains.jpg"
+    },
+    {
+      "ad": "grenfell-tower-6.jpg",
+      "wikimedia": "Upper Grenfell Tower.jpg"
+    },
+    {
+      "ad": "grenfell-tower-7.jpg",
+      "wikimedia": "Grenfell Tower fire (wider view) (cropped).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Fire raced up the outside of a London tower block.",
+      "kaynak": "Footage/grenfell-tower-1.jpg"
+    },
+    {
+      "metin": "Within about half an hour it reached the roof, and seventy two people died.",
+      "kaynak": "Footage/grenfell-tower-2.jpg"
+    },
+    {
+      "metin": "It began with a fridge-freezer in one flat.",
+      "kaynak": "Footage/grenfell-tower-3.jpg"
+    },
+    {
+      "metin": "Flames escaped through the window into the building's cladding.",
+      "kaynak": "Footage/grenfell-tower-4.jpg"
+    },
+    {
+      "metin": "Its panels had a plastic core that burned like fuel.",
+      "kaynak": "Footage/grenfell-tower-5.jpg"
+    },
+    {
+      "metin": "Fire climbed the facade and entered flats from outside.",
+      "kaynak": "Footage/grenfell-tower-6.jpg"
+    },
+    {
+      "metin": "Residents had been told to stay put.",
+      "kaynak": "Footage/grenfell-tower-7.jpg"
+    },
+    {
+      "metin": "England then banned combustible cladding on tall homes.",
+      "kaynak": "Footage/grenfell-tower-1.jpg"
+    }
+  ],
+  "aciklama": "Grenfell Tower was engulfed by fire from top to bottom. The cause: polyethylene-core aluminium composite cladding and cavity insulation spreading fire up the facade.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Grenfell Tower",
+    "cladding",
+    "fire safety",
+    "London",
+    "2017"
+  ],
+  "hook": "The outside burned",
+  "soru": "Stay put, or get out?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "Grenfell Tower",
+    "kisa": "Grenfell Tower",
+    "nesne": "Cladding",
+    "yil": 2017,
+    "sonuc": "was engulfed by fire from top to bottom",
+    "tetik": "a fridge-freezer fire reaching the outside of the building",
+    "mekanizma": "polyethylene-core aluminium composite cladding and cavity insulation spreading fire up the facade",
+    "sayi": "72 DEAD",
+    "ders": "combustible cladding was banned on tall residential buildings in England",
+    "zincir": [
+      "FRIDGE-FREEZER FIRE",
+      "FLAMES REACH WINDOW FRAME",
+      "CLADDING CORE IGNITES",
+      "FIRE CLIMBS THE FACADE",
+      "STAY-PUT ADVICE FAILS"
+    ],
+    "zaman": [
+      {
+        "t": "Jun 14, 2017",
+        "olay": "Kitchen fire on the fourth floor spreads up the facade"
+      }
+    ],
+    "yanilgi": "The fire didn't spread through the building's interior first. It climbed the outside, through the cladding, and entered flats from there.",
+    "tartisma": "Residents were told to stay in their flats. When should a fire strategy be abandoned?",
+    "basliklar": [
+      "How Cladding Turned a Kitchen Fire Into a Tower Fire",
+      "Why Grenfell Tower Burned So Fast",
+      "The Facade That Carried the Fire"
+    ],
+    "kapak": [
+      "THE CLADDING",
+      "72 DEAD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Grenfell Tower fire",
+        "url": "https://en.wikipedia.org/wiki/Grenfell_Tower_fire"
+      },
+      {
+        "ad": "Grenfell Tower Inquiry — GTI   Phase 1 full report   volume 2 (cited by Wikipedia)",
+        "url": "https://assets.grenfelltowerinquiry.org.uk/GTI%20-%20Phase%201%20full%20report%20-%20volume%202.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-01",
+    "wiki": "Grenfell_Tower_fire",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Grenfell Flowers (35220521981).jpg [CC BY 2.0]",
+      "Grenfell Tower (35651730645).jpg [CC BY 2.0]",
+      "Grenfell Tower fire (wider view).jpg [CC BY 4.0]",
+      "Grenfell Tower fire morning.jpg [CC BY 4.0]",
+      "Grenfell Tower remains.jpg [CC BY 2.0]",
+      "Upper Grenfell Tower.jpg [CC BY 2.0]",
+      "Grenfell Tower fire (wider view) (cropped).jpg [CC BY 4.0]"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "A Bad Weld From 1956 Exploded Under a Neighbourhood",
+  "kaynaklar": [
+    {
+      "ad": "san-bruno-pipeline-1.jpg",
+      "wikimedia": "San Bruno fire 9-9-10.jpg"
+    },
+    {
+      "ad": "san-bruno-pipeline-2.jpg",
+      "wikimedia": "San Bruno Natural Gas Explosion (4990044397).jpg"
+    },
+    {
+      "ad": "san-bruno-pipeline-3.jpg",
+      "wikimedia": "Interstate 380 in San Bruno, California.jpg"
+    },
+    {
+      "ad": "san-bruno-pipeline-4.jpg",
+      "wikimedia": "White Boy graffiti, San Bruno.JPG"
+    },
+    {
+      "ad": "san-bruno-pipeline-5.jpg",
+      "wikimedia": "San Bruno Station 2012 3185 12.JPG"
+    },
+    {
+      "ad": "san-bruno-pipeline-6.jpg",
+      "wikimedia": "San Bruno Station 2012 3176 04.JPG"
+    },
+    {
+      "ad": "san-bruno-pipeline-7.jpg",
+      "wikimedia": "San bruno mountain ivy.JPG"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A gas pipeline exploded under a California neighbourhood.",
+      "kaynak": "Footage/san-bruno-pipeline-1.jpg"
+    },
+    {
+      "metin": "Fire destroyed dozens of homes, and eight people were killed.",
+      "kaynak": "Footage/san-bruno-pipeline-2.jpg"
+    },
+    {
+      "metin": "The pipe section had been installed in 1956.",
+      "kaynak": "Footage/san-bruno-pipeline-3.jpg"
+    },
+    {
+      "metin": "Company records said it was seamless.",
+      "kaynak": "Footage/san-bruno-pipeline-4.jpg"
+    },
+    {
+      "metin": "In reality, it had a badly made weld.",
+      "kaynak": "Footage/san-bruno-pipeline-5.jpg"
+    },
+    {
+      "metin": "When pressure rose, the weld tore open.",
+      "kaynak": "Footage/san-bruno-pipeline-6.jpg"
+    },
+    {
+      "metin": "Escaping gas ignited in a huge fireball.",
+      "kaynak": "Footage/san-bruno-pipeline-7.jpg"
+    },
+    {
+      "metin": "Operators then had to verify records and pressure-test old lines.",
+      "kaynak": "Footage/san-bruno-pipeline-1.jpg"
+    }
+  ],
+  "aciklama": "San Bruno exploded under a residential neighbourhood. The cause: rupture of a pipeline section with a defective seam weld installed in 1956.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "San Bruno",
+    "2010",
+    "gas pipeline",
+    "engineering failure"
+  ],
+  "hook": "The weld was from 1956",
+  "soru": "Trust the old records?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the San Bruno gas pipeline",
+    "kisa": "San Bruno",
+    "nesne": "Gas pipeline",
+    "yil": 2010,
+    "sonuc": "exploded under a residential neighbourhood",
+    "tetik": "a pressure rise on a pipe with a defective weld",
+    "mekanizma": "rupture of a pipeline section with a defective seam weld installed in 1956",
+    "sayi": "8 KILLED",
+    "ders": "US pipeline operators had to verify records and pressure-test old lines",
+    "zincir": [
+      "DEFECTIVE PIPE SECTION IN 1956",
+      "RECORDS WRONG",
+      "PRESSURE RISES",
+      "WELD RUPTURES",
+      "GAS IGNITES"
+    ],
+    "zaman": [],
+    "yanilgi": "The pipe wasn't just old. Records described it as seamless when it actually had a defective weld.",
+    "tartisma": "The company's records didn't match the pipe in the ground. How reliable are old records?",
+    "basliklar": [
+      "A Bad Weld From 1956 Exploded Under a Neighbourhood",
+      "Why the San Bruno Pipeline Exploded",
+      "The Weld Nobody Knew Was There"
+    ],
+    "kapak": [
+      "BAD WELD",
+      "8 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2010 San Bruno pipeline explosion",
+        "url": "https://en.wikipedia.org/wiki/2010_San_Bruno_pipeline_explosion"
+      },
+      {
+        "ad": "NTSB — par1101 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/accidentreports/reports/par1101.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "2010_San_Bruno_pipeline_explosion",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "San Bruno fire 9-9-10.jpg [CC BY 2.0]",
+      "San Bruno Natural Gas Explosion (4990044397).jpg [CC BY 2.0]",
+      "Interstate 380 in San Bruno, California.jpg [CC BY 2.0]",
+      "White Boy graffiti, San Bruno.JPG [CC BY 3.0]",
+      "San Bruno Station 2012 3185 12.JPG [CC0]",
+      "San Bruno Station 2012 3176 04.JPG [CC0]",
+      "San bruno mountain ivy.JPG [CC0]"
+    ]
+  }
+}

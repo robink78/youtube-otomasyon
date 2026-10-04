@@ -1,0 +1,638 @@
+{
+  "videoId": "qkzRUqlEy5I",
+  "baslik": "Why the Tacoma Narrows Bridge Tore Itself Apart",
+  "yayin": "2026-09-22",
+  "yasGun": 2,
+  "sureSn": 33,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 178,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 5,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 1,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": 23,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewDuration": {
+      "deger": 22,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "averageViewPercentage": {
+      "deger": 67.76,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "subscribersGained": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "Analytics API (net)"
+    },
+    "shares": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "Analytics API"
+    },
+    "first30sRetention": {
+      "deger": 0.4167,
+      "durum": "ok",
+      "kaynak": "Analytics API (retention at 91% of video)"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": 0,
+      "durum": "ok",
+      "kaynak": "derived"
+    },
+    "likeRate": {
+      "deger": 2.8,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 0.56,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": [
+    {
+      "kaynak": "SHORTS",
+      "ad": "Shorts feed",
+      "views": 88,
+      "oran": 0.6821705426356589
+    },
+    {
+      "kaynak": "YT_SEARCH",
+      "ad": "Search",
+      "views": 39,
+      "oran": 0.3023255813953488
+    },
+    {
+      "kaynak": "NO_LINK_OTHER",
+      "ad": "Direct/unknown",
+      "views": 1,
+      "oran": 0.007751937984496124
+    },
+    {
+      "kaynak": "YT_OTHER_PAGE",
+      "ad": "Browse/other YouTube",
+      "views": 1,
+      "oran": 0.007751937984496124
+    }
+  ],
+  "tutma": [
+    {
+      "oran": 0.01,
+      "izleme": 1.1333,
+      "goreceli": 0.6419
+    },
+    {
+      "oran": 0.02,
+      "izleme": 1.1333,
+      "goreceli": 0.63415
+    },
+    {
+      "oran": 0.03,
+      "izleme": 1.1333,
+      "goreceli": 0.62605
+    },
+    {
+      "oran": 0.04,
+      "izleme": 1.1333,
+      "goreceli": 0.6182
+    },
+    {
+      "oran": 0.05,
+      "izleme": 1.0667,
+      "goreceli": 0.6108
+    },
+    {
+      "oran": 0.06,
+      "izleme": 1.0667,
+      "goreceli": 0.6041
+    },
+    {
+      "oran": 0.07,
+      "izleme": 1.05,
+      "goreceli": 0.5981
+    },
+    {
+      "oran": 0.08,
+      "izleme": 1.05,
+      "goreceli": 0.59265
+    },
+    {
+      "oran": 0.09,
+      "izleme": 1.05,
+      "goreceli": 0.58765
+    },
+    {
+      "oran": 0.1,
+      "izleme": 1.05,
+      "goreceli": 0.58305
+    },
+    {
+      "oran": 0.11,
+      "izleme": 1.05,
+      "goreceli": 0.57875
+    },
+    {
+      "oran": 0.12,
+      "izleme": 1.05,
+      "goreceli": 0.57475
+    },
+    {
+      "oran": 0.13,
+      "izleme": 1.05,
+      "goreceli": 0.5710500000000001
+    },
+    {
+      "oran": 0.14,
+      "izleme": 1.05,
+      "goreceli": 0.5675
+    },
+    {
+      "oran": 0.15,
+      "izleme": 1.0167,
+      "goreceli": 0.5642
+    },
+    {
+      "oran": 0.16,
+      "izleme": 0.9667,
+      "goreceli": 0.56105
+    },
+    {
+      "oran": 0.17,
+      "izleme": 0.9667,
+      "goreceli": 0.558
+    },
+    {
+      "oran": 0.18,
+      "izleme": 0.9667,
+      "goreceli": 0.555
+    },
+    {
+      "oran": 0.19,
+      "izleme": 0.95,
+      "goreceli": 0.55195
+    },
+    {
+      "oran": 0.2,
+      "izleme": 0.95,
+      "goreceli": 0.54875
+    },
+    {
+      "oran": 0.21,
+      "izleme": 0.9333,
+      "goreceli": 0.54525
+    },
+    {
+      "oran": 0.22,
+      "izleme": 0.8833,
+      "goreceli": 0.54135
+    },
+    {
+      "oran": 0.23,
+      "izleme": 0.8833,
+      "goreceli": 0.5369
+    },
+    {
+      "oran": 0.24,
+      "izleme": 0.85,
+      "goreceli": 0.53175
+    },
+    {
+      "oran": 0.25,
+      "izleme": 0.85,
+      "goreceli": 0.5258
+    },
+    {
+      "oran": 0.26,
+      "izleme": 0.85,
+      "goreceli": 0.519
+    },
+    {
+      "oran": 0.27,
+      "izleme": 0.8167,
+      "goreceli": 0.51125
+    },
+    {
+      "oran": 0.28,
+      "izleme": 0.8,
+      "goreceli": 0.5027
+    },
+    {
+      "oran": 0.29,
+      "izleme": 0.7667,
+      "goreceli": 0.4934
+    },
+    {
+      "oran": 0.3,
+      "izleme": 0.7667,
+      "goreceli": 0.4835
+    },
+    {
+      "oran": 0.31,
+      "izleme": 0.7667,
+      "goreceli": 0.47325
+    },
+    {
+      "oran": 0.32,
+      "izleme": 0.7833,
+      "goreceli": 0.46295
+    },
+    {
+      "oran": 0.33,
+      "izleme": 0.7667,
+      "goreceli": 0.45285
+    },
+    {
+      "oran": 0.34,
+      "izleme": 0.75,
+      "goreceli": 0.4433
+    },
+    {
+      "oran": 0.35,
+      "izleme": 0.7167,
+      "goreceli": 0.43455
+    },
+    {
+      "oran": 0.36,
+      "izleme": 0.7167,
+      "goreceli": 0.42685
+    },
+    {
+      "oran": 0.37,
+      "izleme": 0.7167,
+      "goreceli": 0.4203
+    },
+    {
+      "oran": 0.38,
+      "izleme": 0.7167,
+      "goreceli": 0.41495
+    },
+    {
+      "oran": 0.39,
+      "izleme": 0.7167,
+      "goreceli": 0.4108
+    },
+    {
+      "oran": 0.4,
+      "izleme": 0.7167,
+      "goreceli": 0.4078
+    },
+    {
+      "oran": 0.41,
+      "izleme": 0.7167,
+      "goreceli": 0.4058
+    },
+    {
+      "oran": 0.42,
+      "izleme": 0.7167,
+      "goreceli": 0.4047
+    },
+    {
+      "oran": 0.43,
+      "izleme": 0.7167,
+      "goreceli": 0.40435
+    },
+    {
+      "oran": 0.44,
+      "izleme": 0.7167,
+      "goreceli": 0.40465
+    },
+    {
+      "oran": 0.45,
+      "izleme": 0.7,
+      "goreceli": 0.4055
+    },
+    {
+      "oran": 0.46,
+      "izleme": 0.6667000000000001,
+      "goreceli": 0.4068
+    },
+    {
+      "oran": 0.47,
+      "izleme": 0.6667000000000001,
+      "goreceli": 0.4085
+    },
+    {
+      "oran": 0.48,
+      "izleme": 0.65,
+      "goreceli": 0.41054999999999997
+    },
+    {
+      "oran": 0.49,
+      "izleme": 0.65,
+      "goreceli": 0.41295
+    },
+    {
+      "oran": 0.5,
+      "izleme": 0.6333,
+      "goreceli": 0.4157
+    },
+    {
+      "oran": 0.51,
+      "izleme": 0.6333,
+      "goreceli": 0.41875
+    },
+    {
+      "oran": 0.52,
+      "izleme": 0.6333,
+      "goreceli": 0.4222
+    },
+    {
+      "oran": 0.53,
+      "izleme": 0.6333,
+      "goreceli": 0.426
+    },
+    {
+      "oran": 0.54,
+      "izleme": 0.6333,
+      "goreceli": 0.43015
+    },
+    {
+      "oran": 0.55,
+      "izleme": 0.6333,
+      "goreceli": 0.43465
+    },
+    {
+      "oran": 0.56,
+      "izleme": 0.6167,
+      "goreceli": 0.43955
+    },
+    {
+      "oran": 0.57,
+      "izleme": 0.6167,
+      "goreceli": 0.4448
+    },
+    {
+      "oran": 0.58,
+      "izleme": 0.6167,
+      "goreceli": 0.4504
+    },
+    {
+      "oran": 0.59,
+      "izleme": 0.6,
+      "goreceli": 0.4563
+    },
+    {
+      "oran": 0.6,
+      "izleme": 0.6,
+      "goreceli": 0.46240000000000003
+    },
+    {
+      "oran": 0.61,
+      "izleme": 0.6,
+      "goreceli": 0.4687
+    },
+    {
+      "oran": 0.62,
+      "izleme": 0.5832999999999999,
+      "goreceli": 0.4751
+    },
+    {
+      "oran": 0.63,
+      "izleme": 0.5832999999999999,
+      "goreceli": 0.4815
+    },
+    {
+      "oran": 0.64,
+      "izleme": 0.5832999999999999,
+      "goreceli": 0.4878
+    },
+    {
+      "oran": 0.65,
+      "izleme": 0.5832999999999999,
+      "goreceli": 0.49385
+    },
+    {
+      "oran": 0.66,
+      "izleme": 0.5832999999999999,
+      "goreceli": 0.49955
+    },
+    {
+      "oran": 0.67,
+      "izleme": 0.5832999999999999,
+      "goreceli": 0.5048
+    },
+    {
+      "oran": 0.68,
+      "izleme": 0.5832999999999999,
+      "goreceli": 0.50935
+    },
+    {
+      "oran": 0.69,
+      "izleme": 0.5667,
+      "goreceli": 0.51325
+    },
+    {
+      "oran": 0.7,
+      "izleme": 0.55,
+      "goreceli": 0.5163
+    },
+    {
+      "oran": 0.71,
+      "izleme": 0.55,
+      "goreceli": 0.51855
+    },
+    {
+      "oran": 0.72,
+      "izleme": 0.55,
+      "goreceli": 0.51995
+    },
+    {
+      "oran": 0.73,
+      "izleme": 0.55,
+      "goreceli": 0.52055
+    },
+    {
+      "oran": 0.74,
+      "izleme": 0.55,
+      "goreceli": 0.5204
+    },
+    {
+      "oran": 0.75,
+      "izleme": 0.55,
+      "goreceli": 0.5196
+    },
+    {
+      "oran": 0.76,
+      "izleme": 0.55,
+      "goreceli": 0.5182
+    },
+    {
+      "oran": 0.77,
+      "izleme": 0.5333,
+      "goreceli": 0.5163
+    },
+    {
+      "oran": 0.78,
+      "izleme": 0.5333,
+      "goreceli": 0.51395
+    },
+    {
+      "oran": 0.79,
+      "izleme": 0.5167,
+      "goreceli": 0.5113
+    },
+    {
+      "oran": 0.8,
+      "izleme": 0.5167,
+      "goreceli": 0.50845
+    },
+    {
+      "oran": 0.81,
+      "izleme": 0.5,
+      "goreceli": 0.50565
+    },
+    {
+      "oran": 0.82,
+      "izleme": 0.4833,
+      "goreceli": 0.50305
+    },
+    {
+      "oran": 0.83,
+      "izleme": 0.4667,
+      "goreceli": 0.50065
+    },
+    {
+      "oran": 0.84,
+      "izleme": 0.43329999999999996,
+      "goreceli": 0.4985
+    },
+    {
+      "oran": 0.85,
+      "izleme": 0.43329999999999996,
+      "goreceli": 0.4965
+    },
+    {
+      "oran": 0.86,
+      "izleme": 0.43329999999999996,
+      "goreceli": 0.4945
+    },
+    {
+      "oran": 0.87,
+      "izleme": 0.43329999999999996,
+      "goreceli": 0.49225
+    },
+    {
+      "oran": 0.88,
+      "izleme": 0.4167,
+      "goreceli": 0.48965
+    },
+    {
+      "oran": 0.89,
+      "izleme": 0.4167,
+      "goreceli": 0.48665
+    },
+    {
+      "oran": 0.9,
+      "izleme": 0.4167,
+      "goreceli": 0.48325
+    },
+    {
+      "oran": 0.91,
+      "izleme": 0.4167,
+      "goreceli": 0.47975
+    },
+    {
+      "oran": 0.92,
+      "izleme": 0.4,
+      "goreceli": 0.47625
+    },
+    {
+      "oran": 0.93,
+      "izleme": 0.4,
+      "goreceli": 0.47295
+    },
+    {
+      "oran": 0.94,
+      "izleme": 0.4,
+      "goreceli": 0.4701
+    },
+    {
+      "oran": 0.95,
+      "izleme": 0.4,
+      "goreceli": 0.46765
+    },
+    {
+      "oran": 0.96,
+      "izleme": 0.3667,
+      "goreceli": 0.46565
+    },
+    {
+      "oran": 0.97,
+      "izleme": 0.31670000000000004,
+      "goreceli": 0.46405
+    },
+    {
+      "oran": 0.98,
+      "izleme": 0.25,
+      "goreceli": 0.46275
+    },
+    {
+      "oran": 0.99,
+      "izleme": 0.25,
+      "goreceli": 0.46175
+    },
+    {
+      "oran": 1,
+      "izleme": 0.25,
+      "goreceli": 0.46094999999999997
+    }
+  ],
+  "analitikDurumu": "ok",
+  "toplandi": "2026-09-24T21:02:26.598Z",
+  "aciklama": "In 1940, the Tacoma Narrows Bridge twisted itself apart in a 40 mph wind — the most famous engineering failure ever caught on film. This is why it happened. The failure mechanism: aeroelastic flutter.\n\nFailure chain: Steady 40 mph wind → Deck begins to twist → Aeroelastic flutter → Twist feeds on itself → Center span fails\n\nAnother reconstruction: The Disaster That Ended the Age of the Airship — https://youtu.be/PGOKZhPYo7c\n\nFootage & sources:\n• Archival film: \"Tacoma Narrows Bridge destruction\" — Wikimedia Commons (public domain / free licence): https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv\n\nTechnical references:\n• Wikipedia — Tacoma Narrows Bridge (1940) — https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)\n• Wikipedia — Aeroelastic flutter — https://en.wikipedia.org/wiki/Aeroelastic_flutter\n\nNarration uses a synthetic voice. Footage is real archival film or licensed stock; anything reconstructed is labelled on screen.\n\n#shorts #engineering #bridges",
+  "thumb": "https://i.ytimg.com/vi/qkzRUqlEy5I/maxresdefault.jpg",
+  "slug": "tacoma-narrows",
+  "teshis": [
+    {
+      "kod": "HEALTHY",
+      "guven": "low",
+      "aciklama": "No problem pattern detected with available data.",
+      "oneri": "Keep; revisit at the next checkpoint."
+    }
+  ],
+  "aksiyon": {
+    "oncelik": "P4",
+    "siniflar": [
+      {
+        "sinif": "KEEP",
+        "neden": "no action needed with the data available"
+      }
+    ]
+  }
+}

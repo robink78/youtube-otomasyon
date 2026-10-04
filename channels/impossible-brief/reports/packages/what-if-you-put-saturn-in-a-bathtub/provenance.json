@@ -1,0 +1,164 @@
+{
+  "channel": "impossible-brief",
+  "slug": "what-if-you-put-saturn-in-a-bathtub",
+  "allowedChannels": [
+    "impossible-brief"
+  ],
+  "createdAt": "2026-10-04T12:17:49.495Z",
+  "assets": [
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Solar system.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Solar_system.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Solar_system.jpg",
+      "attribution": "NASA/JPL",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Enceladus geysers June 2009.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enceladus_geysers_June_2009.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Enceladus_geysers_June_2009.jpg",
+      "attribution": "NASA/JPL/SSI",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Saturn compared to Earth and the Moon.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saturn_compared_to_Earth_and_the_Moon.png",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Saturn_compared_to_Earth_and_the_Moon.png",
+      "attribution": "NASA/JPL",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "wikipedia-article",
+      "title": "Saturn's Rings PIA03550.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saturn%27s_Rings_PIA03550.jpg",
+      "licence": "Public domain",
+      "licenceEvidence": "https://commons.wikimedia.org/wiki/File:Saturn%27s_Rings_PIA03550.jpg",
+      "attribution": "NASA/JPL",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "nasa-images",
+      "title": "NASA PIA01969 - Saturn and its Rings.jpg",
+      "sourceUrl": "https://images.nasa.gov/details/PIA01969",
+      "licence": "Public domain (NASA media usage guidelines)",
+      "licenceEvidence": "https://images.nasa.gov/details/PIA01969",
+      "attribution": "NASA/JPL",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "nasa-images",
+      "title": "NASA PIA01973 - Saturn Atmosphere.jpg",
+      "sourceUrl": "https://images.nasa.gov/details/PIA01973",
+      "licence": "Public domain (NASA media usage guidelines)",
+      "licenceEvidence": "https://images.nasa.gov/details/PIA01973",
+      "attribution": "NASA/JPL",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "nasa-images",
+      "title": "NASA PIA03152 - Saturn Atmospheric Changes.jpg",
+      "sourceUrl": "https://images.nasa.gov/details/PIA03152",
+      "licence": "Public domain (NASA media usage guidelines)",
+      "licenceEvidence": "https://images.nasa.gov/details/PIA03152",
+      "attribution": "NASA/JPL",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "image",
+      "source": "nasa-images",
+      "title": "NASA PIA06423 - Bold Saturn.jpg",
+      "sourceUrl": "https://images.nasa.gov/details/PIA06423",
+      "licence": "Public domain (NASA media usage guidelines)",
+      "licenceEvidence": "https://images.nasa.gov/details/PIA06423",
+      "attribution": "NASA/JPL",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "nasa-video",
+      "title": "NASA GSFC_20181217_Saturn_m12672_Rings - Saturn's Rings Are Disappearing",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20181217_Saturn_m12672_Rings",
+      "licence": "Public domain (NASA media usage guidelines)",
+      "licenceEvidence": "https://images.nasa.gov/details/GSFC_20181217_Saturn_m12672_Rings",
+      "attribution": "David Ladd",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 14113561",
+      "sourceUrl": "https://www.pexels.com/video/filling-up-a-bathtub-with-water-14113561/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/filling-up-a-bathtub-with-water-14113561/",
+      "attribution": "Galina MyFoxyWorld",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "video",
+      "source": "pexels",
+      "title": "Pexels video 20464846",
+      "sourceUrl": "https://www.pexels.com/video/saturn-floating-on-ocean-20464846/",
+      "licence": "Pexels License",
+      "licenceEvidence": "https://www.pexels.com/video/saturn-floating-on-ocean-20464846/",
+      "attribution": "Iceberg San",
+      "attributionRequired": false,
+      "expiry": null
+    },
+    {
+      "kind": "audio",
+      "source": "Microsoft Edge neural TTS (claim-timed)",
+      "title": "narration",
+      "licence": "generated — synthetic voice, disclosed in the description",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "audio",
+      "source": "procedural synthesis (ffmpeg)",
+      "title": "music bed",
+      "licence": "original — generated per video",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    },
+    {
+      "kind": "image",
+      "source": "generated graphics (captions, number cards, diagrams)",
+      "title": "on-screen graphics",
+      "licence": "original",
+      "licenceEvidence": null,
+      "attribution": null,
+      "attributionRequired": false,
+      "expiry": null,
+      "generated": true
+    }
+  ]
+}

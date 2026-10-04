@@ -1,0 +1,133 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": 9,
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "baslik": "Why Challenger Broke Apart 73 Seconds After Launch",
+  "kaynaklar": [
+    {
+      "ad": "challenger.ogv",
+      "wikimedia": "Challenger Launch and Breakup.ogv"
+    },
+    {
+      "ad": "challenger-e207.webm",
+      "wikimedia": "STS-51L Challenger Engineering Camera E-207.webm"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Seventy-three seconds after launch, Challenger broke apart.",
+      "kaynak": "Footage/challenger.ogv",
+      "baslangic": 85
+    },
+    {
+      "metin": "Seven astronauts were killed, in front of the world.",
+      "kaynak": "Footage/challenger.ogv",
+      "baslangic": 93
+    },
+    {
+      "metin": "The cause was just a rubber ring, a quarter-inch thick.",
+      "kaynak": "Footage/challenger.ogv",
+      "baslangic": 3
+    },
+    {
+      "metin": "Overnight, temperatures fell well below freezing.",
+      "kaynak": "Footage/challenger.ogv",
+      "baslangic": 0.3
+    },
+    {
+      "metin": "Cold made the O-rings stiff, so they couldn't seal the booster joint.",
+      "kaynak": "Footage/challenger-e207.webm",
+      "baslangic": 17
+    },
+    {
+      "metin": "Burning gas escaped the joint and cut into the fuel tank.",
+      "kaynak": "Footage/challenger.ogv",
+      "baslangic": 50
+    },
+    {
+      "metin": "Engineers had warned against launching in the cold the night before.",
+      "kaynak": "Footage/challenger.ogv",
+      "baslangic": 16
+    },
+    {
+      "metin": "They were overruled. Today, that warning is taught to every engineer.",
+      "kaynak": "Footage/challenger.ogv",
+      "baslangic": 104
+    }
+  ],
+  "aciklama": "On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds after launch. A cold-stiffened O-ring in a solid rocket booster joint failed to seal.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Challenger",
+    "Space Shuttle Challenger",
+    "O-ring",
+    "1986",
+    "NASA",
+    "solid rocket booster",
+    "spaceflight disaster"
+  ],
+  "hook": "73 seconds",
+  "soru": "Would you have said no?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "the Space Shuttle Challenger",
+    "kisa": "Challenger",
+    "nesne": "Space Shuttle",
+    "yil": 1986,
+    "sonuc": "broke apart 73 seconds after launch",
+    "tetik": "an O-ring seal stiffened by cold",
+    "mekanizma": "O-ring seal failure in a solid rocket booster field joint",
+    "sayi": "73 SECONDS",
+    "ders": "NASA redesigned the booster joints and changed how engineering objections are heard before launch",
+    "zincir": [
+      "COLD NIGHT BELOW FREEZING",
+      "O-RINGS LOSE RESILIENCE",
+      "BOOSTER JOINT FAILS TO SEAL",
+      "FLAME BURNS INTO EXTERNAL TANK",
+      "VEHICLE BREAKS APART AT 73 s"
+    ],
+    "zaman": [
+      {
+        "t": "Jan 27, 1986 night",
+        "olay": "Thiokol engineers argue against a cold launch; managers approve it"
+      },
+      {
+        "t": "11:38 EST",
+        "olay": "Liftoff; black smoke puffs from the right booster's aft joint"
+      },
+      {
+        "t": "+59 s",
+        "olay": "A plume of flame appears at the joint"
+      },
+      {
+        "t": "+73 s",
+        "olay": "External tank fails; Challenger breaks apart — 7 crew lost"
+      }
+    ],
+    "yanilgi": "Challenger didn't simply 'explode': the external tank failed and aerodynamic forces tore the orbiter apart. The crew cabin broke away largely intact.",
+    "tartisma": "The engineers had the data but not the authority. If you were in that meeting the night before, how would you have made them listen?",
+    "basliklar": [
+      "Why Challenger Broke Apart 73 Seconds After Launch",
+      "The Rubber Ring That Destroyed Challenger",
+      "Engineers Said Don't Launch. Challenger Launched.",
+      "How Cold Weather Brought Down Challenger"
+    ],
+    "kapak": [
+      "73 SECONDS",
+      "O-RING",
+      "TOO COLD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Space Shuttle Challenger disaster",
+        "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster"
+      },
+      {
+        "ad": "Rogers Commission Report (NASA)",
+        "url": "https://sma.nasa.gov/SignificantIncidents/assets/rogers_commission_report.pdf"
+      }
+    ]
+  }
+}

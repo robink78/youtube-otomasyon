@@ -1,0 +1,129 @@
+{
+  "kanal": "Failure Reconstructed",
+  "oncelik": 4,
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "baslik": "The Day Mount St. Helens Blew Out Sideways",
+  "kaynaklar": [
+    {
+      "ad": "sthelens.ogv",
+      "wikimedia": "Eruption of Mount St. Helens, 1980.ogv"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "This mountain lost 1,300 feet of its top in minutes.",
+      "kaynak": "Footage/sthelens.ogv",
+      "baslangic": 1040
+    },
+    {
+      "metin": "Its north side collapsed in the largest landslide ever recorded.",
+      "kaynak": "Footage/sthelens.ogv",
+      "baslangic": 1000
+    },
+    {
+      "metin": "But for weeks, Mount Saint Helens had bulged five feet a day.",
+      "kaynak": "Footage/sthelens.ogv",
+      "baslangic": 360
+    },
+    {
+      "metin": "Scientists measured it, but nobody knew exactly when it would fail.",
+      "kaynak": "Footage/sthelens.ogv",
+      "baslangic": 280
+    },
+    {
+      "metin": "When it slid away, the trapped pressure blasted out sideways.",
+      "kaynak": "Footage/sthelens.ogv",
+      "baslangic": 590
+    },
+    {
+      "metin": "The blast flattened 230 square miles of forest.",
+      "kaynak": "Footage/sthelens.ogv",
+      "baslangic": 920
+    },
+    {
+      "metin": "Mudflows then wiped out 27 bridges downstream.",
+      "kaynak": "Footage/sthelens.ogv",
+      "baslangic": 800
+    },
+    {
+      "metin": "Fifty-seven people died. It rewrote how volcanoes are watched.",
+      "kaynak": "Footage/sthelens.ogv",
+      "baslangic": 1020
+    }
+  ],
+  "aciklama": "On May 18, 1980, the bulging north flank of Mount St. Helens collapsed in the largest landslide ever recorded, releasing a sideways blast.\n\n#shorts #engineering #volcano",
+  "etiketler": [
+    "Mount St. Helens",
+    "1980 eruption",
+    "lateral blast",
+    "landslide",
+    "volcano monitoring",
+    "lahar",
+    "USGS"
+  ],
+  "hook": "The mountain moved",
+  "soru": "Would you have left?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the 1980 eruption of Mount St. Helens",
+    "kisa": "Mount St. Helens",
+    "nesne": "Volcano",
+    "yil": 1980,
+    "sonuc": "lost 1,300 feet in a sideways blast",
+    "tetik": "a magnitude 5.1 earthquake under a bulging flank",
+    "mekanizma": "flank collapse unroofing pressurized magma (lateral blast)",
+    "sayi": "1,300 FT",
+    "ders": "flank deformation is now a core warning signal in volcano monitoring",
+    "zincir": [
+      "MAGMA INTRUDES, NORTH FLANK BULGES",
+      "BULGE GROWS ~1.5 m PER DAY",
+      "M5.1 QUAKE TRIGGERS LANDSLIDE",
+      "UNROOFED MAGMA BLASTS SIDEWAYS",
+      "FOREST FLATTENED, LAHARS DOWNSTREAM"
+    ],
+    "zaman": [
+      {
+        "t": "Mar 1980",
+        "olay": "Earthquakes and steam explosions begin"
+      },
+      {
+        "t": "Apr–May",
+        "olay": "North flank bulges outward ~1.5 m per day"
+      },
+      {
+        "t": "May 18, 08:32",
+        "olay": "M5.1 quake; flank collapses; lateral blast"
+      },
+      {
+        "t": "Same day",
+        "olay": "Lahars destroy bridges; 57 people killed"
+      }
+    ],
+    "yanilgi": "The deadliest part wasn't lava — it was the sideways blast and the mudflows. Almost no lava flowed on May 18.",
+    "tartisma": "Scientists knew the flank was bulging but not when it would fail. Should the exclusion zone have been larger, even without a date?",
+    "basliklar": [
+      "The Day Mount St. Helens Blew Out Sideways",
+      "The Bulge That Warned Everyone",
+      "Why Mount St. Helens Exploded Sideways",
+      "The Largest Landslide Ever Recorded"
+    ],
+    "kapak": [
+      "SIDEWAYS",
+      "1,300 FT",
+      "THE BULGE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1980 eruption of Mount St. Helens",
+        "url": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens"
+      },
+      {
+        "ad": "USGS — Mount St. Helens",
+        "url": "https://www.usgs.gov/volcanoes/mount-st.-helens"
+      }
+    ]
+  }
+}

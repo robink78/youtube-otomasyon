@@ -1,0 +1,222 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/critical-thread/state/production/why-nuclear-reactor-coolant-pump-is-so-hard-to-replace/narration.m4a",
+    "provider": "Microsoft Edge neural TTS (claim-timed)",
+    "syntheticVoice": true,
+    "rate": "+6%",
+    "claimDurations": [
+      4.248029818956336,
+      5.355165069222577,
+      4.705324813631522,
+      3.838871139510118,
+      2.9242811501597448,
+      3.7185303514377,
+      5.138551650692226,
+      3.9712460063897765
+    ],
+    "durationSeconds": 33.9,
+    "width": null,
+    "height": null,
+    "hasAudio": true,
+    "music": {
+      "mood": "industrial-disasters",
+      "profile": {
+        "kok": 55.8,
+        "oran": 1.335,
+        "trem": 0.125,
+        "renk": "brown",
+        "yanki": [
+          656,
+          1071
+        ],
+        "alcak": 897,
+        "ton": "heavy"
+      }
+    }
+  },
+  "video": {
+    "file": "channels/critical-thread/state/production/why-nuclear-reactor-coolant-pump-is-so-hard-to-replace/why-nuclear-reactor-coolant-pump-is-so-hard-to-replace.mp4",
+    "captionsBurned": true,
+    "distinctVisuals": 12,
+    "realImageCount": 9,
+    "numberCardCount": 3,
+    "maxStaticSeconds": 3.719,
+    "visualChanges": 16,
+    "openingHookCovered": true,
+    "cardNumbersValid": true,
+    "opening": "motion",
+    "visualQuality": {
+      "decision": "PUBLISH",
+      "reasons": []
+    },
+    "segmentSeconds": [
+      1.319,
+      0.9009999999999998,
+      1.3479999999999999,
+      0.6800298189563359,
+      1.2519701810436645,
+      1.7839999999999998,
+      2.319194888178912,
+      1.7138051118210882,
+      2.9915197018104323,
+      3.4344802981895697,
+      3.3286719914802916,
+      3.7185303514376997,
+      1.900797657082009,
+      3.237753993610216,
+      3.1322460063897815,
+      0.8389999999999915
+    ],
+    "sources": [
+      {
+        "shot": 1,
+        "claimIndex": 0,
+        "type": "stock-video",
+        "sourceId": "video:27412952",
+        "numbers": [
+          "6%"
+        ]
+      },
+      {
+        "shot": 2,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Harrisburg Int Airport with Pennsylvania ANG aircraft 1979.jpg",
+        "numbers": [
+          "6%"
+        ]
+      },
+      {
+        "shot": 3,
+        "claimIndex": 0,
+        "type": "number-card",
+        "sourceId": "card:0:d9d689c786a2",
+        "numbers": [
+          "6%"
+        ]
+      },
+      {
+        "shot": 4,
+        "claimIndex": 0,
+        "type": "licensed-still",
+        "sourceId": "still:Three Mile Island nuclear power plant.jpg",
+        "numbers": [
+          "6%"
+        ]
+      },
+      {
+        "shot": 5,
+        "claimIndex": 1,
+        "type": "stock-video",
+        "sourceId": "video:33785468",
+        "numbers": [
+          "1979"
+        ]
+      },
+      {
+        "shot": 6,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:Three Mile Island (color).jpg",
+        "numbers": [
+          "1979"
+        ]
+      },
+      {
+        "shot": 7,
+        "claimIndex": 1,
+        "type": "licensed-still",
+        "sourceId": "still:Goldsboro PA 2022-11-05 (cropped).jpg",
+        "numbers": [
+          "1979"
+        ]
+      },
+      {
+        "shot": 8,
+        "claimIndex": 2,
+        "type": "number-card",
+        "sourceId": "card:2:d9d689c786a2",
+        "numbers": [
+          "6%"
+        ]
+      },
+      {
+        "shot": 9,
+        "claimIndex": 2,
+        "type": "licensed-still",
+        "sourceId": "still:Goldsboro PA 2022-11-05 2.jpg",
+        "numbers": [
+          "6%"
+        ]
+      },
+      {
+        "shot": 10,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:Goldsboro PA 2022-11-05.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 11,
+        "claimIndex": 3,
+        "type": "licensed-still",
+        "sourceId": "still:Goldsboro, PA and TMI.jpg",
+        "numbers": []
+      },
+      {
+        "shot": 12,
+        "claimIndex": 5,
+        "type": "licensed-still",
+        "sourceId": "still:Harrisburg Int Airport with Pennsylvania ANG aircraft 1979.jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 13,
+        "claimIndex": 6,
+        "type": "number-card",
+        "sourceId": "card:6:680ebb6df3a1",
+        "numbers": [
+          "1 billion"
+        ]
+      },
+      {
+        "shot": 14,
+        "claimIndex": 6,
+        "type": "licensed-still",
+        "sourceId": "still:Three Mile Island nuclear power plant.jpg#2",
+        "numbers": [
+          "1993",
+          "1 billion"
+        ]
+      },
+      {
+        "shot": 15,
+        "claimIndex": 7,
+        "type": "licensed-still",
+        "sourceId": "still:Three Mile Island (color).jpg#2",
+        "numbers": []
+      },
+      {
+        "shot": 16,
+        "claimIndex": 7,
+        "type": "stock-video",
+        "sourceId": "video:27412952#loop",
+        "numbers": []
+      }
+    ],
+    "durationSeconds": 33.9,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/critical-thread/state/production/why-nuclear-reactor-coolant-pump-is-so-hard-to-replace/thumbnail.jpg",
+    "bytes": 82617,
+    "sourceType": "licensed-still",
+    "sourceId": "still:Harrisburg Int Airport with Pennsylvania ANG aircraft 1979.jpg",
+    "textWords": 3,
+    "usesLicensedStill": true
+  }
+}

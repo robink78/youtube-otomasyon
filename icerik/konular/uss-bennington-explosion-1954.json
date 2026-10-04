@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Catapult That Exploded Inside an Aircraft Carrier",
+  "kaynaklar": [
+    {
+      "ad": "uss-bennington-explosion-1.jpg",
+      "wikimedia": "F4U-4 of VF-74 making crash landing on USS Bennington (CVA-20) 1953.jpg"
+    },
+    {
+      "ad": "uss-bennington-explosion-2.jpg",
+      "wikimedia": "USS Bennington (CVA-20) underway circa 1954.jpg"
+    },
+    {
+      "ad": "uss-bennington-explosion-3.jpg",
+      "wikimedia": "Bow view of USS Bennington (CVA-20) c1955.jpg"
+    },
+    {
+      "ad": "uss-bennington-explosion-4.jpg",
+      "wikimedia": "Flight deck of USS Bennington (CV-20) damaged by typhoon, 12 June 1945.jpg"
+    },
+    {
+      "ad": "uss-bennington-explosion-5.jpg",
+      "wikimedia": "S67-49423.jpg"
+    },
+    {
+      "ad": "uss-bennington-explosion-6.jpg",
+      "wikimedia": "SH-3A Sea Kings of HS-8 on USS Bennington (CVS-20) in 1968.jpg"
+    },
+    {
+      "ad": "uss-bennington-explosion-7.jpg",
+      "wikimedia": "F2H-3 of VF-41 on USS Bennington (CVA-20) 1956.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Explosions ripped through the carrier Bennington off Rhode Island.",
+      "kaynak": "Footage/uss-bennington-explosion-1.jpg"
+    },
+    {
+      "metin": "Within seconds, fire swept below decks, and one hundred three men were killed.",
+      "kaynak": "Footage/uss-bennington-explosion-2.jpg"
+    },
+    {
+      "metin": "The ship used hydraulic catapults to launch aircraft.",
+      "kaynak": "Footage/uss-bennington-explosion-3.jpg"
+    },
+    {
+      "metin": "A catapult accumulator burst.",
+      "kaynak": "Footage/uss-bennington-explosion-4.jpg"
+    },
+    {
+      "metin": "It released vaporized lubricating oil.",
+      "kaynak": "Footage/uss-bennington-explosion-5.jpg"
+    },
+    {
+      "metin": "The vapour ignited.",
+      "kaynak": "Footage/uss-bennington-explosion-6.jpg"
+    },
+    {
+      "metin": "An inquiry found the hazard had been known.",
+      "kaynak": "Footage/uss-bennington-explosion-7.jpg"
+    },
+    {
+      "metin": "The Navy switched to steam catapults.",
+      "kaynak": "Footage/uss-bennington-explosion-1.jpg"
+    }
+  ],
+  "aciklama": "USS Bennington was torn by explosions off Rhode Island. The cause: vaporized lubricating oil from a hydraulic catapult igniting below decks.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "USS Bennington",
+    "1954",
+    "catapult",
+    "engineering failure"
+  ],
+  "hook": "The danger was already known",
+  "soru": "Why do we wait?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "USS Bennington",
+    "kisa": "USS Bennington",
+    "nesne": "Catapult",
+    "yil": 1954,
+    "sonuc": "was torn by explosions off Rhode Island",
+    "tetik": "a burst catapult accumulator releasing oil vapour",
+    "mekanizma": "vaporized lubricating oil from a hydraulic catapult igniting below decks",
+    "sayi": "103 DEAD",
+    "ders": "the Navy abandoned hydraulic catapults for steam",
+    "zincir": [
+      "HYDRAULIC CATAPULT",
+      "ACCUMULATOR BURSTS",
+      "OIL VAPORIZES",
+      "VAPOUR IGNITES",
+      "EXPLOSIONS BELOW DECK"
+    ],
+    "zaman": [],
+    "yanilgi": "The hazard was known. It just hadn't caused serious harm yet.",
+    "tartisma": "Known risks were tolerated until they killed. Why do we wait?",
+    "basliklar": [
+      "The Catapult That Exploded Inside an Aircraft Carrier",
+      "Why USS Bennington Exploded",
+      "The Catapult That Blew Up a Carrier"
+    ],
+    "kapak": [
+      "CATAPULT",
+      "103 DEAD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — USS Bennington (CV-20)",
+        "url": "https://en.wikipedia.org/wiki/USS_Bennington_(CV-20)"
+      },
+      {
+        "ad": "Government source — bennington ii (cited by Wikipedia)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bennington-ii.html"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills",
+    "wiki": "USS_Bennington_(CV-20)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "F4U-4 of VF-74 making crash landing on USS Bennington (CVA-20) 1953.jpg [Public domain]",
+      "USS Bennington (CVA-20) underway circa 1954.jpg [Public domain]",
+      "Bow view of USS Bennington (CVA-20) c1955.jpg [Public domain]",
+      "Flight deck of USS Bennington (CV-20) damaged by typhoon, 12 June 1945.jpg [Public domain]",
+      "S67-49423.jpg [Public domain]",
+      "SH-3A Sea Kings of HS-8 on USS Bennington (CVS-20) in 1968.jpg [Public domain]",
+      "F2H-3 of VF-41 on USS Bennington (CVA-20) 1956.jpg [Public domain]"
+    ]
+  }
+}

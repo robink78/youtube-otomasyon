@@ -1,0 +1,100 @@
+name: Watchdog repository_dispatch self-test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: read
+  contents: read
+
+jobs:
+  dispatch-and-verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      WATCHDOG_GITHUB_TOKEN: ${{ secrets.WATCHDOG_GITHUB_TOKEN }}
+    steps:
+      - name: Verify watchdog token is configured
+        run: |
+          if [ -z "$WATCHDOG_GITHUB_TOKEN" ]; then
+            echo "::error title=Missing self-test secret::WATCHDOG_GITHUB_TOKEN is required. Use a fine-grained token for this repository with Contents: Read and write."
+            exit 2
+          fi
+
+      - id: dispatch
+        name: Send safe repository_dispatch with the Worker token
+        run: |
+          CORRELATION_ID="watchdog-self-test-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          jq -n \
+            --arg correlationId "$CORRELATION_ID" \
+            --arg sentAt "$(date -u +%FT%TZ)" \
+            '{event_type:"production-sla-watchdog-self-test",client_payload:{source:"github-watchdog-self-test",correlation_id:$correlationId,sent_at:$sentAt}}' \
+            > "$RUNNER_TEMP/dispatch-request.json"
+          HTTP_STATUS=$(curl --silent --show-error \
+            --output "$RUNNER_TEMP/dispatch-response.txt" \
+            --write-out '%{http_code}' \
+            --request POST \
+            --header 'Accept: application/vnd.github+json' \
+            --header "Authorization: Bearer $WATCHDOG_GITHUB_TOKEN" \
+            --header 'X-GitHub-Api-Version: 2022-11-28' \
+            "https://api.github.com/repos/$GITHUB_REPOSITORY/dispatches" \
+            --data @"$RUNNER_TEMP/dispatch-request.json")
+          if [ "$HTTP_STATUS" != "204" ]; then
+            echo "::error title=repository_dispatch rejected::Expected HTTP 204, received HTTP $HTTP_STATUS. Check WATCHDOG_GITHUB_TOKEN repository access and Contents: Read and write permission."
+            sed -n '1,20p' "$RUNNER_TEMP/dispatch-response.txt"
+            exit 3
+          fi
+          echo "correlation_id=$CORRELATION_ID" >> "$GITHUB_OUTPUT"
+          echo "repository_dispatch accepted with HTTP 204: $CORRELATION_ID"
+
+      - id: receiver
+        name: Wait for the production watchdog receiver
+        env:
+          CORRELATION_ID: ${{ steps.dispatch.outputs.correlation_id }}
+        run: |
+          RECEIVER_RUN_ID=""
+          for attempt in $(seq 1 30); do
+            RECEIVER_RUN_ID=$(gh api \
+              -H 'Accept: application/vnd.github+json' \
+              -H 'X-GitHub-Api-Version: 2022-11-28' \
+              "/repos/$GITHUB_REPOSITORY/actions/workflows/production-watchdog.yml/runs?event=repository_dispatch&per_page=50" \
+              --jq ".workflow_runs[] | select(.display_title | contains(\"$CORRELATION_ID\")) | .id" \
+              | head -n 1)
+            if [ -n "$RECEIVER_RUN_ID" ]; then break; fi
+            if [ "$attempt" = "30" ]; then
+              echo "::error::No production-watchdog repository_dispatch run appeared for $CORRELATION_ID"
+              exit 4
+            fi
+            sleep 5
+          done
+          echo "receiver_run_id=$RECEIVER_RUN_ID" >> "$GITHUB_OUTPUT"
+          echo "Receiver run: https://github.com/$GITHUB_REPOSITORY/actions/runs/$RECEIVER_RUN_ID"
+          gh run watch "$RECEIVER_RUN_ID" --repo "$GITHUB_REPOSITORY" --exit-status
+
+      - name: Write self-test evidence
+        env:
+          CORRELATION_ID: ${{ steps.dispatch.outputs.correlation_id }}
+          RECEIVER_RUN_ID: ${{ steps.receiver.outputs.receiver_run_id }}
+        run: |
+          jq -n \
+            --arg correlationId "$CORRELATION_ID" \
+            --arg senderRunId "$GITHUB_RUN_ID" \
+            --arg receiverRunId "$RECEIVER_RUN_ID" \
+            --arg verifiedAt "$(date -u +%FT%TZ)" \
+            '{ok:true,videoProductionStarted:false,httpStatus:204,correlationId:$correlationId,senderRunId:$senderRunId,receiverRunId:$receiverRunId,verifiedAt:$verifiedAt}' \
+            > watchdog-self-test.json
+          cat watchdog-self-test.json
+          {
+            echo "## Watchdog repository_dispatch self-test passed"
+            echo ""
+            echo "- GitHub accepted the configured Worker token with HTTP 204."
+            echo "- Receiver run: https://github.com/$GITHUB_REPOSITORY/actions/runs/$RECEIVER_RUN_ID"
+            echo "- Video production started: false"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: watchdog-self-test
+          path: watchdog-self-test.json
+          retention-days: 30

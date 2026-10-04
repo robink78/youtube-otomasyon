@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Truck Clipped One Beam and a Span Fell",
+  "kaynaklar": [
+    {
+      "ad": "skagit-river-bridge-1.jpg",
+      "wikimedia": "05-23-13 Skagit Bridge Collapse.jpg"
+    },
+    {
+      "ad": "skagit-river-bridge-2.jpg",
+      "wikimedia": "Skagit River Bridge Collapse.jpg"
+    },
+    {
+      "ad": "skagit-river-bridge-3.jpg",
+      "wikimedia": "I-5 Skagit River Bridge - construction from the southwest, 2013-06-03.jpg"
+    },
+    {
+      "ad": "skagit-river-bridge-4.jpg",
+      "wikimedia": "I-5 Skagit River Bridge - panorama, 2013-06-03.jpg"
+    },
+    {
+      "ad": "skagit-river-bridge-5.jpg",
+      "wikimedia": "NTSBSkagitRiverBridgeCollapse.jpg"
+    },
+    {
+      "ad": "skagit-river-bridge-6.jpg",
+      "wikimedia": "Skagit bridge truck.jpg"
+    },
+    {
+      "ad": "skagit-river-bridge-7.jpg",
+      "wikimedia": "Investigators present findings from the May 2013 I-5 bridge collapse (14661739872).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A span of the I-5 bridge over the Skagit River collapsed into the water.",
+      "kaynak": "Footage/skagit-river-bridge-1.jpg"
+    },
+    {
+      "metin": "Suddenly two vehicles plunged into the river, but everyone was rescued.",
+      "kaynak": "Footage/skagit-river-bridge-2.jpg"
+    },
+    {
+      "metin": "An oversize load had struck the overhead beams.",
+      "kaynak": "Footage/skagit-river-bridge-3.jpg"
+    },
+    {
+      "metin": "The truss had no backup if those were damaged.",
+      "kaynak": "Footage/skagit-river-bridge-4.jpg"
+    },
+    {
+      "metin": "The span fell immediately.",
+      "kaynak": "Footage/skagit-river-bridge-5.jpg"
+    },
+    {
+      "metin": "The bridge had been hit by a truck before.",
+      "kaynak": "Footage/skagit-river-bridge-6.jpg"
+    },
+    {
+      "metin": "It wasn't rated structurally deficient.",
+      "kaynak": "Footage/skagit-river-bridge-7.jpg"
+    },
+    {
+      "metin": "Oversize load permits and bridge redundancy came under review.",
+      "kaynak": "Footage/skagit-river-bridge-1.jpg"
+    }
+  ],
+  "aciklama": "Skagit River Bridge lost a span after an oversize load struck it. The cause: a fracture-critical through-truss with no redundancy once overhead members were hit.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Skagit River Bridge",
+    "2013",
+    "truss bridge",
+    "engineering failure"
+  ],
+  "hook": "One truck hit it",
+  "soru": "Keep fracture-critical bridges?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the I-5 Skagit River Bridge",
+    "kisa": "Skagit River Bridge",
+    "nesne": "Truss bridge",
+    "yil": 2013,
+    "sonuc": "lost a span after an oversize load struck it",
+    "tetik": "an oversize truck load hitting overhead beams",
+    "mekanizma": "a fracture-critical through-truss with no redundancy once overhead members were hit",
+    "sayi": "ONE SPAN",
+    "ders": "oversize load permits and fracture-critical bridges came under review",
+    "zincir": [
+      "OVERSIZE LOAD",
+      "ROUTE NOT CHECKED",
+      "HITS OVERHEAD BEAMS",
+      "TRUSS LOSES SUPPORT",
+      "SPAN FALLS"
+    ],
+    "zaman": [],
+    "yanilgi": "The bridge wasn't structurally deficient. Its design had no backup if key members were hit.",
+    "tartisma": "It had been struck by a truck before. Should fracture-critical bridges stay in service?",
+    "basliklar": [
+      "A Truck Clipped One Beam and a Span Fell",
+      "Why the Skagit River Bridge Collapsed",
+      "The Truck That Took Down a Span"
+    ],
+    "kapak": [
+      "ONE HIT",
+      "SPAN DOWN"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — I-5 Skagit River bridge collapse",
+        "url": "https://en.wikipedia.org/wiki/I-5_Skagit_River_bridge_collapse"
+      },
+      {
+        "ad": "NTSB — HAR1401 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR1401.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-18",
+    "wiki": "I-5_Skagit_River_bridge_collapse",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "05-23-13 Skagit Bridge Collapse.jpg [CC BY 2.0]",
+      "Skagit River Bridge Collapse.jpg [CC BY 2.0]",
+      "I-5 Skagit River Bridge - construction from the southwest, 2013-06-03.jpg [CC BY 3.0]",
+      "I-5 Skagit River Bridge - panorama, 2013-06-03.jpg [CC BY 3.0]",
+      "NTSBSkagitRiverBridgeCollapse.jpg [Public domain]",
+      "Skagit bridge truck.jpg [Public domain]",
+      "Investigators present findings from the May 2013 I-5 bridge collapse (14661739872).jpg [Public domain]"
+    ]
+  }
+}

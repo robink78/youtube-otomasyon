@@ -1,0 +1,27 @@
+[
+  {
+    "channel": "behind-the-ordinary",
+    "code": "NO_QUALIFIED_TOPIC",
+    "message": "NO_CANDIDATE_POOL: 7 qualified unused topic(s); minimum 20",
+    "details": {
+      "inventory": {
+        "A": 5,
+        "B": 2,
+        "C": 0,
+        "D": 0
+      }
+    },
+    "date": "2026-10-03",
+    "at": "2026-10-03T18:44:15.255Z"
+  },
+  {
+    "channel": "behind-the-ordinary",
+    "code": "VISUAL_PRECHECK_BLOCK",
+    "message": "why-the-bluetooth-logo-looks-like-that",
+    "details": {
+      "reason": "2 licensed pictures/clips < 4"
+    },
+    "date": "2026-10-04",
+    "at": "2026-10-04T12:23:55.681Z"
+  }
+]

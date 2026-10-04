@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Tornado That Hit a Hospital Head-On",
+  "kaynaklar": [
+    {
+      "ad": "joplin-tornado-1.jpg",
+      "wikimedia": "05252011 tornado joplinafter highres.jpg"
+    },
+    {
+      "ad": "joplin-tornado-2.jpg",
+      "wikimedia": "2011 Joplin, Missouri tornado damage.jpg"
+    },
+    {
+      "ad": "joplin-tornado-3.jpg",
+      "wikimedia": "Chiefs Graphic (5941115020).jpg"
+    },
+    {
+      "ad": "joplin-tornado-4.jpg",
+      "wikimedia": "Corps employees from Philly show Joplin some brotherly (5998863356).jpg"
+    },
+    {
+      "ad": "joplin-tornado-5.jpg",
+      "wikimedia": "Joplin 2011 tornado damage.jpg"
+    },
+    {
+      "ad": "joplin-tornado-6.jpg",
+      "wikimedia": "Joplin tornado damage (5884769735).jpg"
+    },
+    {
+      "ad": "joplin-tornado-7.jpg",
+      "wikimedia": "Obama-joplin-missouri1.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A violent EF5 tornado tore through Joplin, Missouri.",
+      "kaynak": "Footage/joplin-tornado-1.jpg"
+    },
+    {
+      "metin": "It destroyed thousands of buildings and killed more than one hundred fifty people.",
+      "kaynak": "Footage/joplin-tornado-2.jpg"
+    },
+    {
+      "metin": "It struck a hospital head-on.",
+      "kaynak": "Footage/joplin-tornado-3.jpg"
+    },
+    {
+      "metin": "Windows blew in and debris swept through the floors.",
+      "kaynak": "Footage/joplin-tornado-4.jpg"
+    },
+    {
+      "metin": "Backup generators failed.",
+      "kaynak": "Footage/joplin-tornado-5.jpg"
+    },
+    {
+      "metin": "Staff carried patients down stairs by hand.",
+      "kaynak": "Footage/joplin-tornado-6.jpg"
+    },
+    {
+      "metin": "The building had to be demolished.",
+      "kaynak": "Footage/joplin-tornado-7.jpg"
+    },
+    {
+      "metin": "Its replacement was designed to withstand tornadoes.",
+      "kaynak": "Footage/joplin-tornado-1.jpg"
+    }
+  ],
+  "aciklama": "Joplin tornado tore through Joplin, including its hospital. The cause: windows and exterior failing, letting wind and debris inside the building.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Joplin tornado",
+    "2011",
+    "hospital",
+    "engineering failure"
+  ],
+  "hook": "It hit the hospital",
+  "soru": "Harden every hospital?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the 2011 Joplin tornado",
+    "kisa": "Joplin tornado",
+    "nesne": "Hospital",
+    "yil": 2011,
+    "sonuc": "tore through Joplin, including its hospital",
+    "tetik": "an extremely violent tornado crossing the city",
+    "mekanizma": "windows and exterior failing, letting wind and debris inside the building",
+    "sayi": "EF5",
+    "ders": "new hospitals in tornado areas were designed with safe rooms and hardened walls",
+    "zincir": [
+      "EF5 TORNADO",
+      "HOSPITAL WINDOWS BLOW IN",
+      "DEBRIS INSIDE",
+      "GENERATORS FAIL",
+      "PATIENTS MOVED BY HAND"
+    ],
+    "zaman": [],
+    "yanilgi": "The hospital's structure stood. Its windows and exterior failed, and the inside was wrecked.",
+    "tartisma": "The rebuilt hospital was designed to resist tornadoes. Should all critical buildings be?",
+    "basliklar": [
+      "The Tornado That Hit a Hospital Head-On",
+      "What the Joplin Tornado Did to a Hospital",
+      "The Tornado That Hit St. John's"
+    ],
+    "kapak": [
+      "EF5",
+      "HOSPITAL HIT"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2011 Joplin tornado",
+        "url": "https://en.wikipedia.org/wiki/2011_Joplin_tornado"
+      },
+      {
+        "ad": "NIST — NIST.NCSTAR.3 (cited by Wikipedia)",
+        "url": "https://nvlpubs.nist.gov/nistpubs/NCSTAR/NIST.NCSTAR.3.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-13",
+    "wiki": "2011_Joplin_tornado",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "05252011 tornado joplinafter highres.jpg [Public domain]",
+      "2011 Joplin, Missouri tornado damage.jpg [CC BY 2.0]",
+      "Chiefs Graphic (5941115020).jpg [Public domain]",
+      "Corps employees from Philly show Joplin some brotherly (5998863356).jpg [Public domain]",
+      "Joplin 2011 tornado damage.jpg [CC BY 2.0]",
+      "Joplin tornado damage (5884769735).jpg [Public domain]",
+      "Obama-joplin-missouri1.jpg [Public domain]"
+    ]
+  }
+}

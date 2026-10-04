@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Man Accused of Breaking a Levee to Strand His Wife",
+  "kaynaklar": [
+    {
+      "ad": "great-flood-1.jpg",
+      "wikimedia": "Flooding 1993 fema 13708.jpg"
+    },
+    {
+      "ad": "great-flood-2.jpg",
+      "wikimedia": "Cape Girardeau Missouri 1993.jpg"
+    },
+    {
+      "ad": "great-flood-3.jpg",
+      "wikimedia": "FEMA - 1841 - Photograph by Andrea Booher taken on 07-09-1993.jpg"
+    },
+    {
+      "ad": "great-flood-4.jpg",
+      "wikimedia": "FEMA - 2039 - Photograph by Andrea Booher taken on 07-09-1993.jpg"
+    },
+    {
+      "ad": "great-flood-5.jpg",
+      "wikimedia": "FEMA - 3373 - Photograph by FEMA News Photo taken on 09-01-1993.jpg"
+    },
+    {
+      "ad": "great-flood-6.jpg",
+      "wikimedia": "Dump truck in St. Louis, Missouri.JPEG"
+    },
+    {
+      "ad": "great-flood-7.jpg",
+      "wikimedia": "Flooding 1993 fema 3562.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Floodwater broke through levees across the American Midwest.",
+      "kaynak": "Footage/great-flood-1.jpg"
+    },
+    {
+      "metin": "For months, towns and farms went underwater, and fifty people died.",
+      "kaynak": "Footage/great-flood-2.jpg"
+    },
+    {
+      "metin": "Months of rain filled the Mississippi and Missouri.",
+      "kaynak": "Footage/great-flood-3.jpg"
+    },
+    {
+      "metin": "Rivers stayed at record levels for weeks.",
+      "kaynak": "Footage/great-flood-4.jpg"
+    },
+    {
+      "metin": "Nearly all private farm levees on the Missouri were overtopped or destroyed.",
+      "kaynak": "Footage/great-flood-5.jpg"
+    },
+    {
+      "metin": "One man was accused of removing sandbags from a levee on purpose.",
+      "kaynak": "Footage/great-flood-6.jpg"
+    },
+    {
+      "metin": "The breach flooded thousands of acres.",
+      "kaynak": "Footage/great-flood-7.jpg"
+    },
+    {
+      "metin": "It reshaped how America handles floodplains.",
+      "kaynak": "Footage/great-flood-1.jpg"
+    }
+  ],
+  "aciklama": "1993 flood overwhelmed levees across the Midwest. The cause: prolonged high water overtopping and destroying hundreds of levees.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "1993 flood",
+    "1993",
+    "levees",
+    "engineering failure"
+  ],
+  "hook": "He removed the sandbags",
+  "soru": "Rebuild in a floodplain?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Great Flood of 1993",
+    "kisa": "1993 flood",
+    "nesne": "Levees",
+    "yil": 1993,
+    "sonuc": "overwhelmed levees across the Midwest",
+    "tetik": "months of heavy rain on the Mississippi and Missouri basins",
+    "mekanizma": "prolonged high water overtopping and destroying hundreds of levees",
+    "sayi": "50 DEAD",
+    "ders": "the flood reshaped buyouts and floodplain policy",
+    "zincir": [
+      "MONTHS OF RAIN",
+      "RIVERS AT RECORD",
+      "LEVEES OVERTOPPED",
+      "ONE LEVEE SABOTAGED",
+      "FARMLAND FLOODED"
+    ],
+    "zaman": [],
+    "yanilgi": "Not every breach was natural. One man was accused of removing sandbags on purpose.",
+    "tartisma": "Nearly all private farm levees failed. Should people rebuild in a floodplain?",
+    "basliklar": [
+      "The Man Accused of Breaking a Levee to Strand His Wife",
+      "The Great Flood of 1993",
+      "The Levee Sabotage Story"
+    ],
+    "kapak": [
+      "LEVEES FAILED",
+      "SABOTAGE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Great Flood of 1993",
+        "url": "https://en.wikipedia.org/wiki/Great_Flood_of_1993"
+      },
+      {
+        "ad": "NOAA — tr9304 (cited by Wikipedia)",
+        "url": "http://www1.ncdc.noaa.gov/pub/data/documentlibrary/reports/technical/tr9304.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-22",
+    "wiki": "Great_Flood_of_1993",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Flooding 1993 fema 13708.jpg [Public domain]",
+      "Cape Girardeau Missouri 1993.jpg [Public domain]",
+      "FEMA - 1841 - Photograph by Andrea Booher taken on 07-09-1993.jpg [Public domain]",
+      "FEMA - 2039 - Photograph by Andrea Booher taken on 07-09-1993.jpg [Public domain]",
+      "FEMA - 3373 - Photograph by FEMA News Photo taken on 09-01-1993.jpg [Public domain]",
+      "Dump truck in St. Louis, Missouri.JPEG [Public domain]",
+      "Flooding 1993 fema 3562.jpg [Public domain]"
+    ]
+  }
+}

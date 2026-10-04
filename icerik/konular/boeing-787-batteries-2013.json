@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Burning Batteries Grounded Every Boeing 787",
+  "kaynaklar": [
+    {
+      "ad": "boeing-787-batteries-1.jpg",
+      "wikimedia": "1-7-12 JAL787 APU Battery.JPG"
+    },
+    {
+      "ad": "boeing-787-batteries-2.jpg",
+      "wikimedia": "Convening the second day of the Investigative Hearing (8678683620).jpg"
+    },
+    {
+      "ad": "boeing-787-batteries-3.jpg",
+      "wikimedia": "787 Battery Fire Investigative Hearing (8675587380).jpg"
+    },
+    {
+      "ad": "boeing-787-batteries-4.jpg",
+      "wikimedia": "Boeing Dreamliner battery original and damaged.jpg"
+    },
+    {
+      "ad": "boeing-787-batteries-5.jpg",
+      "wikimedia": "Mike Sinnett, Boeing (8676074712).jpg"
+    },
+    {
+      "ad": "boeing-787-batteries-6.jpg",
+      "wikimedia": "Panelists (8677576699).jpg"
+    },
+    {
+      "ad": "boeing-787-batteries-7.jpg",
+      "wikimedia": "Investigative Hearing in progress (8678683402).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A battery caught fire on a parked Boeing 787 in Boston.",
+      "kaynak": "Footage/boeing-787-batteries-1.jpg"
+    },
+    {
+      "metin": "Within days, another overheated in flight, and every 787 was grounded.",
+      "kaynak": "Footage/boeing-787-batteries-2.jpg"
+    },
+    {
+      "metin": "The jets used large lithium-ion batteries.",
+      "kaynak": "Footage/boeing-787-batteries-3.jpg"
+    },
+    {
+      "metin": "One cell could short-circuit and overheat.",
+      "kaynak": "Footage/boeing-787-batteries-4.jpg"
+    },
+    {
+      "metin": "Its heat spread to the cells beside it.",
+      "kaynak": "Footage/boeing-787-batteries-5.jpg"
+    },
+    {
+      "metin": "Certification had assumed that wouldn't happen.",
+      "kaynak": "Footage/boeing-787-batteries-6.jpg"
+    },
+    {
+      "metin": "The fix added insulation between cells and a steel box around them.",
+      "kaynak": "Footage/boeing-787-batteries-7.jpg"
+    },
+    {
+      "metin": "The fleet returned to service months later.",
+      "kaynak": "Footage/boeing-787-batteries-1.jpg"
+    }
+  ],
+  "aciklama": "787 battery caught fire, grounding the entire fleet. The cause: thermal runaway in lithium-ion cells propagating through a battery without adequate containment.\n\n#shorts #engineering #materials",
+  "etiketler": [
+    "787 battery",
+    "2013",
+    "lithium-ion battery",
+    "engineering failure"
+  ],
+  "hook": "Every 787 was grounded",
+  "soru": "Test the impossible case?",
+  "vaka": {
+    "kume": "materials-failures",
+    "tip": "vaka",
+    "ad": "the Boeing 787 batteries",
+    "kisa": "787 battery",
+    "nesne": "Lithium-ion battery",
+    "yil": 2013,
+    "sonuc": "caught fire, grounding the entire fleet",
+    "tetik": "a cell short circuit spreading heat to neighbouring cells",
+    "mekanizma": "thermal runaway in lithium-ion cells propagating through a battery without adequate containment",
+    "sayi": "FLEET GROUNDED",
+    "ders": "the battery was redesigned with cell insulation and a steel containment box",
+    "zincir": [
+      "ONE CELL SHORT-CIRCUITS",
+      "CELL OVERHEATS",
+      "HEAT SPREADS TO OTHER CELLS",
+      "SMOKE AND FIRE",
+      "WHOLE FLEET GROUNDED"
+    ],
+    "zaman": [],
+    "yanilgi": "The batteries didn't fail in flight first. The first fire broke out on a parked aircraft in Boston.",
+    "tartisma": "Certification assumed cell failures wouldn't spread. How do you test for the case you think can't happen?",
+    "basliklar": [
+      "Burning Batteries Grounded Every Boeing 787",
+      "Why Boeing 787 Batteries Caught Fire",
+      "The Battery Fires That Grounded a New Jet"
+    ],
+    "kapak": [
+      "BATTERY FIRE",
+      "GROUNDED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Boeing 787 Dreamliner battery problems",
+        "url": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner_battery_problems"
+      },
+      {
+        "ad": "Japan Transport Safety Board / MLIT — JA804A (cited by Wikipedia)",
+        "url": "http://www.mlit.go.jp/jtsb/eng-air_report/JA804A.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-09",
+    "wiki": "Boeing_787_Dreamliner_battery_problems",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "1-7-12 JAL787 APU Battery.JPG [Public domain]",
+      "Convening the second day of the Investigative Hearing (8678683620).jpg [Public domain]",
+      "787 Battery Fire Investigative Hearing (8675587380).jpg [Public domain]",
+      "Boeing Dreamliner battery original and damaged.jpg [Public domain]",
+      "Mike Sinnett, Boeing (8676074712).jpg [Public domain]",
+      "Panelists (8677576699).jpg [Public domain]",
+      "Investigative Hearing in progress (8678683402).jpg [Public domain]"
+    ]
+  }
+}

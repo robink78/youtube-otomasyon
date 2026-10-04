@@ -1,0 +1,63 @@
+{
+  "slug": "how-hurricanes-destroy",
+  "olusturuldu": "2026-09-24T16:22:41.665Z",
+  "originality": 86,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.13,
+      "kim": "how-fire-spreads"
+    },
+    "hook": {
+      "deger": 0.15,
+      "kim": "the-physics-of-explosions"
+    },
+    "structure": {
+      "deger": 0.78,
+      "kim": "how-fire-spreads"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.53,
+      "kim": "why-buildings-collapse"
+    },
+    "cta": {
+      "deger": 0.12,
+      "kim": "halifax-explosion"
+    },
+    "description": {
+      "deger": 0.13,
+      "kim": "the-science-of-sinkholes"
+    },
+    "music": {
+      "deger": 0.92,
+      "kim": "why-buildings-collapse"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.13,
+    "HOOK_SIMILARITY": 0.15,
+    "STRUCTURE_SIMILARITY": 0.78,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.53,
+    "CTA_SIMILARITY": 0.12,
+    "DESCRIPTION_SIMILARITY": 0.13,
+    "MUSIC_SIMILARITY": 0.92
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

@@ -1,0 +1,543 @@
+{
+  "schema": "research-package/1",
+  "id": "critical-thread:the-hidden-system-behind-swift-messaging-network",
+  "channel": "critical-thread",
+  "topicId": "CT-456",
+  "slug": "the-hidden-system-behind-swift-messaging-network",
+  "subject": "SWIFT messaging network",
+  "cluster": "FINANCIAL INFRASTRUCTURE",
+  "topicHash": "c7f361ff19e9+deep22",
+  "createdAt": "2026-09-30T15:48:35.713Z",
+  "reuseCount": 0,
+  "reusableFor": [
+    "long-form",
+    "derived-shorts",
+    "metadata",
+    "fact-check",
+    "visual-sourcing",
+    "follow-up-episodes"
+  ],
+  "sources": [
+    {
+      "name": "Bank for International Settlements",
+      "url": "https://www.bis.org/",
+      "tier": "GOVERNMENT_AGENCY",
+      "score": 95
+    },
+    {
+      "name": "Federal Reserve Financial Services",
+      "url": "https://www.frbservices.org/",
+      "tier": "GOVERNMENT_AGENCY",
+      "score": 95
+    },
+    {
+      "name": "Wikipedia — Message",
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "tier": "ENCYCLOPEDIA",
+      "score": 55
+    }
+  ],
+  "deepResearch": {
+    "article": "Message",
+    "via": "subject title (exact/redirect match, no fuzzy search)",
+    "claims": 22,
+    "status": "OK",
+    "licence": "CC BY-SA 4.0 — facts only; never narrate verbatim"
+  },
+  "sourceQuality": 95,
+  "primarySources": 2,
+  "claims": [
+    {
+      "id": "C1",
+      "text": "A bank cut off from the network can still hold money but struggles to instruct payments abroad, isolating its customers.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Bank for International Settlements",
+      "role": "consequence"
+    },
+    {
+      "id": "C2",
+      "text": "Banks exchange standardised payment instructions over SWIFT; settlement itself happens through accounts held elsewhere.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Bank for International Settlements",
+      "role": "mechanism"
+    },
+    {
+      "id": "C3",
+      "text": "The key figure: 11,000.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Bank for International Settlements",
+      "role": "number"
+    },
+    {
+      "id": "C4",
+      "text": "Why banks depend on one hidden network.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C5",
+      "text": "It never holds the money, only the payment messages.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C6",
+      "text": "In 2015, it linked over 11,000 institutions in more than 200 countries.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C7",
+      "text": "Together they sent over 32 million messages a day.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C8",
+      "text": "By 2018, about half of high-value cross-border payments used it.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C9",
+      "text": "It began in 1973 as a Belgian cooperative owned by banks.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C10",
+      "text": "That's why being cut off from it can isolate a whole economy.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "editorial narration (case file)",
+      "role": "narration"
+    },
+    {
+      "id": "C11",
+      "text": "In 2015 SWIFT linked more than 11,000 financial institutions in over 200 countries and territories.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — SWIFT",
+      "role": "evidence"
+    },
+    {
+      "id": "C12",
+      "text": "Its members were exchanging an average of over 32 million messages per day.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — SWIFT",
+      "role": "evidence"
+    },
+    {
+      "id": "C13",
+      "text": "As of 2018, around half of all high-value cross-border payments worldwide used the SWIFT network.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — SWIFT",
+      "role": "evidence"
+    },
+    {
+      "id": "C14",
+      "text": "SWIFT is a cooperative established in 1973 in Belgium and owned by its member banks and firms.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — SWIFT",
+      "role": "evidence"
+    },
+    {
+      "id": "C15",
+      "text": "SWIFT does not manage accounts for individuals or institutions and does not hold funds from third parties.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — SWIFT",
+      "role": "evidence"
+    },
+    {
+      "id": "C16",
+      "text": "SWIFT was founded in Brussels on 3 May 1973.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — SWIFT",
+      "role": "evidence"
+    },
+    {
+      "id": "C17",
+      "text": "It was initially supported by 239 banks in 15 countries.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — SWIFT",
+      "role": "evidence"
+    },
+    {
+      "id": "C18",
+      "text": "After a payment is initiated, it must be settled through a payment system such as T2 in Europe.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — SWIFT",
+      "role": "evidence"
+    },
+    {
+      "id": "C19",
+      "text": "SWIFT assigns ISO 9362 Business Identifier Codes, popularly known as SWIFT codes.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Wikipedia — SWIFT",
+      "role": "evidence"
+    },
+    {
+      "id": "C20",
+      "text": "Cross-border bank payments depend on standardised SWIFT messages between institutions.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Bank for International Settlements",
+      "role": "dependency"
+    },
+    {
+      "id": "C21",
+      "text": "Replacing it means every counterparty adopting another messaging system, identifier scheme and security setup at once.",
+      "class": "MODEL",
+      "layer": "MODEL",
+      "source": "Bank for International Settlements",
+      "role": "bottleneck"
+    },
+    {
+      "id": "C22",
+      "text": "Alternative domestic messaging systems, correspondent workarounds and contingency channels exist but cover only part of the traffic.",
+      "class": "CONFIRMED_FACT",
+      "layer": "VERIFIED FACT",
+      "source": "Bank for International Settlements",
+      "role": "resilience"
+    },
+    {
+      "id": "C23",
+      "text": "A message is a unit of communication that conveys information from a sender to a receiver.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "consequence",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Lead",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C24",
+      "text": "It can be transmitted through various forms, such as spoken or written words, signals, or electronic data, and can range from simple instructions to complex information.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Lead",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C25",
+      "text": "The consumption of the message relies on how the recipient interprets the message, there are times where the recipient contradicts the intention of the message which results in a boomerang effect.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Lead",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C26",
+      "text": "Message fatigue is another outcome recipients can obtain if a message is conveyed too much by the source.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Lead",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C27",
+      "text": "Messages may be addressed to many unidentified recipients.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Lead",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C28",
+      "text": "One example of such a message is a press release, which may vary from a brief report or statement released by a public agency to commercial publicity material.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Lead",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C29",
+      "text": "Another example of a message is an advertisement.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Lead",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C30",
+      "text": "In communication between humans, messages can be verbal or nonverbal: A verbal message is an exchange of information using words.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "evidence",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Roles in human communication",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C31",
+      "text": "Examples include face-to-face communication, telephone calls, voicemails, emails, etc.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "evidence",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Roles in human communication",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C32",
+      "text": "A nonverbal message is communicated through actions or behaviors rather than words, such as conscious or unconscious body language.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "evidence",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Roles in human communication",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C33",
+      "text": "The phrase \"send a message\" or \"sending a message\" is also used for actions taken by a party to convey that party's attitude towards a certain thing.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "evidence",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Roles in human communication",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C34",
+      "text": "For example, a government that executes people who commit acts of treason is sending a message that treason will not be tolerated.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "evidence",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Roles in human communication",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C35",
+      "text": "Conversely, a party that appears through its actions to endorse something that it opposes can be said to be \"sending the wrong message\", while one which appears to simultaneously endorse contradictory things can be said to be sending \"mixed messages\".",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "evidence",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Roles in human communication",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C36",
+      "text": "In distributed systems, events represent a fact or state change (e.g., OrderPlaced) and are typically broadcast asynchronously to multiple consumers, promoting loose coupling and scalability.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Events vs. messages",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C37",
+      "text": "While events generally do not expect an immediate response, acknowledgment mechanisms are often implemented at the infrastructure level (e.g., Kafka commit offsets, SNS delivery statuses) rather than being an inherent part of the event pattern itself.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Events vs. messages",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C38",
+      "text": "In contrast, messages serve a broader role, encompassing commands (e.g., ProcessPayment), events (e.g., PaymentProcessed), and documents (e.g., DataPayload).",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Events vs. messages",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C39",
+      "text": "Both events and messages can support various delivery guarantees, including at-least-once, at-most-once, and exactly-once, depending on the technology stack and implementation.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Events vs. messages",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C40",
+      "text": "However, exactly-once delivery is often achieved through idempotency mechanisms rather than true, infrastructure-level exactly-once semantics.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Events vs. messages",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C41",
+      "text": "Delivery patterns for both events and messages include publish/subscribe (one-to-many) and point-to-point (one-to-one).",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Events vs. messages",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C42",
+      "text": "While request/reply is technically possible, it is more commonly associated with messaging patterns rather than pure event-driven systems.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Events vs. messages",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C43",
+      "text": "Events excel at state propagation and decoupled notifications, while messages are better suited for command execution, workflow orchestration, and explicit coordination.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Events vs. messages",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "id": "C44",
+      "text": "Modern architectures commonly combine both approaches, leveraging events for distributed state change notifications and messages for targeted command execution and structured workflows based on specific timing, ordering, and delivery requirements.",
+      "class": "CONFIRMED_FACT",
+      "layer": "CONFIRMED FACT",
+      "source": "Wikipedia — Message",
+      "role": "event",
+      "verbatim": false,
+      "url": "https://en.wikipedia.org/wiki/Message",
+      "section": "Events vs. messages",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "visualLeads": [
+    {
+      "text": "payment message flow between two banks",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "world map of member institutions",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "message volume counter",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "difference between message and settlement diagram",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "founding in Belgium 1973",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "cut-off bank isolation map",
+      "source": null,
+      "start": null,
+      "origin": "case-file"
+    },
+    {
+      "text": "Glaspalast München 1891 062",
+      "source": "Commons: Glaspalast München 1891 062.jpg",
+      "origin": "article-image (licence check pending)"
+    },
+    {
+      "text": "MountScopusHeadstone2",
+      "source": "Commons: MountScopusHeadstone2.JPG",
+      "origin": "article-image (licence check pending)"
+    }
+  ],
+  "footage": [],
+  "gaps": [
+    "2 source(s); long-form needs ≥ 3"
+  ]
+}

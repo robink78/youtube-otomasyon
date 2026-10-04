@@ -1,0 +1,24 @@
+{
+  "channel": "critical-thread",
+  "days": {
+    "2026-10-03": {
+      "units": 1727,
+      "ops": {
+        "channels.list": 77,
+        "playlistItems.list": 17,
+        "videos.list": 33,
+        "videos.insert": 1
+      }
+    },
+    "2026-10-04": {
+      "units": 1697,
+      "ops": {
+        "channels.list": 60,
+        "playlistItems.list": 13,
+        "videos.list": 24,
+        "videos.insert": 1
+      }
+    }
+  },
+  "project": "208987599838"
+}

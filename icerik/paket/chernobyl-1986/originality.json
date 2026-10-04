@@ -1,0 +1,63 @@
+{
+  "slug": "chernobyl-1986",
+  "olusturuldu": "2026-10-04T12:12:01.886Z",
+  "originality": 85,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.07,
+      "kim": "deepwater-horizon-2010"
+    },
+    "hook": {
+      "deger": 0.14,
+      "kim": "deepwater-horizon-2010"
+    },
+    "structure": {
+      "deger": 0.88,
+      "kim": "lower-van-norman-dam-1971"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.5,
+      "kim": "challenger-1986"
+    },
+    "cta": {
+      "deger": 0.05,
+      "kim": "san-francisco-1906"
+    },
+    "description": {
+      "deger": 0.06,
+      "kim": "lower-van-norman-dam-1971"
+    },
+    "music": {
+      "deger": 0.77,
+      "kim": "deepwater-horizon-2010"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.07,
+    "HOOK_SIMILARITY": 0.14,
+    "STRUCTURE_SIMILARITY": 0.88,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.5,
+    "CTA_SIMILARITY": 0.05,
+    "DESCRIPTION_SIMILARITY": 0.06,
+    "MUSIC_SIMILARITY": 0.77
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

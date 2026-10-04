@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Hidden Cables Inside Genoa's Collapsed Bridge",
+  "kaynaklar": [
+    {
+      "ad": "ponte-morandi-1.jpg",
+      "wikimedia": "Crollo ponte Morandi Genova (29094856107).jpg"
+    },
+    {
+      "ad": "ponte-morandi-2.jpg",
+      "wikimedia": "Crollo ponte Morandi Genova (29094859067).jpg"
+    },
+    {
+      "ad": "ponte-morandi-3.jpg",
+      "wikimedia": "Genova-panorama dal santuario di ns incoronata3.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A motorway bridge in Genoa collapsed during a storm.",
+      "kaynak": "Footage/ponte-morandi-1.jpg"
+    },
+    {
+      "metin": "Cars and trucks fell with it, and forty three people died.",
+      "kaynak": "Footage/ponte-morandi-2.jpg"
+    },
+    {
+      "metin": "The bridge hung from concrete stays.",
+      "kaynak": "Footage/ponte-morandi-3.jpg"
+    },
+    {
+      "metin": "Inside them were steel tendons carrying the load.",
+      "kaynak": "Footage/ponte-morandi-1.jpg"
+    },
+    {
+      "metin": "Water and salt reached that steel and corroded it.",
+      "kaynak": "Footage/ponte-morandi-2.jpg"
+    },
+    {
+      "metin": "The concrete hid the damage from inspectors.",
+      "kaynak": "Footage/ponte-morandi-3.jpg"
+    },
+    {
+      "metin": "When one stay failed, the span and tower fell.",
+      "kaynak": "Footage/ponte-morandi-1.jpg"
+    },
+    {
+      "metin": "Italy then launched a national campaign to inspect ageing bridges.",
+      "kaynak": "Footage/ponte-morandi-2.jpg"
+    }
+  ],
+  "aciklama": "Ponte Morandi collapsed during a storm in Genoa. The cause: corrosion of prestressing tendons encased in concrete stays that could not be inspected.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Ponte Morandi",
+    "2018",
+    "bridge",
+    "engineering failure"
+  ],
+  "hook": "The steel was hidden",
+  "soru": "How do you inspect what you can't see?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Morandi Bridge",
+    "kisa": "Ponte Morandi",
+    "nesne": "Bridge",
+    "yil": 2018,
+    "sonuc": "collapsed during a storm in Genoa",
+    "tetik": "corroded steel tendons hidden inside concrete stays",
+    "mekanizma": "corrosion of prestressing tendons encased in concrete stays that could not be inspected",
+    "sayi": "43 DEAD",
+    "ders": "Italy launched a national inspection campaign for ageing bridges",
+    "zincir": [
+      "STEEL TENDONS ENCASED IN CONCRETE",
+      "WATER AND SALT REACH THE STEEL",
+      "CORROSION HIDDEN FROM VIEW",
+      "A STAY FAILS",
+      "SPAN AND TOWER COLLAPSE"
+    ],
+    "zaman": [],
+    "yanilgi": "The storm wasn't the cause. The steel inside the concrete stays had been corroding for years where nobody could see it.",
+    "tartisma": "Its own designer warned about corrosion decades earlier. Why do warnings about ageing structures get postponed?",
+    "basliklar": [
+      "The Hidden Cables Inside Genoa's Collapsed Bridge",
+      "Why the Morandi Bridge Collapsed",
+      "The Corrosion You Couldn't See"
+    ],
+    "kapak": [
+      "HIDDEN STEEL",
+      "43 DEAD"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Ponte Morandi",
+        "url": "https://en.wikipedia.org/wiki/Ponte_Morandi"
+      },
+      {
+        "ad": "Engineering institution — record.jsp?dockey=0034749 (cited by Wikipedia)",
+        "url": "http://cedb.asce.org/CEDBsearch/record.jsp?dockey=0034749"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-02",
+    "wiki": "Ponte_Morandi",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Crollo ponte Morandi Genova (29094856107).jpg [CC BY 2.0]",
+      "Crollo ponte Morandi Genova (29094859067).jpg [CC BY 2.0]",
+      "Genova-panorama dal santuario di ns incoronata3.jpg [Public domain]"
+    ]
+  }
+}

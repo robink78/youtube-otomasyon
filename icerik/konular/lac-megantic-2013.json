@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Unattended Oil Train That Rolled Into a Town",
+  "kaynaklar": [
+    {
+      "ad": "lac-megantic-1.jpg",
+      "wikimedia": "Lac-Megantic derailment from space.jpg"
+    },
+    {
+      "ad": "lac-megantic-2.jpg",
+      "wikimedia": "Lac-Mégantic accident aerial photography.jpg"
+    },
+    {
+      "ad": "lac-megantic-3.png",
+      "wikimedia": "Lac megantic affected area.png"
+    },
+    {
+      "ad": "lac-megantic-4.png",
+      "wikimedia": "Trajectory of runaway train from Nantes to Lac-Megantic.png"
+    },
+    {
+      "ad": "lac-megantic-5.jpg",
+      "wikimedia": "Lac Mégantic - panoramio.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "In the middle of the night, a runaway oil train rolled into a Quebec town.",
+      "kaynak": "Footage/lac-megantic-1.jpg"
+    },
+    {
+      "metin": "It derailed and exploded, and forty seven people were killed.",
+      "kaynak": "Footage/lac-megantic-2.jpg"
+    },
+    {
+      "metin": "Nobody was aboard.",
+      "kaynak": "Footage/lac-megantic-3.png"
+    },
+    {
+      "metin": "It had been parked uphill with too few handbrakes applied.",
+      "kaynak": "Footage/lac-megantic-4.png"
+    },
+    {
+      "metin": "A fire broke out on the locomotive.",
+      "kaynak": "Footage/lac-megantic-5.jpg"
+    },
+    {
+      "metin": "When the engine was shut down, its air brakes slowly released.",
+      "kaynak": "Footage/lac-megantic-1.jpg"
+    },
+    {
+      "metin": "The train began rolling down toward the town.",
+      "kaynak": "Footage/lac-megantic-2.jpg"
+    },
+    {
+      "metin": "Canada tightened rules for securing trains and building tank cars.",
+      "kaynak": "Footage/lac-megantic-3.png"
+    }
+  ],
+  "aciklama": "Lac-Mégantic rolled into town, derailed and exploded. The cause: air brakes releasing after the locomotive was shut down, with insufficient handbrakes to hold the train.\n\n#shorts #engineering #railways",
+  "etiketler": [
+    "Lac-Mégantic",
+    "2013",
+    "oil train",
+    "engineering failure"
+  ],
+  "hook": "Nobody was aboard",
+  "soru": "Who could have known?",
+  "vaka": {
+    "kume": "rail-disasters",
+    "tip": "vaka",
+    "ad": "the Lac-Mégantic oil train",
+    "kisa": "Lac-Mégantic",
+    "nesne": "Oil train",
+    "yil": 2013,
+    "sonuc": "rolled into town, derailed and exploded",
+    "tetik": "too few handbrakes on an unattended train on a slope",
+    "mekanizma": "air brakes releasing after the locomotive was shut down, with insufficient handbrakes to hold the train",
+    "sayi": "47 KILLED",
+    "ders": "Canada tightened rules on securing trains and on tank car design",
+    "zincir": [
+      "TRAIN PARKED ON A GRADE",
+      "TOO FEW HANDBRAKES",
+      "LOCOMOTIVE FIRE, ENGINE SHUT DOWN",
+      "AIR BRAKES LEAK OFF",
+      "RUNAWAY DERAILS IN TOWN"
+    ],
+    "zaman": [],
+    "yanilgi": "Nobody was driving it. The train was parked for the night and began rolling on its own.",
+    "tartisma": "Firefighters shut down the burning locomotive, which disabled its air brakes. Who could have known?",
+    "basliklar": [
+      "The Unattended Oil Train That Rolled Into a Town",
+      "Why the Lac-Mégantic Train Rolled Into Town",
+      "The Runaway Train With Nobody Aboard"
+    ],
+    "kapak": [
+      "NO ONE ABOARD",
+      "47 KILLED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Lac-Mégantic rail disaster",
+        "url": "https://en.wikipedia.org/wiki/Lac-Mégantic_rail_disaster"
+      },
+      {
+        "ad": "NTSB — RAR1201 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/doclib/reports/2012/RAR1201.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "fix-stills-2",
+    "wiki": "Lac-Mégantic_rail_disaster",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Lac-Megantic derailment from space.jpg [Public domain]",
+      "Lac-Mégantic accident aerial photography.jpg [CC BY 4.0]",
+      "Lac megantic affected area.png [CC0]",
+      "Trajectory of runaway train from Nantes to Lac-Megantic.png [CC0]",
+      "Lac Mégantic - panoramio.jpg [CC BY 3.0]"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+name: YouTube comment replies
+
+# Comment replies are deliberately independent from video production. A day
+# that already has a scheduled video must not prevent new comments from being
+# checked. Minute 17 avoids GitHub Actions' busiest top-of-hour window.
+on:
+  schedule:
+    # Every four hours (UTC); Europe/Istanbul is UTC+3 year-round.
+    - cron: '17 1,5,9,13,17,21 * * *'
+  workflow_dispatch:
+
+# The reply state lives under icerik/, which the production workflow also
+# commits. Sharing its lock prevents two jobs from racing while pushing state.
+concurrency:
+  group: portfolio-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      FR_YT_CLIENT_ID: ${{ secrets.FR_YT_CLIENT_ID }}
+      FR_YT_CLIENT_SECRET: ${{ secrets.FR_YT_CLIENT_SECRET }}
+      FR_YT_REFRESH_TOKEN: ${{ secrets.FR_YT_REFRESH_TOKEN }}
+      FR_YT_CHANNEL_ID: ${{ vars.FR_YT_CHANNEL_ID }}
+      IB_CLIENT_ID: ${{ secrets.IB_CLIENT_ID }}
+      IB_CLIENT_SECRET: ${{ secrets.IB_CLIENT_SECRET }}
+      IB_YT_REFRESH_TOKEN: ${{ secrets.IB_YT_REFRESH_TOKEN }}
+      IB_YT_CHANNEL_ID: ${{ vars.IB_YT_CHANNEL_ID }}
+      CT_CLIENT_ID: ${{ secrets.CT_CLIENT_ID }}
+      CT_CLIENT_SECRET: ${{ secrets.CT_CLIENT_SECRET }}
+      CT_YT_REFRESH_TOKEN: ${{ secrets.CT_YT_REFRESH_TOKEN }}
+      CT_YT_CHANNEL_ID: ${{ vars.CT_YT_CHANNEL_ID }}
+      BTO_YT_CLIENT_ID: ${{ secrets.BTO_YT_CLIENT_ID }}
+      BTO_YT_CLIENT_SECRET: ${{ secrets.BTO_YT_CLIENT_SECRET }}
+      BTO_YT_REFRESH_TOKEN: ${{ secrets.BTO_YT_REFRESH_TOKEN }}
+      BTO_YT_CHANNEL_ID: ${{ vars.BTO_YT_CHANNEL_ID }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Reply to eligible new comments
+        run: node yorum-yanitla.js --channel failure-reconstructed --limit 4
+
+      # Each channel uses its own identity; a failure in one never stops the others.
+      - name: ImpossibleBrief replies and seed comment
+        if: ${{ always() && vars.IB_PUBLISH == '1' }}
+        continue-on-error: true
+        run: |
+          node yorum-yanitla.js --channel impossible-brief --limit 4 || true
+          node seed-comment.js --channel impossible-brief
+
+      - name: CriticalThread replies and seed comment
+        if: ${{ always() && vars.CT_PUBLISH == '1' }}
+        continue-on-error: true
+        run: |
+          node yorum-yanitla.js --channel critical-thread --limit 4 || true
+          node seed-comment.js --channel critical-thread
+
+      - name: The Hidden Logic of Things replies and seed comment
+        if: ${{ always() && vars.BTO_PUBLISH == '1' }}
+        continue-on-error: true
+        run: |
+          node yorum-yanitla.js --channel behind-the-ordinary --limit 4 || true
+          node seed-comment.js --channel behind-the-ordinary
+
+      # Failure Reconstructed moved to the portfolio workflow, which does not
+      # post its discussion comment; videos are public only from 21:00 TR.
+      - name: Failure Reconstructed discussion comment
+        if: always()
+        continue-on-error: true
+        run: node pinned-comment.js --post-pending
+
+      - name: Persist processed comment IDs
+        if: always()
+        run: |
+          git config user.name "comment-reply-bot"
+          git config user.email "actions@users.noreply.github.com"
+          # One path at a time: git add stages nothing when any listed path is missing.
+          for STATE in icerik/yanitlanan.json icerik/sabit-yorumlar.json channels/*/state/replied-comments.json channels/*/state/seeded-comments.json; do
+            if [ -e "$STATE" ]; then git add "$STATE"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "No new comment state to persist."
+            exit 0
+          fi
+          git commit -m "chore: persist processed YouTube comments"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push origin HEAD:main && exit 0
+            echo "Push attempt $i failed; retrying."
+            sleep $((i * 5))
+          done
+          exit 1

@@ -1,0 +1,677 @@
+{
+  "slug": "general-slocum-1904",
+  "format": "short",
+  "olusturuldu": "2026-09-30T13:58:21.844Z",
+  "secilen": "General Slocum: The Inspection That Killed",
+  "secilenPuan": 46.7,
+  "mevcutPuan": 24.4,
+  "sablonOnerisi": {
+    "baslik": "The Real Reason the General Slocum Fire Burned With Over a Thousand Dead",
+    "puan": 60.4,
+    "not": "template scored 10+ higher — review wording, then add it to vaka.basliklar to allow auto-selection"
+  },
+  "adaySayisi": 25,
+  "adaylar": [
+    {
+      "baslik": "The Real Reason the General Slocum Fire Burned With Over a Thousand Dead",
+      "kalip": "real-reason",
+      "toplam": 60.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 6,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (72 chars)"
+      ],
+      "kaynak": "template:real-reason"
+    },
+    {
+      "baslik": "The General Slocum Fire Didn't Just Fail — It Burned With Over a Thousand Dead",
+      "kalip": "two-beat",
+      "toplam": 57.4,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 6,
+        "tension": 8,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 7.6
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.88,
+      "notes": [
+        "long for Shorts feed (78 chars)",
+        "title pattern \"two-beat\" already used by 4 other videos"
+      ],
+      "kaynak": "template:didnt-just-fail"
+    },
+    {
+      "baslik": "What Engineers Learned From the General Slocum Fire",
+      "kalip": "what",
+      "toplam": 56.7,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"what\" already used by 2 other videos"
+      ],
+      "kaynak": "template:lesson"
+    },
+    {
+      "baslik": "What Really Destroyed the General Slocum Fire",
+      "kalip": "what-really",
+      "toplam": 55.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.16,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"what-really\" already used by 3 other videos"
+      ],
+      "kaynak": "template:what-really"
+    },
+    {
+      "baslik": "1904: The General Slocum Fire Burned With Over a Thousand Dead",
+      "kalip": "label-colon",
+      "toplam": 50.4,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 9,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "long for Shorts feed (62 chars)",
+        "title pattern \"label-colon\" already used by 4 other videos"
+      ],
+      "kaynak": "template:year-result"
+    },
+    {
+      "baslik": "Inside the General Slocum Fire: The Failure Chain",
+      "kalip": "label-colon",
+      "toplam": 50.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.6,
+      "notes": [
+        "title pattern \"label-colon\" already used by 4 other videos"
+      ],
+      "kaynak": "template:inside-chain"
+    },
+    {
+      "baslik": "The General Slocum Fire: What Failed First",
+      "kalip": "label-colon",
+      "toplam": 50.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"label-colon\" already used by 4 other videos"
+      ],
+      "kaynak": "template:failed-first"
+    },
+    {
+      "baslik": "How the General Slocum Fire Became Burned With Over a Thousand Dead",
+      "kalip": "how",
+      "toplam": 50.2,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 8,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.86,
+      "notes": [
+        "long for Shorts feed (67 chars)",
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-became"
+    },
+    {
+      "baslik": "The General Slocum Fire: The Engineering Behind the Failure",
+      "kalip": "label-colon",
+      "toplam": 49.7,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 7,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.75,
+      "notes": [
+        "title pattern \"label-colon\" already used by 4 other videos"
+      ],
+      "kaynak": "template:engineering-behind"
+    },
+    {
+      "baslik": "The General Slocum Fire: 5 Failures in Sequence",
+      "kalip": "label-colon",
+      "toplam": 49.6,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 8,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.6,
+      "notes": [
+        "title pattern \"label-colon\" already used by 4 other videos"
+      ],
+      "kaynak": "template:failure-count"
+    },
+    {
+      "baslik": "General Slocum: The Inspection That Killed",
+      "kalip": "label-colon",
+      "toplam": 46.7,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "The Molasses Tank That Killed 21 People"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"label-colon\" already used by 4 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "The First Failure Inside the General Slocum Fire",
+      "kalip": "statement",
+      "toplam": 45.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.6,
+      "notes": [
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:first-failure"
+    },
+    {
+      "baslik": "Why the General Slocum Fire Failed",
+      "kalip": "why",
+      "toplam": 43.3,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 4.5,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.17,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "template:plain-why"
+    },
+    {
+      "baslik": "How a Fire in a Forward Storage Room Brought Down the General Slocum Fire",
+      "kalip": "how",
+      "toplam": 41,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 6,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "Munich 1958: The Slush That Brought Down Manchester United's Plane"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.88,
+      "notes": [
+        "long for Shorts feed (73 chars)",
+        "title pattern \"how\" already used by 4 other videos"
+      ],
+      "kaynak": "template:how-trigger"
+    },
+    {
+      "baslik": "The Steamboat That Burned With Over a Thousand Dead",
+      "kalip": "the-x-that",
+      "toplam": 40.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 5.5,
+        "consequence": 8,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 5,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "The 94-Second Fuse That Burned the USS Forrestal"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:object-that-result"
+    },
+    {
+      "baslik": "The General Slocum Fire: Cause, Chain, Consequence",
+      "kalip": "label-colon",
+      "toplam": 40.3,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.12,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "title pattern \"label-colon\" already used by 4 other videos"
+      ],
+      "kaynak": "template:cause-chain-consequence"
+    },
+    {
+      "baslik": "The Trigger That Started the General Slocum Fire",
+      "kalip": "the-x-that",
+      "toplam": 38.8,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.2,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.8,
+      "notes": [
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "template:trigger-started"
+    },
+    {
+      "baslik": "The General Slocum Fire: How Safety Equipment That Passed Inspection but Did Not Work Took Over",
+      "kalip": "label-colon",
+      "toplam": 38,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 2,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 7,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.12,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.89,
+      "notes": [
+        "long for Shorts feed (95 chars)",
+        "title pattern \"label-colon\" already used by 4 other videos"
+      ],
+      "kaynak": "template:mechanism-took-over"
+    },
+    {
+      "baslik": "General Slocum Explained",
+      "kalip": "explained",
+      "toplam": 37,
+      "kriterler": {
+        "curiosity": 0,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 4,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 3.3
+      },
+      "similarity": {
+        "max": 0.06,
+        "closest": "Why Glass Explodes for No Reason"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.67,
+      "notes": [
+        "ends with 'Explained' — describes the video instead of creating a question",
+        "repeats the keyword instead of packaging the story"
+      ],
+      "kaynak": "baseline:seo-keyword"
+    },
+    {
+      "baslik": "1,000+ DEAD: The Scale of the General Slocum Fire",
+      "kalip": "label-colon",
+      "toplam": 36.4,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 8,
+        "appeal": 7,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.2
+      },
+      "similarity": {
+        "max": 0.13,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 0.83,
+      "notes": [
+        "title pattern \"label-colon\" already used by 4 other videos"
+      ],
+      "kaynak": "template:number-scale"
+    },
+    {
+      "baslik": "The Chain Reaction Behind the General Slocum Fire",
+      "kalip": "statement",
+      "toplam": 35.3,
+      "kriterler": {
+        "curiosity": 3,
+        "clarity": 10,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 10,
+        "suggested": 4.5
+      },
+      "similarity": {
+        "max": 0.14,
+        "closest": "Apollo 1: The Fire That Happened on the Ground"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 0.6,
+      "notes": [
+        "title pattern \"statement\" already used by 5 other videos"
+      ],
+      "kaynak": "template:chain-reaction"
+    },
+    {
+      "baslik": "The Safety Gear That Existed Only on Paper",
+      "kalip": "the-x-that",
+      "toplam": 27.9,
+      "kriterler": {
+        "curiosity": 7,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 6.1
+      },
+      "similarity": {
+        "max": 0.18,
+        "closest": "The Ship That Capsized at the Dock — Because of a Safety Rule"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "Why 1,000 People Died a Few Metres From Shore",
+      "kalip": "why",
+      "toplam": 26.6,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 5,
+        "appeal": 9,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5.6
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "The Molasses Tank That Killed 21 People"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"why\" already used by 6 other videos"
+      ],
+      "kaynak": "editorial"
+    },
+    {
+      "baslik": "1,000+ DEAD. That's All It Took",
+      "kalip": "label-colon",
+      "toplam": 25.5,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 5,
+        "specificity": 5,
+        "appeal": 7,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5
+      },
+      "similarity": {
+        "max": 0.11,
+        "closest": "The Physics That Makes Explosions Deadly"
+      },
+      "clickbaitRisk": 2,
+      "supportRatio": 0.75,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"label-colon\" already used by 4 other videos"
+      ],
+      "kaynak": "template:number-all-it-took"
+    },
+    {
+      "baslik": "The Life Preservers That Were Filled With Iron",
+      "kalip": "the-x-that",
+      "toplam": 24.4,
+      "kriterler": {
+        "curiosity": 5,
+        "clarity": 7,
+        "tension": 3,
+        "consequence": 2,
+        "specificity": 2,
+        "appeal": 8,
+        "engineering": 2,
+        "search": 2,
+        "suggested": 5.3
+      },
+      "similarity": {
+        "max": 0.15,
+        "closest": "The Molasses Tank That Killed 21 People"
+      },
+      "clickbaitRisk": 0,
+      "supportRatio": 1,
+      "notes": [
+        "no concrete subject — viewer can't tell what failed",
+        "title pattern \"the-x-that\" already used by 5 other videos"
+      ],
+      "kaynak": "current"
+    }
+  ],
+  "yontem": "At least 20 structurally distinct editorial/template candidates; heuristic scoring 0-10 per criterion weighted to /100, minus similarity and clickbait penalties. Not a prediction of CTR."
+}

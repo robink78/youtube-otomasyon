@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Secret Partial Meltdown Near Los Angeles",
+  "kaynaklar": [
+    {
+      "ad": "santa-susana-sre-1.jpg",
+      "wikimedia": "SSFL SRE Tritium sampling 2004.jpg"
+    },
+    {
+      "ad": "santa-susana-sre-2.jpg",
+      "wikimedia": "Cutaway View of SRE Reactor.jpg"
+    },
+    {
+      "ad": "santa-susana-sre-3.png",
+      "wikimedia": "SRE Typical Fuel Element.png"
+    },
+    {
+      "ad": "santa-susana-sre-4.jpg",
+      "wikimedia": "SSFL SRE Facility 1958.jpg"
+    },
+    {
+      "ad": "santa-susana-sre-5.jpg",
+      "wikimedia": "Sodium Reactor Experiment - Construction of the reactor.jpg"
+    },
+    {
+      "ad": "santa-susana-sre-6.jpg",
+      "wikimedia": "Aircraft reactor experiment sodium corrosion test loop.jpg"
+    },
+    {
+      "ad": "santa-susana-sre-7.jpg",
+      "wikimedia": "Aircraft Reactor Experiment heat exchanger pit decommissioning.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An experimental reactor near Los Angeles suffered a partial meltdown.",
+      "kaynak": "Footage/santa-susana-sre-1.jpg"
+    },
+    {
+      "metin": "Suddenly, fuel elements overheated and were damaged.",
+      "kaynak": "Footage/santa-susana-sre-2.jpg"
+    },
+    {
+      "metin": "It was cooled by liquid sodium.",
+      "kaynak": "Footage/santa-susana-sre-3.png"
+    },
+    {
+      "metin": "A second coolant leaked into the sodium.",
+      "kaynak": "Footage/santa-susana-sre-4.jpg"
+    },
+    {
+      "metin": "It formed deposits that blocked cooling channels.",
+      "kaynak": "Footage/santa-susana-sre-5.jpg"
+    },
+    {
+      "metin": "Radioactive gas was vented to the air.",
+      "kaynak": "Footage/santa-susana-sre-6.jpg"
+    },
+    {
+      "metin": "Details became public only years later.",
+      "kaynak": "Footage/santa-susana-sre-7.jpg"
+    },
+    {
+      "metin": "The site has been the focus of a long cleanup.",
+      "kaynak": "Footage/santa-susana-sre-1.jpg"
+    }
+  ],
+  "aciklama": "Santa Susana SRE suffered a partial meltdown. The cause: tetralin leaking into the sodium coolant, forming deposits that blocked cooling channels.\n\n#shorts #engineering #nuclear",
+  "etiketler": [
+    "Santa Susana SRE",
+    "1959",
+    "reactor",
+    "engineering failure"
+  ],
+  "hook": "It stayed quiet for years",
+  "soru": "How transparent should it be?",
+  "vaka": {
+    "kume": "nuclear-accidents",
+    "tip": "vaka",
+    "ad": "the Sodium Reactor Experiment",
+    "kisa": "Santa Susana SRE",
+    "nesne": "Reactor",
+    "yil": 1959,
+    "sonuc": "suffered a partial meltdown",
+    "tetik": "a coolant leak clogging fuel channels",
+    "mekanizma": "tetralin leaking into the sodium coolant, forming deposits that blocked cooling channels",
+    "sayi": "PARTIAL MELTDOWN",
+    "ders": "the site became the focus of a decades-long cleanup",
+    "zincir": [
+      "AUXILIARY COOLANT LEAKS",
+      "DEPOSITS FORM IN CHANNELS",
+      "FLOW BLOCKED",
+      "FUEL OVERHEATS",
+      "RADIOACTIVE GAS VENTED"
+    ],
+    "zaman": [],
+    "yanilgi": "It wasn't widely known for decades. The public learned details long after it happened.",
+    "tartisma": "Radioactive gas was released intentionally to manage the reactor. How transparent should such decisions be?",
+    "basliklar": [
+      "The Secret Partial Meltdown Near Los Angeles",
+      "The Partial Meltdown at Santa Susana",
+      "Why the Sodium Reactor Experiment Failed"
+    ],
+    "kapak": [
+      "PARTIAL MELTDOWN",
+      "KEPT QUIET"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Sodium Reactor Experiment",
+        "url": "https://en.wikipedia.org/wiki/Sodium_Reactor_Experiment"
+      },
+      {
+        "ad": "US Department of Energy — Doc. No. 2 SRE Fuel Element Damage Final Report 1961 NAA SR 4488 (supp (cited by Wikipedia)",
+        "url": "http://etec.energy.gov/Library/Main/Doc._No._2_SRE_Fuel_Element_Damage_Final_Report_1961_NAA-SR-4488_(suppl).pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-12",
+    "wiki": "Sodium_Reactor_Experiment",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "SSFL SRE Tritium sampling 2004.jpg [Public domain]",
+      "Cutaway View of SRE Reactor.jpg [Public domain]",
+      "SRE Typical Fuel Element.png [Public domain]",
+      "SSFL SRE Facility 1958.jpg [Public domain]",
+      "Sodium Reactor Experiment - Construction of the reactor.jpg [Public domain]",
+      "Aircraft reactor experiment sodium corrosion test loop.jpg [Public domain]",
+      "Aircraft Reactor Experiment heat exchanger pit decommissioning.jpg [Public domain]"
+    ]
+  }
+}

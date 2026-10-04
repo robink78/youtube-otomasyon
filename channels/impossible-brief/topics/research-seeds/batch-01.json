@@ -1,0 +1,1132 @@
+{
+  "channel": "impossible-brief",
+  "records": [
+    {
+      "slug": "what-if-the-moon-disappeared-tonight",
+      "hook": "If the Moon vanished, tides wouldn't stop.",
+      "openingLine": "If the Moon vanished, tides wouldn't stop.",
+      "secondBeat": "The Sun still raises tides about 46% as strong.",
+      "scientificMechanism": "changes in gravity travel at light speed; lunar tidal forcing disappears while solar tides remain",
+      "scenarioChange": "the Moon vanished without transferring its momentum",
+      "expectedConsequence": "Earth feels the loss after about 1.3 seconds; tides shrink to the smaller solar tides and nights darken",
+      "coreQuestion": "If the Moon vanished tonight, what would Earth notice first, and what would never change?",
+      "misconception": "Tides would not stop: the Sun raises tides about 46% as strong as the Moon's.",
+      "number": "1.3 light-seconds",
+      "thumbnailText": "NO MOON",
+      "visualScenes": [
+        "Moon disappearing from the night sky",
+        "light-speed signal crossing to Earth",
+        "lunar and solar tide comparison",
+        "Earth's tilt axis diagram",
+        "coastline tide levels before and after",
+        "moonless night landscape"
+      ],
+      "editorialTitles": [
+        "What Happens 1.3 Seconds After the Moon Vanishes",
+        "Why Tides Wouldn't Stop Without the Moon"
+      ],
+      "facts": [
+        {
+          "claim": "The lunar distance is approximately 385,000 km, or 1.3 light-seconds.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Moon",
+          "url": "https://en.wikipedia.org/wiki/Moon"
+        },
+        {
+          "claim": "The speed of gravitational waves equals the speed of light, confirmed by observation of the GW170817 neutron star merger.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Speed of gravity",
+          "url": "https://en.wikipedia.org/wiki/Speed_of_gravity"
+        },
+        {
+          "claim": "The Sun's tides have a theoretical amplitude of about 25 centimetres, 46% of that of the Moon.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tide",
+          "url": "https://en.wikipedia.org/wiki/Tide"
+        },
+        {
+          "claim": "Earth currently has an axial tilt of about 23.44°.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Axial tilt",
+          "url": "https://en.wikipedia.org/wiki/Axial_tilt"
+        },
+        {
+          "claim": "Numerical simulations in 2011 indicated that even without the Moon, Earth's obliquity might vary only by about 20–25°.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Axial tilt",
+          "url": "https://en.wikipedia.org/wiki/Axial_tilt"
+        }
+      ],
+      "narration": [
+        {
+          "text": "If the Moon vanished, tides wouldn't stop.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "The Sun still raises tides about 46% as strong.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "And gravity's news travels only at light speed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The Moon is 1.3 light-seconds away, so Earth notices 1.3 seconds later.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Then the big lunar tides fade, leaving the smaller solar ones.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Earth's tilt, now 23.44 degrees, loses a stabilizer.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "But 2011 simulations suggest it might only wander between 20 and 25 degrees.",
+          "layer": "KNOWN SCIENCE",
+          "role": "LIMITS"
+        },
+        {
+          "text": "So the first change you'd see is darker nights.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "if-the-sun-vanished-right-now-what-would-change-first",
+      "hook": "The Sun vanishes, and nobody notices.",
+      "openingLine": "The Sun vanishes, and nobody notices.",
+      "secondBeat": "For about 8 minutes, sunlight is still on its way.",
+      "scientificMechanism": "light and changes in gravity both travel at light speed, about 8 light-minutes from the Sun to Earth",
+      "scenarioChange": "the Sun vanished instantly",
+      "expectedConsequence": "for about 8 minutes nothing changes; then daylight ends and Earth leaves its orbit in a straight line",
+      "coreQuestion": "If the Sun vanished right now, how long would Earth keep behaving as if it were still there?",
+      "misconception": "Earth would not be flung away instantly: gravity's change also takes about 8 minutes to arrive.",
+      "number": "99.86%",
+      "thumbnailText": "8 MINUTES",
+      "visualScenes": [
+        "Sun disappearing from the sky",
+        "light travel from Sun to Earth",
+        "Earth continuing its orbit",
+        "straight-line path leaving orbit",
+        "Solar System mass pie chart",
+        "darkening Earth from space"
+      ],
+      "editorialTitles": [
+        "The 8 Minutes After the Sun Disappears",
+        "Why Nobody Would Notice the Sun Vanish at First"
+      ],
+      "facts": [
+        {
+          "claim": "The Sun's mean distance from Earth is about 1.496×10^8 kilometres, or about 8 light-minutes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sun",
+          "url": "https://en.wikipedia.org/wiki/Sun"
+        },
+        {
+          "claim": "The Sun's mass is around 330,000 times that of Earth, about 99.86% of the total mass of the Solar System.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sun",
+          "url": "https://en.wikipedia.org/wiki/Sun"
+        },
+        {
+          "claim": "The speed of gravity, the speed of gravitational waves, equals the speed of light.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Speed of gravity",
+          "url": "https://en.wikipedia.org/wiki/Speed_of_gravity"
+        },
+        {
+          "claim": "The Sun's diameter is about 1,391,400 km, around 109 times that of Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sun",
+          "url": "https://en.wikipedia.org/wiki/Sun"
+        }
+      ],
+      "narration": [
+        {
+          "text": "The Sun vanishes, and nobody notices.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "For about 8 minutes, sunlight is still on its way.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Gravity's pull also changes only at light speed.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "So Earth keeps orbiting an empty point for those same minutes.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The Sun holds 99.86% of the Solar System's mass.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Without it, Earth flies off in a straight line.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "The sky goes dark, and the planet starts cooling.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the first change arrives exactly as late as sunlight.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-earth-stopped-spinning-for-one-second",
+      "hook": "Earth stops spinning for one second.",
+      "openingLine": "Earth stops spinning for one second.",
+      "secondBeat": "But you keep moving at 465 metres per second.",
+      "scientificMechanism": "inertia: everything on the surface keeps the rotational speed of the latitude it stands on",
+      "scenarioChange": "Earth's rotation stopped for one second",
+      "expectedConsequence": "people, air and oceans near the equator keep moving east at hundreds of metres per second",
+      "coreQuestion": "If Earth stopped spinning for just one second, why would the stop matter more than its length?",
+      "misconception": "A one-second stop isn't short enough to be harmless: your speed doesn't stop with the planet.",
+      "number": "465 m/s",
+      "thumbnailText": "1 SECOND",
+      "visualScenes": [
+        "Earth rotation speed by latitude map",
+        "person carried east by inertia",
+        "equator speed gauge",
+        "poles standing still",
+        "oceans surging east",
+        "latitude speed comparison bars"
+      ],
+      "editorialTitles": [
+        "What One Second Without Earth's Spin Would Do",
+        "Why You'd Keep Moving at 1,675 km/h"
+      ],
+      "facts": [
+        {
+          "claim": "Earth's rotational speed is about 1,674.7 km/h (465.2 m/s) at the equator, decreasing to zero at the poles.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Earth's rotation",
+          "url": "https://en.wikipedia.org/wiki/Earth%27s_rotation"
+        },
+        {
+          "claim": "At 45° latitude, the speed is roughly 1,184.2 km/h.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Earth's rotation",
+          "url": "https://en.wikipedia.org/wiki/Earth%27s_rotation"
+        },
+        {
+          "claim": "The length of a day has increased by about 2.3 milliseconds per century since the 8th century BCE.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Earth's rotation",
+          "url": "https://en.wikipedia.org/wiki/Earth%27s_rotation"
+        },
+        {
+          "claim": "Near Earth's surface, the acceleration due to gravity is 9.8 m/s2.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gravity of Earth",
+          "url": "https://en.wikipedia.org/wiki/Gravity_of_Earth"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Earth stops spinning for one second.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "But you keep moving at 465 metres per second.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "At the equator, that's about 1,675 kilometres per hour, heading east.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Gravity pulls down at 9.8 metres per second squared.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Sideways, nothing holds you back.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "At 45 degrees latitude, it's still about 1,184 kilometres per hour.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Only near the poles would the stop feel gentle.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-gravity-doubled-tomorrow",
+      "hook": "Gravity doubles tomorrow. Your weight doubles too.",
+      "openingLine": "Gravity doubles tomorrow. Your weight doubles too.",
+      "secondBeat": "Your mass stays the same. Only the pull changes.",
+      "scientificMechanism": "weight is mass times gravitational acceleration, about 9.8 m/s² at Earth's surface",
+      "scenarioChange": "surface gravity doubled overnight",
+      "expectedConsequence": "every load doubles at once; bodies and circulation feel it before structures do",
+      "coreQuestion": "If gravity doubled tomorrow, what would fail first: our buildings or our bodies?",
+      "misconception": "You wouldn't gain mass; only the force on it, your weight, would double.",
+      "number": "9.8 m/s²",
+      "thumbnailText": "2× GRAVITY",
+      "visualScenes": [
+        "bathroom scale reading doubling",
+        "mass versus weight diagram",
+        "global gravity variation map",
+        "heart pumping blood upward",
+        "loaded bridge beam",
+        "person climbing stairs under strain"
+      ],
+      "editorialTitles": [
+        "What Doubling Gravity Would Do to Your Body",
+        "Why Your Weight Would Double but Your Mass Wouldn't"
+      ],
+      "facts": [
+        {
+          "claim": "Near Earth's surface, the acceleration due to gravity is 9.8 m/s2.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gravity of Earth",
+          "url": "https://en.wikipedia.org/wiki/Gravity_of_Earth"
+        },
+        {
+          "claim": "Gravity on Earth's surface varies by around 0.7%, from 9.7639 m/s2 on Nevado Huascarán to 9.8337 m/s2 at the Arctic Ocean surface.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gravity of Earth",
+          "url": "https://en.wikipedia.org/wiki/Gravity_of_Earth"
+        },
+        {
+          "claim": "The conventional value for standard gravity is 9.80665 m/s2, originally adopted by the CGPM in 1901.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gravity of Earth",
+          "url": "https://en.wikipedia.org/wiki/Gravity_of_Earth"
+        },
+        {
+          "claim": "The weight of an object on Earth's surface is the downward force on it, force equals mass times acceleration.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Gravity of Earth",
+          "url": "https://en.wikipedia.org/wiki/Gravity_of_Earth"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Gravity doubles tomorrow. Your weight doubles too.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Your mass stays the same. Only the pull changes.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Weight is mass times gravity's pull, 9.8 metres per second squared.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Double it, and every step lifts twice the load.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Today, gravity varies across Earth by only about 0.7%.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "So a doubling dwarfs every difference you've ever felt.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Your heart would push blood uphill against twice the pull.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the first strain lands on bodies, not buildings.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-happens-if-atmospheric-oxygen-doubles",
+      "hook": "Double Earth's oxygen, and fire changes first.",
+      "openingLine": "Double Earth's oxygen, and fire changes first.",
+      "secondBeat": "Today, dry air is about 20.95% oxygen.",
+      "scientificMechanism": "oxygen partial pressure sets how easily animals absorb oxygen and how readily materials burn",
+      "scenarioChange": "atmospheric oxygen doubled",
+      "expectedConsequence": "fires ignite and spread far more readily; air-breathing life gets an oxygen surplus",
+      "coreQuestion": "If Earth's oxygen doubled, would we get giant insects back, or just more fire?",
+      "misconception": "The giant-insect era was not about double oxygen: Carboniferous highs reached about 25–30%.",
+      "number": "20.95%",
+      "thumbnailText": "2× OXYGEN",
+      "visualScenes": [
+        "Meganeura dragonfly scale comparison",
+        "air composition pie chart",
+        "Carboniferous forest",
+        "flame burning brighter",
+        "oxygen level timeline",
+        "wildfire spreading"
+      ],
+      "editorialTitles": [
+        "What Doubling Earth's Oxygen Would Really Do",
+        "The Oxygen Behind Earth's Giant Dragonflies"
+      ],
+      "facts": [
+        {
+          "claim": "By mole fraction, dry air contains 78.08% nitrogen and 20.95% oxygen.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Atmosphere of Earth",
+          "url": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth"
+        },
+        {
+          "claim": "Carboniferous oxygen levels rose from low levels at the beginning of the period to highs of 25–30%.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Carboniferous",
+          "url": "https://en.wikipedia.org/wiki/Carboniferous"
+        },
+        {
+          "claim": "Meganeura had a single wing length reaching 32 centimetres and a wingspan around 65–75 cm.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Meganeura",
+          "url": "https://en.wikipedia.org/wiki/Meganeura"
+        },
+        {
+          "claim": "In 1911 Édouard Harlé proposed that Meganeura could fly only because the atmosphere then contained more oxygen.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Meganeura",
+          "url": "https://en.wikipedia.org/wiki/Meganeura"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Double Earth's oxygen, and fire changes first.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Today, dry air is about 20.95% oxygen.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "With twice that, fires would start easier and spread faster.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "In the Carboniferous, oxygen reached highs of 25 to 30%.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Dragonflies like Meganeura spanned up to 75 centimetres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Doubling today's air goes far beyond even that world.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Giant insects would take many generations to evolve, if ever.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "LIMITS"
+        },
+        {
+          "text": "So the first thing you'd notice is fire, not bugs.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-happens-if-earth-s-axial-tilt-doubles",
+      "hook": "Double Earth's tilt, and seasons turn extreme.",
+      "openingLine": "Double Earth's tilt, and seasons turn extreme.",
+      "secondBeat": "Today the axis leans about 23.44 degrees.",
+      "scientificMechanism": "axial tilt sets how much sunlight each hemisphere gains and loses over a year",
+      "scenarioChange": "Earth's axial tilt doubled",
+      "expectedConsequence": "polar day and night reach much lower latitudes; summers and winters become far more extreme",
+      "coreQuestion": "If Earth's tilt doubled, how far from the poles would months of darkness reach?",
+      "misconception": "Seasons come from tilt, not distance from the Sun; more tilt means harsher seasons.",
+      "number": "23.44°",
+      "thumbnailText": "2× TILT",
+      "visualScenes": [
+        "Earth axis tilt comparison",
+        "sunlight angle over a year",
+        "Arctic Circle moving south map",
+        "Mars obliquity swing chart",
+        "summer and winter hemisphere lighting",
+        "polar night reaching mid-latitudes"
+      ],
+      "editorialTitles": [
+        "What Doubling Earth's Tilt Would Do to Seasons",
+        "Why Mars Has Wilder Tilt Swings Than Earth"
+      ],
+      "facts": [
+        {
+          "claim": "Earth currently has an axial tilt of about 23.44°.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Axial tilt",
+          "url": "https://en.wikipedia.org/wiki/Axial_tilt"
+        },
+        {
+          "claim": "Mars's obliquity is quite variable over millions of years; it varies as much as 0° to 60° depending on perturbations of the planets.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Axial tilt",
+          "url": "https://en.wikipedia.org/wiki/Axial_tilt"
+        },
+        {
+          "claim": "Nutation adds short-period oscillations of about 9.2 arcseconds over about 18.6 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Axial tilt",
+          "url": "https://en.wikipedia.org/wiki/Axial_tilt"
+        },
+        {
+          "claim": "Simulations in 2011 indicated that even without the Moon, Earth's obliquity might vary only by about 20–25°.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Axial tilt",
+          "url": "https://en.wikipedia.org/wiki/Axial_tilt"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Double Earth's tilt, and seasons turn extreme.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Today the axis leans about 23.44 degrees.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "That tilt, not distance from the Sun, makes seasons.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Double it, and months of polar night creep toward mid-latitudes.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Summers would get hotter, winters darker and longer.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Mars shows how wild it gets: its tilt swings between 0 and 60 degrees.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Earth's own tilt barely wobbles today, only by arcseconds.",
+          "layer": "KNOWN SCIENCE",
+          "role": "LIMITS"
+        },
+        {
+          "text": "So a stable tilt is one reason seasons are survivable.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-happens-if-the-speed-of-light-doubles-everywhere",
+      "hook": "Double light speed, and atoms change.",
+      "openingLine": "Double light speed, and atoms change.",
+      "secondBeat": "It's not just faster internet. Chemistry itself shifts.",
+      "scientificMechanism": "the fine-structure constant, which sets atomic and chemical behaviour, is inversely proportional to the speed of light",
+      "scenarioChange": "the speed of light doubled everywhere",
+      "expectedConsequence": "the fine-structure constant would halve, moving outside the range some theories say life needs",
+      "coreQuestion": "If light suddenly moved twice as fast, why would atoms, not travel times, be the real story?",
+      "misconception": "Faster light wouldn't just speed up signals; it would change how atoms hold together.",
+      "number": "1/137",
+      "thumbnailText": "2× LIGHT",
+      "visualScenes": [
+        "light beam racing across space",
+        "fine-structure constant equation card",
+        "electron orbitals shifting",
+        "metre definition by light",
+        "periodic table glowing",
+        "life window range chart"
+      ],
+      "editorialTitles": [
+        "Why Doubling Light Speed Would Rewrite Chemistry",
+        "The Number 137 and the Speed of Light"
+      ],
+      "facts": [
+        {
+          "claim": "The speed of light is defined in SI units as exactly 299792458 m/s.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Speed of light",
+          "url": "https://en.wikipedia.org/wiki/Speed_of_light"
+        },
+        {
+          "claim": "Prior to 1983, the metre was defined separately from the second and the speed of light was measured experimentally.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Speed of light",
+          "url": "https://en.wikipedia.org/wiki/Speed_of_light"
+        },
+        {
+          "claim": "The fine-structure constant is approximately 0.0072973525643, about 1/137.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Fine-structure constant",
+          "url": "https://en.wikipedia.org/wiki/Fine-structure_constant"
+        },
+        {
+          "claim": "If grand unified theories are correct, the fine-structure constant needs to be between around 1/180 and 1/85 for proton decay to be slow enough for life.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Fine-structure constant",
+          "url": "https://en.wikipedia.org/wiki/Fine-structure_constant"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Double light speed, and atoms change.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It's not just faster internet. Chemistry itself shifts.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Light is fixed at exactly 299,792,458 metres per second.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "A number called the fine-structure constant is about 1/137.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "It shrinks when light gets faster, and it governs how atoms bond.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Double light speed, and it halves.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Some theories say life needs it between 1/180 and 1/85.",
+          "layer": "KNOWN SCIENCE",
+          "role": "LIMITS"
+        },
+        {
+          "text": "Halved, it falls outside that window, so the answer is chemistry, not speed.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "if-jupiter-vanished-right-now-what-would-change-first",
+      "hook": "If Jupiter vanished, why wouldn't Earth notice?",
+      "openingLine": "If Jupiter vanished, why wouldn't Earth notice?",
+      "secondBeat": "It outweighs every other planet combined.",
+      "scientificMechanism": "Jupiter's gravity shapes the Sun's wobble and the orbits of asteroids and comets",
+      "scenarioChange": "Jupiter vanished instantly",
+      "expectedConsequence": "the Sun's wobble shrinks and outer Solar System orbits slowly rearrange; Earth's own orbit barely changes at first",
+      "coreQuestion": "If Jupiter vanished, would Earth feel anything at all?",
+      "misconception": "Earth wouldn't be thrown off course: Jupiter's mass is under one-thousandth of the Sun's.",
+      "number": "2.5 times",
+      "thumbnailText": "NO JUPITER",
+      "visualScenes": [
+        "Jupiter disappearing",
+        "planet mass comparison bars",
+        "Sun wobble around barycenter",
+        "asteroid belt orbits",
+        "Earth orbit unchanged overlay",
+        "Jupiter size versus Earth"
+      ],
+      "editorialTitles": [
+        "What Happens If Jupiter Disappears",
+        "The Planet That Outweighs All the Others Combined"
+      ],
+      "facts": [
+        {
+          "claim": "Jupiter has a mass nearly 2.5 times that of all the other planets in the Solar System combined.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Jupiter",
+          "url": "https://en.wikipedia.org/wiki/Jupiter"
+        },
+        {
+          "claim": "Jupiter's mass is slightly less than one-thousandth the mass of the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Jupiter",
+          "url": "https://en.wikipedia.org/wiki/Jupiter"
+        },
+        {
+          "claim": "The diameter of Jupiter is 11 times that of Earth and a tenth that of the Sun.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Jupiter",
+          "url": "https://en.wikipedia.org/wiki/Jupiter"
+        },
+        {
+          "claim": "Jupiter's atmosphere is 76% hydrogen and 24% helium by mass.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Jupiter",
+          "url": "https://en.wikipedia.org/wiki/Jupiter"
+        },
+        {
+          "claim": "The growing Jupiter reached its final mass in 3–4 million years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Jupiter",
+          "url": "https://en.wikipedia.org/wiki/Jupiter"
+        }
+      ],
+      "narration": [
+        {
+          "text": "If Jupiter vanished, why wouldn't Earth notice?",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It outweighs every other planet combined.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "About 2.5 times all the others together.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Yet it's under one-thousandth of the Sun's mass.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "So Earth's orbit would barely change at first.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The Sun's small wobble around Jupiter would fade.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "Asteroid and comet orbits would slowly rearrange over ages.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So the loss is felt in deep time, not tomorrow.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "could-earth-survive-one-day-without-earth-s-magnetic-field",
+      "hook": "Earth's magnetic field is already weakening.",
+      "openingLine": "Earth's magnetic field is already weakening.",
+      "secondBeat": "Its main dipole has faded about 6.3% per century.",
+      "scientificMechanism": "the geodynamo in Earth's liquid outer core generates a field that deflects the solar wind",
+      "scenarioChange": "Earth's magnetic field switched off for one day",
+      "expectedConsequence": "one day without it would expose satellites and power grids to more charged particles; the atmosphere would not vanish in a day",
+      "coreQuestion": "Could Earth survive a single day without its magnetic field, and how close are we to finding out?",
+      "misconception": "Losing the field for a day would not strip the atmosphere; that takes far longer.",
+      "number": "780,000 years",
+      "thumbnailText": "NO SHIELD",
+      "visualScenes": [
+        "magnetosphere deflecting solar wind",
+        "field strength decline chart",
+        "magnetic reversal timeline",
+        "compass needle drifting",
+        "satellite hit by particles",
+        "aurora spreading to lower latitudes"
+      ],
+      "editorialTitles": [
+        "What One Day Without Earth's Magnetic Field Would Do",
+        "Earth's Magnetic Field Is Weakening. Should We Worry?"
+      ],
+      "facts": [
+        {
+          "claim": "Over the last two centuries the dipole strength has been decreasing at a rate of about 6.3% per century.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Earth's magnetic field",
+          "url": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field"
+        },
+        {
+          "claim": "Measurements since Gauss in 1832 show a relative decay of about 10% over the last 150 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Earth's magnetic field",
+          "url": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field"
+        },
+        {
+          "claim": "There have been at least 183 reversals over the last 83 million years, on average once every ~450,000 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Geomagnetic reversal",
+          "url": "https://en.wikipedia.org/wiki/Geomagnetic_reversal"
+        },
+        {
+          "claim": "The latest, the Brunhes–Matuyama reversal, occurred 780,000 years ago.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Geomagnetic reversal",
+          "url": "https://en.wikipedia.org/wiki/Geomagnetic_reversal"
+        },
+        {
+          "claim": "Some sources estimate the four most recent reversals took on average 7,000 years.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Geomagnetic reversal",
+          "url": "https://en.wikipedia.org/wiki/Geomagnetic_reversal"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Earth's magnetic field is already weakening.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Its main dipole has faded about 6.3% per century.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Fields have flipped 183 times in 83 million years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The last flip was 780,000 years ago.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Now switch it off completely, for just one day.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Satellites and power grids would take more charged particles.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "But the air wouldn't vanish in a day; that takes far longer.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "LIMITS"
+        },
+        {
+          "text": "So we'd survive, but our technology would feel it first.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "if-the-moon-moved-twice-as-close-when-would-earth-notice",
+      "hook": "Halve the Moon's distance, tides grow eightfold.",
+      "openingLine": "Halve the Moon's distance, tides grow eightfold.",
+      "secondBeat": "Tidal pull scales with the cube of distance.",
+      "scientificMechanism": "tidal force falls with the cube of distance, so halving the distance multiplies it by eight",
+      "scenarioChange": "the Moon moved to half its current distance",
+      "expectedConsequence": "coastal tides would grow dramatically on the next tidal cycle; the Moon would look twice as wide",
+      "coreQuestion": "If the Moon came twice as close, how soon would the oceans react?",
+      "misconception": "Tides wouldn't just double: tidal force scales with the cube of distance.",
+      "number": "384,399 km",
+      "thumbnailText": "8× TIDES",
+      "visualScenes": [
+        "Moon at half distance in the sky",
+        "inverse-cube tidal force graph",
+        "coastline flooding at high tide",
+        "Earth–Moon distance diagram",
+        "tide cycle clock",
+        "Moon apparent size comparison"
+      ],
+      "editorialTitles": [
+        "What If the Moon Were Twice as Close?",
+        "Why Tides Would Grow Eight Times, Not Two"
+      ],
+      "facts": [
+        {
+          "claim": "The Moon orbits Earth at an average distance of 384,399 kilometers.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Moon",
+          "url": "https://en.wikipedia.org/wiki/Moon"
+        },
+        {
+          "claim": "Tidal force is inversely proportional to the cube of the distance.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tidal force",
+          "url": "https://en.wikipedia.org/wiki/Tidal_force"
+        },
+        {
+          "claim": "The principal lunar tide has a period of about 12 hours and 25.2 minutes.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Tide",
+          "url": "https://en.wikipedia.org/wiki/Tide"
+        },
+        {
+          "claim": "The Moon's distance varies over the year from 357,000 to 407,000 kilometers.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Moon",
+          "url": "https://en.wikipedia.org/wiki/Moon"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Halve the Moon's distance, tides grow eightfold.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Tidal pull scales with the cube of distance.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Today the Moon averages 384,399 kilometres away.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Its distance already swings between 357,000 and 407,000 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "Halving it would be a jump no orbit ever gives.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "The next high tide, about 12 hours later, would arrive enormous.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "And the Moon would look twice as wide.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "So Earth would notice within a single tide.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-the-human-need-for-sleep-doubled-overnight",
+      "hook": "Your sleep runs in 90-minute cycles.",
+      "openingLine": "Your sleep runs in 90-minute cycles.",
+      "secondBeat": "Most nights, you go through four to six of them.",
+      "scientificMechanism": "sleep repeats NREM–REM cycles of about 90 minutes under a circadian clock of roughly 24 hours",
+      "scenarioChange": "the human need for sleep doubled overnight",
+      "expectedConsequence": "a doubled need could not fit a 24-hour day with work and daylight; schedules, not bodies, break first",
+      "coreQuestion": "If humans suddenly needed twice as much sleep, what part of the day would disappear first?",
+      "misconception": "More sleep isn't automatically healthier: very long sleep is also linked to heart disease.",
+      "number": "90 minutes",
+      "thumbnailText": "2× SLEEP",
+      "visualScenes": [
+        "sleep cycle hypnogram",
+        "24-hour clock with sleep blocks",
+        "circadian temperature curve",
+        "city at night with lights off",
+        "work schedule shrinking",
+        "brain REM activity"
+      ],
+      "editorialTitles": [
+        "What If Humans Needed Twice as Much Sleep?",
+        "The 90-Minute Cycles That Run Your Night"
+      ],
+      "facts": [
+        {
+          "claim": "The sleep cycle of alternating NREM and REM sleep takes an average of 90 minutes, occurring 4–6 times in a good night's sleep.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sleep",
+          "url": "https://en.wikipedia.org/wiki/Sleep"
+        },
+        {
+          "claim": "Isolated from daylight, humans keep a circadian rhythm with a period slightly exceeding 24 hours.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sleep",
+          "url": "https://en.wikipedia.org/wiki/Sleep"
+        },
+        {
+          "claim": "Short sleep duration of less than seven hours is correlated with coronary heart disease.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sleep",
+          "url": "https://en.wikipedia.org/wiki/Sleep"
+        },
+        {
+          "claim": "Sleep duration greater than nine hours is also correlated with coronary heart disease, stroke and cardiovascular events.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sleep",
+          "url": "https://en.wikipedia.org/wiki/Sleep"
+        },
+        {
+          "claim": "Humans seem to reach maximum sleepiness 30 hours after waking.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Sleep",
+          "url": "https://en.wikipedia.org/wiki/Sleep"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Your sleep runs in 90-minute cycles.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Most nights, you go through four to six of them.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Now double the sleep your body demands, overnight.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "Your clock still runs on a cycle of about 24 hours.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "So waking hours shrink, and daylight gets wasted.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "And oddly, sleeping over nine hours is linked to heart disease today.",
+          "layer": "KNOWN SCIENCE",
+          "role": "LIMITS"
+        },
+        {
+          "text": "So the first thing to break isn't your body. It's the schedule.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-antarcticas-ice-sheet-melted",
+      "replaces": "could-earth-survive-one-day-without-antarctic-land-ice",
+      "topic": "What If Antarctica's Ice Sheet Melted?",
+      "hook": "Antarctica holds 61% of Earth's fresh water.",
+      "openingLine": "Antarctica holds 61% of Earth's fresh water.",
+      "secondBeat": "It's locked in ice over 2 kilometres thick.",
+      "scientificMechanism": "land ice that melts or slides into the ocean adds its water to global sea level",
+      "scenarioChange": "Antarctica's ice sheet melted",
+      "expectedConsequence": "sea level would rise in stages; even the West Antarctic sheet alone would add metres over centuries to millennia",
+      "coreQuestion": "If Antarctica's ice melted, how much would seas rise, and how fast?",
+      "misconception": "It wouldn't happen overnight: losing even the West Antarctic sheet would take thousands of years.",
+      "number": "61%",
+      "thumbnailText": "61% FRESH WATER",
+      "visualScenes": [
+        "Antarctic ice sheet from space",
+        "ice thickness cross-section",
+        "fresh water share chart",
+        "coastline under rising seas",
+        "West Antarctic sheet map",
+        "sea-level timeline"
+      ],
+      "editorialTitles": [
+        "What Happens If Antarctica's Ice Melts?",
+        "The Ice Sheet That Holds 61% of Earth's Fresh Water"
+      ],
+      "facts": [
+        {
+          "claim": "The Antarctic ice sheet covers 98% of the continent, with an area of 14 million square kilometres and an average thickness of over 2 kilometres.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Antarctic ice sheet",
+          "url": "https://en.wikipedia.org/wiki/Antarctic_ice_sheet"
+        },
+        {
+          "claim": "It contains 26.5 million cubic kilometres of ice, equivalent to 61% of all fresh water on Earth.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Antarctic ice sheet",
+          "url": "https://en.wikipedia.org/wiki/Antarctic_ice_sheet"
+        },
+        {
+          "claim": "By 2100, net ice loss from Antarctica alone would add around 11 cm to global sea level rise.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Antarctic ice sheet",
+          "url": "https://en.wikipedia.org/wiki/Antarctic_ice_sheet"
+        },
+        {
+          "claim": "Loss of the West Antarctic Ice Sheet would take between 2,000 and 13,000 years and would add 3.3 m of sea level rise if ice caps remain on the mountains.",
+          "layer": "KNOWN SCIENCE",
+          "source": "Wikipedia — Antarctic ice sheet",
+          "url": "https://en.wikipedia.org/wiki/Antarctic_ice_sheet"
+        }
+      ],
+      "narration": [
+        {
+          "text": "Antarctica holds 61% of Earth's fresh water.",
+          "layer": "KNOWN SCIENCE",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "It's locked in ice over 2 kilometres thick.",
+          "layer": "KNOWN SCIENCE",
+          "role": "FIRST_EFFECT"
+        },
+        {
+          "text": "Now imagine that ice sheet melting.",
+          "layer": "SPECULATIVE SCENARIO",
+          "role": "IMPOSSIBLE_QUESTION"
+        },
+        {
+          "text": "By 2100, Antarctic losses alone may add around 11 centimetres to sea level.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SCIENCE_EXPLANATION"
+        },
+        {
+          "text": "The West Antarctic sheet alone could add 3.3 metres.",
+          "layer": "KNOWN SCIENCE",
+          "role": "SECOND_ORDER_EFFECT"
+        },
+        {
+          "text": "But losing it would take 2,000 to 13,000 years.",
+          "layer": "KNOWN SCIENCE",
+          "role": "LIMITS"
+        },
+        {
+          "text": "So the danger is a slow, unstoppable rise, not a sudden flood.",
+          "layer": "ESTIMATED CONSEQUENCE",
+          "role": "SCIENTIFIC_PAYOFF"
+        }
+      ]
+    }
+  ]
+}

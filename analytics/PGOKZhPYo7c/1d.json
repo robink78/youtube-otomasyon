@@ -1,0 +1,101 @@
+{
+  "videoId": "PGOKZhPYo7c",
+  "baslik": "The Disaster That Ended the Age of the Airship",
+  "yayin": "2026-09-22",
+  "yasGun": 2,
+  "sureSn": 38,
+  "format": "short",
+  "gizlilik": "public",
+  "metrikler": {
+    "views": {
+      "deger": 978,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "likes": {
+      "deger": 32,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "comments": {
+      "deger": 2,
+      "durum": "ok",
+      "kaynak": "Data API"
+    },
+    "impressions": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "ctr": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed by YouTube APIs — export from Studio into studio-manual.json"
+    },
+    "returningViewers": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "not exposed per video by the public API"
+    },
+    "watchTimeMinutes": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    },
+    "averageViewDuration": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    },
+    "averageViewPercentage": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    },
+    "subscribersGained": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    },
+    "shares": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    },
+    "first30sRetention": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)"
+    }
+  },
+  "turetilmis": {
+    "subsPer1000": {
+      "deger": null,
+      "durum": "unavailable",
+      "neden": "needs subscribersGained"
+    },
+    "likeRate": {
+      "deger": 3.3,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    },
+    "commentRate": {
+      "deger": 0.2,
+      "durum": "ok",
+      "kaynak": "derived (% of views)"
+    }
+  },
+  "trafik": null,
+  "tutma": null,
+  "analitikDurumu": "unavailable (OAuth scope lacks yt-analytics.readonly — re-run youtube-yetki.js)",
+  "toplandi": "2026-09-24T16:00:14.835Z",
+  "checkpoint": "1d",
+  "teshis": [
+    {
+      "kod": "OUTPERFORMER",
+      "guven": "low",
+      "aciklama": "978 views vs channel median 113 (n=4 videos).",
+      "oneri": "Keep the title and opening as they are. Reuse what worked (subject, hook shape) in the next episode of this cluster."
+    }
+  ]
+}

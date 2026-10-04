@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "The Neighbourhood That Slid Into the Sea",
+  "kaynaklar": [
+    {
+      "ad": "turnagain-heights-1.jpg",
+      "wikimedia": "Good Friday Earthquake at Turnagain Arm.jpg"
+    },
+    {
+      "ad": "turnagain-heights-2.jpg",
+      "wikimedia": "1964 Alaska Quake Penney Bldg.jpg"
+    },
+    {
+      "ad": "turnagain-heights-3.jpg",
+      "wikimedia": "1964 Alaska Quake Portage Townsite.jpg"
+    },
+    {
+      "ad": "turnagain-heights-4.jpg",
+      "wikimedia": "AlaskaQuake-FourthAve.jpg"
+    },
+    {
+      "ad": "turnagain-heights-5.jpg",
+      "wikimedia": "(1964) Tsunami Aftermath (8449295038).jpg"
+    },
+    {
+      "ad": "turnagain-heights-6.jpg",
+      "wikimedia": "Orca Inlet 1964 USGS ake00218.jpg"
+    },
+    {
+      "ad": "turnagain-heights-7.jpg",
+      "wikimedia": "Seward before quake damage aeq00054.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A magnitude nine point two earthquake struck Alaska.",
+      "kaynak": "Footage/turnagain-heights-1.jpg"
+    },
+    {
+      "metin": "For minutes, a whole neighbourhood in Anchorage broke apart and slid toward the sea.",
+      "kaynak": "Footage/turnagain-heights-2.jpg"
+    },
+    {
+      "metin": "The homes sat on a bluff above a layer of clay.",
+      "kaynak": "Footage/turnagain-heights-3.jpg"
+    },
+    {
+      "metin": "The long shaking made that clay lose its strength.",
+      "kaynak": "Footage/turnagain-heights-4.jpg"
+    },
+    {
+      "metin": "The bluff split into blocks that tilted and slid.",
+      "kaynak": "Footage/turnagain-heights-5.jpg"
+    },
+    {
+      "metin": "Houses were carried hundreds of feet.",
+      "kaynak": "Footage/turnagain-heights-6.jpg"
+    },
+    {
+      "metin": "The area later became a park.",
+      "kaynak": "Footage/turnagain-heights-7.jpg"
+    },
+    {
+      "metin": "The earthquake reshaped how engineers study ground failure.",
+      "kaynak": "Footage/turnagain-heights-1.jpg"
+    }
+  ],
+  "aciklama": "Alaska 1964 broke up and slid toward the sea. The cause: loss of strength in sensitive clay and sand layers, causing a massive landslide.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Alaska 1964",
+    "1964",
+    "neighbourhood",
+    "engineering failure"
+  ],
+  "hook": "The ground flowed",
+  "soru": "Rebuild on unstable land?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "Turnagain Heights",
+    "kisa": "Alaska 1964",
+    "nesne": "Neighbourhood",
+    "yil": 1964,
+    "sonuc": "broke up and slid toward the sea",
+    "tetik": "a great earthquake shaking a layer of sensitive clay",
+    "mekanizma": "loss of strength in sensitive clay and sand layers, causing a massive landslide",
+    "sayi": "9.2",
+    "ders": "the quake reshaped understanding of subduction zones and ground failure",
+    "zincir": [
+      "HOMES ON BLUFF OVER CLAY",
+      "MINUTES OF SHAKING",
+      "CLAY LOSES STRENGTH",
+      "BLUFF BREAKS INTO BLOCKS",
+      "HOUSES SLIDE TOWARD SEA"
+    ],
+    "zaman": [],
+    "yanilgi": "The houses weren't shaken apart. The ground beneath them flowed and slid.",
+    "tartisma": "The land later became a park instead of homes. Should unstable land ever be rebuilt?",
+    "basliklar": [
+      "The Neighbourhood That Slid Into the Sea",
+      "Why Turnagain Heights Slid Into the Sea",
+      "The Clay Layer That Gave Way in the 1964 Earthquake"
+    ],
+    "kapak": [
+      "THE GROUND FLOWED",
+      "9.2"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 1964 Alaska earthquake",
+        "url": "https://en.wikipedia.org/wiki/1964_Alaska_earthquake"
+      },
+      {
+        "ad": "Government source — ger tsunamis 1964 GreatAlaska pages from noaa 13442 (cited by Wikipedia)",
+        "url": "https://www.dnr.wa.gov/sites/default/files/publications/ger_tsunamis_1964_GreatAlaska_pages-from-noaa-13442.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-10",
+    "wiki": "1964_Alaska_earthquake",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Good Friday Earthquake at Turnagain Arm.jpg [Public domain]",
+      "1964 Alaska Quake Penney Bldg.jpg [Public domain]",
+      "1964 Alaska Quake Portage Townsite.jpg [Public domain]",
+      "AlaskaQuake-FourthAve.jpg [Public domain]",
+      "(1964) Tsunami Aftermath (8449295038).jpg [Public domain]",
+      "Orca Inlet 1964 USGS ake00218.jpg [Public domain]",
+      "Seward before quake damage aeq00054.jpg [Public domain]"
+    ]
+  }
+}

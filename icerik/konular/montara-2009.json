@@ -1,0 +1,127 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "The Well Left Without Its Pressure Caps",
+  "kaynaklar": [
+    {
+      "ad": "montara-1.jpg",
+      "wikimedia": "Oil spill from Montara offshore oil platform in the Timor Sea - radar image by TerraSAR-X.jpg"
+    },
+    {
+      "ad": "montara-2.jpg",
+      "wikimedia": "Montara Mountain.jpg"
+    },
+    {
+      "ad": "montara-3.jpg",
+      "wikimedia": "Oil Slick in the Timor Sea September-2009.jpg"
+    },
+    {
+      "ad": "montara-4.jpg",
+      "wikimedia": "Montara Beach.JPG"
+    },
+    {
+      "ad": "montara-5.jpg",
+      "wikimedia": "Point Montara Light - Montara CA.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An oil well off Australia began leaking uncontrollably.",
+      "kaynak": "Footage/montara-1.jpg"
+    },
+    {
+      "metin": "Within hours, oil and gas spread across the sea, later catching fire.",
+      "kaynak": "Footage/montara-2.jpg"
+    },
+    {
+      "metin": "The well had been temporarily suspended.",
+      "kaynak": "Footage/montara-3.jpg"
+    },
+    {
+      "metin": "Its cement barrier at the bottom had failed.",
+      "kaynak": "Footage/montara-4.jpg"
+    },
+    {
+      "metin": "Pressure-containing caps that should have been installed were not.",
+      "kaynak": "Footage/montara-5.jpg"
+    },
+    {
+      "metin": "The leak continued for more than two months.",
+      "kaynak": "Footage/montara-1.jpg"
+    },
+    {
+      "metin": "The regulator had relied on the operator's assurances.",
+      "kaynak": "Footage/montara-2.jpg"
+    },
+    {
+      "metin": "Australia then created a new offshore safety regulator.",
+      "kaynak": "Footage/montara-3.jpg"
+    }
+  ],
+  "aciklama": "Montara leaked oil and gas into the Timor Sea for weeks. The cause: failed cement at the casing shoe plus missing pressure barriers in a suspended well.\n\n#shorts #engineering #industrial",
+  "etiketler": [
+    "Montara",
+    "2009",
+    "oil well",
+    "engineering failure"
+  ],
+  "hook": "The caps weren't on",
+  "soru": "Who checks the checker?",
+  "vaka": {
+    "kume": "industrial-disasters",
+    "tip": "vaka",
+    "ad": "the Montara well",
+    "kisa": "Montara",
+    "nesne": "Oil well",
+    "yil": 2009,
+    "sonuc": "leaked oil and gas into the Timor Sea for weeks",
+    "tetik": "a suspended well without its pressure-containing caps",
+    "mekanizma": "failed cement at the casing shoe plus missing pressure barriers in a suspended well",
+    "sayi": "WEEKS OF LEAKING",
+    "ders": "Australia created a new offshore safety regulator",
+    "zincir": [
+      "CEMENT BARRIER DEFECTIVE",
+      "PRESSURE CAPS NOT INSTALLED",
+      "WELL SUSPENDED",
+      "OIL AND GAS FLOW",
+      "FIRE AND LEAK FOR WEEKS"
+    ],
+    "zaman": [],
+    "yanilgi": "The well wasn't being drilled at the time. It had been temporarily suspended with barriers missing.",
+    "tartisma": "The regulator had accepted the operator's own assurances. Who checks the checker?",
+    "basliklar": [
+      "The Well Left Without Its Pressure Caps",
+      "Why the Montara Well Leaked",
+      "The Missing Barriers in a Suspended Well"
+    ],
+    "kapak": [
+      "NO CAPS",
+      "WEEKS OF OIL"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Montara oil spill",
+        "url": "https://en.wikipedia.org/wiki/Montara_oil_spill"
+      },
+      {
+        "ad": "Government source — Commission of Inquiry ToR (cited by Wikipedia)",
+        "url": "http://www.montarainquiry.gov.au/downloads/Commission%20of%20Inquiry_ToR.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-12",
+    "wiki": "Montara_oil_spill",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Oil spill from Montara offshore oil platform in the Timor Sea - radar image by TerraSAR-X.jpg [CC BY 3.0]",
+      "Montara Mountain.jpg [CC BY 2.0]",
+      "Oil Slick in the Timor Sea September-2009.jpg [Public domain]",
+      "Montara Beach.JPG [Public domain]",
+      "Point Montara Light - Montara CA.jpg [CC BY 2.0]"
+    ]
+  }
+}

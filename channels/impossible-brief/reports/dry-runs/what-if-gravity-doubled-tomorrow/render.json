@@ -1,0 +1,37 @@
+{
+  "requested": true,
+  "completed": true,
+  "audio": {
+    "file": "channels/impossible-brief/reports/dry-runs/what-if-gravity-doubled-tomorrow/narration.m4a",
+    "provider": "macOS say dry-run voice (claim-timed)",
+    "syntheticVoice": true,
+    "claimDurations": [
+      1.566,
+      1.822,
+      5.346,
+      6.737,
+      3.515
+    ],
+    "durationSeconds": 19.134,
+    "width": null,
+    "height": null,
+    "hasAudio": true
+  },
+  "video": {
+    "file": "channels/impossible-brief/reports/dry-runs/what-if-gravity-doubled-tomorrow/what-if-gravity-doubled-tomorrow.mp4",
+    "captionsBurned": true,
+    "visualChanges": 8,
+    "illustrationLabel": true,
+    "scenarioSpecific": true,
+    "durationSeconds": 19.134,
+    "width": 1080,
+    "height": 1920,
+    "hasAudio": true
+  },
+  "thumbnail": {
+    "file": "channels/impossible-brief/reports/dry-runs/what-if-gravity-doubled-tomorrow/thumbnail.jpg",
+    "bytes": 56443,
+    "scenarioSpecific": true,
+    "textWords": 2
+  }
+}

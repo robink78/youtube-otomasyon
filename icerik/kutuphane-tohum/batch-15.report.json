@@ -1,0 +1,1252 @@
+[
+  {
+    "slug": "ss-valencia-1906",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — SS Valencia",
+        "url": "https://en.wikipedia.org/wiki/SS_Valencia",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Government source — seq 5 (cited by Wikipedia)",
+        "url": "http://chroniclingamerica.loc.gov/lccn/sn85066387/1906-08-23/ed-1/seq-5/",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "SS Valencia Side.jpg",
+        "licence": "Public domain",
+        "width": 720,
+        "height": 540,
+        "categories": "PD US|Black and white photographs|Files with no machine-readable author|Valencia (ship, 1906)|Media lacking author information|Photographs by Frank H. Nowell|PD-US missing SDC copyright status",
+        "description": "The en:SS Valencia in 1904.",
+        "taken": "",
+        "origin": "wikipedia-article",
+        "score": 9
+      },
+      {
+        "file": "SS Valencia Survivors.jpg",
+        "licence": "Public domain",
+        "width": 768,
+        "height": 548,
+        "categories": "PD US|Valencia (ship, 1906)|City of Topeka (ship, 1884)|Taken on missing SDC inception|Template Unknown (author)|Photographs taken on 1906-01-24|Passenger ship lifeboats",
+        "description": "Survivors from the en:SS Valencia being picked up by the SS City of Topeka on January 24, 1906.",
+        "taken": "Taken on 24 January 1906",
+        "origin": "wikipedia-article",
+        "score": 9
+      },
+      {
+        "file": "SS Valencia Photograph 1900.jpg",
+        "licence": "Public domain",
+        "width": 4706,
+        "height": 2362,
+        "categories": "PD US|Valencia (ship, 1906)|Template Unknown (author)|PD-US missing SDC copyright status",
+        "description": "This is a photograph of SS Valencia around 1900, during her service with the Pacific Steam Whaling Company. This ownership would end in 1901 and would be transferred to the Pacific Coast Steamship Company. Five years later, Valencia sank in one of the worst maritime accidents in the Pacific Northwest, killing over 130 people.",
+        "taken": "2014-07-24 14:35:12",
+        "origin": "wikipedia-article",
+        "score": 8
+      },
+      {
+        "file": "SS Valencia Side.png",
+        "licence": "Public domain",
+        "width": 720,
+        "height": 540,
+        "categories": "PD US|Black and white photographs|Valencia (ship, 1906)|Photographs by Frank H. Nowell|Template Unknown (author)|PD-US missing SDC copyright status|Template Unknown (source)",
+        "description": " The en:SS Valencia in 1904. Source: University of Washington Digital Collections ",
+        "taken": "",
+        "origin": "commons-search",
+        "score": 7
+      },
+      {
+        "file": "Steamship VALENCIA, 1904 (NOWELL 48).jpeg",
+        "licence": "Public domain",
+        "width": 741,
+        "height": 600,
+        "categories": "Media needing category review with 1 suggested category|Ships in Alaska|PD-old-75-expired|Images from the Frank H. Nowell Photographs of Alaska Collection to check|CC-PD-Mark|Media needing category review as of 30 June 2016|PD-old missing SDC copyright status|Ships named Valencia|Images from the Frank H. Nowell Photographs of Alaska Collection",
+        "description": "Caption on image: Pacific Coast Steamship Co's S.S. Valencia. Nowell, 1904. 1005 Subjects (LCTGM): Ships--Alaska Subjects (LCSH): Valencia (Ship) ",
+        "taken": "1904 date QS:P571,+1904-00-00T00:00:00Z/",
+        "origin": "commons-search",
+        "score": 3
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "city-of-rio-de-janeiro-1901",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — SS City of Rio de Janeiro",
+        "url": "https://en.wikipedia.org/wiki/SS_City_of_Rio_de_Janeiro",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Government source — 011790C21 (cited by Wikipedia)",
+        "url": "http://archives.slc.ca.gov/Meeting_Summaries/1990_Documents/01-17-90/Items/011790C21.pdf",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "PSM V59 D546 Probable course of the city of rio de janeiro.png",
+        "licence": "Public domain",
+        "width": 1609,
+        "height": 998,
+        "categories": "PD US|City of Rio de Janeiro (ship, 1878)|Images created or edited with IrfanView|Popular Science Monthly illustrations/Volume 59|Template Unknown (author)|PD-US missing SDC copyright status",
+        "description": "Probable course of the City of Rio de Janeiro",
+        "taken": "1901",
+        "origin": "wikipedia-article",
+        "score": 13
+      },
+      {
+        "file": "CA-boys-on-board-the-city-of-rio-de-janeiro-mail-steamer-1898.jpg",
+        "licence": "Public domain",
+        "width": 1024,
+        "height": 1148,
+        "categories": "PD US|City of Rio de Janeiro (ship, 1878)|1898 in San Francisco|National Register of Historic Places with known IDs|Ship engine smoke|PD-US missing SDC copyright status",
+        "description": "The steamer SS City of Rio de Janeiro in 1898 carrying troops from California in the Spanish-American War. The ship sunk in 1901 near the Golden Gate and the fairly vaguely defined \"site\" of the wreck is listed on the National Register of Historic Places",
+        "taken": "1898",
+        "origin": "wikipedia-article",
+        "score": 12
+      },
+      {
+        "file": "DINNER (held by) PACIFIC MAIL STEAMSHIP COMPANY (at) (SS CITY OF RIO DE JANEIRO?) (SS) (NYPL Hades-273704-4000009519).jpg",
+        "licence": "Public domain",
+        "width": 2348,
+        "height": 3561,
+        "categories": "Pacific Mail Steamship Company|Images uploaded by Fæ|PD-scan (PD-US-expired)|PD US expired|Images from the New York Public Library|PD-US missing SDC copyright status|Food menus of the City of Rio de Janeiro (ship, 1878)",
+        "description": "DINNER [held by] PACIFIC MAIL STEAMSHIP COMPANY [at] [SS CITY OF RIO DE JANEIRO?] (SS)",
+        "taken": "1900",
+        "origin": "commons-search",
+        "score": 7
+      },
+      {
+        "file": "DINNER (held by) PACIFIC MAIL STEAMSHIP COMPANY (at) (SS CITY OF RIO DE JANEIRO?) (SS) (NYPL Hades-273704-4000009520).jpg",
+        "licence": "Public domain",
+        "width": 2342,
+        "height": 3598,
+        "categories": "Pacific Mail Steamship Company|Images uploaded by Fæ|PD-scan (PD-US-expired)|PD US expired|Images from the New York Public Library|PD-US missing SDC copyright status|Food menus of the City of Rio de Janeiro (ship, 1878)",
+        "description": "DINNER [held by] PACIFIC MAIL STEAMSHIP COMPANY [at] [SS CITY OF RIO DE JANEIRO?] (SS)",
+        "taken": "1900",
+        "origin": "commons-search",
+        "score": 7
+      },
+      {
+        "file": "BREAKFAST (held by) PACIFIC MAIL STEAMSHIP COMPANY (at) SS CITY OF RIO DE JANEIRO (SS;) (NYPL Hades-273972-468247).jpg",
+        "licence": "Public domain",
+        "width": 2407,
+        "height": 3607,
+        "categories": "Images uploaded by Fæ|PD-scan (PD-US-expired)|PD US expired|Images from the New York Public Library|Media needing category review as of 10 April 2016|PD-US missing SDC copyright status|Food menus of the City of Rio de Janeiro (ship, 1878)",
+        "description": "* DECORATIVE BORDER 1900-3546 ",
+        "taken": "1900",
+        "origin": "commons-search",
+        "score": 7
+      },
+      {
+        "file": "TIFFIN (held by) PACIFIC MAIL STEAMSHIP COMPANY (at) SS CITY OF RIO DE JANEIRO (SS) (NYPL Hades-273703-467118).jpg",
+        "licence": "Public domain",
+        "width": 2377,
+        "height": 3568,
+        "categories": "Images uploaded by Fæ|PD-scan (PD-US-expired)|PD US expired|Images from the New York Public Library|Media needing category review as of 7 April 2016|PD-US missing SDC copyright status|Food menus of the City of Rio de Janeiro (ship, 1878)",
+        "description": "* 1900-3081",
+        "taken": "1900",
+        "origin": "commons-search",
+        "score": 7
+      },
+      {
+        "file": "BREAKFAST (held by) PACIFIC MAIL STEAMSHP COMPANY (at) SS CITY OF RIO DE JANEIRO (SS;) (NYPL Hades-273783-467198).jpg",
+        "licence": "Public domain",
+        "width": 2387,
+        "height": 3584,
+        "categories": "Images uploaded by Fæ|PD-scan (PD-US-expired)|PD US expired|Images from the New York Public Library|Media needing category review as of 8 April 2016|PD-US missing SDC copyright status|Food menus of the City of Rio de Janeiro (ship, 1878)",
+        "description": "* HANDWRITTEN ON PRINTED FORM;MECHANICALLY REPRODUCED 1900-3242 ",
+        "taken": "1900",
+        "origin": "commons-search",
+        "score": 7
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "rms-tayleur-1854",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — RMS Tayleur",
+        "url": "https://en.wikipedia.org/wiki/RMS_Tayleur",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Academic / engineering journal — doBasicSearch?Query=\"RMS+Tayleur\"&acc=on&wc=on (cited by Wikipedia)",
+        "url": "https://www.jstor.org/action/doBasicSearch?Query=%22RMS+Tayleur%22&acc=on&wc=on",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "Loss of 'the Tayleur' Australian packet-ship, off Lambay Island ILN-1854 (cropped).jpg",
+        "licence": "Public domain",
+        "width": 800,
+        "height": 477,
+        "categories": "1854 in Ireland|Dublin Bay|Images with intentional borders|Tayleur (ship, 1853)|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-100-expired)|CC-PD-Mark|The Illustrated London News 1854|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Images uploaded by Broichmore",
+        "description": "Article: Wreck of the \"Tayleur,\" in Dublin Bay. Illustration for The Illustrated London News, 28 January 1854. Volume: 24 , Issue: 665. Read the ILN WRECK OF THE \" TAYLEUR,\" IN DUBLIN BAY. In our publication of November 26 we gave an engraving and a description of the new iron clipper-ship Tayleur, then recently launched, the largest sailing merchantman ever built in this country. The vessel was designed expressly for the Australian passenger trade, to form one of Messrs. Pilkington and Wilson's celebrated White Star Line. She was 2500 tons new measurement, and was capable of carrying 4000 ton",
+        "taken": "28 January 1854 date QS:P571,+1854-01-28",
+        "origin": "wikipedia-article",
+        "score": 10
+      },
+      {
+        "file": "Tayleur.jpg",
+        "licence": "Public domain",
+        "width": 1460,
+        "height": 1189,
+        "categories": "Tayleur (ship, 1853)|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-100-expired)|CC-PD-Mark|John Raphael Isaac|C. P. Williams",
+        "description": "Illustration of White Star Line's RMS Tayleur . The new Iron Clipper ship Tayleur , built 1853, wrecked off Lambay Island in 1853. Reference .",
+        "taken": "between circa 1853 and circa 1854 date Q",
+        "origin": "wikipedia-article",
+        "score": 10
+      },
+      {
+        "file": "Wreck of 'the Tayleur', seen from the mainland, on Sunday. ILN-1854-0128-0019.jpg",
+        "licence": "Public domain",
+        "width": 974,
+        "height": 660,
+        "categories": "1854 in Ireland|Dublin Bay|Images with intentional borders|Tayleur (ship, 1853)|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-100-expired)|CC-PD-Mark|The Illustrated London News 1854|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Images uploaded by Broichmore",
+        "description": "Article: Wreck of the \"Tayleur,\" in Dublin Bay. Illustration for The Illustrated London News, 28 January 1854. Volume: 24 , Issue: 665. Read the ILN WRECK OF THE \"TAYLEUR,\" IN DUBLIN BAY. In our publication of November 26 we gave an engraving and a description of the new iron clipper-ship Tayleur, then recently launched, the largest sailing merchantman ever built in this country. The vessel was designed expressly for the Australian passenger trade, to form one of Messrs. Pilkington and Wilson's celebrated White Star Line. She was 2500 tons new measurement, and was capable of carrying 4000 tons",
+        "taken": "28 January 1854 date QS:P571,+1854-01-28",
+        "origin": "wikipedia-article",
+        "score": 10
+      },
+      {
+        "file": "Loss of 'the Tayleur' Australian packet-ship, off Lambay Island ILN-1854-0128-0019.jpg",
+        "licence": "Public domain",
+        "width": 1436,
+        "height": 892,
+        "categories": "1854 in Ireland|Dublin Bay|Images with intentional borders|Tayleur (ship, 1853)|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-100-expired)|CC-PD-Mark|The Illustrated London News 1854|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Images uploaded by Broichmore",
+        "description": "Article: Wreck of the \"Tayleur,\" in Dublin Bay. Illustration for The Illustrated London News, 28 January 1854. Volume: 24 , Issue: 665. Read the ILN WRECK OF THE \" TAYLEUR,\" IN DUBLIN BAY. In our publication of November 26 we gave an engraving and a description of the new iron clipper-ship Tayleur, then recently launched, the largest sailing merchantman ever built in this country. The vessel was designed expressly for the Australian passenger trade, to form one of Messrs. Pilkington and Wilson's celebrated White Star Line. She was 2500 tons new measurement, and was capable of carrying 4000 ton",
+        "taken": "28 January 1854 date QS:P571,+1854-01-28",
+        "origin": "commons-category",
+        "score": 10
+      },
+      {
+        "file": "The new Iron Clipper ship Tayleur.jpg",
+        "licence": "Public domain",
+        "width": 791,
+        "height": 526,
+        "categories": "Tayleur (ship, 1853)|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-100-expired)|CC-PD-Mark|John Raphael Isaac|C. P. Williams",
+        "description": " The new Iron Clipper ship Tayleur , built 1853, wrecked off Lambay Island in 1853. Reference . ",
+        "taken": "between circa 1853 and circa 1854 date Q",
+        "origin": "commons-category",
+        "score": 8
+      },
+      {
+        "file": "Iron Clipper Ship Tayleur.. The history of progress in Great Britain (IA historyofprogres01phil) (page 420 crop).jpg",
+        "licence": "Public domain",
+        "width": 1256,
+        "height": 1113,
+        "categories": "Tayleur (ship, 1853)|Scans from the Internet Archive/unverified|Extracted images|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|California Digital Library|1866 books from London|PD-US missing SDC copyright status|Images uploaded by Broichmore|The history of progress in Great Britain (1858)",
+        "description": " Subjects: Great Britain -- Economic conditions; Great Britain -- Civilization History ",
+        "taken": "",
+        "origin": "commons-category",
+        "score": 7
+      },
+      {
+        "file": "The New Iron Clipper-Built Ship 'Tayleur,' for Australia ILN-1853-1126-0017.jpeg",
+        "licence": "Public domain",
+        "width": 1140,
+        "height": 700,
+        "categories": "Images with intentional borders|Tayleur (ship, 1853)|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-100-expired)|CC-PD-Mark|The Illustrated London News 1853|Images uploaded by Broichmore",
+        "description": "Article: The New Iron Clipper-Built Ship \"Tayleur,\" for Australia. Illustration for The Illustrated London News, 26 November 1853. Read the ILN ",
+        "taken": "26 November 1853 date QS:P571,+1853-11-2",
+        "origin": "commons-search",
+        "score": 3
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "hms-thetis-1939",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — HMS Thetis (N25)",
+        "url": "https://en.wikipedia.org/wiki/HMS_Thetis_(N25)",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Archive / museum — hms thetis memorial unveiled (cited by Wikipedia)",
+        "url": "https://www.liverpoolmuseums.org.uk/stories/hms-thetis-memorial-unveiled",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "George Tobin - The Cleopatra towing the Thetis towards the Chesapeake.jpg",
+        "licence": "Public domain",
+        "width": 1269,
+        "height": 928,
+        "categories": "George Tobin|Paintings in the National Maritime Museum, London|HMS Thisbe (ship, 1783)|HMS Cleopatra (1779)|HMS Lynx (ship, 1794)|HMS Thetis (ship, 1782)|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with known accession number|CC-PD-Mark|Ships named Sally",
+        "description": " Vessels: Cleopatra 1778 [British navy], Sally of Norfolk [American], Thisbe 1783 [British navy], water transport: service vessel: boat, pilot [American] ",
+        "taken": "1795 date QS:P571,+1795-00-00T00:00:00Z/",
+        "origin": "commons-category",
+        "score": 9
+      },
+      {
+        "file": "HMS Thetis aground (cropped).jpg",
+        "licence": "Public domain",
+        "width": 1203,
+        "height": 871,
+        "categories": "George Tobin|Paintings in the National Maritime Museum, London|HMS Cleopatra (1779)|HMS Thetis (ship, 1782)|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with known accession number|Extracted images|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status",
+        "description": "HMS Thetis aground near Currituck Inlet, North Carolina on 23 Dec 1794. Boats have been used to carry out 2 kedge anchors to haul the ship off, and these boats are now using lead lines to sound for deeper water. A further boat is hooked on to the stern of Thetis. This watercolour was painted by George Tobin, one of Thetis's lieutenants, and so can be presumed to be technically accurate. Thetis was got afloat again with the assistance of HMS Cleoptra (seen at anchor in this painting) and taken to Gosport, Virginia for repair.",
+        "taken": "1795 date QS:P571,+1795-00-00T00:00:00Z/",
+        "origin": "commons-category",
+        "score": 9
+      },
+      {
+        "file": "HMS Thetis aground.jpg",
+        "licence": "Public domain",
+        "width": 1280,
+        "height": 941,
+        "categories": "George Tobin|Paintings in the National Maritime Museum, London|HMS Cleopatra (1779)|HMS Thetis (ship, 1782)|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with known accession number|Images with extracted images|CC-PD-Mark",
+        "description": "HMS Thetis aground near Currituck Inlet, North Carolina on 23 Dec 1794. Boats have been used to carry out 2 kedge anchors to haul the ship off, and these boats are now using lead lines to sound for deeper water. A further boat is hooked on to the stern of Thetis. This watercolour was painted by George Tobin, one of Thetis's lieutenants, and so can be presumed to be technically accurate. Thetis was got afloat again with the assistance of HMS Cleoptra (seen at anchor in this painting) and taken to Gosport, Virginia for repair.",
+        "taken": "1795 date QS:P571,+1795-00-00T00:00:00Z/",
+        "origin": "commons-category",
+        "score": 9
+      },
+      {
+        "file": "THETIS 1782 RMG J5491.jpg",
+        "licence": "Public domain",
+        "width": 1280,
+        "height": 451,
+        "categories": "HMS Thetis (ship, 1782)|Images uploaded by Fæ|Artworks without Wikidata item|1782 in art|PD-old-100-expired|PD-Art (PD-old-100-expired)|Template Unknown (author)|CC-PD-Mark|Ship plans of the Royal Museums Greenwich|PD-Art missing SDC copyright status|PD-old missing SDC copyright status",
+        "description": "THETIS 1782 Inboard profile plan",
+        "taken": "1782 date QS:P571,+1782-00-00T00:00:00Z/",
+        "origin": "commons-category",
+        "score": 9
+      },
+      {
+        "file": "THETIS 1782 RMG J5492.jpg",
+        "licence": "Public domain",
+        "width": 1280,
+        "height": 459,
+        "categories": "HMS Thetis (ship, 1782)|Images uploaded by Fæ|Artworks without Wikidata item|1781 in art|PD-old-100-expired|PD-Art (PD-old-100-expired)|Template Unknown (author)|CC-PD-Mark|Ship plans of the Royal Museums Greenwich|PD-Art missing SDC copyright status|PD-old missing SDC copyright status",
+        "description": "THETIS 1782 platform",
+        "taken": "circa 1781 date QS:P571,+1781-00-00T00:0",
+        "origin": "commons-category",
+        "score": 9
+      },
+      {
+        "file": "HMS Thetis Jolly Roger.jpg",
+        "licence": "Public domain",
+        "width": 1572,
+        "height": 2480,
+        "categories": "HMS Forth (A187)|Jolly Roger|Skull and crossbones (military symbol)|Andrew (surname)|20th-century men of the United Kingdom|UK Government artistic works|Black and white photographs of World War II|World War II in March 1942|Military people in 1942|People of the United Kingdom in 1942|Black and white photographs of the United Kingdom in the 1940s|Collections of the Imperial War Museum|Photographs taken on 1942-03-27|HMS Thunderbolt (1938)|March 1942 United Kingdom photographs|March 1942 in Scotland|Navy in 1942|Black and white photographs of Argyll and Bute|1942 black and white portrait photogr",
+        "description": "Lieutenant B J Andrew, RN (centre) with the crew of HM Submarine THUNDERBOLT and their 'Jolly Roger' flag. They had just returned from the Mediterranean to the Submarine Depot Ship HMS FORTH in Holy Loch, Scotland.",
+        "taken": "1942-03-27",
+        "origin": "wikipedia-article",
+        "score": 7
+      },
+      {
+        "file": "HMSM Thunderbolt.jpg",
+        "licence": "Public domain",
+        "width": 1142,
+        "height": 978,
+        "categories": "Black and white photographs|UK Government artistic works|Derivative versions|Admiralty official collection|HMS Thunderbolt (1938)|Photographs by Sidney James Beadell",
+        "description": " HMSM Thunderbolt stationary in harbour after a patrol. Crew members on deck.",
+        "taken": "1940",
+        "origin": "wikipedia-article",
+        "score": 2
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "uss-squalus-1939",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — USS Squalus",
+        "url": "https://en.wikipedia.org/wiki/USS_Squalus",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Government source — faq99 1 (cited by Wikipedia)",
+        "url": "http://www.history.navy.mil/faqs/faq99-1.htm",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "USS Wandank (AT-26) and USS Falcon (ASR-2).jpg",
+        "licence": "Public domain",
+        "width": 728,
+        "height": 529,
+        "categories": "USS Sailfish (SS-192)|USS Falcon (ASR-2)|Bagaduce-class tugboat|PD US Navy|CC-PD-Mark",
+        "description": " United States Navy fleet tug USS Wandank (AT-26) (eft) and submarine rescue vessel USS Falcon (ASR-2) (right) ca. 24 May 1939, with the McCann Rescue Chamber between them, during operations to rescue the crew of sunken submarine USS Squalus (SS-192) ",
+        "taken": "circa 24 May 1939 date QS:P,+1939-05-24T",
+        "origin": "commons-search",
+        "score": 10
+      },
+      {
+        "file": "USS Falcon (ASR-2) in the summer of 1939.jpg",
+        "licence": "Public domain",
+        "width": 740,
+        "height": 578,
+        "categories": "USS Sailfish (SS-192)|USS Falcon (ASR-2)|PD US Navy|CC-PD-Mark",
+        "description": "The U.S. Navy submarine rescue ship USS Falcon (ARS-2) moored over the sunken submarine USS Squalus (SS-192), during salvage operations off the New Hampshire coast in the Summer of 1939.",
+        "taken": "Summer 1939 date QS:P,+1939-00-00T00:00:",
+        "origin": "commons-search",
+        "score": 10
+      },
+      {
+        "file": "Martin Dempsey at Portsmouth Naval Shipyard 2013.jpg",
+        "licence": "Public domain",
+        "width": 3243,
+        "height": 2158,
+        "categories": "USS Sailfish (SS-192)|PD US Military|Portsmouth Naval Shipyard|Handshakes involving the military|July 2013 in Maine|Martin E. Dempsey in 2013|United States photographs taken on 2013-07-08|Soldiers with civilians",
+        "description": "U.S. Army Gen. Martin E. Dempsey, center right, the chairman of the Joint Chiefs of Staff, visits with employees at the Portsmouth Naval Shipyard in Kittery, Maine, July 8, 2013. The group is standing in front of the conning tower of the USS Sailfish (SS-192) (originally the USS Squalus), which stands at the Portsmouth Naval Shipyard in Kittery as a memorial to her lost crewmen.",
+        "taken": "Taken on 8 July 2013",
+        "origin": "wikipedia-article",
+        "score": 8
+      },
+      {
+        "file": "US Navy 030808-N-0000X-002 Cdr. Charles 'Swede' Momsen stands next to the rail (third from left) as USS Falcon (ASR 2) crewmen suit-up two Deep Sea Divers.jpg",
+        "licence": "Public domain",
+        "width": 2100,
+        "height": 1364,
+        "categories": "USS Sailfish (SS-192)|Rescue|USS Falcon (ASR-2)|PD US Navy|Files created by the United States Navy with known IDs|CC-PD-Mark",
+        "description": "Navy File Photo – Cdr. Charles \"Swede\" Momsen stands next to the rail (third from left) as USS Falcon (ASR 2) crewmen suit-up two Deep Sea Divers during the rescue/salvage operation following the sinking of the U.S. Navy submarine USS Squalus (SS 192). Momsen led the successful effort, which resulted in the rescue of 33 submariners trapped aboard Squalus and remains to this day the greatest undersea rescue in history. U.S. Navy photo. (RELEASED)",
+        "taken": "",
+        "origin": "commons-search",
+        "score": 8
+      },
+      {
+        "file": "USS Sailfish;0819202.jpg",
+        "licence": "Public domain",
+        "width": 740,
+        "height": 576,
+        "categories": "USS Sailfish (SS-192)|Files with no machine-readable author|Files with no machine-readable source|Media missing infobox template|April 1943 in California|Black and white photographs of California in the 1940s|PD US Navy|CC-PD-Mark|1943 black and white photographs|United States photographs taken on 1943-04-13|Black and white photographs of ships of World War II|1943 photographs of California|Watercraft photographed in April 1943|Mare Island Naval Shipyard in 1943|Black and white photographs of ships in the United States",
+        "description": "",
+        "taken": "",
+        "origin": "wikipedia-article",
+        "score": 4
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "ss-richard-montgomery",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — SS Richard Montgomery",
+        "url": "https://en.wikipedia.org/wiki/SS_Richard_Montgomery",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "UK Government — 2000 survey report montgomery (cited by Wikipedia)",
+        "url": "https://assets.publishing.service.gov.uk/media/5df10b40ed915d15f5b25b70/2000_survey_report_montgomery.pdf",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "America. To perpetuate to posterity the memory of those patriotic heroes, who fought, bled & died in establishing peace, liberty & tranquility to their country LCCN2003656584.jpg",
+        "licence": "Public domain",
+        "width": 1536,
+        "height": 1142,
+        "categories": "Richard Montgomery|1781 in the United States|Images from the Library of Congress|Amos Doolittle|Hugh Mercer|Joseph Warren|David Wooster|Robert Edge Pine|Images uploaded by Fæ|PD US expired|Popular Graphic Arts|Caricatures of the United States|1781 works in the United States|1780s political cartoons of the United States|Liberty in art|American Revolution in 1781|American Revolution in art|American political prints, 1766-1876: A catalog of the collections in the Library of Congress|Martyrs in art",
+        "description": " Title: America. To perpetuate to posterity the memory of those patriotic heroes, who fought, bled &amp; died in establishing peace, liberty &amp; tranquility to their country Abstract: Amos Doolittle's print after Robert Edge Pine's design appears to be an enlarged copy of Strutt's engraving (1781-1). It follows the original in most details, except for the figure in the medallion on the pyramid. In the Strutt version the figure seems to be Minerva and holds an unidentifiable object in each hand (possibly an owl in her left hand). In Doolittle's version the figure holds a pole with liberty cap",
+        "taken": "1781",
+        "origin": "commons-category",
+        "score": 10
+      },
+      {
+        "file": "America. To perpetuate to posterity the memory of those patriotic heroes, who fought, bled & died in establishing peace, liberty & tranquility to their country - A. Doolittle, sculp., LCCN2003656584.jpg",
+        "licence": "Public domain",
+        "width": 7202,
+        "height": 5817,
+        "categories": "Richard Montgomery|1781 in the United States|Images from the Library of Congress|Amos Doolittle|Hugh Mercer|David Wooster|Images uploaded by Fæ|PD-old-100-expired|Popular Graphic Arts|Caricatures of the United States|CC-PD-Mark|1781 works in the United States|1780s political cartoons of the United States|Liberty in art|PD-old missing SDC copyright status|American Revolution in 1781|American Revolution in art|American political prints, 1766-1876: A catalog of the collections in the Library of Congress|Martyrs in art",
+        "description": " Title: America. To perpetuate to posterity the memory of those patriotic heroes, who fought, bled &amp; died in establishing peace, liberty &amp; tranquility to their country / A. Doolittle, sculp., Newhaven. Abstract/medium: 1 print on laid paper: Stipple engraving printed in red ink ; sheet 47.8 x 59.7 cm.",
+        "taken": "1781",
+        "origin": "commons-category",
+        "score": 9
+      },
+      {
+        "file": "General Montgomery (NYPL Hades-247512-423905).jpg",
+        "licence": "Public domain",
+        "width": 1960,
+        "height": 2685,
+        "categories": "Richard Montgomery|Author died more than 70 years ago public domain images|Images uploaded by Fæ|PD-scan (PD-old-70)|Images from the New York Public Library|CC-PD-Mark|Emmet Collection of Manuscripts|Media needing category review as of 19 January 2016|PD-old missing SDC copyright status",
+        "description": "* EM1936",
+        "taken": "",
+        "origin": "commons-category",
+        "score": 9
+      },
+      {
+        "file": "Major Gen'l. Rich'd. Montgomery slain in storming Quebec Dec'b'r. 31st, 1775 - J. Norman sc. LCCN2004666611.jpg",
+        "licence": "Public domain",
+        "width": 1111,
+        "height": 1536,
+        "categories": "Richard Montgomery|Images from the Library of Congress|Images uploaded by Fæ|PD-old-100-expired|CC-PD-Mark|Miscellaneous Items in High Demand, PPOC, Library of Congress|PD-old missing SDC copyright status|An Impartial History of the Present War in America",
+        "description": " Title: Major Gen'l. Rich'd. Montgomery slain in storming Quebec Dec'b'r. 31st, 1775 / J. Norman sc. Abstract/medium: 1 print : engraving.",
+        "taken": "1781",
+        "origin": "commons-category",
+        "score": 9
+      },
+      {
+        "file": "Masonic heroes print.jpg",
+        "licence": "Public domain",
+        "width": 936,
+        "height": 1214,
+        "categories": "Richard Montgomery|James Otis, Jr.|Peyton Randolph|Joseph Warren|Founding fathers of the United States|Israel Putnam|Eye of Providence|19th-century prints|David Wooster|George Washington in art|Benjamin Franklin in art|PD-old-100-expired|Quotations by George Washington|PD-Art (PD-old-100-expired)|Template Unknown (author)|CC-PD-Mark|Marquis de Lafayette in art|Memorabilia of Benjamin Franklin|Eye of Providence in the United States|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Masonic documents|John Marshall in art|Masonic regalia in portraits",
+        "description": "Print of \"Distinguished Masons Of The Revolution.\". Per description written by seller: \"Lithograph showing portraits of distinguished members of the American Revolution who were also members of the Masonic Brotherhood. This lithograph features the portraits of ten Masons who played important roles in the period leading up to and immediately following the American Revolutionary War. \"President and General George Washington is the focal point of the artwork and his portrait occupies the central position. Surrounding him are nine additional portraits. Starting directly above his head and moving c",
+        "taken": "Late 1800s",
+        "origin": "commons-category",
+        "score": 9
+      },
+      {
+        "file": "MGen Richard Montgomery (with autograph) 1775.jpg",
+        "licence": "Public domain",
+        "width": 1368,
+        "height": 1632,
+        "categories": "Richard Montgomery|PD US|Files with no machine-readable author|Media lacking author information|PD-US missing SDC copyright status",
+        "description": "MGen Richard Montgomery with autograph 1775",
+        "taken": "",
+        "origin": "commons-category",
+        "score": 9
+      },
+      {
+        "file": "Montgomery, Richard (full length) - NARA - 532866.jpg",
+        "licence": "Public domain",
+        "width": 2266,
+        "height": 3000,
+        "categories": "Art of the United States|Richard Montgomery|PD US Government|Alonzo Chappel|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|Template Unknown (author)|CC-PD-Mark|US National Archives series: The George Washington Bicentennial Commission, compiled 1931 - 1932",
+        "description": "",
+        "taken": "",
+        "origin": "commons-category",
+        "score": 9
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "tev-wahine-1968",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — TEV Wahine",
+        "url": "https://en.wikipedia.org/wiki/TEV_Wahine",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Government source — no2005112064 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/no2005112064",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "NZ Wahine Salvage.jpg",
+        "licence": "CC BY 2.0",
+        "width": 1396,
+        "height": 768,
+        "categories": "Cook Strait|Wahine (ship, 1965)|History of Wellington|Marine salvage|Flickr images reviewed by File Upload Bot (Magnus Manske)|Photographs by Phillip Capper|1968 in Wellington|New Zealand photographs taken on 1968-04-24",
+        "description": "The New Zealand inter-island ferry 'Wahine' sank in the entrance to Wellington Harbour on 10 April 1968, with 51 of the 764 on board losing their lives. The vessel foundered across the main shipping channel, so by the time we went past her on 24 April, salvage operations were already well established.",
+        "taken": "1968-04-24",
+        "origin": "wikipedia-article",
+        "score": 10
+      },
+      {
+        "file": "NZ Wahine Salvage 02.jpg",
+        "licence": "CC BY 2.0",
+        "width": 1524,
+        "height": 920,
+        "categories": "Cook Strait|Wahine (ship, 1965)|History of Wellington|Marine salvage|Flickr images reviewed by FlickreviewR|Photographs by Phillip Capper|1968 in Wellington|New Zealand photographs taken on 1968-04-24",
+        "description": "The New Zealand inter-island ferry 'Wahine' sank in the entrance to Wellington Harbour on 10 April 1968, with 51 of the 764 on board losing their lives. The vessel foundered across the main shipping channel, so by the time we went past her on 24 April, salvage operations were already well established.",
+        "taken": "1968-04-24",
+        "origin": "commons-category",
+        "score": 10
+      },
+      {
+        "file": "Union Steam Ship Company ferry TEV Wahine in port.jpg",
+        "licence": "CC0",
+        "width": 999,
+        "height": 668,
+        "categories": "CC-Zero|Wahine (ship, 1965)",
+        "description": "Union Steam Ship Company ship Wahine. Built as a running mate for the MAORI which was converted to a RORO ship at Hong Kong in 1967. Tragically foundered when it struck Barrett Reef at entrance to Wellington Harbour 10 April 1968 in storm conditions. Wreck removed by United Salvage Pty Ltd between October 1968 and September 1973.",
+        "taken": "2011-03-08 16:17:32",
+        "origin": "commons-category",
+        "score": 10
+      },
+      {
+        "file": "Wahine - bow.jpg",
+        "licence": "CC0",
+        "width": 999,
+        "height": 624,
+        "categories": "Bows (ship part)|CC-Zero|Wahine (ship, 1965)",
+        "description": "Union Steam Ship Company ship Wahine. Built as a running mate for the MAORI which was converted to a RORO ship at Hong Kong in 1967. Tragically foundered when it struck Barrett Reef at entrance to Wellington Harbour 10 April 1968 in storm conditions. Wreck removed by United Salvage Pty Ltd between October 1968 and September 1973.",
+        "taken": "1967-01-01",
+        "origin": "commons-category",
+        "score": 8
+      },
+      {
+        "file": "Wahine in terminal.jpg",
+        "licence": "CC0",
+        "width": 999,
+        "height": 705,
+        "categories": "CC-Zero|Wahine (ship, 1965)",
+        "description": "Union Steam Ship Company ship Wahine. Built as a running mate for the MAORI which was converted to a RORO ship at Hong Kong in 1967. Tragically foundered when it struck Barrett Reef at entrance to Wellington Harbour 10 April 1968 in storm conditions. Wreck removed by United Salvage Pty Ltd between October 1968 and September 1973.",
+        "taken": "2016-09-19 08:42:28",
+        "origin": "commons-category",
+        "score": 8
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "mv-rena-2011",
+    "errors": [
+      "Wikipedia article not found: MV_Rena_oil_spill",
+      "Wikipedia source missing",
+      "no verifiable authoritative source (none reachable, none cited officially)"
+    ],
+    "warnings": [
+      "dropped unverifiable source https://en.wikipedia.org/wiki/MV_Rena_oil_spill (HTTP 404)"
+    ],
+    "sources": [],
+    "stills": [
+      {
+        "file": "NZ Defence Force assistance to OP Rena.jpg",
+        "licence": "CC BY 2.0",
+        "width": 4053,
+        "height": 2702,
+        "categories": "Aerial photographs of New Zealand|Taken with Nikon D3s|Flickr images uploaded by Flickr upload bot|Aerial photographs of ships|Shipwreck of Rena (ship, 1990)",
+        "description": "Grounded ship Rena on the Astrolabe reef.",
+        "taken": "2011-10-13 15:50:59",
+        "origin": "commons-search",
+        "score": 7
+      },
+      {
+        "file": "Rena ship 02.jpg",
+        "licence": "CC BY 2.0",
+        "width": 3837,
+        "height": 2558,
+        "categories": "Aerial photographs of New Zealand|Taken with Nikon D3s|Cracks|Flickr images reviewed by trusted users|Tilting|Aerial photographs of ships|Shipwreck of Rena (ship, 1990)",
+        "description": "Aerial view of grounded ship Rena",
+        "taken": "2011-10-11 17:53",
+        "origin": "commons-search",
+        "score": 7
+      },
+      {
+        "file": "NZ Defence Force assistance to OP Rena - Flickr - NZ Defence Force (20).jpg",
+        "licence": "CC BY 2.0",
+        "width": 3883,
+        "height": 2588,
+        "categories": "Aerial photographs of New Zealand|Taken with Nikon D3|Flickr images reviewed by FlickreviewR|Photographs by the New Zealand Defence Force|Shipwreck of Rena (ship, 1990)|Flickr images missing SDC published in",
+        "description": "Aerial view of grounded ship Rena",
+        "taken": "2011-09-11 17:53",
+        "origin": "commons-search",
+        "score": 7
+      }
+    ]
+  },
+  {
+    "slug": "bourbon-dolphin-2007",
+    "errors": [
+      "numbers not found in Wikipedia article: 8"
+    ],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — Bourbon Dolphin",
+        "url": "https://en.wikipedia.org/wiki/Bourbon_Dolphin",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — 6550077.stm (cited by Wikipedia)",
+        "url": "http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/6550077.stm",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "Blason duche fr Bourbon (Beaujolais).png",
+        "licence": "Public domain",
+        "width": 960,
+        "height": 1056,
+        "categories": "Self-published work|PD-self|CoA Lab-fr:Syryatsu|PNG blason par Syryatsu|Created with Adobe Photoshop:CoA-SY|Coat of arms of the Capetian house of Bourbon Moderne|3 dolphins on a bend|3 dolphins or",
+        "description": "Blason du duché Beaujolais de Bourbon : d'azur à trois fleurs de lys d'or à la bande de gueules chargée de trois dauphins d'or",
+        "taken": "2007-05-26",
+        "origin": "commons-search",
+        "score": 9
+      },
+      {
+        "file": "Blason comte fr Montpensier (Bourbon).png",
+        "licence": "Public domain",
+        "width": 960,
+        "height": 1056,
+        "categories": "Coats of arms of Capetians|Self-published work|PD-self|CoA Lab-fr:Syryatsu|PNG blason par Syryatsu|Created with Adobe Photoshop:CoA-SY|Coat of arms of the Capetian house of Bourbon Moderne|Dolphin of Auvergne in heraldry",
+        "description": "Blason du comté Bourbon de Montpensier : d'azur à trois fleurs de lys d'or à la bande de gueules chargée au franc quartier d'or au dauphin d'azur",
+        "taken": "2007-05-26",
+        "origin": "commons-search",
+        "score": 9
+      },
+      {
+        "file": "Blason comte fr Montpensier (Bourbon2).png",
+        "licence": "Public domain",
+        "width": 960,
+        "height": 1056,
+        "categories": "Coats of arms of Capetians|Vector version available|Self-published work|PD-self|CoA Lab-fr:Syryatsu|Quarterly azure and or|PNG blason par Syryatsu|Created with Adobe Photoshop:CoA-SY|Coat of arms of the Capetian house of Bourbon Moderne|Dolphin of Auvergne in heraldry",
+        "description": "Blason du comté de Montpensier (Bourbon) : écartelé en 1 et 4 d'azur à trois fleurs de lys d'or et à la bande de gueules et en 2 et 3 d'or au dauphin d'azur",
+        "taken": "2007-05-26",
+        "origin": "commons-search",
+        "score": 9
+      }
+    ]
+  },
+  {
+    "slug": "kinzua-bridge-2003",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — Kinzua Bridge",
+        "url": "https://en.wikipedia.org/wiki/Kinzua_Bridge",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Government source — Weekly List FR Tuesday Feb 6 1979 listingyear1966 1978 (cited by Wikipedia)",
+        "url": "http://www.nps.gov/nr/listings/Weekly_List_FR-Tuesday-Feb-6-1979-listingyear1966-1978.pdf",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "Kinzuabridge1.jpg",
+        "licence": "Public domain",
+        "width": 4662,
+        "height": 3240,
+        "categories": "1971 in Pennsylvania|Historic American Engineering Record|Images from the Library of Congress|PD US NPS|National Register of Historic Places with known IDs|1971 in rail transport in the United States|Kinzua Bridge (pre-2003 collapse)|Photographs by Jack Boucher",
+        "description": "The Kinzua Bridge in McKean County , Pennsylvania .",
+        "taken": "1971-07",
+        "origin": "wikipedia-article",
+        "score": 8
+      },
+      {
+        "file": "Aerial view of Trestle Bridge over Kinzua Creek Valley - 01.jpg",
+        "licence": "Public domain",
+        "width": 4316,
+        "height": 3419,
+        "categories": "1971 in Pennsylvania|PD US Government|Files uploaded by Anna Frodesiak|CC-PD-Mark|1971 in rail transport in the United States|Kinzua Bridge (pre-2003 collapse)|Files with coordinates missing SDC location of creation",
+        "description": "Aerial reconnaissance, IL, Erie Railway Survey. - Erie Railway, Bradford Division, Bridge 27.66, Spanning Kinzua Creek Valley, 1.5 Miles Northeast of Kushequa, Mount Jewett, McKean County, Pennsylvania. (source: https://www.loc.gov/pictures/item/pa0576.photos.135844p/ )",
+        "taken": "1971-07",
+        "origin": "commons-category",
+        "score": 8
+      },
+      {
+        "file": "As she once stood proud - panoramio.jpg",
+        "licence": "CC BY 3.0",
+        "width": 772,
+        "height": 538,
+        "categories": "Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Kinzua Bridge (pre-2003 collapse)|Files with coordinates missing SDC location of creation|Photographs by Ron Shawley",
+        "description": "As she once stood proud. Comment - This is almost certainly the now collapsed Kinzua Bridge though the given coords are a bit too far north.",
+        "taken": "20 October 2008 (original upload date)",
+        "origin": "commons-category",
+        "score": 8
+      },
+      {
+        "file": "Head Kinzua Bridge, between Bradford and Mt. Jewett (72325).jpg",
+        "licence": "Public domain",
+        "width": 3303,
+        "height": 2139,
+        "categories": "Trains on bridges in the United States|PD US no notice|Kinzua Bridge (pre-2003 collapse)|Postcards of bridges in Pennsylvania|Postcards of Pennsylvania published by Tichnor Brothers|Postcards of Bradford, Pennsylvania",
+        "description": " Title: Head Kinzua Bridge, between Bradford and Mt. Jewett Subjects: Bridges Places: Pennsylvania &gt; McKean (county) &gt; Bradford Notes: Title from item. Extent: 1 print (postcard) : linen texture, color ; 3 1/2 x 5 1/2 in. Accession #: 06_10_017245 ",
+        "taken": "between circa 1930 and circa 1945 date Q",
+        "origin": "commons-category",
+        "score": 8
+      },
+      {
+        "file": "Kinzuabridge2.jpg",
+        "licence": "Public domain",
+        "width": 4368,
+        "height": 2886,
+        "categories": "1971 in Pennsylvania|Historic American Engineering Record|Images from the Library of Congress|PD US NPS|1971 in rail transport in the United States|Kinzua Bridge (pre-2003 collapse)|Photographs by Jack Boucher",
+        "description": "The Kinzua Bridge in McKean County , Pennsylvania .",
+        "taken": "1971-07",
+        "origin": "commons-category",
+        "score": 8
+      },
+      {
+        "file": "Train parked on bridge - panoramio.jpg",
+        "licence": "CC BY 3.0",
+        "width": 1174,
+        "height": 792,
+        "categories": "Panoramio files uploaded by Panoramio upload bot|SY 1658 steam locomotive|Panoramio images reviewed by trusted users|Photos from Panoramio|Kinzua Bridge (pre-2003 collapse)|Files with coordinates missing SDC location of creation|Knox and Kane Railroad|Photos from Panoramio ID 143517",
+        "description": "Train parked on bridge",
+        "taken": "20 October 2008 (original upload date)",
+        "origin": "commons-category",
+        "score": 8
+      },
+      {
+        "file": "The great Kinzua Bridge near Alton, Pa, by Detlor & Waddell.jpg",
+        "licence": "Public domain",
+        "width": 760,
+        "height": 499,
+        "categories": "Trains on bridges in the United States|PD US|Artworks without Wikidata item|Artworks with known accession number|PD-scan (PD-US)|Images from the New York Public Library|Robert N. Dennis collection of stereoscopic views|Kinzua Bridge (pre-2003 collapse)|PD-US missing SDC copyright status|NYPL Stereoscopic views of northwest Pennsylvania",
+        "description": "",
+        "taken": " Coverage: 1860?-1915?. Source Imprint: ",
+        "origin": "commons-category",
+        "score": 8
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "queen-isabella-causeway-2001",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — Queen Isabella Causeway",
+        "url": "https://en.wikipedia.org/wiki/Queen_Isabella_Causeway",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "NTSB — ReportGeneratorFile.ashx?EventID=20001208X06497&AKey=1&RType=HTML&ITyp (cited by Wikipedia)",
+        "url": "https://app.ntsb.gov/pdfgenerator/ReportGeneratorFile.ashx?EventID=20001208X06497&AKey=1&RType=HTML&IType=LA",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "Queen Isabella Causeway collapse.jpg",
+        "licence": "Public domain",
+        "width": 1995,
+        "height": 1104,
+        "categories": "Queen Isabella Memorial Causeway|PD US Coast Guard|September 2001 in Texas|Collapsed bridges in the United States",
+        "description": "Coast Guard Cutter Mallett crewmembers and Department of Public Safety personnel survey the damage done to the Queen Isabella Causeway near South Padre Island, Texas, September 15, 2001. A tug pushing four barges collided with the causeway, causing 10 cars to fall into the water.",
+        "taken": "2001-09-15",
+        "origin": "wikipedia-article",
+        "score": 14
+      },
+      {
+        "file": "Queen Isabella Causeway.jpg",
+        "licence": "CC BY 2.0",
+        "width": 800,
+        "height": 600,
+        "categories": "Taken with Olympus E-300|Queen Isabella Memorial Causeway|Flickr images uploaded by Flickr upload bot",
+        "description": "Queen Isabella Causeway at Laguna Madre , Texas, USA",
+        "taken": "2006-03-18 12:28:10",
+        "origin": "wikipedia-article",
+        "score": 10
+      },
+      {
+        "file": "Entrance to South Padre Island.jpg",
+        "licence": "Public domain",
+        "width": 3072,
+        "height": 2304,
+        "categories": "GFDL|Taken with Panasonic Lumix DMC-FX07|PD-author|License migration redundant|Queen Isabella Memorial Causeway|Self-published work",
+        "description": "Entrance to South Padre Island",
+        "taken": "10/15/07",
+        "origin": "commons-search",
+        "score": 10
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "i-10-twin-span-2005",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — I-10 Twin Span Bridge",
+        "url": "https://en.wikipedia.org/wiki/I-10_Twin_Span_Bridge",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Government source — ViewDocument.aspx?d=880013 (cited by Wikipedia)",
+        "url": "http://www.legis.la.gov/legis/ViewDocument.aspx?d=880013",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "FEMA - 16081 - Photograph by Win Henderson taken on 09-20-2005 in Louisiana.jpg",
+        "licence": "Public domain",
+        "width": 3008,
+        "height": 2000,
+        "categories": "Taken with Nikon D100|I-10 Twin Span Bridge|PD US FEMA|Aerial photographs of Louisiana|Hurricane Katrina aftermath in Eastern New Orleans|Images from FEMA, Hurricane Katrina in New Orleans, Louisiana",
+        "description": "New Orleans, September 20, 2005 - The eastern sections of the I-10 Causeway are battered displaced as a result of Hurricane Katrina. The west span, now repaired, is open to traffic. Win Henderson / FEMA",
+        "taken": "2005-09-20",
+        "origin": "wikipedia-article",
+        "score": 14
+      },
+      {
+        "file": "FEMA - 16084 - Photograph by Win Henderson taken on 09-20-2005 in Louisiana.jpg",
+        "licence": "Public domain",
+        "width": 3008,
+        "height": 2000,
+        "categories": "Taken with Nikon D100|I-10 Twin Span Bridge|PD US FEMA|Aerial photographs of Louisiana|Damaged road transport infrastructure in the United States|Hurricane Katrina aftermath in Eastern New Orleans|Images from FEMA, Hurricane Katrina in New Orleans, Louisiana",
+        "description": "New Orleans, September 20, 2005 - Sections of the eastern span of the I-10 causeway slid off their moorings and into the lake due to the winds and waters of Hurricane Katrina. The west span, now repaired, is open to traffic. Win Henderson / FEMA",
+        "taken": "2005-09-20",
+        "origin": "commons-category",
+        "score": 14
+      },
+      {
+        "file": "FEMA - 17204 - Photograph by Robert Kaufmann taken on 10-15-2005 in Louisiana.jpg",
+        "licence": "Public domain",
+        "width": 3300,
+        "height": 2200,
+        "categories": "Taken with Canon EOS 20D|I-10 Twin Span Bridge|PD US FEMA|Damaged bridges in the United States|Images from FEMA, Hurricane Katrina in Louisiana|Hurricane Katrina aftermath in Slidell|Images from FEMA, category Recovery|Boh Bros. Construction Co., LLC",
+        "description": "Slidell, LA, October 14, 2005 - Traffic resumes on the newly opened I-10 \"Twin-Span\" Bridge connecting Slidell with New Orleans after repairs were made on damage made by Hurricane Katrina. Boh Bros. Construction Co. made the repairs under cost and 17 days ahead of schedule, helping Louisiana get on the road to recovery. Robert Kaufmann/FEMA",
+        "taken": "2005-10-15",
+        "origin": "commons-category",
+        "score": 14
+      },
+      {
+        "file": "FEMA - 24798 - Photograph by Andrea Booher taken on 09-19-2005 in Louisiana.jpg",
+        "licence": "Public domain",
+        "width": 2700,
+        "height": 1796,
+        "categories": "Taken with Canon EOS-1Ds|I-10 Twin Span Bridge|PD US FEMA|Images from FEMA, Hurricane Katrina in Louisiana|Photographs by Andrea Booher",
+        "description": "New Orleans, LA., 9/19/2005-- Aerial of damage to Interstate 10 by Hurricane Katrina. Andrea Booher/FEMA",
+        "taken": "2005-09-19",
+        "origin": "commons-category",
+        "score": 14
+      },
+      {
+        "file": "FEMA - 24800 - Photograph by Andrea Booher taken on 09-19-2005 in Louisiana.jpg",
+        "licence": "Public domain",
+        "width": 2700,
+        "height": 4058,
+        "categories": "Taken with Canon EOS-1Ds|I-10 Twin Span Bridge|PD US FEMA|Images from FEMA, Hurricane Katrina in Louisiana|Photographs by Andrea Booher|Images from FEMA, category Response",
+        "description": "New Orleans, LA, 9/19/2005 -- Aerial view of damaged Interstate 10 following Hurricane Katrina. Interstate 10 connects Louisiana and Mississippi. Andrea Booher/FEMA",
+        "taken": "2005-09-19",
+        "origin": "commons-category",
+        "score": 14
+      },
+      {
+        "file": "Newtwinspan.JPG",
+        "licence": "Public domain",
+        "width": 2576,
+        "height": 1920,
+        "categories": "Bridges over lakes in the United States|Road bridges in Louisiana|PD-user|I-10 Twin Span Bridge|Steel bridges in the United States|Bridges in the United States completed in 2010|Built in Louisiana in 2010|February 2009 in Louisiana|8 kilometer bridges|2010s bridges in Louisiana",
+        "description": "Construction of the high-rise section of the new I-10 Twin Span Bridge, about two miles from the North Shore of Lake Pontchartrain .",
+        "taken": "Taken February 24, 2009 from the eastbou",
+        "origin": "wikipedia-article",
+        "score": 7
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "cherry-mine-1909",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — Cherry Mine disaster",
+        "url": "https://en.wikipedia.org/wiki/Cherry_Mine_disaster",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Government source — sh2002011184 (cited by Wikipedia)",
+        "url": "https://id.loc.gov/authorities/sh2002011184",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "Cherry Mine disaster, crowd at mouth of shaft (cropped).jpg",
+        "licence": "Public domain",
+        "width": 806,
+        "height": 561,
+        "categories": "People of Illinois|Images from the Library of Congress|PD-Bain|Cherry Mine disaster|Extracted images|Crowds in the United States|Library of Congress-no known copyright restrictions",
+        "description": "Cherry Mine disaster, crowd at mouth of shaft in November 1909. Coal mining in Illinois . ",
+        "taken": "1909 [no date on title card]",
+        "origin": "commons-category",
+        "score": 12
+      },
+      {
+        "file": "Cherry Mine disaster, crowd at mouth of shaft.jpg",
+        "licence": "Public domain",
+        "width": 4811,
+        "height": 3367,
+        "categories": "People of Illinois|Images from the Library of Congress|PD-Bain|Cherry Mine disaster|Images with extracted images|Crowds in the United States|Library of Congress-no known copyright restrictions|Files by JayCubby",
+        "description": "Cherry Mine disaster, crowd at mouth of shaft in November 1909. Coal mining in Illinois . ",
+        "taken": "1909 [no date on title card]",
+        "origin": "commons-category",
+        "score": 12
+      },
+      {
+        "file": "Cherry Hill IL Mine disaster (20).jpg",
+        "licence": "Public domain",
+        "width": 1552,
+        "height": 1164,
+        "categories": "Cemeteries in Illinois|Taken with Kodak EasyShare Z740|United Mine Workers of America|1911 sculptures|Monuments and memorials in Illinois|Cherry Mine disaster|Self-published work|PD-self|Funeral wreaths in art|1911 works in the United States|Monuments and memorials to miners killed in mining accidents|Files with coordinates missing SDC location of creation|Monuments and memorials to miners in the United States|United States photographs taken on 2006-06-13|Statues of sitting women in the United States|Monuments and memorials to disasters in the United States|Sculptures of mourning",
+        "description": "1911 monument to the Cherry, IL Mine Disaster of November 13th, 1909. Holy Trinity/Miners' Memorial Cemetery, Cherry, Illinois .",
+        "taken": "13 June 2006 (according to Exif data)",
+        "origin": "commons-category",
+        "score": 10
+      },
+      {
+        "file": "Cherry Mine disaster, mourners and coffins LCCN2014684364.jpg",
+        "licence": "Public domain",
+        "width": 1024,
+        "height": 747,
+        "categories": "Images from the Library of Congress|PD-Bain|George Grantham Bain Collection|Cherry Mine disaster|Files with broken file links|Images uploaded by Fæ|PD US no notice|Library of Congress-no known copyright restrictions",
+        "description": " Title: Cherry Mine disaster, mourners and coffins Abstract/medium: 1 negative : glass ; 5 x 7 in. or smaller.",
+        "taken": "",
+        "origin": "commons-category",
+        "score": 10
+      },
+      {
+        "file": "Cherry Mine disaster, mourners and coffins.jpg",
+        "licence": "Public domain",
+        "width": 778,
+        "height": 647,
+        "categories": "Images from the Library of Congress|PD-Bain|George Grantham Bain Collection|Cherry Mine disaster|Library of Congress-no known copyright restrictions",
+        "description": "Cherry Mine disaster, mourners and coffins.",
+        "taken": "[no date on title card]",
+        "origin": "commons-category",
+        "score": 10
+      },
+      {
+        "file": "Cherry mine historical marker.JPG",
+        "licence": "Public domain",
+        "width": 1145,
+        "height": 1380,
+        "categories": "PD-user|Cherry Mine disaster|Plaques in Illinois|Historical markers in Illinois|1986 works in the United States|Plaques to miners in the United States",
+        "description": "Photo taken by myself, Jeremy Oehlert, on 14 JUN 2007 while visiting the site of the Cherry Mine Disaster in Cherry, IL, USA.",
+        "taken": "15 June 2007 (original upload date)",
+        "origin": "wikipedia-article",
+        "score": 8
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "zolitude-roof-2013",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — Zolitūde shopping centre roof collapse",
+        "url": "https://en.wikipedia.org/wiki/Zolitūde_shopping_centre_roof_collapse",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "Major newspaper / broadcaster — SB10001424052702303653004579213200159484692 (cited by Wikipedia)",
+        "url": "https://online.wsj.com/news/articles/SB10001424052702303653004579213200159484692",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "First hours after Maxima roof collapse.jpg",
+        "licence": "CC BY 4.0",
+        "width": 3000,
+        "height": 2000,
+        "categories": "Riga supermarket roof collapse|Accidents|Self-published work|Ambulances in Latvia|Files with coordinates missing SDC location of creation|Latvia photographs taken on 2013-11-21|Red and white fire engines|Iveco fire trucks|Fire engines of Riga",
+        "description": "Emergency and Rescue services gather near the entrance of Maxima XX Zolitude store after a roof collapse that took lives of 54 people.",
+        "taken": "2013-11-21",
+        "origin": "wikipedia-article",
+        "score": 14
+      },
+      {
+        "file": "Zolitude - panoramio (37).jpg",
+        "licence": "CC BY 3.0",
+        "width": 900,
+        "height": 1200,
+        "categories": "Electricity pylons in Latvia|Zolitūde|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Latvia photographs taken on 2011-06-01|Photos from Panoramio ID 12239",
+        "description": "zolitude",
+        "taken": "Taken on 1 June 2011",
+        "origin": "commons-search",
+        "score": 5
+      },
+      {
+        "file": "Zolitude skyline - panoramio (5).jpg",
+        "licence": "CC BY 3.0",
+        "width": 1600,
+        "height": 1200,
+        "categories": "Zolitūde|Panoramio files uploaded by Panoramio upload bot|Latvia photographs taken on 2011-05-25|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Photos from Panoramio ID 12239|Footbridge on Gramzdas iela",
+        "description": "zolitude skyline",
+        "taken": "Taken on 25 May 2011",
+        "origin": "commons-search",
+        "score": 5
+      },
+      {
+        "file": "Zolitude skyline - panoramio (3).jpg",
+        "licence": "CC BY 3.0",
+        "width": 1600,
+        "height": 1200,
+        "categories": "Zolitūde|Panoramio files uploaded by Panoramio upload bot|Latvia photographs taken on 2011-05-25|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Media needing category review as of 23 December 2016|Photos from Panoramio ID 12239",
+        "description": "zolitude skyline",
+        "taken": "Taken on 25 May 2011",
+        "origin": "commons-search",
+        "score": 5
+      },
+      {
+        "file": "Zolitude - panoramio (40).jpg",
+        "licence": "CC BY 3.0",
+        "width": 1600,
+        "height": 1200,
+        "categories": "Zolitūde|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Latvia photographs taken on 2011-06-03|Unidentified Syringa|Photos from Panoramio ID 12239",
+        "description": "zolitude",
+        "taken": "Taken on 3 June 2011",
+        "origin": "commons-search",
+        "score": 5
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "mill-river-flood-1874",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — Mill River Flood of 1874",
+        "url": "https://en.wikipedia.org/wiki/Mill_River_Flood_of_1874",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "USGS — report (cited by Wikipedia)",
+        "url": "https://pubs.usgs.gov/wsp/0798/report.pdf",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "Wistariahurst after the flood, Skinnerville, Williamsburg, Massachusetts.jpg",
+        "licence": "Public domain",
+        "width": 1383,
+        "height": 661,
+        "categories": "PD US expired|PD-US missing SDC copyright status|Stereo cards of the Mill River flood (1874)|Skinner's house (Skinnerville)",
+        "description": "A stereocard of Wistariahurst in Skinnerville, Williamsburg, Massachusetts following the Mill River Flood of 1874 .",
+        "taken": "1874",
+        "origin": "commons-category",
+        "score": 16
+      },
+      {
+        "file": "Mill River Calamity memorial - Haydenville, MA - DSC07923.JPG",
+        "licence": "CC0",
+        "width": 3047,
+        "height": 3637,
+        "categories": "Taken with Sony DSC-RX100|CC-Zero|Self-published work|Mill River flood (1874)|Files uploaded by Daderot|Monuments and memorials in Haydenville, Massachusetts",
+        "description": "Mill River Calamity memorial - Haydenville, Massachusetts, USA.",
+        "taken": "2013-06-09 16:27:23",
+        "origin": "commons-category",
+        "score": 14
+      },
+      {
+        "file": "Mill River Disaster memorial - Haydenville, MA - DSC07925.JPG",
+        "licence": "CC0",
+        "width": 5472,
+        "height": 3648,
+        "categories": "Taken with Sony DSC-RX100|CC-Zero|Self-published work|Mill River flood (1874)|Haydenville, Massachusetts|Files uploaded by Daderot|Monuments and memorials in Haydenville, Massachusetts",
+        "description": "Mill River Disaster memorial - Haydenville, Massachusetts, USA.",
+        "taken": "2013-06-09 16:27:55",
+        "origin": "commons-category",
+        "score": 14
+      },
+      {
+        "file": "Mill River Flood historic signs, Skinnerville MA.jpg",
+        "licence": "CC BY 4.0",
+        "width": 4032,
+        "height": 3024,
+        "categories": "Massachusetts Route 9|Self-published work|Mill River flood (1874)|Historical information signs in Massachusetts|Files with coordinates missing SDC location of creation|Skinnerville, Massachusetts",
+        "description": "Mill River Flood historical signs, Skinnerville Massachusetts",
+        "taken": "2024-10-20 14:21:11",
+        "origin": "commons-category",
+        "score": 14
+      },
+      {
+        "file": "Mill River Northampton 2023.jpg",
+        "licence": "CC0",
+        "width": 3701,
+        "height": 2680,
+        "categories": "CC-Zero|Mill River (Northampton, Massachusetts)|Florence, Massachusetts|Self-published work|September 2023 in Massachusetts",
+        "description": "The Mill River in Northampton, Massachusetts, in September 2023",
+        "taken": "2023-09-14",
+        "origin": "wikipedia-article",
+        "score": 7
+      },
+      {
+        "file": "Mill River Northampton c 1910.jpg",
+        "licence": "Public domain",
+        "width": 3181,
+        "height": 1998,
+        "categories": "PD US|Northampton, Massachusetts|Mill River (Northampton, Massachusetts)|Template Unknown (author)|PD-US missing SDC copyright status|Postcards of Northampton, Massachusetts",
+        "description": "View on the Mill River in Northampton, Massachusetts, c 1910.",
+        "taken": "circa 1910 date QS:P,+1910-00-00T00:00:0",
+        "origin": "wikipedia-article",
+        "score": 7
+      }
+    ],
+    "written": true
+  },
+  {
+    "slug": "continental-1404-2008",
+    "errors": [],
+    "warnings": [],
+    "sources": [
+      {
+        "ad": "Wikipedia — Continental Airlines Flight 1404",
+        "url": "https://en.wikipedia.org/wiki/Continental_Airlines_Flight_1404",
+        "dogrulama": "http-200"
+      },
+      {
+        "ad": "NTSB — AAR1004 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1004.pdf",
+        "dogrulama": "cited-in-wikipedia"
+      }
+    ],
+    "stills": [
+      {
+        "file": "Continental Airlines Flight 1404 wreckage.jpg",
+        "licence": "Public domain",
+        "width": 991,
+        "height": 451,
+        "categories": "Continental Airlines Flight 1404|PD US NTSB",
+        "description": "Continental Airlines Flight 1404 wreckage",
+        "taken": "2008-12-21",
+        "origin": "wikipedia-article",
+        "score": 12
+      },
+      {
+        "file": "Continental Airlines Flight 1404 wreckage2 (cropped).jpg",
+        "licence": "Public domain",
+        "width": 865,
+        "height": 482,
+        "categories": "Continental Airlines Flight 1404|PD US NTSB|Extracted images",
+        "description": "Continental Airlines Flight 1404 wreckage",
+        "taken": "2008-12-21",
+        "origin": "wikipedia-article",
+        "score": 12
+      },
+      {
+        "file": "N18611 B737-524.jpg",
+        "licence": "CC BY 2.0",
+        "width": 1200,
+        "height": 623,
+        "categories": "Flickr images reviewed by FlickreviewR 2|Boeing 737-500 in 2006|N18611 (aircraft)|Boeing 737-500 of Continental Airlines at Ronald Reagan Washington National Airport|Photographs by Colin Brown|Flickr images missing SDC published in|September 2006 at Ronald Reagan Washington National Airport|Aircraft in the United States photographed in September 2006",
+        "description": "A continental Airlines Boeing 737-524 at Washington Ronald Reagan National in 2006. This aircraft crashed in Denver two years later as Flight 1404. No one was killed, but 38 people were injured and the aircraft was written off.",
+        "taken": "2006-09-10",
+        "origin": "wikipedia-article",
+        "score": 8
+      }
+    ],
+    "written": true
+  }
+]

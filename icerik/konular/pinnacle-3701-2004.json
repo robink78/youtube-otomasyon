@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "Two Pilots Took an Empty Jet to Its Ceiling for Fun",
+  "kaynaklar": [
+    {
+      "ad": "pinnacle-3701-1.png",
+      "wikimedia": "N8396A empennage and engines wreckage.png"
+    },
+    {
+      "ad": "pinnacle-3701-2.jpg",
+      "wikimedia": "N8396A aft fuselage.jpg"
+    },
+    {
+      "ad": "pinnacle-3701-3.jpg",
+      "wikimedia": "N8396A forward fuselage.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "An empty regional jet crashed in Missouri after both engines stopped.",
+      "kaynak": "Footage/pinnacle-3701-1.png"
+    },
+    {
+      "metin": "The two pilots were killed.",
+      "kaynak": "Footage/pinnacle-3701-2.jpg"
+    },
+    {
+      "metin": "They were repositioning the jet with no passengers.",
+      "kaynak": "Footage/pinnacle-3701-3.jpg"
+    },
+    {
+      "metin": "For fun, they climbed to its maximum altitude of forty one thousand feet.",
+      "kaynak": "Footage/pinnacle-3701-1.png"
+    },
+    {
+      "metin": "The jet couldn't hold speed up there and stalled.",
+      "kaynak": "Footage/pinnacle-3701-2.jpg"
+    },
+    {
+      "metin": "Both engines flamed out.",
+      "kaynak": "Footage/pinnacle-3701-3.jpg"
+    },
+    {
+      "metin": "Their cores locked up and wouldn't restart.",
+      "kaynak": "Footage/pinnacle-3701-1.png"
+    },
+    {
+      "metin": "Training on high-altitude flying and restarts was strengthened.",
+      "kaynak": "Footage/pinnacle-3701-2.jpg"
+    }
+  ],
+  "aciklama": "Pinnacle 3701 crashed after both engines flamed out. The cause: stall and engine flameout at 41,000 ft, then engine core lock preventing restart.\n\n#shorts #engineering #aviation",
+  "etiketler": [
+    "Pinnacle 3701",
+    "2004",
+    "engines",
+    "engineering failure"
+  ],
+  "hook": "They did it for fun",
+  "soru": "Who's watching?",
+  "vaka": {
+    "kume": "aviation-failures",
+    "tip": "vaka",
+    "ad": "Pinnacle Airlines Flight 3701",
+    "kisa": "Pinnacle 3701",
+    "nesne": "Engines",
+    "yil": 2004,
+    "sonuc": "crashed after both engines flamed out",
+    "tetik": "the crew climbing to the jet's maximum altitude for fun",
+    "mekanizma": "stall and engine flameout at 41,000 ft, then engine core lock preventing restart",
+    "sayi": "41,000 FT",
+    "ders": "training on high-altitude operations and engine restarts was strengthened",
+    "zincir": [
+      "EMPTY REPOSITIONING FLIGHT",
+      "CLIMB TO 41,000 FT",
+      "SPEED DECAYS, STALL",
+      "BOTH ENGINES FLAME OUT",
+      "CORES LOCK, NO RELIGHT"
+    ],
+    "zaman": [],
+    "yanilgi": "The engines weren't defective. Once flamed out that high, their cores seized and couldn't be restarted.",
+    "tartisma": "There were no passengers aboard. Does professionalism depend on who's watching?",
+    "basliklar": [
+      "Two Pilots Took an Empty Jet to Its Ceiling for Fun",
+      "Why Pinnacle Airlines Flight 3701 Crashed",
+      "The Joyride to 41,000 Feet"
+    ],
+    "kapak": [
+      "41,000 FT",
+      "JOYRIDE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Pinnacle Airlines Flight 3701",
+        "url": "https://en.wikipedia.org/wiki/Pinnacle_Airlines_Flight_3701"
+      },
+      {
+        "ad": "NTSB — AAR0701 (cited by Wikipedia)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0701.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-11",
+    "wiki": "Pinnacle_Airlines_Flight_3701",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "N8396A empennage and engines wreckage.png [Public domain]",
+      "N8396A aft fuselage.jpg [Public domain]",
+      "N8396A forward fuselage.jpg [Public domain]"
+    ]
+  }
+}

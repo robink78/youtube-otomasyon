@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "A Rich Men's Club Weakened the Dam Above a Town",
+  "kaynaklar": [
+    {
+      "ad": "johnstown-flood-1.jpg",
+      "wikimedia": "After the Flood at Johnstown -- Main Street.jpg"
+    },
+    {
+      "ad": "johnstown-flood-2.jpg",
+      "wikimedia": "Johnstown Flood - general view of debris cph.3b08649.jpg"
+    },
+    {
+      "ad": "johnstown-flood-3.jpg",
+      "wikimedia": "Johnstown Tree in House.jpg"
+    },
+    {
+      "ad": "johnstown-flood-4.jpg",
+      "wikimedia": "Remmants of house in Johnstown Flood.jpg"
+    },
+    {
+      "ad": "johnstown-flood-5.jpg",
+      "wikimedia": "1889 Johnstown flood - panoramio.jpg"
+    },
+    {
+      "ad": "johnstown-flood-6.jpg",
+      "wikimedia": "Afro-Americans with wagons at flood site, some digging, Johnstown, Pennsylvania LCCN89712994.jpg"
+    },
+    {
+      "ad": "johnstown-flood-7.jpg",
+      "wikimedia": "Bird's-eye view of Johnstown, Pa., after flood LCCN2002707125.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A dam burst above Johnstown, Pennsylvania.",
+      "kaynak": "Footage/johnstown-flood-1.jpg"
+    },
+    {
+      "metin": "A wall of water destroyed the town, and two thousand two hundred nine people died.",
+      "kaynak": "Footage/johnstown-flood-2.jpg"
+    },
+    {
+      "metin": "The dam belonged to a private fishing club.",
+      "kaynak": "Footage/johnstown-flood-3.jpg"
+    },
+    {
+      "metin": "The club had lowered its crest to fit a road on top.",
+      "kaynak": "Footage/johnstown-flood-4.jpg"
+    },
+    {
+      "metin": "Fish screens partly blocked the spillway.",
+      "kaynak": "Footage/johnstown-flood-5.jpg"
+    },
+    {
+      "metin": "After days of rain, water poured over the top.",
+      "kaynak": "Footage/johnstown-flood-6.jpg"
+    },
+    {
+      "metin": "The earthen dam washed away.",
+      "kaynak": "Footage/johnstown-flood-7.jpg"
+    },
+    {
+      "metin": "The flood helped change US law on dam owners' liability.",
+      "kaynak": "Footage/johnstown-flood-1.jpg"
+    }
+  ],
+  "aciklama": "Johnstown Flood burst and sent a flood into Johnstown. The cause: overtopping of an earthen dam whose crest was lowered and spillway obstructed.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Johnstown Flood",
+    "1889",
+    "dam",
+    "engineering failure"
+  ],
+  "hook": "The dam had been changed",
+  "soru": "Who was responsible?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the South Fork Dam",
+    "kisa": "Johnstown Flood",
+    "nesne": "Dam",
+    "yil": 1889,
+    "sonuc": "burst and sent a flood into Johnstown",
+    "tetik": "heavy rain overtopping a dam that had been modified",
+    "mekanizma": "overtopping of an earthen dam whose crest was lowered and spillway obstructed",
+    "sayi": "2,209 DIED",
+    "ders": "the flood helped shift US law toward liability for dam owners",
+    "zincir": [
+      "CLUB BUYS OLD DAM",
+      "CREST LOWERED FOR A ROAD",
+      "SPILLWAY BLOCKED BY FISH SCREENS",
+      "HEAVY RAIN",
+      "DAM OVERTOPS AND BREAKS"
+    ],
+    "zaman": [],
+    "yanilgi": "The rain didn't have to be catastrophic. The dam's owners had reduced its ability to pass floodwater.",
+    "tartisma": "The club members were never held legally responsible. Should they have been?",
+    "basliklar": [
+      "A Rich Men's Club Weakened the Dam Above a Town",
+      "Why the South Fork Dam Failed",
+      "The Dam a Club Made Weaker"
+    ],
+    "kapak": [
+      "DAM MODIFIED",
+      "2,209 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Johnstown Flood",
+        "url": "https://en.wikipedia.org/wiki/Johnstown_Flood"
+      },
+      {
+        "ad": "Government source — index (cited by Wikipedia)",
+        "url": "https://www.nps.gov/jofl/index.htm"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "Johnstown_Flood",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "After the Flood at Johnstown -- Main Street.jpg [Public domain]",
+      "Johnstown Flood - general view of debris cph.3b08649.jpg [Public domain]",
+      "Johnstown Tree in House.jpg [Public domain]",
+      "Remmants of house in Johnstown Flood.jpg [Public domain]",
+      "1889 Johnstown flood - panoramio.jpg [Public domain]",
+      "Afro-Americans with wagons at flood site, some digging, Johnstown, Pennsylvania LCCN89712994.jpg [Public domain]",
+      "Bird's-eye view of Johnstown, Pa., after flood LCCN2002707125.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "san-francisco-1906",
+  "tip": "chronological",
+  "bolumler": [
+    {
+      "id": "COLD_OPEN",
+      "ad": "COLD OPEN"
+    },
+    {
+      "id": "EVENT",
+      "ad": "THE EVENT"
+    },
+    {
+      "id": "EXPECTED",
+      "ad": "WHAT ENGINEERS EXPECTED"
+    },
+    {
+      "id": "WARNINGS",
+      "ad": "THE WARNING SIGNS"
+    },
+    {
+      "id": "FAILURE",
+      "ad": "THE FAILURE"
+    },
+    {
+      "id": "INVESTIGATION",
+      "ad": "THE INVESTIGATION"
+    },
+    {
+      "id": "CAUSE",
+      "ad": "THE TECHNICAL CAUSE"
+    },
+    {
+      "id": "CHANGED",
+      "ad": "WHAT CHANGED AFTERWARD"
+    },
+    {
+      "id": "LESSON",
+      "ad": "FINAL LESSON"
+    }
+  ],
+  "acikDonguler": [
+    {
+      "acBolum": "EVENT",
+      "kapatBolum": "CAUSE",
+      "ac": "The explanation most people know is not quite what the evidence shows.",
+      "kapat": "1906 is remembered as an earthquake, but most of the destruction came from the fires that followed it."
+    },
+    {
+      "acBolum": "FAILURE",
+      "kapatBolum": "CAUSE",
+      "ac": "A magnitude 7.9 earthquake should not have been enough. So what turned it into a failure?",
+      "kapat": "The answer was fire following earthquake with broken water mains."
+    }
+  ],
+  "cta": {
+    "strateji": "none",
+    "neden": "Shorts: a spoken CTA costs retention; the on-screen question + pinned comment convert instead",
+    "noktalar": [],
+    "metin": null,
+    "yasak": "never in the first 30 seconds; never 'like and subscribe' without context"
+  },
+  "brif": "STRUCTURE (chronological; adapt, don't pad — skip a section if the evidence for it doesn't exist):\n1. COLD OPEN\n2. THE EVENT\n3. WHAT ENGINEERS EXPECTED\n4. THE WARNING SIGNS\n5. THE FAILURE\n6. THE INVESTIGATION\n7. THE TECHNICAL CAUSE\n8. WHAT CHANGED AFTERWARD\n9. FINAL LESSON\n\nFIRST 30 SECONDS (write it separately from the rest):\n0-5s the event/result · 5-12s an unexpected detail · 12-20s the central problem · 20-30s what the viewer will understand by the end.\nDraft from the case file: San Francisco burned for three days. It took only a magnitude 7.9 earthquake. So how could a magnitude 7.9 earthquake do this? The answer is fire following earthquake with broken water mains — and it is why cities now plan for fire after earthquakes, with independent emergency water supplies.\nNever open with a welcome, the channel name, 'in today's video', a biography or background history.\n\nOPEN LOOPS (open early, resolve exactly where stated; no fake suspense):\n- in THE EVENT: \"The explanation most people know is not quite what the evidence shows.\" → resolve in THE TECHNICAL CAUSE: 1906 is remembered as an earthquake, but most of the destruction came from the fires that followed it.\n- in THE FAILURE: \"A magnitude 7.9 earthquake should not have been enough. So what turned it into a failure?\" → resolve in THE TECHNICAL CAUSE: The answer was fire following earthquake with broken water mains.\n\nCTA: none (Shorts: a spoken CTA costs retention; the on-screen question + pinned comment convert instead)\n\nSTYLE: documentary narration — concrete nouns, numbers with units, named mechanisms. No AI clichés: \"let's dive in\", \"let us dive in\", \"dive into\", \"here's the fascinating part\", \"but here's where things get interesting\", \"in today's video\", \"in this video\", \"welcome to\", \"welcome back\", \"without further ado\", \"buckle up\", \"stay tuned\", \"you won't believe\", \"mind-blowing\"."
+}

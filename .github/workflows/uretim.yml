@@ -1,0 +1,118 @@
+name: Failure Reconstructed production
+
+# Gunluk Shorts uretimi. Isin kendisi uretim-is.yml'de (yayin-kontrol.yml de ayni
+# isi cagirabiliyor, boylece tek bir zamanlamaya bagimli kalmiyoruz).
+#
+# Saat: video private yuklenir ve config/growth.json > publishing.schedule.hourUTC
+# saatinde (18:00 New York = 15:00 ABD bati = 01:00 TR; ABD kis saatinde 02:00 TR) YouTube tarafindan otomatik
+# Public yapilir. Kitlenin ~%93'u ABD. Her yeni video icin GitHub issue bildirimi
+# acilir (bildirim.js). Elle de tetiklenebilir (Run workflow).
+
+on:
+  schedule:
+    # Primary daily scheduler. The independent Cloudflare watchdog dispatches
+    # production-watchdog.yml after the configurable SLA deadline.
+    - cron: '53 14 * * *'
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: 'Operation'
+        type: choice
+        options: [produce, sla-check, watchdog-simulation]
+        default: produce
+      hepsi:
+        description: 'Tum uretilmemis konulari uret (yoksa sadece sonraki)'
+        type: boolean
+        default: false
+      kuru:
+        description: 'KURU CALISMA: gercek ortamda uctan uca uret + kontrol et, YUKLEME/COMMIT/BILDIRIM YOK'
+        type: boolean
+        default: false
+      slug:
+        description: 'Belirli konu (bos = siradaki)'
+        type: string
+        default: ''
+# Ayni anda tek uretim; yayin-kontrol.yml de ayni grubu kullanir.
+concurrency:
+  group: portfolio-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+  actions: read
+
+jobs:
+  uret:
+    if: ${{ github.event_name == 'schedule' || inputs.operation == 'produce' }}
+    uses: ./.github/workflows/uretim-is.yml
+    secrets: inherit
+    with:
+      hepsi: ${{ inputs.hepsi || false }}
+      kuru: ${{ inputs.kuru || false }}
+      slug: ${{ inputs.slug || '' }}
+      force: false
+
+  sla-check:
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.operation == 'sla-check' }}
+    runs-on: ubuntu-latest
+    env:
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      FR_YT_CLIENT_ID: ${{ secrets.FR_YT_CLIENT_ID }}
+      FR_YT_CLIENT_SECRET: ${{ secrets.FR_YT_CLIENT_SECRET }}
+      FR_YT_REFRESH_TOKEN: ${{ secrets.FR_YT_REFRESH_TOKEN }}
+      FR_YT_CHANNEL_ID: ${{ vars.FR_YT_CHANNEL_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Production SLA (YouTube API verified)
+        run: node production-sla-check.js --channel failure-reconstructed --verify-youtube
+
+  simulated_sla:
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.operation == 'watchdog-simulation' }}
+    runs-on: ubuntu-latest
+    outputs:
+      production_ready: ${{ steps.sla.outputs.production_ready }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - id: sla
+        name: Simulate a missed scheduler deadline
+        continue-on-error: true
+        run: node production-sla-check.js --channel failure-reconstructed --simulate-missing --github-output
+
+  simulated_recovery:
+    needs: simulated_sla
+    if: ${{ needs.simulated_sla.outputs.production_ready != 'true' }}
+    uses: ./.github/workflows/uretim-is.yml
+    secrets: inherit
+    with:
+      kuru: true
+      slug: why-ships-sink
+      force: true
+
+  simulation_proof:
+    needs: [simulated_sla, simulated_recovery]
+    if: ${{ always() && github.event_name == 'workflow_dispatch' && inputs.operation == 'watchdog-simulation' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Prove the missed deadline started production recovery
+        env:
+          PRODUCTION_READY: ${{ needs.simulated_sla.outputs.production_ready }}
+          RECOVERY_RESULT: ${{ needs.simulated_recovery.result }}
+        run: |
+          test "$PRODUCTION_READY" = "false"
+          test "$RECOVERY_RESULT" = "success"
+          printf '{"simulatedSchedulerFailure":true,"productionReady":false,"automaticRecoveryStarted":true,"recoveryResult":"success","runId":"%s"}\n' "$GITHUB_RUN_ID" > recovery-simulation.json
+          cat recovery-simulation.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: recovery-simulation-proof
+          path: recovery-simulation.json
+          retention-days: 30

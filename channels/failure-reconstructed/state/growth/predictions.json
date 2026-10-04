@@ -1,0 +1,380 @@
+{
+  "channel": "failure-reconstructed",
+  "updatedAt": "2026-10-04T17:38:41.695Z",
+  "calibration": {
+    "short": {
+      "topicScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "viralScore": {
+        "n": 3,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "hookScore": {
+        "n": 3,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "titleScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "readiness": {
+        "n": 3,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "popularityScore": {
+        "n": 1,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      }
+    },
+    "long": {
+      "topicScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "viralScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "hookScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "titleScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "readiness": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      },
+      "popularityScore": {
+        "n": 0,
+        "spearman": null,
+        "status": "INSUFFICIENT_SAMPLE"
+      }
+    }
+  },
+  "rows": [
+    {
+      "videoId": "I86SnrokHMk",
+      "slug": "vesuvius-1944",
+      "contentType": "short",
+      "cluster": "natural-hazards",
+      "publishAt": "2026-09-28T18:00:00.000Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": null,
+        "titleScore": null,
+        "readiness": null,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 84.6,
+        "views": 1141,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "24h"
+      }
+    },
+    {
+      "videoId": "PGOKZhPYo7c",
+      "slug": "hindenburg",
+      "contentType": "short",
+      "cluster": "aviation-failures",
+      "publishAt": "2026-09-22T20:26:44Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": null,
+        "titleScore": null,
+        "readiness": null,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 56.6,
+        "views": 1033,
+        "averagePercentageViewed": 75.19,
+        "subscribersPer1000Views": null,
+        "checkpoint": "7d"
+      }
+    },
+    {
+      "videoId": "X0jw78mIGdk",
+      "slug": "san-francisco-1906",
+      "contentType": "short",
+      "cluster": "natural-hazards",
+      "publishAt": "2026-09-23T13:40:09Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": null,
+        "titleScore": null,
+        "readiness": null,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 28.6,
+        "views": 113,
+        "averagePercentageViewed": 63.81,
+        "subscribersPer1000Views": null,
+        "checkpoint": "7d"
+      }
+    },
+    {
+      "videoId": "aScjSrwqeRk",
+      "slug": "deepwater-horizon-2010",
+      "contentType": "short",
+      "cluster": "industrial-disasters",
+      "publishAt": "2026-09-27T18:00:00.000Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": null,
+        "titleScore": null,
+        "readiness": null,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 37,
+        "views": 423,
+        "averagePercentageViewed": 67.77,
+        "subscribersPer1000Views": null,
+        "checkpoint": "72h"
+      }
+    },
+    {
+      "videoId": "qkzRUqlEy5I",
+      "slug": "tacoma-narrows",
+      "contentType": "short",
+      "cluster": "bridge-failures",
+      "publishAt": "2026-09-22T20:27:26Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": null,
+        "titleScore": null,
+        "readiness": null,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 34.9,
+        "views": 186,
+        "averagePercentageViewed": 65.29,
+        "subscribersPer1000Views": null,
+        "checkpoint": "7d"
+      }
+    },
+    {
+      "videoId": "DLYpmaQ-EVw",
+      "slug": "bikini-baker",
+      "contentType": "short",
+      "cluster": "nuclear-accidents",
+      "publishAt": "2026-09-24T03:42:01Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": null,
+        "titleScore": null,
+        "readiness": null,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 40,
+        "views": 1369,
+        "averagePercentageViewed": 109.41000000000001,
+        "subscribersPer1000Views": 1.46,
+        "checkpoint": "7d"
+      }
+    },
+    {
+      "videoId": "uqoAjXMbbls",
+      "slug": "apollo-13-1970",
+      "contentType": "short",
+      "cluster": "spaceflight-disasters",
+      "publishAt": "2026-09-29T18:00:10Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": null,
+        "titleScore": null,
+        "readiness": null,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 76.9,
+        "views": 1245,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "48h"
+      }
+    },
+    {
+      "videoId": "NnGoWJOdaW0",
+      "slug": "general-slocum-1904",
+      "contentType": "short",
+      "cluster": "maritime-disasters",
+      "publishAt": "2026-09-30T18:00:11Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": null,
+        "titleScore": null,
+        "readiness": null,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 56.4,
+        "views": 939,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "48h"
+      }
+    },
+    {
+      "videoId": "ODZ7y6r1o6o",
+      "slug": "how-avalanches-start",
+      "contentType": "short",
+      "cluster": "natural-hazards",
+      "publishAt": "2026-09-25T18:00:33Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": null,
+        "titleScore": null,
+        "readiness": null,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 19.6,
+        "views": 976,
+        "averagePercentageViewed": 62.89,
+        "subscribersPer1000Views": 2.05,
+        "checkpoint": "7d"
+      }
+    },
+    {
+      "videoId": "bqTpdauhlHo",
+      "slug": "challenger-1986",
+      "contentType": "short",
+      "cluster": "spaceflight-disasters",
+      "publishAt": "2026-09-26T18:00:00Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": null,
+        "hookScore": null,
+        "titleScore": null,
+        "readiness": null,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 83.2,
+        "views": 1731,
+        "averagePercentageViewed": 92.45,
+        "subscribersPer1000Views": 2.31,
+        "checkpoint": "7d"
+      }
+    },
+    {
+      "videoId": "WlZ2z90pqx8",
+      "slug": "lower-van-norman-dam-1971",
+      "contentType": "short",
+      "cluster": "infrastructure-failures",
+      "publishAt": "2026-10-02T18:00:39Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": 83,
+        "hookScore": 82,
+        "titleScore": null,
+        "readiness": 90,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 63,
+        "views": 1023,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "24h"
+      }
+    },
+    {
+      "videoId": "rgSsk8q6eyM",
+      "slug": "eastern-212-1974",
+      "contentType": "short",
+      "cluster": "aviation-failures",
+      "publishAt": "2026-10-01T18:00:32Z",
+      "predicted": {
+        "topicScore": null,
+        "viralScore": 86,
+        "hookScore": 79,
+        "titleScore": null,
+        "readiness": 91,
+        "popularityScore": null
+      },
+      "outcome": {
+        "growthScore": 74.1,
+        "views": 1162,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "48h"
+      }
+    },
+    {
+      "videoId": "Nk7vmybWY98",
+      "slug": "chernobyl-1986",
+      "contentType": "short",
+      "cluster": "nuclear-accidents",
+      "publishAt": "2026-10-04T22:00:00.000Z",
+      "predicted": {
+        "topicScore": 90,
+        "viralScore": 84,
+        "hookScore": 84,
+        "titleScore": 84,
+        "readiness": 95,
+        "popularityScore": 91
+      },
+      "outcome": {
+        "growthScore": null,
+        "views": null,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": null
+      }
+    },
+    {
+      "videoId": "4Mo58FxCr4A",
+      "slug": "rana-plaza-2013",
+      "contentType": "short",
+      "cluster": "structural-failures",
+      "publishAt": "2026-10-03T22:00:05Z",
+      "predicted": {
+        "topicScore": 85,
+        "viralScore": 82,
+        "hookScore": 82,
+        "titleScore": 89,
+        "readiness": 92,
+        "popularityScore": 63
+      },
+      "outcome": {
+        "growthScore": 22.8,
+        "views": 57,
+        "averagePercentageViewed": null,
+        "subscribersPer1000Views": null,
+        "checkpoint": "1h"
+      }
+    }
+  ]
+}

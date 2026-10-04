@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 8,
+  "baslik": "A Mountain Fell on a Mining Town",
+  "kaynaklar": [
+    {
+      "ad": "frank-slide-1.jpg",
+      "wikimedia": "Frank Alberta 1903 A15276.jpg"
+    },
+    {
+      "ad": "frank-slide-2.jpg",
+      "wikimedia": "Frank Slide 4-30-1903.jpg"
+    },
+    {
+      "ad": "frank-slide-3.jpg",
+      "wikimedia": "News03a.jpg"
+    },
+    {
+      "ad": "frank-slide-4.jpg",
+      "wikimedia": "Turtle Mountain after the slide.jpg"
+    },
+    {
+      "ad": "frank-slide-5.jpg",
+      "wikimedia": "Turtle Mountain before the slide.jpg"
+    },
+    {
+      "ad": "frank-slide-6.jpg",
+      "wikimedia": "View of part of town of Frank, Alta., and East end of slide.jpg"
+    },
+    {
+      "ad": "frank-slide-7.jpg",
+      "wikimedia": "Frank's Slide (3208709446).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Before dawn, part of Turtle Mountain collapsed onto the town of Frank.",
+      "kaynak": "Footage/frank-slide-1.jpg"
+    },
+    {
+      "metin": "In about one hundred seconds, the rock buried homes and killed dozens.",
+      "kaynak": "Footage/frank-slide-2.jpg"
+    },
+    {
+      "metin": "The mountain's face was naturally unstable.",
+      "kaynak": "Footage/frank-slide-3.jpg"
+    },
+    {
+      "metin": "A coal mine was working at its base.",
+      "kaynak": "Footage/frank-slide-4.jpg"
+    },
+    {
+      "metin": "Water and frost had widened cracks in the rock.",
+      "kaynak": "Footage/frank-slide-5.jpg"
+    },
+    {
+      "metin": "The whole mass broke free at once.",
+      "kaynak": "Footage/frank-slide-6.jpg"
+    },
+    {
+      "metin": "The mine reopened within weeks.",
+      "kaynak": "Footage/frank-slide-7.jpg"
+    },
+    {
+      "metin": "Turtle Mountain is now continuously monitored.",
+      "kaynak": "Footage/frank-slide-1.jpg"
+    }
+  ],
+  "aciklama": "Frank Slide buried part of the mining town of Frank. The cause: rockslide on a naturally unstable slope, likely worsened by coal mining at its base.\n\n#shorts #engineering #disaster",
+  "etiketler": [
+    "Frank Slide",
+    "1903",
+    "mountain slope",
+    "engineering failure"
+  ],
+  "hook": "The mountain fell",
+  "soru": "Reopen the mine?",
+  "vaka": {
+    "kume": "natural-hazards",
+    "tip": "vaka",
+    "ad": "the Frank Slide",
+    "kisa": "Frank Slide",
+    "nesne": "Mountain slope",
+    "yil": 1903,
+    "sonuc": "buried part of the mining town of Frank",
+    "tetik": "the collapse of Turtle Mountain's unstable face",
+    "mekanizma": "rockslide on a naturally unstable slope, likely worsened by coal mining at its base",
+    "sayi": "100 SECONDS",
+    "ders": "Turtle Mountain is now continuously monitored",
+    "zincir": [
+      "UNSTABLE LIMESTONE FACE",
+      "COAL MINING AT THE BASE",
+      "WATER AND FROST",
+      "ROCK MASS BREAKS FREE",
+      "TOWN BURIED"
+    ],
+    "zaman": [],
+    "yanilgi": "The mine didn't simply dig the mountain down. The slope was unstable already; mining likely helped tip it.",
+    "tartisma": "The mine reopened within weeks. How quickly should industry return after a disaster?",
+    "basliklar": [
+      "A Mountain Fell on a Mining Town",
+      "Why the Frank Slide Happened",
+      "The Mountain That Fell on a Mining Town"
+    ],
+    "kapak": [
+      "MOUNTAIN FELL",
+      "100 SECONDS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Frank Slide",
+        "url": "https://en.wikipedia.org/wiki/Frank_Slide"
+      },
+      {
+        "ad": "Government source — sos (cited by Wikipedia)",
+        "url": "http://www.collectionscanada.gc.ca/sos/"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-10",
+    "wiki": "Frank_Slide",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Frank Alberta 1903 A15276.jpg [Public domain]",
+      "Frank Slide 4-30-1903.jpg [Public domain]",
+      "News03a.jpg [Public domain]",
+      "Turtle Mountain after the slide.jpg [Public domain]",
+      "Turtle Mountain before the slide.jpg [Public domain]",
+      "View of part of town of Frank, Alta., and East end of slide.jpg [Public domain]",
+      "Frank's Slide (3208709446).jpg [CC BY 2.0]"
+    ]
+  }
+}

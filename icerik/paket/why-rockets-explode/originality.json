@@ -1,0 +1,63 @@
+{
+  "slug": "why-rockets-explode",
+  "olusturuldu": "2026-09-24T16:22:42.032Z",
+  "originality": 89,
+  "aksiyon": "PASS",
+  "bayraklar": [],
+  "engelleyen": [],
+  "metrikler": {
+    "title": {
+      "deger": 0.22,
+      "kim": "why-dams-fail"
+    },
+    "hook": {
+      "deger": 0.12,
+      "kim": "halifax-explosion"
+    },
+    "structure": {
+      "deger": 0.78,
+      "kim": "how-avalanches-start"
+    },
+    "sentences": {
+      "deger": 0,
+      "ornekler": []
+    },
+    "scenes": {
+      "deger": 0,
+      "kim": null
+    },
+    "visualReuse": {
+      "deger": 0,
+      "tekrar": []
+    },
+    "thumbnail": {
+      "deger": 0.57,
+      "kim": "why-concrete-crumbles"
+    },
+    "cta": {
+      "deger": 0.35,
+      "kim": "why-mines-collapse"
+    },
+    "description": {
+      "deger": 0.1,
+      "kim": "how-volcanoes-erupt"
+    },
+    "music": {
+      "deger": 0.56,
+      "kim": "how-tsunamis-form"
+    }
+  },
+  "ozet": {
+    "TITLE_SIMILARITY": 0.22,
+    "HOOK_SIMILARITY": 0.12,
+    "STRUCTURE_SIMILARITY": 0.78,
+    "SENTENCES_SIMILARITY": 0,
+    "SCENES_SIMILARITY": 0,
+    "VISUAL_REUSE_SIMILARITY": 0,
+    "THUMBNAIL_SIMILARITY": 0.57,
+    "CTA_SIMILARITY": 0.35,
+    "DESCRIPTION_SIMILARITY": 0.1,
+    "MUSIC_SIMILARITY": 0.56
+  },
+  "not": "Measures editorial repetition across this channel's own productions. It is not designed to, and must not be used to, evade platform detection."
+}

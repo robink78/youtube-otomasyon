@@ -1,0 +1,117 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 7,
+  "baslik": "A Barge Knocked Out a Causeway and Cars Drove Into the Gap",
+  "kaynaklar": [
+    {
+      "ad": "queen-isabella-causeway-1.jpg",
+      "wikimedia": "Queen Isabella Causeway collapse.jpg"
+    },
+    {
+      "ad": "queen-isabella-causeway-2.jpg",
+      "wikimedia": "Queen Isabella Causeway.jpg"
+    },
+    {
+      "ad": "queen-isabella-causeway-3.jpg",
+      "wikimedia": "Entrance to South Padre Island.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "At night, a tow pushing barges hit a pier of a Texas causeway.",
+      "kaynak": "Footage/queen-isabella-causeway-1.jpg"
+    },
+    {
+      "metin": "Spans fell into the water, and eight people were killed.",
+      "kaynak": "Footage/queen-isabella-causeway-2.jpg"
+    },
+    {
+      "metin": "The tow had drifted out of the channel.",
+      "kaynak": "Footage/queen-isabella-causeway-3.jpg"
+    },
+    {
+      "metin": "The pier had no protection against a barge.",
+      "kaynak": "Footage/queen-isabella-causeway-1.jpg"
+    },
+    {
+      "metin": "In the dark, drivers couldn't see the gap.",
+      "kaynak": "Footage/queen-isabella-causeway-2.jpg"
+    },
+    {
+      "metin": "Several vehicles drove straight into it.",
+      "kaynak": "Footage/queen-isabella-causeway-3.jpg"
+    },
+    {
+      "metin": "Fishermen rescued survivors from the water.",
+      "kaynak": "Footage/queen-isabella-causeway-1.jpg"
+    },
+    {
+      "metin": "The causeway now has a warning system for missing spans.",
+      "kaynak": "Footage/queen-isabella-causeway-2.jpg"
+    }
+  ],
+  "aciklama": "Queen Isabella Causeway lost spans when a barge hit a pier. The cause: barge impact on an unprotected pier dropping spans.\n\n#shorts #engineering #bridges",
+  "etiketler": [
+    "Queen Isabella Causeway",
+    "2001",
+    "causeway",
+    "engineering failure"
+  ],
+  "hook": "Drivers couldn't see the gap",
+  "soru": "How should a bridge warn?",
+  "vaka": {
+    "kume": "bridge-failures",
+    "tip": "vaka",
+    "ad": "the Queen Isabella Causeway",
+    "kisa": "Queen Isabella Causeway",
+    "nesne": "Causeway",
+    "yil": 2001,
+    "sonuc": "lost spans when a barge hit a pier",
+    "tetik": "a tow drifting out of the channel at night",
+    "mekanizma": "barge impact on an unprotected pier dropping spans",
+    "sayi": "8 DIED",
+    "ders": "the causeway got a gap-detection warning system",
+    "zincir": [
+      "TOW LEAVES CHANNEL",
+      "BARGE HITS PIER",
+      "SPANS FALL",
+      "CARS DRIVE INTO GAP",
+      "WARNING SYSTEM ADDED"
+    ],
+    "zaman": [],
+    "yanilgi": "Most deaths happened after the collapse, as drivers who couldn't see the gap drove into it.",
+    "tartisma": "Nothing warned drivers of the missing section. How should a bridge warn traffic it's gone?",
+    "basliklar": [
+      "A Barge Knocked Out a Causeway and Cars Drove Into the Gap",
+      "Why the Queen Isabella Causeway Collapsed",
+      "The Gap Drivers Couldn't See"
+    ],
+    "kapak": [
+      "GAP IN THE ROAD",
+      "BARGE STRIKE"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Queen Isabella Causeway",
+        "url": "https://en.wikipedia.org/wiki/Queen_Isabella_Causeway"
+      },
+      {
+        "ad": "NTSB — ReportGeneratorFile.ashx?EventID=20001208X06497&AKey=1&RType=HTML&ITyp (cited by Wikipedia)",
+        "url": "https://app.ntsb.gov/pdfgenerator/ReportGeneratorFile.ashx?EventID=20001208X06497&AKey=1&RType=HTML&IType=LA"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-15",
+    "wiki": "Queen_Isabella_Causeway",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Queen Isabella Causeway collapse.jpg [Public domain]",
+      "Queen Isabella Causeway.jpg [CC BY 2.0]",
+      "Entrance to South Padre Island.jpg [Public domain]"
+    ]
+  }
+}

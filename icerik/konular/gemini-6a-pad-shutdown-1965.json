@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 9,
+  "baslik": "The Rocket Shut Down on the Pad and the Pilot Didn't Eject",
+  "kaynaklar": [
+    {
+      "ad": "gemini-6a-pad-shutdown-1.jpg",
+      "wikimedia": "Atlas-Agena 6 Launch.jpg"
+    },
+    {
+      "ad": "gemini-6a-pad-shutdown-2.jpg",
+      "wikimedia": "Schirra, Stafford and Gemini on Deck - GPN-2000-001412.jpg"
+    },
+    {
+      "ad": "gemini-6a-pad-shutdown-3.png",
+      "wikimedia": "Gemini 6A (GTA-6) crew.png"
+    },
+    {
+      "ad": "gemini-6a-pad-shutdown-4.jpg",
+      "wikimedia": "Gemini 6A Flown Silver-Colored Fliteline Medallion.jpg"
+    },
+    {
+      "ad": "gemini-6a-pad-shutdown-5.jpg",
+      "wikimedia": "Gemini 6 launch abort.jpg"
+    },
+    {
+      "ad": "gemini-6a-pad-shutdown-6.jpg",
+      "wikimedia": "Gemini 7 in orbit - GPN-2006-000035.jpg"
+    },
+    {
+      "ad": "gemini-6a-pad-shutdown-7.jpg",
+      "wikimedia": "Gemini VI Launch - GPN-2000-000612.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Gemini 6A's engines ignited, then suddenly shut down on the pad.",
+      "kaynak": "Footage/gemini-6a-pad-shutdown-1.jpg"
+    },
+    {
+      "metin": "The mission clock started, signalling lift-off, but the rocket hadn't moved.",
+      "kaynak": "Footage/gemini-6a-pad-shutdown-2.jpg"
+    },
+    {
+      "metin": "Rules said the crew should eject.",
+      "kaynak": "Footage/gemini-6a-pad-shutdown-3.png"
+    },
+    {
+      "metin": "Wally Schirra felt no movement and decided not to.",
+      "kaynak": "Footage/gemini-6a-pad-shutdown-4.jpg"
+    },
+    {
+      "metin": "An electrical plug had dropped out early.",
+      "kaynak": "Footage/gemini-6a-pad-shutdown-5.jpg"
+    },
+    {
+      "metin": "But thrust had already been decaying.",
+      "kaynak": "Footage/gemini-6a-pad-shutdown-6.jpg"
+    },
+    {
+      "metin": "A plastic dust cover had been left inside the engine.",
+      "kaynak": "Footage/gemini-6a-pad-shutdown-7.jpg"
+    },
+    {
+      "metin": "It had blocked the flow of oxidizer.",
+      "kaynak": "Footage/gemini-6a-pad-shutdown-1.jpg"
+    }
+  ],
+  "aciklama": "Gemini 6A had its engines shut down on the pad. The cause: a forgotten plastic dust cover blocking oxidizer flow in the gas generator.\n\n#shorts #engineering #spaceflight",
+  "etiketler": [
+    "Gemini 6A",
+    "1965",
+    "titan ii booster",
+    "engineering failure"
+  ],
+  "hook": "The engines stopped. He stayed",
+  "soru": "Courage or luck?",
+  "vaka": {
+    "kume": "spaceflight-disasters",
+    "tip": "vaka",
+    "ad": "Gemini 6A",
+    "kisa": "Gemini 6A",
+    "nesne": "Titan II booster",
+    "yil": 1965,
+    "sonuc": "had its engines shut down on the pad",
+    "tetik": "a plug that fell out early and a dust cover left inside the engine",
+    "mekanizma": "a forgotten plastic dust cover blocking oxidizer flow in the gas generator",
+    "sayi": "1.5 SECONDS",
+    "ders": "launch plugs were replaced and assembly checks tightened",
+    "zincir": [
+      "DUST COVER LEFT IN ENGINE",
+      "IGNITION",
+      "THRUST DECAYS",
+      "PLUG DROPS OUT",
+      "ENGINES SHUT DOWN"
+    ],
+    "zaman": [],
+    "yanilgi": "The shutdown wasn't just a loose plug. A dust cover had been left inside the engine months earlier.",
+    "tartisma": "The commander trusted his senses over the clock and didn't eject. Was it courage or luck?",
+    "basliklar": [
+      "The Rocket Shut Down on the Pad and the Pilot Didn't Eject",
+      "Why Gemini 6A Shut Down on the Pad",
+      "The Dust Cover Left Inside a Rocket"
+    ],
+    "kapak": [
+      "DON'T EJECT",
+      "1.5 SECONDS"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Gemini 6A",
+        "url": "https://en.wikipedia.org/wiki/Gemini_6A"
+      },
+      {
+        "ad": "NASA — 19790076749 1979076749 (cited by Wikipedia)",
+        "url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790076749_1979076749.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-20",
+    "wiki": "Gemini_6A",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "Atlas-Agena 6 Launch.jpg [Public domain]",
+      "Schirra, Stafford and Gemini on Deck - GPN-2000-001412.jpg [Public domain]",
+      "Gemini 6A (GTA-6) crew.png [Public domain]",
+      "Gemini 6A Flown Silver-Colored Fliteline Medallion.jpg [Public domain]",
+      "Gemini 6 launch abort.jpg [Public domain]",
+      "Gemini 7 in orbit - GPN-2006-000035.jpg [Public domain]",
+      "Gemini VI Launch - GPN-2000-000612.jpg [Public domain]"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "why-ships-sink",
+  "format": "short",
+  "olusturuldu": "2026-09-24T16:22:42.039Z",
+  "ekranHook": "When the sea always wins",
+  "mevcut": {
+    "puan": 65,
+    "pencereler": {
+      "0-5": "A ship floats on a knife edge between buoyancy and gravity. As long as",
+      "5-12": "it pushes away more water than it weighs, it stays up. But let water inside, and that balance flips",
+      "12-20": "in minutes. Water rushes to one side, the ship tilts, and more water pours in. This runaway tilt is called loss of",
+      "20-30": "stability. Watertight compartments are meant to stop it, but if they overflow... ...the flooding spreads from room to room until the ship rolls over. The ocean does not"
+    },
+    "bulgular": [
+      "0-5s: no event or result in the first sentence",
+      "5-12s: unexpected detail/contrast present",
+      "12-20s: no central mystery or problem is posed",
+      "on-screen hook is 5 words (readable in <1s)"
+    ],
+    "engelleyici": false
+  },
+  "oneri": {
+    "segmentler": [
+      {
+        "pencere": "0-5s",
+        "rol": "event/result",
+        "metin": "A ship floats on a knife edge between buoyancy and gravity."
+      },
+      {
+        "pencere": "5-12s",
+        "rol": "unexpected detail",
+        "metin": "It took only water entering the hull."
+      },
+      {
+        "pencere": "12-20s",
+        "rol": "central problem",
+        "metin": "So what actually happens inside?"
+      },
+      {
+        "pencere": "20-30s",
+        "rol": "viewer promise",
+        "metin": "The answer is loss of stability and the free surface effect — and it is why watertight subdivision and stability rules were rewritten after each loss."
+      }
+    ],
+    "metin": "A ship floats on a knife edge between buoyancy and gravity. It took only water entering the hull. So what actually happens inside? The answer is loss of stability and the free surface effect — and it is why watertight subdivision and stability rules were rewritten after each loss.",
+    "puan": 90
+  },
+  "not": "Suggestions are drafts built from the case file; narration stays editorial — never auto-replaced."
+}

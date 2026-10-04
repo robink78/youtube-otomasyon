@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "A Worn Hook on a Power Line Burned Down Paradise",
+  "kaynaklar": [
+    {
+      "ad": "camp-fire-paradise-1.jpg",
+      "wikimedia": "California National Guard (32035893148).jpg"
+    },
+    {
+      "ad": "camp-fire-paradise-2.jpg",
+      "wikimedia": "Camp Fire oli 2018312 Landsat.jpg"
+    },
+    {
+      "ad": "camp-fire-paradise-3.jpg",
+      "wikimedia": "President Donald J. Trump Travels to California (45931137101).jpg"
+    },
+    {
+      "ad": "camp-fire-paradise-4.jpg",
+      "wikimedia": "181116-Z-GJ033-0008.jpg"
+    },
+    {
+      "ad": "camp-fire-paradise-5.jpg",
+      "wikimedia": "Camp Fire 2018 (31041630557).jpg"
+    },
+    {
+      "ad": "camp-fire-paradise-6.jpg",
+      "wikimedia": "Camp Fire 2018 (32109888448).jpg"
+    },
+    {
+      "ad": "camp-fire-paradise-7.jpg",
+      "wikimedia": "Camp Fire, California (20181116-FS-LEICampFire-TH-002).jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "Early one morning, a wildfire ignited near Paradise, California.",
+      "kaynak": "Footage/camp-fire-paradise-1.jpg"
+    },
+    {
+      "metin": "Within hours the town was mostly destroyed, and eighty five people died.",
+      "kaynak": "Footage/camp-fire-paradise-2.jpg"
+    },
+    {
+      "metin": "Hardware on a power transmission line had failed.",
+      "kaynak": "Footage/camp-fire-paradise-3.jpg"
+    },
+    {
+      "metin": "The line was poorly maintained.",
+      "kaynak": "Footage/camp-fire-paradise-4.jpg"
+    },
+    {
+      "metin": "Strong winds drove the fire into town.",
+      "kaynak": "Footage/camp-fire-paradise-5.jpg"
+    },
+    {
+      "metin": "More than eighteen thousand structures were destroyed.",
+      "kaynak": "Footage/camp-fire-paradise-6.jpg"
+    },
+    {
+      "metin": "The utility pleaded guilty to eighty four counts of manslaughter.",
+      "kaynak": "Footage/camp-fire-paradise-7.jpg"
+    },
+    {
+      "metin": "The century-old line needed manual effort to switch off.",
+      "kaynak": "Footage/camp-fire-paradise-1.jpg"
+    }
+  ],
+  "aciklama": "Camp Fire destroyed the town of Paradise, California. The cause: a worn line component failing in strong winds and igniting dry vegetation.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "Camp Fire",
+    "2018",
+    "transmission line",
+    "engineering failure"
+  ],
+  "hook": "A power line started it",
+  "soru": "Should companies be charged?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the Camp Fire",
+    "kisa": "Camp Fire",
+    "nesne": "Transmission line",
+    "yil": 2018,
+    "sonuc": "destroyed the town of Paradise, California",
+    "tetik": "failed hardware on a poorly maintained transmission line",
+    "mekanizma": "a worn line component failing in strong winds and igniting dry vegetation",
+    "sayi": "85 DIED",
+    "ders": "PG&E pleaded guilty to manslaughter and filed for bankruptcy",
+    "zincir": [
+      "OLD HARDWARE ON LINE",
+      "POOR MAINTENANCE",
+      "STRONG WINDS",
+      "LINE FAILS, SPARKS",
+      "FIRE SWEEPS TOWNS"
+    ],
+    "zaman": [],
+    "yanilgi": "The fire didn't start from lightning. It began with failed hardware on a power line.",
+    "tartisma": "The utility pleaded guilty to 84 counts of manslaughter. Should companies face criminal charges?",
+    "basliklar": [
+      "A Worn Hook on a Power Line Burned Down Paradise",
+      "What Really Started the Camp Fire",
+      "The Power Line That Burned Paradise"
+    ],
+    "kapak": [
+      "POWER LINE",
+      "85 DIED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — Camp Fire (2018)",
+        "url": "https://en.wikipedia.org/wiki/Camp_Fire_(2018)"
+      },
+      {
+        "ad": "NIST — NIST.TN.2135 (cited by Wikipedia)",
+        "url": "https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2135.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-21",
+    "wiki": "Camp_Fire_(2018)",
+    "olusturuldu": "2026-09-30",
+    "gorselLisanslari": [
+      "California National Guard (32035893148).jpg [Public domain]",
+      "Camp Fire oli 2018312 Landsat.jpg [Public domain]",
+      "President Donald J. Trump Travels to California (45931137101).jpg [Public domain]",
+      "181116-Z-GJ033-0008.jpg [Public domain]",
+      "Camp Fire 2018 (31041630557).jpg [Public domain]",
+      "Camp Fire 2018 (32109888448).jpg [Public domain]",
+      "Camp Fire, California (20181116-FS-LEICampFire-TH-002).jpg [Public domain]"
+    ]
+  }
+}

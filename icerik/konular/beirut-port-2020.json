@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "Fertilizer Left in a Warehouse for Years Destroyed a Port",
+  "kaynaklar": [
+    {
+      "ad": "beirut-port-1.jpg",
+      "wikimedia": "Azadi Tower 2020 Beirut explosions.jpg"
+    },
+    {
+      "ad": "beirut-port-2.jpg",
+      "wikimedia": "C-17 is loaded at Al Udeid Air Base with medical supplies for Lebanon Aug 2020.jpg"
+    },
+    {
+      "ad": "beirut-port-3.jpg",
+      "wikimedia": "Damages after 2020 Beirut explosions 1.jpg"
+    },
+    {
+      "ad": "beirut-port-4.jpg",
+      "wikimedia": "USAR op weg naar Beiroet C-17 01.jpg"
+    },
+    {
+      "ad": "beirut-port-5.jpg",
+      "wikimedia": "Port of Beirut from the ISS.jpg"
+    },
+    {
+      "ad": "beirut-port-6.png",
+      "wikimedia": "Beirut-explosions-2020-0804-voa-anchal-vohra-apartment.png"
+    },
+    {
+      "ad": "beirut-port-7.jpg",
+      "wikimedia": "Damages after 2020 Beirut explosion 4.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "A massive explosion tore through the port of Beirut.",
+      "kaynak": "Footage/beirut-port-1.jpg"
+    },
+    {
+      "metin": "The blast devastated the city, and more than two hundred people were killed.",
+      "kaynak": "Footage/beirut-port-2.jpg"
+    },
+    {
+      "metin": "It began with a fire in a warehouse.",
+      "kaynak": "Footage/beirut-port-3.jpg"
+    },
+    {
+      "metin": "Inside were thousands of tonnes of ammonium nitrate.",
+      "kaynak": "Footage/beirut-port-4.jpg"
+    },
+    {
+      "metin": "The cargo had been seized and stored there for years.",
+      "kaynak": "Footage/beirut-port-5.jpg"
+    },
+    {
+      "metin": "Officials had sent warnings, but nobody moved it.",
+      "kaynak": "Footage/beirut-port-6.png"
+    },
+    {
+      "metin": "The fire heated the stockpile until it detonated.",
+      "kaynak": "Footage/beirut-port-7.jpg"
+    },
+    {
+      "metin": "Ports worldwide reviewed how they store hazardous materials.",
+      "kaynak": "Footage/beirut-port-1.jpg"
+    }
+  ],
+  "aciklama": "Beirut was destroyed by a massive explosion. The cause: fire heating a large, long-stored stockpile of ammonium nitrate until it detonated.\n\n#shorts #engineering #firesafety",
+  "etiketler": [
+    "Beirut",
+    "2020",
+    "warehouse",
+    "engineering failure"
+  ],
+  "hook": "It sat there for years",
+  "soru": "Why wasn't it moved?",
+  "vaka": {
+    "kume": "fire-and-explosions",
+    "tip": "vaka",
+    "ad": "the Port of Beirut",
+    "kisa": "Beirut",
+    "nesne": "Warehouse",
+    "yil": 2020,
+    "sonuc": "was destroyed by a massive explosion",
+    "tetik": "a fire in a warehouse storing ammonium nitrate",
+    "mekanizma": "fire heating a large, long-stored stockpile of ammonium nitrate until it detonated",
+    "sayi": "2,750 TONNES",
+    "ders": "ports worldwide reviewed hazardous material storage",
+    "zincir": [
+      "SEIZED CARGO STORED FOR YEARS",
+      "WARNINGS FILED AND IGNORED",
+      "FIRE BREAKS OUT",
+      "AMMONIUM NITRATE DETONATES",
+      "PORT AND CITY DEVASTATED"
+    ],
+    "zaman": [],
+    "yanilgi": "The ammonium nitrate wasn't a new shipment. It had sat in the warehouse for years despite repeated warnings.",
+    "tartisma": "Officials had written letters warning about the stockpile. Why did nobody move it?",
+    "basliklar": [
+      "Fertilizer Left in a Warehouse for Years Destroyed a Port",
+      "Why the Beirut Port Exploded",
+      "The Stockpile Left in a Warehouse for Years"
+    ],
+    "kapak": [
+      "LEFT FOR YEARS",
+      "2,750 TONNES"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2020 Beirut explosion",
+        "url": "https://en.wikipedia.org/wiki/2020_Beirut_explosion"
+      },
+      {
+        "ad": "Government source — PMC7426079 (cited by Wikipedia)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7426079"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-06",
+    "wiki": "2020_Beirut_explosion",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "Azadi Tower 2020 Beirut explosions.jpg [CC BY 4.0]",
+      "C-17 is loaded at Al Udeid Air Base with medical supplies for Lebanon Aug 2020.jpg [Public domain]",
+      "Damages after 2020 Beirut explosions 1.jpg [CC BY 4.0]",
+      "USAR op weg naar Beiroet C-17 01.jpg [CC0]",
+      "Port of Beirut from the ISS.jpg [Public domain]",
+      "Beirut-explosions-2020-0804-voa-anchal-vohra-apartment.png [Public domain]",
+      "Damages after 2020 Beirut explosion 4.jpg [CC BY 4.0]"
+    ]
+  }
+}

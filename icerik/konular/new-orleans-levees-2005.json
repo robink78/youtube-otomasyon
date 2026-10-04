@@ -1,0 +1,137 @@
+{
+  "kanal": "Failure Reconstructed",
+  "ses": "en-US-AndrewNeural",
+  "sesHizi": "+6%",
+  "altyaziFont": "Arial Black",
+  "oncelik": 10,
+  "baslik": "The Floodwalls That Failed Before the Water Reached the Top",
+  "kaynaklar": [
+    {
+      "ad": "new-orleans-levees-1.jpg",
+      "wikimedia": "17StCanalLakewardFromMetarieRd.jpg"
+    },
+    {
+      "ad": "new-orleans-levees-2.jpg",
+      "wikimedia": "New Orleans September 7 sandbag breach.jpg"
+    },
+    {
+      "ad": "new-orleans-levees-3.jpg",
+      "wikimedia": "FreretRedCrossLine.jpg"
+    },
+    {
+      "ad": "new-orleans-levees-4.jpg",
+      "wikimedia": "NOAA Katrina NOLA 17th Street breach Aug 31 2005.jpg"
+    },
+    {
+      "ad": "new-orleans-levees-5.jpg",
+      "wikimedia": "New Orleans London breach repair.jpg"
+    },
+    {
+      "ad": "new-orleans-levees-6.jpg",
+      "wikimedia": "New Orleans USACE-Blackhawk-A-09-04-05 0072.jpg"
+    },
+    {
+      "ad": "new-orleans-levees-7.jpg",
+      "wikimedia": "WiltonWarringtonNovByLondonBreech.jpg"
+    }
+  ],
+  "sahneler": [
+    {
+      "metin": "As Hurricane Katrina passed, the floodwalls of New Orleans broke.",
+      "kaynak": "Footage/new-orleans-levees-1.jpg"
+    },
+    {
+      "metin": "Within hours, most of the city was underwater.",
+      "kaynak": "Footage/new-orleans-levees-2.jpg"
+    },
+    {
+      "metin": "Many walls failed before water reached their tops.",
+      "kaynak": "Footage/new-orleans-levees-3.jpg"
+    },
+    {
+      "metin": "Surge pushed on the canal floodwalls.",
+      "kaynak": "Footage/new-orleans-levees-4.jpg"
+    },
+    {
+      "metin": "A gap opened behind the walls, letting water in underneath.",
+      "kaynak": "Footage/new-orleans-levees-5.jpg"
+    },
+    {
+      "metin": "The weak soil below gave way.",
+      "kaynak": "Footage/new-orleans-levees-6.jpg"
+    },
+    {
+      "metin": "The defences had been built piecemeal over decades.",
+      "kaynak": "Footage/new-orleans-levees-7.jpg"
+    },
+    {
+      "metin": "They were rebuilt afterward as a new flood protection system.",
+      "kaynak": "Footage/new-orleans-levees-1.jpg"
+    }
+  ],
+  "aciklama": "New Orleans levees failed and flooded most of the city. The cause: floodwall failures from soil and design weaknesses at water levels below their design height.\n\n#shorts #engineering #infrastructure",
+  "etiketler": [
+    "New Orleans levees",
+    "2005",
+    "floodwall",
+    "engineering failure"
+  ],
+  "hook": "They failed too early",
+  "soru": "Patchwork or system?",
+  "vaka": {
+    "kume": "infrastructure-failures",
+    "tip": "vaka",
+    "ad": "the New Orleans levees",
+    "kisa": "New Orleans levees",
+    "nesne": "Floodwall",
+    "yil": 2005,
+    "sonuc": "failed and flooded most of the city",
+    "tetik": "storm surge from Hurricane Katrina loading the canal floodwalls",
+    "mekanizma": "floodwall failures from soil and design weaknesses at water levels below their design height",
+    "sayi": "80% FLOODED",
+    "ders": "the flood defences were rebuilt as a new risk reduction system",
+    "zincir": [
+      "STORM SURGE FILLS CANALS",
+      "WATER PUSHES ON I-WALLS",
+      "GAP OPENS BEHIND WALL",
+      "SOIL BENEATH FAILS",
+      "CITY FLOODS"
+    ],
+    "zaman": [],
+    "yanilgi": "Many walls didn't fail because water went over them. They failed below their design height.",
+    "tartisma": "The system was built piecemeal over decades. Can a patchwork ever be a single safety system?",
+    "basliklar": [
+      "The Floodwalls That Failed Before the Water Reached the Top",
+      "Why New Orleans' Levees Failed",
+      "The Floodwalls That Broke Too Early"
+    ],
+    "kapak": [
+      "FAILED EARLY",
+      "80% FLOODED"
+    ],
+    "kaynakca": [
+      {
+        "ad": "Wikipedia — 2005 levee failures in Greater New Orleans",
+        "url": "https://en.wikipedia.org/wiki/2005_levee_failures_in_Greater_New_Orleans"
+      },
+      {
+        "ad": "US Army Corps of Engineers — TemporaryRoofing[1] (cited by Wikipedia)",
+        "url": "https://www.swd.usace.army.mil/Portals/42/docs/emergencymgmt/TemporaryRoofing%5B1%5D.pdf"
+      }
+    ]
+  },
+  "tohum": {
+    "batch": "batch-08",
+    "wiki": "2005_levee_failures_in_Greater_New_Orleans",
+    "olusturuldu": "2026-09-29",
+    "gorselLisanslari": [
+      "17StCanalLakewardFromMetarieRd.jpg [CC BY 2.5]",
+      "New Orleans September 7 sandbag breach.jpg [Public domain]",
+      "FreretRedCrossLine.jpg [CC BY 2.5]",
+      "NOAA Katrina NOLA 17th Street breach Aug 31 2005.jpg [Public domain]",
+      "New Orleans London breach repair.jpg [Public domain]",
+      "New Orleans USACE-Blackhawk-A-09-04-05 0072.jpg [Public domain]",
+      "WiltonWarringtonNovByLondonBreech.jpg [CC BY 3.0]"
+    ]
+  }
+}
